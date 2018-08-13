@@ -1,21 +1,21 @@
 Numer na żaglu,Imię i nazwisko sternika,Imię i nazwisko załoganta,Przynależność klubowa,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Race 7,Suma punktów:,Miejsce
-POL 9132,Jarosław Grabowski,Michał Olko,YK Stal Gdynia,1,5,2,3,2,2,2,12,1
-POL 9023,Przemek Zagórski,Piotr Juckiewicz,YK Stal Gdynia,5,4,1,4,1,5,1,16,2
-POL 9119,Tymon Sadowski,Łukasz Skrzycki,YK Stal Gdynia,4,2,3,9,5,1,5,20,3
-POL 8736,Sławomir Plichta,Andrzej Borowiak,ŻMKS Poznań,2,3,OCS,2,3,3,8,21,4
-POL 8909,Karol Milewski,Bartosz Milewski,Hermes Sailing,3,6,5,1,6,8,4,25,5
-POL 8802,Mateusz Jura,Bartosz Chroł,Rexona Sailing AZS SGH,7,1,4,5,4,7,DSQ,28,6
-POL 8217,Jakub Kręciwilk,Wojciech Denderski,PSK 505,9,8,7,15,7,4,6,35,7
-POL 8358,Jan Domański,Patryk Witkowski,Domański Sailing Team,OCS,9,8,6,10,11,3,47,8
-POL 8483,Mariusz Michalski,Piotr Duma,YK Stal Gdynia,14,12,6,7,8,6,11,50,9
-POL 8665,Marcin Panek,Przemysław Rzepecki,YK Stal Gdynia,8,7,9,8,9,13,10,51,10
-POL 8145,Jakub Kozanko,Michał Wdówka,niezrzeszony,16,14,12,11,13,10,13,73,11
-POL 8208,Piotr Rzepecki,Paweł Prus,YKP Warszawa,13,13,DNF,12,12,12,12,74,12
-POL 7942,Mieczysław Szwed,Zbigniew Doch,Centrum Żeglarskie Szczecin,11,16,11,10,16,14,14,76,13
-POL 8057,Piotr Rzezak,Aleksandra Mruk,JK Kamień Pomorski,6,11,DNE,DNE,11,9,9,77,14
-POL 7037,Łukasz Paszko,Adam Domżalski,niezrzeszony,12,10,13,13,14,15,15,77,15
-POL 8129,Jacek Baryła,Konrad Plewa,JK Kamień Pomorski,10,15,10,DNF,15,DNS,7,78,16
-POL 7237,Robert Zatorski,Kazimierz Pelasik,JK Kamień Pomorski,17,20,14,14,17,16,17,95,17
-DEN 8551,Andrzej Kubiak,Marek Milewski,Navigare,18,18,DNF,DNS,18,17,16,108,18
-POL 5350,Tomasz Grzybowski,Sławomir Bartkowski,niezrzeszony,OCS,19,15,DNS,19,18,18,110,19
-POL 8416,Marcin Matla,Grzegorz Tomaszewski,YK Stal Gdynia,15,17,DNF,DNS,DNS,DNS,DNS,116,20
+POL 9132,Jarosław Grabowski,Michał Olko,YK Stal Gdynia,1,5*,2,3,2,2,2,12,1
+POL 9023,Przemek Zagórski,Piotr Juckiewicz,YK Stal Gdynia,5*,4,1,4,1,5,1,16,2
+POL 9119,Tymon Sadowski,Łukasz Skrzycki,YK Stal Gdynia,4,2,3,9*,5,1,5,20,3
+POL 8736,Sławomir Plichta,Andrzej Borowiak,ŻMKS Poznań,2,3,OCS*,2,3,3,8,21,4
+POL 8909,Karol Milewski,Bartosz Milewski,Hermes Sailing,3,6,5,1,6,8*,4,25,5
+POL 8802,Mateusz Jura,Bartosz Chroł,Rexona Sailing AZS SGH,7,1,4,5,4,7,DSQ*,28,6
+POL 8217,Jakub Kręciwilk,Wojciech Denderski,PSK 505,9,8,7,15*,7,4,6,35,7
+POL 8358,Jan Domański,Patryk Witkowski,Domański Sailing Team,OCS*,9,8,6,10,11,3,47,8
+POL 8483,Mariusz Michalski,Piotr Duma,YK Stal Gdynia,14*,12,6,7,8,6,11,50,9
+POL 8665,Marcin Panek,Przemysław Rzepecki,YK Stal Gdynia,8,7,9,8,9,13*,10,51,10
+POL 8145,Jakub Kozanko,Michał Wdówka,niezrzeszony,16*,14,12,11,13,10,13,73,11
+POL 8208,Piotr Rzepecki,Paweł Prus,YKP Warszawa,13,13,DNF*,12,12,12,12,74,12
+POL 7942,Mieczysław Szwed,Zbigniew Doch,Centrum Żeglarskie Szczecin,11,16*,11,10,16,14,14,76,13
+POL 8057,Piotr Rzezak,Aleksandra Mruk,JK Kamień Pomorski,6,11,DNF*,DNF,11,9,9,77,14
+POL 7037,Łukasz Paszko,Adam Domżalski,niezrzeszony,12,10,13,13,14,15*,15,77,15
+POL 8129,Jacek Baryła,Konrad Plewa,JK Kamień Pomorski,10,15,10,DNF*,15,DNS,7,78,16
+POL 7237,Robert Zatorski,Kazimierz Pelasik,JK Kamień Pomorski,17,20*,14,14,17,16,17,95,17
+DEN 8551,Andrzej Kubiak,Marek Milewski,Navigare,18,18,DNF*,DNS,18,17,16,108,18
+POL 5350,Tomasz Grzybowski,Sławomir Bartkowski,niezrzeszony,OCS*,19,15,DNS,19,18,18,110,19
+POL 8416,Marcin Matla,Grzegorz Tomaszewski,YK Stal Gdynia,15,17,DNF*,DNS,DNS,DNS,DNS,116,20
