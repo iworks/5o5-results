@@ -1,0 +1,86 @@
+Country SailNo,HelmName,CrewName,Total,R1,R2,R3,R4,R5,R6,R7,Nett,Rank
+GER 9027,Wolfgang Hunger,Julien Kleiner,32,1,1,3,15.0*,4,2,6,17,1
+USA 9002,Mike Holt,Carl Smit,27,3,6,1,3,6,1,7.0*,20,2
+AUS 8946,Sandy Higgins,Paul Marsh,34,2,7,5,1,3,7,9.0*,25,3
+USA 8762,Howie Hamlin,Andy Zinn,36,4,10.0*,6,4,8,3,1,26,4
+GBR 9056,Luke Molloy,Jim Turner,126,14,11,2,5,5,86.0 DNF*,3,40,5
+USA 8878,Ted Conrads,Brian Haines,56,7,2,10,2,9,11,15.0*,41,6
+DEN 8964,Jan Saugmann,Morten Ramsbaek,135,86.0 DNF*,9,17,16,1,4,2,49,7
+GBR 9032,Ian Pinnell,Charles Dwyer,135,8,13,8,10,86.0 DNF*,5,5,49,8
+AUS 8626,Nathan Outteridge,Iain Jensen,82,9,3,7,8,11,22.0*,22,60,9
+USA 8714,Mike Martin,Geoff Ewenson,84,23.0*,4,22,9,10,8,8,61,10
+GER 8875,Jens Findel,Johannes Tellen,96,5,5,16,25,29.0*,6,10,67,11
+AUS 8922,Bill Cuneo,John Warlow,117,12,17,23,6,23,32.0*,4,85,12
+AUS 8794,Mick Babbage,James McAllister,175,86.0 DNF*,14,14,18,17,10,16,89,13
+AUS 9018,Robin Deussen,Jordan Spencer,182,11,18,18,86.0 DNF*,14,9,26,96,14
+GER 8992,Claas Lehmann,Leon Oehme,141,18,22,24,7,28.0*,23,19,113,15
+AUS 8957,Kevin Cameron,Josh Mortensen,155,33,16,37.0*,22,2,13,32.0 SCP,118,16
+GER 9040,Meike Schomaker,Holger Jess,164,20,45.0*,13,17,38,17,14,119,17
+USA 8681,Ryan Cox,Stu Park,153,30.0*,21,11,28,20,14,29,123,18
+AUS 8890,Malcolm Higgins,Andrew Chisholm,154,26,19,12,31.0*,25,24,17,123,19
+AUS 8853,Carter Jackson,Peter Holden,175,10,30,9,46,51.0*,16,13,124,20
+AUS 8840,Shane Guanaria,Leigh Riddell,213,25,8,19,14,18,86.0 DNF*,43,127,21
+GER 9028,Stefan Koechlin,Thomas Jung,230,19,26,28,21,19,86.0 DNF*,31,144,22
+USA 7875,Jeff Miller,Mike Smith,231,31,34,31,19,15,15,86.0 DNF*,145,23
+AUS 8817,Nick Davis,Michael Duffield,190,21,23,40.0*,27,31,20,28,150,24
+AUS 8877,Daniel Keys,Darryl Roos,189,38.0*,29,20,34,26,12,30,151,25
+AUS 9037,Nigel Lott,Bob Franks,204,28,20,49.0*,26,43,18,20,155,26
+CAN 8192,Philip Cragg,Reto Corfu,243,16,28,27,37,24,86.0 DNF*,25,157,27
+HKG 9055,Mark Thornburrow,Laurence Mead,216,56.0*,53,42,20,7,26,12,160,28
+GBR 9006,Terry Scutcher,Christian Diebitsch,248,24,25,4,12,86.0 DNF*,86.0 DNF,11,162,29
+GER 9054,Helen Fischer,Lars Dehne,221,32,48.0*,32,38,13,25,33,173,30
+AUS 8797,Peter Nicolas,Luke Payne,264,42,86.0 DNF*,25,30,39,21,21,178,31
+AUS 8894,Paul Mitchell,Sam Haines,234,43,31,33,50.0*,16,19,42,184,32
+AUS 8973,Brett Sharpe,Anthony Gaunt,270,22,86.0 DNF*,41,24,22,35,40,184,33
+USA 9009,Bruce Edwards,Mathias Kennerknecht,278,41,15,21,11,86.0 DNF*,86.0 DNF,18,192,34
+AUS 8783,Michael Thomson,Marcus Cooper,234,39,32,35,36,41.0*,28,23,193,35
+AUS 8801,Peter Chappell,Matt Smith,248,17,39,47.0*,44,40,27,34,201,36
+USA 8831,Paul Von Grey,Doug Hagan,304,29,40,30,58,37,86.0 DNF*,24,218,37
+AUS 8796,Nicholas Deussen,Jonno Bannister,306,34,36,36,43,34,86.0 DNF*,37,220,38
+AUS 8781,Earle Alexander,Ian Gregg,315,37,38,43,32,86.0 DNF*,38,41,229,39
+USA 8084,Aaron Ross,Rob Waterman,291,45,50.0*,39,40,33,37,47,241,40
+AUS 9036,Mike Quirk,Sam Heritage,335,6,12,26,33,86.0 DNF*,86.0 DNF,86.0 DNF,249,41
+AUS 8644,Brett Beyer,Darren Gilbert,350,15,35,29,13,86.0 DNF*,86.0 DNF,86.0 DNS,264,42
+AUS 8920,Jeff Robinson,Neville Kerr,350,48,24,46,54,47,45,86.0 DNS*,264,43
+AUS 8523,Ayden Menzies,Lachlan Hornsby,350,27,41,34,41,86.0 DNF*,86.0 DNF,35,264,44
+AUS 8638,Claus Ejlertsen,Mick Patrick,324,54.0*,49,44,48,50,30,49,270,45
+GER 9043,Nicola Birkner,Angela Stenger,357,51,64,38,49,35,34,86.0 DNF*,271,46
+AUS 8864,Ed Cox,Cameron McDonald,338,57,47,50,64.0*,21,47,52,274,47
+AUS 8893,Ryan Menzies,Joel Castle,361,36,44,54,42,56,43,86.0 DNF*,275,48
+GBR 8945,Roger Deane,Adam Kenney,369,35,57,52,65,45,29,86.0 DNF*,283,49
+AUS 8968,Matt Hansen,Anthony Dean,369,50,51,48,47,48,86.0 DNF*,39,283,50
+AUS 8738,Clint Bowen,Anthony King,349,53,55,45,62.0*,49,39,46,287,51
+SWE 8926,Ebbe Rosen,Olle Wenrup,375,55,86.0 DNF*,15,35,12,86.0 DNF,86.0 DNS,289,52
+GER 9026,Hasso Plattner,Peter Alarie,382,13,37,51,23,86.0 DNF*,86.0 DNF,86.0 DNF,296,53
+AUS 8637,Sam Cronin,Kevin Whitbread,360,61,62.0*,56,57,30,46,48,298,54
+CAN 8970,Bob Tennant,Rich Mundel,384,86.0 DNF*,42,86.0 DNF,60,36,36,38,298,55
+FRA 9010,Xavier Broise,Gilles Carvallo,385,40,43,59,39,86.0 DNF*,86.0 DNF,32,299,56
+AUS 8185,Nathan Rosenberg,Reeve Dunne,377,58,59,62.0*,52,42,48,56,315,57
+FRA 9050,Herve Dekegariou,Bernadette Dekegariou,406,63,63,86.0 DNC*,73,52,33,36,320,58
+FRA 8683,Antoine Lafortune,Geraud Lafortune,409,65,86.0 DNF*,67,56,32,53,50,323,59
+GER 8777,Stefan Schollmeyer,Frisco Sanguino,413,52,54,57,51,27,86.0 DNF*,86.0 DNF,327,60
+USA 8904,Hubert Guy,Xavier deTappe,418,46,56,53,45,46,86.0 DNF*,86.0 DNS,332,61
+AUS 6819,Ian Taylor,Robin Bath,429,86.0 DNF*,86.0 DNF,60,59,53,40,45,343,62
+AUS 9022,Ian Burford,Dave Christie,432,86.0 DNS*,86.0 DNF,86.0 DNS,55,44,31,44,346,63
+AUS 8739,John McLean,Dennis Winstanley,431,59,71,65,78.0*,55,52,51,353,64
+AUS 8639,Grahame Tindall,David Johnson,451,86.0 DNF*,69,64,70,58,50,54,365,65
+AUS 8173,Tom Brewer,Lindsay Whitton,454,70,61,66,61,59,51,86.0 DNF*,368,66
+AUS 8395,Tim Jeans,Tom Connell,462,73,67,86.0 DNS*,76,61,41,58,376,67
+AUS 8221,Luke Rhodes,Andrew McCole,466,64,72,70,68,62,44,86.0 DNF*,380,68
+AUS 8498,Jonathon Ross,Ian Scholes,471,69,86.0 DNF*,86.0 DNS,72,54,49,55,385,69
+USA 8792,Carol Buchan,Carl Buchan,474,44,33,86.0 DNF*,53,86.0 DNF,86.0 DNF,86.0 DNF,388,70
+AUS 8628,Peter Croft,Gary Rushton,478,72,58,86.0 DNF*,74,60,42,86.0 DNS,392,71
+DEN 8958,Nikolaj Buhl,Henrik Buhl,486,86.0 DNF*,27,86.0 DNS,29,86.0 DNF,86.0 DNF,86.0 DNF,400,72
+AUS 8710,Brett Bowden,Bradley Greenrod,489,86.0 DNF*,86.0 DNF,55,66,57,86.0 DNF,53,403,73
+AUS 8784,Gilbert Ford,James Ford,495,66,60,69,71,86.0 DNF*,86.0 DNF,57,409,74
+AUS 8891,Sarah Withall,Robert Gilchrist,507,67,65,61,79,63,86.0 DNF*,86.0 DNF,421,75
+AUS 8809,Richie Gallimore,Bryce Penfold,523,47,46,86.0 DNC*,86.0 DNC,86.0 DNF,86.0 DNF,86.0 DNS,437,76
+AUS 8759,Steve McConaghy,Nick Johnstone,531,49,52,86.0 DNC*,86.0 DNC,86.0 DNF,86.0 DNF,86.0 DNS,445,77
+GER 9000,Enno Wilts,Klaus Heeschen,537,60,86.0 DNF*,58,75,86.0 DNF,86.0 DNF,86.0 DNS,451,78
+AUS 8886,John Paterson,Paul Greenwood,538,86.0 DNF*,68,63,63,86.0 DNF,86.0 DNF,86.0 DNF,452,79
+AUS 8524,Richard McCulloch,Glen Stewart,543,62,86.0 DNF*,68,69,86.0 DNF,86.0 DNF,86.0 DNS,457,80
+USA 8554,AJ Crane,David Parker,545,68,66,86.0 DNS*,67,86.0 DNF,86.0 DNF,86.0 DNF,459,81
+USA 8960,Bruce Vandeventer,Scott Weiler,565,74,70,86.0 DNS*,77,86.0 DNF,86.0 DNF,86.0 DNS,479,82
+GBR 8867,Patrick McGale,Chris Pearson,587,71,86.0 DNF*,86.0 DNC,86.0 DNC,86.0 DNF,86.0 DNF,86.0 DNS,501,83
+USA 7206,Christian Pittack,Annie Fitzpatrick,591,75,86.0 DNF*,86.0 DNC,86.0 DNC,86.0 DNF,86.0 DNF,86.0 DNS,505,84
+AUS 8038,Adrian Kiely,Darren Cooney,602,86.0 DNS*,86.0 DNF,86.0 DNC,86.0 DNC,86.0 DNF,86.0 DNF,86.0 DNS,516,85
