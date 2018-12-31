@@ -1,4 +1,5 @@
-# Wyniki regat klasy 5o5
+# Results of International 5o5 regatta
 
-Repozytorium zawiera wyniki regat klasy 5o5.
+The repository contains regata results of International 5o5 class.
+Fill free to create PR if you can fill something or add something.
 
