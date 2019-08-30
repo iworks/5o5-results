@@ -1,19 +1,19 @@
-POL SailNo,HelmName,CrewName,R1,R2,R3,R4,R5,R6,R7,Nett,Rank
-POL 9119,Paweł Nawrocki,Bartosz Chroł,5.0*,1.0,2.0,1.0,4.0,1.0,2.0,11.0,1
-POL 9170,Karol Milewski,Jan Siekierzyński,1.0,2.0,3.0,5.0*,2.0,3.0,1.0,12.0,2
-POL 9020,Tomasz Brzozowski,Paweł Choroba,4.0*,3.0,1.0,3.0,3.0,2.0,3.0,15.0,3
-POL 8416,Michał Strusiński,Stefan Romanik,2.0,7.0,4.0,19.0 OCS*,1.0,5.0,4.0,23.0,4
-POL 8736,Adam Kuczyński,Andrzej Borowiak,3.0,6.0*,6.0,2.0,5.0,4.0,5.0,25.0,5
-POL 8483,Mariusz Michalski,Piotr Duma,10.0,5.0,7.0,19.0 DNF*,6.0,6.0,7.0,41.0,6
-POL 8665,Marcin Panek,Tomasz Micewicz,9.0*,8.0,9.0,8.0,7.0,9.0,8.0,49.0,7
-POL 8769,Michał Ruciński,Patryk Płotka,8.0,13.0*,12.0,7.0,12.0,7.0,6.0,52.0,8
-POL 8802,Dominik Ostrowski,Agnieszka Marach,14.0*,10.0,10.0,9.0,9.0,8.0,9.0,55.0,9
-POL 8812,Sławomir Plichta,Paweł Prus,6.0,4.0,8.0,4.0,19.0 DNF*,19.0 DNF,19.0 DNS,60.0,10
-POL 8212,Anna Jabłońska,Andrzej Zdrosek,11.0,9.0,15.0,11.0,8.0,19.0 DNF*,10.0,64.0,11
-POL 8145,Paweł Kluczyński,Dominik Krawiec,7.0,15.0,11.0,19.0 DNF*,10.0,19.0 DNF,11.0,73.0,12
-POL 8493,Mieczysław Szwed,Mateusz Grużewski,15.0,14.0,5.0,6.0,19.0 DNF*,19.0 DNF,19.0 DNS,78.0,13
-POL 8286,Paweł Rzepecki,Cezary Czajkowski,13.0,12.0,14.0,19.0 DNF*,11.0,19.0 DNF,12.0,81.0,14
-POL 8906,Tomasz Polikowski,Adam Nasmowicz,12.0,11.0,13.0,10.0,19.0 DNF*,19.0 DNF,19.0 DNS,84.0,15
-POL 8463,Jacek Ludwiczak,Grzegorz Szreder,16.0,19.0 DNF*,19.0 DNS,19.0 DNS,13.0,10.0,19.0 DNS,96.0,16
-POL 8770,Jakub Gąsiorowski,Karolina Gąsiorowska,19.0 DNS*,16.0,16.0,12.0,19.0 DNF,19.0 DNF,19.0 DNS,101.0,17
-POL 8359,Zbisław Laska,Jakub Medura,19.0 DNF*,19.0 RET,19.0 DNS,19.0 DNS,19.0 DNF,19.0 DNF,19.0 DNS,114.0,18
+POL SailNo,HelmName,CrewName,,R1,R2,R3,R4,R5,R6,R7,Nett,Rank
+POL 9119,Paweł Nawrocki,Bartosz Chroł,,5.0*,1.0,2.0,1.0,4.0,1.0,2.0,11.0,1
+POL 9170,Karol Milewski,Jan Siekierzyński,,1.0,2.0,3.0,5.0*,2.0,3.0,1.0,12.0,2
+POL 9020,Tomasz Brzozowski,Paweł Choroba,,4.0*,3.0,1.0,3.0,3.0,2.0,3.0,15.0,3
+POL 8416,Michał Strusiński,Stefan Romanik,,2.0,7.0,4.0,19.0 OCS*,1.0,5.0,4.0,23.0,4
+POL 8736,Adam Kuczyński,Andrzej Borowiak,,3.0,6.0*,6.0,2.0,5.0,4.0,5.0,25.0,5
+POL 8483,Mariusz Michalski,Piotr Duma,,10.0,5.0,7.0,19.0 DNF*,6.0,6.0,7.0,41.0,6
+POL 8665,Marcin Panek,Tomasz Micewicz,,9.0*,8.0,9.0,8.0,7.0,9.0,8.0,49.0,7
+POL 8769,Michał Ruciński,Patryk Płotka,,8.0,13.0*,12.0,7.0,12.0,7.0,6.0,52.0,8
+POL 8802,Dominik Ostrowski,Agnieszka Marach,,14.0*,10.0,10.0,9.0,9.0,8.0,9.0,55.0,9
+POL 8812,Sławomir Plichta,Paweł Prus,,6.0,4.0,8.0,4.0,19.0 DNF*,19.0 DNF,19.0 DNS,60.0,10
+POL 8212,Anna Jabłońska,Andrzej Zdrosek,,11.0,9.0,15.0,11.0,8.0,19.0 DNF*,10.0,64.0,11
+POL 8145,Paweł Kluczyński,Dominik Krawiec,,7.0,15.0,11.0,19.0 DNF*,10.0,19.0 DNF,11.0,73.0,12
+POL 8493,Mieczysław Szwed,Mateusz Grużewski,,15.0,14.0,5.0,6.0,19.0 DNF*,19.0 DNF,19.0 DNS,78.0,13
+POL 8286,Paweł Rzepecki,Cezary Czajkowski,,13.0,12.0,14.0,19.0 DNF*,11.0,19.0 DNF,12.0,81.0,14
+POL 8906,Tomasz Polikowski,Adam Nasmowicz,,12.0,11.0,13.0,10.0,19.0 DNF*,19.0 DNF,19.0 DNS,84.0,15
+POL 8463,Jacek Ludwiczak,Grzegorz Szreder,,16.0,19.0 DNF*,19.0 DNS,19.0 DNS,13.0,10.0,19.0 DNS,96.0,16
+POL 8770,Jakub Gąsiorowski,Karolina Gąsiorowska,,19.0 DNS*,16.0,16.0,12.0,19.0 DNF,19.0 DNF,19.0 DNS,101.0,17
+POL 8359,Zbisław Lasek,Jakub Meduna,,19.0 DNF*,19.0 RET,19.0 DNS,19.0 DNS,19.0 DNF,19.0 DNF,19.0 DNS,114.0,18
