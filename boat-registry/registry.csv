@@ -23,7 +23,7 @@ Sail No,Year Built,Builder,Description,First Owner,Subsequent Owners,Last Record
 157,,,,Fred Rotz FL,,,,FL,USA,-
 158,,,,Steve Wall TX,,,,TX,USA,-
 159,,,,John Talmadge NY,,,,NY,USA,-
-178,1955,Fairey Marine,,Tom & Fred Harris,,Eric Theiss,,,USA,-
+178,1955,Fairey Marine,,Tom Harris/Fred Harris,,Eric Theiss,,,USA,-
 219,,,“Pussy Galore”,,,Richard Lee ''71,,,GBR,-
 250,,,“Little Angeline”,,,A. H. Simmonds '67,,,GBR,-
 285,,,“Trio”,,,J. C. Bowles '71,,,GBR,-
@@ -102,7 +102,7 @@ Sail No,Year Built,Builder,Description,First Owner,Subsequent Owners,Last Record
 1047,,,,George Lamperti,USA,,,CT,USA,-
 1059,,,plywood,John Bagshaw,B. Prick,B. Snowden,,SA,AUS,-
 1060,,,plywood,Donald Bretherton,,,,VIC,AUS,-
-1061,,,plywood,P. & C. Mumford,,,,SA,AUS,-
+1061,,,plywood,P. Mumford/C. Mumford,,,,SA,AUS,-
 1062,,,,Peter A. Knorr,,,,MI,USA,-
 1063,,,,Charles L. Collins,,,,NY,USA,-
 1064,,,,James A. Wielding,,,,TX,USA,-
@@ -112,7 +112,7 @@ Sail No,Year Built,Builder,Description,First Owner,Subsequent Owners,Last Record
 1076,,Binks,plywood,P. McArlde,P. Markus,,,SA,AUS,-
 1077,,Binks,plywood,Keith McCoy,C. Morgan,,Broken Hill(!),NSW,AUS,-
 1078,,Binks,plywood,Donald Thorpe,D. Lemon,,,SA,AUS,-
-1079,,Binks,plywood,Fred Neill,AUS,destroyed,,SA,AUS,-
+1079,,Binks,plywood,Fred Neill,,destroyed,,SA,AUS,-
 1080,,Binks,plywood,Arthur Shanks,R. Warren,,,ACT,AUS,-
 1081,,Binks,plywood,J. Parrington,,T. O'Neil,,ACT,AUS,-
 1089,,,,Brian Kohn,,,,CA,USA,-
@@ -132,7 +132,7 @@ Sail No,Year Built,Builder,Description,First Owner,Subsequent Owners,Last Record
 1153,,,,Tucker Arnold,,,,CA,USA,-
 1168,,,,Richard Johnson,,,,CA,USA,-
 1179,,,“Ophelia”,,,Paul Gaunce '71 GBR,,,GBR,-
-1184,1962,Lanaverre,Frank & Susan Hester,,,,"Fleet 3, Mission Bay YC",San Diego,USA,-
+1184,1962,Lanaverre,Frank Hester/Susan Hester,,,,"Fleet 3, Mission Bay YC",San Diego,USA,-
 1185,,,Ernest J. Dubeser MA,,,,,MA,USA,-
 1191,,,“Piquette”,,,E. S. Baillie '71,,,GBR,-
 1202,,Mouldcraft,plywood,D. Laidlaw,,,,SA,AUS,-
@@ -172,7 +172,7 @@ Sail No,Year Built,Builder,Description,First Owner,Subsequent Owners,Last Record
 1405,,,,Joseph C. Cressy,,,,MA,USA,-
 1406,,,,Malcolm Perkins,,,,MA,USA,-
 1407,,,,Tabor Academy,,,,MA,USA,-
-1408,,,,Robert O'Connor,Jon Hager; Charlie McKinley '99,Les & Bob Green (2001),,MA,USA,-
+1408,,,,Robert O'Connor,Jon Hager/Charlie McKinley '99,Les Green/Bob Green (2001),,MA,USA,-
 1411,,,,David Greunbaum,,,,NY,USA,-
 1426,,,,Joseph C. Cressy,,,,MA,USA,-
 1432,,home-built,"Glass: “Fiddle De Dee”, refurbished '03",J. Parrington,I. Robertson,Mike & Patrick O'Reilly '03,,SA,AUS,-
@@ -469,12 +469,12 @@ Sail No,Year Built,Builder,Description,First Owner,Subsequent Owners,Last Record
 2685,,,,G. A. Laming,,,,,GBR,-
 2707,,,,Herb Turner,Phil Arnold,,,CA,USA,-
 2708,,,,George S. Pitts,Michael E. Chubrick,,,ME,USA,-
-2709,,,,Kenneth Droitcour,USA,,,RI,USA,-
-2710,,,,Manfred Kahn,USA,,,MA,USA,-
-2712,,,,Skip Schaeffer,USA,,,MA,USA,-
+2709,,,,Kenneth Droitcour USA,,,,RI,USA,-
+2710,,,,Manfred Kahn USA,,,,MA,USA,-
+2712,,,,Skip Schaeffer USA,,,,MA,USA,-
 2713,,,,George Coy,Jack Hay,,,NY,USA,-
 2719,,,,Peter Arnell,M. Phipps,,,,GBR,-
-2727,,,“Hellhound”,I. Coley,GBR,,,,GBR,-
+2727,,,“Hellhound”,I. Coley GBR,,,,,GBR,-
 2728,,Schnieder,,John Moss,,Bob Leriche,,,CAN,-
 2732,,Parker,,Torgny Nordström,,,,,SWE,-
 2734,,,“Mrs. Frequently”,Peter Holt,,,,,GBR,-
