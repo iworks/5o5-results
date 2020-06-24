@@ -266,10 +266,6 @@ if ( ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) {
 					 */
 					$persons = preg_split( '/[\&\/]/', $persons );
 					if ( 1 < sizeof( $persons ) ) {
-						echo PHP_EOL;
-						echo $post_ID,PHP_EOL;
-						print_r( $persons );
-						echo PHP_EOL;
 						$users_ids = array();
 						foreach ( $persons as $name ) {
 							$name = trim( $name );
@@ -283,7 +279,6 @@ if ( ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) {
 							}
 						}
 						$o = add_more_owners( $users_ids, $date_from, $type );
-						print_r( $o );
 						if ( ! empty( $o ) ) {
 							$owners[] = $o;
 						}
@@ -297,8 +292,8 @@ if ( ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) {
 							if ( is_object( $person ) ) {
 								add_post_meta( $post_ID, $owners_index_field_name, $person->ID );
 								$owners[] = person( $name, $person, $date_from, $type );
-							} else {
-								add_organization( $name, $person, $date_from, $type );
+                            } else {
+								$owners[] = add_organization( $name, $person, $date_from, $type );
 							}
 						}
 					}

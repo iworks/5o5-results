@@ -1,18 +1,18 @@
 <?php
 
-function get_person_by_name( $post_title ) {
+function get_person_by_name( $name ) {
 	global $persons, $person_post_type_name;
-	$post_title = person_clear_name( $post_title );
+	$post_title = person_clear_name( $name );
 	if ( isset( $persons[ $post_title ] ) ) {
 		return $persons[ $post_title ];
 	}
 	$is_person = check_is_person( $post_title );
 	if ( ! $is_person ) {
-		return $post_title;
+		return $name;
 	}
 	if ( empty( $post_title ) ) {
 		return $post_title;
-	}
+    }
 	$person = get_page_by_title( $post_title, OBJECT, $person_post_type_name );
 	if ( empty( $person ) ) {
 		$args                   = array(
@@ -135,10 +135,11 @@ function add_organization( $raw, $person, $date_from = '', $order = false ) {
 
 
 function check_is_person( $data ) {
-	if ( 8 > strlen( $data ) ) {
+	if ( 7 > strlen( $data ) ) {
 		return false;
 	}
-	if ( ! preg_match( '/ /', $data ) ) {
+    if ( ! preg_match( '/ /', $data ) ) {
+        echo 'no-space: ',$data,PHP_EOL;
 		return false;
 	}
 	switch ( $data ) {
