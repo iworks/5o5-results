@@ -242,32 +242,65 @@ if ( ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) {
 				if ( empty( $data[ $index ] ) ) {
 					continue;
 				}
-				$is_person = check_is_person( $data[ $index ] );
-
-
-
-				foreach ( preg_split( '/[;\/\t]/', $data[ $index ] ) as $person_name ) {
-
-					$person_name = trim( $person_name );
-					$person      = get_person_by_name( $person_name );
-					if ( is_object( $person ) ) {
-						add_post_meta( $post_ID, $owners_index_field_name, $person->ID );
-						$date_from = null;
-						$type      = null;
-						switch ( $index ) {
-							case 4:
-									$date_from = 0 < intval( $data[1] ) ? intval( $data[1] ) . '-01-01' : '';
-									$type      = 'first';
-								break;
-							case 6:
-								$type = 'current';
-								break;
+				foreach ( preg_split( '/[;\t\,]/', $data[ $index ] ) as $persons ) {
+					$persons = trim( $persons );
+					if ( empty( $persons ) ) {
+						continue;
+					}
+					/**
+					 * set info
+					 */
+					$date_from = null;
+					$type      = null;
+					switch ( $index ) {
+						case 4:
+							$date_from = 0 < intval( $data[1] ) ? intval( $data[1] ) . '-01-01' : '';
+							$type      = 'first';
+							break;
+						case 6:
+							$type = 'current';
+							break;
+					}
+					/**
+					 * check is more than one
+					 */
+					$persons = preg_split( '/[\&\/]/', $persons );
+					if ( 1 < sizeof( $persons ) ) {
+						echo PHP_EOL;
+						echo $post_ID,PHP_EOL;
+						print_r( $persons );
+						echo PHP_EOL;
+						$users_ids = array();
+						foreach ( $persons as $name ) {
+							$name = trim( $name );
+							if ( empty( $name ) ) {
+								continue;
+							}
+							$person = get_person_by_name( $name );
+							if ( is_object( $person ) ) {
+								add_post_meta( $post_ID, $owners_index_field_name, $person->ID );
+								$users_ids[] = $person->ID;
+							}
 						}
-						$owners[] = person( $person_name, $person, $date_from, $type );
+						$o = add_more_owners( $users_ids, $date_from, $type );
+						print_r( $o );
+						if ( ! empty( $o ) ) {
+							$owners[] = $o;
+						}
 					} else {
-						echo $index . ' : ' . var_dump( $data[ $index ] );
-						print_r( $data );
-						print_r( $person );
+						foreach ( $persons as $name ) {
+							$name = trim( $name );
+							if ( empty( $name ) ) {
+								continue;
+							}
+							$person = get_person_by_name( $name );
+							if ( is_object( $person ) ) {
+								add_post_meta( $post_ID, $owners_index_field_name, $person->ID );
+								$owners[] = person( $name, $person, $date_from, $type );
+							} else {
+								add_organization( $name, $person, $date_from, $type );
+							}
+						}
 					}
 				}
 			}
@@ -287,8 +320,6 @@ if ( ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) {
 	);
 
 	$update_terms = get_terms( $get_terms_args );
-	print_r( $update_terms );
-
 	wp_update_term_count_now( $update_terms, $taxonomy_name_manufacturer );
 
 	fclose( $handle );

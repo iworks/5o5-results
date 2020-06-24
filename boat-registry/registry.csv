@@ -106,18 +106,18 @@ Sail No,Year Built,Builder,Description,First Owner,Subsequent Owners,Last Record
 1062,,,,Peter A. Knorr,,,,MI,USA,-
 1063,,,,Charles L. Collins,,,,NY,USA,-
 1064,,,,James A. Wielding,,,,TX,USA,-
-1065,,,,Mrs. Scott Stewart,,,,TX,USA,-
+1065,,,,Scott Stewart,,,,TX,USA,-
 1074,,Binks,plywood,R. Lanyon,,,,SA,AUS,-
 1075,,Binks,plywood,James Hardy,I. Gray,,,SA,AUS,-
 1076,,Binks,plywood,P. McArlde,P. Markus,,,SA,AUS,-
 1077,,Binks,plywood,Keith McCoy,C. Morgan,,Broken Hill(!),NSW,AUS,-
 1078,,Binks,plywood,Donald Thorpe,D. Lemon,,,SA,AUS,-
-1079,,Binks,plywood,Fred Neill,,destroyed,,SA,AUS,-
+1079,,Binks,plywood;destroyed,Fred Neill,,,,SA,AUS,-
 1080,,Binks,plywood,Arthur Shanks,R. Warren,,,ACT,AUS,-
 1081,,Binks,plywood,J.B. Parrington,,T. O'Neil,,ACT,AUS,-
 1089,,,,Brian Kohn,,,,CA,USA,-
 1090,,Fairey Marine,,,, '07,,,FRA,-
-1092,,,,Patrick Garth,David Scheer '02,Eric  & Rex ,CA,USA,USA,-
+1092,,,,Patrick Garth,David Scheer '02,Eric & Rex ,CA,USA,USA,-
 1095,,,@Nordlight@,,,P. F. Gibson '71,,,GBR,-
 1099,,,,D. L. Bainbridge,,,,CT,USA,-
 1110,,,,Alan McCollough,,,,VA,USA,-
@@ -151,14 +151,14 @@ Sail No,Year Built,Builder,Description,First Owner,Subsequent Owners,Last Record
 1269,,Lanaverre,,Christian de Rouffignac,,,,,FRA,-
 1280,,,,Robert Waters NY,,,,NY,USA,-
 1296,,,,Tom O'Brien CA,,,,CA,USA,-
-1305,1961,Parker,"@Freebee@: sailed till '65, then stored in garage loft until '01. I acquired the boat from the man who cleared the house for a bottle of scotch in '02. It came with all the original equipment including sails & wooden mast. I am now sailing the boat every weekend. Apart from some new string & a few modernised fittings the boat works as it was designed to & will be getting some new varnish over the winter.",Prof Cable & Dr Peter Jones,,Stephen Spencer (2002),,,GBR,-
+1305,1961,Parker,"@Freebee@: sailed till '65, then stored in garage loft until '01. I acquired the boat from the man who cleared the house for a bottle of scotch in '02. It came with all the original equipment including sails & wooden mast. I am now sailing the boat every weekend. Apart from some new string & a few modernised fittings the boat works as it was designed to & will be getting some new varnish over the winter.",Prof Cable / Dr Peter Jones,,Stephen Spencer (2002),,,GBR,-
 1308,,,glass,P. Shaw,J. Verco,D. Birrell,,,AUS,-
 1316,,,@Yandy III@,,,Michael Agrell '71,,,GBR,-
 1329,,Parker/Nab,"Nab GRP hull, balsawood slats running form CB box aft. Plywood deck & tanks, white hull. First Parker imported to the west coast",Ken Bradley,,Bill Collins,,CA,USA,-
 1332,,,,Stanley Youth,,,,CT,USA,-
 1336,,,,,,C. M. Lindsey '71,,,GBR,-
 1337,,,,Fred D. Fleming,,,,TX,USA,-
-1339,,Parker,@Infamous Rat@: the model for the Moore molds,Mr. Pollack,Bob Simpkins,Bill Simpkins,,CA,USA,-
+1339,,Parker,@Infamous Rat@: the model for the Moore molds,Pollack,Bob Simpkins,Bill Simpkins,,CA,USA,-
 1349,,,,David Grace,Holmbach Quillet,,,NY,USA,-
 1356,,,,Paul McGeachie,,,,,CAN,-
 1370,,,,John DeMeter,,,,CA,USA,-
@@ -167,7 +167,7 @@ Sail No,Year Built,Builder,Description,First Owner,Subsequent Owners,Last Record
 1380,,,@Reprise@,,,M. J. Steeley '67,,,GBR,-
 1390,,,@Havoc@,,,G. Coleman '71,,,GBR,-
 1392,,,,Joseph Fernandez,Bill Ingram,,,CA,USA,-
-1396,,,,Mr. Horvath,,,,CT,USA,-
+1396,,,,Horvath,,,,CT,USA,-
 1403,,,,Steve Tobin,,,,CA,USA,-
 1405,,,,Joseph C. Cressy,,,,MA,USA,-
 1406,,,,Malcolm Perkins,,,,MA,USA,-
@@ -175,7 +175,7 @@ Sail No,Year Built,Builder,Description,First Owner,Subsequent Owners,Last Record
 1408,,,,Robert O'Connor,Jon Hager/Charlie McKinley '99,Les Green/Bob Green (2001),,MA,USA,-
 1411,,,,David Greunbaum,,,,NY,USA,-
 1426,,,,Joseph C. Cressy,,,,MA,USA,-
-1432,,home-built,"Glass: @Fiddle De Dee@, refurbished '03",J.B. Parrington,I. Robertson,Mike & Patrick O'Reilly '03,,SA,AUS,-
+1432,,home-built,"Glass: @Fiddle De Dee@, refurbished '03",J.B. Parrington,I. Robertson,Mike O'Reilly / Patrick O'Reilly '03,,SA,AUS,-
 1435,,,,Philip E. Sharpe,,,,WA,USA,-
 1437,,,@Yogi@,,,Patrick J. Snodin '67,,,GBR,-
 1439,,Parker,@The Other One@,Tony McNicholl,,,Holyhead,North Wales,GBR,-
@@ -192,7 +192,7 @@ Sail No,Year Built,Builder,Description,First Owner,Subsequent Owners,Last Record
 1496,,,,J. J. Mitchell,,,,,GBR,-
 1497,,,@Oriana II@,Jordan Aspin,,,,,GBR,-
 1504,,home-built,plywood,H. Wunderlich,,,,VIC,AUS,-
-1505,,Binks,glass,St. Vincents Gulf 505 Association AUS,,sold to France,,,FRA,-
+1505,,Binks,glass,St. Vincents Gulf 505 Association AUS,,,,,FRA,-
 1506,,Binks,glass,F. Barnes,,,,,AUS,-
 1508,,home-build,"w/ wooden tanks, sailable condition",R.J. Simonds,,,,,Seattle,WA,USA,-
 1511,,,,Max A. Oro,,,,HI,USA,-
@@ -225,7 +225,7 @@ Sail No,Year Built,Builder,Description,First Owner,Subsequent Owners,Last Record
 1608,1963,Honore Marine GB,,Torgny Nordström,,,,,SWE,-
 1611,,,@Aquaries@,A. V. Hughes,,,,,GBR,-
 1615,,Parker,,,,John Barry '99,Washington Yacht Club,Seattle WA,USA,-
-1616,1963,,@ Popsie II@,Classic case of marrying the crew! Still owned/ sailed within the family '07,Miss A. J.Spring / Roy Ironside,,Phillip Ironside,Rutland water,,GBR,2010
+1616,1963,,@ Popsie II@;Classic case of marrying the crew! Still owned/ sailed within the family '07,,Miss A. J.Spring / Roy Ironside,,Phillip Ironside,Rutland water,,GBR,2010
 1617,,,Don H. Donnelly,VT,USA,,,,USA,-
 1620,1965,Lanaverre,@Mustang@,,,Anthony Wetherbee,"Fleet 3, Mission Bay YC",San Diego,USA,-
 1621,,,,Garry Richardson,,,,NSW,AUS,-
@@ -276,7 +276,7 @@ Sail No,Year Built,Builder,Description,First Owner,Subsequent Owners,Last Record
 1885,,Parker,,FIN,Anders Edkvist,Lukas & Oona Brunner '01,,,SWE,-
 1887,,,,Dr. John Glaubitz,,,,NY,USA,-
 1889,,Parker,@Frolics@,,David Butcher,,,Norfolk,GBR,-
-1892,1964,Parker,@Rip Off@,Mr. Dawes,,,,,HKG,-
+1892,1964,Parker,@Rip Off@,Dawes,,,,,HKG,-
 1898,,,,Clive Mumford,,,,SA,AUS,-
 1899,,,,Peter Mumford,,,,SA,AUS,-
 1905,,,,Carl Topliffe,,,,MA,USA,-
@@ -384,7 +384,7 @@ Sail No,Year Built,Builder,Description,First Owner,Subsequent Owners,Last Record
 2356,,,,Leonard S. Crawford,,,,NJ,USA,-
 2356,,,@Cetta@,GBR,,,,,GBR,-
 2359,,,,Rolly Tasker,,,,WA,AUS,-
-2366,,,Raced by Elvstrom/ Pearson in '66 World Champs,Paul Elvstrom,,,,,DEN,-
+2366,,,Raced by Elvstrom/ Pearson in '66 World Champs,Paul Elvstrøm,,,,,DEN,-
 2394,,,@Crazy Dazy@,J. Sherren,A. MacDuff,,,,GBR,-
 2395,,,,Kenneth Porter,,,,NY,USA,-
 2423,,,@Take Five@,Colin Steele,,,,,GBR,-
@@ -584,14 +584,14 @@ Sail No,Year Built,Builder,Description,First Owner,Subsequent Owners,Last Record
 3055,,,,C. Harris,,,,,UGA,-
 3056,,,,John Miller,,,,NH,USA,-
 3059,1968,Butler,,John Cunningham,,,,PA,USA,-
-3061,1968,Butler,@Haiku@,Robert Fewkes,plus Mary Anne Fewkes '70,,Seven Lakes,NC,USA,-
+3061,1968,Butler,@Haiku@,Robert Fewkes & Mary Anne Fewkes '70,,Seven Lakes,NC,USA,-
 3062,1968,Butler,,Phil Freeman,,,,,USA,-
 3063,1968,Butler,,Terry D. Sanders,Skip Masters,Richard Bruce,SF Bay Area,CA,USA,-
 3064,1968,Butler,original suit & spars (I think),Robert H. Perry,,Leroy King,,TX,USA,-
 3065,1968,Butler,,H. Melvin Smith,Jeffrey Walker,,,PA,USA,-
 3066,1968,Butler,,,,,,,USA,-
 3069,,,,Fred Anderson,,,,CA,USA,-
-3072,,,,Gail L. Evans,Mel and Louise Smith,,,CA,USA,-
+3072,,,,Gail L. Evans,Mel Smith & Louise Smith,,,CA,USA,-
 3082,,,,Garth Collins,,,,CA,USA,-
 3089,,,,Justin Pipkorn,,,,CA,USA,-
 3099,,,@Lu-Lu@,N. Victor Bray,,,,,GBR,-
@@ -656,7 +656,7 @@ Sail No,Year Built,Builder,Description,First Owner,Subsequent Owners,Last Record
 3258,,Parker,,Keith Manion,,,,NSW,AUS,-
 3259,1968,Parker,@Atzuma@,Dennis Surtees,Val Clayton; Stuart Sinclair,Mike Campbell (4/2002),Astoria YC,OR,USA,-
 3264,1970,Clark,,,John Robertson,,,Santa Cruz CA,USA,-
-3270,,Parker,"""Flight of Fancy""",Thomas and Louise Wartik,,,,"Lake Glendale, PA",USA,
+3270,,Parker,"""Flight of Fancy""",Thomas Wartik & Louise Wartik,,,,"Lake Glendale, PA",USA,
 3287,1969,Butler,@Wildfire@,,,,,,HKG,-
 3299,1969,Parker,,,,,,,FRA,-
 3336,1972,Parker,,,,Gabriel Caron,,Montreal,CAN,
@@ -710,7 +710,7 @@ Sail No,Year Built,Builder,Description,First Owner,Subsequent Owners,Last Record
 3612,1969,Parker,,Karl Deardorff,Russ Mitchell '03,,,NM,USA,-
 3613,1969,Parker,@Kestrel II@,C. Elling Worth,,,,,HKG,-
 3614,1969,Parker,@Mamasan@,D. Boinot,,,,,HKG,-
-3617,1969,,,Mr. Anderson,Mr. Sabine,Mark Penter '01,,,RSA,-
+3617,1969,,,Anderson,Sabine,Mark Penter '01,,,RSA,-
 3618,,,,Brian L. Robinson,,,,NSW,AUS,-
 3629,,,@Barkis@,H. Johnson '71,,,,,GBR,-
 3630,,,,J. W. Goody/ D. Buckle '71,,,,,GBR,-
@@ -719,7 +719,7 @@ Sail No,Year Built,Builder,Description,First Owner,Subsequent Owners,Last Record
 3633,,,,,,Scott Stabb,,,USA,-
 3640,,,@That Boat@,A. F. Grimmer '71,,,,,GBR,-
 3648,,,@Vixen@,W. R. Morrison '71,,,,,GBR,-
-3657,,Parker,,Rosen/Wenrup,,sold to Eklund brothers in 1973. SWE,,,SWE,-
+3657,,Parker,,Rosen/Wenrup,,Eklund Brothers '73. SWE,,,SWE,-
 3659,,,@ The Undertaker@,A. J. Kirkpatrick '71,,,,,GBR,-
 3660,,,@Nimrod@,G. F. P. Bramley '71,,,,,GBR,-
 3681,,,@Blue Persian @,Peter Kerr '71,,,,,GBR,-
@@ -757,7 +757,7 @@ Sail No,Year Built,Builder,Description,First Owner,Subsequent Owners,Last Record
 3871,1970,Parker,@Nuts Iiu@, HKG,, SIN,,,SIN,-
 3873,,,@Thrashing Machine@,J. S. Locke '71,GBR,,,,GBR,-
 3880,1971,Parker,@China Doll@, HKG,HKG, USA,,,USA,-
-3885,,,damaged & written off '95,,,Stu Kelly (huge restoration '95),,,,-
+3885,,,damaged & written off '95;Stu Kelly made huge restoration in 1995,,,Stu Kelly,,,,-
 3893,,,@Rainy Day Woman@,Colin Meadows '71,,,,,,-
 3894,,,@Granny Smith@,N. Heissig '71,,,,,GBR,-
 3894,,Parker,Tom Kivney,,,,,,,-
@@ -795,7 +795,7 @@ Sail No,Year Built,Builder,Description,First Owner,Subsequent Owners,Last Record
 4083,,,@Brute Force & Ignorance@,Martin Dover '71,,,,,GBR,-
 4088,1970,Moore,@Lookfar@,,,Sandra Bes '02,,,,-
 4097,,,@Rascal@,,,Susan & John Burrows,,Littleton Lake SC,GBR,-
-4098,,,@Caractacus@,W. R. & P. Colclough '71,,,,,GBR,-
+4098,,,@Caractacus@,W. R. Colclough / P. Colclough '71,,,,,GBR,-
 4099,,Moore,,Seth Goldberg,,Mark Wiltz '06,,,USA,-
 4101,,,@Day Tripper@,Alan Fountain '71,,,,,GBR,-
 4106,1972,Parker,,Joe Diz,Doug Aitken,Bill Cottles '03,,,USA,-
@@ -849,12 +849,12 @@ Sail No,Year Built,Builder,Description,First Owner,Subsequent Owners,Last Record
 4305,,,,,,Tim Hill '71,,,GBR,-
 4310,1972,Parker,,Coles,,Piotr Nowicki '12,,Stenstorp,SWE,12
 4314,1971,Parker,launcher: @Westwind@, BER,Chaim Katz,Peter Epstein '98,,Toronto,CAN,-
-4319,,,@Haven't a Clue@,R. H &erson '71,,,,,GBR,-
+4319,,,@Haven't a Clue@,R. H Anderson '71,,,,,GBR,-
 4321,1972,Parker,@Mersey Beat @: Destroyed by Typhoon Ellen at Little Palm Beach in '83,Rob Napier '72 GBR,G. Coutts '73,,,,HKG,-
 4328,,Rondar,,,,Dave Moore,,Sudbury ONT,CAN,-
 4331,,,,,,Mike Armstrong,,,Can,
 4335,,,,Wilen twins,,,,,FIN,-
-4357,1972,,,,,Mr Jacob '06,,Anneville sur Seine,FRA,-
+4357,1972,,,,,Jacob '06,,Anneville sur Seine,FRA,-
 4361,,,,Web Institute,Solomon Marini,Norman Watkins '05,,Baltimore MD,USA,-
 4379,1972,Parker,launcher,Fred Byergo,Indiana University Yacht Club '96,,,,USA,-
 4380,1972,Parker,,Phil Terman,John & Krista Zarling '99,,,Houghton MI,USA,-
@@ -865,7 +865,7 @@ Sail No,Year Built,Builder,Description,First Owner,Subsequent Owners,Last Record
 4396,1972,,retired to Nirvana '99,,,Gavin Rendall '99,,,USA,-
 4423,,Parker,,,,,,Summerland BC,CAN,-
 4424,,,,,,Tibor Kamon,Kitsilano YC,Vancouver,CAN,-
-4437,1971,Rondar,composite: competed in the '94 Worlds in Durban,Grant Ballantyne (original & current owner),,,,,RSA,-
+4437,1971,Rondar,composite: competed in the '94 Worlds in Durban; Grant Ballantyne (original & current owner),Grant Ballantyne,,,,,RSA,-
 4439,1973,Simonds,,Malcolm Boyd,,Jim Rosenberg '00,,NJ,USA,-
 4446,1972,Rondar,,Randy Foster,Jeff Arthur,Orange Coast College '04,,CA,USA,-
 4462,,,@Blow Job@,J. G. Altman '71,,,,,,-
@@ -880,14 +880,14 @@ Sail No,Year Built,Builder,Description,First Owner,Subsequent Owners,Last Record
 4521,1972,Parker,@Cariad Glas@,C. Wilde,,,,,HKG,-
 4522,,Parker,Composite,,,,,,GBR,-
 4522,1972,Parker,@Mana@,,,,,,HKG,-
-4523,,Parker,@Heebie-Jeebie@,,R. Maclennan,T. Cole & M. Burgess '02,,Shetland Isles,GBR,-
+4523,,Parker,@Heebie-Jeebie@,,R. Maclennan,T. Cole / M. Burgess '02,,Shetland Isles,GBR,-
 4524,1973,Holt Allen West,one of five built,Frank Riah,Neal/Jen Twilla,Randy Beck '98,,Virginia Beach VA,USA,-
 4528,1972,Parker,@Thundercloud@,Neil Pryde,Maurice Marshall/ Alan Edmonds,,Changi Yacht Club,Singapore,SIN,-
 4529,1972,Rondar,fiberglass,Mark Whitehouse,Wayne Harvey,Orange Coast College 00',,CA,USA,-
 4531,1972,Binks,fibreglass,Rudolf Klug,,,,ACT,AUS,-
 4532,1972,self-made,fibreglass,,,,,ACT,AUS,-
 4533,1972,self-made,fibreglass,Robert L. Jones,,,,ACT,AUS,-
-4534,1972,,,. Rousthorn,,,,VIC,AUS,-
+4534,1972,,,Rousthorn,,,,VIC,AUS,-
 4535,1972,self-made,,C. Greenhalgh,,,,SA,AUS,-
 4536,1972,,,W. Batt,,,,ACT,AUS,-
 4537,1972,,,C. Williams,,,,ACT,AUS,-
@@ -906,7 +906,7 @@ Sail No,Year Built,Builder,Description,First Owner,Subsequent Owners,Last Record
 4602,1972,self-made,fibreglass,B. Staples,,,,,AUS,-
 4604,1972,Barclay,fibreglass,B. Spencer,,,,,AUS,-
 4606,1972,self-made,fibreglass,V. Hiles,,,,,AUS,-
-4608,1972,self-made,fibreglass,William S. & Geoffrey G. Kyrwood,Richard Gallimore,Tony Lobb,,NSW,AUS,-
+4608,1972,self-made,fibreglass,William S. Kyrwood / Geoffrey G. Kyrwood,Richard Gallimore,Tony Lobb,,NSW,AUS,-
 4610,1972,self-made,fibreglass,W.R. Moran,N.S.W.,AUS,,NSW,AUS,-
 4623,,Parker,,,,,,,GBR,-
 4628,1972,Glenn Dennis,fibreglass,Martin Saunders,,,,VIC,AUS,-
@@ -930,7 +930,7 @@ Sail No,Year Built,Builder,Description,First Owner,Subsequent Owners,Last Record
 4717,,Rondar,,Wilmar Treffers,Toon Roosen,,,Sint-Gillis-Waas,BEL,-
 4732,1973,Glenn Dennis,fibreglass,Dennis Travis,,,,SA,AUS,-
 4734,,Parker,,Rumen Deyanov,Kevin Williams,Los Osos '03,,CA,USA,-
-4747,,Parker,carbon fibre reinforced,Larry Marks (Weston SC),,Y. Pajot/M. Pajot,,,,-
+4747,,Parker,carbon fibre reinforced,Larry Marks,,Yves Pajot/Marc Pajot,,,,-
 4748,,Parker,,,,,,,,-
 4768,,Parker,,Stewart Smith,Gregg Strickland '99,,,Washington,USA,-
 4769,1973,Parker,@Bits & Pieces @, ZAM,Tony Cheung & Hudson Lee,,,,HKG,-
@@ -958,7 +958,7 @@ Sail No,Year Built,Builder,Description,First Owner,Subsequent Owners,Last Record
 4919,,Glenn Dennis,fibreglass,Glenn P. Stanway,,,,VIC,AUS,-
 4921,,Glenn Dennis,fibreglass,R.I. Carlson,,,,VIC,AUS,-
 4923,,self-made,,P.J. Pisters,,,,SA,AUS,-
-4936,,Parker,,,Blair Patterson,Fred Liesegang/ Dave  '97,,NY,USA,-
+4936,,Parker,,,Blair Patterson,Fred Liesegang/ Dave '97,,NY,USA,-
 4941,,Glenn Dennis,fibreglass,David A. Prest,,,,VIC,AUS,-
 4943,,Parker,,,,Curtis Hutchinson '97,,Nevada,USA,-
 4952,,Parker,,Ralph Knight ,,Elkington Brothers '78,,,UK,2010
@@ -970,7 +970,7 @@ Sail No,Year Built,Builder,Description,First Owner,Subsequent Owners,Last Record
 5016,,,,,,,,Orlando FL,USA,-
 5017,1973,Rondar,,Egon Stuermer,,Til Stuermer '04,,Basel,SUI,-
 5021,1974,Parker,@Rough Justice@,Rob Napier,Reg Woodyer '76,,West Cheshire SC,,GBR,-
-5031,1974,,,Hernbert Lönnfors; Kari Wilén and Mikko Brummer,Ebbe Rosen / Olle Wenrup '74 / Stefan Svennson '98,Lina Tengblad /12,,,SWE,12
+5031,1974,,,Hernbert Lönnfors; Kari Wilén / Mikko Brummer,Ebbe Rosen / Olle Wenrup '74 / Stefan Svennson '98,Lina Tengblad /12,,,SWE,12
 5038,1973,Rondar,,John& Shirley Moss,Jan Rasmussen,,,,CAN,-
 5045,,Parker,,,,Sören Dretzko,,,GER,-
 5058,,Parker,"""Overdraft""",,,Andy,,Tynemouth,GBR,9
@@ -1006,7 +1006,7 @@ Sail No,Year Built,Builder,Description,First Owner,Subsequent Owners,Last Record
 5276,,Rondar,@Vasco@,, SUI,Felix Obermeyer '06,,,GER,-
 5281,,Parker,,,Dominic Marchal,Mark Fletcher '04,,Redwood City CA,USA,-
 5289,1975,Rondar,,John Wien,Jarred Hachman,,,Stockton CA,USA,-
-5296,,  Rondar ,,,,Frederic Parmantier '07,,,FRA,-
+5296,, Rondar ,,,,Frederic Parmantier '07,,,FRA,-
 5303,1975,,,Barat,JF. Rouger,Stéphane Gautard '07,,Brest,FRA,-
 5320,,Kyrwood,fibreglass,Les Bingham,,,,NSW,AUS,-
 5321,,Barclay,Steven Bull,N.S.W.,AUS,,,NSW,,-
@@ -1026,16 +1026,16 @@ Sail No,Year Built,Builder,Description,First Owner,Subsequent Owners,Last Record
 5497,,Kyrwood,fibreglass,Verdun Hiles,,,,NSW,AUS,-
 5498,,Kyrwood,fibreglass,Terrence S. Kyrwood,,,,NSW,AUS,-
 5499,,Kyrwood,fibreglass,William S. & Geoffrey G. Kyrwood,,,,NSW,AUS,-
-5507,1975,Rondar,,Roger Lovett,Freebee,restored 2001,Mission Bay YC,CA,USA,-
+5507,1975,Rondar,restored 2001,Roger Lovett,Freebee,,Mission Bay YC,CA,USA,-
 5509,,Rondar,@Slip & Slide@,Brooks Dees,,John McBride,,Forestville CA,USA,-
-5518,1973,Rondar,"launcher: all FRP except wood bulkhead, spine & c.b trunk built-up areas",,,John Dean (restored '96),,Seattle WA,USA,-
+5518,1973,Rondar,"launcher: all FRP except wood bulkhead, spine & c.b trunk built-up areas; John Dean restored it in 1996",,,John Dean,,Seattle WA,USA,-
 5520,,Parker,,Ray Hirvonen,,,,,CAN,-
-5522,,,,R. Haselgrove,M.A. (Pip) Pearson,,,SA,AUS,-
+5522,,,,R. Haselgrove,Malcolm 'Pip' Pearson,,,SA,AUS,-
 5523,,Kyrwood,fibreglass,Mark Long & Chris Goggin,Dave Waller,Paul Francis/ Patrick Scharf,Fleet 13,NSW,AUS,-
 5524,,R. Haselgrove,,Robin S. Haselgrove,,,,SA,AUS,-
 5525,,Kyrwood,fibreglass,G.J. Steadman,,,,NSW,AUS,-
 5529,1975,Parker,,Avocado Sail Training Association,,,,,HKG,-
-5534,1975,Parker,@Muligatawny@: scrapped,N. Baker P. Scholefield,,,,,HKG,-
+5534,1975,Parker,@Muligatawny@: scrapped,N. Baker & P. Scholefield,,,,,HKG,-
 5537,,Kyrwood,fibreglass,Les Bingham,,,,NSW,AUS,-
 5538,,,,R. Haselgrove,John W. Gratton,,,SA,AUS,-
 5539,,Kyrwood,fibreglass,L.F. Dodson,,,,ACT,AUS,-
@@ -1086,7 +1086,7 @@ R,,Rondar,all glass,,John Hauser; Don Bradshaw '99,Chad Littleton,,Annapolis MD,
 5849,1976,Rondar,,Rich Mertl,Ryan Buccola,Ron Hewitt '04,Ted C. Engel,Calgary,CAN,-
 5853,1976,Rondar,"Launcher: all FRP polyester w/gelcoat except wood bulkhead, spine & @built-up@ areas of c.b. trunk",Chris Genau ('89),John Dean ('97),Gordon Stout,Louis Bartos,Ketchican AK,USA,-
 5859,,Parker-hulled Lindsay,,Brad ,Pascal Bruyere,Mark Angliss,,,USA,-
-5868,,Parker,@Orangasm@ now @Distress@,Ali Meller or Peter Wood,Clarissa Bush/ Chris Gillies; Charles Hansen; Paul Hansen '91; Andrew Allen '98,John Hewitt '00,,Vancouver,CAN,-
+5868,,Parker,@Orangasm@ now @Distress@,Ali Meller & Peter Wood,Clarissa Bush/ Chris Gillies; Charles Hansen; Paul Hansen '91; Andrew Allen '98,John Hewitt '00,,Vancouver,CAN,-
 5872,1976,Parker,,Larry Kangley,,Holly Gardner,,Denver,USA,-
 5875,,Parker,"composite, pale blue hull & deck",,,Nick Costello,Langstone Sailing Club,Havant,GBR,-
 5901,,Parker,all glass,,,Camilla& Tomas Jönsson '02,,Göteborg,SWE,-
@@ -1137,13 +1137,13 @@ R,,Rondar,all glass,,John Hauser; Don Bradshaw '99,Chad Littleton,,Annapolis MD,
 6208,,Kyrwood,fibreglass,Geoffrey G. & William S. Kyrwood,,,,NSW,AUS,-
 6209,,Kyrwood,fibreglass,B. Abbott & P. Douglas,,,,SA,AUS,-
 6211,,Kyrwood,fibreglass,J.D. Gilder,,,,SA,AUS,-
-6212,,Kyrwood,fibreglass,A. Wangel & M.A. (Pip) Pearson,,,,SA,AUS,-
+6212,,Kyrwood,fibreglass,A. Wangel & Malcolm 'Pip' Pearson,,,,SA,AUS,-
 6213,,Kyrwood,fibreglass,Terrence S. Kyrwood,,,,NSW,AUS,-
 6217,,Rondar,,,,,,,GBR,-
 6227,,Rondar,,Bart Hackworth,Alex Mehran; Chris Goodenough,Grant Murray (1/2000),,San Diego,USA,-
 6228,,Rondar,fibreglass,,Stefan Maxfield,Cristian Radu,,Chicago,USA,9
 6230,1977,Rondar,launcher,Jurgen Hoeck,Paul von Grey; Dean Karrigan,JB Turney/Craig Thompson '03,,Chicago,USA,-
-6246,1976,Parker-hulled Lindsay,rebuilt seat tanks. Awaiting collision repairs.,Barry Kuehl,Follansbee's,Chuck Smith '82,,Newark,USA,-
+6246,1976,Parker-hulled Lindsay,rebuilt seat tanks. Awaiting collision repairs.,Barry Kuehl,Peter Follansbee & Chris Follansbee,Chuck Smith '82,,Newark,USA,-
 6253,,Parker-hulled Lindsay,Bill Salvo,Peter Wood,Kevin Burgess,Ottawa,,Ontario,CAN,-
 6270,,Parker,all glass,John Brim/Kevin McCabe (sold 1981),Scott Williams,,,,CAN,-
 6274,1977,Parker,Destroyed by Typhoon Ellen in Sept '83,Bung S. Leung & A. Tsui,,,,Stanley,HKG,-
@@ -1156,7 +1156,7 @@ R,,Rondar,all glass,,John Hauser; Don Bradshaw '99,Chad Littleton,,Annapolis MD,
 6306,1977,Parker,,Bryan Hamilton,Lee Bunzel,,,Topanga CA,USA,-
 6307,1978,Parker,,Paul Tara,,,,,,-
 6310,,Parker-hulled Lindsay,,Steve Benjamin,,,,,,-
-6311,,Parker-hulled Lindsay,back edges of deck now straight,Larry Rosenfeld,Lars Guck,Chris Museler RI USA,,,USA,-
+6311,,Parker-hulled Lindsay,back edges of deck now straight,Larry Rosenfeld,Lars Guck,Chris Museler,,RI,USA,-
 6324,,Parker,,Keith Barras,,,,Ottawa ONT,CAN,-
 6334,,Rondar,,Steve Robinson,Bob McKenley,,,NH,USA,-
 6339,1977,Fountaine-Pajot,,Binon,Philippe Goubault,Jean-Pierre Noclain,,,FRA,-
@@ -1171,7 +1171,7 @@ R,,Rondar,all glass,,John Hauser; Don Bradshaw '99,Chad Littleton,,Annapolis MD,
 6393,,,,,,Tony Pascone '02,,CA,USA,-
 6394,1978,G&H Marine,@Cascade@,Bob Fisher,,,,,HKG,-
 64,,Parker,composite,Darren Booth,,,,Helensburgh,GBR,-
-6413,1978,Parker,@Orient Express@: Destroyed by Typhoon Ellen in Sep '83,Mr. Griffiths,,,,Stanley,HKG,-
+6413,1978,Parker,@Orient Express@: Destroyed by Typhoon Ellen in Sep '83,Griffiths,,,,Stanley,HKG,-
 6436,197,Parker,,,,Yann Le Paul,,,FRA,-
 6439,,,,,,,,,GBR,-
 6445,1977,Parker,,,,,,St Malo,FRA,-
@@ -1218,11 +1218,11 @@ R,,Rondar,all glass,,John Hauser; Don Bradshaw '99,Chad Littleton,,Annapolis MD,
 6662,,,,,,,,,USA,-
 6663,1979,Ballenger,all GRP launcher,Sandy Schirmer,Allan Brown,Scott Hemmenway,,Peoria IL,USA,-
 6664,1979,Ballenger,all GRP launcher,,Doug Burtard,;Mike Hassel '01,,CO,USA,-
-6665,1979,Kyrwood hull,Benadict wooden deck (one of 2 or 3 finished by Chris Benadict),,Peter Sazas; Dan Neumann; Reese Jones and Dan Acland,Mark Gordon,,CA,USA,-
+6665,1979,Kyrwood hull,Benadict wooden deck (one of 2 or 3 finished by Chris Benadict),,Peter Sazas; Dan Neumann; Reese Jones & Dan Acland,Mark Gordon,,CA,USA,-
 6666,1978,Parker-hulled Lindsay,11th Lindsay,Barry Kuehl,Gordie Bell; Dusan; Simona Bonifacic '98,Kris Uebersax '01,,,USA,-
 6676,1978,Parker,All GRP,Roger Deane,,Toby Blackwell '81,,,,
 6687,,Milanes & White,"GRP, ""Blueberry""",Jim Berry,Chris Lehouck,,,,,-
-6696,,Parker,,Lowestoft (10 yrs),,Oli Dobson '07,,Whitstable,GBR,-
+6696,,Parker,Lowestoft (10 yrs),Lowestoft,,Oli Dobson '07,,Whitstable,GBR,-
 6703,,Parker,,,Andrew Marshall; Dave Smith; Tim Stringer,Ian Hutchison,,"Spixworth, Norfolk",GBR,-
 6705,,Kyrwood,fibreglass,John W. Gratton,,S. Ward,,S.A.,AUS,-
 6706,,Kyrwood,fibreglass,Alan Bessell; J. Tunney,,,,S.A.,AUS,-
@@ -1235,16 +1235,16 @@ R,,Rondar,all glass,,John Hauser; Don Bradshaw '99,Chad Littleton,,Annapolis MD,
 6717,,Parker,Composite,,Jim Crane; Les Crane; Ethan Lee; Bob Hill,Barney Harris '00,Fleet 19,VA,USA,-
 6720,,Parker,"Composite ""Munchkin""",Justin Phyall,,,,,GBR,-
 6723,1978,Parker,"""Green Gilbert"" (renamed ""Slightly Batty Gilbert"")",Ken Black,Rob Napier '78; S. Hughes,Gavin Rendall '98,Littleton Sailing Club,Surrey,GBR,-
-6740,,Parker,Composite,,,Carl Fuchshuber/Peter van Muyden,,Alberta or Saskatchewan,CAN,-
+6740,,Parker,Composite,,,Carl Fuchshuber/Peter van Muyden,,Alberta & Saskatchewan,CAN,-
 6743,1978,G;H Marine,"""Scarlet Harlot""",Joseph Chan,,,,,HKG,-
-6755,,Kyrwood,"""Sod's Law""",Mr. Crazy Ho,,,,,HKG,-
+6755,,Kyrwood,"""Sod's Law""",Crazy Ho,,,,,HKG,-
 6756,,Kyrwood,fibreglass,Krywood Composites,,,,N.S.W.,AUS,-
 6757,,self-made,,Gary Thompson,,,,N.S.W.,AUS,-
 6763,,Kyrwood,fibreglass,Peter Hewson,,,,N.S.W.,AUS,-
 6764,,Kyrwood,fibreglass,Brian R. Heneker,,P. Inise,,S.A.,AUS,-
 6765,,Kyrwood,fibreglass,Graham Nunn,David Shearer,"Peter Croft, Ben Stewart",David Pullin,Queensland,AUS,-
 6772,,Rondar,,Frish,,Frej Fogelström '12,,Vikingstad,SWE,12
-6781,,Parker,composite,owner in Devon,,,,,GBR,-
+6781,,Parker,composite;owner in Devon,,,,,,GBR,-
 6790,,Parker,composite,Greg Duncan,,Barrie McLean,,,GBR,-
 6802,,Parker,composite,,,,Can Fleet 4,"Ottawa, Ontario",CAN,-
 6803,1979,Parker,rebuild 1982,Janne Tiilikka,Jari Elorantasinki '82, '86,,Tampere,FIN,-
@@ -1270,27 +1270,27 @@ R,,Rondar,all glass,,John Hauser; Don Bradshaw '99,Chad Littleton,,Annapolis MD,
 6931,1979,Lindsay,"wood ""Fever Pitch""",Dave Cahn,Redwood City; Shea Thorvaldsen '99,Tom McKinney,"Mission Bay YC, Fleet 3","San Diego, CA",USA,-
 6932,,Lindsay,wood,Sally Lindsay,Ashley Tobin/Jim Walters,,,CA,USA,-
 6933,,Lindsay,wood,Steve Benjamin,Ozzie Stewart,Keith Summersgill,,,GBR,-
-6934,,Kyrwood,launcher; major overhaul '00,Peter Rasco,Craig Mac Beth; Paul von Grey and Dave Emigh; Chris Stomberg '98,Gary Grimes,,"San Diego, CA",USA,-
-6935,,Lindsay,,Jonathan; Charlie McKee,David Hutchison,School in Queen Anne (donation),,WA,USA,-
+6934,,Kyrwood,launcher; major overhaul '00,Peter Rasco,Craig Mac Beth; Paul von Grey & Dave Emigh; Chris Stomberg '98,Gary Grimes,,"San Diego, CA",USA,-
+6935,,Lindsay,Donated to School in Queen Anne,Jonathan; Charlie McKee,David Hutchison,School in Queen Anne,,WA,USA,-
 6936,1979,Lindsay,"wood, launcher boat converted to bag boat",Gary Bodie/ Bill Ball,"Gary Smith, Dave Fratantoni/Paula Sue Gilbert",Ken Lindsay '97,,"Amherst, MA",USA,-
 6938,1979,Hamlin,launcher,Jason Artof,,Eric Willis,,"Santa Cruz, CA",USA,-
 6948,,Parker,composite,Patrick McGale,Gavin Rendall '98,Chris Clayton-Payne '00,,Cambridge,GBR,-
 6956,1979,Parker,"""Buoy Racer""",S. Chau,,,,,HKG,-
 6960,1979,Parker,,,,Richard Hargreaves '01,Glasson SC,Lancaster,GBR,-
 6962,,Rondar,,,,Tom Bragaw,,,UGA,-
-6970,,builder,,owner,,,,,GBR,-
-6979,,builder,,owner,,,,,GBR,-
+6970,,builder,,,,,,,GBR,-
+6979,,builder,,,,,,,GBR,-
 6981,1979,Parker,"""Kiwi Spirit""",Ho Shen Wing,,,,,HKG,-
-6983,,Hamlin,,,Jason Artof; Eric Willis (extensively rebuilt),Zhenya Kirueshkin Stepanoff,,CA,USA,-
+6983,,Hamlin,extensively rebuilt by Eric Willis,,Jason Artof; Eric Willis,Zhenya Kirueshkin Stepanoff,,CA,USA,-
 6984,1979,Lindsay,Gerry Looman,,,,,CA,USA,-
 6985,,Lindsay,wood,Steve Taylor,,Michael Breton,,Maryland,USA,-
 6987,1979,Lindsay,wood,Gilmour,Dave Gruver; Ali Meller'95; Matthew Edwards'95; Jennifer Baltz'96; Lauren Abramson/Tom O'Toole'96,J. Bergquist,Fleet 19,,USA,-
 6988,,Kyrwood,,,Roger Reed; Richard Whitehead '99,Mike Duff,,"Kansas City, MO",USA,-
-6991,1980,Lindsay,"Wood, Launcher ""Weasel""",Bruce Hellman'80,Mike Vanvleck'87; Dan Merino '99,Ben and Lisa Wood,San Diego,CA,USA,-
+6991,1980,Lindsay,"Wood, Launcher ""Weasel""",Bruce Hellman'80,Mike Vanvleck'87; Dan Merino '99,Ben Wood & Lisa Wood,San Diego,CA,USA,-
 6992,1980,Hamlin,,,Uli Coblenz; John Fracisco,Brad Wheeler '01,,CA,USA,-
 7004,,Parker,,,,Yves Niddamm,,,FRA,-
 7010,,,Rondar,,,Dave Pitman,,,,
-7012,,Parker,,,,David  '02,,,GBR,-
+7012,,Parker,,,,David '02,,,GBR,-
 7013,,Builder,,John Patterson,,,,,AUS,-
 7016,,Kyrwood,fibreglass,John A. Blake,,,,S.A.,AUS,-
 7017,,Kyrwood,fibreglass,R. Jones,,,,N.S.W.,AUS,-
@@ -1298,7 +1298,7 @@ R,,Rondar,all glass,,John Hauser; Don Bradshaw '99,Chad Littleton,,Annapolis MD,
 7018,,Kyrwood,fibreglass,Roger Down,Mike Holt '98,,,Stokes Bay,GBR,-
 7019,,Kyrwood,fibreglass,Krywood Composites,,Brian Quayle,,Isle of Man,GBR,-
 7020,,Kyrwood,fibreglass,Krywood Composites,,,,N.S.W.,AUS,-
-7022,,Kyrwood,"fibreglass, destroyed 2019",,,Marcin Pietrzak,,,POL,
+7022,,Kyrwood,"fibreglass, destroyed 2019",,,Marcin O. Pietrzak,,,POL,
 7028,1980,Parker,,Urs Scherrer,,Alain Chervet,,,SUI,-
 7033,,builder,,Ebbe Rosen / Olle Wenrup,,,,,SWE,-
 7037,1980,Parker,,,,Lukasz Paszko / Jarosław Paszko,,Tczew/Gdańsk,POL,9
@@ -1314,30 +1314,30 @@ R,,Rondar,all glass,,John Hauser; Don Bradshaw '99,Chad Littleton,,Annapolis MD,
 7062,1980,Ballenger,,,Gordon Clute,Peter Scott,,SF,USA,-
 7065,1980,,,,"Steve Newten, Bruce Dunn",,,Salt Lake city,USA,9
 7066,,Lindsay,Wood; extensively rebuilt and converted to launcher by Waterat '96,Michael Loeb,Adam Werblow; Bill Beardslee,John Broome '97,,Southern CA,USA,-
-7068,,Hamlin,honeycomb bag boat,,Allison Jolly/Mark Elliott; Kevin Taugher and Jack Nash '97; Tom Hurwitch '99; Ted and J.B. Ferrarone '99,Bob Patterson '03,,,USA,-
+7068,,Hamlin,honeycomb bag boat,,Allison Jolly/Mark Elliott; Kevin Taugher & Jack Nash '97; Tom Hurwitch '99; Ted Ferrarone & J.B. Ferrarone '99,Bob Patterson '03,,,USA,-
 7069,1980,Hamlin,,Chris Klein,,David Byron '98,Ian O'leary,CA,USA,-
 7070,,Kyrwood,fibreglass,Warren Carey,,,,S.A.,AUS,-
 7080,,Rondar,extensively rebuilt 2002,,,Ali Meller,,Annapolis MD,USA,-
 7084,,Kyrwood,fibreglass,Anthony Kirby,,,,N.S.W.,AUS,-
 7087,,Parker,,Warren Mangan,,,,PA,USA,-
-7092,,Lindsay,wood,John Pulverman,Mark @Wheels@ Wheeler; Ken Elliott/Alan Kilgore,Dustin Romey/Jahn Tihansky ‘01,Annapolis MD,MD,USA,-
+7092,,Lindsay,wood,John Pulverman,Mark 'Wheels' Wheeler; Ken Elliott/Alan Kilgore,Dustin Romey/Jahn Tihansky ‘01,Annapolis MD,MD,USA,-
 7093,,Lindsay,Wood: won 1981& 1982 World Champs,Cam Lewis,,Chuck Millican '02,,Hamilton,BER,-
-7094,,Hamlin,,Phil Craig,,Soren and Jennifer  '04,,Vancouver,CAN,-
+7094,,Hamlin,,Phil Craig,,Soren & Jennifer '04,,Vancouver,CAN,-
 7095,1979,Hamlin,,John Hayley CAN,Bailey White,Geoff Nelson/ Mark Kurzava,,San Diego CA,USA,-
-7096,,Hamlin,@Punishment Pony@,Jonathan Livingstone,Brian Largay/ Sanders Allan Staley '00 Dan Ginther'04,,,Seattle,USA,6
+7096,,Hamlin,@Punishment Pony@,Jonathan Livingstone,Brian Largay/ Sanders Allan Staley '00;Dan Ginther'04,,,Seattle,USA,6
 7097,,Ballenger,,Sailing club in Washington State,,,,,USA,-
 7099,1979,Lindsay,wood,Tom Kivney,Bill Haberland; Charles Smith; Michael Parramore,Christian DeChamplain '04,NSC,Ottawa,CAN,-
 7100,1979,Lindsay,rebuilt/repainted '94,Mark Lindsay,Neal Fowler; Andrew Crocker; Tom Hurwitch,Rich Ryon/ Perry Barclay '03,,New Jersey,USA,-
 7207,1980,Parker,,GopherC. Schlee,,,,,HKG,-
 7110,1981,Rondar,,Ryan Nelson,,,,Davis CA,USA,-
-7111,,Kyrwood,,Mrs Terry (Thomas),,,Kitsilano YC,Vancouver,CAN,-
+7111,,Kyrwood,,Terry Thomas,,,Kitsilano YC,Vancouver,CAN,-
 7120,,,,Jean-Pierre Denis,Eric Daisay,,Yeu Island,Nantes,FRA,-
 7121,,Fountaine Pajot,damaged,,Hannu Merikallio;Matti Pentti,Sami Jokinen,,,FIN,-
-7125,1981,Galetti,Italian: wood construction; black and white,,,balaine@ibm.net,,Ile de Re,FRA,-
+7125,1981,Galetti,Italian: wood construction; black and white balaine@ibm.net,,,,,Ile de Re,FRA,-
 7131,,,Parker- wood deck,Hauke Rathjens,Christof Becker,,,,,
 7136,,Rondar,,Holger Jess,,,,,GER,-
 7141,,Parker,,,,Tom Clayton,,,GBR,-
-7145,1980,Parker,,Eklund,E Kallin/ L Lexell/J Biander/ T Loefstroem,Lars Bååth '12,,Mölndal,SWE,12
+7145,1980,Parker,,Eklund Brothers,E Kallin/ L Lexell/J Biander/ T Loefstroem,Lars Bååth '12,,Mölndal,SWE,12
 7147,,Lindsay,wood,,,Jean Paul Frigara '06,,Corsica,FRA,-
 7148,,Lindsay,wood: rebuilt/ repainted '94,Paul Gauthier,Rick Hewitt; Peter Mignerey('95),Bryan Richardson '08,Fleet 19,MD,USA,-
 7150,,Lindsay,wood,Smith,Ian Torrie '95,Chris Legg '01,,Annapolis MD,USA,-
@@ -1345,13 +1345,12 @@ R,,Rondar,all glass,,John Hauser; Don Bradshaw '99,Chad Littleton,,Annapolis MD,
 7152,,Hamlin,all glass,Rick Rattray,,Mike Jue '02,,SD CA,USA,-
 7153,,Hamlin,,Bill Jager,Urs Rothacher '96; Alex Mehran '97; Chuck Asper '02,Blaine Pedlow '02,,CA,USA,-
 7155,,Ballenger,sglass epoxy foam,Jason Spiller,Aaron Ross/ Greg Sorrells '98,Tom Resignolo '00,Derek B Mckesson,CO,USA,-
-7156,1980,Hamlin,kevlar epoxy honeycomb,Carl/Carol Buchan,"Robin Brown
-Kirk Wilson",Aaron Ross '99,SCYC,Santa Cruz CA,USA,-
+7156,1980,Hamlin,kevlar epoxy honeycomb,Carl/Carol Buchan,"Robin Brown & Kirk Wilson",Aaron Ross '99,SCYC,Santa Cruz CA,USA,-
 7157,,Kyrwood,fibreglass,Les Evans / Dennis Evans,,Rob Hook,,N.S.W.,AUS,-
 7162,,Parker,,Ole Frey,,,,Augustenborg,DEN,-
 7180,1980,Parker,Black Russian,Fanki Tong,,,,,HKG,-
 7181,1981,Parker,,Hellgren,E Kallin/G Berg/P Hansson,Gert Thell '12,,Olstorp,SWE,12
-7182,,Parker,,Paul Pihl and Craig Cammock,Frank Middleton,Zak Norris '02,,Bellingham WA,USA,-
+7182,,Parker,,Paul Pihl & Craig Cammock,Frank Middleton,Zak Norris '02,,Bellingham WA,USA,-
 7186,1980,Parker,Cocksure,Tam Tat Sen / Szeto Lee Shing,,,,,HKG,-
 7189,1980,Parker,Wers Yer Sensa Umer,Peter Colclough,A H R Gibbons,Rob Napier '884,,,GBR,-
 7191,1979,Galetti,,,,,,,FRA,-
@@ -1370,7 +1369,7 @@ Kirk Wilson",Aaron Ross '99,SCYC,Santa Cruz CA,USA,-
 7217,,Parker,,Roger Deane '81,,,,,UK,
 7218,1980,Parker,Horizon,Diamond Tai / Ivan Lui,,,,,HKG,-
 7222,,Rondar,Dougal Henshal,,,M. Field,,,GBR,
-7225,1980,Parker,Mr. Shifta,M. J. Myers,,,,,HKG,-
+7225,1980,Parker,Shifta,M. J. Myers,,,,,HKG,-
 7227,,,,,,,,,GBR,-
 7231,,Kyrwood,fibreglass,David J. Bull,,,,A.C.T.,AUS,-
 7232,,Kyrwood,fibreglass,Charles W. Greenhalgh,,W.A. Summersides,,S.A.,AUS,-
@@ -1400,7 +1399,7 @@ Kirk Wilson",Aaron Ross '99,SCYC,Santa Cruz CA,USA,-
 7318,,Lindsay,Wood: rebuilt '97,Dave Dyson,Zack Leonard; Nick Trotman; Peter Alarie/ Mike Zani ('96),Richard Peck '99,,CO,USA,-
 7320,1979,Moore/ van Landingham,"Last Moore hull, tanks, deck and launcher tube kit. Polyester/glass Clark foam core.",Robbie van Landingham,,Steve Ehlers '99,,Austin TX,USA,-
 7321,1981,Ballenger,hull only foam/glass,Bob Thompson,Robbie Robbinet; Scott MacKay,Francis Leal,,Austin TX,USA,-
-7323,1981,Parker,,,,Ronan Le Manac'h and Patrick Barbier,Base Nautique de l'Ile Grande,Pleumeur Bodou,FRA,-
+7323,1981,Parker,,,,Ronan Le Manac'h / Patrick Barbier,Base Nautique de l'Ile Grande,Pleumeur Bodou,FRA,-
 7328,,,,,,,,,GBR,-
 7329,,Kyrwood,fibreglass,D. Emery,,Jeff Frankish,,Rostrevor SA,AUS,-
 7330,,Kyrwood,fibreglass,D. Henty,,,,,AUS,-
@@ -1413,16 +1412,16 @@ Kirk Wilson",Aaron Ross '99,SCYC,Santa Cruz CA,USA,-
 7337,,Kyrwood,fibreglass,C. Palmer,,,,,AUS,-
 7338,,Kyrwood,fibreglass,Bob Fussell,,,,N.S.W.,AUS,-
 7343,,Lindsay,Wood: completed late and renumbered to 7343,Kalle Nilsson,,Hendrik Beek '12,,Stockholm,SWE,12
-7346,1981,Waterat,Wood look,Macy Nelson,Jim Englert; Latane Montague'96; John Hauser '99Mark Angliss'04,Craig Thompson,"Portsmouth, NH",Chicago,USA,8
+7346,1981,Waterat,Wood look,Macy Nelson,Jim Englert; Latane Montague'96; John Hauser '99;Mark Angliss'04,Craig Thompson,"Portsmouth, NH",Chicago,USA,8
 7347,1983,Waterat,Wood look: rebuilt '96,Toby Cooper,Bruce Smith,Phil Terman '98,,Toledo OH,USA,-
 7349,,Waterat,Wood look,Jim Wondolleck/ Jay Kuncl,,,,CA,USA,-
-7352,1983,Waterat,Clark foam cored Waterat (1st plastic Waterat built) renumered 7772,Ali Meller (rebuilt '88 - floor foam),Barney Harris,Jenn/Neil Twilla '97,,CO,USA,-
+7352,1983,Waterat,Clark foam cored Waterat (1st plastic Waterat built) renumered 7772; Ali Meller (rebuilt '88 - floor foam),Ali Meller,Barney Harris,Jenn/Neil Twilla '97,,CO,USA,-
 7353,1983,Waterat,Honeycomb,Ian Plumbley,,,,Vancouver,CAN,-
-7354,1983,Waterat,Foam cored,Renka/ Adam Gesing,Jeff Boyd; Richard Klajnscek (rebuilt '94),Patrick Delongpre'96,,MI,USA,-
-7355,,Blessing,home built of cedar + mahogany,Blessing,,Alexandria Wooden Boat Society('97) (Broken up in 2001),,VA,USA,-
+7354,1983,Waterat,Foam cored;Richard Klajnscek (rebuilt '94),Renka/ Adam Gesing,Jeff Boyd; Richard Klajnscek '94,Patrick Delongpre'96,,MI,USA,-
+7355,,Blessing,home built of cedar + mahogany;Broken up in 2001,Blessing,,Alexandria Wooden Boat Society '97,,VA,USA,-
 7356,,Ballenger,rerigged '02,Ralph Fisher '96,Mike Goldstein '99,,,PA,USA,-
 7356,1981,Fountaine/Pajot,,Illy Brummer / Olli Karlsson,Kari Miettinen / Lasse Pälvimäki,Jussi Kirjasniemi,,,FIN,-
-7357,,Lindsay,Wood: completed late,Peter Follansbee / Chris Follansbee,,,,ME,USA,-
+7357,,Lindsay,Wood: completed late,Peter Follansbee & Chris Follansbee,,,,ME,USA,-
 7358,,Lindsay,Wood: completed late,Jan Aase,G.B. Braun; US Coastguard Academy; Bill Healey '96; Mike Breault '97,Matt Sovis '99,,MA,USA,-
 7359,,Waterat,launcher,Dennis Surtees,Dave Shelton; Gary Ruggles; Pierre Jeangirard,Tom Sitzman,,,USA,-
 7378,,Parker,,,,,,,GBR,-
@@ -1443,20 +1442,20 @@ Kirk Wilson",Aaron Ross '99,SCYC,Santa Cruz CA,USA,-
 7418,1982,Parker,composite,,,Arnaud L. Marignac,,,SUI,-
 7424,1983,Parker,composite,Peter Casalis de Pury,,,,Marmaris,TUR,-
 7425,1982,Parker,composite,Roger Deane '82,84',,,,UK,
-7427,,Parker,owner,Surrey,GBR,,,,,-
+7427,,Parker,,Surrey,GBR,,,,,-
 7428,,Parker,,,,,,,,-
 7429,1983,Parker,,,Mike Holt,,,,GBR,-
 7431,,Parker,epoxy/glass,,Chris Lehouck,Frank De Bruycker '97,,,BEL,-
 7433,,Parker,"""Alley Goose""",,,C. McErvel,,,IRL,-
-7434,,Parker,composite,,John Wyles,Peter Gudgeon (Uganda),,,KEN,-
+7434,,Parker,composite;Peter Gudgeon (Uganda),,John Wyles,Peter Gudgeon,,,KEN,-
 7435,1983,Parker,composite,,,Nils Berresheim,,,GER,-
 7438,1982,Galetti,all wood,,,Fanch Wargnier,,,FRA,-
 7441,,Parker,,Lloyd Fryer,,,,,GBR,
 7446,,Parker,,,,,,,GBR,-
 7449,,Parker,composite /bags,Dave Revell,,,RYA,,GBR,
-7450,,,,Rob and Nell McKanna AUS,,Jan van Riet '99,VVW Broechem,,BEL,-
+7450,,,,Rob McKanna & Nell McKanna AUS,,Jan van Riet '99,VVW Broechem,,BEL,-
 7541,1983,Parker,,,,B.Boyd; I.Armstrong,Lymington Town Sailing Club,,GBR,-
-7453,1983,Parker,,Krister Bergstroem,E Kallin/G Berg/P Ek,Magnus Ryde '12,,Stockholm,SWE,12
+7453,1983,Parker,,Krister Bergström,E Kallin/G Berg/P Ek,Magnus Ryde '12,,Stockholm,SWE,12
 7458,,Kyrwood,composite,Dale Phillips,Gary Scott '96,Chris Shand,,"SD, CA",USA,-
 7463,1982,Parker,,,,Mårten Hansson '12,,Skurup,SWE,12
 7467,,Rondar,composite,Phil Milanes,George Gebhard,T.Saarela,,,FIN,-
@@ -1466,14 +1465,14 @@ Kirk Wilson",Aaron Ross '99,SCYC,Santa Cruz CA,USA,-
 7476,,Kyrwood,fibreglass,I. Schmitt,,,,,AUS,-
 7477,,Kyrwood,fibreglass,Mark Soulsby,,,,S.A.,AUS,-
 7478,,Kyrwood,fibreglass,Alex Hayter,,Grant Rollerson,,W.A.,AUS,-
-7479,,Kyrwood,fibreglass,David O'Dowd and Paul Jackson,Matt Owen,Peter Ritchie,Peter Croft,Brisbane,AUS,-
+7479,,Kyrwood,fibreglass,David O'Dowd & Paul Jackson,Matt Owen,Peter Ritchie,Peter Croft,Brisbane,AUS,-
 7480,1982,Parker,"""Stanley Market Special""",HKG,,,,,SIN,-
 7481,,Kyrwood,fibreglass: AUS and world champion boat,Dean Blatchford,,,,,AUS,-
 7482,,Parker,,,,Tord Lawner,,,SWE,-
 7484,,Goldspar,fibreglass,Julian Golding,,Phill Manning,Sydney,NSW,AUS,-
 7485,,Kyrwood,fibreglass,Kerry Anderson; Ian Ruff,,,,,AUS,-
 7486,,Kyrwood,fibreglass,Peter Jackson,,Sandy Wilkinson,Port Macquarie,N.S.W.,AUS,-
-7487,,Kyrwood,fibreglass,Dennis and Les Evans,,,,N.S.W.,AUS,-
+7487,,Kyrwood,fibreglass,Dennis Evans & Les Evans,,,,N.S.W.,AUS,-
 7491,,Parker,,,,,,,FRA,-
 7500,,Rondar,"New model: no tank flutes, monocoque",,,,,,,-
 7505,,Parker,fibreglass,Bill Ingram,,Frederick Somerville '12,,Göteborg,SWE,12
@@ -1497,13 +1496,13 @@ Kirk Wilson",Aaron Ross '99,SCYC,Santa Cruz CA,USA,-
 7537,,Dinghy Sports,fibreglass,Michael Lehmann,,,,N.S.W.,AUS,-
 7538,,Kyrwood,fibreglass,Andrew MacDougall,,,,Vic.,AUS,-
 7539,,Parker,fibreglass,,,Jakub Brdulak,,Zegrze,POL,10
-7540,1983,Parker,,,Anders Pettersson; Mats Gransell/Yngve Gustafsson; Lars Laitinen; Mikael Leksell 00,Torbjörn Wickström and Sofia Thorn 02,,Linköping,SWE,-
+7540,1983,Parker,,,Anders Pettersson; Mats Gransell/Yngve Gustafsson; Lars Laitinen; Mikael Leksell 00,Torbjörn Wickström & Sofia Thorn 02,,Linköping,SWE,-
 7545,1983,Rondar,,P. Woods GBR,,Niklas Phillips,,,GER,-
-7546,,Rondar,originally Grafham,Graeme Busby with Colin Greer,Charles Milton,,Berlin,,GER,-
+7546,,Rondar,originally Grafham,Graeme Busby & Colin Greer,Charles Milton,,Berlin,,GER,-
 7547,1985,Rondar,,,Martin Weber,,Berlin,,GER,
 7554,,Parker,"composite, (extensive rebuild '96)",,John Edney; Pete Wallio; Gary van Tassel '96; Henry McCray,Joel Keever '99,,NC,USA,-
 7556,,builder,,,,,,,GBR,-
-7557,1982-83,Milanes White,glass/ special launcher; extra stiffening in CB case and hull skin stiff rig Proctor E,Graham Thomas,Gordon England,Sold to Grafham member but disappeared very quickly.,,,GBR,-
+7557,1982-83,Milanes White,glass/ special launcher; extra stiffening in CB case and hull skin stiff rig Proctor E;Sold to Grafham member but disappeared very quickly.,Graham Thomas,Gordon England,,,,GBR,-
 7559,,Parker,,,,Markus Real,,,SUI,-
 7563,1981,Fountaine-Pajot,,C.Mautin,,Johann Garnier,,St Malo,FRA,-
 7566,,Rondar,,GBR,,Katrin Deinhardt; Olav Schluter,Datchet,"Rye, NY",USA,-
@@ -1525,14 +1524,14 @@ Kirk Wilson",Aaron Ross '99,SCYC,Santa Cruz CA,USA,-
 7607,,Waterat,Clark foam core,Jeff Miller/Bob Sutton/Tilley Dennison,"Alan Walker, Andrew Harlos'99",Kevin Washbrook/Jose Fonseca,Kitsalano YC,B.C.,CAN,9
 7608,,Waterat,Clark foam core,Derek Campbell,Randy Griffin,Ian West-Lewis,,"SF, CA",USA,-
 7609,,Waterat,Clark foam core,Paul Nyenhuis,Dennis Coplen; Rob Mulder,Ralf Silverman '05,,CA,USA,-
-7610,,Waterat,Clark foam core,Larry Kangley,David Smart,Cynthia DesBrisay and Chuck Hansen '98,Vancouver,BC,CAN,-
+7610,,Waterat,Clark foam core,Larry Kangley,David Smart,Cynthia DesBrisay & Chuck Hansen '98,Vancouver,BC,CAN,-
 7611,,Waterat,"Honeycomb/ custom ""Do you feel lucky punk""",Jim Wondolleck,Craig Perez,JB Turney,Montrose Harbor,Chicago,USA,8
 7612,,Waterat,Clark foam core,Guy Ciappini,"Marg Hurley, Chuck Hanson/Penny Eastabrooke",Cameron Johnson 08,,"Ottawa, Ontario",CAN,-9
 7613,1983,Kyrwood,,Kevin Lewis,Dave Detra,Joseph Keating '97,,CO,USA,-
 7621,1983,Tony Smith,UK-built Lindsay copy,Mark Thornburrow,,L. Mead,,,HKG,-
-7624,,Rondar,,Will Pascall (UK),,John Wylie '07,,N.Ireland,GBR,-
+7624,,Rondar,,Will Pascall GBR,,John Wylie '07,,N.Ireland,GBR,-
 7625,,Parker,"Proxy Dog""",,,J. Anderson '05,,,IRL,-
-7627,,Parker,,Dave Clarke(UK),John Wyles(Uganda),John Groves,,,ZIM,-
+7627,,Parker,,Dave Clarke GBR,John Wyles UGA,John Groves,,,ZIM,-
 7629,1983,Parker,,Philippe Serane,Philippe Goubault,,,,FRA,-
 7634,,Parker,composite,Roland Fellmann,,,,,SUI,-
 7638,1984,Parker,,,,,,,GER,-
@@ -1544,11 +1543,11 @@ Kirk Wilson",Aaron Ross '99,SCYC,Santa Cruz CA,USA,-
 7657,1984,Rondar,composite,Ali Saarela,,Mati;Andy Sparv,,Antila; Vaasa,FIN,-
 7658,,Rondar,,Hannu Merikallio,Akke;Harri Kuusela,Jussi Ekqvist,Wulf/Achrénin,Turku,FIN,-
 7662,1986,Milanes & White,,Roger Deane '86-88,,,,,,
-7663,,Rondar,,Peter Flinkman and Otto Toivanen,Hannu Merikallio; Jukka Suonpaa,Kalle Mether/Peter Rönnberg '01,Airisto Segelsällskap,Turku,FIN,-
+7663,,Rondar,,Peter Flinkman & Otto Toivanen,Hannu Merikallio; Jukka Suonpaa,Kalle Mether/Peter Rönnberg '01,Airisto Segelsällskap,Turku,FIN,-
 7667,,Milanes & White,,David White,,Sven Flood '12,,Alingsås,SWE,12
 7669,,Parker,UK National Champion in 1985,Chris Lewis,/Jim Coates,Piotr Żółtowski,SKŻ Sopot,Warsaw/Zegrze,POL,10
 7675,,Parker,,,,Malcolm Yates,,Isle of Man,GBR,-
-7678,,Parker,all glass: extensive CB cap rebuild '97,Phil Schreiner,George Saunders; Atle Moe '97,John Hirsch and Brent Pomerhn '99,,"Jacksonville, FL",USA,-
+7678,,Parker,all glass: extensive CB cap rebuild '97,Phil Schreiner,George Saunders; Atle Moe '97,John Hirsch & Brent Pomerhn '99,,"Jacksonville, FL",USA,-
 7679,,Parker,,Kevin Reid CAN,,Shirley Denton '99,,FL,USA,-
 7680,,Parker,,,,,,,GBR,-
 7681,,Parker,all glass,Barb/Henry Amthor,,Sledd Shelhorse/Graham Garrenton,Gary Gowans,NC,USA,-
@@ -1558,7 +1557,7 @@ Kirk Wilson",Aaron Ross '99,SCYC,Santa Cruz CA,USA,-
 7686,,,Composite bags; launcher installed,,,Brian Annis,,"Columbus, OH",USA,-
 7687,1983,Parker,all glass,,,John/Shirley Moss; Rick Leir,,"Ottawa, Ontario",CAN,-
 7689,,Parker,all glass bag boat,Monty Schumpert,Chris Muelman,,,New England,USA,-
-7690,1984,Parker,"composite launcher ""Nothing by Chance""",Wansborough family,Iain Christie/ Jason Gouldstone '05,Graham  '08,,Scotland,GBR,-
+7690,1984,Parker,"composite launcher ""Nothing by Chance""",Wansborough family,Iain Christie/ Jason Gouldstone '05,Graham '08,,Scotland,GBR,-
 7692,1984,Parker,all glass: launcher but forward tack,Steven Northeast,Adrian Coates,David Sadler,,,GBR,-
 7699,,Parker,,Visa Hietalahti,Mika Pitkänen; Merikallio/ Lindström,Joakim Westerlund/Jesper Broo '00,Airisto Segelsällskap,Turku,FIN,-
 7701,,Parker,,,,,,,GBR,-
@@ -1633,7 +1632,7 @@ Kirk Wilson",Aaron Ross '99,SCYC,Santa Cruz CA,USA,-
 7859,,Parker,,Rob Waterman USA, '94,,,,CAN,-
 7860,86,Parker,,Tim Boeger,,,,,GER,
 7873,,Waterat,"Honeycomb custom ""Ramblin Rose""",Tony Watson,Alan Norman,Mark Dowdy '04,,CA,USA,-
-7874,,Waterat,Honeycomb,John Gilmour,Lars Guck/Josh Adams (RI),Destroyed by falling tree April '98,,,USA,-
+7874,,Waterat,Honeycomb; Destroyed by falling tree April '98,John Gilmour,Lars Guck/Josh Adams (RI),,,,USA,-
 7875,,Waterat,Honeycomb,Jeff Miller,,,,Santa Cruz CA,USA,-
 7876,1986,Waterat,,Gary Bodie,Tyler Moore; Brandon Charif; Steve Lieberman; John Hauser,Jon Preston-Thomas '05,,Ottawa,CAN,-
 7877,1986,Waterat,PVC foam core; repainted '96,Jack Ronda,,Steve Anderes,,Cupertino CA,USA,-
@@ -1669,12 +1668,12 @@ Kirk Wilson",Aaron Ross '99,SCYC,Santa Cruz CA,USA,-
 7938,,Kyrwood,fibreglass,Neil Long AUS,Robert Yeamans,,Shetland Isles,Scotland,GBR,-
 7939,,Rowsell & Morrison,,,Barry Bradford/Dave Allen,David Henshall,,,GBR,-
 7940,,Kyrwood,Worlds winner '86,Peter Colclough,Guy De Restrepo,,,Reichstett,FRA,-
-7941,,Milanes & White,,Serge Ehrhart FRA,"Robert Lehmann, Jean-Philippe Spindler",Veronique Dousselin,,Strasbourg,FRA,-
+7941,,Milanes & White,,Serge Ehrhart FRA,"Robert Lehmann; Jean-Philippe Spindler",Veronique Dousselin,,Strasbourg,FRA,-
 7942,,,,,,Karsten Morf '97,Sailing Club Bad Zwischenahn,,GER,-
 7948,,Rondar,,Hannu Merikallio FIN,,,,,SUI,-
 7950,,Parker,,Marie Gendron,Louis Samson,Nicolas Popov/Max Nichols '02,,"Montreal, Quebec",CAN,-
 7951,,Parker,all glass bag boat,Rick Leir,,Peter Milan; Jennifer Witzel '97,,Toronto,CAN,-
-7953,,Kyrwood,,some Aussie guy (!!!),Stephan Rueger; Adrian Zaugg/Urs Rothacher SUI,Adrian Zaugg,,,GBR,-
+7953,,Kyrwood,,,Stephan Rueger; Adrian Zaugg/Urs Rothacher SUI,Adrian Zaugg,,,GBR,-
 7955,,Kyrwood,,Albert Blattner,,,,Strasbourg,FRA,-
 7956,,Kyrwood,WC '90,Schonherr DEN,,Happonen/Happonen,,Helsinki,FIN,-
 7957,1986,Kyrwoods,fibreglass,Ralf-Joachim Stoll GER,Achim Weimer GER; Tomasz Bernat POL,Michał Redmerski,,Grudziądz,POL,10
@@ -1755,7 +1754,7 @@ Kirk Wilson",Aaron Ross '99,SCYC,Santa Cruz CA,USA,-
 8064,,Kyrwood,,,,,,,FRA,-
 8067,,,,,,,,Vancouver,CAN,-
 8068,,,,Mike Mills,Brian Trainor; Paul Shipley,Bob Lukas '04,Vancouver,BC,CAN,-
-8070,,Parker,24-composite  Model 25's afterwards,,,,,,GBR,-
+8070,,Parker,24-composite Model 25's afterwards,,,,,,GBR,-
 8071,1987,Milanes & White,,,,Per Kjellberg '12,,Ängelholm,SWE,12
 8072,,Parker,,Tim Bird,Richard Sims '98; Gavin Rendall'00,Chris Marwood/Gavin Burnell,,Cork,IRL,-
 8073,,Parker,24,Mark Derry GBR,,Stephen Long/Katherine Viechnicki '00,,Chicago,USA,-
@@ -1818,7 +1817,7 @@ Kirk Wilson",Aaron Ross '99,SCYC,Santa Cruz CA,USA,-
 8181,1989,Parker,,Bill Ingram,Andrew Roberts 08,David Harries 09,,"Llyn Brenig, Wales,",GBR,9
 8182,1989,Kyrwood,fibreglass,Matt Hansen,,Mark Stowell,,W.A.,AUS,-
 8183,1989,Kyrwood,fibreglass,John Corser,,,,,AUS,-
-8184,1989,Kyrwood,fibreglass,Chris Links,,JM PEROL,,,FRA,8
+8184,1989,Kyrwood,fibreglass,Chris Links,,JM Perol,,,FRA,8
 8185,1989,Kyrwood,fibreglass,Scott Evans,,Earle Alexander,,Qld,AUS,-
 8186,1989,Kyrwood,fibreglass,Tony Outteridge,,Tim Davies,,N.S.W.,AUS,-
 8190,,Lindsay,"Lindsay (hull), Waterat (finished)",Larry Rosenfeld,,,,Marblehead MA,USA,-
@@ -1844,7 +1843,7 @@ Kirk Wilson",Aaron Ross '99,SCYC,Santa Cruz CA,USA,-
 8222,1989,Parker,,,,Wojciech Denderski,,Szczecin,POL,2010
 8223,,,,Harold Medd,,,,,AUS,-
 8226,1989,Parker,,Tim Boeger,,,,,GER,
-8228,,Parker,,J Bojsen-Moeller Den,G Berg,E Kallin,,,SWE,-
+8228,,Parker,,Jacob Bojsen-Møller,G Berg,E Kallin,,,SWE,-
 8229,,Rondar,,Hannu Merikallio/ Tom Lindström FIN,,92,,,GER,-
 8230,1989,Parker,"25 - ""Business as Usual""",Carl Spears,,,,,GBR,-
 8231,,Waterat,honeycomb,,,,,,FRA,-
@@ -1857,7 +1856,7 @@ Kirk Wilson",Aaron Ross '99,SCYC,Santa Cruz CA,USA,-
 8241,,Rondar,,,,T.Bayliss,,,GBR,-
 8242,,Kyrwood,Written off in motor accident,Mark Upton-Brown,,,,,GBR,-
 8243,,Kyrwood,,,,,,,GBR,-
-8244,1989,Kyrwood,,Mike Holt,Tim Rush '90 GBR Phil Gladman 07,Evan Harrell /Ashley Love,,Annapolis,USA,-
+8244,1989,Kyrwood,,Mike Holt,Tim Rush '90 GBR;Phil Gladman 07,Evan Harrell /Ashley Love,,Annapolis,USA,-
 8245,,Kyrwood,,Simon Law,"Dave Peacock; Patrick McGale GBR, Charlie Dore USA 08",Jim Fregusson 2010,,Vancouver,CAN,-
 8249,,Parker,Special 25 for 470 world champion,Nigel Buckley,,,,,BER,-
 8252,,Parker,,Sven Lunke,,,,,GER,-
@@ -1887,7 +1886,7 @@ Kirk Wilson",Aaron Ross '99,SCYC,Santa Cruz CA,USA,-
 8288,1990,Rondar,epoxy,,,Angus Ross,Marek Balinski,"Toronto, Ont",CAN,-
 8289,1989,Kyrwood,fibreglass,William Finlay,,Justin Mitchell,,N.S.W.,AUS,-
 8290,1989,Kyrwood,fibreglass,Terry Kyrwood,,Dan Fuller,,Qld,AUS,-
-8291,1989,Kyrwood,fibreglass,Ian Barker (U.K.),,,,,AUS,-
+8291,1989,Kyrwood,fibreglass,Ian Barker GBR,,,,,AUS,-
 8292,1989,Kyrwood,fibreglass,Bob Fussell; Robert Fennell,,Craig Doyle,,N.S.W.,AUS,-
 8293,1989,Kyrwood,fibreglass,Laura Warlow,,,,Qld,AUS,-
 8294,1990,Syga,,,,,,,FRA,-
@@ -1988,11 +1987,11 @@ Kirk Wilson",Aaron Ross '99,SCYC,Santa Cruz CA,USA,-
 8418,,Rondar,,GBR,H. Winchenbach,Jan Sell '05,,Hamburg,GER,-
 8419,,Rondar,Epoxy,,Pete Mallaband,Leif/Axel Danielsson,,Halmstad,SWE,2014
 8420,,Rondar,,Neil Burrows,Ronald Vanthoor,,,,BEL,-
-,,,,,,,,,,
+8422,,,,,,,,Piotr Żółtowski,POL,-
 8423,,Kyrwood,,,,,,,GBR,-
 8426,,,,,,,,,SUI,-
 8427,,,,,,,,,SWE,-
-8429,,Rondar,"""Pink I-D""",Howard Roddis,Rob Napier; Graham Black Fenton Parsons'04,Alex Browne,MBSC,Northern Ireland,GBR,8
+8429,,Rondar,@Pink I-D@,Howard Roddis,Rob Napier; Graham Black & Fenton Parsons'04,Alex Browne,MBSC,Northern Ireland,GBR,8
 8431,,Rondar,WC '93 Ian Barker,Thomas Boudier,,Jacques Dechauffour '07,,,FRA,-
 8432,,Rondar,,Debbie Jarvis,,,,,GBR,-
 8433,,Kyrwood,,Jörgen Schönherr; Jürgen Anton,,,,,GER,-
@@ -2007,8 +2006,8 @@ Kirk Wilson",Aaron Ross '99,SCYC,Santa Cruz CA,USA,-
 8443,,,"""Chilli pepper"" (with wrong spelling!)",Paul Brotherton,Alan Jurd,Philippe Goubault '99,,,FRA,-
 8444,,Rondar,,Christian Lippi,,,,South,FRA,-
 8445,,Rondar,,Andy Williams,,,,,GBR,-
-8446,,Henderson,home built Kevlar; honeycomb,Kris/Anne Henderson,,Paul Ching '98,,WA,USA,-
-8447,,Syga,owner,FRA,,,,,,-
+8446,,Henderson,home built Kevlar; honeycomb,Kris Henderson & Anne Henderson,,Paul Ching '98,,WA,USA,-
+8447,,Syga,,FRA,,,,,,-
 8448,,,Number not used,,,,,,,-
 8449,,Rondar,,GBR,,Guy Evans,,,SUI,-
 8450,1993,Kyrwood,,Holger Jess,,,,,GER,
@@ -2029,7 +2028,7 @@ Kirk Wilson",Aaron Ross '99,SCYC,Santa Cruz CA,USA,-
 8467,,Rondar,epoxy,George Simpkins,,Chris Romans / Brenda Romans,,Portishead,GBR,-
 8471,,Rondar,,Dirk Rothe,Warwick Ham,Richard Hutton-Squire,,,RSA,
 8474,,Rondar,,Chris Thorne,,,,,GBR,-
-8475,1994,Rondar,,Krister Bergstrom,,,,,SWE,-
+8475,1994,Rondar,,Krister Bergström,,,,,SWE,-
 8476,1994,Rondar,,Jan Saugmann,,Mats Holmberg '12,,Stockholm,SWE,12
 8477,,,another candidate for last Parker,Stefan Böhm,,,,,,-
 8478,,,,,,,,,GER,-
@@ -2048,7 +2047,7 @@ Kirk Wilson",Aaron Ross '99,SCYC,Santa Cruz CA,USA,-
 8496,1993,Rondar,,Paul Young,,,,,FRA,-
 8497,1993,Kyrwood,,Mike Holt/ Neil Fulcher,,Roger Driver '95,,,GBR,-
 8498,1993,Kyrwood,carbon,Geoff Kyrwood,,Dave O'Dowd& Peter Drinkwater,,N.S.W.,AUS,-
-8499,1993,Kyrwood,carbon,Terry Kyrwood,,Pip Pearson,,S.A.,AUS,-
+8499,1993,Kyrwood,carbon,Terry Kyrwood,,Malcolm 'Pip' Pearson,,S.A.,AUS,-
 8500,1993,Kyrwood,fibreglass,David Page AUS,,,,,RSA,-
 8500,1993,,,Joerg Haeger,,,,,GER,-
 8501,1993,Kyrwood,fibreglass,Martin White,,,,,AUS,-
@@ -2056,7 +2055,7 @@ Kirk Wilson",Aaron Ross '99,SCYC,Santa Cruz CA,USA,-
 8503,1993,Kyrwood,fibreglass,Ben Noble,,,,,AUS,-
 8504,1993,Kyrwood,fibreglass,Justin Carey,,,,,AUS,-
 8506,1993,Kyrwood,fibreglass,John Warlow,,Michael Eaton,,Qld,AUS,-
-8507,1993,Rondar,,Vernon Ralston GBR,"Armin Eismann, Thorsten Koch",Bernhard Ritschard,,Lubeck,GER,9
+8507,1993,Rondar,,Vernon Ralston GBR,"Armin Eismann; Thorsten Koch",Bernhard Ritschard,,Lubeck,GER,9
 8508,,Rondar,,Sam Neal,,,,,GBR,-
 8510,,Rondar,,Ian Barker,,Martin Wedge,,,GBR,-
 8511,,Rondar,,Robin Boardman,,Brian Goggin '06,,Monkstown,IRL,-
@@ -2093,14 +2092,14 @@ Kirk Wilson",Aaron Ross '99,SCYC,Santa Cruz CA,USA,-
 8552,,Rondar,some carbon; won the '97 World's,Mark Upton-Brown,Jim Blyth,Mick O'Brien '07,,,IRL,-
 8553,,Rondar,,Paul Gorremans,,,,,BEL,-
 8554,,Waterat,,Steve Bartz,Doug Hagan '00,Ted Conrads 08,TSIC,"San Francisco,CA",USA,-8
-8555,,Rondar,,Dave Smithwhite or Rob Sutherland,,,,,GBR,-
+8555,,Rondar,,Dave Smithwhite & Rob Sutherland,,,,,GBR,-
 8556,,Kyrwood,,Richard Tew,,,,,GBR,-
 8556,,Rondar, duplicate number,Jacob Bojsen-Møller,,,,,DEN,-
 8557,,Kyrwood,carbon,Neil Long,,,,N.S.W.,AUS,-
 8558,,Kyrwood,carbon,Scott Lerish,Claus Ejlertsen; Paul von Grey,Angus Brackett/ Colin Orsini '07,,,USA,-
 8559,,Kyrwood,carbon,Alex Higgins AUS,Paul VonGrey '98,Hubert Guy,Team Pegasus,Hawaii,USA,-
 8560,,Kyrwood,,,,,,,GER,-
-8561,,Kyrwood,,Peter Moller,,Tomi Laiho/  Perden '03,,Pori,FIN,-
+8561,,Kyrwood,,Peter Moller,,Tomi Laiho/ Perden '03,,Pori,FIN,-
 8562,,Rondar,,Seifert,,,,,GER,-
 8563,,Rondar,,Heinz Balters/ Oliver Tessloff,,,,,GER,-
 8564,,Rondar,,Ian Gould,,,,,GBR,-
@@ -2147,7 +2146,7 @@ Kirk Wilson",Aaron Ross '99,SCYC,Santa Cruz CA,USA,-
 8619,1996,Kulmar,carbon: won AUS Champs '96,Chris; Darren Nicholson,,Michael Ahrbom,,,SWE,-
 8620,,Rondar,WC '07,Søren Overbeck,Jan Saugmann,,,,DEN,-
 8621,,Kyrwood,,Dirk Filiminov,,,,,GER,-
-8622,,Duviossin,,Tom Bøjland DEN,,Michal Korneszczuk/ Krzysztof Krempec '06,,,POL,-
+8622,,Duviossin,,Tom Bøjland DEN,,Michał Korneszczuk/ Krzysztof Krempeć '06,,,POL,-
 8623,,Rondar,,Stefan Böhm,,,,,GER,-
 8624,1996,Rondar,,Ian Pinnell GBR,,Dave Stetson '97,,Columbus OH,USA,-
 8625,1996,Rondar,,Mel Newman,Ronald Vanthoor/Frank Boonen,,,,BEL,-
@@ -2169,7 +2168,7 @@ Kirk Wilson",Aaron Ross '99,SCYC,Santa Cruz CA,USA,-
 8642,,Duvoisin,,Stefan Schollmayer,,,,,GER,-
 8643,1997,Waterat,,Barney Harris,,,Fleet 19,VA,USA,-
 8644,,Waterat,,David Porter,,,,,AUS,-
-8645,1997,Waterat,Launcher,Jim Englert,Dave Anderson and Fred Liesegang '98,Thomas Hurwitch '07,,Falmouth MA,USA,-
+8645,1997,Waterat,Launcher,Jim Englert,Dave Anderson & Fred Liesegang '98,Thomas Hurwitch '07,,Falmouth MA,USA,-
 8646,,Kulmar,carbon,Chris Nicholson,,,,N.S.W.,AUS,-
 8647,,Kyrwood,carbon,Terry Kyrwood,Glenn Hart; Don Henry,Michel Sotura '07,,Seattle WA,USA,-
 8648,,Van Munster,carbon,Brett van Munster,,,,N.S.W.,AUS,-
@@ -2177,7 +2176,7 @@ Kirk Wilson",Aaron Ross '99,SCYC,Santa Cruz CA,USA,-
 8650,,Kyrwood,,Ian Montague,,,,,GBR,-
 8651,,,,,,Peter Andersson '12,,Göteborg,SWE,12
 8654,1997,Kyrwood,,Nikolaus Jaegersberg,,,,Munich,GER,-
-8655,,Rondar,WC '00,Krister Bergstrom,,Joakim Peterson '12,,Onsala,SWE,12
+8655,,Rondar,WC '00,Krister Bergström,,Joakim Peterson '12,,Onsala,SWE,12
 8656,,Rondar,,Jörgen Schönherr,,,,,DEN,-
 8657,,,,Reiner/ Martin Goerge,,,,,GER,-
 8658,,Mader,epoxy,Uwe Barthel,,,,,GER,-
@@ -2224,7 +2223,7 @@ Kirk Wilson",Aaron Ross '99,SCYC,Santa Cruz CA,USA,-
 8701,,Rondar,,Paul Lovesy,,,,,GBR,-
 8702,,Duvoisin,,Philippe Boite,,,,,FRA,-
 8703,,,,,,,,,,-
-8704,1998,Rondar,,Dan Cripps GBR,Jean-Baptiste Dupont '99,Elizabeth Niedhart,,,FRA,-
+8704,1998,Rondar,,Dan Cripps GBR,Jean-Baptiste Dupont '99,Elizabeth Neidhart,,,FRA,-
 8705,,Rondar,,Simon J. Lake,,Jean -Baptiste Dupont '03,,,FRA,-
 8706,,Rondar,,Tim Scarisbrick,,,,,,-
 8707,,Rondar,,Steve Nicholson,,,,,,-
@@ -2268,7 +2267,7 @@ Kirk Wilson",Aaron Ross '99,SCYC,Santa Cruz CA,USA,-
 8747,,Rondar,,Jochen Thurmann,,,,,GER,-
 8748,2000,Rondar,,Gilles Cavello,,,,,FRA,-
 8749,2000,Ziegelmayer,Krywood mouldings.,,,Charles Milton '07,Helensburgh Sailing Club,Scotland,GBR,-
-8750,2000,Rondar,,Hunger and Jess,,Michael Roessler/ Holger Neuhaus '03,,,GER,-
+8750,2000,Rondar,,Wolfgang Hunger & Holger Jess,,Michael Roessler/ Holger Neuhaus '03,,,GER,-
 8751,2000,Rondar,,Markus Muhlbauer,,,,,GER,-
 8752,2000,Rondar,,Paul Young,,,,,GBR,-
 8753,2000,Rondar,,Robert Shewan,,,,,USA,-
@@ -2307,7 +2306,7 @@ Kirk Wilson",Aaron Ross '99,SCYC,Santa Cruz CA,USA,-
 8806,2002,Rondar,,Ebbe Rosen; Olle Wenrup,,,,,SWE,-
 8808,2002,Waterat,,Evert Meyer,,,,SF,USA,-
 8811,2002,Fremantle 505,Prepreg-carbon/ honeycomb,Matt Hansen,,,,WA,AUS,-
-8812,2002,Van Munster,,Krister Bergstrom,,,,,SWE,-
+8812,2002,Van Munster,,Krister Bergström,,,,,SWE,-
 8813,2002,Van Munster,,Brett van Munster,,Mattias Kennernecht '06,,Santa Cruz CA,USA,-
 8814,2003,Van Munster,Prepreg carbon-honeycomb,Lin Robson,,,,St. Pete FL,USA,-
 8815,2003,Van Munster,,Fritz Lanzinger,,,,CA,USA,-
@@ -2424,9 +2423,9 @@ Kirk Wilson",Aaron Ross '99,SCYC,Santa Cruz CA,USA,-
 8930,2007,Rondar,,McKeige,,,,,USA,-
 8931,2007,Rondar,,Esdorn,,,,,GER,-
 8932,2007,Mader,,,,,,,GER,-
-8933,2007,Fisher,,Franziska Unkelbach GER,Jean-Yves KOHLER,,,,FRA,2010
+8933,2007,Fisher,,Franziska Unkelbach GER,Jean-Yves Kohler,,,,FRA,2010
 8934,2007,Rondar,,Pierre Kieffer,,,,,LUX,-
-8935,2007,Rondar,,Ian Pinnell Russel/ Andy Short,,,,,GBR,-
+8935,2007,Rondar,,Ian Pinnell,Russel Short/ Andy Short,,,,GBR,-
 8936,2007,Segelsport Jess,,,,,,,USA,-
 8937,2007,Rondar,,Kevin Taugher,,,,ABYC,USA,-
 8938,2007,Segelsport Jess,,,,,,,USA,-
@@ -2453,13 +2452,13 @@ Kirk Wilson",Aaron Ross '99,SCYC,Santa Cruz CA,USA,-
 8959,,,,,,,,,,-
 8960,2008,Rondar,won world's '08,Ian Pinnell,,,,,GBR,-
 8961,mar08,Rondar,Carbon/epoxy,Ewen Barry/ Charles Dwyer,,,,,IRL,8
-8962,,Rondar,Carbon/epoxy,Bojsen-Møller,Pia and Michael Matscheroth '11,,,,DEN now GER,8
+8962,,Rondar,Carbon/epoxy,Jacob Bojsen-Møller,Pia Matscheroth & Michael Matscheroth '11,,,,DEN now GER,8
 8963,2008,Rondar,Carbon/epoxy,Martin Hodgson GBR,,,,,GER,8
 8964,2008,Rondar,Carbon/epoxy,Jan Saugmann,,,,,DEN,
 8965,2008,Rondar,Carbon,Hasso Plattner,,,,,GER,8
 8967,2008,Pegasus,PrePreg,Pegasus Racing,,,,Santa Cruz,USA,8
 8968,2008,Fremantle,Windrush built Carbon,Matt Hansen,Andrew Cawley,,,WA,AUS,8
-8973,2009,Fremantle/XSP,Foam coring,Mark Stowell Matt Hansen,,,,Fremantle sailing club,AUS,9
+8973,2009,Fremantle/XSP,Foam coring,Mark Stowell & Matt Hansen,,,,Fremantle sailing club,AUS,9
 8974,2009,Rondar,Carbon/epoxy,Neil Fulcher,,,,Stone SC,GBR,9
 8975,,Rondar,,Dietrich Scheder-Bieschin,,,,,GER,8
 8987,2009,Rondar,Jess,David Chatham,Peter Scannell,,,,USA,
@@ -2528,7 +2527,7 @@ Kirk Wilson",Aaron Ross '99,SCYC,Santa Cruz CA,USA,-
 9059,2011,Rondar,Jess,Sebastian Salein,,,,,,
 9060,2011,Duvosion,,Catherine Houriet,,,YC Geneva,,SUI,12
 9061,2011,Rondar,Jess,Kevin Cameron,,,,,AUS,
-9062,2011,Rondar,Carbon /epoxy,Joergen Bojsen-Møller/Jacob Bojsen-Møller,,,Hellerup,,DEN,12
+9062,2011,Rondar,Carbon /epoxy,Jørgen Bojsen-Møller/Jacob Bojsen-Møller,,,Hellerup,,DEN,12
 9063,2011,Rondar,Carbon /epoxy,Norman Byrd,Richard Hutton-Squire,,NSC,,RSA,12
 9064,2011,Rondar,Jess,Phillipe Vandersteen,,,,,BEL,
 9065,2011,,,,,,,,,
@@ -2578,7 +2577,7 @@ Kirk Wilson",Aaron Ross '99,SCYC,Santa Cruz CA,USA,-
 9109,2013,Rondar,Hans Genefke,,,,,,DEN,
 9110,2013,Rondar,Carbon,Tim Boger,,,,,GER,
 9111,2013,Rondar,Jess,Andreas Jungclaus,,,,,GER,
-9112,2013,Rondar,Carbon,MORTEN BOGACKI,,,,,GER,
+9112,2013,Rondar,Carbon,Morten Bogacki,,,,,GER,
 9113,2013,Rondar,Jess Rondar,SOPHIE HEYER,,,,,GER,
 9114,2013,Rondar,Carbon,Robert Rothe,,,,,GER,
 9115,2013,Rondar,Carbon/Epoxy,Mike Holt,Dean Souter,,NSW,,AUS,
@@ -2587,8 +2586,7 @@ Kirk Wilson",Aaron Ross '99,SCYC,Santa Cruz CA,USA,-
 9118,2013,BlueBlue,,Jan Saugmann,,,,,DEN,
 9119,2014,BlueBlue,,,,,,,POL,
 9120,2014,BlueBlue,,,,,,,POL,
-9121,2014,Jess/Ovington,,Bojsen-Møller,,,,,DEN,
-9122,2014,Jess/Ovington,,Northoff,,,,,GER,
+9121,2014,Jess/Ovington,,Jacob Bojsen-Møller,,,,,DEN, 9122,2014,Jess/Ovington,,Northoff,,,,,GER,
 9123,2014,Jess/Ovington,,Enno Wilts,,,,,GER,
 9124,2014,Jess/Ovington,,Christian Diebitsch,,,,,GBR,
 9125,2014,Jess/Ovington,,Roger Deane,,,,,GBR,
@@ -2598,7 +2596,7 @@ Kirk Wilson",Aaron Ross '99,SCYC,Santa Cruz CA,USA,-
 9129,2014,Jess/Ovington,,Hasso Plattner,,,,,GER,
 9130,2014,Jess/Ovington,,Jungclaus,,,,,GER,
 9131,2014,Jess/Ovington,,Holger Jess,Nathan Batchelor,,,,GBR,
-9132,2014,Jess/Ovington,,Holger Jess,Przemek Zagorski,,,,POL,
+9132,2014,Jess/Ovington,,Holger Jess,Przemek Zagórski,,,,POL,
 9133,2014,Jess/Ovington,,Wolfgang Stuekl,,,,,GER,
 9134,2014,Jess/Ovington,,Michael Quirk,,,,,AUS,
 9135,2014,Jess/Ovington,,Stefan Boehm,,,,,GER,
@@ -2618,7 +2616,7 @@ Kirk Wilson",Aaron Ross '99,SCYC,Santa Cruz CA,USA,-
 9149,,,,,,,,,,
 9150,2015,P&B/Ovington,,Hervé de Kergariou,,,,,FRA,
 9152,2015,Jess/Ovington,,Wolfgang Hunger,,,,,GER,
-9153,2015,Rondar,,Howie Hamlin,,,,,USA,
+9153,2015,Rondar,,Howard Hamlin,,,,,USA,
 9154,,,,,,,,,,
 9155,,,,,,,,,,
 9156,2015,P&B/Ovington,,Mike Pickering,,,,,GBR,
@@ -2646,7 +2644,7 @@ Kirk Wilson",Aaron Ross '99,SCYC,Santa Cruz CA,USA,-
 9178,2017,Jess/Ovington,,Chris Lewns,,,,,GBR,
 9179,2017,Jess/Ovington,,Tudor Owen,,,,,GBR,
 9180,2017,Jess/Ovington,,Nathan Batchelor,,,,,GBR,
-9181,2017,Jess/Ovington,EC 2017,Bojsen-Møller,,,,,DEN,
+9181,2017,Jess/Ovington,EC 2017,Jacob Bojsen-Møller,,,,,DEN,
 9182,2017,Jess/Ovington,,Alexander Holzapfel,,,,,GER,
 9183,2017,Rondar,,Michael Breton,,,,,USA,
 9184,2017,Rondar,,Eric Schwab,,,,,USA,
