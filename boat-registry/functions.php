@@ -88,7 +88,7 @@ function add_more_owners( $users_ids, $date_from, $order = false ) {
 }
 
 function person( $raw, $person, $date_from = '', $order = false ) {
-	if ( empty( $date_from ) && preg_match( '/ \\d{2}$/', $raw, $matches ) ) {
+	if ( empty( $date_from ) && preg_match( '/(\d{2})$/', $raw, $matches ) ) {
 		$year      = intval( $matches[1] );
 		$date_from = add_century_to_date( $year );
 	}
@@ -111,7 +111,7 @@ function person( $raw, $person, $date_from = '', $order = false ) {
 }
 
 function add_organization( $raw, $person, $date_from = '', $order = false ) {
-	if ( empty( $date_from ) && preg_match( '/ \\d{2}$/', $raw, $matches ) ) {
+	if ( empty( $date_from ) && preg_match( '/(\d{2})$/', $raw, $matches ) ) {
 		$year      = intval( $matches[1] );
 		$date_from = add_century_to_date( $year );
 	}
@@ -136,10 +136,11 @@ function add_organization( $raw, $person, $date_from = '', $order = false ) {
 
 function check_is_person( $data ) {
 	if ( 7 > strlen( $data ) ) {
+        echo PHP_EOL,'short: ',$data,PHP_EOL;
 		return false;
 	}
     if ( ! preg_match( '/ /', $data ) ) {
-        echo 'no-space: ',$data,PHP_EOL;
+        echo PHP_EOL,'no-space: ',$data,PHP_EOL;
 		return false;
 	}
 	switch ( $data ) {

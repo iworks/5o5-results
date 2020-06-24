@@ -704,7 +704,7 @@ Sail No,Year Built,Builder,Description,First Owner,Subsequent Owners,Last Record
 3561,,,,,,Bruce Crocker '71,,,GBR,-
 3565,,,@Excitation@,,,Roger Challis '71,,,GBR,-
 3566,,,,Stetve Beckmann,Jack Zinn '01,,,ME,USA,-
-3579,,Parker,,Jan Hedberg,Ljungskile,,,,SWE,-
+3579,,Parker,,Jan Hedberg,Frank Bach Ljungskile,,,,SWE,-
 3587,,Lanaverre,,Rene Gautier,,,,,FRA,-
 3602,1970,Parker,@Vintage@,Bob Simpkins,,,,Santa Cruz CA,USA,-
 3612,1969,Parker,,Karl Deardorff,Russ Mitchell '03,,,NM,USA,-
@@ -801,7 +801,7 @@ Sail No,Year Built,Builder,Description,First Owner,Subsequent Owners,Last Record
 4106,1972,Parker,,Joe Diz,Doug Aitken,Bill Cottles '03,,,USA,-
 4109,,,,Michael R. P. Hayles '71,,,,,GBR,-
 4109,1971,,@Jesus Christ Superstar@,A. Clarke,,,,,HKG,-
-4110,,Copland GBR,Launcher,,Rene Racine,William/Francois Courteau,Quebec city,,CAN,2010
+4110,,Copland GBR,Launcher,,Rene Racine,William Courteau & Francois Courteau,Quebec city,,CAN,2010
 4127,,Parker,launcher,Greg Lawson,Bill Ball; Mark Gibbons,Gary Bodie,,,,-
 4129,,,@Revolution@,Ian D. Henry '71,,,,,GBR,-
 4131,,,@Downwhitecod@,M. D. Downing '71,,,,,GBR,-
@@ -1080,7 +1080,7 @@ R,,Rondar,all glass,,John Hauser; Don Bradshaw '99,Chad Littleton,,Annapolis MD,
 5840,,Kyrwood,fibreglass,Michael Lee,,,,NSW,AUS,-
 5841,,Kyrwood,fibreglass,Ian J. Bruce,,Brian Best,,NSW,AUS,-
 5842,,self-made,,John Dickson,,,,SA,AUS,-
-5843,,self-made,,H. Schultz,,,,NSW,AUS,-
+5843,,self-made,,Hendrik Schultz,,,,NSW,AUS,-
 5844,,Kyrwood,fibreglass,Ron Naughten,,,,NSW,AUS,-
 5848,,Rondar,@Garage Furniture@,Rusty Witwer,Brian Medlock '98; Tom McKinney '99,Mark Kurzava,,San Diego,USA,-
 5849,1976,Rondar,,Rich Mertl,Ryan Buccola,Ron Hewitt '04,Ted C. Engel,Calgary,CAN,-
@@ -1089,8 +1089,8 @@ R,,Rondar,all glass,,John Hauser; Don Bradshaw '99,Chad Littleton,,Annapolis MD,
 5868,,Parker,@Orangasm@ now @Distress@,Ali Meller & Peter Wood,Clarissa Bush/ Chris Gillies; Charles Hansen; Paul Hansen '91; Andrew Allen '98,John Hewitt '00,,Vancouver,CAN,-
 5872,1976,Parker,,Larry Kangley,,Holly Gardner,,Denver,USA,-
 5875,,Parker,"composite, pale blue hull & deck",,,Nick Costello,Langstone Sailing Club,Havant,GBR,-
-5901,,Parker,all glass,,,Camilla& Tomas Jönsson '02,,Göteborg,SWE,-
-5908,,Kyrwood,fibreglass,Verdun & Milton Hiles,,,,NSW,AUS,-
+5901,,Parker,all glass,,,Camilla Jönsson & Tomas Jönsson '02,,Göteborg,SWE,-
+5908,,Kyrwood,fibreglass,Verdun Hiles & Milton Hiles,,,,NSW,AUS,-
 5909,,self-made,,Robert L. Jones,,,,NSW,AUS,-
 5910,,Kyrwood,fibreglass,Bob Hodgson,,,,NSW,AUS,-
 5911,,,,R. Haselgrove,Jerry P.F. Brown,Ben Hunter,AUS,SA,AUS,-
@@ -1322,7 +1322,7 @@ R,,Rondar,all glass,,John Hauser; Don Bradshaw '99,Chad Littleton,,Annapolis MD,
 7087,,Parker,,Warren Mangan,,,,PA,USA,-
 7092,,Lindsay,wood,John Pulverman,Mark 'Wheels' Wheeler; Ken Elliott/Alan Kilgore,Dustin Romey/Jahn Tihansky ‘01,Annapolis MD,MD,USA,-
 7093,,Lindsay,Wood: won 1981& 1982 World Champs,Cam Lewis,,Chuck Millican '02,,Hamilton,BER,-
-7094,,Hamlin,,Phil Craig,,Soren & Jennifer '04,,Vancouver,CAN,-
+7094,,Hamlin,,Phil Craig,,Jennifer Lawson & Soren Jensen '04,,Vancouver,CAN,-
 7095,1979,Hamlin,,John Hayley CAN,Bailey White,Geoff Nelson/ Mark Kurzava,,San Diego CA,USA,-
 7096,,Hamlin,@Punishment Pony@,Jonathan Livingstone,Brian Largay/ Sanders Allan Staley '00;Dan Ginther'04,,,Seattle,USA,6
 7097,,Ballenger,,Sailing club in Washington State,,,,,USA,-
@@ -1364,7 +1364,7 @@ R,,Rondar,all glass,,John Hauser; Don Bradshaw '99,Chad Littleton,,Annapolis MD,
 7202,1980,Hamlin,Last Hamlin,Bruce Smith,,,,MN,USA,-
 7203,,Ballenger,,John Brim/ Kevin McCabe,Chris Woods '84; Kevin Kelly,Glen Torregiani,CT,USA,USA,-
 7204,1981,Ballenger,,Neil Ray,,,,Lakewood CO,USA,-
-7206,,Hamlin,"Launcher converted to bag, now offset launcher 09","David Sharpe/Bruce Stocker, David Meyers/Bill Mains, Jamie Stewart/","Jay Winberg, Fred Grimm,",Christian/Anne Pittack,CYC Shilshloe,Seattle Wa,USA,8
+7206,,Hamlin,"Launcher converted to bag, now offset launcher 09","David Sharpe/Bruce Stocker, David Meyers/Bill Mains, Jamie Stewart/","Jay Winberg, Fred Grimm,",Christian Pittack & Anne Pittack,CYC Shilshloe,Seattle Wa,USA,8
 7208,,Rondar,,Thomas Rasmussen,,,,,DEN,-
 7217,,Parker,,Roger Deane '81,,,,,UK,
 7218,1980,Parker,Horizon,Diamond Tai / Ivan Lui,,,,,HKG,-
@@ -1680,7 +1680,7 @@ R,,Rondar,all glass,,John Hauser; Don Bradshaw '99,Chad Littleton,,Annapolis MD,
 7959,1986,Kyrwood,,Per Jacobsen,,,,Vancouver,CAN,-
 7964,,Rondar,Milanes & White,Martin Gasser SUI,,Felix Obermeyer '07,,Lorrach,GER,-
 7968,,Parker,Epoxy/Kevlar,GBR,,Brian Jones,,Monkstown,IRL,-
-7970,1988,Parker,Epoxy/Kevlar,Stefan Waskönig GER,"Susanne; Nils Burghard, Mats Westholm 06",Kathrin Pickave/Felix Muller-Stoy,Andreas Laars,Bavaria,GER,-
+7970,1988,Parker,Epoxy/Kevlar,Stefan Waskönig GER,"Susanne Burghard & Nils Burghard, Mats Westholm 06",Kathrin Pickave/Felix Muller-Stoy,Andreas Laars,Bavaria,GER,-
 7972,,Parker,,David Ardouin,,,,,FRA,-
 7973,1987,Rondar,Milanes & White,Martin Jones,Alex Beasby; Billy O'Brien '99; Brian Jones '01,Ronan Kenneally '02,,Monkstown Bay S.C.,IRL,-
 7976,1987,Parker,,John Bradly,,Tim Rains '06,,,GBR,-
@@ -2117,7 +2117,7 @@ R,,Rondar,all glass,,John Hauser; Don Bradshaw '99,Chad Littleton,,Annapolis MD,
 8578,1995,Kulmar,first hull: fibreglass,Geoff Holden,Brent Kelly,Gordon Stout,,Calgary,CAN,-
 8579,1995,Duvoisin,,Tom Bøjland (DEN),,,,Bavaria,GER,-
 8580,1995,Kyrwood,,Carsten Barlebo/ Birgitte Søgård,,,,,DEN,-
-8581,,,,,,P-A Hallberg '12,,Ljungskile,SWE,12
+8581,,,,,,Per Anders Hallberg '12,,Frank Bach Ljungskile,SWE,12
 8582,,Rondar,,Detlef Ihmels GER,Arno Parviainen,Anssi Kienanen/ Kaarle Kauppinen '07,,Helsinki,FIN,-
 8583,,Kyrwood,,Jeremy Entwhistle,,,,,GBR,-
 8585,1995,Rondar,carbon,David; Malcolm Page AUS,,Jan Eriksson '98,,,SWE,-
@@ -2386,7 +2386,7 @@ R,,Rondar,all glass,,John Hauser; Don Bradshaw '99,Chad Littleton,,Annapolis MD,
 8893,,Van Munster,,,,,,,AUS,-
 8894,,Van Munster,,,,,,,AUS,-
 8895,2006,Duvoisin,,Rousen,,Matthieu Devaux '07,,,FRA,-
-8896,2006,Duvoisin,,Martinet,,,,,FRA,-
+8896,2006,Duvoisin,,Christian Martenot,,,,,FRA,-
 8897,2006,Duvoisin,,Commeil,,,,,FRA,-
 8898,2006,Duvoisin,,Pierre Muh,,,,,FRA,-
 8899,2006,Duvoisin,,Jean Pierre,F. de Lisle/ H. Brillaud '06,,,Paris,FRA,-
@@ -2418,7 +2418,7 @@ R,,Rondar,all glass,,John Hauser; Don Bradshaw '99,Chad Littleton,,Annapolis MD,
 8925,2006,,,Martin Wedge,,,,,GBR,-
 8926,2006,Waterat,,Ebbe Rosén,,,,Stockholm,SWE,12
 8927,2007,Rondar,,Rix,,,,,GER,-
-8928,2007,Rondar,,Schultz,,,,,GER,-
+8928,2007,Rondar,,Hendrik Schultz,,,,,GER,-
 8929,2007,Rondar,,Jurgen Waldheim,,,,,GER,-
 8930,2007,Rondar,,Doug McKeige,,,,,USA,-
 8931,2007,Rondar,,Daniel Esdorn,,,,,GER,-
@@ -2549,7 +2549,7 @@ R,,Rondar,all glass,,John Hauser; Don Bradshaw '99,Chad Littleton,,Annapolis MD,
 9081,2011,Rondar,Carbon /epoxy,Robert Lehmann,,,ACAL,,FRA,12
 9082,2012,Waterat,Carbon,Jeff Miller,,,Santa Cruz,,USA,
 9083,2012,Waterat,Carbon,Rob Waterman,,,Los Angeles,,USA,
-9084,2012,Rondar,Jess,Dechaffour,,,,,FRA,
+9084,2012,Rondar,Jess,Jacques Dechaffour,,,,,FRA,
 9085,2012,Rondar,Carbon /epoxy,Matt/Dan Hart,,,Shotley SC,,GBR,12
 9086,2012,Rondar,Jess,Elisabeth Neidhart,,,,,FRA,
 9087,2012,Bob Fischer,,Gael Conversy,,,,,FRA,
@@ -2652,7 +2652,7 @@ R,,Rondar,all glass,,John Hauser; Don Bradshaw '99,Chad Littleton,,Annapolis MD,
 9186,2017,Rondar,,Tyler Moore,,,,,USA,
 9187,2017,Rondar,,Jan Saugmann,,,,,DEN,
 9188,2017,Ovi/Paris Voile,,Pierre Jean-Gallo,,,,,FRA,
-9189,2017,Jess/Ovington,,Ute/Hendrik Schultz,,,,,GER,
+9189,2017,Jess/Ovington,,Ute Schultz & Hendrik Schultz,,,,,GER,
 9190,2017,P&B/Ovington,,Ian Pinnell,,,,,GBR,
 9191,2017,Jess/Ovington,,Malcolm Higgins,,,,,AUS,
 9192,2017,XSP,,Mark Stowell,,,,,AUS,
