@@ -24,6 +24,7 @@ $_SERVER['HTTP_HOST'] = 'int505';
 error_reporting( E_ALL );
 
 require '../wp-load.php';
+require 'functions.php';
 
 global $wpdb;
 $boat_post_type_name        = 'iworks_fleet_boat';
@@ -77,16 +78,29 @@ if ( ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) {
 		$post = get_page_by_title( $data[0], OBJECT, $boat_post_type_name );
 		if ( empty( $post ) ) {
 			echo '.';
+			$post_content           = trim( $data[3] );
+			$iworks_fleet_boat_name = null;
+			if ( preg_match( '/@([^@]+)@/', $post_content, $matches ) ) {
+				$post_content           = preg_replace( '/@([^@])+@/', '', $post_content );
+				$iworks_fleet_boat_name = $matches[1];
+			}
+			if ( ! is_string( $post_content ) ) {
+				print_r( $post_content );
+				die;
+			}
 			$post = array(
 				'post_status'  => 'publish',
 				'post_type'    => $boat_post_type_name,
-				'post_title'   => $data[0],
-				'post_content' => $data[3],
+				'post_title'   => intval( $data[0] ),
+				'post_content' => trim( $post_content ),
 				'meta_input'   => array(),
 				'tax_input'    => array(),
 			);
 			if ( 0 < intval( $data[1] ) ) {
 				$post['meta_input']['iworks_fleet_boat_build_year'] = intval( $data[1] );
+			}
+			if ( ! empty( $iworks_fleet_boat_name ) ) {
+				$post['meta_input']['iworks_fleet_boat_name'] = $iworks_fleet_boat_name;
 			}
 			/**
 			 * Hull builder
@@ -311,7 +325,7 @@ function person_clear_name( $name ) {
 	$name      = preg_replace( '/ \' ?\d+$/', '', $name );
 	$is_person = check_is_person( $name );
 	if ( $is_person ) {
-		$name = preg_replace( '/ [A-Z]{2,3}$/', $name );
+		$name = preg_replace( '/ [A-Z]{2,3}$/', '', $name );
 	}
 	switch ( $name ) {
 		case 'St. Vincents Gulf 505 Association AUS':
