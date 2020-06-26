@@ -12,7 +12,7 @@ function get_person_by_name( $name ) {
 	}
 	if ( empty( $post_title ) ) {
 		return $post_title;
-    }
+	}
 	$person = get_page_by_title( $post_title, OBJECT, $person_post_type_name );
 	if ( empty( $person ) ) {
 		$args                   = array(
@@ -136,11 +136,11 @@ function add_organization( $raw, $person, $date_from = '', $order = false ) {
 
 function check_is_person( $data ) {
 	if ( 7 > strlen( $data ) ) {
-        echo PHP_EOL,'short: ',$data,PHP_EOL;
+		echo PHP_EOL,'short: ',$data,PHP_EOL;
 		return false;
 	}
-    if ( ! preg_match( '/ /', $data ) ) {
-        echo PHP_EOL,'no-space: ',$data,PHP_EOL;
+	if ( ! preg_match( '/ /', $data ) ) {
+		echo PHP_EOL,'no-space: ',$data,PHP_EOL;
 		return false;
 	}
 	switch ( $data ) {
@@ -171,6 +171,7 @@ function check_is_person( $data ) {
 		case 'Wansborough family':
 		case 'Web Institute':
 		case 'Redwood City':
+		case 'German Class Assn':
 			return false;
 	}
 	return true;
