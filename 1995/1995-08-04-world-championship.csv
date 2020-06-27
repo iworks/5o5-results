@@ -1,6 +1,6 @@
 boat,helm,crew,club,r1,r2,r3,r4,t,p
 GBR 8481,Jeremy Robinson,Bill Masterman,,3,31,3,1,11.4,1
-SWE 8475,Krister Bergström,Moss,,2,2,28,3,11.7,2
+SWE 8475,Krister Bergström,Thomas Moss,,2,2,28,3,11.7,2
 SWE 8232,Ebbe Rosen,Olle Wenrup,,1,9,2,72,18.0,3
 GBR 8585,Holmes,Young,,10,1,7,17,29.0,4
 USA 7876,Tyler Moore,Cox,,7,81,5,7,36.0,5
@@ -38,7 +38,7 @@ GER 8388,Kellner,Achterberg,,49,18,43,40,119.0,36
 GER 8519,Dor,Dorr,,54,21,32,86,125.0,37
 GBR 8511,Robin Boardman,Ironmonger,,DNC,22,34,53,127.0,38
 SUI 8543,Bart,Senn,,46,19,61,46,129.0,39
-SUI 8459,Duvoisin,Marti,,41,43,79,27,129.0,40
+SUI 8459,Duvoisin,Ueli Marti,,41,43,79,27,129.0,40
 GBR 8556,Richard Tew,Hiscocks,,77,33,70,13,134.0,41
 FRA 8400,Nigon,Jouany,,51,39,26,79,134.0,42
 GBR 8497,Mike Holt,Neil Fulcher,,PMS,20,36,62,136.0,43
@@ -89,19 +89,19 @@ GBR 8540,Scarisbrick,Swainston,,78,61,75,95,232.0,87
 GER 8480,Peters,Schultz,,52,DNS,90,76,236.0,88
 GER 8204,Roos,Labenz,,RET,71,54,94,237.0,89
 GER 8469,Mullejans,Linnemann,,63,DSQ,87,70,238.0,90
-FRA 8541,Dorenbecher,Dorenb.,,82,86,55,84,239.0,91
-GBR 8035,Henderson,Kenyon,,90,87,46,97,241.0,92
-GBR 8474,Thorne,Cooper,,86,77,95,61,242.0,93
-AUS 8501,White,Humphries,,58,83,88,88,247.0,94
-GBR 8490,Baxter,Ayres,,67,DSQ,85,81,251.0,95
+FRA 8541,Francis Doerenbecher,Dorenb.,,82,86,55,84,239.0,91
+GBR 8035,Alan Henderson,Kenyon,,90,87,46,97,241.0,92
+GBR 8474,Chris Thorne,Cooper,,86,77,95,61,242.0,93
+AUS 8501,Martin White,Humphries,,58,83,88,88,247.0,94
+GBR 8490,James Baxter,Ayres,,67,DSQ,85,81,251.0,95
 FRA 8294,Lucienne,Millet,,89,73,99,71,251.0,96
 FRA 7933,Pascal,Trihan,,65,90,96,82,255.0,97
-FRA 8545,Preel,Pedron,,95,84,101,60,257.0,98
+FRA 8545,Alain Preel,Pedron,,95,84,101,60,257.0,98
 FRA 8348,Bochu,Bochu,,92,95,97,64,269.0,99
-GBR 8532,Berry,Berry,,91,70,DSQ,100,279.0,100
+GBR 8532,Jim Berry,Richard Berry,,91,70,DSQ,100,279.0,100
 FRA 7932,Raguet,Bertrand,,DNS,93,92,96,299.0,101
 FRA 8002,Rouanne,Blache,,97,85,103,RET,303.0,102
-ZIM 8438,Wyles,Chadwick,,93,94,98,98,303.0,103
+ZIM 8438,John Wyles,Chadwick,,93,94,98,98,303.0,103
 RSA 8091,Atherstone,Beaumont,,94,97,100,99,308.0,104
 FRA 8369,Muh,Keraudrent,,DNS,DSQ,94,91,310.0,105
-GBR 8314,Everitt,Cook,,96,DNS,102,RET,323.0,106
+GBR 8314,Les Everitt,Cook,,96,DNS,102,RET,323.0,106
