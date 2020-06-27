@@ -51,12 +51,35 @@ if ( ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) {
 		$post = get_page_by_title( $data[0], OBJECT, $boat_post_type_name );
 		if ( empty( $post ) ) {
 			echo '.';
-			$post_content           = trim( $data[3] );
-			$iworks_fleet_boat_name = null;
-			if ( preg_match( '/@([^@]+)@/', $post_content, $matches ) ) {
-				$post_content           = preg_replace( '/@([^@])+@/', '', $post_content );
-				$iworks_fleet_boat_name = $matches[1];
-			}
+
+			/*
+			 *  0 Sail No
+			 *  1 Year Built
+			 *  2 Builder
+			 *  3 Name
+			 *  4 Hull material
+			 *  5 Description
+			 *  6 First Owner
+			 *  7 Subsequent Owners
+			 *  8 Last Recorded Owner
+			 *  9 Fleet/Sailing Club
+			 * 10 City
+			 * 11 Country
+			 * 12 Last Updated
+			 * 13 Colors
+			 */
+
+			$iworks_fleet_boat_hull_number   = intval( $data[0] );
+			$iworks_fleet_boat_build_year    = intval( $data[1] );
+			$iworks_fleet_hull_manufacturer  = trim( $data[2] );
+			$iworks_fleet_boat_name          = trim( $data[3] );
+			$iworks_fleet_boat_hull_material = trim( $data[4] );
+			$post_content                    = trim( $data[5] );
+
+			$iworks_fleet_boat_nation = trim( $data[11] );
+			$iworks_fleet_boat_colors = explode( ';', trim( $data[13] ) );
+
+
 			if ( ! is_string( $post_content ) ) {
 				print_r( $post_content );
 				die;
@@ -64,30 +87,59 @@ if ( ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) {
 			$post = array(
 				'post_status'  => 'publish',
 				'post_type'    => $boat_post_type_name,
-				'post_title'   => intval( $data[0] ),
+				'post_title'   => $iworks_fleet_boat_hull_number,
 				'post_content' => trim( $post_content ),
-				'meta_input'   => array(),
+				'meta_input'   => array(
+					'iworks_fleet_boat_hull_number' => $iworks_fleet_boat_hull_number,
+				),
 				'tax_input'    => array(),
 			);
-			if ( 0 < intval( $data[1] ) ) {
-				$post['meta_input']['iworks_fleet_boat_build_year'] = intval( $data[1] );
+			/**
+			 * simple meta
+			 */
+			foreach (
+				array(
+					'iworks_fleet_boat_build_year',
+					'iworks_fleet_boat_hull_material',
+					'iworks_fleet_boat_name',
+					'iworks_fleet_boat_nation',
+				) as $key ) {
+				if ( empty( $$key ) ) {
+					continue;
+				}
+				$post['meta_input'][ $key ] = $$key;
 			}
-			if ( ! empty( $iworks_fleet_boat_name ) ) {
-				$post['meta_input']['iworks_fleet_boat_name'] = $iworks_fleet_boat_name;
+			if ( is_array( $iworks_fleet_boat_colors ) ) {
+				if ( 0 < sizeof( $iworks_fleet_boat_colors ) ) {
+					$color = trim( array_shift( $iworks_fleet_boat_colors ) );
+					if ( ! empty( $color ) ) {
+						$post['meta_input']['iworks_fleet_boat_color_top'] = $color;
+					}
+					if ( 0 < sizeof( $iworks_fleet_boat_colors ) ) {
+						$color = trim( array_shift( $iworks_fleet_boat_colors ) );
+						if ( ! empty( $color ) ) {
+							$post['meta_input']['iworks_fleet_boat_color_side'] = $color;
+						}
+						if ( 0 < sizeof( $iworks_fleet_boat_colors ) ) {
+							$color = trim( array_shift( $iworks_fleet_boat_colors ) );
+							if ( ! empty( $color ) ) {
+								$post['meta_input']['iworks_fleet_boat_color_bottom'] = $color;
+							}
+						}
+					}
+				}
 			}
 			/**
 			 * Hull builder
 			 */
-			$hull = trim( $data[2] );
-
-			if ( ! empty( $hull ) ) {
-				switch ( $hull ) {
+			if ( ! empty( $iworks_fleet_hull_manufacturer ) ) {
+				switch ( $iworks_fleet_hull_manufacturer ) {
 					case 'Parker/Nab':
 					case 'Parker kit':
 					case 'Parker launcher':
 					case 'Parker-hulled Lindsay':
 					case 'Rondar Parker':
-						$hull = 'Parker';
+						$iworks_fleet_hull_manufacturer = 'Parker';
 						break;
 					case 'builder':
 					case 'Custom homebuilt':
@@ -97,23 +149,23 @@ if ( ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) {
 					case 'self-constructed':
 					case 'self-made':
 					case 'Builder':
-						$hull = 'home built';
+						$iworks_fleet_hull_manufacturer = 'home built';
 						break;
 					case 'Honore Marine':
 					case 'Honore Marine GB':
 					case 'Honor Marine':
-						$hull = 'Honnor Marine';
+						$iworks_fleet_hull_manufacturer = 'Honnor Marine';
 						break;
 					case 'Polymec kit':
-						$hull = 'Polymec';
+						$iworks_fleet_hull_manufacturer = 'Polymec';
 						break;
 					case 'International & Olympic Yachts':
-						$hull = 'International & Olympic Yachts';
+						$iworks_fleet_hull_manufacturer = 'International & Olympic Yachts';
 						break;
 					case 'new mould (Kyrwood)':
 					case 'Kyrwood hull':
 					case 'Krywood':
-						$hull = 'Kyrwood';
+						$iworks_fleet_hull_manufacturer = 'Kyrwood';
 						break;
 					case 'Sydney mould':
 					case 'N.S.W. mould':
@@ -134,107 +186,107 @@ if ( ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) {
 					case 'Fisher':
 					case 'Bob Fischer':
 					case 'Ovi/Paris Voile':
-						$hull                  = 'home built';
-						$post['post_content'] .= sprintf( '<p>builder: %s</p>', $hull );
+						$iworks_fleet_hull_manufacturer = 'home built';
+						$post['post_content']          .= sprintf( '<p>builder: %s</p>', $iworks_fleet_hull_manufacturer );
 						break;
 					case 'Barklay':
 					case 'Barclay / Winwood':
-						$hull = 'Barclay';
+						$iworks_fleet_hull_manufacturer = 'Barclay';
 						break;
 					case 'Clark (Seattle)':
-						$hull = 'Clark';
+						$iworks_fleet_hull_manufacturer = 'Clark';
 						break;
 					case 'Schnieder':
-						$hull = 'Schneider';
+						$iworks_fleet_hull_manufacturer = 'Schneider';
 						break;
 					case 'Copland GBR':
-						$hull = 'Copland Boats';
+						$iworks_fleet_hull_manufacturer = 'Copland Boats';
 						break;
 					case 'Fountain-Pajot':
 					case 'Fountaine Pajot':
 					case 'Fountaine/Pajot':
 					case 'Fountaine-Pajot/Illy Brummer':
 					case 'Fountaine-Pajot':
-						$hull = 'Fountain Pajot';
+						$iworks_fleet_hull_manufacturer = 'Fountain Pajot';
 						break;
 					case 'Ballenger/Meller':
-						$hull = 'Ballenger';
+						$iworks_fleet_hull_manufacturer = 'Ballenger';
 						break;
 					case 'G;H Marine':
-						$hull = 'G&H Marine';
+						$iworks_fleet_hull_manufacturer = 'G&H Marine';
 						break;
 					case 'Pevear/Lindsay':
 					case 'Lindsay':
 					case 'Lindsay/ Grey':
-						$hull = 'Mark Lindsay Boatbuilders';
+						$iworks_fleet_hull_manufacturer = 'Mark Lindsay Boatbuilders';
 						break;
 					case 'Waterat':
-						$hull = 'Waterat Sailing Equipment';
+						$iworks_fleet_hull_manufacturer = 'Waterat Sailing Equipment';
 						break;
 					case 'Moore/ Van Landingham':
-						$hull = 'Moore';
+						$iworks_fleet_hull_manufacturer = 'Moore';
 						break;
 					case 'Milanes White':
 					case 'Milanes&White':
 					case 'Milanes':
-						$hull = 'Milanes & White';
+						$iworks_fleet_hull_manufacturer = 'Milanes & White';
 						break;
 					case 'Rowsell & Morrison':
 					case 'Rowsell; Morrison':
-						$hull = 'Rowsell and Morrison';
+						$iworks_fleet_hull_manufacturer = 'Rowsell and Morrison';
 						break;
 					case 'Collignon':
-						$hull = 'Collingnon (CDK)';
+						$iworks_fleet_hull_manufacturer = 'Collingnon (CDK)';
 						break;
 					case 'Rondar(epoxy)':
-						$hull = 'Rondar';
+						$iworks_fleet_hull_manufacturer = 'Rondar';
 						break;
 					case 'WitchCraft':
-						$hull = 'Witchcraft';
+						$iworks_fleet_hull_manufacturer = 'Witchcraft';
 						break;
 					case 'Young Marine Systems':
 					case 'Young Marine':
 					case 'YMS':
-						$hull = 'Young Marine Services';
+						$iworks_fleet_hull_manufacturer = 'Young Marine Services';
 						break;
 					case 'Otto':
 					case 'Kulmar':
-						$hull = 'Kulmar / Otto';
+						$iworks_fleet_hull_manufacturer = 'Kulmar / Otto';
 						break;
 					case 'Fremantle':
 					case 'Freemantle':
 					case 'Fremantle/XSP':
-						$hull = 'Fremantle 505';
+						$iworks_fleet_hull_manufacturer = 'Fremantle 505';
 						break;
 					case 'VanMunster/ Pegasus':
 					case 'Pegasus':
-						$hull = 'Van Munster';
+						$iworks_fleet_hull_manufacturer = 'Van Munster';
 						break;
 					case 'Segelsport Jess':
-						$hull = 'JESS Segelsport';
+						$iworks_fleet_hull_manufacturer = 'JESS Segelsport';
 						break;
 					case 'Duvosion':
-						$hull = 'Duvoisin';
+						$iworks_fleet_hull_manufacturer = 'Duvoisin';
 						break;
 					case 'P&B/ Ovington':
-						$hull = 'P&B/Ovington';
+						$iworks_fleet_hull_manufacturer = 'P&B/Ovington';
 						break;
 					case 'Jess Ovington':
-						$hull = 'Jess/Ovington';
+						$iworks_fleet_hull_manufacturer = 'Jess/Ovington';
 						break;
 				}
-				if ( ! array_key_exists( htmlentities( $hull ), $hull_manufacturer ) ) {
-					$hull_manufacturer[ $hull ] = wp_insert_term( $hull, $taxonomy_name_manufacturer );
+				if ( ! array_key_exists( htmlentities( $iworks_fleet_hull_manufacturer ), $hull_manufacturer ) ) {
+					$hull_manufacturer[ $iworks_fleet_hull_manufacturer ] = wp_insert_term( $iworks_fleet_hull_manufacturer, $taxonomy_name_manufacturer );
 				}
 			}
 			$post_ID = wp_insert_post( $post );
-			wp_set_post_terms( $post_ID, array( $hull ), $taxonomy_name_manufacturer );
+			wp_set_post_terms( $post_ID, array( $iworks_fleet_hull_manufacturer ), $taxonomy_name_manufacturer );
 
 			/**
 			 * owners
 			 */
 			$owners = array();
-			foreach ( array( 4, 5, 6 ) as $index ) {
+			foreach ( array( 6, 7, 8 ) as $index ) {
 				if ( empty( $data[ $index ] ) ) {
 					continue;
 				}
@@ -253,11 +305,11 @@ if ( ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) {
 					$date_from = null;
 					$type      = null;
 					switch ( $index ) {
-						case 4:
+						case 6:
 							$date_from = 0 < intval( $data[1] ) ? intval( $data[1] ) . '-01-01' : '';
 							$type      = 'first';
 							break;
-						case 6:
+						case 8:
 							$type = 'current';
 							break;
 					}
@@ -292,7 +344,7 @@ if ( ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) {
 							if ( is_object( $person ) ) {
 								add_post_meta( $post_ID, $owners_index_field_name, $person->ID );
 								$owners[] = person( $name, $person, $date_from, $type );
-                            } else {
+							} else {
 								$owners[] = add_organization( $name, $person, $date_from, $type );
 							}
 						}
