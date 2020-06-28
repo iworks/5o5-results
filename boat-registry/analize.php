@@ -31,7 +31,7 @@ if ( ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) {
 		/**
 		 * owners
 		 */
-		foreach ( array( 4, 5, 6 ) as $index ) {
+		foreach ( array( 6, 7, 8 ) as $index ) {
 			if ( empty( $data[ $index ] ) ) {
 				continue;
 			}
