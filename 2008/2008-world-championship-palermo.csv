@@ -15,7 +15,7 @@ GER 8728,Schomaker,Gorge,Mixed,2,27,14,10,34,55*,87,13
 GER 8927,Gorge,Rix,Male,29,7,31,21,1,48*,89,14
 USA 8883,Moore,Falsone,Male,8,14,42,4,22,60*,90,15
 SUI 8954,Stauffer,Jacot,Male,24,25,8,29,7,46*,93,16
-GER 8875,Findel,Tellen,Male,31,5,47*,40,18,1,95,17
+GER 8875,Jens Findel,Johannes Tellen,Male,31,5,47*,40,18,1,95,17
 AUS 8840,Cameron,Bowden,Male,30,(dnf),7,16,20,22,95,18
 SUI 8543,Bart,Marti,Male,13,21,2,24,38,(dsq),98,19
 GER 8947,Volker Niediek,Stefan Heising,Male,22,16,9,44*,25,26,98,20
@@ -53,7 +53,7 @@ SUI 8613,Petermann,Grob,Male,61,(dnf),43,63,14,50,231,51
 GBR 8701,Napier,Pearson,Male,28,(dnf),65,64,33,54,244,52
 AUS 8853,Jackson,Holden,Male,59,(dnf),74,22,71,20,246,53
 GER 8665,Schlomka,Wihlfahrt,Male,60,(dnf),26,55,42,63,246,54
-GBR 8905,Turnbull,Lunn,Male,64,42,59,23,66,78*,254,55
+GBR 8905,Stuart Turnbull,Jason Lunn,Male,64,42,59,23,66,78*,254,55
 AUS 8968,Hansen-Knarhoi,Attwell,Male,70,31,50,38,72*,70,259,56
 FRA 8270,Gachet,Valery,Male,44,(dnf),53,50,78,36,261,57
 FRA 8950,De Kergariou,Camusson,Male,71,(dnf),55,56,58,30,270,58
@@ -76,7 +76,7 @@ FIN 8057,Lindfors,Halonen,Male,74,(dnf),86,76,82,38,356,74
 POL 8358,Marcin Józefowski,Jacek Barankiewicz,Male,51,(dnf),64,57,97,92,361,75
 AUS 8781,Alexander,Gregg,Male,97,(dnf),87,60,60,67,371,76
 AUS 8588,Smith,Smith,Mixed,66,(dnf),81,80,92,57,376,77
-AUS 8855,Stowell,Bailey,Male,84,(dnf),60,73,99,75,391,78
+AUS 8855,Mark Stowell,Scott Bailey,Male,84,(dnf),60,73,99,75,391,78
 GER 8513,Konig,Brack,Male,63,(dnf),73,93,74,90,393,79
 ITA 8743,Giraldi,Corbellini,Male,85,32,(dns),101,80,102,400,80
 FRA 8402,Bleuez,Roucayrol,Male,78,(dnf),82,82,76,82,400,81

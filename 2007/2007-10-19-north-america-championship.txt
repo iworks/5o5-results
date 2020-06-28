@@ -16,7 +16,7 @@ Pl   Sail      Team                                        1    2    3    4    5
 6    USA 8919  Gosch & Doug McKeige                      [16]   6    6    5    7    4    2     30
 7    USA 8830  Ramsay Key & Andrew Buttner                 7  [17]  14   10    6    8    7     52
 8    USA 8831  JeanGirard & Paul Von Grey                 12   10    5    7   11  [18]  10     55
-9    USA 7200  Ali Meller & Mike Coe                      10    5   11 [DSQ]  12   11    9     58
+9    USA 7200  Alexander Meller & Mike Coe                      10    5   11 [DSQ]  12   11    9     58
 10   USA 8822  Mike Holt & Godfrey                       [18]  11   18    9   10    7    5     60
 11   USA 8821  Katherine Long & Stephen Long               5    3    7 [DSQ]  14   15   18     62
 12   USA 8012  Henry Amthor & Sol Marini                  13   12   10   11  [16]   9   11     66

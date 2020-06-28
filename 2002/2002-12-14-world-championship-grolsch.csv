@@ -1,7 +1,7 @@
-C Boat No,Helm,Crew,Name,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Race 7,Race 8,Race 9,Total,Nett,Position,
+ Boat No,Helm,Crew,Name,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Race 7,Race 8,Race 9,Total,Nett,Position,
 AUS 8804,Chris Nicholson,Darren Nicholson,Jigsaw,,11( 11),5( 5),1( 1),[ 99](DNF),[ 41]( 41),1( 1),1( 1),1( 1),2( 2),162,22,1
 USA 8714,Howard Hamlin,Mike Martin,Black Boat,,5( 5),3( 3),8( 8),[ 99](DSQ),1( 1),2( 2),3( 3),[ 8]( 8),3( 3),132,25,2
-SWE 8655,Krister Bergstrom,Thomas Moss,Mind Com,,4( 4),4( 4),[ 7]( 7),4( 4),4( 4),5( 5),[ 7]( 7),5( 5),4( 4),44,30,3
+SWE 8655,Krister Bergström,Thomas Moss,Mind Com,,4( 4),4( 4),[ 7]( 7),4( 4),4( 4),5( 5),[ 7]( 7),5( 5),4( 4),44,30,3
 USA 8762,Danny Thompson,Andrew Zinn,Nice Wood,,2( 2),7( 7),4( 4),[ 22]( 22),2( 2),3( 3),[ 13]( 13),10( 10),8( 8),71,36,4
 GBR 8743,Ian Barker,Daniel Cripps,Bodge It and Scarper,,7( 7),1( 1),2( 2),[ 99](DSQ),7( 7),[ 19]( 19),5( 5),9( 9),10( 10),159,41,5
 USA 7771,Andy Beeckman,Ben Benjamin,Gummi de Milo,,8( 8),14( 14),3( 3),1( 1),[ 16]( 16),7( 7),[ 28]( 28),13( 13),7( 7),97,53,6
@@ -18,7 +18,7 @@ USA 8722,Macy Nelson,Jesse Falsone,Team CSC,,22( 22),16( 16),23( 23),[ 24]( 24),
 GBR 8787,Terry Scutcher,Christian Diebitsch,GBR 8787,,3( 3),[ 29]( 29),28( 28),23( 23),14( 14),17( 17),12( 12),[ 28]( 28),11( 11),165,108,17
 AUS 8280,Michael Quirk,Geoff Lange,Voyager,,15( 15),[ 37]( 37),30( 30),11( 11),23( 23),25( 25),2( 2),3( 3),[ 99](DSQ),245,109,18
 AUS 8782,Andrew Hewson,Frank Karlovecz,Ronstan,,27( 27),24( 24),[ 38]( 38),26( 26),18( 18),4( 4),4( 4),19( 19),[ 36]( 36),196,122,19
-AUS 8813,Brett van Munster,Andrew Petch,Van Munster Boat Building,,16( 16),22( 22),16( 16),8( 8),19( 19),[ 27]( 27),21( 21),[ 31]( 31),22( 22),182,124,20
+AUS 8813,Brett Van Munster,Andrew Petch,Van Munster Boat Building,,16( 16),22( 22),16( 16),8( 8),19( 19),[ 27]( 27),21( 21),[ 31]( 31),22( 22),182,124,20
 DEN 8807,Tom Bojland,Philip Christiani,Powerware,,31( 31),[ 36]( 36),12( 12),19( 19),[ 57]( 57),29( 29),18( 18),7( 7),23( 23),232,139,21
 GER 8744,Hans Heinrich Rix,Martin Schoeler,,,17( 17),15( 15),10( 10),20( 20),[ 34]( 34),21( 21),[ 32]( 32),27( 27),31( 31),207,141,22
 AUS 8801,Peter Chappell,Ian Davidson,The Fish,,19( 19),[ 38]( 38),13( 13),12( 12),33( 33),31( 31),[ 34]( 34),22( 22),13( 13),215,143,23

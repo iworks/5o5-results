@@ -58,10 +58,13 @@ function person_clear_name( $name ) {
 }
 
 function add_century_to_date( $year ) {
-	if ( 54 < $year ) {
-		$year += 100;
-	}
-	$year += 1900;
+    $year = intval( $year );
+    if ( 1900 < $year ) {
+        if ( 54 < $year ) {
+            $year += 100;
+        }
+        $year += 1900;
+    }
 	return sprintf( '%d-01-01', $year );
 }
 
