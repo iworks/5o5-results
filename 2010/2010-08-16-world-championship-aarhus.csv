@@ -1,5 +1,5 @@
 Nat Sail no.,HelmName,CrewName,,R1,R2,R3,R4,R5,R6,R7,R8,R9,Nett,Rank
-GER 9027,Dr. Wolfgang Hunger,Julien Kleiner,,6*,1,1,1,2,5,2,2,126 DNC*,14,1
+GER 9027,Wolfgang Hunger,Julien Kleiner,,6*,1,1,1,2,5,2,2,126 DNC*,14,1
 DEN 8962,Jørgen Bojsen-Møller,Jacob Bojsen-Møller,,4,8*,2,2,3,2,1,12*,2,16,2
 GBR 9032,Ian Pinnell,Ian Mitchell,,1,7,4,4,5,1,17*,31*,9,31,3
 USA 8762,Howard Hamlin,Andy Zinn,,2,2,9,11,12*,13*,10,4,5,43,4
@@ -35,7 +35,7 @@ FIN 8466,Sampsa Hyysalo,Antti Salonen,,22,20,25,48,48,7,56*,30,126 DNS*,200,33
 GER 8721,Sophie Heyer,Sebastian Salein,,37,126 DNC*,24,19 DPI,12 DPI,64,4,126 DNC*,41,201,34
 FRA 8844,Xavier Broise,Nicolas Des Jamonières,,30,126 DNF*,14,34,32,51*,33,36,22 DPI,201,35
 RSA 8481,Peter Funke,Thomas Funke,,126 DNC*,17,42,42,22,8,42,33,49*,206,36
-DEN 8828,Jon Andersen,Lasse Andreasen,,23 DPI,27 DPI,53,44,19,66*,15,26,126 DSQ*,207,37
+DEN 8828,Jon Andersen,Lasse Andersen,,23 DPI,27 DPI,53,44,19,66*,15,26,126 DSQ*,207,37
 GBR 8701,Rob Napier,Francis Cram,,34,34,67*,38,6,42*,36,38,30,216,38
 AUS 8801,Peter Chappell,Graeme Spence,,28,27,66*,23,50*,50,32,40,32,232,39
 ITA 8916,Enrico Ciferri,Gabriele Natali,,126 DNC*,42 DPI,62*,50,40,43,16,18,31,240,40
@@ -56,7 +56,7 @@ GER 8563,Klaus Heeschen,Stefan Schmidt,,36,23,33,62,51,89*,84*,54,66,325,54
 GER 8972,Ronald Roos,Kirsten Roos,,51,43,65,73*,38,74*,60,53,29,339,55
 GER 8317,Hartwig Friederichs,Antje Gosch,,55 DPI,126 DNC*,86*,51,23,73,58,44,39,343,56
 FIN 8678,Eino Laitinen,Thomas Castren,,39,126 DNC*,51,70,76*,28,41,66,51,346,57
-SWE 8848,Calvert Johan,Marcus Haas,,41,35 RDG,58,68,64,32,71*,126 DNF*,65,363,58
+SWE 8848,Johan Calvert,Marcus Haas,,41,35 RDG,58,68,64,32,71*,126 DNF*,65,363,58
 SWE 8912,Tom Hastenpflug,Toni Hastenpflug,,45,44,61,80*,82*,68,37,64,59,378,59
 FIN 8768,Jukka Nieminen,Kari Lehtonen,,49,39,79*,53,58,75*,66,59,72,396,60
 GER 8741,Juergen Anton,Ulf Denecke,,126 DNF*,126 DNC*,74,63,69,45,45,42,58,396,61
@@ -91,7 +91,7 @@ SWE 8837,Tord Lawner,Tomas Gustafsson,,52,126 DNC*,63,97,100,104,100,126 DNF*,88
 GER 8932,Christian Henge,Nicholas Melzwig,,126 DNF*,126 DNC*,126 DNC,86,70,56,79,126 DNF,68,611,90
 AUS 8396,Sam Cronin,Kevin Whitbread,,43,126 DNC*,126 DNF*,101,80,85,91,126 DNF,94,620,91
 SUI 8077,Catherine Houriet,Gil Donze,,126 DNC*,126 DNC*,91,94,49,99,93,126 DNF,69,621,92
-FIN 8632,Jari Hamström,Laurila Tuomas,,126 DNF*,126 DNC*,74 DPI,102,83,100,74,63,126 DNC,622,93
+FIN 8632,Jari Hamström,Tuomas Laurila,,126 DNF*,126 DNC*,74 DPI,102,83,100,74,63,126 DNC,622,93
 GER 8730,Iris Feldmann,Birgit Hartmann,,126 DNC*,126 DNC*,126 DNF,103,78,62,85,126 DNF,67,647,94
 SWE 8917,Simon Kindt,Jesper Fowelin,,126 DNC*,126 DNC*,126 DNC,105 DPI,76 DPI,69,95,75,102,648,95
 GER 8658,Christina Hoell,Alexander Wilhelm,,126 DNC*,126 DNC*,83,95,68,93,96,126 DNF,95,656,96
@@ -102,7 +102,7 @@ DEN 8071,Michael Wonterghem,Fabiola Wonterghem,,126 DNC*,126 DNC*,72,91,111,103,
 FRA 8623,Matthieu Gougeon,Dominique Rouanne,,126 DNC*,126 DNC*,81.5,98,75,106,108,126 DNF,82,676.5,101
 GER 6817,Ralf Schneidewind,Martin Lietz,,126 DNC*,126 DNC*,126 DNC,78,84,107,90,126 DNC,77,688,102
 GER 9021,Georg Geyer,Claudia Conrads,,126 DNC*,126 DNC*,84,83,106,99 DPI,108 DPI,126 DNF,83,689,103
-GER 8550,"Hauschild,Martha","Manko,Franzi",,126 DNC*,126 DNC*,95,110,93,83,102,126 DNF,90,699,104
+GER 8550,Martha Hauschild,Franzi Manko,,126 DNC*,126 DNC*,95,110,93,83,102,126 DNF,90,699,104
 RSA 8707,Albrecht Holm,Willem Buhrmann,,126 DNF*,126 DNC*,126 DNS,92,96,84,98,126 DNC,85,707,105
 AUS 8639,Grahame Tindall,David Johnson,,126 DNC*,126 DNC*,92,108,105,98,106,80,126 DNC,715,106
 GER 7861,Katharina Menge,Henning Ries,,126 DNF*,126 DNC*,126 DNF,96,102,88,92,126 DNF,93,723,107
