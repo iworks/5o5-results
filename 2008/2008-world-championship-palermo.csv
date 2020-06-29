@@ -1,6 +1,6 @@
 Country Sail No,Helm,Crew,Category,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Points (1 drop),Place
 GBR 8960,Ian Pinnell,Gibbon,Male,1,2,4,2,4,9*,13,1
-USA 8762,Howard Hamlin,Zinn,Male,56*,1,6,11,5,7,30,2
+USA 8762,Howard Hamlin,Andrew Zinn,Male,56*,1,6,11,5,7,30,2
 GER 8957,Hunger,Kleiner,Male,4,3,18*,6,15,12,40,3
 DEN 8962,Bojsen-Møller,Bojsen-Møller,Male,5,15,3,54*,3,19,45,4
 DEN 8964,Jan Saugmann,Morten Ramsbæk,Male,10,6,15,20,2,27*,53,5
@@ -34,12 +34,12 @@ GBR 8526,Tim Bird,Nurse,Male,50,(dnf),28,37,17,6,138,32
 USA 8937,Kevin Taugher,Bell,Male,54,(dnf),37,5,45,3,144,33
 GER 8720,Lennart Tasche,Frederik Tasche,Male / under 25 / under 21,37,17,16,74*,11,68,149,34
 GER 8672,Contag,Von Walter,Male,33,8,62,17,79*,32,152,35
-AUS 8801,Chappell,Gill,Male,35,(dnf),22,34,10,59,160,36
+AUS 8801,Peter Chappell,Gill,Male,35,(dnf),22,34,10,59,160,36
 IRL 8961,Barry,Dwyer,Male,18,24,52*,32,40,51,165,37
 FRA 8900,Gubri,Di Pede,Male,25,30,46*,46,37,31,169,38
 USA 8822,Mike Holt,Edwards,Male,55,(dnf),45,33,46,18,197,39
 GER 8669,Tim Böger,Schoner,Male,47,(dnf),10,25,52,65,199,40
-USA 7875,Jeff Miller,Smith,Male,67,22,89*,27,41,42,199,41
+USA 7875,Jeff Miller,Mike Smith,Male,67,22,89*,27,41,42,199,41
 GER 8599,Duwe,Helms,Male,16,(dnf),44,47,53,41,201,42
 GER 8580,Weigelt,Henning,Male,72*,33,49,59,39,25,205,43
 FRA 8844,Xavier Broise,Nicolas Des Jamonières,Male,26,(dnf),33,65,36,45,205,44
