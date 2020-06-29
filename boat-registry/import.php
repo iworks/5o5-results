@@ -30,6 +30,7 @@ global $wpdb;
 $boat_post_type_name        = 'iworks_fleet_boat';
 $taxonomy_name_manufacturer = 'iworks_fleet_boat_manufacturer';
 $person_post_type_name      = 'iworks_fleet_person';
+$result_post_type_name      = 'iworks_fleet_result';
 $owners_field_name          = 'iworks_fleet_boat_owners';
 $owners_index_field_name    = 'iworks_fleet_boot_owner_id';
 
@@ -40,11 +41,104 @@ foreach ( $data as $one ) {
 	$hull_manufacturer[ $one->name ] = $one;
 }
 
+
+if ( ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false ) {
+	echo PHP_EOL,'IMPORT: events-list.csv',PHP_EOL;
+	while ( ( $data = fgetcsv( $handle, 0, ',' ) ) !== false ) {
+		if ( 1 > intval( $data[0] ) ) {
+			continue;
+		}
+		/*
+		[0] => iworks_fleet_result_date_start
+		[1] => iworks_fleet_result_date_end
+		[2] => post_title
+		[3] => iworks_fleet_result_number_of_races
+		[4] => iworks_fleet_result_number_of_competitors
+		[5] => iworks_fleet_result_location
+		[6] => iworks_fleet_result_organizer
+		[7] => iworks_fleet_result_secretary
+		[8] => iworks_fleet_result_arbiter
+		[9] => iworks_fleet_result_wind_direction
+		[10] => iworks_fleet_result_wind_power
+		[11] => post_content
+		 */
+		$fields = array(
+			'iworks_fleet_result_date_start',
+			'iworks_fleet_result_date_end',
+			'post_title',
+			'iworks_fleet_result_number_of_races',
+			'iworks_fleet_result_number_of_competitors',
+			'iworks_fleet_result_location',
+			'iworks_fleet_result_organizer',
+			'iworks_fleet_result_secretary',
+			'iworks_fleet_result_arbiter',
+			'iworks_fleet_result_wind_direction',
+			'iworks_fleet_result_wind_power',
+			'post_content',
+		);
+		for ( $i = 0; $i < count( $fields ); $i++ ) {
+			$value = trim( $data[ $i ] );
+			switch ( $fields[ $i ] ) {
+				case 'iworks_fleet_result_date_start':
+				case 'iworks_fleet_result_date_end':
+					$value = strtotime( $value );
+					break;
+				case 'iworks_fleet_result_number_of_races':
+				case 'iworks_fleet_result_number_of_competitors':
+					$value = intval( $value );
+					break;
+			}
+			${$fields[ $i ]} = $value;
+		}
+		$args  = array(
+			'fields'     => 'ids',
+			'post_title' => $post_title,
+			'post_type'  => $result_post_type_name,
+			'meta_query' => array(
+				'relation' => 'AND',
+				array(
+					'key'   => 'iworks_fleet_result_date_start',
+					'value' => $iworks_fleet_result_date_start,
+				),
+				array(
+					'key'   => 'iworks_fleet_result_date_end',
+					'value' => $iworks_fleet_result_date_end,
+				),
+			),
+		);
+		$query = new WP_Query( $args );
+		if ( 0 < $query->post_count ) {
+			continue;
+		}
+		$post_array = array(
+			'post_type'   => $result_post_type_name,
+			'post_status' => 'publish',
+			'meta_input'  => array(),
+		);
+		foreach ( $fields as $field ) {
+			if ( empty( $$field ) ) {
+				continue;
+			}
+			if ( preg_match( '/^post_/', $field ) ) {
+				$post_array[ $field ] = $$field;
+				continue;
+			}
+			$post_array['meta_input'][ $field ] = $$field;
+		}
+		if ( empty( $post_array['post_title'] ) ) {
+			continue;
+		}
+		wp_insert_post( $post_array );
+	}
+}
+
+
+
 $persons = array();
 
 $rows = array();
 if ( ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) {
-    echo PHP_EOL,'IMPORT: registry.csv',PHP_EOL;
+	echo PHP_EOL,'IMPORT: registry.csv',PHP_EOL;
 	while ( ( $data = fgetcsv( $handle, 0, ',' ) ) !== false ) {
 		if ( 1 > intval( $data[0] ) ) {
 			continue;
@@ -99,8 +193,8 @@ if ( ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) {
 			 * simple meta
 			 */
 			foreach (
-                array(
-                    'iworks_fleet_boat_hull_number',
+				array(
+					'iworks_fleet_boat_hull_number',
 					'iworks_fleet_boat_build_year',
 					'iworks_fleet_boat_hull_material',
 					'iworks_fleet_boat_name',
@@ -378,26 +472,26 @@ if ( ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) {
  * import sailors
  */
 if ( ( $handle = fopen( 'sailors.csv', 'r' ) ) !== false ) {
-    while ( ( $data = fgetcsv( $handle, 0, ',' ) ) !== false ) {
-        if ( isset( $data[1] ) && ! empty( $data[1] ) ) {
-            $p = person_clear_name( $data[1] );
-            if ( empty( $p ) ) {
-                continue;
-            }
-            $post = get_page_by_title( $p, OBJECT, $person_post_type_name );
-            if ( !empty( $post ) ) {
-                continue;
-            }
-            $post_array = array(
-                'post_title' => $p,
-                'post_type' => $person_post_type_name,
-                'post_status' => 'publish',
-                'meta_input' => array(
-                    'iworks_fleet_personal_nation' => trim ( $data[0] ),
-                )
-            );
-            wp_insert_post( $post_array );
+	while ( ( $data = fgetcsv( $handle, 0, ',' ) ) !== false ) {
+		if ( isset( $data[1] ) && ! empty( $data[1] ) ) {
+			$p = person_clear_name( $data[1] );
+			if ( empty( $p ) ) {
+				continue;
+			}
+			$post = get_page_by_title( $p, OBJECT, $person_post_type_name );
+			if ( ! empty( $post ) ) {
+				continue;
+			}
+			$post_array = array(
+				'post_title'  => $p,
+				'post_type'   => $person_post_type_name,
+				'post_status' => 'publish',
+				'meta_input'  => array(
+					'iworks_fleet_personal_nation' => trim( $data[0] ),
+				),
+			);
+			wp_insert_post( $post_array );
 
-        }
-    }
+		}
+	}
 }
