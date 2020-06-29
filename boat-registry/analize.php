@@ -19,6 +19,25 @@ require 'functions.php';
 
 $persons = array();
 
+$csv = true;
+$debug = false;
+
+
+foreach( $argv as $arg ) {
+    switch( $arg ) {
+    case 'cli':
+        $csv = false;
+        break;
+    case 'debug':
+        $debug = true;
+        break;
+    }
+}
+
+$separtor = ';';
+if ( ! $csv ) {
+    $separtor = ' => ';
+}
 
 
 $persons = array();
@@ -40,9 +59,6 @@ if ( ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) {
 				continue;
 			}
 			$is_person = check_is_person( $data[ $index ] );
-
-
-
 			foreach ( preg_split( '/[;\/\t]/', $data[ $index ] ) as $person_name ) {
 				$person_name = person_clear_name( $person_name );
 				$p           = trim( $person_name );
@@ -53,6 +69,18 @@ if ( ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) {
 		}
 	}
 	fclose( $handle );
+}
+if ( ( $handle = fopen( 'sailors.csv', 'r' ) ) !== false ) {
+    echo PHP_EOL,'IMPORT sailors.csv',PHP_EOL;
+    while ( ( $data = fgetcsv( $handle, 0, ',' ) ) !== false ) {
+        echo '.';
+        if ( isset( $data[1] ) && ! empty( $data[1] ) ) {
+            $p = person_clear_name( $data[1] );
+            if ( ! in_array( $p, $persons ) ) {
+                $persons[] = $p;
+            }
+        }
+    }
 }
 
 $compared = array();
@@ -72,7 +100,7 @@ foreach ( $persons as $p1 ) {
 		$sim = similar_text( $p1, $p2, $perc );
 		if ( 90 < $perc ) {
 
-			echo $p1,';',$p2,PHP_EOL;
+			echo $p1,$separtor,$p2,PHP_EOL;
 			// echo $perc;
 			// echo PHP_EOL;
 			// echo PHP_EOL;

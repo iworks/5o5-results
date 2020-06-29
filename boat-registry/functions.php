@@ -54,7 +54,7 @@ function person_clear_name( $name ) {
 		case 'Dave Eberhart':
 			return 'Dave Eberhardt';
 	}
-	return $name;
+	return trim( $name );
 }
 
 function add_century_to_date( $year ) {

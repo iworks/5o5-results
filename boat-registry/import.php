@@ -44,13 +44,14 @@ $persons = array();
 
 $rows = array();
 if ( ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) {
+    echo PHP_EOL,'IMPORT: registry.csv',PHP_EOL;
 	while ( ( $data = fgetcsv( $handle, 0, ',' ) ) !== false ) {
 		if ( 1 > intval( $data[0] ) ) {
 			continue;
 		}
+		echo '.';
 		$post = get_page_by_title( $data[0], OBJECT, $boat_post_type_name );
 		if ( empty( $post ) ) {
-			echo '.';
 
 			/*
 			 *  0 Sail No
@@ -98,7 +99,8 @@ if ( ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) {
 			 * simple meta
 			 */
 			foreach (
-				array(
+                array(
+                    'iworks_fleet_boat_hull_number',
 					'iworks_fleet_boat_build_year',
 					'iworks_fleet_boat_hull_material',
 					'iworks_fleet_boat_name',
@@ -372,3 +374,30 @@ if ( ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) {
 	fclose( $handle );
 }
 
+/**
+ * import sailors
+ */
+if ( ( $handle = fopen( 'sailors.csv', 'r' ) ) !== false ) {
+    while ( ( $data = fgetcsv( $handle, 0, ',' ) ) !== false ) {
+        if ( isset( $data[1] ) && ! empty( $data[1] ) ) {
+            $p = person_clear_name( $data[1] );
+            if ( empty( $p ) ) {
+                continue;
+            }
+            $post = get_page_by_title( $p, OBJECT, $person_post_type_name );
+            if ( !empty( $post ) ) {
+                continue;
+            }
+            $post_array = array(
+                'post_title' => $p,
+                'post_type' => $person_post_type_name,
+                'post_status' => 'publish',
+                'meta_input' => array(
+                    'iworks_fleet_personal_nation' => trim ( $data[0] ),
+                )
+            );
+            wp_insert_post( $post_array );
+
+        }
+    }
+}
