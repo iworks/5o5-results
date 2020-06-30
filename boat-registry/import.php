@@ -498,17 +498,24 @@ if ( ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false ) {
 		/**
 		 * import results
 		 */
-		echo $data[12],PHP_EOL;
-		$file = '/home/illi/docs/zagle/5o5-results/' . $data[12];
+		$file = '../' . $data[12];
+		echo $file;
+		if ( ! is_file( $file ) ) {
+			echo ' - NO FILE!',PHP_EOL;
+			continue;
+		}
 		if ( ( $handle2 = fopen( $file, 'r' ) ) !== false ) {
-			while ( ( $d = fgetcsv( $handle2, 1000, ',' ) ) !== false ) {
+			$regatta_data = array();
+			while ( ( $d = fgetcsv( $handle2, 0, ',' ) ) !== false ) {
 				$regatta_data[] = $d;
 			}
 			fclose( $handle2 );
+			if ( empty( $regatta_data ) ) {
+				echo ' - EMPTY FILE!',PHP_EOL;
+			} else {
+				echo ' - begin import, rows: ', count( $regatta_data ) ,PHP_EOL;
+				do_action( 'iworks_fleet_result_import_data', $post_ID, $regatta_data );
+			}
 		}
-		if ( empty( $regatta_data ) ) {
-			continue;
-		}
-		do_action( 'iworks_fleet_result_import_data', $post_ID, $regatta_data );
 	}
 }

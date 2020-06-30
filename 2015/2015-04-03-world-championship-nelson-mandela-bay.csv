@@ -1,37 +1,37 @@
 boat,helm,crew,club,r1,r2,r3,r4,r5,r6,r7,r8,sum,#
- USA 9072,Mike Holt,Carl Smith,,1,1,5*,3,1,1,1,DNC*,8,1
- GBR 9136,Ian Pinnell,Johannes Tellen,,7*,3,3,1,2,3,5*,1,13,2
- USA 9091,Ted Conrads,Brian Haines,,13*,5*,2,5,3,2,2,3,17,3
- AUS 9134,Quirk,Payne,,3,4,1,4,9*,4,9*,4,20,4
- AUS 8946,Higgins ,Marsh ,,2,6,4,2,5,7*,7*,2,21,5
- GER 9135,Bohm,Roos,,8*,2,15*,7,6,6,4,8,33,6
- AUS 8890,Higgins,Johnston,,14*,7,13*,8,4,8,3,12,42,7
- RSA 9094,Funke,Funke,,5,12*,8,10,8,13*,8,7,46,8
- GBR 9124,Scutcher,Diebitsch,,6,8,7,12*,10*,10,10,6,47,9
- USA 9153,Hamlin ,Nelson,,10,9,11,6,7,11,6,9,47,10
- DEN 9118,Jan Saugmann,Jakob Karbo,,4,11*,9,9,RET*,5,11,10,48,11
- RSA 9063,Largier,Hutton-Squire,,11,10,16*,11,11,9,13*,5,57,12
- RSA 8486,Robinson,Robinson,,9,14,6,15,16*,15,RET*,13,72,13
- RSA 8719,Ham,Ham,,12,15*,14*,13,12,12,12,11,72,14
- RSA 9026,Hasso Plattner,Shelton,,16,13,18,14,14,14,RET*,15,86,15
- GER 9043,Birkner,Stenger,,15,17,10,18,19*,18,23*,14,92,16
- RSA 8520,D'Engle ,Nel ,,18,18,12,20*,25*,16,17,18,99,17
- GBR 9125,Deane,Deane,,20,19,28*,30*,13,17,15,16,100,18
- USA 8084,Ross,Waterman,,17,16,30*,16,15,20,16,24*,100,19
- RSA 8675,Hurter,May,,19,20*,17,17,17,19,14,20*,103,20
- RSA 8445,Klaas,Von Gruenewaldt,,22*,22,19,21,22,26*,20,17,121,21
- AUS 8637,Cronin,Whitbread,,23,DNF*,24,19,18,29*,18,22,124,22
- GER 8988,Mittermayer,Barteldt,,24,21,29*,24,20,30*,19,27,135,23
- RSA 7822,Klaas ,Tellen,,25,24,22,23,21,31,24,21,135,24
- RSA 8537,Foreman,Van Der Ploeg,,26,23,20,28*,RET*,24,21,25,139,25
- RSA 8948,Parker,Holm,,21,DNC*,25,27*,27,25,22,23,143,26
- RSA 8789,Ham,Robinson,,30,DNC*,21,32,RET*,22,30,19,154,27
- RSA 8584,Rogotzki,Roos ,,29,26,31*,22,23,28,RET*,26,154,28
- RSA 8707,Holm,Fourie,,28,25,26,29*,28,23,RET*,29,159,29
- GER 9000,Menge,Wilts,,33*,27,27,26,24,34*,27,28,159,30
- RSA 8091,Snyman,Ballantyne,,DNS*,29,23,25,DNS*,21,25,RET,160,31
- AUS 9018,Bowden,Bath,,27,28,33,RET*,DNC*,27,28,31,174,32
- RSA 8121,Holtshauzen ,Kirchner,,32,DNF*,32,31,26,35*,26,32,179,33
- RSA 7608,Bailes,Isaac,,31,30,34,RET*,DNC*,33,29,30,187,34
- RSA 4437,Ballantyne,Groenewald,,34,DNC*,35,33,RET*,32,DNC,DNC,208,35
- RSA 6266,Arthur,Anderson,,DNS*,31,RET*,DNS,DNS,36,RET,33,211,36
+USA 9072,Mike Holt,Carl Smith,,1,1,5*,3,1,1,1,DNC*,8,1
+GBR 9136,Ian Pinnell,Johannes Tellen,,7*,3,3,1,2,3,5*,1,13,2
+USA 9091,Ted Conrads,Brian Haines,,13*,5*,2,5,3,2,2,3,17,3
+AUS 9134,Quirk,Payne,,3,4,1,4,9*,4,9*,4,20,4
+AUS 8946,Higgins,Marsh,,2,6,4,2,5,7*,7*,2,21,5
+GER 9135,Bohm,Roos,,8*,2,15*,7,6,6,4,8,33,6
+AUS 8890,Higgins,Johnston,,14*,7,13*,8,4,8,3,12,42,7
+RSA 9094,Funke,Funke,,5,12*,8,10,8,13*,8,7,46,8
+GBR 9124,Scutcher,Diebitsch,,6,8,7,12*,10*,10,10,6,47,9
+USA 9153,Hamlin,Nelson,,10,9,11,6,7,11,6,9,47,10
+DEN 9118,Jan Saugmann,Jakob Karbo,,4,11*,9,9,RET*,5,11,10,48,11
+RSA 9063,Largier,Hutton-Squire,,11,10,16*,11,11,9,13*,5,57,12
+RSA 8486,Robinson,Robinson,,9,14,6,15,16*,15,RET*,13,72,13
+RSA 8719,Ham,Ham,,12,15*,14*,13,12,12,12,11,72,14
+RSA 9026,Hasso Plattner,Shelton,,16,13,18,14,14,14,RET*,15,86,15
+GER 9043,Birkner,Stenger,,15,17,10,18,19*,18,23*,14,92,16
+RSA 8520,D'Engle,Nel,,18,18,12,20*,25*,16,17,18,99,17
+GBR 9125,Deane,Deane,,20,19,28*,30*,13,17,15,16,100,18
+USA 8084,Ross,Waterman,,17,16,30*,16,15,20,16,24*,100,19
+RSA 8675,Hurter,May,,19,20*,17,17,17,19,14,20*,103,20
+RSA 8445,Klaas,Von Gruenewaldt,,22*,22,19,21,22,26*,20,17,121,21
+AUS 8637,Cronin,Whitbread,,23,DNF*,24,19,18,29*,18,22,124,22
+GER 8988,Mittermayer,Barteldt,,24,21,29*,24,20,30*,19,27,135,23
+RSA 7822,Klaas,Tellen,,25,24,22,23,21,31,24,21,135,24
+RSA 8537,Foreman,Van Der Ploeg,,26,23,20,28*,RET*,24,21,25,139,25
+RSA 8948,Parker,Holm,,21,DNC*,25,27*,27,25,22,23,143,26
+RSA 8789,Ham,Robinson,,30,DNC*,21,32,RET*,22,30,19,154,27
+RSA 8584,Rogotzki,Roos,,29,26,31*,22,23,28,RET*,26,154,28
+RSA 8707,Holm,Fourie,,28,25,26,29*,28,23,RET*,29,159,29
+GER 9000,Menge,Wilts,,33*,27,27,26,24,34*,27,28,159,30
+RSA 8091,Snyman,Ballantyne,,DNS*,29,23,25,DNS*,21,25,RET,160,31
+AUS 9018,Bowden,Bath,,27,28,33,RET*,DNC*,27,28,31,174,32
+RSA 8121,Holtshauzen,Kirchner,,32,DNF*,32,31,26,35*,26,32,179,33
+RSA 7608,Bailes,Isaac,,31,30,34,RET*,DNC*,33,29,30,187,34
+RSA 4437,Ballantyne,Groenewald,,34,DNC*,35,33,RET*,32,DNC,DNC,208,35
+RSA 6266,Arthur,Anderson,,DNS*,31,RET*,DNS,DNS,36,RET,33,211,36
