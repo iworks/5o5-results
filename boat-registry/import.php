@@ -425,8 +425,8 @@ if ( ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false ) {
 		[8] => iworks_fleet_result_arbiter
 		[9] => iworks_fleet_result_wind_direction
 		[10] => iworks_fleet_result_wind_power
-        [11] => post_content
-        [12] => file
+		[11] => post_content
+		[12] => file
 		 */
 		$fields = array(
 			'iworks_fleet_result_date_start',
@@ -494,21 +494,21 @@ if ( ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false ) {
 		if ( empty( $post_array['post_title'] ) ) {
 			continue;
 		}
-        $post_ID = wp_insert_post( $post_array );
-        /**
-         * import results
-         */
-        echo $data[12],PHP_EOL;
-        $file = '/home/illi/docs/zagle/5o5-results/'.$data[12];
+		$post_ID = wp_insert_post( $post_array );
+		/**
+		 * import results
+		 */
+		echo $data[12],PHP_EOL;
+		$file = '/home/illi/docs/zagle/5o5-results/' . $data[12];
 		if ( ( $handle2 = fopen( $file, 'r' ) ) !== false ) {
 			while ( ( $d = fgetcsv( $handle2, 1000, ',' ) ) !== false ) {
 				$regatta_data[] = $d;
 			}
 			fclose( $handle2 );
 		}
-        if ( empty( $regatta_data ) ) {
-            continue;
-        }
-        do_action( 'iworks_fleet_result_import_data', $post_ID, $regatta_data );
+		if ( empty( $regatta_data ) ) {
+			continue;
+		}
+		do_action( 'iworks_fleet_result_import_data', $post_ID, $regatta_data );
 	}
 }
