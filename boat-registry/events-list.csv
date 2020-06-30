@@ -1,35 +1,35 @@
-Start Date,End  Date,Name,Races,Competitors,Area,Organizer,Secretary,Arbiter,Wind direction,Wind power,
-2017-09-20,2017-09-29,World Championship,8,87,"Annapolis, MD, USA",Severn Sailing Association / Eastport Yacht Club,,Walter Mielke (GER),,,
-2018-08-17,2018-08-19,Polish Championship,7,28,"Zatoka Pomorska, POL",MT Partners,,,,,
-2018-08-08,2018-08-13,North America Championship,11,24,,St. Francis Yacht Club,J. Lancaster,,,,
-2018-07-21,2018-07-28,World Championship,10,127,"Zatoka Gdańska, POL","Polski Związek Żeglarski, Miasto Gdynia, Polskie Stowarzyszenie Klasy 505",Walter Mielke,Tim Hancock,,,
-2018-07-20,2018-07-20,Pre-Worlds,3,129,"Zatoka Gdańska, POL","Polski Związek Żeglarski, Miasto Gdynia, Polskie Stowarzyszenie Klasy 505",Walter Mielke,Tim Hancock,,,
-2018-06-16,2018-06-20,Kieler Woche,11,36,"Kiel, GER",,Nino Shmueli,Douglas Sloan,,,https://youtu.be/-PTzl5M5eLo
-2019-10-19,2019-10-20,Berlin Championship,4,20,"VSaW Berlin, GER",Verein Seglerhaus am Wannsee Berliner Segler-Verband e.V.,,,,,
-2019-09-06,2019-09-08,Polish Championship,10,17,"Baltic Sea, Gdynia, POL",Polskie Stowarzyszenie Klasy 5O5,,,,,
-2019-01-01,2019-01-01,Pre-Worlds,5,89,,Fremantle Sailing Club,,,,,
-2016-06-02,2016-06-05,North America Championship,10,49,"Bellingham Bay, USA",Bellingham Yacht Club,John Pedlow,,,,
-2016-09-09,2016-09-11,Polish Championship,3,20,"Zalew Wiślany, POL",,,,,,
-2015-03-28,2015-04-03,World Championship,8,36,"Nelson Mandela Bay, RPA",,,,,,
-2015-08-03,2015-08-08,European Championship,9,101,SWE,Varberg Yacht Club,,,,,
-2015-09-11,2015-09-13,Polish Championship,11,23,"Zatoka Pucka, POL",MOKSIR Puck/PSK 505,,,,,
-2014-08-13,2014-08-22,World Championship,7,161,"Kiel, GER",,,,,,
-2014-09-12,2014-09-14,Polish Championship,8,25,"Zatoka Gdańska, POL",Sopocki Klub Żeglarski Ergo Hestia,,,,,
-2013-04-22,2013-05-03,World Championship,9,77,"Barbados, Bridgetown",,,,,,
-2013-08-28,2013-09-01,European Championship,9,89,"Medemblik, NED",,,,,,
-2013-09-06,2013-09-08,Polish Championship,11,19,"Zatoka Gdańska, Kamień Pomorski, POL",,,,,,
-2012-09-21,2012-09-23,Polish Championship,11,19,"Zalew Kamieński, Kamień Pomorski, POL",MKŻ Kamień Pomorski,,,,,
-2011-03-20,2011-04-01,World Championship,7,85,"Hamilton Island, AUS",,,,,,
-2011-09-02,2011-09-04,Polish Championship,9,10,"Zatoka Gdańska, Gdynia, POL",YKP Gdynia,,,,,
-2010-07-09,2010-07-11,Polish Championship,9,5,"Zatoka Gdańska, Gdańsk, POL",,,,,,
-2010-08-10,2010-08-16,World Championship,9,125,"Aarhus, DEN",,,,,,
-2009-08-23,2009-08-30,World Championship,9,98,"San Francisco, USA",St. Francis Yacht Club,,,,,
-2009-09-18,2009-09-20,Polish Championship,8,10,"Zatoka Gdańska, Gdynia, POL",,,,,,
-2008-07-07,2008-07-13,World Championship,6,123,"Palermo, ITA",,,,,,
-2007-02-02,2007-02-02,World Championship,9,92,"Adelaide, AUS",,,,,,
-2007-08-26,2007-09-01,European Championship,9,53,"Sopot, POL",,Beata Zajkowska,Zbigniew Czubek,"NW,W,W,W,W,W,W,W,NW","9-11,4-6,3-7,3-7,5-9,5-9,2-3,2-7,3-7",
-2006-07-19,2006-08-04,World Championship,7,113,"Hayling Island, GBR",,,,,,
-2004-07-24,2004-08-04,World Championship,7,102,"Santa Cruze, USA",,,,,,
-2004-10-03,2004-10-08,European Championship,8,56,"Pula, CRO",,,,,,
-1997-08-10,1997-08-21,World Championship,7,79,"Gilleleje, DEN",GILLELEJE SEJLKLUB,,,,,
-1994-08-13,1994-08-21,World Championship,6,63,"Medemblik, NED",,,,,,
+Start Date,End  Date,Name,Races,Competitors,Area,Organizer,Secretary,Arbiter,Wind direction,Wind power,Post Content,File
+1994-08-13,1994-08-21,World Championship,6,63,"Medemblik, NED",,,,,,,1994/1994-08-21.world-championships.mademblik-holland.csv
+1997-08-10,1997-08-21,World Championship,7,79,"Gilleleje, DEN",GILLELEJE SEJLKLUB,,,,,,1997/1997-world-championships.gilleleje-denmark.csv
+2004-07-24,2004-08-04,World Championship,7,102,"Santa Cruze, USA",,,,,,,2004/2004-08-20.world-championship.santa-cruze.usa.csv
+2004-10-03,2004-10-08,European Championship,8,56,"Pula, CRO",,,,,,,2004/2004-10-08.european-championship.croatia.pula.csv
+2006-07-19,2006-08-04,World Championship,7,113,"Hayling Island, GBR",,,,,,,2006/2006-08-04-world-championships.hayling-island.csv
+2007-02-02,2007-02-02,World Championship,9,92,"Adelaide, AUS",,,,,,,2007/2007-02-02-world-championship-adelaide.csv
+2007-08-26,2007-09-01,European Championship,9,53,"Sopot, POL",,Beata Zajkowska,Zbigniew Czubek,"NW,W,W,W,W,W,W,W,NW","9-11,4-6,3-7,3-7,5-9,5-9,2-3,2-7,3-7",,2007/2007-09-01-european-championship.csv
+2008-07-07,2008-07-13,World Championship,6,123,"Palermo, ITA",,,,,,,2008/2008-world-championship-palermo.csv
+2009-08-23,2009-08-30,World Championship,9,98,"San Francisco, USA",St. Francis Yacht Club,,,,,,2009/2009-08-30-world-championship-san-francisco.csv
+2009-09-18,2009-09-20,Polish Championship,8,10,"Zatoka Gdańska, Gdynia, POL",,,,,,,2009/2009-09-20-mp.csv
+2010-07-09,2010-07-11,Polish Championship,9,5,"Zatoka Gdańska, Gdańsk, POL",,,,,,,2010/2010-07-11-mp.csv
+2010-08-10,2010-08-16,World Championship,9,125,"Aarhus, DEN",,,,,,,2010/2010-08-16-world-championship-aarhus.csv
+2011-03-20,2011-04-01,World Championship,7,85,"Hamilton Island, AUS",,,,,,,2011/2011-04-01-world-championship-hamilton-island.csv
+2011-09-02,2011-09-04,Polish Championship,9,10,"Zatoka Gdańska, Gdynia, POL",YKP Gdynia,,,,,,2011/2011-09-04-gdynia-mistrzostwa-polski.csv
+2012-09-21,2012-09-23,Polish Championship,11,19,"Zalew Kamieński, Kamień Pomorski, POL",MKŻ Kamień Pomorski,,,,,,2012/2012-09-23-mistrzostwa-polski.csv
+2013-04-22,2013-05-03,World Championship,9,77,"Barbados, Bridgetown",,,,,,,2013/2013-05-03-world-championships-barbados.csv
+2013-08-28,2013-09-01,European Championship,9,89,"Medemblik, NED",,,,,,,2013/2013-09-01-mistrzostwa-europy.csv
+2013-09-06,2013-09-08,Polish Championship,11,19,"Zatoka Gdańska, Kamień Pomorski, POL",,,,,,,2013/2013-09-08-mistrzostwa-polski.csv
+2014-08-13,2014-08-22,World Championship,7,161,"Kiel, GER",,,,,,,2014/2014-08-22-world-championship-kiel.csv
+2014-09-12,2014-09-14,Polish Championship,8,25,"Zatoka Gdańska, POL",Sopocki Klub Żeglarski Ergo Hestia,,,,,,2014/2014-09-14-mistrzostwa-polski.csv
+2015-03-28,2015-04-03,World Championship,8,36,"Nelson Mandela Bay, RPA",,,,,,,2015/2015-04-03-world-championship-nelson-mandela-bay.csv
+2015-08-03,2015-08-08,European Championship,9,101,SWE,Varberg Yacht Club,,,,,,2015/2015-08-08-european-championship-varberg.csv
+2015-09-11,2015-09-13,Polish Championship,11,23,"Zatoka Pucka, POL",MOKSIR Puck/PSK 505,,,,,,2015/2015-09-13_mistrzostwa-polski.csv
+2016-06-02,2016-06-05,North America Championship,10,49,"Bellingham Bay, USA",Bellingham Yacht Club,John Pedlow,,,,,2016/2016-06-05.north-american-championships.bellingham.csv
+2016-09-09,2016-09-11,Polish Championship,3,20,"Zalew Wiślany, POL",,,,,,,2016/2016-09-11-mistrzostwa-polski.csv
+2017-09-20,2017-09-29,World Championship,8,87,"Annapolis, MD, USA",Severn Sailing Association / Eastport Yacht Club,,Walter Mielke (GER),,,,2017/2017-09-29-world-championship-annapolis.csv
+2018-06-16,2018-06-20,Kieler Woche,11,36,"Kiel, GER",,Nino Shmueli,Douglas Sloan,,,https://youtu.be/-PTzl5M5eLo,2018/2018-06-20-kieler-woche.csv
+2018-07-20,2018-07-20,Pre-Worlds,3,129,"Zatoka Gdańska, Gdynia, POL","Polski Związek Żeglarski, Miasto Gdynia, Polskie Stowarzyszenie Klasy 505",Walter Mielke,Tim Hancock,,,,2018/2018-07-20-pre-worlds-gdynia.csv
+2018-07-21,2018-07-28,World Championship,10,127,"Zatoka Gdańska, Gdynia, POL","Polski Związek Żeglarski, Miasto Gdynia, Polskie Stowarzyszenie Klasy 505",Walter Mielke,Tim Hancock,,,,2018/2018-07-29-world-championship-gdynia.csv
+2018-08-08,2018-08-13,North America Championship,11,24,,St. Francis Yacht Club,J. Lancaster,,,,,2018/2018-08-13.north-american-championships.san-fancisco.csv
+2018-08-17,2018-08-19,Polish Championship,7,28,"Zatoka Pomorska, POL",MT Partners,,,,,,2018/2018-08-19-otwarte-mistrzostwa-polski.csv
+2019-01-01,2019-01-01,Pre-Worlds,5,89,,Fremantle Sailing Club,,,,,,2019/2018-12-30-pre-worlds-perth.csv
+2019-09-06,2019-09-08,Polish Championship,10,17,"Baltic Sea, Gdynia, POL",Polskie Stowarzyszenie Klasy 5O5,,,,,,2019/2019-09-08-miedzynarodowe-mistrzostwa-polski.csv
+2019-10-19,2019-10-20,Berlin Championship,4,20,"VSaW Berlin, GER",Verein Seglerhaus am Wannsee Berliner Segler-Verband e.V.,,,,,,2019/2019-10-20-berlin-meistershaft.csv

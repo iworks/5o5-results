@@ -117,6 +117,22 @@ class iworks_5o5_upload_fixer {
 			'Goult'   => 'Martin Goult',
 			'Russell' => 'Gordon Russell',
 		),
+		array(
+			'Nieminen' => 'Jukka Nieminen',
+			'Salonen'  => 'Antti Salonen',
+		),
+		array(
+			'Anton'   => 'Jürgen Anton',
+			'Denecke' => 'Ulf Denecke',
+		),
+		array(
+			'Hofmann'     => 'Jan-Philipp Hofmann',
+			'Brockerhoff' => 'Felix Björn Brockerhoff',
+		),
+		array(
+			'Lankenau' => 'Lars Lankenau',
+			'Schipler' => 'Anna Dorothea Schipler',
+		),
 		/*
 		array(
 			'' => '',
@@ -162,6 +178,31 @@ class iworks_5o5_upload_fixer {
 		'Wolfgang Stueckl'      => 'Wolfgang Stückl',
 		'Wolfgang Stuekl'       => 'Wolfgang Stückl',
 		'Y. Pajot'              => 'Yves Pajot',
+		'Mark Upton Brown'      => 'Mark Upton-Brown',
+		'Doug Hagan'            => 'Douglas Hagan',
+		'Stefan Bohm'           => 'Stefan Böhm',
+		'Stefan Boehm'          => 'Stefan Böhm',
+		'Charlie Walters'       => 'Charles Walters',
+		'Parker Shinn'          => 'Parker Shin',
+		'Garreth Williams'      => 'Gareth Williams',
+		'Nick Deussen'          => 'Nicholas Deussen',
+		'Volker Goerge'         => 'Volker Görge',
+		'Friederichs Hartwig'   => 'Hartwig Friedrichs',
+		'Matt Hansen'           => 'Matthew Hansen',
+		'Stefan Koechlin'       => 'Stefan Köchlin',
+		'Wolfgang Dr Hunger'    => 'Wolfgang Hunger',
+		'Hans Heinrich Rix'     => 'Hans-Heinrich Rix',
+		'Ulf Plessmann'         => 'Ulf Pleßmann',
+		'Finn Boeger'           => 'Finn Böger',
+		'Ian Mcgillivray'       => 'Ian Mc Gillivray',
+		'Jim Mcgillivray'       => 'Jim Mc Gillivray',
+		'Mattihieu Guibbal'     => 'Matthieu Guibbal',
+		'Jan-Philipp Hofman'    => 'Jan-Philipp Hofmann',
+		'Per-Anders Hallberg'   => 'Per Anders Hallberg',
+		'Heini Rix'             => 'Hans-Heinrich Rix',
+
+
+
 	);
 
 
