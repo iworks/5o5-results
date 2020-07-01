@@ -225,6 +225,90 @@ class iworks_5o5_upload_fixer {
 			'Houriet' => 'Catherine Houriet',
 			'Donze'   => 'Gil Donzé',
 		),
+		array(
+			'Boehm' => 'Stefan Böhm',
+			'Roos'  => 'Gerald Roos',
+		),
+		array(
+			'Tennant' => 'Bob Tennant',
+			'Mundell' => 'Rich Mundel',
+		),
+		array(
+			'Neidhart' => 'Elisabeth Neidhart',
+			'Gougeon'  => 'Matthieu Gougeon',
+		),
+		array(
+			'Schomäker' => 'Meike Schomäker',
+			'Jess'      => 'Holger Jess',
+		),
+		array(
+			'Fitzpatrick' => 'Annie Fitzpatrick',
+			'Pittack'     => 'Christian Pittack',
+		),
+		array(
+			'Van Deventer' => 'Bruce Van Deventer',
+			'Henderson'    => 'Jon Henderson',
+		),
+		array(
+			'Boite'     => 'Philippe Boite',
+			'Grossmann' => 'Erwan Grossmann',
+		),
+		array(
+			'Daisenberger' => 'Micky Daisenberger',
+			'Bolduan'      => 'Tobias Bolduan',
+		),
+		array(
+			'Kellner' => 'Christian Kellner',
+			'Schöler' => 'Martin Schöler',
+		),
+		array(
+			'Holzapfel' => 'Alexander Holzapfel',
+			'Worm'      => 'Stefan Worm',
+		),
+		array(
+			'Kwee'    => 'Steve Kwee',
+			'Spötter' => 'Thorsten Spötter',
+		),
+		array(
+			'Dechauffour' => 'Valentin Dechaffour',
+			'Gendry'      => 'Pierre Gendry',
+		),
+		array(
+			'Hyysalo' => 'Sampsa Hyysalo',
+			'Kääpä'   => 'Lauri Kääpä',
+		),
+		array(
+			'Higgins' => 'Sandy Higgins',
+			'Marsh'   => 'Paul Marsh',
+		),
+		array(
+			'Higgins'  => 'Malcolm Higgins',
+			'Johnston' => 'Nick Johnston',
+		),
+		array(
+			'Pinnell' => 'Ian Pinnell',
+			'Shelton' => 'Dave Shelton',
+		),
+		array(
+			'Ross'     => 'Aaron Ross',
+			'Waterman' => 'Rob Waterman',
+		),
+		array(
+			'Klaas'           => 'Kyle Klaas',
+			'Von Gruenewaldt' => 'Robert von Gruenewaldt',
+		),
+		array(
+			'Cronin'    => 'Sam Cronin',
+			'Whitbread' => 'Kevin Whitbread',
+		),
+		array(
+			'De Kergariou' => 'Hervé de Kergariou',
+			'Gèron'        => 'Basile Géron',
+		),
+		array(
+			'Johansson' => 'Johan Johansson',
+			'Ekberg'    => 'Anders Ekberg',
+		),
 		/*
 		array(
 			'' => '',
@@ -235,6 +319,26 @@ class iworks_5o5_upload_fixer {
 
 
 	private $person = array(
+		'Soren Overbeck'         => 'Søren Overbeck',
+		'de Jamonieres'          => 'Nicolas des Jamonières',
+		'Des Jamonieres'         => 'Nicolas des Jamonières',
+		'Nikos Desjamonieres'    => 'Nicolas des Jamonières',
+		'Frank Bach'             => 'Frank Bach',
+		'Hamlin Howard'          => 'Howard Hamlin',
+		'Alain Karajian'         => 'Alain Karadjian',
+		'Michal Olko'            => 'Michał Olko',
+		'Cedric Bart'            => 'Cédric Bart',
+		'Ben Glass'              => 'Benjamin Glass',
+		'Lindsey Gilbert'        => 'Lindsay Gilbert',
+		'Tim Bager'              => 'Tim Böger',
+		'Tim Boeger'             => 'Tim Böger',
+		'Von Grey'               => 'Paul von Grey',
+		'Rich Mundell'           => 'Rich Mundel',
+		'TBA'                    => '',
+		'Volker Niedek'          => 'Volker Niediek',
+		'Jan Saugmann DEN'       => 'Jan Saugmann',
+		'Marcus Cooper AUS'      => 'Marcus Cooper',
+		'Doug Watson'            => 'Douglas Watson',
 		'Charles Hanson'         => 'Charles Hansen',
 		'Beier Frank'            => 'Frank Beier',
 		'Gil Donze'              => 'Gil Donzé',
@@ -250,6 +354,7 @@ class iworks_5o5_upload_fixer {
 		'Dasenbrook Norbert'     => 'Norbert Dasenbrook',
 		'Nici Birkner'           => 'Nicola Birkner',
 		'Hansen Matt'            => 'Matthew Hansen',
+		'Crazy John McLean'      => 'John Mclean',
 		'John Mclean CRAZY*'     => 'John Mclean',
 		'Hofmann Nils Henning'   => 'Nils-Henning Hofmann',
 		'Zeiler Claudius'        => 'Claudius Zeiler',
@@ -286,12 +391,16 @@ class iworks_5o5_upload_fixer {
 		'Meike Schomaeker'       => 'Meike Schomäker',
 		'Meike Schomaker'        => 'Meike Schomäker',
 		'Mick Babbage'           => 'Michael Babbage',
-		'PA Hallberg'            => 'Per Anders Hallberg',
+		'PA Hallberg'            => 'Per-Anders Hallberg',
+		'Per Anders Hallberg'    => 'Per-Anders Hallberg',
 		'Paul Von Grey'          => 'Paul von Grey',
 		'Paul VonGrey'           => 'Paul von Grey',
 		'Pip Pearson'            => 'Malcolm \'Pip\' Pearson',
 		'Sam (GA) Cronin'        => 'Sam Cronin',
 		'Stu Park'               => 'Stuart Park',
+		'Mcgillivray Jim'        => 'Jim Mc Gillivray',
+		'Mcgillivray Ian'        => 'Ian Mc Gillivray',
+		'James McGillivray'      => 'James Mc Gillivray',
 		'Tom Bojland'            => 'Tom Bøjland',
 		'Tom Gillard'            => 'Thomas Gillard',
 		'Wolfgang Stuckl'        => 'Wolfgang Stückl',
@@ -305,12 +414,17 @@ class iworks_5o5_upload_fixer {
 		'Charlie Walters'        => 'Charles Walters',
 		'Parker Shinn'           => 'Parker Shin',
 		'Garreth Williams'       => 'Gareth Williams',
+		'Brad Clarke'            => 'Bradley Clarke',
 		'Nick Deussen'           => 'Nicholas Deussen',
+		'Bernadette Dekegariou'  => 'Bernadette de Kergariou',
 		'Volker Goerge'          => 'Volker Görge',
+		'Hartwig Friedrichs'     => 'Hartwig Friedrichs',
 		'Friederichs Hartwig'    => 'Hartwig Friedrichs',
 		'Matt Hansen'            => 'Matthew Hansen',
+		'Stefan Kochlin'         => 'Stefan Köchlin',
 		'Stefan Koechlin'        => 'Stefan Köchlin',
 		'Wolfgang Dr Hunger'     => 'Wolfgang Hunger',
+		'Wolfgan Hunger'         => 'Wolfgang Hunger',
 		'Hans Heinrich Rix'      => 'Hans-Heinrich Rix',
 		'Ulf Plessmann'          => 'Ulf Pleßmann',
 		'Finn Boeger'            => 'Finn Böger',
@@ -352,7 +466,7 @@ class iworks_5o5_upload_fixer {
 		'Boeger Finn'            => 'Finn Böger',
 		'Tim Boger'              => 'Tim Böger',
 		'Finn Boger'             => 'Finn Böger',
-
+		'Mike Priddle'           => 'Michael Priddle',
 	);
 
 
