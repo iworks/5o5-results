@@ -1,5 +1,10 @@
 <?php
 
+function show_debug() {
+	return false;
+}
+
+
 function get_person_by_name( $name ) {
 	global $persons, $person_post_type_name;
 	$post_title = person_clear_name( $name );
@@ -58,13 +63,13 @@ function person_clear_name( $name ) {
 }
 
 function add_century_to_date( $year ) {
-    $year = intval( $year );
-    if ( 1900 < $year ) {
-        if ( 54 < $year ) {
-            $year += 100;
-        }
-        $year += 1900;
-    }
+	$year = intval( $year );
+	if ( 1900 < $year ) {
+		if ( 54 < $year ) {
+			$year += 100;
+		}
+		$year += 1900;
+	}
 	return sprintf( '%d-01-01', $year );
 }
 
@@ -139,11 +144,15 @@ function add_organization( $raw, $person, $date_from = '', $order = false ) {
 
 function check_is_person( $data ) {
 	if ( 7 > strlen( $data ) ) {
-		echo PHP_EOL,'short: ',$data,PHP_EOL;
+		if ( show_debug() ) {
+			echo PHP_EOL,'short: ',$data,PHP_EOL;
+		}
 		return false;
 	}
 	if ( ! preg_match( '/ /', $data ) ) {
-		echo PHP_EOL,'no-space: ',$data,PHP_EOL;
+		if ( show_debug() ) {
+			echo PHP_EOL,'no-space: ',$data,PHP_EOL;
+		}
 		return false;
 	}
 	switch ( $data ) {
