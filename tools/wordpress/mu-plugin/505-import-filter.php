@@ -353,6 +353,10 @@ class iworks_5o5_upload_fixer {
 			'Lawner'     => 'Tord Lawner',
 			'Gustavsson' => 'Tomas Gustavsson',
 		),
+		array(
+			'Rasenack' => 'Bernd Rasenack',
+			'Brückner' => 'Stefan Brückner',
+		),
 		/*
 		array(
 			'' => '',
@@ -363,6 +367,10 @@ class iworks_5o5_upload_fixer {
 
 
 	private $person = array(
+		'Bussenius Roger'        => 'Roger Bussenius',
+		'Bussenius Robert'       => 'Robert Bussenius',
+		'Ute Stuempel'           => 'Ute Stümpel',
+		'Karsten Stuempel'       => 'Karsten Stümpel',
 		'Tomas Gustavsson'       => 'Tomas Gustafsson',
 		'Ciferri Enrico'         => 'Enrico Ciferri',
 		'Natali Gabriele'        => 'Gabriele Natali',
