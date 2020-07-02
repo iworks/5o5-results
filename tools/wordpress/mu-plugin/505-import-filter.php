@@ -6,6 +6,10 @@ class iworks_5o5_upload_fixer {
 
 	private $sailors = array(
 		array(
+			'Ham'      => 'Warwick Ham',
+			'Robinson' => 'Ryan Robinson',
+		),
+		array(
 			'Daisenberger'   => 'Micki Daisenberger',
 			'Lautenschlager' => 'Florian Lautenschlager',
 		),
@@ -361,6 +365,50 @@ class iworks_5o5_upload_fixer {
 			'Gnadeberg' => 'Thure Gnadeberg',
 			'Tellen'    => 'Aron Tellen',
 		),
+		array(
+			'Steffen' => 'Henning Steffen',
+			'Giesen'  => 'Tilman Giesen',
+		),
+		array(
+			'Tasche'   => 'Lennart Tasche',
+			'Frederik' => 'Frederik Tasche',
+		),
+		array(
+			'Steffen' => 'Henning Steffen',
+			'Giesen'  => 'Tilman Giesen',
+		),
+		array(
+			'Tirre' => 'Andre Tirre',
+			'Wille' => 'Frank Wille',
+		),
+		array(
+			'Menge' => 'Katharina Menge',
+			'Kühne' => 'Jens Kühne',
+		),
+		array(
+			'Feuerhake'  => 'Jürgen Feuerhake',
+			'Nehrenberg' => 'Anne Nehrenberg',
+		),
+		array(
+			'Ehlers' => 'Hansjörg Ehlers',
+			'Afken'  => 'Thomas Afken',
+		),
+		array(
+			'Moore'   => 'Tyler Moore',
+			'Ewenson' => 'Geoff Ewenson',
+		),
+		array(
+			'Amthor' => 'Henry Amthor',
+			'Roney'  => 'Dustin Romey',
+		),
+		array(
+			'Achterberg' => 'Frieder Achterberg',
+			'Stueckl'    => 'Wolfgang Stückl',
+		),
+		array(
+			'Plattner' => 'Hasso Plattner',
+			'Alarie'   => 'Peter Alarie',
+		),
 		/*
 		array(
 			'' => '',
@@ -371,6 +419,9 @@ class iworks_5o5_upload_fixer {
 
 
 	private $person = array(
+		'Hansjoerg Ehlers'        => 'Hansjörg Ehlers',
+		'Jens Kuehne'             => 'Jens Kühne',
+		'James Mcgillivray'       => 'James Mc Gillivray',
 		'Owen Tudor'              => 'Tudor Owen',
 		'Tom Bruton'              => 'Thomas Bruton',
 		'Dougar Cram'             => 'Dougal Cram',
@@ -437,13 +488,20 @@ class iworks_5o5_upload_fixer {
 		'de Kergariou Anne Marie' => 'Anna Marie de Kergariou',
 		'de Kergariou Guillaume'  => 'Guillaume de Kergariou',
 		'James Spikesley'         => 'James Spikesly',
+		'De Kergariou Guillaune'  => 'Guillaume de Kergariou',
+		'Ben McGran'              => 'Ben McGrane',
+		'Lewis Paddy'             => 'Paddy Lewis',
+		'Treichel Timon'          => 'Timon Treichel',
+		'Roos Morten'             => 'Morten Roos',
 		'Guillaume De Kergariou'  => 'Guillaume de Kergariou',
 		'Hamlin Howard'           => 'Howard Hamlin',
+		'Hans-Heirich Rix'        => 'Hans-Heinrich Rix',
 		'Hans Heinrich Rix'       => 'Hans-Heinrich Rix',
 		'Hansen Matt'             => 'Matthew Hansen',
 		'Hartwig Friedrichs'      => 'Hartwig Friedrichs',
 		'Hauschild Anna'          => 'Anna Hauschild',
 		'Heini Rix'               => 'Hans-Heinrich Rix',
+		'De Kergariou Herve'      => 'Hervé de Kergariou',
 		'de Kergariou Herve'      => 'Hervé de Kergariou',
 		'Herve de Kergariou'      => 'Hervé de Kergariou',
 		'Hervé De Kergariou'      => 'Hervé de Kergariou',
@@ -558,6 +616,8 @@ class iworks_5o5_upload_fixer {
 		'Ulf Plessmann'           => 'Ulf Pleßmann',
 		'Volker Goerge'           => 'Volker Görge',
 		'Volker Gorge'            => 'Volker Görge',
+		'Volker Niedick'          => 'Volker Niediek',
+		'Juergen Feuerhake'       => 'Jürgen Feuerhake',
 		'Volker Niedek'           => 'Volker Niediek',
 		'Von Grey'                => 'Paul von Grey',
 		'Wolfgan Hunger'          => 'Wolfgang Hunger',

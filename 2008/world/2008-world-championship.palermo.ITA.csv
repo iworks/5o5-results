@@ -12,7 +12,7 @@ GER 8651,Kellner,Scholer,Male,15,35*,20,7,23,4,69,10
 AUS 8920,Michael Quirk,Simon Reffold,Male,45,(dnf),5,3,9,10,72,11
 DEN 8826,Tom Bøjland,Friis,Male,9,29,1,18,61*,21,78,12
 GER 8728,Schomaker,Gorge,Mixed,2,27,14,10,34,55*,87,13
-GER 8927,Gorge,Rix,Male,29,7,31,21,1,48*,89,14
+GER 8927,Gorge,Hans-Heinrich Rix,Male,29,7,31,21,1,48*,89,14
 USA 8883,Moore,Falsone,Male,8,14,42,4,22,60*,90,15
 SUI 8954,Stauffer,Philippe Jacot,Male,24,25,8,29,7,46*,93,16
 GER 8875,Jens Findel,Johannes Tellen,Male,31,5,47*,40,18,1,95,17
@@ -46,7 +46,7 @@ FRA 8844,Xavier Broise,Nicolas Des Jamonières,Male,26,(dnf),33,65,36,45,205,44
 GBR 8935,Russel Short,Andy Short,Male,20,37,36,49,70*,64,206,45
 AUS 8922,Cuneo,Warlow,Male,43,38,56,43,83*,29,209,46
 DEN 8828,Jon Andersen,Lasse Andersen,Male,57,(dnf),41,78,8,28,212,47
-GER 8965,Hasso Plattner,Alarie,Male,58,(dns),23,30,63,39,213,48
+GER 8965,Hasso Plattner,Peter Alarie,Male,58,(dns),23,30,63,39,213,48
 AUS 8921,Lott,Franks,Male,53,39,57,28,67*,37,214,49
 GBR 8881,Scutcher,Diebitsch,Male,32,(dnf),38,14,12,raf,220,50
 SUI 8613,Petermann,Grob,Male,61,(dnf),43,63,14,50,231,51

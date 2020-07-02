@@ -7,6 +7,7 @@ AUS,Andrew Chisholm
 AUS,Andrew McCole
 AUS,Annabel Jones
 AUS,Anthony King
+AUS,Arne Lanatowitz
 AUS,Ayden Menzies
 AUS,Ben Schulz
 AUS,Bob Franks
@@ -19,6 +20,7 @@ AUS,Brian Pike
 AUS,Bryce Penfold
 AUS,Byron Mavrick
 AUS,Cameron McDonald
+AUS,Chris Gregg
 AUS,Chris Whyte
 AUS,Christopher Paterson
 AUS,Christopher Pearson
@@ -35,6 +37,7 @@ AUS,David Christie
 AUS,David Muel
 AUS,David Ottaway
 AUS,Ed Cox
+AUS,Edmond Repsevicius
 AUS,Geoff Lange
 AUS,Gilbert Ford
 AUS,Glen Stewart
@@ -57,6 +60,7 @@ AUS,Jeremy Manders
 AUS,Jim Mc Gillivray
 AUS,Joel Castle
 AUS,John Jenkins
+AUS,John Mclean
 AUS,John Paterson
 AUS,Jonathon Ross
 AUS,Jonno Bannister
@@ -70,6 +74,7 @@ AUS,Lindsay Whitton
 AUS,Luke Payne
 AUS,Luke Rhodes
 AUS,Maggie Bowden
+AUS,Marcel Vos
 AUS,Marcus Cooper
 AUS,Martin Pike
 AUS,Matt Bowden
@@ -104,7 +109,9 @@ AUS,Rasmus Goerge
 AUS,Richard Machin
 AUS,Richie Gallimore
 AUS,Riley Pike
+AUS,Riley Skipworth
 AUS,Rob Deussen
+AUS,Robert Fleming
 AUS,Robert Gilchrist
 AUS,Robin Bath
 AUS,Roger Pell
@@ -117,6 +124,7 @@ AUS,Scott Lidgett
 AUS,Shane Attwell
 AUS,Shane Guanaria
 AUS,Simon Reffold
+AUS,Steve Howden
 AUS,Steve McConaghy
 AUS,Steve Sievewright
 AUS,Thor Schoenhoff
@@ -124,8 +132,10 @@ AUS,Tim Jeans
 AUS,Tim Walker
 AUS,Tom Brewer
 AUS,Tom Connell
+AUS,Tom Stuchbery
 AUS,Tom Watson
 AUS,Tony Wood
+AUS,Vivian Marcas
 AUS,Wayne Boyd
 AUS,Xavier Agnew
 AUT,Adam Smith
@@ -160,10 +170,12 @@ FIN,Juhani Heimsch
 FIN,Lauri Kääpä
 FIN,Ville Tarvo
 FRA,Alain Chartier
+FRA,Anna Marie de Kergariou
 FRA,Antoine Lafortune
 FRA,Basile Géron
 FRA,David De Monteil
 FRA,Erwan Grossmann
+FRA,François de Lisle
 FRA,Geraud Lafortune
 FRA,Guillaume de Kergariou
 FRA,Jean Philippe Chartier
@@ -187,11 +199,13 @@ GBR,Andrew Short
 GBR,Andrew Smith
 GBR,Andy Edmonds
 GBR,Ben Farren-Price
+GBR,Ben McGrane
 GBR,Bill Munnery
 GBR,Brian Newlyn
 GBR,Chris Hewkin
 GBR,Christopher Dando
 GBR,Dan Johnson
+GBR,Daniel Hart
 GBR,David Barnes
 GBR,David Hitcock
 GBR,David Thorpe
@@ -225,6 +239,8 @@ GBR,Pete Brooke Houghton
 GBR,Reeve Dunn
 GBR,Richard Berry
 GBR,Richard Nurse
+GBR,Roger Gilbert
+GBR,Simon Briddon
 GBR,Russ Clark
 GBR,Russell Short
 GBR,Sam Pascoe
@@ -236,18 +252,22 @@ GBR,Terry Scutcher
 GBR,Terry Selfe
 GBR,Thomas Bruton
 GBR,Tim Needham
+GBR,Tom Stivano
 GBR,Vincent Horey
+GER,Andre Tirre
 GER,Andreas Achterberg
 GER,Anika Kébreau
 GER,Anika Wollenbecker
 GER,Anja Grotheer
 GER,Anna Dorothea Schipler
 GER,Anna Hauschild
+GER,Anne Nehrenberg
 GER,Antje Paulsen
 GER,Arne Wittemer
 GER,Aron Tellen
 GER,Bernd Rasenack
 GER,Bjorn Schaar
+GER,Bruno Laudage
 GER,Christian Henge
 GER,Christian Niefert
 GER,Christian Sonntag
@@ -267,25 +287,34 @@ GER,Florian Lautenschlager
 GER,Frank Böhm
 GER,Frank Feller
 GER,Frank Rupprich
+GER,Frank Wille
+GER,Frederik Tasche
 GER,Frieder Achterberg
 GER,Frisco Sanguino
 GER,Georg Mittermayer
 GER,Gerald Roos
 GER,Gordon Russell
 GER,Hannes Kindermann
+GER,Hansjörg Ehlers
 GER,Hartwig Friedrichs
+GER,Henning Steffen
 GER,Henrik Schade
+GER,Iris Anton
 GER,Jan Reifferscheidt
 GER,Jan Stremlow
 GER,Jan-Hendrik Lenz
 GER,Jan-Philipp Hofmann
 GER,Jans-Peter Schlomka
 GER,Jens Biederer
+GER,Jens Kühne
 GER,Johannes Kindermann
 GER,Jörn Wille
 GER,Joseph Schütte
+GER,Julia Achterberg
 GER,Julian Stückl
+GER,Juliane Kohl
 GER,Julien Kleiner
+GER,Jürgen Feuerhake
 GER,Kai Bertallot
 GER,Karsten Stümpel
 GER,Katharina Menge
@@ -293,6 +322,7 @@ GER,Katja Henge
 GER,Kirsten Roos
 GER,Lars Lankenau
 GER,Lena Stückl
+GER,Lennart Tasche
 GER,Leon Oehme
 GER,Lutz Kandzia
 GER,Lutz Stengel
@@ -337,12 +367,14 @@ GER,Stefan Schollmeyer
 GER,Stefan Worm
 GER,Stephan Schweiger
 GER,Sven Meier
+GER,Thomas Afken
 GER,Thomas Jung
 GER,Thomas Wasilewski
 GER,Thomas Weber
 GER,Thorsten Pösch
 GER,Thorsten Spötter
 GER,Thure Gnadeberg
+GER,Tilman Giesen
 GER,Timon Treichel
 GER,Tobias Bolduan
 GER,Torsten Simon
@@ -412,6 +444,7 @@ POL,Karol Tobolski
 POL,Karolina Gąsiorowska
 POL,Kazimierz Pelasik
 POL,Konrad Małachowski
+POL,Krystian Doch
 POL,Krzysztof Baran
 POL,Krzysztof Osiak
 POL,Krzysztof Rzadkowski
@@ -422,6 +455,7 @@ POL,Maciej Goździk
 POL,Maciej Graczyk
 POL,Maciej Kasprzyk
 POL,Maciej Kondolewski
+POL,Maciej Kropidłowski
 POL,Maciej Piasecki
 POL,Marcin Jaskółka
 POL,Marcin Józefowski
@@ -443,6 +477,7 @@ POL,Michał Ruciński
 POL,Michał Strusiński
 POL,Michał Tracz
 POL,Michał Wdówka
+POL,Michał Zera
 POL,Mieczysław Szwed
 POL,Mirosław Majcher
 POL,Monika Komadowska
@@ -460,6 +495,7 @@ POL,Przemysław Rzepecki
 POL,Rafał Becker
 POL,Rafał Sawicki
 POL,Robert Korybut-Daszkiewicz
+POL,Robert Zatorski
 POL,Roman Główka
 POL,Romuald Szukała
 POL,Ryszard Pfeiffer
@@ -478,20 +514,24 @@ POL,Zbigniew Monkiewicz
 RSA,Albrecht Holm
 RSA,Alex Ham
 RSA,Alexander Ham
+RSA,Bronwen Klaas
 RSA,Dirk Rother
 RSA,Euan Hurter
 RSA,Ferdinand Holm
 RSA,James Largier
 RSA,James Spikesly
 RSA,Jonathan Ham
+RSA,Kobus Holtzhausen
 RSA,Kyle Klaas
 RSA,Peter Funke
 RSA,Robert von Gruenewaldt
 RSA,Rudolph Holm
+RSA,Ryan Robinson
 SUI,Gil Donzé
 SUI,Gilles Petermann
 SUI,Laurent Grob
 SUI,Markus Heilig
+SUI,Res Schürch
 SUI,Toni Utiger
 SWE,Albert Lawenius
 SWE,Alexander Gleerup
@@ -527,6 +567,7 @@ SWE,Katarina Engström
 SWE,Knut Hastenpflug
 SWE,Lars Bjerke
 SWE,Lars Hultgren
+SWE,Lars Wester
 SWE,Lars Yngfors, Lars Wester
 SWE,Lasse Norberg
 SWE,Leif Danielsson
@@ -567,6 +608,7 @@ SWE,Wilhelm Johannisson
 SWE,Wille Johanisson
 USA,Adam Lowry
 USA,Adam Wolnikowski
+USA,Andrew Sutton
 USA,Andrew Zinn
 USA,Andy Zinn
 USA,Anne Fitzpatrick
@@ -593,6 +635,7 @@ USA,Jeff Nelson
 USA,Jon Bell
 USA,Jon Henderson
 USA,Kerry Poe
+USA,Kirk Twardowski
 USA,Langdon Foley
 USA,Lee Laney
 USA,Mark Zagol
