@@ -1,11 +1,4 @@
-Nat,Sail Number,Helm,Crew,Club,"R1
-6 Sep","R2
-6 Sep","R3
-7 Sep","R4
-7 Sep","R5
-7 Sep","R6
-8 Sep","R7
-8 Sep",Total,Nett,Rank
+Nat,Sail Number,Helm,Crew,Club,R1 6 Sep,R2 6 Sep,R3 7 Sep,R4 7 Sep,R5 7 Sep,R6 8 Sep,R7 8 Sep,Total,Nett,Rank
 GBR,9215,Roger Gilbert,Ben McGrane,Netley SC,2,2,5,2,1,-10,3,25,15,1
 GBR,9222,Paul Brotherton,Alain Sign,Glossop SC,(29.0 DNF),11,1,1,2,2,1,47,18,2
 GBR,9196,Penny Clark,Russ Clark,RNSA/Stokes Bay,3,5,3,5,6,-16,2,40,24,3
