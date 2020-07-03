@@ -1,23 +1,20 @@
-POS  SAIL     SKIPPER                  RACE RACE RACE RACE RACE RACE RACE RACE RACE   TOTAL   NET
-                                         1    2    3    4    5    6    7    8    9    POINTS  POINTS
-                                       Fri. Fri. Sat. Sat. Sat. Sat. Sun. Sun. Sun.           AFTER
-                                       1257 1412 1150 1305 1430 1530 1000 1150 1400           1 DROP
-,1,CAN8264,BOYD,,JEFF,Martin,Tenhov,1,2,2,3,3,1,1,2,1,15.00,12.00,CAN,ON,Kingston,K.Y.C.
-,2,8645,ENGLERT,,JAMES,Thad,Melt,3,1,1,1,4,3,7,1,6,26.00,19.00,USA,VA,Newport,News,Hampton
-,3,7200,MELLER,,ALEXANDER,2,3,6,2,1,8,14,7,2,44.75,30.75,USA,MD,Gaithersberg,Britannia,YC
-,4,8194,KIVNEY,,THOMAS,WILF,CHAM,7,12,5,4,5,4,5,6,7,55.00,43.00,USA,MASS,HINGHAM,HINGHAM,YACHT,CLUB
-,5,8442,HOFFMAN,,MICHAEL,IAN,ESK,5,11,7,8,7,9,2,4,4,57.00,46.00,CAN,ON,Ottawa,Britannia,Yacht,Club
-,6,USA8643,HARRIS,,BARNEY,DAVE,SMIT,8,7,13,7,2,5,3,3,12,60.00,47.00,USA,VA,Arlington,West,River,Sailing,Club
-,7,8629,SMITH,,DAVID,Rick,Thomps,10,14,8,13,11,2,4,5,5,72.00,58.00,USA,CT,Fairfield,Pequot,YC
-,8,US8060,CURTIS,,JOHN,ADAM,SCHELL,4,9,12,6,6,6,12,9,9,73.00,61.00,CAN,ON,KINGSTON,KINGSTON,YC
-,9,CAN8192,HAMILTON,,BROOK,WAYNE,BR,9,5,3,14,8,10,11,8,8,76.00,62.00,CAN,ON,Chatham,RCYC
-,10,CAN7605,GESING,,RENKA,Adam,Gesin,19,13,9,15,10,12,6,12,3,99.00,80.00,CAN,ON,Windsor,South,Port,Sailing,Club
-,11,CAN6910,HUGHES,,RON,John,Bryant,14,6,10,12,12,14,8,15,10,101.00,86.00,CAN,ON,Ottawa,Nepean
-,12,CAN8410,BUSH,,CLAUSSI,Chris,Gill,11,17,4,5,15,11,17,11,DNF.,111.00,91.00,CAN,QUE,Montreal,Pontaunia,Yacht,Club
-,13,8024,CHATHAM,,DAVID,MATT,MCQU,13,10,14,11,9,15,9,17,13,111.00,94.00,USA,RI,NARRAGANSETT,st.francis,y.c.
-,14,8012,MONTAGUE,,ROBERT,12,8,15,16,13,13,10,14,11,112.00,96.00,USA,VA,ALEXANDRIA,U.C.Y.C.
-,15,USA8085,DE,LA,RIE,,RENE,ALLAN,FR,6,4,DNF.,9,DNF.,DNF.,16,10,15,120.00,100.00,USA,DC,WASHINGTON,WEST,RIVER,SAILING,CLUB
-,16,CAN8360,SAINT-CYR,,PIERRE,NORMAN,16,18,16,17,14,7,13,16,DNF.,137.00,117.00,CAN,QUE,verdun,pointe,clair,y.c.
-,17,7150,TORRIE,,IAN,STEVE,YATES,15,15,17,10,16,RET,15,18,14,140.00,120.00,CAN,NB,OROMOCTO,POIULE,D'CHEINE,YC
-,18,8233,MOLIMARD,,ALAIN,FRANCOIS,18,16,11,DNF.,17,16,18,13,DNF.,149.00,129.00,CAN,QUE,montreal,Club,Nautique
-,19,7679,REID,,PAUL,KEVIN,REID,17,19,18,18,18,DNF.,DNF.,19,DNF.,169.00,149.00,CAN,ON,KINGSTON
+,SAIL,Helm,Crew,Club,RACE,RACE,RACE,RACE,RACE,RACE,RACE,RACE,RACE,TOTAL,,City,NET,POS
+CAN,8264,Jeff Boyd,Martin Tenhov,Kingston Yacht Club,1,2,2,3,3,1,1,2,1,15.00,ON,Kingston,12.00,1
+USA,8645,James Englert,Thad Melt,News Hampton,3,1,1,1,4,3,7,1,6,26.00,VA,Newport,19.00,2
+USA,7200,Alexander,Meller,Britannia Yacht Club,2,3,6,2,1,8,14,7,2,44.75,MD,Gaithersberg,30.75,3
+USA,8194,Thomas Kivney,Wilf Cham,Hingham Yacht Club,7,12,5,4,5,4,5,6,7,55.00,MASS,Hingham,43.00,4
+CAN,8442,Michael Hoffman,Ian Esk,Britannia Yacht Club,5,11,7,8,7,9,2,4,4,57.00,ON,Ottawa,46.00,5
+USA,8643,Barney Harris,Dave Smit,West River Sailing Club,8,7,13,7,2,5,3,3,12,60.00,VA,Arlington,47.00,6
+USA,8629,David Smith,Rick Thomps,Pequot Yacht Club,10,14,8,13,11,2,4,5,5,72.00,CT,Fairfield,58.00,7
+CAN,8060,John Curtis,Adam Schell,Kingston Yacht Club,4,9,12,6,6,6,12,9,9,73.00,ON,Kingston,61.00,8
+CAN,8192,Brook Hamilton,Wayne Br,RCYC,9,5,3,14,8,10,11,8,8,76.00,ON,Chatham,62.00,9
+CAN,7605,Renka Gesing,Adam Gesin,South Port Sailing Club,19,13,9,15,10,12,6,12,3,99.00,ON,Windsor,80.00,10
+CAN,6910,Ron Hughes,John Bryant,Nepean,14,6,10,12,12,14,8,15,10,101.00,ON,Ottawa,86.00,11
+CAN,8410,Claussi Bush,Chris Gill,Pontaunia Yacht Club,11,17,4,5,15,11,17,11,DNF.,111.00,QUE,Montreal,91.00,12
+USA,8024,David Chatham,Matt Mcqu,St.Francis Yacht Club,13,10,14,11,9,15,9,17,13,111.00,RI,Narragansett,94.00,13
+USA,8012,Robert,Montague,U.C.Y.C.,12,8,15,16,13,13,10,14,11,112.00,VA,Alexandria,96.00,14
+USA,8085,Rene De La Rie,Allan Fr,West River Sailing Club,6,4,DNF.,9,DNF.,DNF.,16,10,15,120.00,DC,Washington,100.00,15
+CAN,8360,Pierre Saint-Cyr,Norman,Pointe Clair Yacht Club,16,18,16,17,14,7,13,16,DNF.,137.00,QUE,Verdun,117.00,16
+CAN,7150,Ian Torrie,Steve Yates,Poiule D'cheine Yacht Club,15,15,17,10,16,RET,15,18,14,140.00,NB,Oromocto,120.00,17
+CAN,8233,Alain Molimard,Francois,Club Nautique,18,16,11,DNF.,17,16,18,13,DNF.,149.00,QUE,Montreal,129.00,18
+CAN,7679,Paul Reid,Kevin Reid,,17,19,18,18,18,DNF.,DNF.,19,DNF.,169.00,ON,Kingston,149.00,19
