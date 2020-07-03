@@ -458,7 +458,6 @@ if ( ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false ) {
 					$value = intval( $value );
 					break;
 				case 'iworks_fleet_serie':
-					echo $value,PHP_EOL;
 					/**
 					 * insert serie if it is needed
 					 */
