@@ -1,57 +1,57 @@
-Start Date,End  Date,Name,Races,Competitors,Area,Organizer,Secretary,Arbiter,Wind direction,Wind power,Post Content,File,
-1994-08-13,1994-08-21,World Championship,6,63,"Medemblik, NED",,,,,,,1994/1994-08-21.world-championships.mademblik-holland.csv,
-1997-08-10,1997-08-21,World Championship,7,79,"Gilleleje, DEN",GILLELEJE SEJLKLUB,,,,,,1997/1997-world-championships.gilleleje-denmark.csv,
+Start Date,End  Date,Name,Races,Competitors,Area,Organizer,Secretary,Arbiter,Wind direction,Wind power,Post Content,File,Series
+1994-08-13,1994-08-21,World Championship,6,63,"Medemblik, NED",,,,,,,1994/1994-08-21.world-championships.mademblik-holland.csv,World
+1997-08-10,1997-08-21,World Championship,7,79,"Gilleleje, DEN",GILLELEJE SEJLKLUB,,,,,,1997/1997-world-championships.gilleleje-denmark.csv,World
 1998-07-24,1998-07-26,Euro Cup,6,35,"Hayling Island, GBR",Hayling Island Sailing Club,,,,,,1998/1998-07-26-euro-cup-hayling-island-GBR.csv,Euro Cup
 2000-07-08,2000-07-09,Open Meeting,5,19,"Hayling Island, GBR",Hayling Island Sailing Club,,,,,,2000/2000-07-09-open-meeting-hayling-island-GBR.csv,
 2002-06-22,2002-06-22,Open Meeting,5,19,"Hayling Island, GBR",Hayling Island Sailing Club,,,,,,2002/2002-06-22-open-meeting-hayling-island-GBR.csv,
 2002-08-28,2002-08-28,Euro Cup,8,24,"Hayling Island, GBR",Hayling Island Sailing Club,,,,,,2002/2002-08-28-euro-cup-hayling-island-GBR.csv,Euro Cup
 2003-08-06,2003-08-06,Open Meeting,4,19,"Hayling Island, GBR",Hayling Island Sailing Club,,,,,,2003/2003-08-06-open-meeting-hayling-island-GBR.csv,
-2004-07-24,2004-08-04,World Championship,7,102,"Santa Cruze, USA",,,,,,,2004/2004-08-20.world-championship.santa-cruze.usa.csv,
-2004-10-03,2004-10-08,European Championship,8,56,"Pula, CRO",,,,,,,2004/2004-10-08.european-championship.croatia.pula.csv,Continental Championships
+2004-07-24,2004-08-04,World Championship,7,102,"Santa Cruze, USA",,,,,,,2004/2004-08-20.world-championship.santa-cruze.usa.csv,World
+2004-10-03,2004-10-08,European Championship,8,56,"Pula, CRO",,,,,,,2004/2004-10-08.european-championship.croatia.pula.csv,Continental
 2005-05-21,2005-05-22,Open Meeting,5,13,"Hayling Island, GBR",Hayling Island Sailing Club,,,,,,2005/2005-05-22-open-meeting-hayling-island-GBR.csv,
-2006-07-19,2006-08-04,World Championship,7,113,"Hayling Island, GBR",Hayling Island Sailing Club,,,,,,2006/2006-08-04-world-championships.hayling-island.GBR.csv,
-2006-07-24,2006-07-25,Pre-Worlds,3,58,"Hayling Island, GBR",Hayling Island Sailing Club,,,,,,2006/2006-07-25-pre-world.hayling-island.GBR.csv,
-2007-02-02,2007-02-02,World Championship,9,92,"Adelaide, AUS",,,,,,,2007/2007-02-02-world-championship-adelaide.csv,
-2007-08-26,2007-09-01,European Championship,9,53,"Sopot, POL",,Beata Zajkowska,Zbigniew Czubek,"NW,W,W,W,W,W,W,W,NW","9-11,4-6,3-7,3-7,5-9,5-9,2-3,2-7,3-7",,2007/2007-09-01-european-championship.csv,Continental Championships
-2008-07-07,2008-07-13,World Championship,6,123,"Palermo, ITA",,,,,,,2008/world/2008-world-championship.palermo.ITA.csv,
-2009-08-23,2009-08-30,World Championship,9,98,"San Francisco, USA",St. Francis Yacht Club,,,,,,2009/2009-08-30-world-championship-san-francisco.csv,
-2009-09-18,2009-09-20,Polish Championship,8,10,"Zatoka Gdańska, Gdynia, POL",,,,,,,2009/2009-09-20-mp.csv,National Championships
-2010-07-09,2010-07-11,Polish Championship,9,5,"Zatoka Gdańska, Gdańsk, POL",,,,,,,2010/2010-07-11-mp.csv,National Championships
-2010-08-10,2010-08-16,World Championship,9,125,"Aarhus, DEN",,,,,,,2010/2010-08-16-world-championship-aarhus.csv,
-2011-03-20,2011-04-01,World Championship,7,85,"Hamilton Island, AUS",,,,,,,2011/2011-04-01-world-championship-hamilton-island.csv,
-2011-09-02,2011-09-04,Polish Championship,9,10,"Zatoka Gdańska, Gdynia, POL",YKP Gdynia,,,,,,2011/2011-09-04-gdynia-mistrzostwa-polski.csv,
-2012-09-21,2012-09-23,Polish Championship,11,19,"Zalew Kamieński, Kamień Pomorski, POL",MKŻ Kamień Pomorski,,,,,,2012/2012-09-23-mistrzostwa-polski.csv,National Championships
-2013-04-22,2013-05-03,World Championship,9,77,"Barbados, Bridgetown",,,,,,,2013/2013-05-03-world-championships-barbados.csv,
-2013-08-28,2013-09-01,European Championship,9,89,"Medemblik, NED",,,,,,,2013/2013-09-01-mistrzostwa-europy.csv,
-2013-09-06,2013-09-08,Polish Open National Championship,11,19,"Zatoka Gdańska, Kamień Pomorski, POL",,,,,,,2013/2013-09-08-mistrzostwa-polski.csv,National Championships
-2014-08-13,2014-08-22,World Championship,7,161,"Kiel, GER",,,,,,,2014/2014-08-22-world-championship-kiel.csv,
-2014-09-12,2014-09-14,Polish Open National Championship,8,25,"Zatoka Gdańska, POL",Sopocki Klub Żeglarski Ergo Hestia,,,,,,2014/2014-09-14-mistrzostwa-polski.csv,National Championships
-2015-03-28,2015-04-03,World Championship,8,36,"Nelson Mandela Bay, RPA",,,,,,,2015/2015-04-03-world-championship-nelson-mandela-bay.csv,
-2015-08-03,2015-08-08,European Championship,9,101,SWE,Varberg Yacht Club,,,,,,2015/2015-08-08-european-championship-varberg.csv,Continental Championships
-2015-09-11,2015-09-13,Polish Open National Championship,11,23,"Zatoka Pucka, POL",MOKSIR Puck/PSK 505,,,,,,2015/2015-09-13_mistrzostwa-polski.csv,National Championships
-2016-06-02,2016-06-05,North America Championship,10,49,"Bellingham Bay, USA",Bellingham Yacht Club,John Pedlow,,,,,2016/2016-06-05.north-american-championships.bellingham.csv,Continental Championships
-2016-09-09,2016-09-11,Polish Championship,3,20,"Zalew Wiślany, POL",,,,,,,2016/2016-09-11-mistrzostwa-polski.csv,National Championships
-2017-05-11,2017-05-14,German Championship,9,35,"Berlin, GER",Berliner Yacht-Club e.V.,,,,,,2017/2017-05-14-german-championship-berlin-GER.csv,
-2017-07-27,2017-07-30,UK Open National Championship,9,29,"Hayling Island, GBR",Hayling Island Sailing Club,,,,,,2017/2017-07-30-uk-open-national-championship.hayling-island.GBR.csv,National Championships
-2017-09-20,2017-09-29,World Championship,8,87,"Annapolis, MD, USA",Severn Sailing Association / Eastport Yacht Club,,Walter Mielke (GER),,,,2017/2017-09-29-world-championship-annapolis.csv,
+2006-07-19,2006-08-04,World Championship,7,113,"Hayling Island, GBR",Hayling Island Sailing Club,,,,,,2006/2006-08-04-world-championships.hayling-island.GBR.csv,World
+2006-07-24,2006-07-25,Pre-Worlds,3,58,"Hayling Island, GBR",Hayling Island Sailing Club,,,,,,2006/2006-07-25-pre-world.hayling-island.GBR.csv,Pre-Worlds
+2007-02-02,2007-02-02,World Championship,9,92,"Adelaide, AUS",,,,,,,2007/2007-02-02-world-championship-adelaide.csv,World
+2007-08-26,2007-09-01,European Championship,9,53,"Sopot, POL",,Beata Zajkowska,Zbigniew Czubek,"NW,W,W,W,W,W,W,W,NW","9-11,4-6,3-7,3-7,5-9,5-9,2-3,2-7,3-7",,2007/2007-09-01-european-championship.csv,Continental
+2008-07-07,2008-07-13,World Championship,6,123,"Palermo, ITA",,,,,,,2008/world/2008-world-championship.palermo.ITA.csv,World
+2009-08-23,2009-08-30,World Championship,9,98,"San Francisco, USA",St. Francis Yacht Club,,,,,,2009/2009-08-30-world-championship-san-francisco.csv,World
+2009-09-18,2009-09-20,Polish Championship,8,10,"Zatoka Gdańska, Gdynia, POL",,,,,,,2009/2009-09-20-mp.csv,National
+2010-07-09,2010-07-11,Polish Championship,9,5,"Zatoka Gdańska, Gdańsk, POL",,,,,,,2010/2010-07-11-mp.csv,National
+2010-08-10,2010-08-16,World Championship,9,125,"Aarhus, DEN",,,,,,,2010/2010-08-16-world-championship-aarhus.csv,World
+2011-03-20,2011-04-01,World Championship,7,85,"Hamilton Island, AUS",,,,,,,2011/2011-04-01-world-championship-hamilton-island.csv,World
+2011-09-02,2011-09-04,Polish Championship,9,10,"Zatoka Gdańska, Gdynia, POL",YKP Gdynia,,,,,,2011/2011-09-04-gdynia-mistrzostwa-polski.csv,National
+2012-09-21,2012-09-23,Polish Championship,11,19,"Zalew Kamieński, Kamień Pomorski, POL",MKŻ Kamień Pomorski,,,,,,2012/2012-09-23-mistrzostwa-polski.csv,National
+2013-04-22,2013-05-03,World Championship,9,77,"Barbados, Bridgetown",,,,,,,2013/2013-05-03-world-championships-barbados.csv,World
+2013-08-28,2013-09-01,European Championship,9,89,"Medemblik, NED",,,,,,,2013/2013-09-01-mistrzostwa-europy.csv,Continental
+2013-09-06,2013-09-08,Polish Open National Championship,11,19,"Zatoka Gdańska, Kamień Pomorski, POL",,,,,,,2013/2013-09-08-mistrzostwa-polski.csv,National
+2014-08-13,2014-08-22,World Championship,7,161,"Kiel, GER",,,,,,,2014/2014-08-22-world-championship-kiel.csv,World
+2014-09-12,2014-09-14,Polish Open National Championship,8,25,"Zatoka Gdańska, POL",Sopocki Klub Żeglarski Ergo Hestia,,,,,,2014/2014-09-14-mistrzostwa-polski.csv,National
+2015-03-28,2015-04-03,World Championship,8,36,"Nelson Mandela Bay, RPA",,,,,,,2015/2015-04-03-world-championship-nelson-mandela-bay.csv,World
+2015-08-03,2015-08-08,European Championship,9,101,SWE,Varberg Yacht Club,,,,,,2015/2015-08-08-european-championship-varberg.csv,Continental
+2015-09-11,2015-09-13,Polish Open National Championship,11,23,"Zatoka Pucka, POL",MOKSIR Puck/PSK 505,,,,,,2015/2015-09-13_mistrzostwa-polski.csv,National
+2016-06-02,2016-06-05,North America Championship,10,49,"Bellingham Bay, USA",Bellingham Yacht Club,John Pedlow,,,,,2016/2016-06-05.north-american-championships.bellingham.csv,Continental
+2016-09-09,2016-09-11,Polish Championship,3,20,"Zalew Wiślany, POL",,,,,,,2016/2016-09-11-mistrzostwa-polski.csv,National
+2017-05-11,2017-05-14,German Championship,9,35,"Berlin, GER",Berliner Yacht-Club e.V.,,,,,,2017/2017-05-14-german-championship-berlin-GER.csv,National
+2017-07-27,2017-07-30,UK Open National Championship,9,29,"Hayling Island, GBR",Hayling Island Sailing Club,,,,,,2017/2017-07-30-uk-open-national-championship.hayling-island.GBR.csv,National
+2017-09-20,2017-09-29,World Championship,8,87,"Annapolis, MD, USA",Severn Sailing Association / Eastport Yacht Club,,Walter Mielke (GER),,,,2017/2017-09-29-world-championship-annapolis.csv,World
 2017-10-21,2017-10-22,Joachim-Hunger-Gedächtnis-Preis,4,20,"Berlin, GER",Berliner Yacht-Club e.V.,Robert Niemczewski,Gernot Schreiber,,,,2017/2017-10-22-joachim-hunger-gedachtnis-preis-berlin-GER.csv,
 2018-06-16,2018-06-20,Kieler Woche,11,36,"Kiel, GER",,Nino Shmueli,Douglas Sloan,,,https://youtu.be/-PTzl5M5eLo,2018/country/germany/2018-06-20-kieler-woche.kiel.GER.csv,
-2018-07-20,2018-07-20,Pre-Worlds,3,129,"Zatoka Gdańska, Gdynia, POL","Polski Związek Żeglarski, Miasto Gdynia, Polskie Stowarzyszenie Klasy 505",Walter Mielke,Tim Hancock,,,,2018/world/2018-07-20-pre-worlds.gdynia.POL.csv,
-2018-07-21,2018-07-28,World Championship,10,127,"Zatoka Gdańska, Gdynia, POL","Polski Związek Żeglarski, Miasto Gdynia, Polskie Stowarzyszenie Klasy 505",Walter Mielke,Tim Hancock,,,,2018/world/2018-07-29-world-championship.gdynia.POL.csv,
-2018-08-08,2018-08-13,North America Championship,11,24,,St. Francis Yacht Club,J. Lancaster,,,,,2018/continental/2018-08-13.north-american-championships.san-fancisco.csv,Continental Championships
-2018-08-17,2018-08-19,Polish Open National Championship,7,28,"Zatoka Pomorska, POL",MT Partners,,,,,,2018/2018-08-19-otwarte-mistrzostwa-polski.csv,
+2018-07-20,2018-07-20,Pre-Worlds,3,129,"Zatoka Gdańska, Gdynia, POL","Polski Związek Żeglarski, Miasto Gdynia, Polskie Stowarzyszenie Klasy 505",Walter Mielke,Tim Hancock,,,,2018/world/2018-07-20-pre-worlds.gdynia.POL.csv,Pre-Worlds
+2018-07-21,2018-07-28,World Championship,10,127,"Zatoka Gdańska, Gdynia, POL","Polski Związek Żeglarski, Miasto Gdynia, Polskie Stowarzyszenie Klasy 505",Walter Mielke,Tim Hancock,,,,2018/world/2018-07-29-world-championship.gdynia.POL.csv,World
+2018-08-08,2018-08-13,North America Championship,11,24,,St. Francis Yacht Club,J. Lancaster,,,,,2018/continental/2018-08-13.north-american-championships.san-fancisco.csv,Continental
+2018-08-17,2018-08-19,Polish Open National Championship,7,28,"Zatoka Pomorska, POL",MT Partners,,,,,,2018/2018-08-19-otwarte-mistrzostwa-polski.csv,National
 2018-09-28,2018-09-30,Euro Cup,7,28,"Hayling Island, GBR",Hayling Island Sailing Club,,,,,,2018/euro-cup/2018-09-30-euro-cup-hayling-island-GBR.csv,Euro Cup
-2019-01-01,2019-01-01,Pre-Worlds,5,89,"Fremantle, AUS",Fremantle Sailing Club,,,,,,2019/world/2018-12-30-pre-worlds-perth.csv,
-2019-01-02,2019-01-07,World Championship,10,89,"Fremantle, AUS",Fremantle Sailing Club,,,,,,2019/world/2019-01-07-world-championship-fremantle-AUS.csv,
+2019-01-01,2019-01-01,Pre-Worlds,5,89,"Fremantle, AUS",Fremantle Sailing Club,,,,,,2019/world/2018-12-30-pre-worlds-perth.csv,Pre-Worlds
+2019-01-02,2019-01-07,World Championship,10,89,"Fremantle, AUS",Fremantle Sailing Club,,,,,,2019/world/2019-01-07-world-championship-fremantle-AUS.csv,National
 2019-05-30,2019-06-01,Euro Cup Riva del Garda,8,51,"Riva del Garda, ITA",,,,,,,2019/euro-cup/2019-06-01-euro-cup-riva-del-garda-ITA.csv,Euro Cup
-2019-08-06,2019-08-10,European Championship,10,75,"Sønderborg, DEN",Sønderborg Yacht-Club,,,,,,2019/continental/2019-08-10-european-championship-sonderborg-DEN.csv,
-2019-08-17,2019-08-18,Canadian Championships,5,23,"Kingston, Ontario K7L 2V3 CAN",Kingston Yacht Club,,,,,,2019/country/canada/2019-08-18-canadian-championships-kingston-ontario-CAN.csv,National Championships
-2019-08-21,2019-08-25,North American Championship,10,39,"Kingston, Ontario K7L 2V3 CAN",Kingston Yacht Club,,,,,,2019/continental/2019-08-25-north-american-championship-kingston-ontario-CAN.csv,"Continental Championships, National Championships"
+2019-08-06,2019-08-10,European Championship,10,75,"Sønderborg, DEN",Sønderborg Yacht-Club,,,,,,2019/continental/2019-08-10-european-championship-sonderborg-DEN.csv,Continental
+2019-08-17,2019-08-18,Canadian Championships,5,23,"Kingston, Ontario K7L 2V3 CAN",Kingston Yacht Club,,,,,,2019/country/canada/2019-08-18-canadian-championships-kingston-ontario-CAN.csv,National
+2019-08-21,2019-08-25,North American Championship,10,39,"Kingston, Ontario K7L 2V3 CAN",Kingston Yacht Club,,,,,,2019/continental/2019-08-25-north-american-championship-kingston-ontario-CAN.csv,Continental
 2019-09-06,2019-09-08,Euro Cup Hayling Island,8,29,"Hayling Island, GBR",Hayling Island Sailing Club,,,,,,2019/euro-cup/2019-09-08-euro-cup-hayling-island-GBR.csv,Euro Cup
-2019-09-06,2019-09-08,Polish Open National Championship,10,17,"Baltic Sea, Gdynia, POL",Polskie Stowarzyszenie Klasy 5O5,,,,,,2019/country/poland/2019-09-08-polish-open-national-championship.baltic-sea.gdynia-POL.csv,National Championships
+2019-09-06,2019-09-08,Polish Open National Championship,10,17,"Baltic Sea, Gdynia, POL",Polskie Stowarzyszenie Klasy 5O5,,,,,,2019/country/poland/2019-09-08-polish-open-national-championship.baltic-sea.gdynia-POL.csv,National
 2019-10-19,2019-10-20,Berlin Championship,4,20,"VSaW Berlin, GER",Verein Seglerhaus am Wannsee Berliner Segler-Verband e.V.,,,,,,2019/country/germany/2019-10-20-berlin-meistershaft.csv,
-2020-01-16,2020-01-21,Australian Championship,8,33,"Melbourne, AUS",Royal Brighton Yacht Club,,,,,,2020/country/australia/2020-01-21-australian-championship.melbourne.AUS.csv,National Championships
-2013-09-14,2013-09-14,Sweden Championship ,5,20,"Segelsällskapet Viken-Ägir, SWE",,,,,,,2013/country/sweden/2013-09-15-sweden-championship.viken-agir.SWE.csv,National Championships
-2018-09-08,2018-09-09,Canadian Championships,9,10,"English Bay, Vancouver, BC, CAN",Kitsilano Yacht Club,,,,,,2018/country/canada/2018-08-09-candian-championships.csv,National Championships
+2020-01-16,2020-01-21,Australian Championship,8,33,"Melbourne, AUS",Royal Brighton Yacht Club,,,,,,2020/country/australia/2020-01-21-australian-championship.melbourne.AUS.csv,National
+2013-09-14,2013-09-14,Sweden Championship ,5,20,"Segelsällskapet Viken-Ägir, SWE",,,,,,,2013/country/sweden/2013-09-15-sweden-championship.viken-agir.SWE.csv,National
+2018-09-08,2018-09-09,Canadian Championships,9,10,"English Bay, Vancouver, BC, CAN",Kitsilano Yacht Club,,,,,,2018/country/canada/2018-08-09-candian-championships.csv,National
 2018-08-02,2018-08-04,CORK Fall Regatta - Eastern Canadian Championship,5,13,"Kingston, ON, CAN",CORK,,,,,,2018/country/canada/2018-08-04-cork-fall-regatta-eastern-canadian-championship.kingstone-on.CAN.csv,
 1998-08-29,1998-08-30,CORK 1998,9,19,"Kingston, ON, CAN",CORK,,,,,,1998/country/canada/1998-08-30-cork-1998.kingston-on.CAN.csv,

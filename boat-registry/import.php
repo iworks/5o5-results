@@ -408,6 +408,7 @@ if ( ( $handle = fopen( 'sailors.csv', 'r' ) ) !== false ) {
  * Import events
  */
 if ( ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false ) {
+	$series = array();
 	echo PHP_EOL,'IMPORT: events-list.csv',PHP_EOL;
 	while ( ( $data = fgetcsv( $handle, 0, ',' ) ) !== false ) {
 		if ( 1 > intval( $data[0] ) ) {
@@ -427,25 +428,27 @@ if ( ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false ) {
 		[10] => iworks_fleet_result_wind_power
 		[11] => post_content
 		[12] => file
+		[13] => iworks_fleet_serie
 		 */
 		$fields = array(
-			'iworks_fleet_result_date_start',
-			'iworks_fleet_result_date_end',
-			'post_title',
-			'iworks_fleet_result_number_of_races',
-			'iworks_fleet_result_number_of_competitors',
-			'iworks_fleet_result_location',
-			'iworks_fleet_result_organizer',
-			'iworks_fleet_result_secretary',
-			'iworks_fleet_result_arbiter',
-			'iworks_fleet_result_wind_direction',
-			'iworks_fleet_result_wind_power',
-			'post_content',
-			'iworks_fleet_serie',
+			0  => 'iworks_fleet_result_date_start',
+			1  => 'iworks_fleet_result_date_end',
+			2  => 'post_title',
+			3  => 'iworks_fleet_result_number_of_races',
+			4  => 'iworks_fleet_result_number_of_competitors',
+			5  => 'iworks_fleet_result_location',
+			6  => 'iworks_fleet_result_organizer',
+			7  => 'iworks_fleet_result_secretary',
+			8  => 'iworks_fleet_result_arbiter',
+			9  => 'iworks_fleet_result_wind_direction',
+			10 => 'iworks_fleet_result_wind_power',
+			11 => 'post_content',
+			12 => 'file',
+			13 => 'iworks_fleet_serie',
 		);
-		for ( $i = 0; $i < count( $fields ); $i++ ) {
-			$value = trim( $data[ $i ] );
-			switch ( $fields[ $i ] ) {
+		foreach ( $fields as $index => $key ) {
+			$value = trim( $data[ $index ] );
+			switch ( $key ) {
 				case 'iworks_fleet_result_date_start':
 				case 'iworks_fleet_result_date_end':
 					$value = strtotime( $value );
@@ -454,8 +457,24 @@ if ( ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false ) {
 				case 'iworks_fleet_result_number_of_competitors':
 					$value = intval( $value );
 					break;
+				case 'iworks_fleet_serie':
+					echo $value,PHP_EOL;
+					/**
+					 * insert serie if it is needed
+					 */
+					if ( empty( $value ) ) {
+						break;
+					}
+					if ( isset( $series[ $value ] ) ) {
+						break;
+					}
+					if ( empty( term_exists( $value, $key ) ) ) {
+						$series[ $value ] = wp_insert_term( $value, $key );
+					}
+					$series[ $value ] = get_term_by( 'name', $value, $key );
+					break;
 			}
-			${$fields[ $i ]} = $value;
+			$$key = $value;
 		}
 		$args  = array(
 			'fields'     => 'ids',
@@ -478,7 +497,7 @@ if ( ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false ) {
 			continue;
 		}
 		$post_array = array(
-			'post_name'   => sanitize_title( sprintf( '%s-%s', substr( $iworks_fleet_result_date_start, 0, 7 ), $post_title ) ),
+			'post_name'   => sanitize_title( sprintf( '%s-%s', date( 'Y-m', $iworks_fleet_result_date_start ), $post_title ) ),
 			'post_type'   => $result_post_type_name,
 			'post_status' => 'publish',
 			'meta_input'  => array(),
@@ -493,7 +512,10 @@ if ( ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false ) {
 				continue;
 			}
 			if ( 'iworks_fleet_serie' === $field ) {
-				$post_array['tax_input'][ $field ] = $$field;
+				if ( empty( $value ) ) {
+					continue;
+				}
+				$post_array['tax_input'][ $field ] = array( $series[ $value ]->term_id );
 				continue;
 			}
 			$post_array['meta_input'][ $field ] = $$field;
@@ -502,6 +524,12 @@ if ( ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false ) {
 			continue;
 		}
 		$post_ID = wp_insert_post( $post_array );
+		/**
+		 * update taxonomies
+		 */
+		foreach ( $post_array['tax_input'] as $taxonomy => $terms ) {
+			wp_set_object_terms( $post_ID, $terms, $taxonomy );
+		}
 		/**
 		 * import results
 		 */
