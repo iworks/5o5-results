@@ -51,10 +51,9 @@ if ( ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) {
 		if ( 1 > intval( $data[0] ) ) {
 			continue;
 		}
-		echo '.';
 		$post = get_page_by_title( $data[0], OBJECT, $boat_post_type_name );
 		if ( empty( $post ) ) {
-
+		echo '.';
 			/*
 			 *  0 Sail No
 			 *  1 Year Built
@@ -358,7 +357,9 @@ if ( ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) {
 			if ( ! empty( $owners ) ) {
 				add_post_meta( $post_ID, $owners_field_name, $owners, true );
 			}
-		}
+        } else {
+            echo 'x';
+        }
 	}
 
 	/**
@@ -380,8 +381,10 @@ if ( ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) {
  * import sailors
  */
 if ( ( $handle = fopen( 'sailors.csv', 'r' ) ) !== false ) {
-	while ( ( $data = fgetcsv( $handle, 0, ',' ) ) !== false ) {
+	echo PHP_EOL,'IMPORT: sailors.csv',PHP_EOL;
+    while ( ( $data = fgetcsv( $handle, 0, ',' ) ) !== false ) {
 		if ( isset( $data[1] ) && ! empty( $data[1] ) ) {
+        echo '.';
 			$p = person_clear_name( $data[1] );
 			if ( empty( $p ) ) {
 				continue;
@@ -399,8 +402,9 @@ if ( ( $handle = fopen( 'sailors.csv', 'r' ) ) !== false ) {
 				),
 			);
 			wp_insert_post( $post_array );
-
-		}
+        } else {
+            echo 'x';
+        }
 	}
 }
 
@@ -513,8 +517,12 @@ if ( ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false ) {
 			if ( 'iworks_fleet_serie' === $field ) {
 				if ( empty( $value ) ) {
 					continue;
-				}
-				$post_array['tax_input'][ $field ] = array( $series[ $value ]->term_id );
+                }
+                if ( is_object( $series[ $value ] ) ) {
+                    $post_array['tax_input'][ $field ] = array( $series[ $value ]->term_id );
+                } else {
+                    print_r([$value, $series]);die;
+                }
 				continue;
 			}
 			$post_array['meta_input'][ $field ] = $$field;
