@@ -441,6 +441,7 @@ if ( ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false ) {
 			'iworks_fleet_result_wind_direction',
 			'iworks_fleet_result_wind_power',
 			'post_content',
+			'iworks_fleet_serie',
 		);
 		for ( $i = 0; $i < count( $fields ); $i++ ) {
 			$value = trim( $data[ $i ] );
@@ -477,9 +478,11 @@ if ( ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false ) {
 			continue;
 		}
 		$post_array = array(
+			'post_name'   => sanitize_title( sprintf( '%s-%s', substr( $iworks_fleet_result_date_start, 0, 7 ), $post_title ) ),
 			'post_type'   => $result_post_type_name,
 			'post_status' => 'publish',
 			'meta_input'  => array(),
+			'tax_input'   => array(),
 		);
 		foreach ( $fields as $field ) {
 			if ( empty( $$field ) ) {
@@ -487,6 +490,10 @@ if ( ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false ) {
 			}
 			if ( preg_match( '/^post_/', $field ) ) {
 				$post_array[ $field ] = $$field;
+				continue;
+			}
+			if ( 'iworks_fleet_serie' === $field ) {
+				$post_array['tax_input'][ $field ] = $$field;
 				continue;
 			}
 			$post_array['meta_input'][ $field ] = $$field;
