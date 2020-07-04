@@ -53,7 +53,7 @@ if ( ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) {
 		}
 		$post = get_page_by_title( $data[0], OBJECT, $boat_post_type_name );
 		if ( empty( $post ) ) {
-		echo '.';
+			echo '.';
 			/*
 			 *  0 Sail No
 			 *  1 Year Built
@@ -80,7 +80,6 @@ if ( ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) {
 
 			$iworks_fleet_boat_nation = trim( $data[11] );
 			$iworks_fleet_boat_colors = explode( ';', trim( $data[13] ) );
-
 
 			if ( ! is_string( $post_content ) ) {
 				print_r( $post_content );
@@ -357,9 +356,9 @@ if ( ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) {
 			if ( ! empty( $owners ) ) {
 				add_post_meta( $post_ID, $owners_field_name, $owners, true );
 			}
-        } else {
-            echo 'x';
-        }
+		} else {
+			echo 'x';
+		}
 	}
 
 	/**
@@ -382,17 +381,18 @@ if ( ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) {
  */
 if ( ( $handle = fopen( 'sailors.csv', 'r' ) ) !== false ) {
 	echo PHP_EOL,'IMPORT: sailors.csv',PHP_EOL;
-    while ( ( $data = fgetcsv( $handle, 0, ',' ) ) !== false ) {
+	while ( ( $data = fgetcsv( $handle, 0, ',' ) ) !== false ) {
 		if ( isset( $data[1] ) && ! empty( $data[1] ) ) {
-        echo '.';
 			$p = person_clear_name( $data[1] );
 			if ( empty( $p ) ) {
 				continue;
 			}
 			$post = get_page_by_title( $p, OBJECT, $person_post_type_name );
 			if ( ! empty( $post ) ) {
+				echo 'x';
 				continue;
 			}
+			echo '.';
 			$post_array = array(
 				'post_title'  => $p,
 				'post_type'   => $person_post_type_name,
@@ -402,9 +402,9 @@ if ( ( $handle = fopen( 'sailors.csv', 'r' ) ) !== false ) {
 				),
 			);
 			wp_insert_post( $post_array );
-        } else {
-            echo 'x';
-        }
+		} else {
+			echo 'x';
+		}
 	}
 }
 
@@ -471,10 +471,6 @@ if ( ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false ) {
 					if ( isset( $series[ $value ] ) ) {
 						break;
 					}
-					if ( empty( term_exists( $value, $key ) ) ) {
-						$series[ $value ] = wp_insert_term( $value, $key );
-					}
-					$series[ $value ] = get_term_by( 'name', $value, $key );
 					break;
 			}
 			$$key = $value;
@@ -517,12 +513,19 @@ if ( ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false ) {
 			if ( 'iworks_fleet_serie' === $field ) {
 				if ( empty( $value ) ) {
 					continue;
-                }
-                if ( is_object( $series[ $value ] ) ) {
-                    $post_array['tax_input'][ $field ] = array( $series[ $value ]->term_id );
-                } else {
-                    print_r([$value, $series]);die;
-                }
+				}
+				if ( is_object( $series[ $value ] ) ) {
+					$post_array['tax_input'][ $field ] = array( $series[ $value ]->term_id );
+				} else {
+					$series[ $value ] = wp_insert_term( $value, $field );
+					$series[ $value ] = get_term_by( 'name', $value, $field );
+					if ( is_object( $series[ $value ] ) ) {
+						$post_array['tax_input'][ $field ] = array( $series[ $value ]->term_id );
+					} else {
+						print_r( [ $value, $series ] );
+						die;
+					}
+				}
 				continue;
 			}
 			$post_array['meta_input'][ $field ] = $$field;
