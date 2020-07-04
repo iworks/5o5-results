@@ -37,7 +37,7 @@ Start Date,End  Date,Name,Races,Competitors,Area,Organizer,Secretary,Arbiter,Win
 2017-05-11,2017-05-14,German Championship,9,35,"Berlin, GER",Berliner Yacht-Club e.V.,,,,,,2017/2017-05-14-german-championship-berlin-GER.csv,National
 2017-07-27,2017-07-30,UK Open National Championship,9,29,"Hayling Island, GBR",Hayling Island Sailing Club,,,,,,2017/2017-07-30-uk-open-national-championship.hayling-island.GBR.csv,National
 2017-09-20,2017-09-29,World Championship,8,87,"Annapolis, MD, USA",Severn Sailing Association / Eastport Yacht Club,,Walter Mielke (GER),,,,2017/2017-09-29-world-championship-annapolis.csv,World
-2017-10-21,2017-10-22,Joachim-Hunger-Gedächtnis-Preis,4,20,"Berlin, GER",Berliner Yacht-Club e.V.,Robert Niemczewski,Gernot Schreiber,,,,2017/2017-10-22-joachim-hunger-gedachtnis-preis-berlin-GER.csv,
+2017-10-21,2017-10-22,Joachim Hunger Gedächtnispreis,4,20,"Berlin, GER",Berliner Yacht-Club e.V.,Robert Niemczewski,Gernot Schreiber,,,,2017/2017-10-22-joachim-hunger-gedachtnis-preis-berlin-GER.csv,
 2018-06-16,2018-06-20,Kieler Woche,11,36,"Kiel, GER",Kieler Yacht-Club e.V.,Nino Shmueli,Douglas Sloan,,,https://youtu.be/-PTzl5M5eLo,2018/country/germany/2018-06-20-kieler-woche.kiel.GER.csv,
 2018-07-20,2018-07-20,Pre-Worlds,3,129,"Zatoka Gdańska, Gdynia, POL","Polski Związek Żeglarski, Miasto Gdynia, Polskie Stowarzyszenie Klasy 505",Walter Mielke,Tim Hancock,,,,2018/world/2018-07-20-pre-worlds.gdynia.POL.csv,Pre-Worlds
 2018-07-21,2018-07-28,World Championship,10,127,"Zatoka Gdańska, Gdynia, POL","Polski Związek Żeglarski, Miasto Gdynia, Polskie Stowarzyszenie Klasy 505",Walter Mielke,Tim Hancock,,,,2018/world/2018-07-29-world-championship.gdynia.POL.csv,World
@@ -65,9 +65,16 @@ Start Date,End  Date,Name,Races,Competitors,Area,Organizer,Secretary,Arbiter,Win
 2016-06-18,2016-06-26,Kieler Woche,11,50,"Olympia Zentrum, Kiel-Schilksee, GER",Kieler Yacht-Club e.V.,,,,,,2016/country/germany/2016-06-18-kieler-woche.kiel.GER.csv,
 2017-06-17,2017-06-25,Kieler Woche,11,38,"Olympia Zentrum, Kiel-Schilksee, GER",Kieler Yacht-Club e.V.,,,,,,2017/country/germany/2017-06-17-kieler-woche.kiel.GER.csv,
 2019-06-22,2019-06-30,Kieler Woche,11,30,"Olympia Zentrum, Kiel-Schilksee, GER",Kieler Yacht-Club e.V.,,,,,,2019/country/germany/2019-06-22-kieler-woche.kiel.GER.csv,
-2013-05-18,2013-05-18,YES - Young Europeans Sailing,3,21,"Olympia Zentrum, Kiel-Schilksee, GER",Kieler Yacht-Club e.V.,,,,,,2013/country/germany/2013-05-18-young-europeans-sailing.kiel-schilksee.GER.csv,
+2013-05-18,2013-05-18,Young Europeans Sailing,3,21,"Olympia Zentrum, Kiel-Schilksee, GER",Kieler Yacht-Club e.V.,,,,,,2013/country/germany/2013-05-18-young-europeans-sailing.kiel-schilksee.GER.csv,
 2013-06-08,2013-06-09,XII. Culix Cup,5,19,"Flensburg Fjord, Baltic Sea, Glücksburg, GER",Flensburger Segel-Club e.V.,,,,,,2013/country/germany/2013-06-09-xii-culix-cup.flensburg-fjord-baltic-sea.GER.csv,
 2013-07-19,2013-07-28,124. Travemünder Woche,6,27,"Travemünde,GER",Lübecker Yacht-Club e.V.,,,,,,2013/country/germany/2013-07-28-124-travemunder-woche.travemunde.GER.csv,
 2014-05-17,2014-05-18,XIII. Culix Cup,3,21,"Flensburg Fjord, Baltic Sea, Glücksburg, GER",Flensburger Segel-Club e.V.,Claus Otto Hansen,Hajo Andresen,,,,2014/country/germany/2014-05-18-xiii-culix-cup.glucksburg.GER.csv,
-2014-06-07,2014-06-09,YES - Young Europeans Sailing,3,21,"Olympia Zentrum, Kiel-Schilksee, GER",Kieler Yacht-Club e.V.,,,,,,2014/country/germany/2014-06-07-young-europeans-sailing.kiel-schilksee.GER.csv,
+2014-06-07,2014-06-09,Young Europeans Sailing,3,21,"Olympia Zentrum, Kiel-Schilksee, GER",Kieler Yacht-Club e.V.,,,,,,2014/country/germany/2014-06-07-young-europeans-sailing.kiel-schilksee.GER.csv,
 2014-07-18,2014-07-27,125. Travemünder Woche,8,42,"Travemünde,GER",Lübecker Yacht-Club e.V.,,,,,,2014/country/germany/2014-07-27-125-travemunder-woche.travemunde.GER.csv,
+2015-05-23,2015-05-25,Young Europeans Sailing,7,21,"Olympia Zentrum, Kiel-Schilksee, GER",Kieler Yacht-Club e.V.,,,,,,2015/country/germany/2015-05-25-young-europeans-sailing.kiel-schilksee.GER.csv,
+2015-06-06,2015-06-07,XIV. Culix Cup,4,19,"Flensburg Fjord, Baltic Sea, Glücksburg, GER",Flensburger Segel-Club e.V.,Claus Otto Hansen,Hajo Andresen,,,,2015/country/germany/2015-06-07-xiv-culix-cup.glucksburg.GER.csv,
+2015-07-17,2015-07-26,126. Travemünder Woche,6,13,"Travemünde,GER",Lübecker Yacht-Club e.V.,Tina Buch,Andrus Pokis,,,,2015/country/germany/2015-07-28-126-travemunder-woche.travemunde.GER.csv,
+2016-05-14,2016-05-16,Young Europeans Sailing,6,12,"Olympia Zentrum, Kiel-Schilksee, GER",Kieler Yacht-Club e.V.,Andreas Schorr,Rainer Heinrich,,,,2016/country/germany/2016-05-16-young-europeans-sailing.kiel-schilksee.GER.csv,
+2016-06-04,2016-06-05,XV. Culix Cup,3,22,"Flensburg Fjord, Baltic Sea, Glücksburg, GER",Flensburger Segel-Club e.V.,,,,,,2016/country/germany/2016-06-05-xiv-culix-cup.glucksburg.GER.csv,
+2016-09-24,2016-09-25,Oktoberfestpreis,5,11,"Tutzing,GER",Deutscher Touring Yacht-Club e.V.,Christl Hauger,Barbara Stodal,,,,2016/country/germany/2016-09-25-oktoberfestpreis.tutzing.GER.csv,
+2016-10-15,2016-10-16,Joachim Hunger Gedächtnispreis,5,16,"Berlin, GER",Berliner Yacht-Club e.V.,,,,,,2016/country/germany/2016-10-16-joachim-hunger-gedachtnispreis.berlin.GER.csv,
