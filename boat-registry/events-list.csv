@@ -43,7 +43,7 @@ Start Date,End  Date,Name,Races,Competitors,Area,Organizer,Secretary,Arbiter,Win
 2018-07-21,2018-07-28,World Championship,10,127,"Zatoka Gdańska, Gdynia, POL","Polski Związek Żeglarski, Miasto Gdynia, Polskie Stowarzyszenie Klasy 505",Walter Mielke,Tim Hancock,,,,2018/world/2018-07-29-world-championship.gdynia.POL.csv,World
 2018-08-02,2018-08-04,CORK Fall Regatta - Eastern Canadian Championship,5,13,"Kingston, ON, CAN",CORK,,,,,,2018/country/canada/2018-08-04-cork-fall-regatta-eastern-canadian-championship.kingstone-on.CAN.csv,
 2018-08-08,2018-08-13,North America Championship,11,24,,St. Francis Yacht Club,J. Lancaster,,,,,2018/continental/2018-08-13.north-american-championships.san-fancisco.csv,Continental
-2018-08-17,2018-08-19,Polish Championship,7,28,"Zatoka Pomorska, POL",MT Partners,,,,,,2018/2018-08-19-otwarte-mistrzostwa-polski.csv,National
+2018-08-17,2018-08-19,Polish Championship,7,28,"Zatoka Pomorska, POL",MT Partners,,,,,,2018/country/poland/2018-08-19-polish-championship.swinoujscie.POL.csv,National
 2018-09-08,2018-09-09,Canadian Championship,9,10,"English Bay, Vancouver, BC, CAN",Kitsilano Yacht Club,,,,,,2018/country/canada/2018-08-09-candian-championships.csv,National
 2018-09-28,2018-09-30,Euro Cup,7,28,"Hayling Island, GBR",Hayling Island Sailing Club,,,,,,2018/euro-cup/2018-09-30-euro-cup-hayling-island-GBR.csv,Euro Cup
 2019-01-01,2019-01-01,Pre-Worlds,5,89,"Fremantle, AUS",Fremantle Sailing Club,,,,,,2019/world/2018-12-30-pre-worlds-perth.csv,Pre-Worlds
@@ -55,7 +55,7 @@ Start Date,End  Date,Name,Races,Competitors,Area,Organizer,Secretary,Arbiter,Win
 2019-08-21,2019-08-25,North American Championship,10,39,"Kingston, Ontario K7L 2V3 CAN",Kingston Yacht Club,,,,,,2019/continental/2019-08-25-north-american-championship-kingston-ontario-CAN.csv,Continental
 2019-09-06,2019-09-08,Euro Cup Hayling Island,8,29,"Hayling Island, GBR",Hayling Island Sailing Club,,,,,,2019/euro-cup/2019-09-08-euro-cup-hayling-island-GBR.csv,Euro Cup
 2019-09-06,2019-09-08,Polish Championship,10,17,"Baltic Sea, Gdynia, POL",Polskie Stowarzyszenie Klasy 5O5,,,,,,2019/country/poland/2019-09-08-polish-open-national-championship.baltic-sea.gdynia-POL.csv,National
-2019-10-19,2019-10-20,Berlin Championship,4,20,"VSaW Berlin, GER",Verein Seglerhaus am Wannsee Berliner Segler-Verband e.V.,,,,,,2019/country/germany/2019-10-20-berlin-meistershaft.csv,
+2019-10-19,2019-10-20,Berlin Championship,4,20,"Berlin, GER",Verein Seglerhaus am Wannsee Berliner Segler-Verband e.V.,,,,,,2019/country/germany/2019-10-20-berlin-meistershaft.csv,
 2019-10-19,2019-10-20,Region II Championships,5,14,"West River,USA",West River Sailing Club and the Bay family,,,,,,2019/country/usa/2019-10-20-region-ii-championships.west-river.USA.csv,
 2020-01-16,2020-01-21,Australian Championship,8,33,"Melbourne, AUS",Royal Brighton Yacht Club,,,,,,2020/country/australia/2020-01-21-australian-championship.melbourne.AUS.csv,National
 2020-02-07,2020-02-09,Midwinter Championship,8,16,"Clearwater, USA",Clearwater Community Sailing Center,,,,,,2020/country/usa/2020-02-09-midwinters.clearwater.USA.csv,
@@ -78,3 +78,4 @@ Start Date,End  Date,Name,Races,Competitors,Area,Organizer,Secretary,Arbiter,Win
 2016-06-04,2016-06-05,XV. Culix Cup,3,22,"Flensburg Fjord, Baltic Sea, Glücksburg, GER",Flensburger Segel-Club e.V.,,,,,,2016/country/germany/2016-06-05-xiv-culix-cup.glucksburg.GER.csv,
 2016-09-24,2016-09-25,Oktoberfestpreis,5,11,"Tutzing,GER",Deutscher Touring Yacht-Club e.V.,Christl Hauger,Barbara Stodal,,,,2016/country/germany/2016-09-25-oktoberfestpreis.tutzing.GER.csv,
 2016-10-15,2016-10-16,Joachim Hunger Gedächtnispreis,5,16,"Berlin, GER",Berliner Yacht-Club e.V.,,,,,,2016/country/germany/2016-10-16-joachim-hunger-gedachtnispreis.berlin.GER.csv,
+2018-10-21,2018-10-22,Berlin Championship,4,20,"Berlin, GER",Verein Seglerhaus am Wannsee Berliner Segler-Verband e.V.,,,,,,2018/country/germany/2018-10-22-berlin-championship.berlin.GER.csv,
