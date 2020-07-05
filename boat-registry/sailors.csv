@@ -1,16 +1,11 @@
-POL,Zbisław Lasek
-POL,Wiktoria Lasek
-POL,Szymon Janiak
-POL,Grzegorz Janiak
-POL,Dominika Zielińska
-POL,Łukasz Paszke
-POL,Paweł Różycki
-POL,Tomasz Zubelewicz
-POL,Jakub Meduna
-FIN,Ari Dillemuth
-RSA,Tina Plattner
-CAN,Evan Jennings
-GER,Dr Wolfgang Hunger
+USA,Will Lowe
+POL,Dominik Krawiec
+POL,Jakub Kozanko
+GER,Michael Eller
+GER,Ulli Heerdegen
+GER,Anja Stengel
+GER,Julia Trusen
+SWE,Lars Lindgren
 AUS,Adam Brenz-Verca
 AUS,Adam Wyatt
 AUS,Adrian Finglas
@@ -161,12 +156,15 @@ BEL,Kim Van Assche
 BEL,Stijn Oyen
 BEL,Toon Van Assche
 CAN,Cynthia Des Brisay
+CAN,David Brown
 CAN,Devlin Lovshin
+CAN,Evan Jennings
 CAN,Karl Oswald
 CAN,Kyber Lovshin
 CAN,Martin Hicks
 CAN,Martin Ten Hove
 CAN,Michael Wonnacott
+CAN,Nicolas Tosi
 CAN,Paul Place
 CAN,Philip Cragg
 CAN,Rachael Boyd
@@ -186,6 +184,7 @@ DEN,Morten Ramsbæk
 DEN,Nikolaj Hoffmann Buhl,1992
 DEN,Søren Asboe Jørgensen
 Feuchtenhofer
+FIN,Ari Dillemuth
 FIN,Hannu Pöyry
 FIN,Juha Pietilä
 FIN,Juhani Heimsch
@@ -345,6 +344,7 @@ GER,Dirk Hänsgen
 GER,Dirk Hütten
 GER,Dirk Lübbers
 GER,Dorothea Gebert
+GER,Dr Wolfgang Hunger
 GER,Eckart Konig
 GER,Felix Björn Brockerhoff
 GER,Felix Hummel
@@ -538,11 +538,13 @@ POL,Beata Małecka-Monkiewicz
 POL,Bogna Płachecka
 POL,Dariusz Rzadkowski
 POL,Dominik Buksak
+POL,Dominika Zielińska
 POL,Emanuela Bartkowiak
 POL,Ewa Bartosiewicz
 POL,Ewa Pawlaczyk
 POL,Ewa Szyfter
 POL,Franciszek Badowski
+POL,Grzegorz Janiak
 POL,Grzegorz Kidacki
 POL,Grzegorz Tomaszewski
 POL,Igor Graczyk
@@ -555,7 +557,9 @@ POL,Jakub Gąsiorowski
 POL,Jakub Jankowski
 POL,Jakub Kręciwilk
 POL,Jakub Kusiorski
+POL,Jakub Meduna
 POL,Jakub Tobolski
+POL,Jan Sibilski
 POL,Jan Siekierzyński
 POL,Jan Walczak
 POL,Jarosław Grabowski
@@ -572,6 +576,7 @@ POL,Krzysztof Osiak
 POL,Krzysztof Rzadkowski
 POL,Leszek Świstelnicki
 POL,Łukasz Czaja
+POL,Łukasz Paszke
 POL,Łukasz Paszko
 POL,Maciej Goździk
 POL,Maciej Graczyk
@@ -608,6 +613,7 @@ POL,Patryk Witkowski
 POL,Pawel Różycki
 POL,Paweł Kluczyński
 POL,Paweł Prus
+POL,Paweł Różycki
 POL,Paweł Rzepecki
 POL,Piotr Duma
 POL,Piotr Kosobucki
@@ -624,6 +630,7 @@ POL,Romuald Szukała
 POL,Ryszard Pfeiffer
 POL,Stanisław Karmoliński
 POL,Stefan Romanik
+POL,Szymon Janiak
 POL,Szymon Kabała
 POL,Szymon Swosiński
 POL,Szymon Szymik
@@ -631,10 +638,13 @@ POL,Szymon Wierzbicki
 POL,Tobiasz Zajączkowski
 POL,Tomasz Brzozowski
 POL,Tomasz Polikowski
+POL,Tomasz Zubelewicz
 POL,Tymon Sadowski
+POL,Wiktoria Lasek
 POL,Władysław Kondej
 POL,Wojciech Kasprzyk
 POL,Zbigniew Monkiewicz
+POL,Zbisław Lasek
 RSA,Albrecht Holm
 RSA,Alex Ham
 RSA,Alexander Ham
@@ -651,6 +661,7 @@ RSA,Peter Funke
 RSA,Robert von Gruenewaldt
 RSA,Rudolph Holm
 RSA,Ryan Robinson
+RSA,Tina Plattner
 SUI,Florian Stauffer
 SUI,Gil Donzé
 SUI,Gilles Petermann

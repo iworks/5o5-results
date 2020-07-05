@@ -41,11 +41,16 @@ foreach ( $data as $one ) {
 	$hull_manufacturer[ $one->name ] = $one;
 }
 
+$import_registry = $import_results = $import_sailors = true;
+
+// $import_registry = false;
+// $import_sailors  = false;
+// $import_results = false;
 
 $persons = array();
 
 $rows = array();
-if ( ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) {
+if ( $import_registry && ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) {
 	echo PHP_EOL,'IMPORT: registry.csv',PHP_EOL;
 	while ( ( $data = fgetcsv( $handle, 0, ',' ) ) !== false ) {
 		if ( 1 > intval( $data[0] ) ) {
@@ -379,7 +384,7 @@ if ( ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) {
 /**
  * import sailors
  */
-if ( ( $handle = fopen( 'sailors.csv', 'r' ) ) !== false ) {
+if ( $import_sailors && ( $handle = fopen( 'sailors.csv', 'r' ) ) !== false ) {
 	echo PHP_EOL,'IMPORT: sailors.csv',PHP_EOL;
 	while ( ( $data = fgetcsv( $handle, 0, ',' ) ) !== false ) {
 		if ( isset( $data[1] ) && ! empty( $data[1] ) ) {
@@ -411,7 +416,7 @@ if ( ( $handle = fopen( 'sailors.csv', 'r' ) ) !== false ) {
 /**
  * Import events
  */
-if ( ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false ) {
+if ( $import_results && ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false ) {
 	$series = array();
 	echo PHP_EOL,'IMPORT: events-list.csv',PHP_EOL;
 	while ( ( $data = fgetcsv( $handle, 0, ',' ) ) !== false ) {
@@ -461,25 +466,14 @@ if ( ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false ) {
 				case 'iworks_fleet_result_number_of_competitors':
 					$value = intval( $value );
 					break;
-				case 'iworks_fleet_serie':
-					/**
-					 * insert serie if it is needed
-					 */
-					if ( empty( $value ) ) {
-						break;
-					}
-					if ( isset( $series[ $value ] ) ) {
-						break;
-					}
-					break;
 			}
 			$$key = trim( $value );
 		}
 		$args  = array(
-			'fields'     => 'ids',
-			'post_title' => $post_title,
-			'post_type'  => $result_post_type_name,
-			'meta_query' => array(
+			'posts_per_page' => -1,
+			'fields'         => 'ids',
+			'post_type'      => $result_post_type_name,
+			'meta_query'     => array(
 				'relation' => 'AND',
 				array(
 					'key'   => 'iworks_fleet_result_date_start',
@@ -493,14 +487,24 @@ if ( ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false ) {
 		);
 		$query = new WP_Query( $args );
 		if ( 0 < $query->post_count ) {
-			continue;
+			add_filter( 'iworks_fleet_result_skip_year_in_title', '__return_true' );
+			foreach ( $query->posts as $post_ID ) {
+				$test = preg_replace( '/&#8211;/', '-', get_the_title( $post_ID ) );
+				if ( $test === $post_title ) {
+					echo 'SKIP: ',$post_title,PHP_EOL;
+					continue 2;
+				}
+			}
+			remove_filter( 'iworks_fleet_result_skip_year_in_title', '__return_true' );
 		}
 		$post_array = array(
 			'post_name'   => sanitize_title( sprintf( '%s-%s', date( 'Y-m', $iworks_fleet_result_date_start ), $post_title ) ),
 			'post_type'   => $result_post_type_name,
 			'post_status' => 'publish',
 			'meta_input'  => array(),
-			'tax_input'   => array(),
+			'tax_input'   => array(
+				'iworks_fleet_serie' => array(),
+			),
 		);
 		foreach ( $fields as $field ) {
 			if ( empty( $$field ) ) {
@@ -514,16 +518,20 @@ if ( ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false ) {
 				if ( empty( $value ) ) {
 					continue;
 				}
-				if ( is_object( $series[ $value ] ) ) {
-					$post_array['tax_input'][ $field ] = array( $series[ $value ]->term_id );
-				} else {
-					$series[ $value ] = wp_insert_term( $value, $field );
-					$series[ $value ] = get_term_by( 'name', $value, $field );
-					if ( is_object( $series[ $value ] ) ) {
-						$post_array['tax_input'][ $field ] = array( $series[ $value ]->term_id );
+				$this_series = array();
+				foreach ( explode( ',', $value ) as $serie ) {
+					$serie = trim( $serie );
+					if ( isset( $series[ $serie ] ) && is_object( $series[ $serie ] ) ) {
+						$post_array['tax_input'][ $field ][] = $series[ $serie ]->term_id;
 					} else {
-						print_r( [ $value, $series ] );
-						die;
+						$series[ $serie ] = wp_insert_term( $serie, $field );
+						$series[ $serie ] = get_term_by( 'name', $serie, $field );
+						if ( is_object( $series[ $serie ] ) ) {
+							$post_array['tax_input'][ $field ][] = $series[ $serie ]->term_id;
+						} else {
+							print_r( [ $serie, $series ] );
+							die;
+						}
 					}
 				}
 				continue;
@@ -544,7 +552,7 @@ if ( ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false ) {
 		 * import results
 		 */
 		$file = '../' . $data[12];
-		echo $file;
+		echo $post_title,' - ' . $file;
 		if ( ! is_file( $file ) ) {
 			echo ' - NO FILE!',PHP_EOL;
 			continue;
