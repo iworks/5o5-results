@@ -473,7 +473,7 @@ if ( ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false ) {
 					}
 					break;
 			}
-			$$key = $value;
+			$$key = trim( $value );
 		}
 		$args  = array(
 			'fields'     => 'ids',

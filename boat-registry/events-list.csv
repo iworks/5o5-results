@@ -24,20 +24,40 @@ Start Date,End  Date,Name,Races,Competitors,Area,Organizer,Secretary,Arbiter,Win
 2011-09-02,2011-09-04,Polish Championship,9,10,"Zatoka Gdańska, Gdynia, POL",YKP Gdynia,,,,,,2011/2011-09-04-gdynia-mistrzostwa-polski.csv,National
 2012-09-21,2012-09-23,Polish Championship,11,19,"Zalew Kamieński, Kamień Pomorski, POL",MKŻ Kamień Pomorski,,,,,,2012/2012-09-23-mistrzostwa-polski.csv,National
 2013-04-22,2013-05-03,World Championship,9,77,"Barbados, Bridgetown",,,,,,,2013/2013-05-03-world-championships-barbados.csv,World
+2013-05-18,2013-05-18,Young Europeans Sailing,3,21,"Olympia Zentrum, Kiel-Schilksee, GER",Kieler Yacht-Club e.V.,,,,,,2013/country/germany/2013-05-18-young-europeans-sailing.kiel-schilksee.GER.csv,
+2013-06-08,2013-06-09,XII. Culix Cup,5,19,"Flensburg Fjord, Baltic Sea, Glücksburg, GER",Flensburger Segel-Club e.V.,,,,,,2013/country/germany/2013-06-09-xii-culix-cup.flensburg-fjord-baltic-sea.GER.csv,
+2013-06-22,2013-06-30,Kieler Woche,10,46,"Olympia Zentrum, Kiel-Schilksee, GER",Kieler Yacht-Club e.V.,,,,,,2013/country/germany/2013-06-30-kieler-woche.kiel.GER.csv,
+2013-07-19,2013-07-28,124. Travemünder Woche,6,27,"Travemünde,GER",Lübecker Yacht-Club e.V.,,,,,,2013/country/germany/2013-07-28-124-travemunder-woche.travemunde.GER.csv,
 2013-08-28,2013-09-01,European Championship,9,89,"Medemblik, NED",,,,,,,2013/2013-09-01-mistrzostwa-europy.csv,Continental
 2013-09-06,2013-09-08,Polish Championship,11,19,"Zatoka Gdańska, Kamień Pomorski, POL",,,,,,,2013/country/poland/2013-09-08-mistrzostwa-polski.csv,National
 2013-09-14,2013-09-14,Swedish Championship ,5,20,"Segelsällskapet Viken-Ägir, SWE",,,,,,,2013/country/sweden/2013-09-15-sweden-championship.viken-agir.SWE.csv,National
+2014-05-17,2014-05-18,XIII. Culix Cup,3,21,"Flensburg Fjord, Baltic Sea, Glücksburg, GER",Flensburger Segel-Club e.V.,Claus Otto Hansen,Hajo Andresen,,,,2014/country/germany/2014-05-18-xiii-culix-cup.glucksburg.GER.csv,
+2014-06-07,2014-06-09,Young Europeans Sailing,3,21,"Olympia Zentrum, Kiel-Schilksee, GER",Kieler Yacht-Club e.V.,,,,,,2014/country/germany/2014-06-07-young-europeans-sailing.kiel-schilksee.GER.csv,
+2014-06-21,2014-06-29,Kieler Woche,5,62,"Olympia Zentrum, Kiel-Schilksee, GER",Kieler Yacht-Club e.V.,,,,,,2014/country/germany/2014-06-29-kieler-woche.kiel.GER.csv,
+2014-07-18,2014-07-27,125. Travemünder Woche,8,42,"Travemünde,GER",Lübecker Yacht-Club e.V.,,,,,,2014/country/germany/2014-07-27-125-travemunder-woche.travemunde.GER.csv,
 2014-08-13,2014-08-22,World Championship,7,161,"Kiel, GER",,,,,,,2014/2014-08-22-world-championship-kiel.csv,World
 2014-09-12,2014-09-14,Polish Championship,8,25,"Zatoka Gdańska, POL",Sopocki Klub Żeglarski Ergo Hestia,,,,,,2014/2014-09-14-mistrzostwa-polski.csv,National
 2015-03-28,2015-04-03,World Championship,8,36,"Nelson Mandela Bay, RPA",,,,,,,2015/2015-04-03-world-championship-nelson-mandela-bay.csv,World
+2015-05-23,2015-05-25,Young Europeans Sailing,7,21,"Olympia Zentrum, Kiel-Schilksee, GER",Kieler Yacht-Club e.V.,,,,,,2015/country/germany/2015-05-25-young-europeans-sailing.kiel-schilksee.GER.csv,
+2015-06-06,2015-06-07,XIV. Culix Cup,4,19,"Flensburg Fjord, Baltic Sea, Glücksburg, GER",Flensburger Segel-Club e.V.,Claus Otto Hansen,Hajo Andresen,,,,2015/country/germany/2015-06-07-xiv-culix-cup.glucksburg.GER.csv,
+2015-06-20,2015-06-28,Kieler Woche,10,39,"Olympia Zentrum, Kiel-Schilksee, GER",Kieler Yacht-Club e.V.,,,,,,2015/country/germany/2015-06-20-kieler-woche.kiel.GER.csv,
+2015-07-17,2015-07-26,126. Travemünder Woche,6,13,"Travemünde,GER",Lübecker Yacht-Club e.V.,Tina Buch,Andrus Pokis,,,,2015/country/germany/2015-07-28-126-travemunder-woche.travemunde.GER.csv,
 2015-08-03,2015-08-08,European Championship,9,101,SWE,Varberg Yacht Club,,,,,,2015/2015-08-08-european-championship-varberg.csv,Continental
 2015-09-11,2015-09-13,Polish Championship,11,23,"Zatoka Pucka, POL",MOKSIR Puck/PSK 505,,,,,,2015/2015-09-13_mistrzostwa-polski.csv,National
+2016-05-14,2016-05-16,Young Europeans Sailing,6,12,"Olympia Zentrum, Kiel-Schilksee, GER",Kieler Yacht-Club e.V.,Andreas Schorr,Rainer Heinrich,,,,2016/country/germany/2016-05-16-young-europeans-sailing.kiel-schilksee.GER.csv,
 2016-06-02,2016-06-05,North America Championship,10,49,"Bellingham Bay, USA",Bellingham Yacht Club,John Pedlow,,,,,2016/2016-06-05.north-american-championships.bellingham.csv,Continental
+2016-06-04,2016-06-05,XV. Culix Cup,3,22,"Flensburg Fjord, Baltic Sea, Glücksburg, GER",Flensburger Segel-Club e.V.,,,,,,2016/country/germany/2016-06-05-xiv-culix-cup.glucksburg.GER.csv,
+2016-06-18,2016-06-26,Kieler Woche,11,50,"Olympia Zentrum, Kiel-Schilksee, GER",Kieler Yacht-Club e.V.,,,,,,2016/country/germany/2016-06-18-kieler-woche.kiel.GER.csv,
 2016-09-09,2016-09-11,Polish Championship,3,20,"Zalew Wiślany, POL",,,,,,,2016/2016-09-11-mistrzostwa-polski.csv,National
+2016-09-24,2016-09-25,Oktoberfestpreis,5,11,"Tutzing,GER",Deutscher Touring Yacht-Club e.V.,Christl Hauger,Barbara Stodal,,,,2016/country/germany/2016-09-25-oktoberfestpreis.tutzing.GER.csv,
+2016-10-15,2016-10-16,Joachim Hunger Gedächtnispreis,5,16,"Berlin, GER",Berliner Yacht-Club e.V.,,,,,,2016/country/germany/2016-10-16-joachim-hunger-gedachtnispreis.berlin.GER.csv,
 2017-05-11,2017-05-14,German Championship,9,35,"Berlin, GER",Berliner Yacht-Club e.V.,,,,,,2017/2017-05-14-german-championship-berlin-GER.csv,National
+2017-06-17,2017-06-25,Kieler Woche,11,38,"Olympia Zentrum, Kiel-Schilksee, GER",Kieler Yacht-Club e.V.,,,,,,2017/country/germany/2017-06-17-kieler-woche.kiel.GER.csv,
 2017-07-27,2017-07-30,UK Open National Championship,9,29,"Hayling Island, GBR",Hayling Island Sailing Club,,,,,,2017/2017-07-30-uk-open-national-championship.hayling-island.GBR.csv,National
 2017-09-20,2017-09-29,World Championship,8,87,"Annapolis, MD, USA",Severn Sailing Association / Eastport Yacht Club,,Walter Mielke (GER),,,,2017/2017-09-29-world-championship-annapolis.csv,World
 2017-10-21,2017-10-22,Joachim Hunger Gedächtnispreis,4,20,"Berlin, GER",Berliner Yacht-Club e.V.,Robert Niemczewski,Gernot Schreiber,,,,2017/2017-10-22-joachim-hunger-gedachtnis-preis-berlin-GER.csv,
+2018-05-19,2018-05-20,Regaty Otwarcia Sezonu,5,25,"Gdynia,POL",,,,,,,2018/country/poland/2018-05-18-gdynia.csv,Polish Cup
+2018-06-16,2018-06-17,Puchar Burmistrza Krynicy Morskiej,3,19,"Krynica Morska,POL",,,,,,,2018/country/poland/2018-06-17-krynica.csv,Polish Cup
 2018-06-16,2018-06-20,Kieler Woche,11,36,"Kiel, GER",Kieler Yacht-Club e.V.,Nino Shmueli,Douglas Sloan,,,https://youtu.be/-PTzl5M5eLo,2018/country/germany/2018-06-20-kieler-woche.kiel.GER.csv,
 2018-07-20,2018-07-20,Pre-Worlds,3,129,"Zatoka Gdańska, Gdynia, POL","Polski Związek Żeglarski, Miasto Gdynia, Polskie Stowarzyszenie Klasy 505",Walter Mielke,Tim Hancock,,,,2018/world/2018-07-20-pre-worlds.gdynia.POL.csv,Pre-Worlds
 2018-07-21,2018-07-28,World Championship,10,127,"Zatoka Gdańska, Gdynia, POL","Polski Związek Żeglarski, Miasto Gdynia, Polskie Stowarzyszenie Klasy 505",Walter Mielke,Tim Hancock,,,,2018/world/2018-07-29-world-championship.gdynia.POL.csv,World
@@ -45,37 +65,27 @@ Start Date,End  Date,Name,Races,Competitors,Area,Organizer,Secretary,Arbiter,Win
 2018-08-08,2018-08-13,North America Championship,11,24,,St. Francis Yacht Club,J. Lancaster,,,,,2018/continental/2018-08-13.north-american-championships.san-fancisco.csv,Continental
 2018-08-17,2018-08-19,Polish Championship,7,28,"Zatoka Pomorska, POL",MT Partners,,,,,,2018/country/poland/2018-08-19-polish-championship.swinoujscie.POL.csv,National
 2018-09-08,2018-09-09,Canadian Championship,9,10,"English Bay, Vancouver, BC, CAN",Kitsilano Yacht Club,,,,,,2018/country/canada/2018-08-09-candian-championships.csv,National
+2018-09-08,2018-09-09,Puchar Polski: Szczecin,3,20,"Szczecin,POL",,,,,,,2018/country/poland/2018-09-09-puchar-polski-szczecin.csv,Polish Cup
+2018-09-22,2018-09-23,Finał Pucharu Polski,5,13,"Zbąszyń,POL",,,,,,,2018/country/poland/2018-09-24-puchar-zbaszczynia.csv,Polish Cup
 2018-09-28,2018-09-30,Euro Cup,7,28,"Hayling Island, GBR",Hayling Island Sailing Club,,,,,,2018/euro-cup/2018-09-30-euro-cup-hayling-island-GBR.csv,Euro Cup
+2018-10-21,2018-10-22,Berlin Championship,4,20,"Berlin, GER",Verein Seglerhaus am Wannsee Berliner Segler-Verband e.V.,,,,,,2018/country/germany/2018-10-22-berlin-championship.berlin.GER.csv,
 2019-01-01,2019-01-01,Pre-Worlds,5,89,"Fremantle, AUS",Fremantle Sailing Club,,,,,,2019/world/2018-12-30-pre-worlds-perth.csv,Pre-Worlds
 2019-01-02,2019-01-07,World Championship,10,89,"Fremantle, AUS",Fremantle Sailing Club,,,,,,2019/world/2019-01-07-world-championship-fremantle-AUS.csv,National
 2019-05-30,2019-06-01,Euro Cup Riva del Garda,8,51,"Riva del Garda, ITA",,,,,,,2019/euro-cup/2019-06-01-euro-cup-riva-del-garda-ITA.csv,Euro Cup
+2019-06-22,2019-06-30,Kieler Woche,11,30,"Olympia Zentrum, Kiel-Schilksee, GER",Kieler Yacht-Club e.V.,,,,,,2019/country/germany/2019-06-22-kieler-woche.kiel.GER.csv,
+2019-06-29,2019-06-30,Puchar Polski: Górki Zachodnie,6,14,"Górki Zachodnie,POL",,,,,,,2019/country/poland/2019-09-29-final-sezonu.csv,Polish Cup
 2019-07-05,2019-07-07,French Championship,7,38,"Baie De Douarnenez, FRA",SR DOUARNENEZ,Bournot Eric,Vilain Patrick,,,,2019/country/france/2019-07-07-french-championship.baie-de-douarnenez.FRA.csv,National
+2019-07-27,2019-07-28,Pucki Puchar 505,7,18,"Puck,POL",,,,,,,2019/country/poland/2019-08-18-puchar-polsk-ustka.csv,Polish Cup
 2019-08-06,2019-08-10,European Championship,10,75,"Sønderborg, DEN",Sønderborg Yacht-Club,,,,,,2019/continental/2019-08-10-european-championship-sonderborg-DEN.csv,Continental
+2019-08-16,2019-08-18,Puchar Burmistrza Miasta Ustka,10,20,"Ustka,POL",,,,,,,2019/country/poland/2019-07-28-puchar-polski-puck.csv,Polish Cup
 2019-08-17,2019-08-18,Canadian Championship,5,23,"Kingston, Ontario K7L 2V3 CAN",Kingston Yacht Club,,,,,,2019/country/canada/2019-08-18-canadian-championships-kingston-ontario-CAN.csv,National
 2019-08-21,2019-08-25,North American Championship,10,39,"Kingston, Ontario K7L 2V3 CAN",Kingston Yacht Club,,,,,,2019/continental/2019-08-25-north-american-championship-kingston-ontario-CAN.csv,Continental
 2019-09-06,2019-09-08,Euro Cup Hayling Island,8,29,"Hayling Island, GBR",Hayling Island Sailing Club,,,,,,2019/euro-cup/2019-09-08-euro-cup-hayling-island-GBR.csv,Euro Cup
 2019-09-06,2019-09-08,Polish Championship,10,17,"Baltic Sea, Gdynia, POL",Polskie Stowarzyszenie Klasy 5O5,,,,,,2019/country/poland/2019-09-08-polish-open-national-championship.baltic-sea.gdynia-POL.csv,National
+2019-09-28,2019-08-18,Finał Sezonu Pucharu Polski,6,16,"Szczecin,POL",,,,,,,2019/country/poland/2019-06-30-lotos-nord-cup-gdansk.csv,Polish Cup
 2019-10-19,2019-10-20,Berlin Championship,4,20,"Berlin, GER",Verein Seglerhaus am Wannsee Berliner Segler-Verband e.V.,,,,,,2019/country/germany/2019-10-20-berlin-meistershaft.csv,
 2019-10-19,2019-10-20,Region II Championships,5,14,"West River,USA",West River Sailing Club and the Bay family,,,,,,2019/country/usa/2019-10-20-region-ii-championships.west-river.USA.csv,
 2020-01-16,2020-01-21,Australian Championship,8,33,"Melbourne, AUS",Royal Brighton Yacht Club,,,,,,2020/country/australia/2020-01-21-australian-championship.melbourne.AUS.csv,National
 2020-02-07,2020-02-09,Midwinter Championship,8,16,"Clearwater, USA",Clearwater Community Sailing Center,,,,,,2020/country/usa/2020-02-09-midwinters.clearwater.USA.csv,
-2013-06-22,2013-06-30,Kieler Woche,10,46,"Olympia Zentrum, Kiel-Schilksee, GER",Kieler Yacht-Club e.V.,,,,,,2013/country/germany/2013-06-30-kieler-woche.kiel.GER.csv,
-2014-06-21,2014-06-29,Kieler Woche,5,62,"Olympia Zentrum, Kiel-Schilksee, GER",Kieler Yacht-Club e.V.,,,,,,2014/country/germany/2014-06-29-kieler-woche.kiel.GER.csv,
-2015-06-20,2015-06-28,Kieler Woche,10,39,"Olympia Zentrum, Kiel-Schilksee, GER",Kieler Yacht-Club e.V.,,,,,,2015/country/germany/2015-06-20-kieler-woche.kiel.GER.csv,
-2016-06-18,2016-06-26,Kieler Woche,11,50,"Olympia Zentrum, Kiel-Schilksee, GER",Kieler Yacht-Club e.V.,,,,,,2016/country/germany/2016-06-18-kieler-woche.kiel.GER.csv,
-2017-06-17,2017-06-25,Kieler Woche,11,38,"Olympia Zentrum, Kiel-Schilksee, GER",Kieler Yacht-Club e.V.,,,,,,2017/country/germany/2017-06-17-kieler-woche.kiel.GER.csv,
-2019-06-22,2019-06-30,Kieler Woche,11,30,"Olympia Zentrum, Kiel-Schilksee, GER",Kieler Yacht-Club e.V.,,,,,,2019/country/germany/2019-06-22-kieler-woche.kiel.GER.csv,
-2013-05-18,2013-05-18,Young Europeans Sailing,3,21,"Olympia Zentrum, Kiel-Schilksee, GER",Kieler Yacht-Club e.V.,,,,,,2013/country/germany/2013-05-18-young-europeans-sailing.kiel-schilksee.GER.csv,
-2013-06-08,2013-06-09,XII. Culix Cup,5,19,"Flensburg Fjord, Baltic Sea, Glücksburg, GER",Flensburger Segel-Club e.V.,,,,,,2013/country/germany/2013-06-09-xii-culix-cup.flensburg-fjord-baltic-sea.GER.csv,
-2013-07-19,2013-07-28,124. Travemünder Woche,6,27,"Travemünde,GER",Lübecker Yacht-Club e.V.,,,,,,2013/country/germany/2013-07-28-124-travemunder-woche.travemunde.GER.csv,
-2014-05-17,2014-05-18,XIII. Culix Cup,3,21,"Flensburg Fjord, Baltic Sea, Glücksburg, GER",Flensburger Segel-Club e.V.,Claus Otto Hansen,Hajo Andresen,,,,2014/country/germany/2014-05-18-xiii-culix-cup.glucksburg.GER.csv,
-2014-06-07,2014-06-09,Young Europeans Sailing,3,21,"Olympia Zentrum, Kiel-Schilksee, GER",Kieler Yacht-Club e.V.,,,,,,2014/country/germany/2014-06-07-young-europeans-sailing.kiel-schilksee.GER.csv,
-2014-07-18,2014-07-27,125. Travemünder Woche,8,42,"Travemünde,GER",Lübecker Yacht-Club e.V.,,,,,,2014/country/germany/2014-07-27-125-travemunder-woche.travemunde.GER.csv,
-2015-05-23,2015-05-25,Young Europeans Sailing,7,21,"Olympia Zentrum, Kiel-Schilksee, GER",Kieler Yacht-Club e.V.,,,,,,2015/country/germany/2015-05-25-young-europeans-sailing.kiel-schilksee.GER.csv,
-2015-06-06,2015-06-07,XIV. Culix Cup,4,19,"Flensburg Fjord, Baltic Sea, Glücksburg, GER",Flensburger Segel-Club e.V.,Claus Otto Hansen,Hajo Andresen,,,,2015/country/germany/2015-06-07-xiv-culix-cup.glucksburg.GER.csv,
-2015-07-17,2015-07-26,126. Travemünder Woche,6,13,"Travemünde,GER",Lübecker Yacht-Club e.V.,Tina Buch,Andrus Pokis,,,,2015/country/germany/2015-07-28-126-travemunder-woche.travemunde.GER.csv,
-2016-05-14,2016-05-16,Young Europeans Sailing,6,12,"Olympia Zentrum, Kiel-Schilksee, GER",Kieler Yacht-Club e.V.,Andreas Schorr,Rainer Heinrich,,,,2016/country/germany/2016-05-16-young-europeans-sailing.kiel-schilksee.GER.csv,
-2016-06-04,2016-06-05,XV. Culix Cup,3,22,"Flensburg Fjord, Baltic Sea, Glücksburg, GER",Flensburger Segel-Club e.V.,,,,,,2016/country/germany/2016-06-05-xiv-culix-cup.glucksburg.GER.csv,
-2016-09-24,2016-09-25,Oktoberfestpreis,5,11,"Tutzing,GER",Deutscher Touring Yacht-Club e.V.,Christl Hauger,Barbara Stodal,,,,2016/country/germany/2016-09-25-oktoberfestpreis.tutzing.GER.csv,
-2016-10-15,2016-10-16,Joachim Hunger Gedächtnispreis,5,16,"Berlin, GER",Berliner Yacht-Club e.V.,,,,,,2016/country/germany/2016-10-16-joachim-hunger-gedachtnispreis.berlin.GER.csv,
-2018-10-21,2018-10-22,Berlin Championship,4,20,"Berlin, GER",Verein Seglerhaus am Wannsee Berliner Segler-Verband e.V.,,,,,,2018/country/germany/2018-10-22-berlin-championship.berlin.GER.csv,
+2019-09-06,2019-09-06,EMK Syysregatta,7,8,"Espoo,FIN",Espoon Merenkävijät ry,,,,,,2019/country/finland/2019-09-06-emk-syysregatta.espoo.FIN.csv,
+2019-09-21,2019-09-22,Emäsalonregatta,6,4,"Borgå, FIN",Borgå Segelsällskap r. f.,,,,,,2019/country/finland/2019-09-22-emasalonregatta.borga.FIN.csv,
