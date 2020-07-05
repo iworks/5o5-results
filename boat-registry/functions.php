@@ -41,25 +41,7 @@ function person_clear_name( $name ) {
 		$name = trim( preg_replace( '/[A-Z]{2,3}$/', '', $name ) );
 		$name = trim( preg_replace( $re, '', $name ) );
 	}
-	switch ( $name ) {
-		case 'St. Vincents Gulf 505 Association AUS':
-			return 'St. Vincents Gulf 505 Association';
-		case 'Indiana University':
-			return 'Indiana University Yacht Club';
-		case 'Tom Bojland':
-			return 'Tom Bøjland';
-		case 'Wolfgang Stuckl':
-		case 'Wolfgang Stueckl':
-		case 'Wolfgang Stuekl':
-			return 'Wolfgang Stückl';
-		case 'Y. Pajot':
-			return 'Yves Pajot';
-		case 'Jean -Baptiste Dupont':
-			return 'Jean-Baptiste Dupont';
-		case 'Dave Eberhart':
-			return 'Dave Eberhardt';
-	}
-	return trim( $name );
+	return trim( apply_filters( 'iworks_fleet_result_clear_person_name', $name ) );
 }
 
 function add_century_to_date( $year ) {

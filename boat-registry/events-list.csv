@@ -52,16 +52,16 @@ Start Date,End  Date,Name,Races,Competitors,Area,Organizer,Secretary,Arbiter,Win
 2016-09-09,2016-09-11,Polish Championship,3,20,"Zalew Wiślany, POL",,,,,,,2016/2016-09-11-mistrzostwa-polski.csv,National
 2016-09-24,2016-09-25,Oktoberfestpreis,5,11,"Tutzing,GER",Deutscher Touring Yacht-Club e.V.,Christl Hauger,Barbara Stodal,,,,2016/country/germany/2016-09-25-oktoberfestpreis.tutzing.GER.csv,
 2016-10-15,2016-10-16,Joachim Hunger Gedächtnispreis,5,16,"Berlin, GER",Berliner Yacht-Club e.V.,,,,,,2016/country/germany/2016-10-16-joachim-hunger-gedachtnispreis.berlin.GER.csv,
-2017-05-11,2017-05-14,German Championship,9,35,"Berlin, GER",Berliner Yacht-Club e.V.,,,,,,2017/2017-05-14-german-championship-berlin-GER.csv,National
-2017-06-17,2017-06-25,Kieler Woche,11,38,"Olympia Zentrum, Kiel-Schilksee, GER",Kieler Yacht-Club e.V.,,,,,,2017/country/germany/2017-06-17-kieler-woche.kiel.GER.csv,
-2017-07-27,2017-07-30,UK Open National Championship,9,29,"Hayling Island, GBR",Hayling Island Sailing Club,,,,,,2017/2017-07-30-uk-open-national-championship.hayling-island.GBR.csv,National
-2017-09-20,2017-09-29,World Championship,8,87,"Annapolis, MD, USA",Severn Sailing Association / Eastport Yacht Club,,Walter Mielke (GER),,,,2017/2017-09-29-world-championship-annapolis.csv,World
-2017-10-21,2017-10-22,Joachim Hunger Gedächtnispreis,4,20,"Berlin, GER",Berliner Yacht-Club e.V.,Robert Niemczewski,Gernot Schreiber,,,,2017/2017-10-22-joachim-hunger-gedachtnis-preis-berlin-GER.csv,
+2017-05-11,2017-05-14,German Championship,9,35,"Berlin, GER",Berliner Yacht-Club e.V.,,,,,,2017/country/germany/2017-05-14-german-championship-berlin-GER.csv,National
+2017-06-17,2017-06-25,Kieler Woche,11,38,"Olympia Zentrum, Kiel-Schilksee, GER",Kieler Yacht-Club e.V.,,,,,,2017/country/germany/2017-06-17-kieler-woche.kiel.GER.csv,Euro Cup
+2017-07-27,2017-07-30,UK Open National Championship,9,29,"Hayling Island, GBR",Hayling Island Sailing Club,,,,,,2017/country/uk/2017-07-30-uk-open-national-championship.hayling-island.GBR.csv,National
+2017-09-20,2017-09-29,World Championship,8,87,"Annapolis, MD, USA",Severn Sailing Association / Eastport Yacht Club,,Walter Mielke (GER),,,,2017/world/2017-09-29-world-championship-annapolis.csv,World
+2017-10-21,2017-10-22,Joachim Hunger Gedächtnispreis,4,20,"Berlin, GER",Berliner Yacht-Club e.V.,Robert Niemczewski,Gernot Schreiber,,,,2017/country/germany/2017-10-22-joachim-hunger-gedachtnis-preis-berlin-GER.csv,
 2018-05-19,2018-05-20,Regaty Otwarcia Sezonu,5,25,"Gdynia,POL",,,,,,,2018/country/poland/2018-05-18-gdynia.csv,Polish Cup
 2018-06-16,2018-06-17,Puchar Burmistrza Krynicy Morskiej,3,19,"Krynica Morska,POL",,,,,,,2018/country/poland/2018-06-17-krynica.csv,Polish Cup
-2018-06-16,2018-06-20,Kieler Woche,11,36,"Kiel, GER",Kieler Yacht-Club e.V.,Nino Shmueli,Douglas Sloan,,,https://youtu.be/-PTzl5M5eLo,2018/country/germany/2018-06-20-kieler-woche.kiel.GER.csv,
+2018-06-16,2018-06-20,Kieler Woche,11,36,"Kiel, GER",Kieler Yacht-Club e.V.,Nino Shmueli,Douglas Sloan,,,https://youtu.be/-PTzl5M5eLo,2018/country/germany/2018-06-20-kieler-woche.kiel.GER.csv,Euro Cup
 2018-07-20,2018-07-20,Pre-Worlds,3,129,"Zatoka Gdańska, Gdynia, POL","Polski Związek Żeglarski, Miasto Gdynia, Polskie Stowarzyszenie Klasy 505",Walter Mielke,Tim Hancock,,,,2018/world/2018-07-20-pre-worlds.gdynia.POL.csv,Pre-Worlds
-2018-07-21,2018-07-28,World Championship,10,127,"Zatoka Gdańska, Gdynia, POL","Polski Związek Żeglarski, Miasto Gdynia, Polskie Stowarzyszenie Klasy 505",Walter Mielke,Tim Hancock,,,,2018/world/2018-07-29-world-championship.gdynia.POL.csv,World
+2018-07-21,2018-07-28,World Championship,10,127,"Zatoka Gdańska, Gdynia, POL","Polski Związek Żeglarski, Miasto Gdynia, Polskie Stowarzyszenie Klasy 505",Walter Mielke,Tim Hancock,,,,2018/world/2018-07-29-world-championship.gdynia.POL.csv,"World, Euro Cup"
 2018-08-02,2018-08-04,CORK Fall Regatta - Eastern Canadian Championship,5,13,"Kingston, ON, CAN",CORK,,,,,,2018/country/canada/2018-08-04-cork-fall-regatta-eastern-canadian-championship.kingstone-on.CAN.csv,
 2018-08-08,2018-08-13,North America Championship,11,24,,St. Francis Yacht Club,J. Lancaster,,,,,2018/continental/2018-08-13.north-american-championships.san-fancisco.csv,Continental
 2018-08-17,2018-08-19,Polish Championship,7,28,"Zatoka Pomorska, POL",MT Partners,,,,,,2018/country/poland/2018-08-19-polish-championship.swinoujscie.POL.csv,National
@@ -79,7 +79,7 @@ Start Date,End  Date,Name,Races,Competitors,Area,Organizer,Secretary,Arbiter,Win
 2019-06-29,2019-06-30,Lotos Nord Cup,6,14,"Górki Zachodnie,POL",,,,,,,2019/country/poland/2019-06-30-lotos-nord-cup-gdansk.csv,Polish Cup
 2019-07-05,2019-07-07,French Championship,7,38,"Baie De Douarnenez, FRA",SR DOUARNENEZ,Bournot Eric,Vilain Patrick,,,,2019/country/france/2019-07-07-french-championship.baie-de-douarnenez.FRA.csv,National
 2019-07-27,2019-07-28,Pucki Puchar 505,7,18,"Puck,POL",,,,,,,2019/country/poland/2019-08-18-puchar-polsk-ustka.csv,Polish Cup
-2019-08-06,2019-08-10,European Championship,10,75,"Sønderborg, DEN",Sønderborg Yacht-Club,,,,,,2019/continental/2019-08-10-european-championship-sonderborg-DEN.csv,Continental
+2019-08-06,2019-08-10,European Championship,10,75,"Sønderborg, DEN",Sønderborg Yacht-Club,,,,,,2019/continental/2019-08-10-european-championship-sonderborg-DEN.csv,"Continental, Euro Cup"
 2019-08-16,2019-08-18,Puchar Burmistrza Miasta Ustka,10,20,"Ustka,POL",,,,,,,2019/country/poland/2019-07-28-puchar-polski-puck.csv,Polish Cup
 2019-08-17,2019-08-18,Canadian Championship,5,23,"Kingston, Ontario K7L 2V3 CAN",Kingston Yacht Club,,,,,,2019/country/canada/2019-08-18-canadian-championships-kingston-ontario-CAN.csv,National
 2019-08-21,2019-08-25,North American Championship,10,39,"Kingston, Ontario K7L 2V3 CAN",Kingston Yacht Club,,,,,,2019/continental/2019-08-25-north-american-championship-kingston-ontario-CAN.csv,Continental
@@ -93,3 +93,6 @@ Start Date,End  Date,Name,Races,Competitors,Area,Organizer,Secretary,Arbiter,Win
 2019-10-19,2019-10-20,Region II Championships,5,14,"West River,USA",West River Sailing Club and the Bay family,,,,,,2019/country/usa/2019-10-20-region-ii-championships.west-river.USA.csv,
 2020-01-16,2020-01-21,Australian Championship,8,33,"Melbourne, AUS",Royal Brighton Yacht Club,,,,,,2020/country/australia/2020-01-21-australian-championship.melbourne.AUS.csv,National
 2020-02-07,2020-02-09,Midwinter Championship,8,16,"Clearwater, USA",Clearwater Community Sailing Center,,,,,,2020/country/usa/2020-02-09-midwinters.clearwater.USA.csv,
+2017-07-05,2017-07-09,European Championship,4,94,"Warnemünde, GER",Joersfelder Segel-Club e.V.,Svenja Ehrmann,Dr. Jörn-Christoph Jansen,,,,2017/continental/2017-07-08-european-championship-warnemunde.csv,"Continental, Euro Cup"
+2019-04-19,2019-04-21,Cannes,4,31,"Cannes, FRA",,,,,,,2019/country/france/2019-04-21-cannes.cannes.FRA.csv,Euro Cup
+2019-10-05,2019-10-05,KSSS Olympic Class Regatta,6,9,"Saltsjöbaden,SWE",KSSS,,,,,,2019/country/sweden/2019-10-05-ksss-olympic-class-regatta.saltsjobaden.SWE.csv,
