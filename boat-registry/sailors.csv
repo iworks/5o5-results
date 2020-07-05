@@ -1,12 +1,3 @@
-DEN,Rasmus Andersen
-DEN,Lars Henrik Andersen
-FRA,Pierre Guibbal
-FRA,Simon Chartier
-FRA,Kleber Valery
-GER,Dirk Hänsgen
-DEN,Rasmus Andersen
-DEN,Lars Henrik Andersen
-SUI,Valery Jacot
 AUS,Adam Brenz-Verca
 AUS,Adam Wyatt
 AUS,Adrian Finglas
@@ -179,10 +170,12 @@ DEN,Hans Jørgen Riber
 DEN,Jakob Karbo
 DEN,Jesper Bülow
 DEN,Jon Andersen
+DEN,Lars Henrik Andersen
 DEN,Lasse Andersen
 DEN,Michael Wonterghem
 DEN,Morten Ramsbæk
 DEN,Nikolaj Hoffmann Buhl,1992
+DEN,Rasmus Andersen
 DEN,Søren Asboe Jørgensen
 Feuchtenhofer
 FIN,Ari Dillemuth
@@ -209,6 +202,7 @@ FRA,Frederic Roucayrol
 FRA,Geraud Lafortune
 FRA,Guillaume de Kergariou
 FRA,Jean Philippe Chartier
+FRA,Kleber Valery
 FRA,Lancelot Lippi
 FRA,Laurent Michel
 FRA,Loic Bleuez
@@ -218,10 +212,12 @@ FRA,Nicolas Michel
 FRA,Philippe Dubuc
 FRA,Pierre de Kergariou
 FRA,Pierre Gendry
+FRA,Pierre Guibbal
 FRA,Pierre Jean Gallo
 FRA,Romain Delmotte
 FRA,Sabine Dechauffour
 FRA,Samuel Carvallo
+FRA,Simon Chartier
 FRA,Thomas Pype
 FRA,Valentin Dechauffour
 FRA,Xavier Broise
@@ -308,6 +304,7 @@ GER,Alexander Neddermeier
 GER,Alexander Von Mertens
 GER,Andre Tirre
 GER,Andreas Achterberg
+GER,Andreas Bock
 GER,Andreas Dillmann
 GER,Andreas Happich
 GER,Anika Kébreau
@@ -348,6 +345,7 @@ GER,Dirk Lübbers
 GER,Dorothea Gebert
 GER,Dr Wolfgang Hunger
 GER,Eckart Konig
+GER,Fabian Vergil
 GER,Felix Björn Brockerhoff
 GER,Felix Hummel
 GER,Finn Böger
@@ -454,6 +452,7 @@ GER,Moritz Lüther
 GER,Morten Roos
 GER,Nathalie Zeiler
 GER,Nicholas Melzwig
+GER,Nick Heuwinkel
 GER,Nicola Birkner
 GER,Nils-Henning Hofmann
 GER,Oliver Schürmann
@@ -464,11 +463,14 @@ GER,Paul Meyer
 GER,Peter Gerdts
 GER,Peter Kruse
 GER,Philipp Müller
+GER,Philipp Sudbrack
+GER,Phillipp Müller
 GER,Pia Wiesbauer
 GER,Raik Wollenbecker
 GER,Rainer Görge
 GER,Ralf Breitenfeldt
 GER,Reimund Bauer
+GER,Ricarda Wolf
 GER,Robert Bautz
 GER,Robert Bussenius
 GER,Roger Bussenius
@@ -484,6 +486,7 @@ GER,Stefan Schollmeyer
 GER,Stefan Worm
 GER,Stephan Schweiger
 GER,Sven Dömges
+GER,Sven Meding
 GER,Sven Meier
 GER,Thomas Afken
 GER,Thomas Gosch
@@ -677,6 +680,7 @@ SUI,Lionel Hollinger
 SUI,Markus Heilig
 SUI,Res Schürch
 SUI,Toni Utiger
+SUI,Valery Jacot
 SWE,Albert Lawenius
 SWE,Alexander Gleerup
 SWE,Anders Avén
