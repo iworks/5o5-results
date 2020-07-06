@@ -747,6 +747,7 @@ class iworks_5o5_upload_fixer {
 		'Rene Betschen'             => 'René Betschen',
 		'Rich Mundell'              => 'Rich Mundel',
 		'Rich Nurse'                => 'Richard Nurse',
+		'Ritter Hubertus'           => 'Hubertus Ritter',
 		'Rix Hans-Heinrich'         => 'Hans-Heinrich Rix',
 		'Roos Gerald'               => 'Gerald Roos',
 		'Roos Maike'                => 'Maike Roos',
