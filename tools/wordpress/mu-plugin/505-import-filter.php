@@ -493,6 +493,10 @@ class iworks_5o5_upload_fixer {
 			'Boite'     => 'Philippe Boite',
 			'Fonntaine' => 'Mathieu Fountaine',
 		),
+		array(
+			'Handel'    => 'Martin Handel',
+			'Böhringer' => 'Volker Böhringer',
+		),
 		/*
 		array(
 			'' => '',
@@ -656,8 +660,8 @@ class iworks_5o5_upload_fixer {
 		'Juergen Feuerhake'         => 'Jürgen Feuerhake',
 		'Juergen Waldheim'          => 'Jürgen Waldheim',
 		'Julian Kleiner'            => 'Julien Kleiner',
-        'Julian Stueckl'            => 'Julian Stückl',
-        'Kaj Lindfros'              => 'Kaj Lindfors',
+		'Julian Stueckl'            => 'Julian Stückl',
+		'Kaj Lindfros'              => 'Kaj Lindfors',
 		'Kalie 13yrenius'           => 'Kalle Byrenius',
 		'Karsten Stuempel'          => 'Karsten Stümpel',
 		'Kilburn Jack'              => 'Jack Kilburn',
