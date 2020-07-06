@@ -1,8 +1,3 @@
-USA,Chris Behm
-USA,Michael Curtin
-USA,Drew Buttner
-USA,Dan Herlihy
-USA,Catherine Guiader
 AUS,Adam Brenz-Verca
 AUS,Adam Wyatt
 AUS,Adrian Finglas
@@ -579,6 +574,7 @@ POL,Alina Limańska
 POL,Andrzej Borowiak
 POL,Andrzej Kubiak
 POL,Anna Jabłońska
+POL,Anna Kozińska
 POL,Anna Zabłocka
 POL,Antonina Żółtowska
 POL,Artur Piernicki
@@ -605,6 +601,7 @@ POL,Grzegorz Kidacki
 POL,Grzegorz Szreder
 POL,Grzegorz Tomaszewski
 POL,Igor Graczyk
+POL,Jacek Kuciel
 POL,Jacek Ludwiczak
 POL,Jacek Rohowski
 POL,Jacek Szwed
@@ -625,6 +622,7 @@ POL,Jarosław Grabowski
 POL,Jerzy Plewa
 POL,Kacper Kaczmarek
 POL,Kamil Świstelnicki
+POL,Karol Bronicki
 POL,Karol Tobolski
 POL,Karolina Gąsiorowska
 POL,Kazimierz Pelasik
@@ -666,6 +664,7 @@ POL,Michał Wdówka
 POL,Michał Zera
 POL,Mieczysław Szwed
 POL,Mirosław Majcher
+POL,Monika Kapitan
 POL,Monika Komadowska
 POL,Patryk Płotka
 POL,Patryk Witkowski
@@ -679,6 +678,7 @@ POL,Piotr Duma
 POL,Piotr Kosobucki
 POL,Piotr Rzepecki
 POL,Piotr Rzezak
+POL,Przemysław Iwanek
 POL,Przemysław Kukułowicz
 POL,Przemysław Rzepecki
 POL,Rafał Becker
@@ -705,6 +705,7 @@ POL,Tymon Sadowski
 POL,Wiktoria Lasek
 POL,Władysław Kondej
 POL,Wojciech Kasprzyk
+POL,Zbigniew Doch
 POL,Zbigniew Monkiewicz
 POL,Zbisław Lasek
 RSA,Albrecht Holm
@@ -826,11 +827,15 @@ USA,Augie Diaz
 USA,Ben Moon
 USA,Brian Haines
 USA,Carl Smit
+USA,Catherine Guiader
+USA,Chris Behm
 USA,Chris Brady
 USA,Christopher Pfrang
 USA,Dalton Bergan
+USA,Dan Herlihy
 USA,Douglas Amthor
 USA,Douglas McKeige
+USA,Drew Buttner
 USA,Duane Delfosse
 USA,Edward Conrads
 USA,Eric Anderson
@@ -855,6 +860,7 @@ USA,Mark Zagol
 USA,Martin Tipton
 USA,Mathias Kennerknecht
 USA,Matthew Barry
+USA,Michael Curtin
 USA,Mike Coe
 USA,Mike Poulos
 USA,Mike Powell

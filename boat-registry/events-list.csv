@@ -46,15 +46,21 @@ Event Start Date,End  Date,Name,Races,Competitors,Area,Organizer,Secretary,Arbit
 2015-08-03,2015-08-08,European Championship,9,101,SWE,Varberg Yacht Club,,,,,,2015/2015-08-08-european-championship-varberg.csv,"Continental, Euro Cup"
 2015-09-11,2015-09-13,Polish Championship,11,23,"Zatoka Pucka, POL",MOKSIR Puck/PSK 505,,,,,,2015/2015-09-13_mistrzostwa-polski.csv,National
 2016-05-14,2016-05-16,Young Europeans Sailing,6,12,"Olympia Zentrum, Kiel-Schilksee, GER",Kieler Yacht-Club e.V.,Andreas Schorr,Rainer Heinrich,,,,2016/country/germany/2016-05-16-young-europeans-sailing.kiel-schilksee.GER.csv,
-2016-06-02,2016-06-05,North America Championship,10,49,"Bellingham Bay, USA",Bellingham Yacht Club,John Pedlow,,,,,2016/2016-06-05.north-american-championships.bellingham.csv,Continental
+2016-05-21,2016-05-22,Regaty otwarcia sezonu,7,16,"Gdynia,POL",Yacht Klub Stal Gdynia,,,,,,2016/country/poland/2016-05-22.regaty-otwarcia-sezonu.csv,Polish Cup
+2016-06-02,2016-06-05,North America Championship,10,49,"Bellingham Bay, USA",Bellingham Yacht Club,John Pedlow,,,,,2016/continental/2016-06-05.north-american-championships.bellingham.csv,Continental
 2016-06-04,2016-06-05,XV. Culix Cup,3,22,"Flensburg Fjord, Baltic Sea, Glücksburg, GER",Flensburger Segel-Club e.V.,,,,,,2016/country/germany/2016-06-05-xiv-culix-cup.glucksburg.GER.csv,
 2016-06-18,2016-06-26,Kieler Woche,11,50,"Olympia Zentrum, Kiel-Schilksee, GER",Kieler Yacht-Club e.V.,,,,,,2016/country/germany/2016-06-18-kieler-woche.kiel.GER.csv,Euro Cup
+2016-06-25,2016-06-26,Regaty o “Puchar Zbaszynia” z okazji Dni Morza,5,11,"Zbąszyń,POL",Zbąszyński Klub Żeglarski,,,,,,2016/country/poland/2016-06-26-puchar-zbaszynia.csv,Polish Cup
+2016-07-16,2016-07-17,Puchar Pucka,7,16,"Puck,POL",MOKSIR Puck /PSK 505,,,,,,2016/country/poland/2016-07-18.puchar-pucka.csv,Polish Cup
 2016-07-25,2016-08-05,World Championship,9,130,"Weymouth, GBR",Weymouth & Portland National Sailing Academy,,,,,,2016/world/2016-08-05-world-championship-weymouth.csv,"World, Euro Cup"
+2016-08-19,2016-08-21,Puchar Mariny Kamień Pomorski,8,15,"Kamień Pomorski, POL",Marina KP / PSK 505,,,,,,2016/country/poland/2016-08-21.puchar-mariny-kamien-pomorski.csv,Polish Cup
 2016-09-09,2016-09-11,Polish Championship,3,20,"Zalew Wiślany, POL",,,,,,,2016/2016-09-11-mistrzostwa-polski.csv,National
 2016-09-24,2016-09-25,Oktoberfestpreis,5,11,"Tutzing,GER",Deutscher Touring Yacht-Club e.V.,Christl Hauger,Barbara Stodal,,,,2016/country/germany/2016-09-25-oktoberfestpreis.tutzing.GER.csv,
+2016-10-08,2016-10-09,Regaty Zakończenia Sezonu,4,11,"Warszawa, POL",Sztorm Grupa,,,,,,2016/country/poland/2016-10-09-regaty-zakonczenia-sezonu.csv,Polish Cup
 2016-10-15,2016-10-16,Joachim Hunger Gedächtnispreis,5,16,"Berlin, GER",Berliner Yacht-Club e.V.,,,,,,2016/country/germany/2016-10-16-joachim-hunger-gedachtnispreis.berlin.GER.csv,
 2017-05-11,2017-05-14,Internationale Deutsche Meisterschaft 505er,9,35,"Berlin, GER",Berliner Yacht-Club e.V.,Dr. Matthias Grothues-Spork,,,,,2017/country/germany/2017-05-14-internationale-deutsche-meisterschaft-505er.berlin.GER.csv,National
 2017-06-03,2017-06-04,Pfingstwettfahrten,4,23,"Herrsching, GER",Herrschinger Segelclub e.V.,Max Marcour,Fritz Kocourek,,,,2017/country/germany/2017-06-04-pfingstwettfahrten.herrsching.GER.csv,
+2017-06-14,2017-06-18,International North American Championship,9,25,"New Bedford, MA, USA",Community Boating Center of New Bedford,,,,,,2017/continental/2017-07-18.north-american-championships.new-bedford.csv,Continental
 2017-06-17,2017-06-25,Kieler Woche,11,38,"Olympia Zentrum, Kiel-Schilksee, GER",Kieler Yacht-Club e.V.,,,,,,2017/country/germany/2017-06-17-kieler-woche.kiel.GER.csv,Euro Cup
 2017-07-05,2017-07-09,European Championship,4,94,"Warnemünde, GER",Joersfelder Segel-Club e.V.,Svenja Ehrmann,Dr. Jörn-Christoph Jansen,,,,2017/continental/2017-07-08-european-championship-warnemunde.csv,"Continental, Euro Cup"
 2017-07-27,2017-07-30,UK Open National Championship,9,29,"Hayling Island, GBR",Hayling Island Sailing Club,,,,,,2017/country/uk/2017-07-30-uk-open-national-championship.hayling-island.GBR.csv,National
@@ -71,7 +77,7 @@ Event Start Date,End  Date,Name,Races,Competitors,Area,Organizer,Secretary,Arbit
 2018-07-20,2018-07-20,Pre-Worlds,3,129,"Zatoka Gdańska, Gdynia, POL","Polski Związek Żeglarski, Miasto Gdynia, Polskie Stowarzyszenie Klasy 505",Walter Mielke,Tim Hancock,,,,2018/world/2018-07-20-pre-worlds.gdynia.POL.csv,Pre-Worlds
 2018-07-21,2018-07-28,World Championship,10,127,"Zatoka Gdańska, Gdynia, POL","Polski Związek Żeglarski, Miasto Gdynia, Polskie Stowarzyszenie Klasy 505",Walter Mielke,Tim Hancock,,,,2018/world/2018-07-29-world-championship.gdynia.POL.csv,"World, Euro Cup"
 2018-08-02,2018-08-04,CORK Fall Regatta - Eastern Canadian Championship,5,13,"Kingston, ON, CAN",CORK,,,,,,2018/country/canada/2018-08-04-cork-fall-regatta-eastern-canadian-championship.kingstone-on.CAN.csv,
-2018-08-08,2018-08-13,North America Championship,11,24,,St. Francis Yacht Club,J. Lancaster,,,,,2018/continental/2018-08-13.north-american-championships.san-fancisco.csv,Continental
+2018-08-08,2018-08-13,North America Championship,11,24,"San Francisco, USA",St. Francis Yacht Club,J. Lancaster,,,,,2018/continental/2018-08-13.north-american-championships.san-fancisco.csv,Continental
 2018-08-10,2018-08-12,TPS Airisto Regatta,4,7,"Ruissalo, Turku, FIN",Turun Pursiseura - Turku Yacht Club,,,,,,2018/country/finland/2018-08-12.tps-airisto-regatta.ruissalo-turku.FIN.csv,
 2018-08-17,2018-08-19,Polish Championship,7,28,"Zatoka Pomorska, POL",MT Partners,,,,,,2018/country/poland/2018-08-19-polish-championship.swinoujscie.POL.csv,National
 2018-09-08,2018-09-09,Canadian Championship,9,10,"English Bay, Vancouver, BC, CAN",Kitsilano Yacht Club,,,,,,2018/country/canada/2018-08-09-candian-championships.csv,National
@@ -103,7 +109,7 @@ Event Start Date,End  Date,Name,Races,Competitors,Area,Organizer,Secretary,Arbit
 2019-09-21,2019-09-22,Emäsalonregatta,6,4,"Borgå, FIN",Borgå Segelsällskap r. f.,,,,,,2019/country/finland/2019-09-22-emasalonregatta.borga.FIN.csv,
 2019-09-28,2019-08-18,Finał Sezonu Pucharu Polski,6,16,"Szczecin,POL",,,,,,,2019/country/poland/2019-09-29-final-sezonu.csv,Polish Cup
 2019-09-28,2019-09-29,Oktoberfestpreis,10,4,"Tutzing, GER",Deutscher Touring Yacht-Club e.V.,Michael Lohner,Friedrich Hauger,,,,2019/country/germany/2019-09-29-tutzing-oktoberfestpreis.csv,
-2019-10-05,2019-10-05,KSSS Olympic Class Regatta,6,9,"Saltsjöbaden,SWE",KSSS,,,,,,2019/country/sweden/2019-10-05-ksss-olympic-class-regatta.saltsjobaden.SWE.csv,
+2019-10-05,2019-10-05,KSSS Olympic Class Regatta,6,9,"Saltsjöbaden,SWE",Kungliga Svenska Segel Sällskapet,,,,,,2019/country/sweden/2019-10-05-ksss-olympic-class-regatta.saltsjobaden.SWE.csv,
 2019-10-19,2019-10-20,Berliner Meisterschaft,4,20,"Berlin, GER",Verein Seglerhaus am Wannsee Berliner Segler-Verband e.V.,,,,,,2019/country/germany/2019-10-20-berlin-meistershaft.csv,
 2019-10-19,2019-10-20,Region II Championships,5,14,"West River,USA",West River Sailing Club and the Bay family,,,,,,2019/country/usa/2019-10-20-region-ii-championships.west-river.USA.csv,
 2020-01-16,2020-01-21,Australian Championship,8,33,"Melbourne, AUS",Royal Brighton Yacht Club,,,,,,2020/country/australia/2020-01-21-australian-championship.melbourne.AUS.csv,National
