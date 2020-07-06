@@ -65,6 +65,8 @@ Event Start Date,End  Date,Name,Races,Competitors,Area,Organizer,Secretary,Arbit
 2017-06-14,2017-06-18,International North American Championship,9,25,"New Bedford, MA, USA",Community Boating Center of New Bedford,,,,,,2017/continental/2017-07-18.north-american-championships.new-bedford.csv,Continental
 2017-06-17,2017-06-25,Kieler Woche,11,38,"Olympia Zentrum, Kiel-Schilksee, GER",Kieler Yacht-Club e.V.,,,,,,2017/country/germany/2017-06-17-kieler-woche.kiel.GER.csv,Euro Cup
 2017-07-05,2017-07-09,European Championship,4,94,"Warnemünde, GER",Joersfelder Segel-Club e.V.,Svenja Ehrmann,Dr. Jörn-Christoph Jansen,,,,2017/continental/2017-07-08-european-championship-warnemunde.csv,"Continental, Euro Cup"
+2017-07-08,2017-07-09,Kitsilano Invitational Regatta,7,14,"Vancouver, BC, CAN",Kitsilano Yacht Club,,,,,,2017/country/canada/2017-07-09.kitsilano-invitational-regatta.vancouver-bc.CAN.csv,
+2017-07-14,2017-07-16,Championnat de France,6,52,"Aan Port-Blanc, FRA",,Vilain Patrick,Fayein Denis,,,,2017/country/france/2017-07-16-championnat-de-france.aan-port-blanc.FRA.csv,National
 2017-07-27,2017-07-30,UK Open National Championship,9,29,"Hayling Island, GBR",Hayling Island Sailing Club,,,,,,2017/country/uk/2017-07-30-uk-open-national-championship.hayling-island.GBR.csv,National
 2017-09-01,2017-09-03,Aarhus Festuge Cup,4,9,"Aarhus, DEN",Aarhus Sejlklub,Jens Fast,Torben Precht-Jensen,,,,2017/country/denmark/2017-09-03-aarhus-festuge-cup.aarhus.DEN.csv,
 2017-09-15,2017-09-17,Swiss Open Alpnachersee,9,12,"Stansstad, SUI",Wassersportclub Obwalden,,,,,,2017/country/switzerland/2017-09-17-swiss-open-alpnachersee.stansstad.SUI.csv,
@@ -117,4 +119,3 @@ Event Start Date,End  Date,Name,Races,Competitors,Area,Organizer,Secretary,Arbit
 2019-10-19,2019-10-20,Region II Championships,5,14,"West River,USA",West River Sailing Club and the Bay family,,,,,,2019/country/usa/2019-10-20-region-ii-championships.west-river.USA.csv,
 2020-01-16,2020-01-21,Australian Championship,8,33,"Melbourne, AUS",Royal Brighton Yacht Club,,,,,,2020/country/australia/2020-01-21-australian-championship.melbourne.AUS.csv,National
 2020-02-07,2020-02-09,Midwinter Championship,8,16,"Clearwater, USA",Clearwater Community Sailing Center,,,,,,2020/country/usa/2020-02-09-midwinters.clearwater.USA.csv,
-2017-07-14,2017-07-16,Championnat de France,6,52,"Aan Port-Blanc, FRA",,Vilain Patrick,Fayein Denis,,,,2017/country/france/2017-07-16-championnat-de-france.aan-port-blanc.FRA.csv,National
