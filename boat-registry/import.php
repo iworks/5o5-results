@@ -469,6 +469,18 @@ if ( $import_results && ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false 
 			}
 			$$key = trim( $value );
 		}
+		/**
+		 * check file
+		 */
+		$file = '../' . $file;
+		echo PHP_EOL,$post_title,' - ' . $file;
+		if ( ! is_file( $file ) ) {
+			echo ' - NO FILE!';
+			continue;
+		}
+		/**
+		 * Check already exists
+		 */
 		$args  = array(
 			'posts_per_page' => -1,
 			'fields'         => 'ids',
@@ -489,8 +501,8 @@ if ( $import_results && ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false 
 		if ( 0 < $query->post_count ) {
 			add_filter( 'iworks_fleet_result_skip_year_in_title', '__return_true' );
 			foreach ( $query->posts as $post_ID ) {
-                $test = preg_replace( '/&#8211;/', '-', get_the_title( $post_ID ) );
-                $test = preg_replace( '/&amp;/', '&', $test );
+				$test = preg_replace( '/&#8211;/', '-', get_the_title( $post_ID ) );
+				$test = preg_replace( '/&amp;/', '&', $test );
 				if ( $test === $post_title ) {
 					echo 'SKIP: ',$post_title,PHP_EOL;
 					continue 2;
@@ -552,12 +564,6 @@ if ( $import_results && ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false 
 		/**
 		 * import results
 		 */
-		$file = '../' . $data[12];
-		echo $post_title,' - ' . $file;
-		if ( ! is_file( $file ) ) {
-			echo ' - NO FILE!',PHP_EOL;
-			continue;
-		}
 		if ( ( $handle2 = fopen( $file, 'r' ) ) !== false ) {
 			$regatta_data = array();
 			while ( ( $d = fgetcsv( $handle2, 0, ',' ) ) !== false ) {
@@ -573,3 +579,5 @@ if ( $import_results && ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false 
 		}
 	}
 }
+
+echo PHP_EOL,PHP_EOL;
