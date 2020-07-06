@@ -80,9 +80,9 @@ Start Date,End  Date,Name,Races,Competitors,Area,Organizer,Secretary,Arbiter,Win
 2019-06-22,2019-06-30,Kieler Woche,11,30,"Olympia Zentrum, Kiel-Schilksee, GER",Kieler Yacht-Club e.V.,,,,,,2019/country/germany/2019-06-22-kieler-woche.kiel.GER.csv,Euro Cup
 2019-06-29,2019-06-30,Lotos Nord Cup,6,14,"Górki Zachodnie,POL",,,,,,,2019/country/poland/2019-06-30-lotos-nord-cup-gdansk.csv,Polish Cup
 2019-07-05,2019-07-07,French Championship,7,38,"Baie De Douarnenez, FRA",SR DOUARNENEZ,Bournot Eric,Vilain Patrick,,,,2019/country/france/2019-07-07-french-championship.baie-de-douarnenez.FRA.csv,National
-2019-07-27,2019-07-28,Pucki Puchar 505,7,18,"Puck,POL",,,,,,,2019/country/poland/2019-08-18-puchar-polsk-ustka.csv,Polish Cup
+2019-07-27,2019-07-28,Pucki Puchar 505,7,18,"Puck,POL",,,,,,,2019/country/poland/2019-07-28-puchar-polski-puck.csv,Polish Cup
 2019-08-06,2019-08-10,European Championship,10,75,"Sønderborg, DEN",Sønderborg Yacht-Club,,,,,,2019/continental/2019-08-10-european-championship-sonderborg-DEN.csv,"Continental, Euro Cup"
-2019-08-16,2019-08-18,Puchar Burmistrza Miasta Ustka,10,20,"Ustka,POL",,,,,,,2019/country/poland/2019-07-28-puchar-polski-puck.csv,Polish Cup
+2019-08-16,2019-08-18,Puchar Burmistrza Miasta Ustka,10,20,"Ustka,POL",,,,,,,2019/country/poland/2019-08-18-puchar-polsk-ustka.csv,Polish Cup
 2019-08-17,2019-08-18,Canadian Championship,5,23,"Kingston, Ontario K7L 2V3 CAN",Kingston Yacht Club,,,,,,2019/country/canada/2019-08-18-canadian-championships-kingston-ontario-CAN.csv,National
 2019-08-21,2019-08-25,North American Championship,10,39,"Kingston, Ontario K7L 2V3 CAN",Kingston Yacht Club,,,,,,2019/continental/2019-08-25-north-american-championship-kingston-ontario-CAN.csv,Continental
 2019-09-06,2019-09-06,EMK Syysregatta,7,8,"Espoo,FIN",Espoon Merenkävijät ry,,,,,,2019/country/finland/2019-09-06-emk-syysregatta.espoo.FIN.csv,
@@ -100,3 +100,4 @@ Start Date,End  Date,Name,Races,Competitors,Area,Organizer,Secretary,Arbiter,Win
 2017-09-01,2017-09-03,Aarhus Festuge Cup,4,9,"Aarhus, DEN",Aarhus Sejlklub,Jens Fast,Torben Precht-Jensen,,,,2017/country/denmark/2017-09-03-aarhus-festuge-cup.aarhus.DEN.csv,
 2017-09-15,2017-09-17,Swiss Open Alpnachersee,9,12,"Stansstad, SUI",Wassersportclub Obwalden,,,,,,2017/country/switzerland/2017-09-17-swiss-open-alpnachersee.stansstad.SUI.csv,
 2017-09-16,2017-09-17,Oktoberfestpreis,3,10,"Tutzing, GER",Deutscher Touring Yacht-Club e.V.,Michael Lohner,Friedrich Hauger,,,,2017/country/germany/2017-09-17.oktoberfestpreis.tutzing.GER.csv,
+2018-05-19,2018-05-21,Danish Championship,10,21,"Sønderborg, DEN",Sønderborg Yacht-Club,,,,,,2018/country/denmark/2018-05-21.danish-championship.sonderborg.DEN.csv,National
