@@ -489,7 +489,8 @@ if ( $import_results && ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false 
 		if ( 0 < $query->post_count ) {
 			add_filter( 'iworks_fleet_result_skip_year_in_title', '__return_true' );
 			foreach ( $query->posts as $post_ID ) {
-				$test = preg_replace( '/&#8211;/', '-', get_the_title( $post_ID ) );
+                $test = preg_replace( '/&#8211;/', '-', get_the_title( $post_ID ) );
+                $test = preg_replace( '/&amp;/', '&', $test );
 				if ( $test === $post_title ) {
 					echo 'SKIP: ',$post_title,PHP_EOL;
 					continue 2;

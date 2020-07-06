@@ -39,7 +39,8 @@ function person_clear_name( $name ) {
 	$is_person = check_is_person( $name );
 	if ( $is_person ) {
 		$name = trim( preg_replace( '/[A-Z]{2,3}$/', '', $name ) );
-		$name = trim( preg_replace( $re, '', $name ) );
+        $name = trim( preg_replace( $re, '', $name ) );
+        $name = preg_replace( '/ /', ' ', $name );
 	}
 	return trim( apply_filters( 'iworks_fleet_result_clear_person_name', $name ) );
 }
