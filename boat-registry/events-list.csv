@@ -51,10 +51,12 @@ Event Start Date,End  Date,Name,Races,Competitors,Area,Organizer,Secretary,Arbit
 2016-06-04,2016-06-05,XV. Culix Cup,3,22,"Flensburg Fjord, Baltic Sea, Glücksburg, GER",Flensburger Segel-Club e.V.,,,,,,2016/country/germany/2016-06-05-xiv-culix-cup.glucksburg.GER.csv,
 2016-06-18,2016-06-26,Kieler Woche,11,50,"Olympia Zentrum, Kiel-Schilksee, GER",Kieler Yacht-Club e.V.,,,,,,2016/country/germany/2016-06-18-kieler-woche.kiel.GER.csv,Euro Cup
 2016-06-25,2016-06-26,Regaty o “Puchar Zbaszynia” z okazji Dni Morza,5,11,"Zbąszyń,POL",Zbąszyński Klub Żeglarski,,,,,,2016/country/poland/2016-06-26-puchar-zbaszynia.csv,Polish Cup
+2016-07-02,2016-07-03,Canadian Championship,6,11,"Squamish, BC, CAN",KYC and Canadian 5O5 fleet 1,,,,,,2016/country/canada/2016-07-02-canadian-champs-squamish.csv,National
+2016-07-09,2016-07-10,Kitsilano Invitational Regatta,9,9,"Vancouver, BC, CAN",Kitsilano Yacht Club,,,,,,2016/country/canada/2016-07-10.kitsilano-invitational-regatta.vancouver-bc.CAN.csv,
 2016-07-16,2016-07-17,Puchar Pucka,7,16,"Puck,POL",MOKSIR Puck /PSK 505,,,,,,2016/country/poland/2016-07-18.puchar-pucka.csv,Polish Cup
 2016-07-25,2016-08-05,World Championship,9,130,"Weymouth, GBR",Weymouth & Portland National Sailing Academy,,,,,,2016/world/2016-08-05-world-championship-weymouth.csv,"World, Euro Cup"
 2016-08-19,2016-08-21,Puchar Mariny Kamień Pomorski,8,15,"Kamień Pomorski, POL",Marina KP / PSK 505,,,,,,2016/country/poland/2016-08-21.puchar-mariny-kamien-pomorski.csv,Polish Cup
-2016-09-09,2016-09-11,Polish Championship,3,20,"Zalew Wiślany, POL",,,,,,,2016/2016-09-11-mistrzostwa-polski.csv,National
+2016-09-09,2016-09-11,Polish Championship,3,20,"Zalew Wiślany, POL",,,,,,,2016/country/poland/2016-09-11-mistrzostwa-polski.csv,National
 2016-09-24,2016-09-25,Oktoberfestpreis,5,11,"Tutzing,GER",Deutscher Touring Yacht-Club e.V.,Christl Hauger,Barbara Stodal,,,,2016/country/germany/2016-09-25-oktoberfestpreis.tutzing.GER.csv,
 2016-10-08,2016-10-09,Regaty Zakończenia Sezonu,4,11,"Warszawa, POL",Sztorm Grupa,,,,,,2016/country/poland/2016-10-09-regaty-zakonczenia-sezonu.csv,Polish Cup
 2016-10-15,2016-10-16,Joachim Hunger Gedächtnispreis,5,16,"Berlin, GER",Berliner Yacht-Club e.V.,,,,,,2016/country/germany/2016-10-16-joachim-hunger-gedachtnispreis.berlin.GER.csv,
