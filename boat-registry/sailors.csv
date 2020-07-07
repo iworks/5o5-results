@@ -60,7 +60,7 @@ AUS,Jeremy Manders
 AUS,Jim Mc Gillivray
 AUS,Joel Castle
 AUS,John Jenkins
-AUS,John Mclean
+AUS,John McLean
 AUS,John Paterson
 AUS,Jonathon Ross
 AUS,Jonno Bannister
@@ -141,8 +141,11 @@ AUS,Wayne Boyd
 AUS,Xavier Agnew
 AUT,Adam Smith
 AUT,Julian Jobstl
+BEL,Alain Mineur
 BEL,Bas Van Assche
 BEL,Casper Martens
+BEL,Fabienne Boucau
+BEL,Geert De Pauw
 BEL,Jeroen Smeets
 BEL,Kim Van Assche
 BEL,Stijn Oyen
@@ -194,6 +197,7 @@ FIN,Lauri Kääpä
 FIN,Rosemarie Hartman
 FIN,Ville Tarvo
 FRA,Alain Chartier
+FRA,Aline Martin
 FRA,Anna Marie de Kergariou
 FRA,Antoine Lafortune
 FRA,Basile Géron
@@ -201,24 +205,36 @@ FRA,Cedric Faucheux
 FRA,Christian Silvestre
 FRA,Christian Vallaud
 FRA,David De Monteil
+FRA,Eric Quémard
 FRA,Erwan Grossmann
 FRA,Fabrice Toupet
 FRA,Florian Corbel
+FRA,Franck Agrapart
 FRA,Francois Caminade
 FRA,François de Lisle
+FRA,Frédéric Monnier
 FRA,Frederic Roucayrol
 FRA,Geraud Lafortune
 FRA,Gilles Chapelin
 FRA,Guillaume de Kergariou
+FRA,Herve Brillaud
 FRA,Jean Philippe Chartier
+FRA,Jean-Pierre Peter
 FRA,Kleber Valery
 FRA,Lancelot Lippi
+FRA,Laurent Duquesne
 FRA,Laurent Michel
 FRA,Loic Bleuez
+FRA,Marc-Henri Guitteny
 FRA,Matthieu Gougeon
 FRA,Matthieu Guibbal
+FRA,Muriel Agrapart
+FRA,Nicolas Croce
+FRA,Nicolas Guillou
 FRA,Nicolas Michel
 FRA,Philippe Dubuc
+FRA,Philippe Leroy
+FRA,Philippe Lucienne
 FRA,Pierre Chene Yves
 FRA,Pierre de Kergariou
 FRA,Pierre Gendry
@@ -227,10 +243,15 @@ FRA,Pierre Jean Gallo
 FRA,Romain Delmotte
 FRA,Sabine Dechauffour
 FRA,Samuel Carvallo
+FRA,Serge Gubri
 FRA,Simon Chartier
+FRA,Thibault Di Pede
 FRA,Thomas Pype
 FRA,Valentin Dechauffour
+FRA,Veronique Brenet
+FRA,Vivien Lucienne
 FRA,Xavier Broise
+FRA,Yann Plathier
 GBR,Alan Montague
 GBR,Alastair Milton
 GBR,Alex Barry
@@ -250,14 +271,17 @@ GBR,Carl Gibbons
 GBR,Chris Hewkin
 GBR,Christopher Dando
 GBR,Dan Johnson
+GBR,Dan Parsons
 GBR,Daniel Hart
 GBR,David Barnes
 GBR,David Hitcock
 GBR,David Thorpe
 GBR,David Williams
 GBR,Dennis Cartwright
+GBR,Donald Aitken
 GBR,Donald Sloan
 GBR,Dougal Cram
+GBR,Frank Rainsborough
 GBR,Geoff Edwards
 GBR,Ian Mitchell
 GBR,Ian Nicholson
@@ -269,6 +293,7 @@ GBR,Jarrod Simpson
 GBR,Jason Lunn
 GBR,Jonathan Ward
 GBR,Kevin Holden
+GBR,Kieth Borders
 GBR,Kimball Morrison
 GBR,Laurence Milton
 GBR,Lee Marriott
@@ -280,7 +305,9 @@ GBR,Martin Stainsby
 GBR,Mathieu Fountaine
 GBR,Matthew Bristow
 GBR,Michael Priddle
+GBR,Neil Rabbitts
 GBR,Nicholas Meadow
+GBR,Nick Powell
 GBR,Nigel Deane
 GBR,Nigel Vooght
 GBR,Paul Beasley
@@ -346,6 +373,7 @@ GER,Bruno Laudage
 GER,Carsten Engel
 GER,Carsten Hehl
 GER,Christian Bühring-Uhle
+GER,Christian Dörr
 GER,Christian Henge
 GER,Christian Labenz
 GER,Christian Niefert
@@ -363,7 +391,7 @@ GER,Dirk Hütten
 GER,Dirk Lübbers
 GER,Dorothea Gebert
 GER,Dr Wolfgang Hunger
-GER,Eckart Konig
+GER,Eckart König
 GER,Fabian Vergil
 GER,Felix Björn Brockerhoff
 GER,Felix Graff
@@ -377,11 +405,11 @@ GER,Frank Feller
 GER,Frank Heimburger
 GER,Frank Rupprich
 GER,Frank Wille
+GER,Franscisco Sanguino-Petersen
 GER,Frederik Tasche
 GER,Frieder Achterberg
 GER,Friederike Lemp
 GER,Friedrich Schropsdorff
-GER,Frisco Sanguino
 GER,Geeske Genrich
 GER,Georg Mittermayer
 GER,Gerald Roos
@@ -541,6 +569,7 @@ GER,Thure Gnadeberg
 GER,Tilman Giesen
 GER,Timon Treichel
 GER,Tobias Bolduan
+GER,Tobias Neumeyer
 GER,Toralf Feuchtenhofer
 GER,Torsten Simon
 GER,Ulf Denecke
@@ -714,7 +743,6 @@ POL,Zbigniew Doch
 POL,Zbigniew Monkiewicz
 POL,Zbisław Lasek
 RSA,Albrecht Holm
-RSA,Alex Ham
 RSA,Alexander Ham
 RSA,Bronwen Klaas
 RSA,Dirk Rother
@@ -831,6 +859,7 @@ USA,Anne Fitzpatrick
 USA,Annie Fitzpatrick
 USA,Augie Diaz
 USA,Ben Moon
+USA,Bill McKinney
 USA,Bob Conrad
 USA,Bob Rinker
 USA,Brian Haines
@@ -873,6 +902,7 @@ USA,Kyle Pfrang
 USA,Langdon Foley
 USA,Langdon Junge
 USA,Lee Laney
+USA,Luke Lawrence
 USA,Mark Zagol
 USA,Martin Tipton
 USA,Mathias Kennerknecht
@@ -893,11 +923,13 @@ USA,Reid Shaffer
 USA,Rob Woelfel
 USA,Robert Tennant
 USA,Robert Waterman
+USA,Robert Woelfel
 USA,Russell Miller
 USA,Scott Weiler
 USA,Spencer Snapp
 USA,Sterling Spruill
 USA,Steve Bourdow
+USA,Stine Cacavas
 USA,Sugar Flanagan
 USA,Thomas Barrows
 USA,Tim Murphy

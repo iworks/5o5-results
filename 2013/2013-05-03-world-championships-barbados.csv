@@ -5,7 +5,7 @@ GER,9071,Hunger ,Jess,3,6,7,2,2,14*,1,8,11*,29,3
 USA,9072,Mike Holt,Carl Smit,5,9,2,3,7,5,14*,19*,1,32,4
 AUS,8946,Higgins,Marsh,12*,16*,1,8,10,7,8,1,2,37,5
 GER,9112,Bogacki,Dehne,8,15*,4,11,1,6,19*,7,6,43,6
-GBR,9094,Ian Pinnell,Mitchell,10,5,9,5,28*,12*,5,2,12,48,7
+GBR,9094,Ian Pinnell,Ian Mitchell,10,5,9,5,28*,12*,5,2,12,48,7
 DEN,8964,Jan Saugmann,Martin Görge,17*,8,5,4,9,10,3,9,20*,48,8
 USA,9091,Conrads,Haines,4,7,12*,29*,11,3,12,4,8,49,9
 USA,8913,Moore,Ewenson,14,21*,11,16*,8,4,6,5,4,52,10
@@ -16,7 +16,7 @@ USA,9106,Mike Martin,Nelson,13,10,17,24*,4,8,30*,21,10,83,14
 USA,8808,Augie Diaz,Lanzinger,11,11,27*,9,16,28*,7,15,15,84,15
 USA,9007,Barry,Barrows,9,DNF*,21,6,17,13,29*,11,18,95,16
 USA,8830,Mark Zagol,Andrew Buttner,27*,33*,18,14,13,16,17,13,24,115,17
-AUS,9036,Mike Quirk,Roos,19,19,34*,13,12,24,15,14,41*,116,18
+AUS,9036,Mike Quirk,Daryl Roos,19,19,34*,13,12,24,15,14,41*,116,18
 GBR,9057,Lewns,Parsons,24,12,24,36*,29*,9,18,18,21,126,19
 USA,8681,Cox,Park,20,30*,26*,15,20,23,13,22,16,129,20
 AUS,9061,Kevin Cameron,Franks,35*,27,6,22,19,RDG,28*,25,14,134,21
@@ -55,7 +55,7 @@ GBR,8925,Martin Wedge,Scott Allen,44,61,52,RET*,48,47,52,DNF*,43,347,53
 GER,8775,Sell,Gewinn,56*,49,55,51,59*,48,40,56,53,352,54
 AUS,8922,Bowden,Johnson,58*,50,50,42,53,51,57*,57,49,352,55
 GER,9000,Enno Wilts,Neuss,57,52,53,52,DNS*,50,62*,53,50,367,56
-GBR,9013,Emery,Spratling,59,54,47,56,60*,57,54,62*,46,373,57
+GBR,9013,Phil Emery,Spratling,59,54,47,56,60*,57,54,62*,46,373,57
 FRA,9050,De Kergariou,De Kergariou,60,56,DNF*,28,66*,54,53,59,65,375,58
 GBR,9077,Mee,Taylor,50,RET*,58,49,55,53,58,54,DNF*,377,59
 GBR,9079,Pickering,Priddle,52,53,64,49,54,49,DNF*,DNF*,59,380,60
