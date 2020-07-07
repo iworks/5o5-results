@@ -48,7 +48,7 @@ if ( sizeof( $argv ) === 1 ) {
 	echo '- all',PHP_EOL;
 	echo '- registry',PHP_EOL;
 	echo '- sailors',PHP_EOL;
-	echo '- events',PHP_EOL;
+	echo '- results',PHP_EOL;
 	exit;
 }
 
