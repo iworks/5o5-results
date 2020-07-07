@@ -491,10 +491,11 @@ if ( $import_results && ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false 
 		/**
 		 * check file
 		 */
+		echo $post_title,PHP_EOL;
+		echo 'FILE: ' . $file;
 		$file = '../' . $file;
-		echo PHP_EOL,$post_title,' - ' . $file;
 		if ( ! is_file( $file ) ) {
-			echo ' - NO FILE!';
+			echo ' - NO FILE!',PHP_EOL;
 			continue;
 		}
 		/**
@@ -592,10 +593,12 @@ if ( $import_results && ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false 
 			if ( empty( $regatta_data ) ) {
 				echo ' - EMPTY FILE!',PHP_EOL;
 			} else {
-				echo ' - begin import, rows: ', count( $regatta_data ) ,PHP_EOL;
+				echo PHP_EOL;
+				echo 'Begin import, rows: ', count( $regatta_data ) ,PHP_EOL;
 				do_action( 'iworks_fleet_result_import_data', $post_ID, $regatta_data );
 			}
 		}
+		echo PHP_EOL;
 	}
 }
 

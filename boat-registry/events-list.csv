@@ -4,6 +4,7 @@ Event Start Date,End  Date,Name,Races,Competitors,Area,Organizer,Secretary,Arbit
 1998-07-24,1998-07-26,Euro Cup,6,35,"Hayling Island, GBR",Hayling Island Sailing Club,,,,,,1998/1998-07-26-euro-cup-hayling-island-GBR.csv,Euro Cup
 1998-08-29,1998-08-30,CORK,9,19,"Kingston, ON, CAN",CORK,,,,,,1998/country/canada/1998-08-30-cork-1998.kingston-on.CAN.csv,
 2000-07-08,2000-07-09,Open Meeting,5,19,"Hayling Island, GBR",Hayling Island Sailing Club,,,,,,2000/2000-07-09-open-meeting-hayling-island-GBR.csv,
+2001-08-19,2001-08-28,World Championship,7,105,"Cascais, POR",,,,,,,2001/world/2001-07-21.world-championship.cascais.POR.csv,World
 2002-06-22,2002-06-22,Open Meeting,5,19,"Hayling Island, GBR",Hayling Island Sailing Club,,,,,,2002/2002-06-22-open-meeting-hayling-island-GBR.csv,
 2002-08-28,2002-08-28,Euro Cup,8,24,"Hayling Island, GBR",Hayling Island Sailing Club,,,,,,2002/2002-08-28-euro-cup-hayling-island-GBR.csv,Euro Cup
 2003-08-06,2003-08-06,Open Meeting,4,19,"Hayling Island, GBR",Hayling Island Sailing Club,,,,,,2003/2003-08-06-open-meeting-hayling-island-GBR.csv,
@@ -12,17 +13,23 @@ Event Start Date,End  Date,Name,Races,Competitors,Area,Organizer,Secretary,Arbit
 2005-05-21,2005-05-22,Open Meeting,5,13,"Hayling Island, GBR",Hayling Island Sailing Club,,,,,,2005/2005-05-22-open-meeting-hayling-island-GBR.csv,
 2006-07-19,2006-08-04,World Championship,7,113,"Hayling Island, GBR",Hayling Island Sailing Club,,,,,,2006/2006-08-04-world-championships.hayling-island.GBR.csv,World
 2006-07-24,2006-07-25,Pre-Worlds,3,58,"Hayling Island, GBR",Hayling Island Sailing Club,,,,,,2006/2006-07-25-pre-world.hayling-island.GBR.csv,Pre-Worlds
+2006-09-10,2006-09-11,Dale Jepsen One-Design Regatta,8,5,"Bellingham, WA, USA",Bellingham Yacht Club,,Dale Jepsen,,,,2006/country/usa/2006-09-11.dale-jepsen-one-design-regatta.bellingham-wa.USA.csv,
 2007-02-02,2007-02-02,World Championship,9,92,"Adelaide, AUS",,,,,,,2007/2007-02-02-world-championship-adelaide.csv,World
 2007-08-26,2007-09-01,European Championship,9,53,"Sopot, POL",,Beata Zajkowska,Zbigniew Czubek,"NW,W,W,W,W,W,W,W,NW","9-11,4-6,3-7,3-7,5-9,5-9,2-3,2-7,3-7",,2007/2007-09-01-european-championship.csv,Continental
 2008-03-21,2008-03-23,St. Raphael,3,65,"St. Raphael, FRA",,,,,,,2008/euro-cup/2008-03-23-ec-france-st-raphael.st-raphael.FRA.csv,Euro Cup
 2008-07-07,2008-07-13,World Championship,6,123,"Palermo, ITA",,,,,,,2008/world/2008-world-championship.palermo.ITA.csv,World
 2009-08-23,2009-08-30,World Championship,9,98,"San Francisco, USA",St. Francis Yacht Club,,,,,,2009/2009-08-30-world-championship-san-francisco.csv,World
 2009-09-18,2009-09-20,Polish Championship,8,10,"Zatoka Gdańska, Gdynia, POL",,,,,,,2009/2009-09-20-mp.csv,National
+2009-09-19,2009-09-20,Dale Jepsen One-Design Regatta,7,13,"Bellingham, WA, USA",Bellingham Yacht Club,Jamie Ashton,Michele Bodtke,,,,2009/country/usa/2009-09-20.dale-jepsen-one-design-regatta.bellingham-wa.USA.csv,
 2010-07-09,2010-07-11,Polish Championship,9,5,"Zatoka Gdańska, Gdańsk, POL",,,,,,,2010/2010-07-11-mp.csv,National
 2010-08-10,2010-08-16,World Championship,9,125,"Aarhus, DEN",,,,,,,2010/2010-08-16-world-championship-aarhus.csv,World
+2010-09-18,2010-09-19,Dale Jepsen One-Design Regatta,6,11,"Bellingham, WA, USA",Bellingham Yacht Club,Jamie Ashton,Mick Corcoran,,,,2010/country/usa/2010-09-19.dale-jepsen-one-design-regatta.bellingham-wa.USA.csv,
 2011-03-20,2011-04-01,World Championship,7,85,"Hamilton Island, AUS",,,,,,,2011/2011-04-01-world-championship-hamilton-island.csv,World
 2011-09-02,2011-09-04,Polish Championship,9,10,"Zatoka Gdańska, Gdynia, POL",YKP Gdynia,,,,,,2011/2011-09-04-gdynia-mistrzostwa-polski.csv,National
+2011-09-17,2011-09-18,Dale Jepsen One-Design Regatta,7,12,"Bellingham, WA, USA",Bellingham Yacht Club,,Jamie Ashton,,,,2011/country/usa/2011-09-18.dale-jepsen-one-design-regatta.bellingham-wa.USA.csv,
+2012-07-21,2012-07-27,World Championship,9,188,"La Rochelle , FRA",Société des Régates Rochelaises,Jack Edwards,Pierre Lemaire,,,,2012/world/2012-07-27-world-championships.la-rochelle.france.csv,World
 2012-09-07,2012-09-07,Nordic Championship and Swedish Class Championship,4,24,"Grötvik, Halmstad, SWE",Grötviks Segelsällskap,,,,,,2012/country/sweden/2012-09-07.nordic-championship-and-swedish-class-championship.grotvik-halmstad.SWE.csv,National
+2012-09-15,2012-09-16,Dale Jepsen One-Design Regatta,6,9,"Bellingham, WA, USA",Bellingham Yacht Club,,Mick Corcoran,,,,2012/country/usa/2012-09-16.dale-jepsen-one-design-regatta.bellingham-wa.USA.csv,
 2012-09-21,2012-09-23,Polish Championship,11,19,"Zalew Kamieński, Kamień Pomorski, POL",MKŻ Kamień Pomorski,,,,,,2012/2012-09-23-mistrzostwa-polski.csv,National
 2013-04-22,2013-05-03,World Championship,9,77,"Barbados, Bridgetown",,,,,,,2013/2013-05-03-world-championships-barbados.csv,World
 2013-05-18,2013-05-18,Young Europeans Sailing,3,21,"Olympia Zentrum, Kiel-Schilksee, GER",Kieler Yacht-Club e.V.,,,,,,2013/country/germany/2013-05-18-young-europeans-sailing.kiel-schilksee.GER.csv,
@@ -32,12 +39,14 @@ Event Start Date,End  Date,Name,Races,Competitors,Area,Organizer,Secretary,Arbit
 2013-08-28,2013-09-01,European Championship,9,89,"Medemblik, NED",,,,,,,2013/2013-09-01-mistrzostwa-europy.csv,Continental
 2013-09-06,2013-09-08,Polish Championship,11,19,"Zatoka Gdańska, Kamień Pomorski, POL",,,,,,,2013/country/poland/2013-09-08-mistrzostwa-polski.csv,National
 2013-09-14,2013-09-14,Swedish Championship ,5,20,"Segelsällskapet Viken-Ägir, SWE",,,,,,,2013/country/sweden/2013-09-15-sweden-championship.viken-agir.SWE.csv,National
+2013-09-14,2013-09-15,Dale Jepsen One-Design Regatta,8,12,"Bellingham, WA, USA",Bellingham Yacht Club,,Mick Corcoran,,,,2013/country/usa/2013-09-15.dale-jepsen-one-design-regatta.bellingham-wa.USA.csv,
 2014-05-17,2014-05-18,XIII. Culix Cup,3,21,"Flensburg Fjord, Baltic Sea, Glücksburg, GER",Flensburger Segel-Club e.V.,Claus Otto Hansen,Hajo Andresen,,,,2014/country/germany/2014-05-18-xiii-culix-cup.glucksburg.GER.csv,
 2014-06-07,2014-06-09,Young Europeans Sailing,3,21,"Olympia Zentrum, Kiel-Schilksee, GER",Kieler Yacht-Club e.V.,,,,,,2014/country/germany/2014-06-07-young-europeans-sailing.kiel-schilksee.GER.csv,
 2014-06-21,2014-06-29,Kieler Woche,5,62,"Olympia Zentrum, Kiel-Schilksee, GER",Kieler Yacht-Club e.V.,,,,,,2014/country/germany/2014-06-29-kieler-woche.kiel.GER.csv,Euro Cup
 2014-07-18,2014-07-27,125. Travemünder Woche,8,42,"Travemünde,GER",Lübecker Yacht-Club e.V.,,,,,,2014/country/germany/2014-07-27-125-travemunder-woche.travemunde.GER.csv,
 2014-08-13,2014-08-22,World Championship,7,161,"Kiel, GER",,,,,,,2014/2014-08-22-world-championship-kiel.csv,"World, Euro Cup"
 2014-09-12,2014-09-14,Polish Championship,8,25,"Zatoka Gdańska, POL",Sopocki Klub Żeglarski Ergo Hestia,,,,,,2014/2014-09-14-mistrzostwa-polski.csv,National
+2014-09-19,2014-09-20,Dale Jepsen One-Design Regatta,5,19,"Bellingham, WA, USA",Bellingham Yacht Club,,Mick Corcoran,,,,2014/country/usa/2014-09-20.dale-jepsen-one-design-regatta.bellingham-wa.USA.csv,
 2015-03-28,2015-04-03,World Championship,8,36,"Nelson Mandela Bay, RPA",,,,,,,2015/2015-04-03-world-championship-nelson-mandela-bay.csv,World
 2015-05-23,2015-05-25,Young Europeans Sailing,7,21,"Olympia Zentrum, Kiel-Schilksee, GER",Kieler Yacht-Club e.V.,,,,,,2015/country/germany/2015-05-25-young-europeans-sailing.kiel-schilksee.GER.csv,
 2015-06-06,2015-06-07,XIV. Culix Cup,4,19,"Flensburg Fjord, Baltic Sea, Glücksburg, GER",Flensburger Segel-Club e.V.,Claus Otto Hansen,Hajo Andresen,,,,2015/country/germany/2015-06-07-xiv-culix-cup.glucksburg.GER.csv,
@@ -45,6 +54,7 @@ Event Start Date,End  Date,Name,Races,Competitors,Area,Organizer,Secretary,Arbit
 2015-07-17,2015-07-26,126. Travemünder Woche,6,13,"Travemünde,GER",Lübecker Yacht-Club e.V.,Tina Buch,Andrus Pokis,,,,2015/country/germany/2015-07-28-126-travemunder-woche.travemunde.GER.csv,
 2015-08-03,2015-08-08,European Championship,9,101,SWE,Varberg Yacht Club,,,,,,2015/2015-08-08-european-championship-varberg.csv,"Continental, Euro Cup"
 2015-09-11,2015-09-13,Polish Championship,11,23,"Zatoka Pucka, POL",MOKSIR Puck/PSK 505,,,,,,2015/2015-09-13_mistrzostwa-polski.csv,National
+2015-09-19,2015-09-20,Dale Jepsen One-Design Regatta,6,17,"Bellingham, WA, USA",Bellingham Yacht Club,,,,,,2015/country/usa/2015-09-20.dale-jepsen-one-design-regatta.bellingham-wa.USA.csv,
 2016-05-14,2016-05-16,Young Europeans Sailing,6,12,"Olympia Zentrum, Kiel-Schilksee, GER",Kieler Yacht-Club e.V.,Andreas Schorr,Rainer Heinrich,,,,2016/country/germany/2016-05-16-young-europeans-sailing.kiel-schilksee.GER.csv,
 2016-05-21,2016-05-22,Regaty otwarcia sezonu,7,16,"Gdynia,POL",Yacht Klub Stal Gdynia,,,,,,2016/country/poland/2016-05-22.regaty-otwarcia-sezonu.csv,Polish Cup
 2016-06-02,2016-06-05,North America Championship,10,49,"Bellingham Bay, USA",Bellingham Yacht Club,John Pedlow,,,,,2016/continental/2016-06-05.north-american-championships.bellingham.csv,Continental
@@ -57,6 +67,7 @@ Event Start Date,End  Date,Name,Races,Competitors,Area,Organizer,Secretary,Arbit
 2016-07-25,2016-08-05,World Championship,9,130,"Weymouth, GBR",Weymouth & Portland National Sailing Academy,,,,,,2016/world/2016-08-05-world-championship-weymouth.csv,"World, Euro Cup"
 2016-08-19,2016-08-21,Puchar Mariny Kamień Pomorski,8,15,"Kamień Pomorski, POL",Marina KP / PSK 505,,,,,,2016/country/poland/2016-08-21.puchar-mariny-kamien-pomorski.csv,Polish Cup
 2016-09-09,2016-09-11,Polish Championship,3,20,"Zalew Wiślany, POL",,,,,,,2016/country/poland/2016-09-11-mistrzostwa-polski.csv,National
+2016-09-17,2016-09-18,Dale Jepsen One-Design Regatta,6,21,"Bellingham, WA, USA",Bellingham Yacht Club,,,,,,2016/country/usa/2016-09-18.dale-jepsen-one-design-regatta.bellingham-wa.USA.csv,
 2016-09-24,2016-09-25,Oktoberfestpreis,5,11,"Tutzing,GER",Deutscher Touring Yacht-Club e.V.,Christl Hauger,Barbara Stodal,,,,2016/country/germany/2016-09-25-oktoberfestpreis.tutzing.GER.csv,
 2016-10-08,2016-10-09,Regaty Zakończenia Sezonu,4,11,"Warszawa, POL",Sztorm Grupa,,,,,,2016/country/poland/2016-10-09-regaty-zakonczenia-sezonu.csv,Polish Cup
 2016-10-15,2016-10-16,Joachim Hunger Gedächtnispreis,5,16,"Berlin, GER",Berliner Yacht-Club e.V.,,,,,,2016/country/germany/2016-10-16-joachim-hunger-gedachtnispreis.berlin.GER.csv,
@@ -69,6 +80,7 @@ Event Start Date,End  Date,Name,Races,Competitors,Area,Organizer,Secretary,Arbit
 2017-07-14,2017-07-16,Championnat de France,6,52,"Aan Port-Blanc, FRA",,Vilain Patrick,Fayein Denis,,,,2017/country/france/2017-07-16-championnat-de-france.aan-port-blanc.FRA.csv,National
 2017-07-27,2017-07-30,UK Open National Championship,9,29,"Hayling Island, GBR",Hayling Island Sailing Club,,,,,,2017/country/uk/2017-07-30-uk-open-national-championship.hayling-island.GBR.csv,National
 2017-09-01,2017-09-03,Aarhus Festuge Cup,4,9,"Aarhus, DEN",Aarhus Sejlklub,Jens Fast,Torben Precht-Jensen,,,,2017/country/denmark/2017-09-03-aarhus-festuge-cup.aarhus.DEN.csv,
+2017-09-09,2017-09-10,Dale Jepsen One-Design Regatta,5,15,"Bellingham, WA, USA",Bellingham Yacht Club,,Jonathan Knowles,,,,2017/country/usa/2017-09-10.dale-jepsen-one-design-regatta.bellingham-wa.USA.csv,
 2017-09-15,2017-09-17,Swiss Open Alpnachersee,9,12,"Stansstad, SUI",Wassersportclub Obwalden,,,,,,2017/country/switzerland/2017-09-17-swiss-open-alpnachersee.stansstad.SUI.csv,
 2017-09-16,2017-09-17,Oktoberfestpreis,3,10,"Tutzing, GER",Deutscher Touring Yacht-Club e.V.,Michael Lohner,Friedrich Hauger,,,,2017/country/germany/2017-09-17.oktoberfestpreis.tutzing.GER.csv,
 2017-09-20,2017-09-29,World Championship,8,87,"Annapolis, MD, USA",Severn Sailing Association / Eastport Yacht Club,,Walter Mielke (GER),,,,2017/world/2017-09-29-world-championship-annapolis.csv,World
@@ -88,6 +100,7 @@ Event Start Date,End  Date,Name,Races,Competitors,Area,Organizer,Secretary,Arbit
 2018-08-17,2018-08-19,Polish Championship,7,28,"Zatoka Pomorska, POL",MT Partners,,,,,,2018/country/poland/2018-08-19-polish-championship.swinoujscie.POL.csv,National
 2018-09-08,2018-09-09,Canadian Championship,9,10,"English Bay, Vancouver, BC, CAN",Kitsilano Yacht Club,,,,,,2018/country/canada/2018-08-09-candian-championships.csv,National
 2018-09-08,2018-09-09,Szczecin,3,20,"Szczecin,POL",,,,,,,2018/country/poland/2018-09-09-puchar-polski-szczecin.csv,Polish Cup
+2018-09-22,2018-09-22,Dale Jepsen One-Design Regatta,9,17,"Bellingham, WA, USA",Bellingham Yacht Club,,,,,,2018/country/usa/2018-09-23.dale-jepsen-one-design-regatta.bellingham-wa.USA.csv,
 2018-09-22,2018-09-23,Finał Pucharu Polski,5,13,"Zbąszyń,POL",,,,,,,2018/country/poland/2018-09-24-puchar-zbaszczynia.csv,Polish Cup
 2018-09-22,2019-09-23,Emäsalonregatta,5,6,"Borgå, FIN",Borgå Segelsällskap r. f.,,,,,,2018/country/finland/2019-09-23-emasalonregatta.borga.FIN.csv,
 2018-09-28,2018-09-30,Euro Cup Hayling Island,7,28,"Hayling Island, GBR",Hayling Island Sailing Club,,,,,,2018/country/uk/2018-09-30-euro-cup-hayling-island-GBR.csv,Euro Cup
@@ -109,6 +122,7 @@ Event Start Date,End  Date,Name,Races,Competitors,Area,Organizer,Secretary,Arbit
 2019-08-16,2019-08-18,Puchar Burmistrza Miasta Ustka,10,20,"Ustka,POL",,,,,,,2019/country/poland/2019-08-18-puchar-polsk-ustka.csv,Polish Cup
 2019-08-17,2019-08-18,Canadian Championship,5,23,"Kingston, Ontario K7L 2V3 CAN",Kingston Yacht Club,,,,,,2019/country/canada/2019-08-18-canadian-championships-kingston-ontario-CAN.csv,National
 2019-08-21,2019-08-25,North American Championship,10,39,"Kingston, Ontario K7L 2V3 CAN",Kingston Yacht Club,,,,,,2019/continental/2019-08-25-north-american-championship-kingston-ontario-CAN.csv,Continental
+2019-09-02,2019-09-02,Dale Jepsen One-Design Regatta,7,16,"Bellingham, WA, USA",Bellingham Yacht Club,,,,,,2019/country/usa/2019-09-02.dale-jepsen-one-design-regatta.bellingham-wa.USA.csv,
 2019-09-06,2019-09-06,EMK Syysregatta,7,8,"Espoo,FIN",Espoon Merenkävijät ry,,,,,,2019/country/finland/2019-09-06-emk-syysregatta.espoo.FIN.csv,
 2019-09-06,2019-09-08,Hayling Island,8,28,"Hayling Island, GBR",Hayling Island Sailing Club,,,,,,2019/country/uk/2019-09-08-euro-cup-hayling-island-GBR.csv,Euro Cup
 2019-09-06,2019-09-08,Polish Championship,10,17,"Baltic Sea, Gdynia, POL",Polskie Stowarzyszenie Klasy 5O5,,,,,,2019/country/poland/2019-09-08-polish-open-national-championship.baltic-sea.gdynia-POL.csv,National
@@ -120,16 +134,3 @@ Event Start Date,End  Date,Name,Races,Competitors,Area,Organizer,Secretary,Arbit
 2019-10-19,2019-10-20,Region II Championships,5,14,"West River,USA",West River Sailing Club and the Bay family,,,,,,2019/country/usa/2019-10-20-region-ii-championships.west-river.USA.csv,
 2020-01-16,2020-01-21,Australian Championship,8,33,"Melbourne, AUS",Royal Brighton Yacht Club,,,,,,2020/country/australia/2020-01-21-australian-championship.melbourne.AUS.csv,National
 2020-02-07,2020-02-09,Midwinter Championship,8,16,"Clearwater, USA",Clearwater Community Sailing Center,,,,,,2020/country/usa/2020-02-09-midwinters.clearwater.USA.csv,
-2019-09-02,2019-09-02,Dale Jepsen One-Design Regatta,7,16,"Bellingham, WA, USA",Bellingham Yacht Club,,,,,,2019/country/usa/2019-09-02.dale-jepsen-one-design-regatta.bellingham-wa.USA.csv,
-2018-09-22,2018-09-22,Dale Jepsen One-Design Regatta,9,17,"Bellingham, WA, USA",Bellingham Yacht Club,,,,,,2018/country/usa/2018-09-23.dale-jepsen-one-design-regatta.bellingham-wa.USA.csv,
-2017-09-09,2017-09-10,Dale Jepsen One-Design Regatta,5,15,"Bellingham, WA, USA",Bellingham Yacht Club,,Jonathan Knowles,,,,2017/country/usa/2017-09-10.dale-jepsen-one-design-regatta.bellingham-wa.USA.csv,
-2016-09-17,2016-09-18,Dale Jepsen One-Design Regatta,6,21,"Bellingham, WA, USA",Bellingham Yacht Club,,,,,,2016/country/usa/2016-09-18.dale-jepsen-one-design-regatta.bellingham-wa.USA.csv,
-2015-09-19,2015-09-20,Dale Jepsen One-Design Regatta,6,17,"Bellingham, WA, USA",Bellingham Yacht Club,,,,,,2015/country/usa/2015-09-20.dale-jepsen-one-design-regatta.bellingham-wa.USA.csv,
-2014-09-19,2014-09-20,Dale Jepsen One-Design Regatta,5,19,"Bellingham, WA, USA",Bellingham Yacht Club,,Mick Corcoran,,,,2014/country/usa/2014-09-20.dale-jepsen-one-design-regatta.bellingham-wa.USA.csv,
-2013-09-14,2013-09-15,Dale Jepsen One-Design Regatta,8,12,"Bellingham, WA, USA",Bellingham Yacht Club,,Mick Corcoran,,,,2013/country/usa/2013-09-15.dale-jepsen-one-design-regatta.bellingham-wa.USA.csv,
-2012-09-15,2012-09-16,Dale Jepsen One-Design Regatta,6,9,"Bellingham, WA, USA",Bellingham Yacht Club,,Mick Corcoran,,,,2012/country/usa/2012-09-16.dale-jepsen-one-design-regatta.bellingham-wa.USA.csv,
-2011-09-17,2011-09-18,Dale Jepsen One-Design Regatta,7,12,"Bellingham, WA, USA",Bellingham Yacht Club,,Jamie Ashton,,,,2011/country/usa/2011-09-18.dale-jepsen-one-design-regatta.bellingham-wa.USA.csv,
-2010-09-18,2010-09-19,Dale Jepsen One-Design Regatta,6,11,"Bellingham, WA, USA",Bellingham Yacht Club,Jamie Ashton,Mick Corcoran,,,,2010/country/usa/2010-09-19.dale-jepsen-one-design-regatta.bellingham-wa.USA.csv,
-2009-09-19,2009-09-20,Dale Jepsen One-Design Regatta,7,13,"Bellingham, WA, USA",Bellingham Yacht Club,Jamie Ashton,Michele Bodtke,,,,2009/country/usa/2009-09-20.dale-jepsen-one-design-regatta.bellingham-wa.USA.csv,
-2006-09-10,2006-09-11,Dale Jepsen One-Design Regatta,8,5,"Bellingham, WA, USA",Bellingham Yacht Club,,Dale Jepsen,,,,2006/country/usa/2006-09-11.dale-jepsen-one-design-regatta.bellingham-wa.USA.csv,
-2012-07-21,2012-07-27,World Championship,9,188,"La Rochelle , FRA",Société des Régates Rochelaises,Jack Edwards,Pierre Lemaire,,,,2012/world/2012-07-27-world-championships.la-rochelle.france.csv,World
