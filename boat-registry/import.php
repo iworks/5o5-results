@@ -41,11 +41,30 @@ foreach ( $data as $one ) {
 	$hull_manufacturer[ $one->name ] = $one;
 }
 
-$import_registry = $import_results = $import_sailors = true;
+$import_registry = $import_results = $import_sailors = false;
 
-// $import_registry = false;
-// $import_sailors  = false;
-// $import_results = false;
+if ( sizeof( $argv ) === 1 ) {
+	echo 'select params:',PHP_EOL;
+	echo '- all',PHP_EOL;
+	echo '- registry',PHP_EOL;
+	echo '- sailors',PHP_EOL;
+	echo '- events',PHP_EOL;
+	exit;
+}
+
+if ( in_array( 'all', $argv ) ) {
+	$import_registry = $import_results = $import_sailors = true;
+} else {
+	if ( in_array( 'registry', $argv ) ) {
+		$import_registry = true;
+	}
+	if ( in_array( 'sailors', $argv ) ) {
+		$import_sailors = true;
+	}
+	if ( in_array( 'results', $argv ) ) {
+		$import_results = true;
+	}
+}
 
 $persons = array();
 
