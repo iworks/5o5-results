@@ -597,6 +597,10 @@ class iworks_5o5_upload_fixer {
 			'Marti'    => 'Marti Ueli',
 			'Betschen' => 'René Betschen',
 		),
+		array(
+			'Rogotzki' => 'Hans Rogotzki',
+			'Roos' => 'Peter Roos',
+		),
 		/*
 		array(
 			'' => '',
@@ -605,7 +609,13 @@ class iworks_5o5_upload_fixer {
 		 */
 	);
 
-	private $person = array(
+    private $person = array(
+        'Bjorn Schaar' => 'Björn Schaar',
+        'Marc-Henri Guitteny' => 'Marc-Henri Guitteny',
+        'Gorremans Paul' => 'Paul Gorremans',
+        'Gorremans Pierre' => 'Pierre Gorremans',
+        'Kristine Foerster' => 'Kristine Förster',
+        'Thilo Koenig' => 'Thilo König',
 		'A Williams'                => 'Andy Williams',
 		'Aaron Tellen'              => 'Aron Tellen',
 		'Achterberg Andreas'        => 'Andreas Achterberg',
@@ -717,7 +727,9 @@ class iworks_5o5_upload_fixer {
 		'Dirk Luebbers'             => 'Dirk Lübbers',
 		'Dogulas Hagan'             => 'Douglas Hagan',
 		'Donze Gil'                 => 'Gil Donzé',
-		'Doug Hagan'                => 'Douglas Hagan',
+        'Doug Hagan'                => 'Douglas Hagan',
+        'Markus Muhlbauer' => 'Markus Mühlbauer',
+        'Markus Muehlbauer' => 'Markus Mühlbauer',
 		'Doug Watson'               => 'Douglas Watson',
 		'Dougar Cram'               => 'Dougal Cram',
 		'Dr Christian Bühring-Uhle' => 'Christian Bühring-Uhle',
