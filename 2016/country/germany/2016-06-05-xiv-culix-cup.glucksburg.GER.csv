@@ -1,23 +1,23 @@
-,Nr,Sail Number,Team,Club,T,N,R1,R2,R3
-1,GER 8929,Kai BERTALLOT,Nils-Henning HOFMANN,FSC,4,4,1,1,2
-2,GER 9113,Sophie SÖLLNER,Karsten STÜMPEL,CYC,8,8,2,2,4
-3,GER 8992,Lutz STENGEL,Frank FELLER,ROYC,9,9,3,5,1
-4,GER 8317,Tom GOSCH,Antje GOSCH,ENSFR,14,14,5,6,3
-5,GER 8720,Lennart TASCHE,Frederik TASCHE,WSVG 09,20,20,7,7,6
-6,GER 9144,Jürgen ANTON,Ulf DENECKE,HSC,24,24,16,3,5
-7,GER 8915,Marvin SCHLESIGER,Joseph SCHÜTTE,MSC,24,24,6,9,9
-8,GER 9066,Peter GERDTS,Christian LABENZ,SVWU,27,27,4,10,13
-9,GER 8947,Ralf SCHNEIDEWIND,Oliver SCHÜRMANN,SLRV,28,28,14,4,10
-10,GER 91,Walter STEDING,Hans-Werner STEDING,HSC,29,29,8,14,7
-11,GER 7938,Hermann HEIDE,Gottfried PETSCHULAT,33,33,17,8,8
-12,GER 8903,Steve KWEE,Thorsten SPÖTTER,HSC,35,35,10,13,12
-13,GER 8874,Dietrich KIRCHNER,Stephan LÜBBE,SVWU,38,38,9,11,18
-14,GER 9021,Jens BIEDERER,Hendrik ANNIGHÖFER,HSC,40,40,13,12,15
-15,GER 8988,Georg MITTERMAYER,Dirk BARTELDT,SCLL,43,43,11,18,14
-16,GER 8619,Matthias DACHS,Jörn ALBERTS,HSC,46,46,18,17,11
-17,GER 9057,Wiebke SIEMSEN,Mitja HETTWER,KYC,46,46,12,15,19
-18,GER 8964,Iris ANTON,Bruno LAUDAGE,HSC,50,50,15,19,16
-19,GER 8691,Harald KÖNIG,Katja FRÜHWALD-KÖNIG,SRVL-S,56,56,20,16,20
-20,GER 9000,Martin BERNAUER,Enno WILTS,OSG,56,56,19,20,17
-21,GER 9059,Robert NEUMANN,Siri JENSEN,MSC,63,63,21,21,21
-22,GER 8999,Frederik BURMESTER,Patrick EBERWEIN,CKA,66,66,22,22,22,
+Sail Number,Helm,Crew,Club,R1,R2,R3,T,N,Place
+GER 8929,Kai Bertallot,Nils-Henning Hofmann,FSC,1,1,2,4,4,1
+GER 9113,Sophie Söllner,Karsten Stümpel,CYC,2,2,4,8,8,2
+GER 8992,Lutz Stengel,Frank Feller,ROYC,3,5,1,9,9,3
+GER 8317,Tom Gosch,Antje Gosch,ENSFR,5,6,3,14,14,4
+GER 8720,Lennart Tasche,Frederik Tasche,WSVG 09,7,7,6,20,20,5
+GER 9144,Jürgen Anton,Ulf Denecke,HSC,16,3,5,24,24,6
+GER 8915,Marvin Schlesiger,Joseph Schütte,MSC,6,9,9,24,24,7
+GER 9066,Peter Gerdts,Christian Labenz,SVWU,4,10,13,27,27,8
+GER 8947,Ralf Schneidewind,Oliver Schürmann,SLRV,14,4,10,28,28,9
+GER 91,Walter Steding,Hans-Werner Steding,HSC,8,14,7,29,29,10
+GER 7938,Hermann Heide,Gottfried Petschulat,,33,8,8,33,17,11
+GER 8903,Steve Kwee,Thorsten Spötter,HSC,10,13,12,35,35,12
+GER 8874,Dietrich Kirchner,Stephan Lübbe,SVWU,9,11,18,38,38,13
+GER 9021,Jens Biederer,Hendrik Annighöfer,HSC,13,12,15,40,40,14
+GER 8988,Georg Mittermayer,Dirk Barteldt,SCLL,11,18,14,43,43,15
+GER 8619,Matthias Dachs,Jörn Alberts,HSC,18,17,11,46,46,16
+GER 9057,Wiebke Siemsen,Mitja Hettwer,KYC,12,15,19,46,46,17
+GER 8964,Iris Anton,Bruno Laudage,HSC,15,19,16,50,50,18
+GER 8691,Harald König,Katja Frühwald-König,SRVL-S,20,16,20,56,56,19
+GER 9000,Martin Bernauer,Enno Wilts,OSG,19,20,17,56,56,20
+GER 9059,Robert Neumann,Siri Jensen,MSC,21,21,21,63,63,21
+GER 8999,Frederik Burmester,Patrick Eberwein,CKA,22,22,22,66,66,22
