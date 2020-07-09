@@ -1,12 +1,18 @@
 Event Start Date,End  Date,Name,Races,Competitors,Area,Organizer,Secretary,Arbiter,Wind direction,Wind power,Post Content,File,Series
+1993-08-30,1993-09-07,World Championship,6,90,"Travemünde,GER",,,,,,,1993/world/1993-09-07.world-chamipionship.travemunde.GER.csv,World
 1994-08-13,1994-08-21,World Championship,6,63,"Medemblik, NED",,,,,,,1994/1994-08-21.world-championships.mademblik-holland.csv,World
 1997-08-10,1997-08-21,World Championship,7,79,"Gilleleje, DEN",GILLELEJE SEJLKLUB,,,,,,1997/1997-world-championships.gilleleje-denmark.csv,World
+1998-05-09,1998-05-16,European Championship,5,36,"Damp, GER",,,,,,,1998/continental/1998-05-16.european-championship.damp.GER.csv,Continental
 1998-07-24,1998-07-26,Euro Cup,6,35,"Hayling Island, GBR",Hayling Island Sailing Club,,,,,,1998/1998-07-26-euro-cup-hayling-island-GBR.csv,Euro Cup
 1998-08-29,1998-08-30,CORK,9,19,"Kingston, ON, CAN",CORK,,,,,,1998/country/canada/1998-08-30-cork-1998.kingston-on.CAN.csv,
+1999-07-04,1999-07-10,World Championship,5,157,"Quiberon,FRA",,,,,,,1999/world/1999-06-10-world-championship-quiberon-france.csv,World
 2000-07-08,2000-07-09,Open Meeting,5,19,"Hayling Island, GBR",Hayling Island Sailing Club,,,,,,2000/2000-07-09-open-meeting-hayling-island-GBR.csv,
+2000-11-11,2000-11-23,World Championship,5,61,"Durban,RSA",,,,,,,2000/world/2000-11-23.world-championship.durban.RSA.csv,World
 2001-08-19,2001-08-28,World Championship,7,105,"Cascais, POR",,,,,,,2001/world/2001-07-21.world-championship.cascais.POR.csv,World
 2002-06-22,2002-06-22,Open Meeting,5,19,"Hayling Island, GBR",Hayling Island Sailing Club,,,,,,2002/2002-06-22-open-meeting-hayling-island-GBR.csv,
 2002-08-28,2002-08-28,Euro Cup,8,24,"Hayling Island, GBR",Hayling Island Sailing Club,,,,,,2002/2002-08-28-euro-cup-hayling-island-GBR.csv,Euro Cup
+2002-12-02,2012-02-14,World Championship,9,98,"Fremantle, AUS",Fremantle Sailing Club,Tony Duncan,,,,,2002/world/2002-12-14.world-championship.Fremantle.AUS.csv,World
+2003-07-26,2003-08-01,World Championship,9,81,"Malmö, SWE",MALMÖ SEGEL SÄLLSKAP,Krister Ahlkvist,,,,,2003/world/2003-08-01.world-championship.malmo.SWE.csv,World
 2003-08-06,2003-08-06,Open Meeting,4,19,"Hayling Island, GBR",Hayling Island Sailing Club,,,,,,2003/2003-08-06-open-meeting-hayling-island-GBR.csv,
 2004-07-24,2004-08-04,World Championship,7,102,"Santa Cruze, USA",,,,,,,2004/2004-08-20.world-championship.santa-cruze.usa.csv,World
 2004-10-03,2004-10-08,European Championship,8,56,"Pula, CRO",,,,,,,2004/2004-10-08.european-championship.croatia.pula.csv,Continental
@@ -135,11 +141,9 @@ Event Start Date,End  Date,Name,Races,Competitors,Area,Organizer,Secretary,Arbit
 2019-10-19,2019-10-20,Region II Championships,5,14,"West River,USA",West River Sailing Club and the Bay family,,,,,,2019/country/usa/2019-10-20-region-ii-championships.west-river.USA.csv,
 2020-01-16,2020-01-21,Australian Championship,8,33,"Melbourne, AUS",Royal Brighton Yacht Club,,,,,,2020/country/australia/2020-01-21-australian-championship.melbourne.AUS.csv,National
 2020-02-07,2020-02-09,Midwinter Championship,8,16,"Clearwater, USA",Clearwater Community Sailing Center,,,,,,2020/country/usa/2020-02-09-midwinters.clearwater.USA.csv,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
 2016-07-14,2016-07-17,Championnat de France,,,"Le Havre, FRA",Société des Régates du Havre,,,,,,,
-2003-07-26,2003-08-01,World Championship,9,81,"Malmö, SWE",MALMÖ SEGEL SÄLLSKAP,Krister Ahlkvist,,,,,2003/world/2003-08-01.world-championship.malmo.SWE.csv,World
-2002-12-02,2012-02-14,World Championship,9,98,"Fremantle, AUS",Fremantle Sailing Club,Tony Duncan,,,,,2002/world/2002-12-14.world-championship.Fremantle.AUS.csv,World
-2000-11-11,2000-11-23,World Championship,5,61,"Durban,RSA",,,,,,,2000/world/2000-11-23.world-championship.durban.RSA.csv,World
-1993-08-30,1993-09-07,World Championship,6,90,"Travemünde,GER",,,,,,,1993/world/1993-09-07.world-chamipionship.travemunde.GER.csv,World
-1999-07-04,1999-07-10,World Championship,5,157,"Quiberon,FRA",,,,,,,1999/world/1999-06-10-world-championship-quiberon-france.csv,World
 1998-09-19,1998-09-25,World Championship,,,"New York, USA",New York Yacht Club,,,,,,,World
-1998-05-09,1998-05-16,European Championship,5,36,"Damp, GER",,,,,,,1998/continental/1998-05-16.european-championship.damp.GER.csv,Continental
