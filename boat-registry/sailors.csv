@@ -1,8 +1,11 @@
-GBR,Jonathan Rennie
-AUS,Michael Gallagher
-AUS,Matt Brooman
-AUS,Grant Abbott
-AUS,Matthew Till
+SWE,Staffan Eklund
+SWE,Anders Eklund
+GBR,Phil Brown
+GER,Ulrich Ellerbeck
+GER,Brigitte Preuss
+GER,Rolf Bertenrath
+GER,Karsten Lahrs
+GER,Hans Nöldeke
 AUS,Adam Brenz-Verca
 AUS,Adam Wyatt
 AUS,Adrian Finglas
@@ -51,6 +54,7 @@ AUS,Gilbert Ford
 AUS,Glen Stewart
 AUS.Graeme Murphy
 AUS,Grahame Tindall
+AUS,Grant Abbott
 AUS,Grant Rose
 AUS,Greg Clarke
 AUS,Hamish Jarrett
@@ -90,11 +94,14 @@ AUS,Marcel Vos
 AUS,Marcus Cooper
 AUS,Martin Pike
 AUS,Matt Bowden
+AUS,Matt Brooman
 AUS,Matt Merchant
 AUS,Matt Smith
 AUS,Matt Summers
+AUS,Matthew Till
 AUS,Max Hayman
 AUS,Michael Cook
+AUS,Michael Gallagher
 AUS,Michael Lawrence
 AUS,Michael Thomson
 AUS,Mick Babbage
@@ -289,6 +296,7 @@ GBR,Andrew Streeter
 GBR,Andrew Thorp
 GBR,Andy Couch
 GBR,Andy Edmonds
+GBR,Andy Parkinson
 GBR,Andy Tyas
 GBR,Ben Farren-Price
 GBR,Ben McGrane
@@ -315,6 +323,7 @@ GBR,Geoff Edwards
 GBR,Hubertus Ritter
 GBR,Ian Mitchell
 GBR,Ian Nicholson
+GBR,Ian Walters
 GBR,Jack Kilburn
 GBR,James Cole
 GBR,James King
@@ -322,6 +331,7 @@ GBR,James Read
 GBR,Jarrod Simpson
 GBR,Jason Lunn
 GBR,John Ironmonger
+GBR,Jonathan Rennie
 GBR,Jonathan Ward
 GBR,Kevin Holden
 GBR,Kieth Borders
@@ -475,12 +485,15 @@ GER,Ivonne Seifert
 GER.Ivonne Seifert
 GER,Jakob Achterberg
 GER,Jan Lürkens
+GER,Jan Mares
 GER,Jan Reifferscheidt
 GER,Jan Stremlow
 GER,Jan-Hendrik Lenz
 GER,Jan-Philipp Hofmann
 GER,Jans-Peter Schlomka
 GER,Jens Biederer
+GER,Jens Ellermann
+GER,Jens Hartwig
 GER,Jens Kühne
 GER,Jens Olbrysch
 GER,Jens Steinborn
@@ -501,6 +514,7 @@ GER,Julien Kleiner
 GER,Jürgen Feuerhake
 GER,Jürgen Joseph
 GER,Kai Bertallot
+GER,Kai Mares
 GER,Karsten Contag
 GER,Karsten Stümpel
 GER,Katharina Menge
@@ -542,6 +556,7 @@ GER,Martin Lietz
 GER,Martin Maal
 GER,Martin Schöler
 GER,Marvin Schlesiger
+GER,Matthias Bruhl
 GER,Matthias Dachs
 GER,Max Eisenrieder
 GER,Maximilian Weiß
@@ -603,6 +618,7 @@ GER,Steffen Achenbach
 GER,Stephan Graff
 GER,Stephan Krause
 GER,Stephan Schweiger
+GER,Sven Bräcker
 GER,Sven Dömges
 GER,Sven Meding
 GER,Sven Meier
@@ -610,6 +626,7 @@ GER,Thilo König
 GER,Thomas Afken
 GER,Thomas Gosch
 GER,Thomas Jung
+GER,Thomas Tschentscher
 GER,Thomas Wasilewski
 GER,Thomas Weber
 GER,Thomas Wilbert
@@ -628,6 +645,7 @@ GER,Torsten Simon
 GER,Ulf Denecke
 GER,Ulf Pleßmann
 GER,Ulli Heerdegen
+GER,Ulrich Meyer
 GER,Urs Wihlfahrt
 GER,Ute Oberländer
 GER,Ute Stümpel
@@ -722,6 +740,7 @@ POL,Krzysztof Osiak
 POL,Krzysztof Rzadkowski
 POL,Leszek Świstelnicki
 POL,Łukasz Czaja
+POL,Łukasz Grabia
 POL,Łukasz Paszke
 POL,Łukasz Paszko
 POL,Maciej Goździk
@@ -846,12 +865,14 @@ SWE,Daniel Lundahl
 SWE,Daniel Rodhe
 SWE,David Lawenius
 SWE,Ebbe Rosén
+SWE,Erik Kallin
 SWE,Erik Strandmark
 SWE,Felix Stööp Lindgren
 SWE,Frank Bach
 SWE,Fredrik Hansson
 SWE,Fredrik Molander
 SWE,Galen Mack
+SWE,Gunilla Berg
 SWE,Gustav Franzén
 SWE,Ingrid Söderström
 SWE,Jakob Lindvall
@@ -873,6 +894,7 @@ SWE,Lars Yngfors, Lars Wester
 SWE,Lasse Norberg
 SWE,Leif Danielsson
 SWE,Lennart Andersson
+SWE,Ludwig Moberg
 SWE,Magnus Nilsson
 SWE,Malin Broberg
 SWE,Malin Vångfors
@@ -897,6 +919,7 @@ SWE,Rasmus Tengblad
 SWE,Rita Cording
 SWE,Sven Flood
 SWE,Thomas Jaxing
+SWE,Thomas Jönsson
 SWE,Thomas Lundberg
 SWE,Thomas Moss
 SWE,Tom Hastenpflug

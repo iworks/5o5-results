@@ -30,7 +30,7 @@ Event Start Date,Event End Date,Name,Races,Competitors,Area,Organizer,Secretary,
 2010-07-09,2010-07-11,Polish Championship,9,5,"Zatoka Gdańska,Gdańsk,POL",,,,,,,2010/2010-07-11-mp.csv,National
 2010-08-10,2010-08-16,World Championship,9,125,"Aarhus,DEN",,,,,,,2010/2010-08-16-world-championship-aarhus.csv,World
 2010-09-18,2010-09-19,Dale Jepsen One-Design Regatta,6,11,"Bellingham,WA,USA",Bellingham Yacht Club,Jamie Ashton,Mick Corcoran,,,,2010/country/usa/2010-09-19.dale-jepsen-one-design-regatta.bellingham-wa.USA.csv,
-2011-03-20,2011-04-01,World Championship,7,85,"Hamilton Island,AUS",,,,,,,2011/2011-04-01-world-championship-hamilton-island.csv,World
+2011-03-20,2011-04-01,World Championship,7,85,"Hamilton Island,AUS",,,,,,,2011/world/2011-04-01-world-championship-hamilton-island.csv,World
 2011-09-02,2011-09-04,Polish Championship,9,10,"Zatoka Gdańska,Gdynia,POL",YKP Gdynia,,,,,,2011/2011-09-04-gdynia-mistrzostwa-polski.csv,National
 2011-09-17,2011-09-18,Dale Jepsen One-Design Regatta,7,12,"Bellingham,WA,USA",Bellingham Yacht Club,,Jamie Ashton,,,,2011/country/usa/2011-09-18.dale-jepsen-one-design-regatta.bellingham-wa.USA.csv,
 2012-07-21,2012-07-27,World Championship,9,188,"La Rochelle ,FRA",Société des Régates Rochelaises,Jack Edwards,Pierre Lemaire,,,,2012/world/2012-07-27-world-championships.la-rochelle.france.csv,World
@@ -141,9 +141,15 @@ Event Start Date,Event End Date,Name,Races,Competitors,Area,Organizer,Secretary,
 2019-10-19,2019-10-20,Region II Championships,5,14,"West River,USA",West River Sailing Club and the Bay family,,,,,,2019/country/usa/2019-10-20-region-ii-championships.west-river.USA.csv,
 2020-01-16,2020-01-21,Australian Championship,8,33,"Melbourne,AUS",Royal Brighton Yacht Club,,,,,,2020/country/australia/2020-01-21-australian-championship.melbourne.AUS.csv,National
 2020-02-07,2020-02-09,Midwinter Championship,8,16,"Clearwater,USA",Clearwater Community Sailing Center,,,,,,2020/country/usa/2020-02-09-midwinters.clearwater.USA.csv,
+1992-06-10,1992-06-18,European Championship,5,44,"Hellerup, DEN",Hellerup Sejlklub,,,,,,1992/continental/1992-06-18.european-championship.hellerup.DEN.csv,Continental
+1979-08-03,1979-08-11,European Championship,6,69,"Kiel,GER",Kieler Yacht-Club e.V.,,,,,,1979/continental/1979-08-11.european-championship.kiel.GER.csv,Continental
+1971-06-05,1971-06-11,European Championship,5,83,"Copenhagen, DEN",Skovshoved Yacht Club,,,,,,1971/continental/1971-06-11.european-championship.copenhagen.DEN.csv,Continental
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
 ,,,,,,,,,,,,,
 ,,,,,,,,,,,,,
 1992-08-08,1992-08-20,World Championship,,,"Santa Cruze,USA",,,,,,,,World
 2016-07-14,2016-07-17,Championnat de France,,,"Le Havre,FRA",Société des Régates du Havre,,,,,,,
 1998-09-19,1998-09-25,World Championship,,,"New York,USA",New York Yacht Club,,,,,,,World
 1992-08-08,1992-08-20,World Championship,,,"Santa Cruze,USA",,,,,,,,World
+1981-,1981-,European Championship,6,82,"Riva del Garda,ITA",,,,,,,,
