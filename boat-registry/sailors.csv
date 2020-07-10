@@ -181,6 +181,7 @@ CAN,Rich Mundel
 CAN,Robert Bartlewski
 CAN,Samuel Place
 CAN,Thomas Kivney
+DEN,Anders Kaempe
 DEN,Brian Sørensen
 DEN,Etienne Bourbeau
 DEN,Fabiola Wonterghem
@@ -191,6 +192,7 @@ DEN,Jesper Bülow
 DEN,Jon Andersen
 DEN,Lars Henrik Andersen
 DEN,Lasse Andersen
+DEN,Lasse B. Andersen
 DEN,Laust Castor Lund
 DEN,Michael Wonterghem
 DEN,Morten Ramsbæk
@@ -215,6 +217,7 @@ FRA,Basile Géron
 FRA,Cedric Faucheux
 FRA,Christian Silvestre
 FRA,Christian Vallaud
+FRA,Damien Trouillet
 FRA,David De Monteil
 FRA,Dominique Rouanne
 FRA,Eric Quémard
@@ -313,6 +316,7 @@ GBR,James King
 GBR,James Read
 GBR,Jarrod Simpson
 GBR,Jason Lunn
+GBR,John Ironmonger
 GBR,Jonathan Ward
 GBR,Kevin Holden
 GBR,Kieth Borders
@@ -326,6 +330,7 @@ GBR,Martin Grady
 GBR,Martin Stainsby
 GBR,Mathieu Fountaine
 GBR,Matthew Bristow
+GBR,Michael Nolan
 GBR,Michael Priddle
 GBR,Miles Odell
 GBR,Neil Rabbitts
@@ -353,6 +358,7 @@ GBR,Russell Wheeler
 GBR,Sam Pascoe
 GBR,Scott Allen
 GBR,Simon Briddon
+GBR,Simon Spratt
 GBR,Simon Sydenham
 GBR,Simon Wood
 GBR,Steve Hunt
@@ -374,6 +380,7 @@ GER,Andreas Achterberg
 GER,Andreas Bock
 GER,Andreas Dillmann
 GER,Andreas Happich
+GER,Angela Stenger
 GER,Anika Kébreau
 GER,Anika Wollenbecker
 GER,Anja Grotheer
@@ -393,6 +400,7 @@ GER,Benedict Pearson
 GER,Benedikt Northoff
 GER,Benjamin Gröger
 GER,Bernd Heinisch
+GER,Bernd Kowalzig
 GER,Bernd Rasenack
 GER,Birgit Hartmann
 GER,Bjorn Schaar
@@ -404,6 +412,7 @@ GER,Christian Dörr
 GER,Christian Henge
 GER,Christian Labenz
 GER,Christian Niefert
+GER,Christian Schafer
 GER,Christian Sonntag
 GER,Christina Burger
 GER,Christina Wilhelm
@@ -427,6 +436,7 @@ GER,Finn Böger
 GER,Florian Brix
 GER,Florian Lautenschlager
 GER,Florian Rheinheimer
+GER,Franco Weichel
 GER,Frank Böhm
 GER,Frank Feller
 GER,Frank Heimburger
@@ -452,6 +462,7 @@ GER,Hendrik Annighöfer
 GER,Henning Steffen
 GER,Henrik Schade
 GER,Hermann Wollenbecker
+GER,Hilmer Goedeking
 GER,Horst Sjuts
 GER,Ingo Schneider
 GER,Iris Anton
@@ -536,6 +547,7 @@ GER,Michael Heyder
 GER,Michael Krause
 GER,Michael Müller
 GER,Michael Rehberg
+GER,Michael Schöefer
 GER,Michael Troch
 GER,Micki Daisenberger
 GER,Mitja Hettwer
@@ -557,6 +569,7 @@ GER,Pedro Bohnenberger
 GER,Peter Gerdts
 GER,Peter Kruse
 GER,Peter Wilbert
+GER,Philip Christiani
 GER,Philipp Müller
 GER,Philipp Sudbrack
 GER,Phillipp Müller
@@ -614,6 +627,7 @@ GER,Urs Wihlfahrt
 GER,Ute Oberländer
 GER,Ute Stümpel
 GER,Uwe Krumm
+GER,Uwe Latsch
 GER,Viktoria Warminski
 GER,Volker Böhringer
 GER,Volker Görge
@@ -802,12 +816,14 @@ SUI,Gil Donzé
 SUI,Gilles Petermann
 SUI,Laurent Grob
 SUI,Lionel Hollinger
+SUI,Marcell Plüss
 SUI,Markus Heilig
 SUI,Patrick Ducommun
 SUI,Peter Schweizer
 SUI,Res Schürch
 SUI,Toni Utiger
 SUI,Valery Jacot
+SUI,Yvo Durr
 SWE,Albert Lawenius
 SWE,Alexander Gleerup
 SWE,Anders Avén
@@ -833,6 +849,7 @@ SWE,Fredrik Molander
 SWE,Galen Mack
 SWE,Gustav Franzén
 SWE,Ingrid Söderström
+SWE,Jakob Lindvall
 SWE,Jana Hastenpflug
 SWE,Jesper Fowelin
 SWE,Joakim Peterson
