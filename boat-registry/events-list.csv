@@ -1,10 +1,14 @@
 Event Start Date,Event End Date,Name,Races,Competitors,Area,Organizer,Secretary,Arbiter,Wind direction,Wind power,Post Content,File,Series
+1971-06-05,1971-06-11,European Championship,5,83,"Copenhagen, DEN",Skovshoved Yacht Club,,,,,,1971/continental/1971-06-11.european-championship.copenhagen.DEN.csv,Continental
+1979-08-03,1979-08-11,European Championship,6,69,"Kiel,GER",Kieler Yacht-Club e.V.,,,,,,1979/continental/1979-08-11.european-championship.kiel.GER.csv,Continental
+1992-06-10,1992-06-18,European Championship,5,44,"Hellerup, DEN",Hellerup Sejlklub,,,,,,1992/continental/1992-06-18.european-championship.hellerup.DEN.csv,Continental
 1993-08-30,1993-09-07,World Championship,6,90,"Travemünde,GER",,,,,,,1993/world/1993-09-07.world-chamipionship.travemunde.GER.csv,World
 1994-08-13,1994-08-21,World Championship,6,63,"Medemblik,NED",,,,,,,1994/1994-08-21.world-championships.mademblik-holland.csv,World
 1997-08-10,1997-08-21,World Championship,7,79,"Gilleleje,DEN",GILLELEJE SEJLKLUB,,,,,,1997/1997-world-championships.gilleleje-denmark.csv,World
 1998-05-09,1998-05-16,European Championship,5,36,"Damp,GER",,,,,,,1998/continental/1998-05-16.european-championship.damp.GER.csv,Continental
 1998-07-24,1998-07-26,Euro Cup,6,35,"Hayling Island,GBR",Hayling Island Sailing Club,,,,,,1998/1998-07-26-euro-cup-hayling-island-GBR.csv,Euro Cup
 1998-08-29,1998-08-30,CORK,9,19,"Kingston,ON,CAN",CORK,,,,,,1998/country/canada/1998-08-30-cork-1998.kingston-on.CAN.csv,
+1998-09-19,1998-09-25,World Championship,8,106,"Hyannis, MA, USA",Hyannis Yacht Club,,,,,,1998/world/1998-09-25.world-championship.hyannis-MA.USA.csv,World
 1999-07-04,1999-07-10,World Championship,5,157,"Quiberon,FRA",,,,,,,1999/world/1999-06-10-world-championship-quiberon-france.csv,World
 2000-07-08,2000-07-09,Open Meeting,5,19,"Hayling Island,GBR",Hayling Island Sailing Club,,,,,,2000/2000-07-09-open-meeting-hayling-island-GBR.csv,
 2000-11-11,2000-11-23,World Championship,5,61,"Durban,RSA",,,,,,,2000/world/2000-11-23.world-championship.durban.RSA.csv,World
@@ -24,6 +28,7 @@ Event Start Date,Event End Date,Name,Races,Competitors,Area,Organizer,Secretary,
 2007-08-26,2007-09-01,European Championship,9,53,"Sopot,POL",,Beata Zajkowska,Zbigniew Czubek,"NW,W,W,W,W,W,W,W,NW","9-11,4-6,3-7,3-7,5-9,5-9,2-3,2-7,3-7",,2007/2007-09-01-european-championship.csv,Continental
 2008-03-21,2008-03-23,St. Raphael,3,65,"St. Raphael,FRA",,,,,,,2008/euro-cup/2008-03-23-ec-france-st-raphael.st-raphael.FRA.csv,Euro Cup
 2008-07-07,2008-07-13,World Championship,6,123,"Palermo,ITA",,,,,,,2008/world/2008-world-championship.palermo.ITA.csv,World
+2009-06-24,2009-06-28,European Championship,8,100,"Kiel,GER",,,,,,,2009/continental/2009-06-28.european-championship.kiel.GER.csv,Continental
 2009-08-23,2009-08-30,World Championship,9,98,"San Francisco,USA",St. Francis Yacht Club,,,,,,2009/2009-08-30-world-championship-san-francisco.csv,World
 2009-09-18,2009-09-20,Polish Championship,8,10,"Zatoka Gdańska,Gdynia,POL",,,,,,,2009/2009-09-20-mp.csv,National
 2009-09-19,2009-09-20,Dale Jepsen One-Design Regatta,7,13,"Bellingham,WA,USA",Bellingham Yacht Club,Jamie Ashton,Michele Bodtke,,,,2009/country/usa/2009-09-20.dale-jepsen-one-design-regatta.bellingham-wa.USA.csv,
@@ -141,11 +146,6 @@ Event Start Date,Event End Date,Name,Races,Competitors,Area,Organizer,Secretary,
 2019-10-19,2019-10-20,Region II Championships,5,14,"West River,USA",West River Sailing Club and the Bay family,,,,,,2019/country/usa/2019-10-20-region-ii-championships.west-river.USA.csv,
 2020-01-16,2020-01-21,Australian Championship,8,33,"Melbourne,AUS",Royal Brighton Yacht Club,,,,,,2020/country/australia/2020-01-21-australian-championship.melbourne.AUS.csv,National
 2020-02-07,2020-02-09,Midwinter Championship,8,16,"Clearwater,USA",Clearwater Community Sailing Center,,,,,,2020/country/usa/2020-02-09-midwinters.clearwater.USA.csv,
-1992-06-10,1992-06-18,European Championship,5,44,"Hellerup, DEN",Hellerup Sejlklub,,,,,,1992/continental/1992-06-18.european-championship.hellerup.DEN.csv,Continental
-1979-08-03,1979-08-11,European Championship,6,69,"Kiel,GER",Kieler Yacht-Club e.V.,,,,,,1979/continental/1979-08-11.european-championship.kiel.GER.csv,Continental
-1971-06-05,1971-06-11,European Championship,5,83,"Copenhagen, DEN",Skovshoved Yacht Club,,,,,,1971/continental/1971-06-11.european-championship.copenhagen.DEN.csv,Continental
-2009-06-24,2009-06-28,European Championship,8,100,"Kiel,GER",,,,,,,2009/continental/2009-06-28.european-championship.kiel.GER.csv,Continental
-1998-09-19,1998-09-25,World Championship,8,106,"Hyannis, MA, USA",Hyannis Yacht Club,,,,,,1998/world/1998-09-25.world-championship.hyannis-MA.USA.csv,World
 ,,,,,,,,,,,,,
 ,,,,,,,,,,,,,
 1992-08-08,1992-08-20,World Championship,,,"Santa Cruze,USA",,,,,,,,World
