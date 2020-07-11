@@ -44,14 +44,17 @@ foreach ( $data as $one ) {
 $import_registry = $import_results = $import_sailors = false;
 
 if ( sizeof( $argv ) === 1 ) {
-	echo 'select params:',PHP_EOL;
-	echo '- all',PHP_EOL;
+	echo 'select parts to import:',PHP_EOL;
+	echo '- all (all parts)',PHP_EOL;
 	echo '- registry',PHP_EOL;
 	echo '- sailors',PHP_EOL;
 	echo '- results',PHP_EOL;
 	exit;
 }
 
+/**
+ * Setup import parts
+ */
 if ( in_array( 'all', $argv ) ) {
 	$import_registry = $import_results = $import_sailors = true;
 } else {
@@ -66,7 +69,37 @@ if ( in_array( 'all', $argv ) ) {
 	}
 }
 
-$persons = array();
+/**
+ * import sailors
+ */
+if ( $import_sailors && ( $handle = fopen( 'sailors.csv', 'r' ) ) !== false ) {
+	echo PHP_EOL,'IMPORT: sailors.csv',PHP_EOL;
+	while ( ( $data = fgetcsv( $handle, 0, ',' ) ) !== false ) {
+		if ( isset( $data[1] ) && ! empty( $data[1] ) ) {
+			$p = person_clear_name( $data[1] );
+			if ( empty( $p ) ) {
+				continue;
+			}
+			$post = get_page_by_title( $p, OBJECT, $person_post_type_name );
+			if ( ! empty( $post ) ) {
+				echo 'x';
+				continue;
+			}
+			echo '.';
+			$post_array = array(
+				'post_title'  => $p,
+				'post_type'   => $person_post_type_name,
+				'post_status' => 'publish',
+				'meta_input'  => array(
+					'iworks_fleet_personal_nation' => trim( $data[0] ),
+				),
+			);
+			wp_insert_post( $post_array );
+		} else {
+			echo 'x';
+		}
+	}
+}
 
 $rows = array();
 if ( $import_registry && ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) {
@@ -398,38 +431,6 @@ if ( $import_registry && ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) 
 	wp_update_term_count_now( $update_terms, $taxonomy_name_manufacturer );
 
 	fclose( $handle );
-}
-
-/**
- * import sailors
- */
-if ( $import_sailors && ( $handle = fopen( 'sailors.csv', 'r' ) ) !== false ) {
-	echo PHP_EOL,'IMPORT: sailors.csv',PHP_EOL;
-	while ( ( $data = fgetcsv( $handle, 0, ',' ) ) !== false ) {
-		if ( isset( $data[1] ) && ! empty( $data[1] ) ) {
-			$p = person_clear_name( $data[1] );
-			if ( empty( $p ) ) {
-				continue;
-			}
-			$post = get_page_by_title( $p, OBJECT, $person_post_type_name );
-			if ( ! empty( $post ) ) {
-				echo 'x';
-				continue;
-			}
-			echo '.';
-			$post_array = array(
-				'post_title'  => $p,
-				'post_type'   => $person_post_type_name,
-				'post_status' => 'publish',
-				'meta_input'  => array(
-					'iworks_fleet_personal_nation' => trim( $data[0] ),
-				),
-			);
-			wp_insert_post( $post_array );
-		} else {
-			echo 'x';
-		}
-	}
 }
 
 /**
