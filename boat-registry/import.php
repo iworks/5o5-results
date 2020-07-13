@@ -23,7 +23,16 @@ $_SERVER['HTTP_HOST'] = 'int505';
 
 error_reporting( E_ALL );
 
-require '/var/virtuals/wordpress/wp-load.php';
+if ( ! is_file( 'config.php' ) ) {
+	echo 'ERROR!', PHP_EOL;
+	echo 'Please create `config.php` file with WordPress location!',PHP_EOL;
+	echo 'You can copy `config.example.php`.',PHP_EOL,PHP_EOL;
+	die;
+}
+
+require 'config.php';
+require $wordpress_path . '/wp-load.php';
+// require '/var/virtuals/wordpress/wp-load.php';
 require 'functions.php';
 
 global $wpdb;
