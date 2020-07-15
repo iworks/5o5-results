@@ -2203,7 +2203,7 @@ Sail No,Year Built,Builder,Name,Hull material,Description,First Owner,Subsequent
 8480,,,,,,,,,,,GER,,
 8481,1992,Rondar,,,won '95 Worlds,Jeremy Robinson,,Bill Masterman,,,GBR,,
 8482,,Rondar,,,,Bob Clarkson,,Christian Engl& Clemens Pirker,,Innsbruck,AST,,
-8483,,Rondar,,,,,,Mariusz Michalski,"Poland, North",Gdańsk,POL,11,
+8483,,Rondar,,,,,,Mariusz Michalski,"Poland, North",Gdańsk,POL,11,#fff;blue;#fff
 8484,1993,Rondar,,,,Robert Lehmann,,,,Strasbourg,FRA,,
 8485,,Kyrwood,,,,Frederik Huck,Michael Fischer,Ratko Stibric '05,,Zagreb,CRO,,
 8486,1993,Duvoisin,,foam epoxy,,,,Simone Zuend,,,SUI,,
@@ -2473,7 +2473,7 @@ Sail No,Year Built,Builder,Name,Hull material,Description,First Owner,Subsequent
 8766,2001,Rondar,,,,Frank Maldari,,,,Andover MA,USA,,
 8767,2001,Rondar,,,,Francois-Xavier Bertrand,Steve Yates,Michael Breton '04,Fleet 19,,USA,,
 8768,2000,Kulmar,,,,Johan Barne,,Matti Pentti/ Otto Toivanen '04,,Helsinki,FIN,,
-8769,2001,Mader,,,,,,,,,GER,,
+8769,2001,Mader,,,,,,,,,POL,,#fff;#ddd;#fff
 8770,,,,,,,,,,,FRA,,
 8771,,,,,,,,,,,FRA,,
 8772,,,,,,,,,,,GER,,
