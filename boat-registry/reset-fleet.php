@@ -19,10 +19,6 @@ if ( isset( $_SERVER['SERVER_NAME'] ) ) {
 	die( 'not allow with www' );
 }
 
-$_SERVER['HTTP_HOST'] = 'int505';
-
-error_reporting( E_ALL );
-
 if ( ! is_file( 'config.php' ) ) {
 	echo 'ERROR!', PHP_EOL;
 	echo 'Please create `config.php` file with WordPress location!',PHP_EOL;
@@ -35,6 +31,28 @@ require $wordpress_path . '/wp-load.php';
 
 global $wpdb;
 
-print_r( $wpdb );
+$truncate = array(
+	'fleet_regatta',
+	'fleet_regatta_race',
+);
+foreach ( $truncate as $table ) {
+	$wpdb->query( sprintf( 'truncate %s%s', $wpdb->prefix, $table ) );
+	echo $wpdb->last_query,PHP_EOL;
+}
+
+$post_types = array(
+	'iworks_fleet_boat',
+	'iworks_fleet_person',
+	'iworks_fleet_result',
+);
+
+
+foreach ( $post_types as $post_type ) {
+	$wpdb->delete( $wpdb->posts, array( 'post_type' => $post_type ) );
+	echo $wpdb->last_query,PHP_EOL;
+}
+
+$wpdb->query( sprintf( 'DELETE pm FROM %s pm LEFT JOIN %s wp ON wp.ID = pm.post_id WHERE wp.ID IS NULL', $wpdb->postmeta, $wpdb->posts ) );
+echo $wpdb->last_query,PHP_EOL;
 
 

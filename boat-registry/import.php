@@ -18,11 +18,6 @@
 if ( isset( $_SERVER['SERVER_NAME'] ) ) {
 	die( 'not allow with www' );
 }
-
-$_SERVER['HTTP_HOST'] = 'int505';
-
-error_reporting( E_ALL );
-
 if ( ! is_file( 'config.php' ) ) {
 	echo 'ERROR!', PHP_EOL;
 	echo 'Please create `config.php` file with WordPress location!',PHP_EOL;
