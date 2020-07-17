@@ -19,24 +19,24 @@ require 'functions.php';
 
 $persons = array();
 
-$csv = true;
+$csv   = true;
 $debug = false;
 
 
-foreach( $argv as $arg ) {
-    switch( $arg ) {
-    case 'cli':
-        $csv = false;
-        break;
-    case 'debug':
-        $debug = true;
-        break;
-    }
+foreach ( $argv as $arg ) {
+	switch ( $arg ) {
+		case 'cli':
+			$csv = false;
+			break;
+		case 'debug':
+			$debug = true;
+			break;
+	}
 }
 
 $separtor = ';';
 if ( ! $csv ) {
-    $separtor = ' => ';
+	$separtor = ' => ';
 }
 
 
@@ -71,16 +71,16 @@ if ( ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) {
 	fclose( $handle );
 }
 if ( ( $handle = fopen( 'sailors.csv', 'r' ) ) !== false ) {
-    echo PHP_EOL,'IMPORT sailors.csv',PHP_EOL;
-    while ( ( $data = fgetcsv( $handle, 0, ',' ) ) !== false ) {
-        echo '.';
-        if ( isset( $data[1] ) && ! empty( $data[1] ) ) {
-            $p = person_clear_name( $data[1] );
-            if ( ! in_array( $p, $persons ) ) {
-                $persons[] = $p;
-            }
-        }
-    }
+	echo PHP_EOL,'IMPORT sailors.csv',PHP_EOL;
+	while ( ( $data = fgetcsv( $handle, 0, ',' ) ) !== false ) {
+		echo '.';
+		if ( isset( $data[1] ) && ! empty( $data[1] ) ) {
+			$p = person_clear_name( $data[1] );
+			if ( ! in_array( $p, $persons ) ) {
+				$persons[] = $p;
+			}
+		}
+	}
 }
 
 $compared = array();
