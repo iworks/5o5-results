@@ -15,19 +15,6 @@
  *
  */
 
-if ( isset( $_SERVER['SERVER_NAME'] ) ) {
-	die( 'not allow with www' );
-}
-if ( ! is_file( 'config.php' ) ) {
-	echo 'ERROR!', PHP_EOL;
-	echo 'Please create `config.php` file with WordPress location!',PHP_EOL;
-	echo 'You can copy `config.example.php`.',PHP_EOL,PHP_EOL;
-	die;
-}
-
-require 'config.php';
-require $wordpress_path . '/wp-load.php';
-// require '/var/virtuals/wordpress/wp-load.php';
 require 'functions.php';
 
 global $wpdb;

@@ -1,4 +1,20 @@
 <?php
+error_reporting( E_ALL );
+
+if ( isset( $_SERVER['SERVER_NAME'] ) ) {
+	die( 'not allow with www' );
+}
+
+if ( ! is_file( 'config.php' ) ) {
+	echo 'ERROR!', PHP_EOL;
+	echo 'Please create `config.php` file with WordPress location!',PHP_EOL;
+	echo 'You can copy `config.example.php`.',PHP_EOL,PHP_EOL;
+	die;
+}
+
+require 'config.php';
+
+require $wordpress_path . '/wp-load.php';
 
 function show_debug() {
 	return false;
@@ -39,8 +55,8 @@ function person_clear_name( $name ) {
 	$is_person = check_is_person( $name );
 	if ( $is_person ) {
 		$name = trim( preg_replace( '/[A-Z]{2,3}$/', '', $name ) );
-        $name = trim( preg_replace( $re, '', $name ) );
-        $name = preg_replace( '/ /', ' ', $name );
+		$name = trim( preg_replace( $re, '', $name ) );
+		$name = preg_replace( '/ /', ' ', $name );
 	}
 	return trim( apply_filters( 'iworks_fleet_result_clear_person_name', $name ) );
 }
