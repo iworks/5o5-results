@@ -174,12 +174,12 @@ Event Start Date,Event End Date,Name,Races,Competitors,Area,Organizer,Secretary,
 1998-10-24,1998-10-25,Hoosier Regatta,7,9,"Bloomington, Indiana, USA",Indiana University Yacht Club,,,,,,1998/country/usa/1998-10-25.hoosier-regatta.bloomington.USA.csv,,Lake Lemon,
 1998-08-01,1998-08-01,Zimbabwe Championship,12,9,"Kariba, Zimbabwe ",,,,,,,1998/country/zimbabwe/1998-08-01.zimbabwe-championship.kariba.ZIM.csv,National,Kariba,ZIM
 1998-08-29,1998-08-29,Pacific Coast Championship,5,18,"Richmond,CA,USA",Richmond Yacht Club,,,,,,1998/country/usa/1998-08-29.pacific-coast-championship.richmond.USA.csv,,,
-2016-09-03,2016-09-04,National Espoirs,6,18,"Anse de la Picarde, FRA",Club Nautique Haute Seine,,,,,,2016/country/belgium/2016-09-04.national-espoirs.anse-de-la-picarde.FRA.csv,National,,BEL
-2017-09-02,2017-09-03,National Espoirs,8,16,"Anse de la Picarde, FRA",Club Nautique Haute Seine,,,,,,2017/country/belgium/2017-09-03.national-espoirs.anse-de-la-picarde.FRA.csv,National,,BEL
-2015-09-05,2015-09-06,National Espoirs,8,23,"Anse de la Picarde, FRA",Club Nautique Haute Seine,,,,,,2015/country/belgium/2015-09-06.national-espoirs.anse-de-la-picarde.FRA.csv,National,,BEL
-2014-09-06,2014-09-07,National Espoirs,3,19,"Anse de la Picarde, FRA",Club Nautique Haute Seine,,,,,,2014/country/belgium/2014-09-07.national-espoirs.anse-de-la-picarde.FRA.csv,National,,BEL
-2010-07-03,2010-07-04,National Espoirs,7,7,"Anse de la Picarde, FRA",Club Nautique Haute Seine,,,,,,2010/country/belgium/2010-07-04.national-espoirs.anse-de-la-picarde.FRA.csv,National,,BEL
-2012-09-01,2012-09-02,National Espoirs,7,23,"Anse de la Picarde, FRA",Club Nautique Haute Seine,,,,,,2012/country/belgium/2012-09-01.national-espoirs.anse-de-la-picarde.FRA.csv,National,,BEL
+2016-09-03,2016-09-04,National Espoirs,6,18,"Anse de la Picarde, FRA",Club Nautique Haute Seine,,,,,,2016/country/belgium/2016-09-04.national-espoirs.anse-de-la-picarde.FRA.csv,,,
+2017-09-02,2017-09-03,National Espoirs,8,16,"Anse de la Picarde, FRA",Club Nautique Haute Seine,,,,,,2017/country/belgium/2017-09-03.national-espoirs.anse-de-la-picarde.FRA.csv,,,
+2015-09-05,2015-09-06,National Espoirs,8,23,"Anse de la Picarde, FRA",Club Nautique Haute Seine,,,,,,2015/country/belgium/2015-09-06.national-espoirs.anse-de-la-picarde.FRA.csv,,,
+2014-09-06,2014-09-07,National Espoirs,3,19,"Anse de la Picarde, FRA",Club Nautique Haute Seine,,,,,,2014/country/belgium/2014-09-07.national-espoirs.anse-de-la-picarde.FRA.csv,,,
+2010-07-03,2010-07-04,National Espoirs,7,7,"Anse de la Picarde, FRA",Club Nautique Haute Seine,,,,,,2010/country/belgium/2010-07-04.national-espoirs.anse-de-la-picarde.FRA.csv,,,
+2012-09-01,2012-09-02,National Espoirs,7,23,"Anse de la Picarde, FRA",Club Nautique Haute Seine,,,,,,2012/country/belgium/2012-09-01.national-espoirs.anse-de-la-picarde.FRA.csv,,,
 2018-04-14,2018-04-15,Coupe des vrais bateaux,4,24,"Anse de la Picarde, FRA",Club Nautique Haute Seine,,,,,,2018/country/france/2018-04-15.coupe-des-vrais-bateaux.anse-de-la-picarde.FRA.csv,,,
 2017-04-15,2017-04-17,Coupe des vrais bateaux,11,31,"Anse de la Picarde, FRA",Club Nautique Haute Seine,,,,,,2017/country/france/2017-04-17.coupe-des-vrais-bateaux.anse-de-la-picarde.FRA.csv,,,
 ,,,,,,,,,,,,,,,
