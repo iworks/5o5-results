@@ -23,7 +23,7 @@ GBR 9088,Andy Smith,Tim Needham,NOTTS COUNTY SC - Great Britain,4,8,(DSQ 189),19
 USA 8722,Macy Nelson,Parry Barclay,WEST RIVER - United States Of America,24,(41),15,10,22,20,(29),28,17,206,136,22
 USA 8715,Ethan Bixby,Christopher Brady,United States Of America,(37),25,22,15,20,22,28,(99),20,288,152,23
 SWE 8926,Ebbe Rosen,Olle Wenrup,MKS - Sweden,35,13,(48),4,44,38,9,(82),19,292,162,24
-FRA 9075,Philippe Boite,Pierre Jean  Gallo,C V ST QUENTIN - France S R HAVRE,7,40,28,(61),10,16,8,53,(DSQ 189),412,162,25
+FRA 9075,Philippe Boite,Pierre Jean Gallo,C V ST QUENTIN - France S R HAVRE,7,40,28,(61),10,16,8,53,(DSQ 189),412,162,25
 AUS 9036,Michael Quink,Daryl Roos,WSC - Australia,16,20,7,(48),17,(47),31,26,45,257,162,26
 FRA 8900,Serge Gubri,Thibault Di Pede,C V SEINE-PORT - France C V SEINE-PORT,(DNF 189),57,(60),16,3,27,47,3,32,434,185,27
 GBR 9057,Chris Lewis,Dan Parsons,WHITSTABLE YACHT CLUB - Great Britain,25,27,33,20,(52),35,26,19,(36),273,185,28
@@ -77,7 +77,7 @@ FRA 8909,Francis Doerenbecher,Philippe Wolff,C N DE SCIEZ - France AC ALSACE LOR
 GER 8825,Michael Troch,Eckart Koenig,SGJ - Germany,53,56,80,(110),(104),89,79,50,82,703,489,76
 FRA 9010,Baptiste Lafortune,Gilles Carvallo,C V SEINE-PORT - France C N HAUTE SEINE,50,84,86,75,50,(DSQ 189),(124),75,72,805,492,77
 FRA 8733,Luc Gellusseau,Frederic Beauchene,CNPA ILE DE RE - France Y C DE LA BAULE,93,(106),69,(98),69,79,70,23,90,697,493,78
-SWE 8651,Peter Andersson,Per-Eric  Thornstrom,SS VIKEN AGIR - Sweden,(100),78,66,65,71,72,84,(93),61,690,497,79
+SWE 8651,Peter Andersson,Per-Eric Thornstrom,SS VIKEN AGIR - Sweden,(100),78,66,65,71,72,84,(93),61,690,497,79
 SWE 8787,Lars Bjerke,Tore Reinhold,BKSS - Sweden,(102),83,(89),53,59,83,72,79,74,694,503,80
 FRA 8961,Marc Vibert,Bertrand Lapeyre,C.V.M.L - France S N P H,76,77,61,(90),65,(146),67,86,88,756,520,81
 GER 8903,Steve Kwee,Thorsten Spotter,HSC - Germany,90,69,83,(108),77,(138),64,66,75,770,524,82
@@ -116,7 +116,7 @@ SUI 8727,Lorenz Nydegger,Martin Nydegger,Switzerland,(141),(139),107,88,110,99,1
 USA 6931,Stine Cacavas,Bill Mc Kinney,WSASMB - United States Of America,(144),115,117,71,(125),104,109,90,124,999,730,115
 FRA 8711,Jerome Maupay,Francois Caminade,Y C Grenoble Chara - France Y C Grenoble Chara,(143),110,112,(138),133,77,95,97,115,1020,739,116
 GER 8843,Olivier Kraft,Franck Heimburger,SSCM - Germany,97,112,87,104,120,87,(137),133,(136),1013,740,117
-GER 8966,Walter Steding,Hans-Herner  Steding,HAMBURGER S C - Germany,118,113,115,109,80,101,(130),106,(123),995,742,118
+GER 8966,Walter Steding,Hans-Herner Steding,HAMBURGER S C - Germany,118,113,115,109,80,101,(130),106,(123),995,742,118
 BEL 8742,Frederic Decoq,Gilles Bernon,SNEH - Belgium,104,122,111,(154),89,96,81,139,(147),1043,742,119
 FRA 9086,Elisabeth Neidhart,Matthieu Gougeon,C.V.M.L - France C.V.M.L,117,81,96,(137),(132),107,116,120,109,1015,746,120
 FRA 8902,Gerard Tilly,Xavier Tilly,A.S.N. PERROS - France A.S.N. PERROS,126,137,99,111,123,(145),(147),74,83,1045,753,121
@@ -140,7 +140,7 @@ FRA 8949,Philippe Duquesne,Laurent Duquesne,S N O NANTES - France S R ROCHELAISE
 IRL 7771,Brian Jones,Gary Frost,MONKSTOWN BAY SAILING CLUB - Ireland,130,105,101,142,131,158,(DNF 189),(--- 189),113,1258,880,139
 GBR 9077,Peter Mee,James Mee,REAL CLUB NAUTICO DE PALMA - Great Britain,(161),96,91,(DNF 189),155,148,129,124,142,1235,885,140
 AUS 8943,Brett Bowden,Alexandre Nevo,ROYAL B RIGHTON YACHT CLUB - Australia ASPTT LA ROCHELLE,96,138,125,131,(141),125,134,136,(DNF 189),1215,885,141
-FRA 8717,Eric Vassor,Pierre Yves  Chene,USAM VOILE - France USAM VOILE,127,145,108,148,146,(DNF 189),97,(152),130,1242,901,142
+FRA 8717,Eric Vassor,Pierre Yves Chene,USAM VOILE - France USAM VOILE,127,145,108,148,146,(DNF 189),97,(152),130,1242,901,142
 GER 6817,Ralf Schneidewind,Oliver Schurmann,SLRV - Germany,136,119,(148),140,138,111,138,143,(151),1224,925,143
 ITA 8671,Giacinto Piacquado,Andrea Messina,YACHT CLUB CERN - Italy,(158),(DNF 189),97,125,144,152,144,117,148,1274,927,144
 FRA 8567,Pierre-Jerome Coulmin,Vincent Peter,WIND 14 - France WIND 14,109,104,130,(167),134,155,(DNF 189),159,138,1285,929,145
@@ -152,7 +152,7 @@ FRA 8704,Lawrence Banahan,Gilles Casanova,C N. Saint - Rapha�l - France Club V
 FRA 8032,Riwanon Le Roy,Nayl Driss,ASN QUIBERON - France CROCODILES L ELORN,151,144,137,162,(164),135,91,141,(164),1289,961,151
 GBR 8694,Jeremy White,Matt Isherwood,DRAYCOTE SC - Great Britain,122,99,104,133,140,(DNF 189),(--- 189),--- 189,DNF 189,1354,976,152
 GBR 8726,Fergus Duncanson,Graham Moss,LOCH LOMOND SAILING CLUB - Great Britain,99,94,(DNF 189),145,139,(DSQ 189),DNF 189,122,DNF 189,1355,977,153
-FRA 8542,Philippe Leroy,Marc-Henri  Guitteny,S N O NANTES - France S N O NANTES,(165),130,156,(159),158,136,142,134,144,1324,1000,154
+FRA 8542,Philippe Leroy,Marc-Henri Guitteny,S N O NANTES - France S N O NANTES,(165),130,156,(159),158,136,142,134,144,1324,1000,154
 FRA 8880,Emmanuel Mouclier,Jean Claude Ancelot,C.V.M.L - France S N O NANTES,133,148,132,112,(DNF 189),(DNF 189),DNF 189,150,139,1381,1003,155
 FRA 8326,David De Monteil,Aymeric Essertel,S R ROCHELAISES - France SRT,150,(DNF 189),141,126,149,143,(DNF 189),140,154,1381,1003,156
 FRA 8429,Jean Charles Zimmowitch,Romaric Zimmowitch,V G A ST MAUR VOILE - France V G A ST MAUR VOILE,(164),133,160,156,143,134,143,(DNF 189),134,1356,1003,157
@@ -184,6 +184,6 @@ FRA 8885,Jean Baptiste Dupont,Jean Claude Ancelot,C .V. de PARIS - France S N O 
 FRA 7740,Charles Dupuis,Roger Dupuis,S R DIVES HOULGATE - France S R DIVES HOULGATE,(DNF 189),(DNF 189),DNF 189,DNF 189,167,DNF 189,DNF 189,D+D 189,166,1656,1278,183
 FRA 8895,Paul Bendiyan,Georges Bendiyan,AC ALSACE LORRAINE - France AC ALSACE LORRAINE,155,(DNF 189),(DNF 189),DNF 189,DNF 189,DNF 189,--- 189,--- 189,--- 189,1667,1289,184
 FRA 8455,Laurent Michel,Cyril Golenko,C V A N NANTES - France C V A N NANTES,(DNS 189),(DNS 189),167,DNF 189,DNF 189,DNF 189,--- 189,--- 189,--- 189,1679,1301,185
-FRA 7396,Thomas Soinard,Jean-Claude  Soinard,C.V.M.L - France C.V.M.L,(DNF 189),(DNF 189),DNF 189,DNF 189,DNF 189,DNF 189,DNF 189,--- 189,--- 189,1701,1323,186
+FRA 7396,Thomas Soinard,Jean-Claude Soinard,C.V.M.L - France C.V.M.L,(DNF 189),(DNF 189),DNF 189,DNF 189,DNF 189,DNF 189,DNF 189,--- 189,--- 189,1701,1323,186
 FRA 8484,Philippe Blanchard,,AC ALSACE LORRAINE - France,(DNC 189),(DNC 189),DNC 189,DNC 189,DNC 189,DNC 189,DNC 189,DNC 189,DNC 189,1701,1323,186
 FRA 8871,Alain Preel,Michel Laugerotte,C V ST AUBIN S/MER - France Y C DER,(DNF 189),(DNC 189),DNF 189,DNF 189,DNF 189,DNF 189,--- 189,--- 189,--- 189,1701,1323,186

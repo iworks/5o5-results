@@ -1,8 +1,3 @@
-RSA,Robert Crisp
-AUS,Graeme Murphy
-AUS,Dave Atwell
-GBR,Tim Williams
-GBR,Matt Alavado
 AUS,Adam Brenz-Verca
 AUS,Adam Wyatt
 AUS,Adrian Finglas
@@ -40,6 +35,7 @@ AUS,Darren Gilbert
 AUS,Darren Nicholson
 AUS,Darryl Roos
 AUS,Daryl Roos
+AUS,Dave Atwell
 AUS,Dave Christie
 AUS,David Alexander
 AUS,David Christie
@@ -55,6 +51,7 @@ AUS,Gary Rushton
 AUS,Geoff Lange
 AUS,Gilbert Ford
 AUS,Glen Stewart
+AUS,Graeme Murphy
 AUS.Graeme Murphy
 AUS,Grahame Tindall
 AUS,Grant Abbott
@@ -189,6 +186,7 @@ BEL,Geert De Pauw
 BEL,Jeroen Smeets
 BEL,Kim Van Assche
 BEL,Stijn Oyen
+BEL,Théo Geeraerts
 BEL,Toon Van Assche
 CAN,Adam Bookman
 CAN,Adam Gesing
@@ -274,76 +272,158 @@ FIN,Juhani Heimsch
 FIN,Lauri Kääpä
 FIN,Rosemarie Hartman
 FIN,Ville Tarvo
+FRA,Adrien Lafortune
 FRA,Alain Chartier
+FRA,Alain Karadjian
+FRA,Alexandre Boite
+FRA,Alexandre Boite Florian Corbel
+FRA,Alexandre Morteau
 FRA,Aline Martin
+FRA,Amaury Louin
+FRA,Anaelle Couvreux
+FRA,Anais Dechauffour
+FRA,Anais Pain
 FRA,Anna Marie de Kergariou
+FRA,Antoine De Nijs
+FRA,Antoine Delagrange
 FRA,Antoine Lafortune
 FRA,Antoine Victor
+FRA,Antonin Robe
+FRA,Aristide Gasquet
+FRA,Augustin Doumic
+FRA,Aurelien Pierroz
+FRA,Baptiste Galaup
+FRA,Baptiste Lafortune
 FRA,Basile Géron
+FRA,Bastian Le Morvan
+FRA,Bastien Couvreux
+FRA,Benoit Dijoux
+FRA,Benoit Morane
 FRA,Cedric Faucheux
+FRA,Celine Chevet
 FRA,Christian Silvestre
 FRA,Christian Vallaud
+FRA,Ciret-Lecosquer Madeg
 FRA,Claire Carvallo
+FRA,Clement Card
 FRA,Damien Trouillet
 FRA,David De Monteil
 FRA,Dominique Rouanne
+FRA,Edouard Morin
+FRA,Elisabeth Neidhart
+FRA,Eric Basset
+FRA,Eric Le Morvan
 FRA,Eric Quémard
+FRA,Eric Valery
 FRA,Erwan Grossmann
 FRA,Fabrice Bouton
 FRA,Fabrice Toupet
+FRA,Florent Duplouy
 FRA,Florian Corbel
 FRA,Franck Agrapart
 FRA,Francois Caminade
+FRA,Francois De Lisle
 FRA,François de Lisle
+FRA,Francois Lafortune
 FRA,Frédéric Monnier
 FRA,Frederic Roucayrol
+FRA,Gabin Micoulot
 FRA,Geraud Lafortune
+FRA,Ghislain De Lafforest
 FRA,Gilles Carvallo
 FRA,Gilles Chapelin
 FRA,Guillaume de Kergariou
+FRA,Guillaume Faugier
+FRA,Guillaume Regnier
 FRA,Herve Brillaud
+FRA,Hugues Morane
+FRA,Jean Charles Zimmowitch
+FRA,Jean Claude Ancelot
 FRA,Jean Luc Muzellec
+FRA,Jean Philippe Artielle
 FRA,Jean Philippe Chartier
 FRA,Jean-Baptiste Dupont
+FRA,Jean-Claude Ancelot
 FRA,Jean-Guy Puissant
 FRA,Jean-Luc Muzellec
+FRA,Jean-Pierre Derungs
 FRA,Jean-Pierre Peter
+FRA,Jerome Zimmowitch
+FRA,Jordane Lafortune
+FRA,Jules Ducelier
+FRA,Julien Lafortune
+FRA,Julien Lovadina
+FRA,July-Wormit Mareva
+FRA,Killian Zimmowitch
 FRA,Kleber Valery
 FRA,Lancelot Lippi
 FRA,Laurent Duquesne
 FRA,Laurent Michel
 FRA,Loic Bleuez
+FRA,Louis Claude
+FRA,Louise Acker
+FRA,Marc Desjuzeur
 FRA,Marcel Buffet
 FRA,Marc-Henri Guitteny
+FRA,Marine Delagrange
+FRA,Marion Michel
+FRA,Mathieu Fountaine
 FRA,Matthieu Gougeon
 FRA,Matthieu Guibbal
+FRA,Maxime Aroux
+FRA,Michel Nedelec
+FRA,Morgane Suquart
 FRA,Muriel Agrapart
+FRA,Muriel Jeanne
 FRA,Nicolas Auberger
 FRA,Nicolas Croce
 FRA,Nicolas Guillou
+FRA,Nicolas Martin
 FRA,Nicolas Michel
 FRA,Nicolas Picquerey
+FRA,Paul Alric
+FRA,Paul Cousin
+FRA,Paul Roche
 FRA,Philippe Boite
 FRA,Philippe Dubuc
 FRA,Philippe Leroy
 FRA,Philippe Lucienne
+FRA,Philippe Vandersteen
 FRA,Pierre Chene Yves
 FRA,Pierre de Kergariou
 FRA,Pierre Gendry
 FRA,Pierre Guibbal
 FRA,Pierre Jean Gallo
+FRA,Pierre Penisson
+FRA,Pierre Williot
+FRA,Romain Adnot
 FRA,Romain Delmotte
+FRA,Romain Thivillier
+FRA,Romain Thivilliers
+FRA,Romaric Zimmowitch
 FRA,Sabine Dechauffour
 FRA,Samuel Carvallo
+FRA,Sebastien Le Bouteiller
+FRA,Sebastien Rauly
 FRA,Serge Gubri
 FRA,Simon Chartier
+FRA,Stephane Maisse
+FRA,Tamara Ritvo
+FRA,Theo Dutrieux
 FRA,Thibault Di Pede
+FRA,Thibault Vincent
+FRA,Thibaut Vincent
 FRA,Thomas Pype
+FRA,Thomas Soinard
+FRA,Tom Roussel
 FRA,Valentin Dechauffour
+FRA,Valentin Guerin
 FRA,Veronique Brenet
+FRA,Vincent Le Morvan
 FRA,Vivien Lucienne
 FRA,Xavier Broise
 FRA,Yann Plathier
+FRA,Yhéo Geeraerts
 FRA,Yves Coltier
 GBR,Alan Montague
 GBR,Alastair Milton
@@ -433,6 +513,7 @@ GBR,Martin Hood
 GBR,Martin Stainsby
 GBR,Martin Wedge
 GBR,Mathieu Fountaine
+GBR,Matt Alavado
 GBR,Matthew Bristow
 GBR,Michael Nolan
 GBR,Michael Priddle
@@ -481,9 +562,6 @@ GBR,Simon Wood
 GBR,Steve Adams
 GBR,Steve Hunt
 GBR,Stewart Mears
-GER,Rainer Kremkow
-FRA,Florent Duplouy
-FRA,Jean-Claude Ancelot
 GBR,Stuart Curtis
 GBR,Suzanne Mcdermott
 GBR,Terry Scutcher
@@ -491,6 +569,7 @@ GBR,Terry Selfe
 GBR,Thomas Bruton
 GBR,Tim Bird
 GBR,Tim Needham
+GBR,Tim Williams
 GBR,Tom Clayton
 GBR,Tom Darling
 GBR,Tom Stivano
@@ -724,6 +803,7 @@ GER,Phillipp Müller
 GER,Pia Wiesbauer
 GER,Raik Wollenbecker
 GER,Rainer Görge
+GER,Rainer Kremkow
 GER,Ralf Breitenfeldt
 GER,Reimund Bauer
 GER,Ricarda Wolf
@@ -932,7 +1012,6 @@ POL,Paweł Kluczyński,2000,AZS Poznań
 POL,Paweł Nawrocki
 POL,Paweł Prus
 POL,Paweł Różycki
-POL,Paweł Różycki
 POL,Paweł Rzepecki
 POL,Paweł Strzelecki
 POL,Piotr Duma,1978,
@@ -977,6 +1056,7 @@ POL,Zbisław Lasek
 RSA,Albrecht Holm
 RSA,Alexander Ham
 RSA,Anthony Parker
+RSA,Brett von Budenbrock
 RSA,Bronwen Klaas
 RSA,Dirk Rother
 RSA,Euan Hurter
@@ -989,6 +1069,7 @@ RSA,Kobus Holtzhausen
 RSA,Kyle Klaas
 RSA,Peter Funke
 RSA,Peter Roos
+RSA,Robert Crisp
 RSA,Robert von Gruenewaldt
 RSA,Rudolph Holm
 RSA,Ryan Robinson
@@ -1100,6 +1181,7 @@ SWE,Wilhelm Johannisson
 SWE,Wille Johanisson
 USA,Adam Lowry
 USA,Adam Wolnikowski
+USA,Alan Freedman
 USA,Alan Norman
 USA,Alex Simanis
 USA,Alexander Meller
@@ -1110,6 +1192,7 @@ USA,Andrew Sutton
 USA,Andrew Zinn
 USA,Andy Forman
 USA,Andy Zinn
+USA,Angela Breeden
 USA,Anne Fitzpatrick
 USA,Annie Fitzpatrick
 USA,Augie Diaz
@@ -1172,6 +1255,7 @@ USA,Gabe Hill
 USA,Gabriel Watson
 USA,Gareth Fletcher
 USA,Gareth Williams
+USA,Geoff Cashman
 USA,Geoff Ewenson
 USA,Gerard Kivney
 USA,Graham Alexander
@@ -1184,6 +1268,7 @@ USA,Ian Conners
 USA,Ian McKeige
 USA,Ian O'Leary
 USA,Jan Aase
+USA,Jason Breeden
 USA,Jason Bright
 USA,Jay Smith
 USA,Jeffrey Krusniak
@@ -1207,11 +1292,6 @@ USA,Ki Kaiser
 USA,Kirk Twardowski
 USA,Krysia Pohl
 USA,Kyle Pfrang
-USA,Alan Freedman
-USA,Jason Breeden
-USA,Angela Breeden
-USA,Geoff Cashman
-USA,Phil Termin
 USA,Langdon Foley
 USA,Langdon Junge
 USA,Larry Rosenfield
@@ -1229,10 +1309,10 @@ USA,Matt Sanders
 USA,Matthew Barry
 USA,Michael Agrell
 USA,Michael Breault
+USA,Michael Coe
 USA,Michael Curtin
 USA,Michael Martin
-USA,Michael Coe
-USA,Rene de la Rie
+USA,Michael Zimmerman
 USA,Mike Holt
 USA,Mike Mills
 USA,Mike Poulos
@@ -1241,7 +1321,6 @@ USA,Mike Punnett
 USA,Mike Smith
 USA,Mike Welch
 USA,Mike Zani
-USA,Michael Zimmerman
 USA,Miles Johannessen
 USA,Neal Fowler
 USA,Ned Turney
@@ -1254,14 +1333,17 @@ USA,Pat Diola
 USA,Paul Andron
 USA,Paul Muus
 USA,Paul Von
-RSA,Brett von Budenbrock
 USA,Peter Alarie
 USA,Phil Ryan
+USA,Phil Termin
 USA,Piper Dunlap
 USA,Ramsay Key
 USA,Reid Shaffer
 USA,Rene De
+USA,Rene de la Rie
 USA,Richard Peck
+USA,Rick Blase
+USA,Rick Blase Jr.
 USA,R.Latene Montgue
 USA,Rob Woelfel
 USA,Robert Waterman
