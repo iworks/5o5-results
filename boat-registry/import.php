@@ -339,9 +339,10 @@ if ( $import_registry && ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) 
 			foreach ( array( 6, 7, 8 ) as $index ) {
 				if ( empty( $data[ $index ] ) ) {
 					continue;
-				}
-					$data[ $index ] = trim( $data[ $index ] );
-				if ( empty( $data[ $index ] ) ) {
+                }
+                $data[ $index ] = trim( $data[ $index ] );
+                $data[ $index ] = preg_replace( '/\-$/', '', $data[ $index ] );
+                if ( empty( $data[ $index ] ) ) {
 					continue;
 				}
 				foreach ( preg_split( '/[;\t\,]/', $data[ $index ] ) as $persons ) {
@@ -358,7 +359,9 @@ if ( $import_registry && ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) 
 						case 6:
 							$date_from = 0 < intval( $data[1] ) ? intval( $data[1] ) . '-01-01' : '';
 							$type      = 'first';
-							break;
+                            break;
+                        case 7:
+                            break;
 						case 8:
 							$type = 'current';
 							break;
@@ -369,11 +372,22 @@ if ( $import_registry && ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) 
 					$persons = preg_split( '/[\&\/]/', $persons );
 					if ( 1 < sizeof( $persons ) ) {
 						$users_ids = array();
-						foreach ( $persons as $name ) {
-							$name = trim( $name );
+                        foreach ( $persons as $name ) {
+                            $date_from = null;
+                            $name = trim( $name );
+                            $name = preg_replace( '/\-$/', '', $name );
 							if ( empty( $name ) ) {
 								continue;
-							}
+                            }
+                            if ( preg_match( '/ (\d+)$/', $name, $matches ) ) {
+                                $name = preg_replace( '/ \d+$/', '', $name);
+                                $year = $matches[1];
+                                if ( 56 > $year ) {
+                                    $year += 100;
+                                }
+                                $year += 1900;
+                                $date_from = sprintf( '%d-01-01', $year );
+                            }
 							$person = get_person_by_name( $name );
 							if ( is_object( $person ) ) {
 								add_post_meta( $post_ID, $owners_index_field_name, $person->ID );
