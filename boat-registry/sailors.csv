@@ -1,3 +1,8 @@
+RSA,Robert Crisp
+AUS,Graeme Murphy
+AUS,Dave Atwell
+GBR,Tim Williams
+GBR,Matt Alavado
 AUS,Adam Brenz-Verca
 AUS,Adam Wyatt
 AUS,Adrian Finglas
@@ -476,6 +481,9 @@ GBR,Simon Wood
 GBR,Steve Adams
 GBR,Steve Hunt
 GBR,Stewart Mears
+GER,Rainer Kremkow
+FRA,Florent Duplouy
+FRA,Jean-Claude Ancelot
 GBR,Stuart Curtis
 GBR,Suzanne Mcdermott
 GBR,Terry Scutcher
@@ -491,7 +499,7 @@ GBR,Vernon Ralston
 GBR,Vincent Horey
 GER,Ailyn Hofmann
 GER,Alexander Neddermeier
-GER,Alexander Von Mertens
+GER,Alexander von Mertens
 GER,Alexander Wilhelm
 GER,Andre Tirre
 GER,Andreas Achterberg
@@ -573,7 +581,7 @@ GER,Geeske Genrich
 GER,Georg Mittermayer
 GER,Gerald Roos
 GER,Gordon Russell
-GER,Guido Von Walter
+GER,Guido von Walter
 GER,Hannes Kindermann
 GER,Hannes Wagner
 GER,Hans Nöldeke
@@ -754,7 +762,7 @@ GER,Thomas Weber
 GER,Thomas Wilbert
 GER,Thoralf Greger
 GER,Thorben Köster
-GER,Thore Von Puttkamer
+GER,Thore von Puttkamer
 GER,Thorsten Pösch
 GER,Thorsten Spötter
 GER,Thure Gnadeberg
@@ -1199,7 +1207,11 @@ USA,Ki Kaiser
 USA,Kirk Twardowski
 USA,Krysia Pohl
 USA,Kyle Pfrang
-USA,La Rie Alan Freedman
+USA,Alan Freedman
+USA,Jason Breeden
+USA,Angela Breeden
+USA,Geoff Cashman
+USA,Phil Termin
 USA,Langdon Foley
 USA,Langdon Junge
 USA,Larry Rosenfield
@@ -1219,7 +1231,8 @@ USA,Michael Agrell
 USA,Michael Breault
 USA,Michael Curtin
 USA,Michael Martin
-USA,Mike Coe
+USA,Michael Coe
+USA,Rene de la Rie
 USA,Mike Holt
 USA,Mike Mills
 USA,Mike Poulos
@@ -1228,7 +1241,7 @@ USA,Mike Punnett
 USA,Mike Smith
 USA,Mike Welch
 USA,Mike Zani
-USA,Mike Zimmerman
+USA,Michael Zimmerman
 USA,Miles Johannessen
 USA,Neal Fowler
 USA,Ned Turney
@@ -1241,6 +1254,7 @@ USA,Pat Diola
 USA,Paul Andron
 USA,Paul Muus
 USA,Paul Von
+RSA,Brett von Budenbrock
 USA,Peter Alarie
 USA,Phil Ryan
 USA,Piper Dunlap
