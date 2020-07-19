@@ -3,6 +3,7 @@ AUS,Adam Wyatt
 AUS,Adrian Finglas
 AUS,Adrian Kiely
 AUS,Alex Thomson
+AUS,Amy Lee
 AUS,Andrew Chisholm
 AUS,Andrew McCole
 AUS,Andrew Petch
@@ -11,7 +12,6 @@ AUS,Anthony King
 AUS,Arne Lanatowitz
 AUS,Ayden Menzies
 AUS,Ben Schulz
-AUS,Bob Franks
 AUS,Bradley Clarke
 AUS,Bradley Greenrod
 AUS,Brett Beyer
@@ -78,12 +78,14 @@ AUS,Jim Mc Gillivray
 AUS,Joel Castle
 AUS,John Fry
 AUS,John Jenkins
+AUS,John Macarthur‑King
 AUS,John McLean
 AUS,John Paterson
 AUS,Jonathon Ross
 AUS,Jonno Bannister
 AUS,Jordan Spencer
 AUS,Josh Mortensen
+AUS,Justin Mulkearns
 AUS,Ken Mitchell
 AUS,Kevin Whitbread
 AUS,Lachlan Hornsby
@@ -147,6 +149,7 @@ AUS,Riley Pike
 AUS,Riley Skipworth
 AUS,Rob Deussen
 AUS,Robert Fleming
+AUS,Robert Franks
 AUS,Robert Gilchrist
 AUS,Robin Bath
 AUS,Roger Pell
@@ -154,6 +157,7 @@ AUS,Ryan Menzies
 AUS,Sam Haines
 AUS,Sam Heritage
 AUS,Sarah Cooper
+AUS,Sarah Macarthur‑King
 AUS,Sarah Withall
 AUS,Scott Bailey
 AUS,Scott Lidgett
@@ -276,7 +280,6 @@ FRA,Adrien Lafortune
 FRA,Alain Chartier
 FRA,Alain Karadjian
 FRA,Alexandre Boite
-FRA,Florian Corbel
 FRA,Alexandre Morteau
 FRA,Aline Martin
 FRA,Amaury Louin
@@ -365,6 +368,7 @@ FRA,Louise Acker
 FRA,Marc Desjuzeur
 FRA,Marcel Buffet
 FRA,Marc-Henri Guitteny
+FRA,Marie Nowak
 FRA,Marine Delagrange
 FRA,Marion Michel
 FRA,Mathieu Fountaine
@@ -381,6 +385,7 @@ FRA,Nicolas Guillou
 FRA,Nicolas Martin
 FRA,Nicolas Michel
 FRA,Nicolas Picquerey
+FRA,Patrice Hue
 FRA,Paul Alric
 FRA,Paul Cousin
 FRA,Paul Roche
@@ -809,6 +814,7 @@ GER,Reimund Bauer
 GER,Ricarda Wolf
 GER,Robert Bautz
 GER,Robert Bussenius
+GER,Robert Wisolek
 GER,Roger Bussenius
 GER,Rolf Bertenrath
 GER,Rolf Meyer
@@ -876,10 +882,13 @@ GER,Wolfgang Seifert
 IRL,John Dunlea,,,https://www.youtube.com/channel/UCTOXVv_53aQqzpktecluPAg
 IRL,Michael Ennis
 IRL,Pal O'Sullivan
+ITA,Andrea Messina
 ITA,Cesare Giorgetti
 ITA,Gabriele Cortegiani
 ITA,Gabriele Natali
+ITA,Giacinto Piacquadio
 ITA,Roberto Candela
+LUX,Liz Speyer
 NZL,Richard Kiff
 POL,Adam Domalski
 POL,Adam Domżalski
@@ -1077,6 +1086,7 @@ RSA,Tina Plattner
 SUI,Florian Stauffer
 SUI,Gil Donzé
 SUI,Gilles Petermann
+SUI,Jean-Marie Tinembart
 SUI,Laurent Grob
 SUI,Lionel Hollinger
 SUI,Marcell Plüss
@@ -1085,7 +1095,7 @@ SUI,Patrick Ducommun
 SUI,Peter Schweizer
 SUI,Res Schürch
 SUI,Toni Utiger
-SUI,Valery Jacot
+SUI,Valéry Jacot
 SUI,Yvo Durr
 SWE,Albert Lawenius
 SWE,Alexander Gleerup
