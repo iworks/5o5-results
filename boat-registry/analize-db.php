@@ -37,7 +37,7 @@ foreach ( $argv as $arg ) {
 	}
 }
 
-$separtor = ';';
+$separtor = ',';
 if ( ! $csv ) {
 	$separtor = ' => ';
 }
@@ -59,14 +59,14 @@ foreach ( $persons as $p1 ) {
 			continue;
 		}
 		$compared[ $p1 . $p2 ] = true;
-        $sim                       = similar_text( $p1, $p2, $perc );
-        if ( $line < $perc ) {
-            if ( $csv ) {
-                echo $separtor;
-                echo $perc;
-            }
-            echo $p1,$separtor,$p2;
-            echo PHP_EOL;
-        }
+		$sim                   = similar_text( $p1, $p2, $perc );
+		if ( $line < $perc ) {
+			if ( $csv ) {
+				echo $perc;
+				echo $separtor;
+			}
+			echo $p1,$separtor,$p2;
+			echo PHP_EOL;
+		}
 	}
 }
