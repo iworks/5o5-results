@@ -379,8 +379,8 @@ if ( $import_registry && ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) 
 							if ( empty( $name ) ) {
 								continue;
 							}
-							if ( preg_match( '/ (\d+)$/', $name, $matches ) ) {
-								$name = preg_replace( '/ \d+$/', '', $name );
+							if ( preg_match( '/[\'`\t ](\d+)$/', $name, $matches ) ) {
+								$name = preg_replace( '/[\'`\t ]+\d+$/', '', $name );
 								$year = $matches[1];
 								if ( 56 > $year ) {
 									$year += 100;
@@ -419,7 +419,7 @@ if ( $import_registry && ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) 
 				add_post_meta( $post_ID, $owners_field_name, $owners, true );
 			}
 		} else {
-			echo 'x';
+			echo 'x(',$data[0],')';
 		}
 	}
 
