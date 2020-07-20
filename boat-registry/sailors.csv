@@ -1,6 +1,3 @@
-USA,James Holstine
-USA,Kevin Maguire
-USA,Ted Fernau
 AUS,Adam Brenz-Verca
 AUS,Adam Wyatt
 AUS,Adrian Finglas
@@ -14,6 +11,7 @@ AUS,Annabel Jones
 AUS,Anthony King
 AUS,Arne Lanatowitz
 AUS,Ayden Menzies
+AUS,Ben Greenhough
 AUS,Ben Schulz
 AUS,Bradley Clarke
 AUS,Bradley Greenrod
@@ -184,7 +182,7 @@ AUS,Vivian Marcas
 AUS,Wayne Boyd
 AUS,Xavier Agnew
 AUT,Adam Smith
-AUT,Julian Jobstl
+AUT,Julian Jöbstl
 BEL,Alain Mineur
 BEL,Bas Van Assche
 BEL,Casper Martens
@@ -388,6 +386,7 @@ FRA,Nicolas Guillou
 FRA,Nicolas Martin
 FRA,Nicolas Michel
 FRA,Nicolas Picquerey
+FRA,Olivier Magret
 FRA,Patrice Hue
 FRA,Paul Alric
 FRA,Paul Cousin
@@ -593,6 +592,7 @@ GER,Andreas Achterberg
 GER,Andreas Bock
 GER,Andreas Dillmann
 GER,Andreas Happich
+GER,Andreas Porth
 GER,Angela Stenger
 GER,Anika Kébreau
 GER,Anika Wollenbecker
@@ -631,6 +631,7 @@ GER,Christian Sonntag
 GER,Christina Burger
 GER,Christina Höll
 GER,Christina Wilhelm
+GER,Christoph Bökle
 GER,Claas Lehmann
 GER,Claudius Zeiler
 GER,Daniel Czeninga
@@ -706,6 +707,7 @@ GER,Joerg Thumann
 GER,Johannes Ganzer
 GER,Johannes Kindermann
 GER,John Christiansen
+GER,Jonas Nissen
 GER,Jonas Royla
 GER,Jörg Gosche
 GER,Jörn Alberts
@@ -873,6 +875,7 @@ GER,Ute Oberländer
 GER,Ute Stümpel
 GER,Uwe Krumm
 GER,Uwe Latsch
+GER,Verena Achterberg
 GER,Viktoria Warminski
 GER,Volker Böhringer
 GER,Volker Görge
@@ -1086,6 +1089,7 @@ RSA,Robert von Gruenewaldt
 RSA,Rudolph Holm
 RSA,Ryan Robinson
 RSA,Tina Plattner
+SUI,Ammann Walter
 SUI,Florian Stauffer
 SUI,Gil Donzé
 SUI,Gilles Petermann
@@ -1094,6 +1098,7 @@ SUI,Laurent Grob
 SUI,Lionel Hollinger
 SUI,Marcell Plüss
 SUI,Markus Heilig
+SUI,Mathias Märki
 SUI,Patrick Ducommun
 SUI,Peter Schweizer
 SUI,Res Schürch
@@ -1280,6 +1285,7 @@ USA,Howard Hamlin
 USA,Ian Conners
 USA,Ian McKeige
 USA,Ian O'Leary
+USA,James Holstine
 USA,Jan Aase
 USA,Jason Breeden
 USA,Jason Bright
@@ -1301,6 +1307,7 @@ USA,Justin Shaffer
 USA,Kaila Pfrang
 USA,Kenny Elliot
 USA,Kerry Poe
+USA,Kevin Maguire
 USA,Ki Kaiser
 USA,Kirk Twardowski
 USA,Krysia Pohl
@@ -1372,6 +1379,7 @@ USA,Steve Sparkman
 USA,Stevios Papadakis
 USA,Stine Cacavas
 USA,Sugar Flanagan
+USA,Ted Fernau
 USA,Ted Moore
 USA,Terry Neff
 USA,Thad Melton
