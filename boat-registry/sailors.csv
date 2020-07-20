@@ -1,4 +1,3 @@
-FRA,Regis Viateur
 AUS,Adam Brenz-Verca
 AUS,Adam Wyatt
 AUS,Adrian Finglas
@@ -154,8 +153,6 @@ AUS,Robert Fleming
 AUS,Robert Franks
 AUS,Robert Gilchrist
 AUS,Robin Bath
-SWE,Christer Bath
-FRA,Marcel Buffet
 AUS,Roger Pell
 AUS,Ryan Menzies
 AUS,Sam Haines
@@ -285,6 +282,7 @@ FRA,Alain Chartier
 FRA,Alain Karadjian
 FRA,Alexandre Boite
 FRA,Alexandre Morteau
+FRA,Alexis Preel
 FRA,Aline Martin
 FRA,Amaury Louin
 FRA,Anaelle Couvreux
@@ -310,11 +308,13 @@ FRA,Cedric Faucheux
 FRA,Celine Chevet
 FRA,Christian Silvestre
 FRA,Christian Vallaud
+FRA,Christophe Bochu
 FRA,Ciret-Lecosquer Madeg
 FRA,Claire Carvallo
 FRA,Clement Card
 FRA,Damien Trouillet
 FRA,David De Monteil
+FRA,Derek Farrant
 FRA,Dominique Rouanne
 FRA,Edouard Morin
 FRA,Elisabeth Neidhart
@@ -344,15 +344,18 @@ FRA,Guillaume Faugier
 FRA,Guillaume Regnier
 FRA,Herve Brillaud
 FRA,Hugues Morane
+FRA,Jacques Bochu
+FRA,Jacques Raguet
+FRA,Jean Blache
 FRA,Jean Charles Zimmowitch
 FRA,Jean Claude Ancelot
-FRA,Jean Luc Muzellec
-FRA,Jean Philippe Artielle
 FRA,Jean Philippe Chartier
 FRA,Jean-Baptiste Dupont
 FRA,Jean-Claude Ancelot
 FRA,Jean-Guy Puissant
 FRA,Jean-Luc Muzellec
+FRA,Jean-Marie Danielou
+FRA,Jean-Philippe Artielle
 FRA,Jean-Pierre Derungs
 FRA,Jean-Pierre Peter
 FRA,Jerome Zimmowitch
@@ -370,7 +373,9 @@ FRA,Loic Bleuez
 FRA,Louis Claude
 FRA,Louise Acker
 FRA,Marc Desjuzeur
+FRA,Marc Pajot
 FRA,Marcel Buffet
+FRA,Marcel Troupel
 FRA,Marc-Henri Guitteny
 FRA,Marie Nowak
 FRA,Marine Delagrange
@@ -383,6 +388,7 @@ FRA,Michel Nedelec
 FRA,Morgane Suquart
 FRA,Muriel Agrapart
 FRA,Muriel Jeanne
+FRA,Nicholas Loday
 FRA,Nicolas Auberger
 FRA,Nicolas Croce
 FRA,Nicolas Guillou
@@ -396,16 +402,22 @@ FRA,Paul Cousin
 FRA,Paul Roche
 FRA,Philippe Boite
 FRA,Philippe Dubuc
+FRA,Philippe Duquesne
 FRA,Philippe Leroy
 FRA,Philippe Lucienne
 FRA,Philippe Vandersteen
+FRA,Philippe Wolff
+FRA,Phillipe Lanaverre
 FRA,Pierre Chene Yves
 FRA,Pierre de Kergariou
 FRA,Pierre Gendry
+FRA,Pierre Gorremans
 FRA,Pierre Guibbal
 FRA,Pierre Jean Gallo
 FRA,Pierre Penisson
 FRA,Pierre Williot
+FRA,Regis Viateur
+FRA,Robin Farrant
 FRA,Romain Adnot
 FRA,Romain Delmotte
 FRA,Romain Thivillier
@@ -435,6 +447,7 @@ FRA,Xavier Broise
 FRA,Yann Plathier
 FRA,Yhéo Geeraerts
 FRA,Yves Coltier
+FRA,Yves Pajot
 GBR,Alan Montague
 GBR,Alastair Milton
 GBR,Alex Barry
@@ -448,6 +461,7 @@ GBR,Andrew Thorp
 GBR,Andrew Wood
 GBR,Andy Couch
 GBR,Andy Edmonds
+GBR,Andy Harrop
 GBR,Andy Parkinson
 GBR,Andy Tyas
 GBR,Andy Williams
@@ -495,6 +509,7 @@ GBR,Ian Barker
 GBR,Ian Mitchell
 GBR,Ian Nicholson
 GBR,Ian Pinnell
+GBR,Ian Swainston
 GBR,Ian Walters
 GBR,Jack Kilburn
 GBR,James Cole
@@ -510,8 +525,11 @@ GBR,Jonathan Ward
 GBR,Kevin Holden
 GBR,Kieth Borders
 GBR,Kimball Morrison
+GBR,Latty Marks
 GBR,Laurence Milton
+GBR,Lawrence Crispin
 GBR,Lee Marriott
+GBR,Lewis Dann
 GBR,Luke Molloy
 GBR,Magnus Leask
 GBR,Mark Darling
@@ -546,6 +564,7 @@ GBR,Paul Lovesy
 GBR,Paul Young
 GBR,Penny Clark
 GBR,Pete Brooke Houghton
+GBR,Peter Bainbridge
 GBR,Peter Burwood
 GBR,Peter Halliwell
 GBR,Phil Brown
@@ -565,6 +584,8 @@ GBR,Russell Wheeler
 GBR,Sam Pascoe
 GBR,Scott Allen
 GBR,Simon Briddon
+GBR,Simon Dabson
+GBR,Simon Hiscook
 GBR,Simon Lake
 GBR,Simon Spratt
 GBR,Simon Sydenham
@@ -592,11 +613,10 @@ GER,Alexander von Mertens
 GER,Alexander Wilhelm
 GER,Andre Tirre
 GER,Andréas Achterberg
-GER,Andréas Jungclaus
-LUX Jean-Paul Tousch
 GER,Andreas Bock
 GER,Andreas Dillmann
 GER,Andreas Happich
+GER,Andréas Jungclaus
 GER,Andreas Porth
 GER,Angela Stenger
 GER,Anika Kébreau
@@ -890,6 +910,7 @@ GER,Wiebke Gewinn
 GER,Wiebke Siemsen
 GER,Wilhelm Wollenbecker
 GER,Wolfgang Seifert
+IRL,John Bourke
 IRL,John Dunlea,,,https://www.youtube.com/channel/UCTOXVv_53aQqzpktecluPAg
 IRL,Michael Ennis
 IRL,Pal O'Sullivan
@@ -899,6 +920,7 @@ ITA,Gabriele Cortegiani
 ITA,Gabriele Natali
 ITA,Giacinto Piacquadio
 ITA,Roberto Candela
+LUX Jean-Paul Tousch
 LUX,Liz Speyer
 NZL,Richard Kiff
 POL,Adam Domalski
@@ -1087,6 +1109,7 @@ RSA,James Spikesly
 RSA,Jonathan Ham
 RSA,Kobus Holtzhausen
 RSA,Kyle Klaas
+RSA,Nigel Milln
 RSA,Peter Funke
 RSA,Peter Roos
 RSA,Robert Crisp
@@ -1095,26 +1118,19 @@ RSA,Rudolph Holm
 RSA,Ryan Robinson
 RSA,Tina Plattner
 SUI,Ammann Walter
+SUI,Beat Waser
 SUI,Florian Stauffer
 SUI,Giles Donzé
-FRA,Philippe Wolff
-FRA,Philippe Duquesne
-FRA,Alexis Preel
-USA,Alyce Flanagan
-GBR,Peter Bainbridge
-FRA,Marcel Troupel
-FRA,Phillipe Lanaverre
-FRA,Derek Farrant
-FRA,Robin Farrant
-FRA,Yves Pajot
-FRA,Marc Pajot
 SUI,Gilles Petermann
 SUI,Jean-Marie Tinembart
+SUI,Jean-Philippe Senn
 SUI,Laurent Grob
 SUI,Lionel Hollinger
 SUI,Marcell Plüss
 SUI,Markus Heilig
 SUI,Mathias Märki
+SUI,Matthias Märki
+SUI,Michel Rotache
 SUI,Patrick Ducommun
 SUI,Peter Schweizer
 SUI,Res Schürch
@@ -1131,7 +1147,9 @@ SWE,Anders Karoliussen
 SWE,Andreas Carlsson
 SWE,Axel Danielsson
 SWE,Axel Hultgren
+SWE,Bengt Magnusson
 SWE,Caroline Lexén
+SWE,Christer Bath
 SWE,Christer Båth
 SWE,Christian Harding
 SWE,Christian Madsen
@@ -1147,10 +1165,15 @@ SWE,Frank Bach
 SWE,Fredrik Hansson
 SWE,Fredrik Molander
 SWE,Galen Mack
+SWE,Göran Andersson
+SWE,Göran Eckeström
+SWE,Göran Källfeldt
+SWE,Göran Petersson
 SWE,Gunilla Berg
 SWE,Gustav Franzén
 SWE,Ingrid Söderström
 SWE,Jakob Lindvall
+SWE,Jan Calvert
 SWE,Jana Hastenpflug
 SWE,Jesper Fowelin
 SWE,Joakim Peterson
@@ -1160,6 +1183,7 @@ SWE,Johan Johansson
 SWE,Johan Röök
 SWE,Johan Strömdahl
 SWE,Kalle Nilsson
+SWE,Karl-Erik Nilsson
 SWE,Katarina Engström
 SWE,Knut Hastenpflug
 SWE,Lars Bjerke
@@ -1183,6 +1207,7 @@ SWE,Mikael Gustavsson
 SWE,Olle Wenrup
 SWE,Oskar Lundberg
 SWE,Patric Wollmersson
+SWE,Pelle Bath
 SWE,Per Kjellberg
 SWE,Per Wennersten
 SWE,Per Wester
@@ -1193,9 +1218,15 @@ SWE,Peter Bökmark
 SWE,Pia Åhlund
 SWE,Pia Wennersten
 SWE,Rasmus Tengblad
+SWE,Ray Larsson
 SWE,Rita Cording
+SWE,Roy Wedin
 SWE,Staffan Eklund
+SWE,Stefan Eriksson
+SWE,Stefan Lundqvist
+SWE,Stefan Sjöström
 SWE,Sven Flood
+SWE,Sven Karlsson
 SWE,Thomas Jaxing
 SWE,Thomas Jönsson
 SWE,Thomas Lundberg
@@ -1211,6 +1242,7 @@ SWE,Ton Törm
 SWE,Toni Hastenpflug
 SWE,Tord Lawner
 SWE,Tore Reinhold
+SWE,Ulf Andersson
 SWE,Wilhelm Johannisson
 SWE,Wille Johanisson
 USA,Adam Lowry
@@ -1220,6 +1252,7 @@ USA,Alan Norman
 USA,Alex Simanis
 USA,Alexander Meller
 USA,Alexia Fischer
+USA,Alyce Flanagan
 USA,Andrew Chadwick
 USA,Andrew Cole
 USA,Andrew Sutton
