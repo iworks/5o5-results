@@ -1,6 +1,3 @@
-USA,Bruce Heckman
-AUS,Reg Crick
-AUS,Charles Spence
 AUS,Adam Brenz-Verca
 AUS,Adam Wyatt
 AUS,Adrian Finglas
@@ -25,6 +22,7 @@ AUS,Brian Pike
 AUS,Bryce Penfold
 AUS,Byron Mavrick
 AUS,Cameron McDonald
+AUS,Charles Spence
 AUS,Chris Gregg
 AUS,Chris Whyte
 AUS,Christopher Paterson
@@ -151,6 +149,7 @@ AUS,Phil Gray
 AUS,Philip Scapens
 AUS,Pip Pearson
 AUS,Rasmus Goerge
+AUS,Reg Crick
 AUS,Richard Machin
 AUS,Richie Gallimore
 AUS,Riley Pike
@@ -972,6 +971,7 @@ POL,Aleksandra Mruk
 POL,Alina Limańska
 POL,Andrzej Borowiak
 POL,Andrzej Kubiak
+POL,Andrzej Osiak
 POL,Andrzej Zdrojek,1973,
 POL,Anna Grzybowska
 POL,Anna Jabłońska,1975,
@@ -997,6 +997,7 @@ POL,Dominik Ostrowski,1976, Międzyszkolny Klub Sportowy Dwójka
 POL,Dominik Pawłowski
 POL,Dominika Zielińska
 POL,Emanuela Bartkowiak
+POL,Eugeniusz Kasprzyk
 POL,Ewa Bartosiewicz
 POL,Ewa Pawlaczyk
 POL,Ewa Szyfter
@@ -1028,6 +1029,7 @@ POL,Jan Walczak
 POL,Jan Widerski
 POL,Jarosław Grabowski
 POL,Jerzy Plewa
+POL,Joanna Jakubowska
 POL,Kacper Kaczmarek
 POL,Kamil Świstelnicki
 POL,Karol Bronicki
@@ -1047,6 +1049,7 @@ POL,Łukasz Paszke
 POL,Łukasz Paszko
 POL,Maciej Goździk
 POL,Maciej Graczyk
+POL,Maciej Jamiołowski
 POL,Maciej Kasprzyk
 POL,Maciej Kondolewski
 POL,Maciej Kropidłowski
@@ -1063,6 +1066,7 @@ POL,Marcin Pietrzak
 POL,Marcin Pietrzak,2004,
 POL,Marcin Wojtoniak
 POL,Marek Kaczmarek
+POL,Marek Masłowski
 POL,Marek Milewski
 POL,Mariusz Ambroziak
 POL,Mariusz Michalski,1978,Yacht Klub Stal Gdynia
@@ -1072,6 +1076,7 @@ POL,Mateusz Jura,1989,AZS SGH Warszawa
 POL,Mateusz Wolszczak
 POL,Mateusz Wujec
 POL,Mateusz Żolnierkiewicz
+POL,Michał Marciniak
 POL,Michał Olko,1977,Yacht Klub Stal Gdynia
 POL,Michał Prończuk
 POL,Michał Ruciński,2012, Akademicki Klub Morski Gdańsk
@@ -1292,6 +1297,7 @@ USA,Alex Simanis
 USA,Alexander Meller
 USA,Alexia Fischer
 USA,Alyce Flanagan
+USA,Amie Huebner
 USA,Andrew Chadwick
 USA,Andrew Cole
 USA,Andrew Sutton
@@ -1313,6 +1319,7 @@ USA,Bob Conrad
 USA,Bob Noyes
 USA,Bob Rinker
 USA,Brandon Charif
+USA,Brendan Heussler
 USA,Brian Haines
 USA,Brian Richmond
 USA,Bruce Edwards
@@ -1329,6 +1336,7 @@ USA,Chris Gorton
 USA,Chris Yindra
 USA,Christian Rasmussen
 USA,Christopher Hubbard
+USA,Christopher Oleary
 USA,Christopher Pfrang
 USA,Cody Kowalski
 USA,Colin Dunphy
@@ -1372,8 +1380,10 @@ USA,Harry Mattison
 USA,Henry Amthor
 USA,Howard Hamlin
 USA,Ian Conners
+USA,Ian Goofrey
 USA,Ian McKeige
 USA,Ian O'Leary
+USA,James Barry
 USA,James Holstine
 USA,Jan Aase
 USA,Jason Breeden
@@ -1394,6 +1404,7 @@ USA,Jon Henderson
 USA,Josh Dyck
 USA,Justin Shaffer
 USA,Kaila Pfrang
+USA,Kelsey Avril
 USA,Kenny Elliot
 USA,Kerry Poe
 USA,Kevin Maguire
@@ -1416,6 +1427,7 @@ USA,Mathias Kennerknecht
 USA,Matt Mcqueen
 USA,Matt Sanders
 USA,Matthew Barry
+USA,Matthew Woodworth
 USA,Michael Agrell
 USA,Michael Breault
 USA,Michael Coe
@@ -1431,6 +1443,7 @@ USA,Mike Smith
 USA,Mike Welch
 USA,Mike Zani
 USA,Miles Johannessen
+USA,Nathaniel Plant
 USA,Neal Fowler
 USA,Ned Turney
 USA,Nicholas Blair
@@ -1470,14 +1483,17 @@ USA,Stevios Papadakis
 USA,Stine Cacavas
 USA,Sugar Flanagan
 USA,Ted Fernau
+USA,Ted Huebner
 USA,Ted Moore
 USA,Terry Neff
 USA,Thad Melton
 USA,Thomas Barrows
 USA,Tim Collins
 USA,Tim Murphy
+USA,Tim Sayles
 USA,Tim Wadlow
 USA,Tom Crawford
+USA,Tom Fink
 USA,Tom O'toole
 USA,Tony DeVita
 USA,Tyler Moore
