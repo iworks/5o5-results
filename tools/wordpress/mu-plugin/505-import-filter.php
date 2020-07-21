@@ -987,6 +987,8 @@ class iworks_5o5_upload_fixer {
 		'Gorremans Pierre'           => 'Pierre Gorremans',
 		'Guido Von Walter'           => 'Guido von Walter',
 		'Guido von Walters'          => 'Guido von Walter',
+		'Yhéo Geeraerts'             => 'Théo Geeraerts',
+		'Charles De Kergariou'       => 'Charles de Kergariou',
 		'Guillaume De Kergariou'     => 'Guillaume de Kergariou',
 		'Guy Hubert'                 => 'Hubert Guy',
 		'Hamlin Howard'              => 'Howard Hamlin',
