@@ -1,22 +1,86 @@
-,Pos,,Nat,Boat,Helmsman/Crew,R1,R2,R3,R4,R5,R6,</center>,<p align="right">Pts.</p> <center> 
-,1.,,AUS,8405,Chris Nicholson,Darren Nicholson,9,1,1,1,1,DNF,,15.0 
-,2.,,DEN,8433,Jorgen Schonherr,Michael Paulsen,1,12,3,6,2,8,,34.4 
-,3.,,USA,8266,Bruce Edwards,David Shelton,4,11,4,3,8,1,,35.7 
-,4.,,AUS,8406,Neil Long,Les Evans,11,2,5,2,21,5,,43.0 
-,5.,,GBR,8050,Peter Colclough,Ian Godfrey,4,5,2,8,6,13,,57.7 
-,6.,,USA,7875,Jeff Miller,Bruce Heckman,21,7,9,4,12,9,,69.0 
-,7.,,GBR,8379,Mike Holt,Neil Fulcher,8,4,8,22,26,4,,72.0 
-,8.,,USA,7201,Howard Hamlin,Cam Lewis,2,DNF,16,10,24,2,,74.0 
-,9.,,GBR,8095,Ian Pinnell,Mark Darling,25,23,6,9,3,11,,78.4 
-,10.,,CAN,8264,Jeff Boyd,Martin Ten Hove,5,13,14,18,17,7,,85.0 
-,11.,,DEN,8082,Jakob Thomasen,Michael Bang,10,6,25,7,13,25,,90.7 
-,12.,,GBR,8242,Mark Upton-Brown,John Ironmonger,7,33,10,5,9,46,,93.0 
-,13.,,AUS,8342,Terry Kyrwood,Charles Spence,3,9,43,11,22,28,,99.7 
-,14.,,FRA,8402,Philippe Boite,Jean Luc Muzellec,6,8,19,23,15,DNF,,100.7 
-,15.,,USA,8191,Macy Nelson,John Fry,13,22,37,33,7,3,,104.7 
-,16.,,USA,8013,Mike Punnett,Scott Iklé,33,17,21,12,11,16,,107.7 
-,17.,,SWE,8232,Ebbe Rosen,Olle Wenrup,23,26,17,35,10,6,,111.7 
-,31.,,SWE,7343,Kalle Nilsson,Bengt Zachrisson,28,28,34,42,19,22,,161.0 
-,34.,,SWE,8335,Niklas Beckvid,Bengt Sareyko,39,24,23,21,44,53,,181.0 
-,61.,,SWE,8228,Gunilla Berg,Erik Kallin,67,59,64,72,50,52,,322.0 
-,75.,,SWE,8222,Johan Arvedson,Michael Brostedt,74,63,67,75,DNC,64,,373.0 
+Nation,Boat,Helmsman,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,,Pts.  ,Pos
+AUS,8405,Chris Nicholson,Darren Nicholson,,9,1,1,1,1,DNF,,15,1
+DEN,8433,Jorgen Schonherr,Michael Paulsen,,1,12,3,6,2,8,,34.4,2
+USA,8266,Bruce Edwards,David Shelton,,4,11,4,3,8,1,,35.7,3
+AUS,8406,Neil Long,Les Evans,,11,2,5,2,21,5,,43,4
+GBR,8050,Peter Colclough,Ian Godfrey,,4,5,2,8,6,13,,57.7,5
+USA,7875,Jeff Miller,Bruce Heckman,,21,7,9,4,12,9,,69,6
+GBR,8379,Mike Holt,Neil Fulcher,,8,4,8,22,26,4,,72,7
+USA,7201,Howard Hamlin,Cam Lewis,,2,DNF,16,10,24,2,,74,8
+GBR,8095,Ian Pinnell,Mark Darling,,25,23,6,9,3,11,,78.4,9
+CAN,8264,Jeff Boyd,Martin Ten Hove,,5,13,14,18,17,7,,85,10
+DEN,8082,Jakob Thomasen,Michael Bang,,10,6,25,7,13,25,,90.7,11
+GBR,8242,Mark Upton-Brown,John Ironmonger,,7,33,10,5,9,46,,93,12
+AUS,8342,Terry Kyrwood,Charles Spence,,3,9,43,11,22,28,,99.7,13
+FRA,8402,Philippe Boite,Jean Luc Muzellec,,6,8,19,23,15,DNF,,100.7,14
+USA,8191,Macy Nelson,John Fry,,13,22,37,33,7,3,,104.7,15
+USA,8013,Mike Punnett,Scott Ikle,,33,17,21,12,11,16,,107.7,16
+SWE,8232,Ebbe Rosen,Olle Wenrup,,23,26,17,35,10,6,,111.7,17
+,,,,,,,,,,,,,18
+,,,,,,,,,,,,,19
+,,,,,,,,,,,,,20
+,,,,,,,,,,,,,21
+,,,,,,,,,,,,,22
+,,,,,,,,,,,,,23
+,,,,,,,,,,,,,24
+,,,,,,,,,,,,,25
+,,,,,,,,,,,,,26
+,,,,,,,,,,,,,27
+,,,,,,,,,,,,,28
+,,,,,,,,,,,,,29
+,,,,,,,,,,,,,30
+SWE,7343,Kalle Nilsson,Bengt Zachrisson,,28,28,34,42,19,22,,161,31
+,,,,,,,,,,,,,32
+,,,,,,,,,,,,,33
+SWE,8335,Niklas Beckvid,Bengt Sareyko,,39,24,23,21,44,53,,181,34
+,,,,,,,,,,,,,35
+,,,,,,,,,,,,,36
+,,,,,,,,,,,,,37
+,,,,,,,,,,,,,38
+,,,,,,,,,,,,,39
+,,,,,,,,,,,,,40
+,,,,,,,,,,,,,41
+,,,,,,,,,,,,,42
+,,,,,,,,,,,,,43
+,,,,,,,,,,,,,44
+,,,,,,,,,,,,,45
+,,,,,,,,,,,,,46
+,,,,,,,,,,,,,47
+,,,,,,,,,,,,,48
+,,,,,,,,,,,,,49
+,,,,,,,,,,,,,50
+,,,,,,,,,,,,,51
+,,,,,,,,,,,,,52
+,,,,,,,,,,,,,53
+,,,,,,,,,,,,,54
+,,,,,,,,,,,,,55
+,,,,,,,,,,,,,56
+,,,,,,,,,,,,,57
+,,,,,,,,,,,,,58
+,,,,,,,,,,,,,59
+,,,,,,,,,,,,,60
+SWE,8228,Gunilla Berg,Erik Kallin,,67,59,64,72,50,52,,322,61
+,,,,,,,,,,,,,62
+,,,,,,,,,,,,,63
+,,,,,,,,,,,,,64
+,,,,,,,,,,,,,65
+,,,,,,,,,,,,,66
+,,,,,,,,,,,,,67
+,,,,,,,,,,,,,68
+,,,,,,,,,,,,,69
+,,,,,,,,,,,,,70
+,,,,,,,,,,,,,71
+,,,,,,,,,,,,,72
+,,,,,,,,,,,,,73
+,,,,,,,,,,,,,74
+SWE,8222,Johan Arvedson,Michael Brostedt,,74,63,67,75,DNC,64,,373,75
+,,,,,,,,,,,,,76
+,,,,,,,,,,,,,77
+,,,,,,,,,,,,,78
+,,,,,,,,,,,,,79
+,,,,,,,,,,,,,80
+,,,,,,,,,,,,,81
+,,,,,,,,,,,,,82
+,,,,,,,,,,,,,83
+,,,,,,,,,,,,,84
+,,,,,,,,,,,,,85

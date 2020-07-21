@@ -1,4 +1,3 @@
-GBR,Nell Rabbitts
 AUS,Adam Brenz-Verca
 AUS,Adam Wyatt
 AUS,Adrian Finglas
@@ -89,6 +88,7 @@ AUS,Jonno Bannister
 AUS,Jordan Spencer
 AUS,Josh Mortensen
 AUS,Justin Mulkearns
+AUS,Ken Leckenby
 AUS,Ken Lockenby
 AUS,Ken Mitchell
 AUS,Kevin Whitbread
@@ -141,6 +141,7 @@ AUS,Paul Greenwood
 AUS,Paul Marsh
 AUS,Paul Ridgway
 AUS,Peter Holden
+AUS,Peter McDonald
 AUS,Peter Nicholas
 AUS,Peter Nicolas
 AUS,Phil Gray
@@ -194,9 +195,11 @@ BEL,Fabienne Boucau
 BEL,Geert De Pauw
 BEL,Jeroen Smeets
 BEL,Kim Van Assche
+BEL,Philippe Vandersteen
 BEL,Stijn Oyen
 BEL,Théo Geeraerts
 BEL,Toon Van Assche
+BEL,Yannick Maheux
 CAN,Adam Bookman
 CAN,Adam Gesing
 CAN,Adam Gooderham
@@ -256,6 +259,7 @@ DEN,Finn Angelo
 DEN,Hans Jørgen Riber
 DEN,Jacob Ernst
 DEN,Jakob Karbo
+DEN,Jakob Thomasen
 DEN,Jan Saugmann
 DEN,Jesper Bülow
 DEN,Jesper Ernst
@@ -265,6 +269,8 @@ DEN,Lasse Andersen
 DEN,Lasse B. Andersen
 DEN,Laust Castor Lund
 DEN,Martin Thombs
+DEN,Michael Bang
+DEN,Michael Paulsen
 DEN,Michael Wonterghem
 DEN,Morten Ramsbæk
 DEN,Nikolaj Hoffmann Buhl,1992
@@ -293,7 +299,6 @@ FRA,Amaury Louin
 FRA,Anaelle Couvreux
 FRA,Anais Dechauffour
 FRA,Anais Pain
-FRA,Charles de Kergariou
 FRA,Anna Marie de Kergariou
 FRA,Antoine De Nijs
 FRA,Antoine Delagrange
@@ -314,6 +319,7 @@ FRA,Benoit Dijoux
 FRA,Benoit Morane
 FRA,Cedric Faucheux
 FRA,Celine Chevet
+FRA,Charles de Kergariou
 FRA,Christian Silvestre
 FRA,Christian Vallaud
 FRA,Christophe Bochu
@@ -348,7 +354,6 @@ FRA,Ghislain De Lafforest
 FRA,Gilles Carvallo
 FRA,Gilles Chapelin
 FRA,Guillaume de Kergariou
-FRA,Pierre-Jerome Coulmin
 FRA,Guillaume Faugier
 FRA,Guillaume Got
 FRA,Guillaume Regnier
@@ -421,8 +426,6 @@ FRA,Philippe Duquesne
 FRA,Philippe Leroy
 FRA,Philippe Lucienne
 FRA,Philippe Markt
-BEL,Philippe Vandersteen
-BEL,Yannick Maheux
 FRA,Philippe Wolff
 FRA,Phillipe Lanaverre
 FRA,Pierre Bessias
@@ -434,6 +437,7 @@ FRA,Pierre Guibbal
 FRA,Pierre Jean Gallo
 FRA,Pierre Penisson
 FRA,Pierre Williot
+FRA,Pierre-Jerome Coulmin
 FRA,Regis Viateur
 FRA,Robert Lehmann
 FRA,Robin Farrant
@@ -524,6 +528,7 @@ GBR,Elliott Wells
 GBR,Frank Rainsborough
 GBR,Gary Cawthorn
 GBR,Geoff Edwards
+GBR,Geoff Kimber
 GBR,Gordon Russell
 GBR,Hubertus Ritter
 GBR,Ian Barker
@@ -570,6 +575,7 @@ GBR,Mike Holmes
 GBR,Miles Odell
 GBR,Neil Fulcher
 GBR,Neil Rabbitts
+GBR,Nell Rabbitts
 GBR,Nicholas Meadow
 GBR,Nicholas Powell
 GBR,Nick Beloe
@@ -718,6 +724,7 @@ GER,Gerald Roos
 GER,Gordon Russell
 GER,Guido von Walter
 GER,Gunter Peters
+GER,Günter Peters
 GER,Hannes Kindermann
 GER,Hannes Wagner
 GER,Hans Nöldeke
@@ -1138,6 +1145,7 @@ RSA,Kyle Klaas
 RSA,Nigel Milln
 RSA,Peter Funke
 RSA,Peter Roos
+RSA,Rob Hancock
 RSA,Robert Crisp
 RSA,Robert von Gruenewaldt
 RSA,Rudolph Holm
@@ -1174,6 +1182,7 @@ SWE,Andreas Carlsson
 SWE,Axel Danielsson
 SWE,Axel Hultgren
 SWE,Bengt Magnusson
+SWE,Bengt Sareyko
 SWE,Caroline Lexén
 SWE,Christer Bath
 SWE,Christer Båth
@@ -1230,6 +1239,7 @@ SWE,Mats Lindgren
 SWE,Mattias Stenqvistt
 SWE,Mikael Ahrbom
 SWE,Mikael Gustavsson
+SWE,Niklas Beckvid
 SWE,Olle Wenrup
 SWE,Oskar Lundberg
 SWE,Patric Wollmersson
@@ -1304,6 +1314,7 @@ USA,Brian Haines
 USA,Brian Richmond
 USA,Bruce Edwards
 USA,Bruce Fleming
+USA,Bruce Heckman
 USA,Bryan Largay
 USA,Cameron Lewis
 USA,Carl Smit
@@ -1436,6 +1447,7 @@ USA,Ramsay Key
 USA,Reid Shaffer
 USA,Rene De
 USA,Rene de la Rie
+USA,Richard Elstrom
 USA,Richard Peck
 USA,Rick Blase
 USA,Rick Blase Jr.
