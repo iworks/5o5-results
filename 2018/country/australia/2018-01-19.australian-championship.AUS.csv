@@ -1,12 +1,12 @@
-,Sail No,Skipper,Crew,Boat Name,R1,R2,R3,R4,R5,R6,R7,R8,R9,Pts,Pos
-,9202,Michael Holt,Rob Woefel,IO Integration.com,1,2,1,2,[3],[3],2,2,1,11,1
+Nation,Sail No,Skipper,Crew,Boat Name,R1,R2,R3,R4,R5,R6,R7,R8,R9,Pts,Pos
+AUS,9202,Michael Holt,Rob Woefel,IO Integration.com,1,2,1,2,[3],[3],2,2,1,11,1
 ,9190,Jan Saugmann,Marcus Cooper,Overweight Sporting,[12],3,[7],7,2,1,3,3,3,22,2
 ,8794,Michael Babbage,James McAllister,Alvin Rides Again,4,1,2,[13],5,2,[7],7,5,26,3
 ,9134,Michael Quirk,Joel Castle,Dazed & Confused,6,4,[9],1,7,[41Q],1,4,4,27,4
 ,9191,Malcolm Higgins,Nick Johston,Hawaii Five‑0,2,[10],5,3,1,6,5,5,[10],27,5
 ,9167,Nigel Lott,Robert Franks,Sweaty Betty,9,5,[10],[11],6,8,4,1,2,35,6
 ,8760,Daniel Keys,Daryl Roos,Intergalactic,5,8,4,[14],[9],9,8,6,8,48,7
-,8920,Jeffrey Robinson,Adam Wyatt,ASAP,11,12,3,4,8,[28],12,[14],9,59,8
+AUS,8920,Jeffrey Robinson,Adam Wyatt,ASAP,11,12,3,4,8,[28],12,[14],9,59,8
 ,8817,Michael Duffield,Anthony Gaunt,Tensing Norgay,7,6,[15],6,4,14,[15],12,13,62,9
 ,9115,Dean Souter,Bradley Clarke,Sailingbits.com,8,7,6,5,[36F],[17],16,9,11,62,10
 ,8893,Ryan Menzies,Lachlan Hornsby,Yeah Buddy,[39F],11,8,10,[36F],4,19,8,6,66,11
@@ -24,9 +24,9 @@
 ,8840,Matt Brooman,Michael Gallagher,Manalive,18,14,19,24,15,[32],29,25,[34],144,23
 ,8855,Nicholas Mariani,Alexander Thomson,Epileptic Octopus,[25],[30F],22,19,25,15,25,18,24,148,24
 ,8785,James Ryssenbeek,Andrew McCole,Card Sharks,14,19,26,[31],21,22,28,28,[29],158,25
-,9074,Earle Alexander,Patrick Attwell,Earle Grey 2,[41C],[41C],41C,41C,41C,11,9,10,7,160,26
+AUS,9074,Earle Alexander,Patrick Attwell,Earle Grey 2,[41C],[41C],41C,41C,41C,11,9,10,7,160,26
 ,8803,Michael Whitmore,John Hillcoat,Mistress Says Faster,16,21,18,26,24,[37],[36],31,27,163,27
-,9018,Brett Bowden,Rob Tikoft,Eighteen,[39F],24,20,27,27,20,27,[30],30,175,28
+AUS,9018,Brett Bowden,Rob Tikoft,Eighteen,[39F],24,20,27,27,20,27,[30],30,175,28
 ,8682,Richard Hyde,Lindsay Gilbert,Go To Red,22,18,[38F],28,31,31,26,29,[32],185,29
 ,8523,Jody Shiels,Marcus Castle,Where's Wally For Sa,[39F],[41C],28,25,22,24,32,34,31,196,30
 ,8795,John Campbell,Peter Croft,Sleek,26T,[41C],29,29,30,29,[38],32,26,201,31
