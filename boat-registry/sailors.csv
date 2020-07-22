@@ -1,20 +1,3 @@
-GER,Dirk Filimonrow
-GER,Diethardt Freye
-GER,Adalbert Kluck
-GER,Gerhard Schmidt
-SWE,Lars Stugemo
-SWE,Bo Ringdahl
-FRA,Valleteau de Moulliac
-GER,Petra Kliba-Schmidt
-GER,Jan-Rolf Schmidt
-GBR,Tim Berry
-FRA,Herve Wattine
-AUS,Tom Woods
-AUS,Reg Crick
-AUS,Charles Spence
-JPN,Aiko Saito
-JPN,Shiro Noguchi
-USA,Bruce Heckman
 AUS,Adam Brenz-Verca
 AUS,Adam Wyatt
 AUS,Adrian Finglas
@@ -33,6 +16,7 @@ AUS,Ben Schulz
 AUS,Bradley Clarke
 AUS,Bradley Greenrod
 AUS,Brett Beyer
+AUS,Brett Boulton
 AUS,Brett Bowden
 AUS,Brett Sharpe
 AUS,Brian Pike
@@ -72,7 +56,6 @@ AUS,Geoff Lange
 AUS,Gilbert Ford
 AUS,Glen Stewart
 AUS,Graeme Murphy
-AUS.Graeme Murphy
 AUS,Grahame Tindall
 AUS,Grant Abbott
 AUS,Grant Rose
@@ -167,6 +150,7 @@ AUS,Philip Scapens
 AUS,Pip Pearson
 AUS,Rasmus Goerge
 AUS,Reg Crick
+AUS,Renee de Voogd
 AUS,Richard Machin
 AUS,Richie Gallimore
 AUS,Riley Pike
@@ -201,6 +185,7 @@ AUS,Tom Brewer
 AUS,Tom Connell
 AUS,Tom Stuchbery
 AUS,Tom Watson
+AUS,Tom Woods
 AUS,Tony Wood
 AUS,Vivian Marcas
 AUS,Wayne Boyd
@@ -269,8 +254,10 @@ CAN,Thomas Kivney
 CAN,Tim Willett
 CAN,Victor Stopp
 CAN,Winston Cummins
+DEN,Allan Andreasen
 DEN,Anders Friis
 DEN,Anders Kaempe
+DEN,Bo Petersen
 DEN,Brian Sørensen
 DEN,Etienne Bourbeau
 DEN,Fabiola Wonterghem
@@ -282,11 +269,14 @@ DEN,Jakob Thomasen
 DEN,Jan Saugmann
 DEN,Jesper Bülow
 DEN,Jesper Ernst
+DEN,Jesper Legind Larsen
+DEN,Johnny Rodholm
 DEN,Jon Andersen
 DEN,Lars Henrik Andersen
 DEN,Lasse Andersen
 DEN,Lasse B. Andersen
 DEN,Laust Castor Lund
+DEN,Mads Christiansen
 DEN,Martin Thombs
 DEN,Michael Bang
 DEN,Michael Paulsen
@@ -300,11 +290,15 @@ DEN,Søren Asboe Jørgensen
 DEN,Tom Bøjland
 Feuchtenhofer
 FIN,Ari Dillemuth
+FIN,Björn Pundars
 FIN,Hannu Pöyry
+FIN,Henri Räty
 FIN,Juha Pietilä
 FIN,Juhani Heimsch
 FIN,Lauri Kääpä
+FIN,Miika Perden
 FIN,Rosemarie Hartman
+FIN,Tommy Andersson
 FIN,Ville Tarvo
 FRA,Adrien Lafortune
 FRA,Alain Chartier
@@ -336,6 +330,7 @@ FRA,Bastian Le Morvan
 FRA,Bastien Couvreux
 FRA,Benoit Dijoux
 FRA,Benoit Morane
+FRA,Bernard Dugrip
 FRA,Cedric Faucheux
 FRA,Celine Chevet
 FRA,Charles de Kergariou
@@ -379,6 +374,7 @@ FRA,Guillaume Regnier
 FRA,Guillaume Thery
 FRA,Henry Chevet
 FRA,Herve Brillaud
+FRA,Herve Wattine
 FRA,Hugues Morane
 FRA,Ivan Doerenbecher
 FRA,Jacques Bochu
@@ -386,13 +382,13 @@ FRA,Jacques Raguet
 FRA,Jean Blache
 FRA,Jean Charles Zimmowitch
 FRA,Jean Claude Ancelot
-FRA,Jean Philippe Chartier
 FRA,Jean-Baptiste Dupont
 FRA,Jean-Claude Ancelot
 FRA,Jean-Guy Puissant
 FRA,Jean-Luc Muzellec
 FRA,Jean-Marie Danielou
 FRA,Jean-Philippe Artielle
+FRA,Jean-Philippe Chartier
 FRA,Jean-Pierre Derungs
 FRA,Jean-Pierre Peter
 FRA,Jerome Zimmowitch
@@ -483,6 +479,7 @@ FRA,Thomas Soinard
 FRA,Tom Roussel
 FRA,Valentin Dechauffour
 FRA,Valentin Guerin
+FRA,Valleteau de Moulliac
 FRA,Veronique Brenet
 FRA,Vincent Le Morvan
 FRA,Vivien Lucienne
@@ -613,6 +610,7 @@ GBR,Pete Brooke Houghton
 GBR,Peter Bainbridge
 GBR,Peter Burwood
 GBR,Peter Halliwell
+GBR,Peter Ward
 GBR,Phil Brown
 GBR,Reeve Dunn
 GBR,Rich Berry
@@ -624,6 +622,7 @@ GBR,Richard Tucker
 GBR,Robert Napier
 GBR,Robin Tetly
 GBR,Roger Gilbert
+GBR,Ross Davies
 GBR,Russell Clark
 GBR,Russell Short
 GBR,Russell Wheeler
@@ -638,12 +637,14 @@ GBR,Simon Sydenham
 GBR,Simon Wood
 GBR,Steve Adams
 GBR,Steve Hunt
+GBR,Steve Watson
 GBR,Stewart Mears
 GBR,Stuart Curtis
 GBR,Suzanne Mcdermott
 GBR,Terry Scutcher
 GBR,Terry Selfe
 GBR,Thomas Bruton
+GBR,Tim Berry
 GBR,Tim Bird
 GBR,Tim Needham
 GBR,Tim Williams
@@ -653,7 +654,10 @@ GBR,Tom Stivano
 GBR,Tony Power
 GBR,Vernon Ralston
 GBR,Vincent Horey
+GER,Adalbert Kluck
 GER,Ailyn Hofmann
+GER,Alex Cross
+GER,Alexander Lampert
 GER,Alexander Neddermeier
 GER,Alexander von Mertens
 GER,Alexander Wilhelm
@@ -663,6 +667,7 @@ GER,Andreas Bock
 GER,Andreas Dillmann
 GER,Andreas Happich
 GER,Andréas Jungclaus
+GER,Andreas Lehmann
 GER,Andreas Porth
 GER,Angela Stenger
 GER,Anika Kébreau
@@ -679,10 +684,12 @@ GER,Antje Schneidewind
 GER,Arne Wittemer
 GER,Aron Tellen
 GER,Axel Dierich
+GER,Axel Oetken
 GER,Basti Henning
 GER,Benedict Pearson
 GER,Benedikt Northoff
 GER,Benjamin Gröger
+GER,Benjamin Großkurth
 GER,Bernd Heinisch
 GER,Bernd Kowalzig
 GER,Bernd Rasenack
@@ -690,8 +697,10 @@ GER,Birgit Hartmann
 GER,Bjorn Schaar
 GER,Brigitte Preuss
 GER,Bruno Laudage
+GER,Carl Uwe Böttner
 GER,Carsten Engel
 GER,Carsten Hehl
+GER,Carsten Seeger
 GER,Christian Bühring-Uhle
 GER,Christian Dörr
 GER,Christian Henge
@@ -699,28 +708,38 @@ GER,Christian Labenz
 GER,Christian Meier-Kothe
 GER,Christian Niefert
 GER,Christian Schafer
+GER,Christian Schönbach
 GER,Christian Sonntag
+GER,Christiane Giefers
 GER,Christina Burger
 GER,Christina Höll
 GER,Christina Wilhelm
 GER,Christoph Bökle
+GER,Christoph Klein
 GER,Claas Lehmann
 GER,Claudius Zeiler
 GER,Daniel Czeninga
+GER,Daniel Wehden
 GER,Davina Schlesiger
+GER,Diethardt Freye
 GER,Dietrich Scheder
 GER,Dietrich Scheder-Bieschin
 GER,Dirk Barteldt
 GER,Dirk Hänsgen
 GER,Dirk Hütten
+GER,Dirk Ipach
 GER,Dirk Lübbers
 GER,Dorothea Gebert
 GER,Dr Wolfgang Hunger
+GER,Eberhard Schockenhoff
 GER,Eckart König
 GER,Fabian Vergil
+GER,Falko Braun
 GER,Felix Björn Brockerhoff
 GER,Felix Graff
 GER,Felix Hummel
+GER,Felix Klöpfer
+GER,Felix Mittermayer
 GER,Finn Böger
 GER,Florian Brix
 GER,Florian Lautenschlager
@@ -731,6 +750,7 @@ GER,Frank Feller
 GER,Frank Heimburger
 GER,Frank Rupprich
 GER,Frank Wille
+GER,Frank Zschieschang
 GER,Franscisco Sanguino-Petersen
 GER,Frederik Tasche
 GER,Frieder Achterberg
@@ -739,19 +759,25 @@ GER,Friedrich Schropsdorff
 GER,Frisco Sanguind
 GER,Geeske Genrich
 GER,Georg Mittermayer
+GER,Georg Neulen
 GER,Gerald Roos
+GER,Gerhard Schmidt
 GER,Gordon Russell
 GER,Guido von Walter
+GER,Günter Bökle
 GER,Gunter Peters
 GER,Günter Peters
 GER,Hannes Kindermann
+GER,Hannes Lehning
 GER,Hannes Wagner
 GER,Hans Nöldeke
 GER,Hansjörg Ehlers
+GER,Hans-Jürgen Rentelmann
 GER,Hans-Werner Steding
 GER,Harald König
 GER,Hartwig Friedrichs
 GER,Heiner Hirthe
+GER,Helmut Madeheim
 GER,Hendrik Annighöfer
 GER,Henning Ries
 GER,Henning Steffen
@@ -764,12 +790,15 @@ GER,Iris Anton
 GER,Ivonne Seifert
 GER.Ivonne Seifert
 GER,Jakob Achterberg
+GER,Jan Behrendt
 GER,Jan Lürkens
 GER,Jan Mares
 GER,Jan Reifferscheidt
+GER,Jan Stölken
 GER,Jan Stremlow
 GER,Jan-Hendrik Lenz
 GER,Jan-Philipp Hofmann
+GER,Jan-Rolf Schmidt
 GER,Jans-Peter Schlomka
 GER,Jens Biederer
 GER,Jens Ellermann
@@ -786,6 +815,8 @@ GER,John Christiansen
 GER,Jonas Nissen
 GER,Jonas Royla
 GER,Jörg Gosche
+GER,Jörg Häger
+GER,Jörg Thumann
 GER,Jörn Alberts
 GER,Jörn Wille
 GER,Joseph Schütte
@@ -797,8 +828,10 @@ GER,Juliane Kohl
 GER,Julien Kleiner
 GER,Jürgen Feuerhake
 GER,Jürgen Joseph
+GER,Justus Rauno
 GER,Kai Bertallot
 GER,Kai Mares
+GER,Kai-Uwe Weiß
 GER,Karsten Contag
 GER,Karsten Lahrs
 GER,Karsten Stümpel
@@ -814,6 +847,7 @@ GER,Klaus Stammerjohann
 GER,Konrad Barop
 GER,Kristine Förster
 GER,Lars Lankenau
+GER,Lars Stöckmann
 GER,Lena Stückl
 GER,Lennart Tasche
 GER,Leon Oehme
@@ -831,12 +865,15 @@ GER,Marcus Pies
 GER,Maren Brehme
 GER,Maren Roos
 GER,Mario Tirre
+GER,Mark Felling
+GER,Markus Klos
 GER,Markus Mechlbauer
 GER,Markus Schöner
 GER,Martha Hauschild
 GER,Martin Bergmann
 GER,Martin Bernauer
 GER,Martin Deutscher
+GER,Martin Dr. Handel
 GER,Martin Görge
 GER,Martin Handel
 GER,Martin Kittsteiner
@@ -845,12 +882,14 @@ GER,Martin Maal
 GER,Martin Schöler
 GER,Marvin Schlesiger
 GER,Matthias Bruhl
+GER,Matthias Brühl
 GER,Matthias Dachs
 GER,Matthias Fedde
 GER,Matthias Tellen
 GER,Max Eisenrieder
 GER,Maximilian Weiß
 GER,Meike Schomäker
+GER,Melanie Oestergaard
 GER,Michael Eller
 GER,Michael Freitag
 GER,Michael Heyder
@@ -858,6 +897,7 @@ GER,Michael Köritz
 GER,Michael Krause
 GER,Michael Müller
 GER,Michael Rehberg
+GER,Michael Rössler
 GER,Michael Schöefer
 GER,Michael Troch
 GER,Michaela Melzwig
@@ -867,6 +907,7 @@ GER,Moritz Bohnenberger
 GER,Moritz Bruhns
 GER,Moritz Lüther
 GER,Morten Roos
+GER,Nathalie Friedrich
 GER,Nathalie Zeiler
 GER,Nicholas Melzwig
 GER,Nick Heuwinkel
@@ -877,12 +918,16 @@ GER,Ole Raschdorf
 GER,Oliver Schürmann
 GER,Oliver Stieglitz
 GER,Oliver Thies
+GER,Olivier Koch
 GER,Olivier Kraft
 GER,Paul Meyer
 GER,Pedro Bohnenberger
 GER,Peter Gerdts
 GER,Peter Kruse
+GER,Peter Wackerbauer
 GER,Peter Wilbert
+GER,Peter Wolffram
+GER,Petra Kliba-Schmidt
 GER,Philip Christiani
 GER,Philipp Müller
 GER,Philipp Sudbrack
@@ -891,18 +936,24 @@ GER,Pia Wiesbauer
 GER,Raik Wollenbecker
 GER,Rainer Görge
 GER,Rainer Kremkow
+GER,Rainer Lü
 GER,Ralf Breitenfeldt
+GER,Rebecca Strahl
 GER,Reimund Bauer
 GER,Ricarda Wolf
 GER,Robert Bautz
 GER,Robert Bussenius
+GER,Robert Hanke
+GER,Robert Steinke
 GER,Robert Wisolek
 GER,Roger Bussenius
 GER,Rolf Bertenrath
 GER,Rolf Meyer
 GER,Sascha Spors
+GER,Sebastian Dörr
 GER,Sebastian Hoering
 GER,Sebastian Munck
+GER,Sebastian Schröder
 GER,Sebastian Wiemer
 GER,Siegfried Labenz
 GER,Sophie Söllner
@@ -911,10 +962,12 @@ GER,Stefan Krumm
 GER,Stefan Schmidt
 GER,Stefan Schollmayer
 GER,Stefan Schollmeyer
+GER,Stefan Thurmann
 GER,Stefan Worm
 GER,Steffen Achenbach
 GER,Stephan Graff
 GER,Stephan Krause
+GER,Stephan Ottenschläger
 GER,Stephan Schweiger
 GER,Sven Bräcker
 GER,Sven Dömges
@@ -924,6 +977,7 @@ GER,Thilo König
 GER,Thomas Afken
 GER,Thomas Gosch
 GER,Thomas Jung
+GER,Thomas Osterholz
 GER,Thomas Tschentscher
 GER,Thomas Wasilewski
 GER,Thomas Weber
@@ -931,6 +985,7 @@ GER,Thomas Wilbert
 GER,Thoralf Greger
 GER,Thorben Köster
 GER,Thore von Puttkamer
+GER,Thorge Holm
 GER,Thorsten Pösch
 GER,Thorsten Spötter
 GER,Thure Gnadeberg
@@ -941,8 +996,12 @@ GER,Tobias Bolduan
 GER,Tobias Neumeyer
 GER,Tom Swift
 GER,Toralf Feuchtenhofer
+GER,Torsten Haverland
+GER,Torsten Koch
 GER,Torsten Simon
+GER,Torsten Trümper
 GER,Ulf Denecke
+GER,Ulf Geisler
 GER,Ulf Pleßmann
 GER,Ulli Heerdegen
 GER,Ulrich Ellerbeck
@@ -961,17 +1020,22 @@ GER,Welf Rehberg
 GER,Wiebke Gewinn
 GER,Wiebke Siemsen
 GER,Wilhelm Wollenbecker
+GER,Wolfdietrich Pfeiffer
+GER,Wolfgang Hiltscher
 GER,Wolfgang Seifert
 IRL,John Bourke
 IRL,John Dunlea,,,https://www.youtube.com/channel/UCTOXVv_53aQqzpktecluPAg
 IRL,Michael Ennis
 IRL,Pal O'Sullivan
+ITA,Andrea Greco
 ITA,Andrea Messina
 ITA,Cesare Giorgetti
 ITA,Gabriele Cortegiani
 ITA,Gabriele Natali
 ITA,Giacinto Piacquadio
 ITA,Roberto Candela
+JPN,Aiko Saito
+JPN,Shiro Noguchi
 LUX Jean-Paul Tousch
 LUX,Liz Speyer
 NZL,Richard Kiff
@@ -1053,6 +1117,7 @@ POL,Karol Bronicki
 POL,Karol Milewski,1985,YK Stal
 POL,Karol Tobolski
 POL,Karolina Gąsiorowska,1975,Yacht Klub Stal Gdynia
+POL,Kazimierz Osiak
 POL,Kazimierz Pelasik
 POL,Konrad Małachowski
 POL,Krystian Doch
@@ -1158,6 +1223,7 @@ RSA,Alexander Ham
 RSA,Anthony Parker
 RSA,Brett von Budenbrock
 RSA,Bronwen Klaas
+RSA,Dietmar Holm
 RSA,Dirk Rother
 RSA,Euan Hurter
 RSA,Ferdinand Holm
@@ -1167,6 +1233,7 @@ RSA,James Spikesly
 RSA,Jonathan Ham
 RSA,Kobus Holtzhausen
 RSA,Kyle Klaas
+RSA,Mark Biagio
 RSA,Nigel Milln
 RSA,Peter Funke
 RSA,Peter Roos
@@ -1175,14 +1242,17 @@ RSA,Robert Crisp
 RSA,Robert von Gruenewaldt
 RSA,Rudolph Holm
 RSA,Ryan Robinson
+RSA,Steve Hegerstrom
 RSA,Tina Plattner
 SUI,Ammann Walter
+SUI,Andreas Kindlimann
 SUI,Beat Waser
 SUI,Florian Stauffer
 SUI,Giles Donzé
 SUI,Gilles Petermann
 SUI,Jean-Marie Tinembart
 SUI,Jean-Philippe Senn
+SUI,John Bergquist
 SUI,Laurent Grob
 SUI,Lionel Hollinger
 SUI,Marcell Plüss
@@ -1205,9 +1275,11 @@ SWE,Anders Eklund
 SWE,Anders Karoliussen
 SWE,Andreas Carlsson
 SWE,Axel Danielsson
+SWE,Axel Hampe
 SWE,Axel Hultgren
 SWE,Bengt Magnusson
 SWE,Bengt Sareyko
+SWE,Bo Ringdahl
 SWE,Caroline Lexén
 SWE,Christer Bath
 SWE,Christer Båth
@@ -1242,6 +1314,7 @@ SWE,Johan Calvert
 SWE,Johan Johansson
 SWE,Johan Röök
 SWE,Johan Strömdahl
+SWE,Johann Arvedson
 SWE,Kalle Nilsson
 SWE,Karl-Erik Nilsson
 SWE,Katarina Engström
@@ -1249,6 +1322,7 @@ SWE,Knut Hastenpflug
 SWE,Lars Bjerke
 SWE,Lars Hultgren
 SWE,Lars Lindgren
+SWE,Lars Stugemo
 SWE,Lars Wester
 SWE,Lars Yngfors, Lars Wester
 SWE,Lasse Norberg
@@ -1381,6 +1455,7 @@ USA,Eric Anderson
 USA,Erik Boothe
 USA,Erik Coburn
 USA,Ethan Bixby
+USA,Euan McNicol
 USA,Evan Diola
 USA,Frank Thompson
 USA,Gabe Hill
@@ -1437,6 +1512,7 @@ USA,Lee Laney
 USA,Leslie Crane
 USA,Luke Lawrence
 USA,Macy Nelson
+USA,Mark Ivey
 USA,Mark Mccarthy
 USA,Mark Zagol
 USA,Martin Tipton
@@ -1489,8 +1565,10 @@ USA,Rob Woelfel
 USA,Robert Waterman
 USA,Robert Woelfel
 USA,Russell Miller
+USA,Ryan Lorence
 USA,Scott Ikle
 USA,Scott Weiler
+USA,Shane Illidge
 USA,Spencer Snapp
 USA,Stephen Bourdow
 USA,Sterling Spruill
