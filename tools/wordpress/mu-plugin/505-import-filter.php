@@ -820,6 +820,7 @@ class iworks_5o5_upload_fixer {
 		'Ben Mcgrane'                => 'Ben McGrane',
 		'Bernadette Dekegariou'      => 'Bernadette de Kergariou',
 		'Betschen René'              => 'René Betschen',
+		'Graham Engert'              => 'Grahame Engert',
 		'Biederer Jens'              => 'Jens Biederer',
 		'Bill Mastermann'            => 'Bill Masterman',
 		'Bill Mc Kinney'             => 'Bill McKinney',
