@@ -1,19 +1,19 @@
-Boat,Crew,Driver,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Pts,Place
-,Mike Martin,Howard Hamlin,,1,1,3*,1,3,6,1
-,Dave Shelton,Bruce Edwards,,2,4*,1,2,1,6,2
-,Jim Maloney,Jeff Miller,,4*,3,2,3,2,10,3
-,Bruce Tilley,Andy Beckman,,6,5,5,4,19 DNF*,20,4 tie
-,Richard Mundell,Robin Brown,,5,6,8*,5,4,20,4 tie
-,Alex Mehran,Carisa Harris,,8,9*,6,9,5,28,6
-,Andy Zinn,Dan Thompson,,3,2,7,19 DNS*,19 DNF,31,7
-,Ben Benjamin,Nick Adamson,,19 DNF*,19 DNF,4,6,6,35,8
-,Alan Norman,Ellen Ablow,,7,7,19 DNS*,7,19 DNF,40,9
-,Matt Sanders,Bryan Largay,,9,15,9,10,19 DNF*,43,10
-,Bruce Fleming,Steve Anderes,,11,11,11,12,19 DNS*,45,11
-,Per Jacobson,John Haley,,10,10,10,19 DNF*,19 DNS,49,12
-,Greg Sorrells,Aaron Ross,,14,13,12,13,19 DNF*,52,13
-,Kevin Hagen,Doug Hagan,,13,12,19 DNS*,14,19 DNS,58,14
-,Tom Burnard,Ian Plumbley,,12,19 DNF*,19 DNF,11,19 DNF,61,15
-,David Byron,Chris Kline,,19 DNS*,19 DNS,19 DNF,8,19 DNF,65,16 tie
-,Greg Gump,Gary Ruggles,,19 DNF*,8,19 DNS,19 DNS,19 DNF,65,16 tie
-,Paul Shipley,Paul Von Gray,,19 DNS*,14,19 DNS,19 DNF,19 DNF,71,18
+Nation,Boat,Crew,Driver,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Pts,Place
+,,Mike Martin,Howard Hamlin,,1,1,3*,1,3,6,1
+,,Dave Shelton,Bruce Edwards,,2,4*,1,2,1,6,2
+,,Jim Maloney,Jeff Miller,,4*,3,2,3,2,10,3
+,,Bruce Tilley,Andy Beckman,,6,5,5,4,19 DNF*,20,4 tie
+,,Richard Mundell,Robin Brown,,5,6,8*,5,4,20,4 tie
+,,Alex Mehran,Carisa Harris,,8,9*,6,9,5,28,6
+,,Andy Zinn,Dan Thompson,,3,2,7,19 DNS*,19 DNF,31,7
+,,Ben Benjamin,Nick Adamson,,19 DNF*,19 DNF,4,6,6,35,8
+,,Alan Norman,Ellen Ablow,,7,7,19 DNS*,7,19 DNF,40,9
+USA,7096,Matt Sanders,Bryan Largay,,9,15,9,10,19 DNF*,43,10
+,,Bruce Fleming,Steve Anderes,,11,11,11,12,19 DNS*,45,11
+,,Per Jacobson,John Haley,,10,10,10,19 DNF*,19 DNS,49,12
+,,Greg Sorrells,Aaron Ross,,14,13,12,13,19 DNF*,52,13
+,,Kevin Hagen,Doug Hagan,,13,12,19 DNS*,14,19 DNS,58,14
+,,Tom Burnard,Ian Plumbley,,12,19 DNF*,19 DNF,11,19 DNF,61,15
+,,David Byron,Chris Kline,,19 DNS*,19 DNS,19 DNF,8,19 DNF,65,16 tie
+,,Greg Gump,Gary Ruggles,,19 DNF*,8,19 DNS,19 DNS,19 DNF,65,16 tie
+,,Paul Shipley,Paul Von Gray,,19 DNS*,14,19 DNS,19 DNF,19 DNF,71,18

@@ -777,7 +777,10 @@ class iworks_5o5_upload_fixer {
 		 */
 	);
 
-	private $person = array(
+    private $person = array(
+        'Vernon Rallston' => 'Vernon Ralston',
+        'Brian Largay' => 'Bryan Largay',
+        'Jorgen Holm' => 'Jörgen Holm',
 		'A. Franklin'                => 'Alan Franklin',
 		'A Williams'                 => 'Andy Williams',
 		'Aaorn Ross'                 => 'Aaron Ross',
@@ -1130,6 +1133,8 @@ class iworks_5o5_upload_fixer {
 		'Jean -Baptiste Dupont'      => 'Jean-Baptiste Dupont',
 		'Jean Claude Ancelot'        => 'Jean-Claude Ancelot',
 		'Jean Gallo Pierre'          => 'Pierre-Jean Gallo',
+		'Jean Muzellec'            => 'Jean-Luc Muzellec',
+		'J. L. Muzellec'            => 'Jean-Luc Muzellec',
 		'Jean L Muzellec'            => 'Jean-Luc Muzellec',
 		'Jean Luc'                   => 'Jean-Luc Muzellec',
 		'Jean Luc Muzellec'          => 'Jean-Luc Muzellec',
@@ -1511,6 +1516,7 @@ class iworks_5o5_upload_fixer {
 		'Terry Scutscher'            => 'Terry Scutcher',
 		'Terry Slutcher'             => 'Terry Scutcher',
 		'Theo Geeraert'              => 'Théo Geeraerts',
+		'Thibault di Pede'           => 'Thibault Di Pede',
 		'Thibault Di Pade'           => 'Thibault Di Pede',
 		'Thibault Dipede'            => 'Thibault Di Pede',
 		'Thibault Vincent'           => 'Thibaut Vincent',
