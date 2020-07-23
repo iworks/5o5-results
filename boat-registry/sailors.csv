@@ -1,6 +1,3 @@
-POL,Dorota Dajkowska
-POL,Piotr Dutt
-GER,Jörgen Holm
 AUS,Adam Brenz-Verca
 AUS,Adam Wyatt
 AUS,Adrian Finglas
@@ -142,6 +139,7 @@ AUS,Nick Johnston
 AUS,Nick Johnstone
 AUS,Noah Taylor
 AUS,Patrick Atwell
+AUS,Paul Campbell
 AUS,Paul Greenwood
 AUS,Paul Marsh
 AUS,Paul Ridgway
@@ -291,6 +289,7 @@ DEN,Morten Ramsbæk
 DEN,Nikolaj Hoffmann Buhl,1992
 DEN,Per Winther Larsen
 DEN,Peter Moller
+DEN,Poul Strange
 DEN,Rasmus Andersen
 DEN,Søren Asboe Jørgensen
 DEN,Tom Bøjland
@@ -411,6 +410,7 @@ FRA,Laurent Michel
 FRA,Loic Bleuez
 FRA,Louis Claude
 FRA,Louise Acker
+FRA,Louis-Michel Ces
 FRA,Marc Desjuzeur
 FRA,Marc Pajot
 FRA,Marcel Buffet
@@ -553,6 +553,7 @@ GBR,Gary Cawthorn
 GBR,Geoff Edwards
 GBR,Geoff Kimber
 GBR,Gordon Russell
+GBR,Harold Barnes
 GBR,Hubertus Ritter
 GBR,Hugh Bourn
 GBR,Ian Barker
@@ -610,6 +611,7 @@ GBR,Nick Thorp
 GBR,Nigel Appleton
 GBR,Nigel Deane
 GBR,Nigel Vooght
+GBR,Ozzie Stewart
 GBR,Patrick Mcgale
 GBR,Paul Beasley
 GBR,Paul Davies
@@ -838,6 +840,7 @@ GER,Jonas Royla
 GER,Jörg Gosche
 GER,Jörg Häger
 GER,Jörg Thumann
+GER,Jörgen Holm
 GER,Jörn Alberts
 GER,Jörn Wille
 GER,Joseph Schütte
@@ -1099,6 +1102,7 @@ POL,Dominik Narloch,1997,
 POL,Dominik Ostrowski,1976, Międzyszkolny Klub Sportowy Dwójka
 POL,Dominik Pawłowski
 POL,Dominika Zielińska
+POL,Dorota Dajkowska
 POL,Emanuela Bartkowiak
 POL,Eugeniusz Kasprzyk
 POL,Ewa Bartosiewicz
@@ -1202,6 +1206,7 @@ POL,Paweł Różycki
 POL,Paweł Rzepecki
 POL,Paweł Strzelecki
 POL,Piotr Duma,1978,
+POL,Piotr Dutt
 POL,Piotr Julkiewicz
 POL,Piotr Kosobucki
 POL,Piotr Rzepecki
@@ -1308,6 +1313,7 @@ SWE,Christer Båth
 SWE,Christian Harding
 SWE,Christian Madsen
 SWE,Claes Boman
+SWE,Claes Gustavsson
 SWE,Claes Thurell
 SWE,Daniel Lundahl
 SWE,Daniel Rodhe
@@ -1332,6 +1338,7 @@ SWE,Jan Calvert
 SWE,Jana Hastenpflug
 SWE,Jesper Fowelin
 SWE,Joakim Peterson
+SWE,Joakim Petersson
 SWE,Johan Arvedson
 SWE,Johan Calvert
 SWE,Johan Johansson
@@ -1341,7 +1348,10 @@ SWE,Johann Arvedson
 SWE,Kalle Nilsson
 SWE,Karl-Erik Nilsson
 SWE,Katarina Engström
+SWE,Kjell Lidman
+SWE,Kjell Lidman
 SWE,Knut Hastenpflug
+SWE,Krister Bergström,
 SWE,Lars Bjerke
 SWE,Lars Edström
 SWE,Lars Hultgren
@@ -1349,7 +1359,8 @@ SWE,Lars Lexell
 SWE,Lars Lindgren
 SWE,Lars Stugemo
 SWE,Lars Wester
-SWE,Lars Yngfors, Lars Wester
+SWE,Lars Wester
+SWE,Lars Yngfors
 SWE,Lasse Norberg
 SWE,Leif Danielsson
 SWE,Lennart Andersson
@@ -1377,6 +1388,7 @@ SWE,Per-Anders Hallberg
 SWE,Per-Eric Thörnström
 SWE,Peter Andersson
 SWE,Peter Bökmark
+SWE,Petter Nilsson
 SWE,Pia Åhlund
 SWE,Pia Wennersten
 SWE,Rasmus Tengblad
@@ -1431,6 +1443,7 @@ USA,Barry Kuehl
 USA,Ben Benjamin
 USA,Ben Moon
 USA,Bill Jenkins
+USA,Bill Kenney
 USA,Bill McKinney
 USA,Bill Smith
 USA,Bob Conrad
@@ -1507,6 +1520,7 @@ USA,James Holstine
 USA,Jan Aase
 USA,Jason Breeden
 USA,Jason Bright
+USA,Jay Glaser
 USA,Jay Smith
 USA,Jeffrey Krusniak
 USA,Jeffrey Nelson

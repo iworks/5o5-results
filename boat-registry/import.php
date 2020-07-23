@@ -49,7 +49,10 @@ if ( sizeof( $argv ) === 1 ) {
 if ( in_array( 'all', $argv ) ) {
 	$import_registry = $import_results = $import_sailors = true;
 } else {
-	if ( in_array( 'registry', $argv ) ) {
+	if (
+		in_array( 'registry', $argv )
+		|| in_array( 'boats', $argv )
+	) {
 		$import_registry = true;
 	}
 	if ( in_array( 'sailors', $argv ) ) {
@@ -419,7 +422,8 @@ if ( $import_registry && ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) 
 				add_post_meta( $post_ID, $owners_field_name, $owners, true );
 			}
 		} else {
-			echo 'x(',$data[0],')';
+			echo 'x';
+			// echo 'x(',$data[0],')';
 		}
 	}
 
