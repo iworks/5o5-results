@@ -6,6 +6,7 @@ AUS,Alex Thomson
 AUS,Amy Lee
 AUS,Andrew Chisholm
 AUS,Andrew McCole
+AUS,Andrew McConaghy
 AUS,Andrew Petch
 AUS,Annabel Jones
 AUS,Anthony King
@@ -266,12 +267,14 @@ DEN,Hans Jørgen Riber
 DEN,Jacob Ernst
 DEN,Jakob Karbo
 DEN,Jakob Thomasen
+DEN,Jan Möller
 DEN,Jan Saugmann
 DEN,Jesper Bülow
 DEN,Jesper Ernst
 DEN,Jesper Legind Larsen
 DEN,Johnny Rodholm
 DEN,Jon Andersen
+DEN,Jörg Hansen
 DEN,Lars Henrik Andersen
 DEN,Lasse Andersen
 DEN,Lasse B. Andersen
@@ -450,7 +453,7 @@ FRA,Pierre Gendry
 FRA,Pierre Gorremans
 FRA,Pierre Guibbal
 FRA,Pierre Jean Gallo
-FRA,Pierre Penisson
+FRA,Pierre Pénisson
 FRA,Pierre Williot
 FRA,Pierre-Jerome Coulmin
 FRA,Regis Viateur
@@ -473,6 +476,7 @@ FRA,Theo Dutrieux
 FRA,Thibault Di Pede
 FRA,Thibault Vincent
 FRA,Thibaut Vincent
+FRA,Thierry Rattier
 FRA,Thomas Chartier
 FRA,Thomas Pype
 FRA,Thomas Soinard
@@ -547,6 +551,7 @@ GBR,Geoff Edwards
 GBR,Geoff Kimber
 GBR,Gordon Russell
 GBR,Hubertus Ritter
+GBR,Hugh Bourn
 GBR,Ian Barker
 GBR,Ian Mitchell
 GBR,Ian Nicholson
@@ -562,6 +567,7 @@ GBR,Jason Lunn
 GBR,Jim Berry
 GBR,Jim Hunt
 GBR,John Ironmonger
+GBR,John Loveday
 GBR,Jonathan Rennie
 GBR,Jonathan Ward
 GBR,Kevin Holden
@@ -580,6 +586,7 @@ GBR,Martin Goult
 GBR,Martin Grady
 GBR,Martin Hodgson
 GBR,Martin Hood
+GBR,Martin Spence
 GBR,Martin Stainsby
 GBR,Martin Wedge
 GBR,Mathieu Fountaine
@@ -597,6 +604,7 @@ GBR,Nicholas Powell
 GBR,Nick Beloe
 GBR,Nick Powell
 GBR,Nick Thorp
+GBR,Nigel Appleton
 GBR,Nigel Deane
 GBR,Nigel Vooght
 GBR,Patrick Mcgale
@@ -677,6 +685,7 @@ GER,Anja Stengel
 GER,Anna Dorothea Schipler
 GER,Anna Hauschild
 GER,Anna Heinisch
+GER,Anna Lang
 GER,Anne Nehrenberg
 GER,Antje Gosch
 GER,Antje Paulsen
@@ -684,7 +693,9 @@ GER,Antje Schneidewind
 GER,Arne Wittemer
 GER,Aron Tellen
 GER,Axel Dierich
+GER,Axel Isler
 GER,Axel Oetken
+GER,Axel Schult
 GER,Basti Henning
 GER,Benedict Pearson
 GER,Benedikt Northoff
@@ -705,6 +716,7 @@ GER,Christian Bühring-Uhle
 GER,Christian Dörr
 GER,Christian Henge
 GER,Christian Labenz
+GER,Christian Lindemann
 GER,Christian Meier-Kothe
 GER,Christian Niefert
 GER,Christian Schafer
@@ -725,6 +737,7 @@ GER,Diethardt Freye
 GER,Dietrich Scheder
 GER,Dietrich Scheder-Bieschin
 GER,Dirk Barteldt
+GER,Dirk Filimonow
 GER,Dirk Hänsgen
 GER,Dirk Hütten
 GER,Dirk Ipach
@@ -737,6 +750,7 @@ GER,Fabian Vergil
 GER,Falko Braun
 GER,Felix Björn Brockerhoff
 GER,Felix Graff
+GER,Felix Heibeck
 GER,Felix Hummel
 GER,Felix Klöpfer
 GER,Felix Mittermayer
@@ -762,6 +776,7 @@ GER,Georg Mittermayer
 GER,Georg Neulen
 GER,Gerald Roos
 GER,Gerhard Schmidt
+GER,Gesche Kohlberg
 GER,Gordon Russell
 GER,Guido von Walter
 GER,Günter Bökle
@@ -774,13 +789,16 @@ GER,Hans Nöldeke
 GER,Hansjörg Ehlers
 GER,Hans-Jürgen Rentelmann
 GER,Hans-Werner Steding
+GER,Harald Hundt
 GER,Harald König
 GER,Hartwig Friedrichs
 GER,Heiner Hirthe
 GER,Helmut Madeheim
 GER,Hendrik Annighöfer
+GER,Hendrik Reinhardt
 GER,Henning Ries
 GER,Henning Steffen
+GER,Henrik Masekowitz
 GER,Henrik Schade
 GER,Hermann Wollenbecker
 GER,Hilmer Goedeking
@@ -937,6 +955,7 @@ GER,Raik Wollenbecker
 GER,Rainer Görge
 GER,Rainer Kremkow
 GER,Rainer Lü
+GER,Rainer Lühr
 GER,Ralf Breitenfeldt
 GER,Rebecca Strahl
 GER,Reimund Bauer
@@ -1262,6 +1281,7 @@ SUI,Matthias Märki
 SUI,Michel Rotache
 SUI,Patrick Ducommun
 SUI,Peter Schweizer
+SUI,Phillipe Jacot
 SUI,Res Schürch
 SUI,Toni Utiger
 SUI,Valéry Jacot
@@ -1281,10 +1301,10 @@ SWE,Bengt Magnusson
 SWE,Bengt Sareyko
 SWE,Bo Ringdahl
 SWE,Caroline Lexén
-SWE,Christer Bath
 SWE,Christer Båth
 SWE,Christian Harding
 SWE,Christian Madsen
+SWE,Claes Boman
 SWE,Claes Thurell
 SWE,Daniel Lundahl
 SWE,Daniel Rodhe
@@ -1320,7 +1340,9 @@ SWE,Karl-Erik Nilsson
 SWE,Katarina Engström
 SWE,Knut Hastenpflug
 SWE,Lars Bjerke
+SWE,Lars Edström
 SWE,Lars Hultgren
+SWE,Lars Lexell
 SWE,Lars Lindgren
 SWE,Lars Stugemo
 SWE,Lars Wester
@@ -1342,8 +1364,10 @@ SWE,Niklas Beckvid
 SWE,Olle Wenrup
 SWE,Oskar Lundberg
 SWE,Patric Wollmersson
-SWE,Pelle Bath
+SWE,Pelle Båth
+SWE,Pelle Norberg
 SWE,Per Kjellberg
+SWE,Per Oskarsson
 SWE,Per Wennersten
 SWE,Per Wester
 SWE,Per-Anders Hallberg
@@ -1486,6 +1510,7 @@ USA,Jeffrey Nelson
 USA,Jennifer Morgan Glass
 USA,Jesse Falsone
 USA,Jim Englert
+USA,Jim Maloney
 USA,Joe Keating
 USA,Joerg Esdorn
 USA,John Badtke
@@ -1493,6 +1518,7 @@ USA,John Wyles
 USA,John Zakaib
 USA,Jon Bell
 USA,Jon Henderson
+USA,Jonathan Livingstone
 USA,Josh Dyck
 USA,Justin Shaffer
 USA,Kaila Pfrang
@@ -1571,8 +1597,10 @@ USA,Scott Weiler
 USA,Shane Illidge
 USA,Spencer Snapp
 USA,Stephen Bourdow
+USA,Stephen Owens
 USA,Sterling Spruill
 USA,Steve Anderes
+USA,Steve Rosenberg
 USA,Steve Sparkman
 USA,Stevios Papadakis
 USA,Stine Cacavas
