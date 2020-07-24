@@ -224,12 +224,12 @@ Event Start Date,Event End Date,Name,Races,Competitors,Area,Organizer,Secretary,
 2019-07-27,2019-07-28,Pucki Puchar 505,7,18,"Puck,POL",,,,,,,2019/country/poland/2019-07-28-puchar-polski-puck.csv,Polish Cup,,
 2019-08-06,2019-08-10,European Championship,10,75,"Sønderborg,DEN",Sønderborg Yacht-Club,,,,,,2019/continental/2019-08-10-european-championship-sonderborg-DEN.csv,"Continental,Euro Cup",,
 2019-08-16,2019-08-18,Puchar Burmistrza Miasta Ustka,10,20,"Ustka,POL",,,,,,,2019/country/poland/2019-08-18-puchar-polsk-ustka.csv,Polish Cup,,
-2019-08-17,2019-08-18,Canadian Championship,5,23,"Kingston,ON,CAN",Kingston Yacht Club,,,,,,2019/country/canada/2019-08-18-canadian-championships-kingston-ontario-CAN.csv,"National, Canada",,
+2019-08-17,2019-08-18,Canadian Championship,5,23,"Kingston,ON,CAN",Kingston Yacht Club,,,,,,2019/country/canada/2019-08-18-canadian-championships-kingston-ontario-CAN.csv,National/Canada,,
 2019-08-21,2019-08-25,North American Championship,10,39,"Kingston,ON,CAN",Kingston Yacht Club,,,,,,2019/continental/2019-08-25-north-american-championship-kingston-ontario-CAN.csv,Continental,,
 2019-09-02,2019-09-02,Dale Jepsen One-Design Regatta,7,16,"Bellingham,WA,USA",Bellingham Yacht Club,,,,,,2019/country/usa/2019-09-02.dale-jepsen-one-design-regatta.bellingham-wa.USA.csv,,,
 2019-09-06,2019-09-06,EMK Syysregatta,7,8,"Espoo,FIN",Espoon Merenkävijät ry,,,,,,2019/country/finland/2019-09-06-emk-syysregatta.espoo.FIN.csv,,,
 2019-09-06,2019-09-08,Hayling Island,8,28,"Hayling Island,GBR",Hayling Island Sailing Club,,,,,,2019/country/uk/2019-09-08-euro-cup-hayling-island-GBR.csv,Euro Cup,,
-2019-09-06,2019-09-08,Polish Championship,10,17,"Baltic Sea,Gdynia,POL",Polskie Stowarzyszenie Klasy 5O5,,,,,,2019/country/poland/2019-09-08-polish-open-national-championship.baltic-sea.gdynia-POL.csv,"National, Poland",,
+2019-09-06,2019-09-08,Polish Championship,10,17,"Baltic Sea,Gdynia,POL",Polskie Stowarzyszenie Klasy 5O5,,,,,,2019/country/poland/2019-09-08-polish-open-national-championship.baltic-sea.gdynia-POL.csv,National/Poland,,
 2019-09-21,2019-09-22,Emäsalonregatta,6,4,"Borgå,FIN",Borgå Segelsällskap r. f.,,,,,,2019/country/finland/2019-09-22-emasalonregatta.borga.FIN.csv,,,
 2019-09-28,2019-08-18,Finał Sezonu Pucharu Polski,6,16,"Szczecin,POL",,,,,,,2019/country/poland/2019-09-29-final-sezonu.csv,Polish Cup,,
 2019-09-28,2019-09-29,Oktoberfestpreis,4,10,"Tutzing,GER",Deutscher Touring Yacht-Club e.V.,Michael Lohner,Friedrich Hauger,,,,2019/country/germany/2019-09-29-tutzing-oktoberfestpreis.csv,,,
@@ -237,11 +237,28 @@ Event Start Date,Event End Date,Name,Races,Competitors,Area,Organizer,Secretary,
 2019-10-19,2019-10-20,Berliner Meisterschaft,4,20,"Berlin,GER",Verein Seglerhaus am Wannsee Berliner Segler-Verband e.V.,,,,,,2019/country/germany/2019-10-20-berlin-meistershaft.csv,,,
 2019-10-19,2019-10-20,Region II Championships,5,14,"West River,USA",West River Sailing Club and the Bay family,,,,,,2019/country/usa/2019-10-20-region-ii-championships.west-river.USA.csv,,,
 2019-10-26,2019-10-27,Sauncacup,6,13,"Markkleeberg, GER",Cospudener Yacht Club Markkleeberg e.V.,,,,,,2019/country/germany/2019-10-27.sauncacup.markkleeberg.GER.csv,,,
-2020-01-16,2020-01-21,Australian Championship,8,33,"Melbourne,AUS",Royal Brighton Yacht Club,,,,,,2020/country/australia/2020-01-21-australian-championship.melbourne.AUS.csv,"National, Australia",,AUS
+2020-01-16,2020-01-21,Australian Championship,8,33,"Melbourne,AUS",Royal Brighton Yacht Club,,,,,,2020/country/australia/2020-01-21-australian-championship.melbourne.AUS.csv,National/Australia,,AUS
 2020-02-07,2020-02-09,Midwinter Championship,8,16,"Clearwater,USA",Clearwater Community Sailing Center,,,,,,2020/country/usa/2020-02-09-midwinters.clearwater.USA.csv,,,USA
 2020-07-04,2020-07-05,Sommerregatta,5,16,"Tutzing,GER",Deutscher Touring Yacht-Club e.V.,,,,,,2020/country/germany/2020-07-04.sommerregatta.tutzing.GER.csv,,,GER
 2020-07-11,2020-07-12,Lotos Nord Cup,7,14,"Górki Zachodnie,POL",,,,,,,2020/country/poland/2020-07-12.lotos-nord-cup.gdansk.POL.csv,Polish Cup,Zatoka Gdańska,POL
 2001-08-08,2001-08-12,North American Championship,6,35,"Kingston,ON,CAN",Kingston Yacht Club,,,,,,2001/continental/2001-08-12-north-american-championship-kingston-ontario-CAN.csv,Continental/North America,,CAN
+1970-08-23,1970-08-28,World Championship,6,80,"Plymouth, England",,,,,,,1970/world/1970-08-28.world-championship-plymouth.GBR.csv,World,,GBR
+1978-08-18,1978-08-27,World Championship,5,86,"Copenhagen, DEN","Skovshoved Sejlklub,",,,,,,1978/world/1978-08-27.world-championship.copenhagen.DEN.csv,World,,DEN
+1970-05-16,1970-05-18,DM,3,23,"Rastaholm,SWE",,,,,,,1970/country/sweden/1970-05-18.dm.rastaholm.SWE.csv,,,SWE
+1968-08-06,1968-08-10,Svenskt mästerskap,7,36,"Sandhamn,SWE",,,,,"5-7,5-7,3-7,3-4,4,1-2,5",,1968/country/sweden/1968-08-10.svenskt-masterskap.sandhamn.SWE.csv,National/Sweden,,SWE
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
@@ -264,7 +281,6 @@ Event Start Date,Event End Date,Name,Races,Competitors,Area,Organizer,Secretary,
 1966,,World Championship,,,"Adelaide, Australia",,,,,,,,World,,
 1967,,World Championship,,,"La Baule, France",,,,,,,,World,,
 1969,,World Championship,,,"Buenos Aires, Argentina",,,,,,,,World,,
-1970,,World Championship,,,"Plymouth, England",,,,,,,,World,,
 1971,,World Championship,,,"Santa Cruz, USA",,,,,,,,World,,
 1972,,World Championship,,,"Helsinki, Finland",,,,,,,,World,,
 1976-01-01,1976-01-01,World Championship,,,"New South Wales, AUS",,,,,,,,World,,Lake Macquarie

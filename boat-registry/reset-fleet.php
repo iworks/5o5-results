@@ -17,24 +17,62 @@
 
 require 'functions.php';
 
-global $wpdb;
+$reset_registry = $reset_results = $reset_sailors = false;
 
-$truncate = array(
-	'fleet_regatta',
-	'fleet_regatta_race',
-);
-foreach ( $truncate as $table ) {
-	$wpdb->query( sprintf( 'truncate %s%s', $wpdb->prefix, $table ) );
-	echo $wpdb->last_query,PHP_EOL;
+if ( sizeof( $argv ) === 1 ) {
+	echo 'select parts to reset:',PHP_EOL;
+	echo '- all (all parts)',PHP_EOL;
+	echo '- registry',PHP_EOL;
+	echo '- sailors',PHP_EOL;
+	echo '- results',PHP_EOL;
+	exit;
 }
-
-$post_types = array(
-	'iworks_fleet_boat',
-	'iworks_fleet_person',
-	'iworks_fleet_result',
-);
-
-
+/**
+ * Setup reset parts
+ */
+if ( in_array( 'all', $argv ) ) {
+	$reset_registry = $reset_results = $reset_sailors = true;
+} else {
+	if (
+		in_array( 'b', $argv )
+		|| in_array( 'registry', $argv )
+		|| in_array( 'boats', $argv )
+	) {
+		$reset_registry = true;
+	}
+	if (
+		in_array( 's', $argv )
+		|| in_array( 'sailors', $argv )
+	) {
+		$reset_sailors = true;
+	}
+	if (
+		in_array( 'e', $argv )
+		|| in_array( 'events', $argv )
+		|| in_array( 'results', $argv )
+	) {
+		$reset_results = true;
+	}
+}
+global $wpdb;
+$post_types = array();
+if ( $reset_registry ) {
+	$post_types[] = 'iworks_fleet_boat';
+}
+if ( $reset_sailors ) {
+	$post_types[] = 'iworks_fleet_person';
+}
+if ( $reset_results ) {
+	$post_types[] = 'iworks_fleet_result';
+	$truncate     = array(
+		'fleet_regatta',
+		'fleet_regatta_race',
+	);
+	foreach ( $truncate as $table ) {
+		$wpdb->query( sprintf( 'truncate %s%s', $wpdb->prefix, $table ) );
+		echo $wpdb->last_query,PHP_EOL;
+	}
+}
 foreach ( $post_types as $post_type ) {
 	$wpdb->delete( $wpdb->posts, array( 'post_type' => $post_type ) );
 	echo $wpdb->last_query,PHP_EOL;

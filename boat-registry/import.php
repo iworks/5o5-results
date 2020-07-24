@@ -56,17 +56,17 @@ if ( in_array( 'all', $argv ) ) {
 	) {
 		$import_registry = true;
 	}
-    if (
-        in_array( 's', $argv ) 
-        || in_array( 'sailors', $argv ) 
-    ) {
+	if (
+		in_array( 's', $argv )
+		|| in_array( 'sailors', $argv )
+	) {
 		$import_sailors = true;
 	}
-    if (
-        in_array( 'e', $argv )
-        || in_array( 'events', $argv )
-        || in_array( 'results', $argv )
-    ) {
+	if (
+		in_array( 'e', $argv )
+		|| in_array( 'events', $argv )
+		|| in_array( 'results', $argv )
+	) {
 		$import_results = true;
 	}
 }
