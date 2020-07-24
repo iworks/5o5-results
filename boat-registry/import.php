@@ -571,19 +571,7 @@ if ( $import_results && ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false 
 				}
 				$this_series = array();
 				foreach ( explode( ',', $value ) as $serie ) {
-					$serie = trim( $serie );
-					if ( isset( $series[ $serie ] ) && is_object( $series[ $serie ] ) ) {
-						$post_array['tax_input'][ $field ][] = $series[ $serie ]->term_id;
-					} else {
-						$series[ $serie ] = wp_insert_term( $serie, $field );
-						$series[ $serie ] = get_term_by( 'name', $serie, $field );
-						if ( is_object( $series[ $serie ] ) ) {
-							$post_array['tax_input'][ $field ][] = $series[ $serie ]->term_id;
-						} else {
-							print_r( [ $serie, $series ] );
-							die;
-						}
-					}
+					handle_serie_taxonomy( $serie, $series, $post_array );
 				}
 				continue;
 			}

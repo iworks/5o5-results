@@ -189,3 +189,31 @@ function check_is_person( $data ) {
 	return true;
 }
 
+function handle_serie_taxonomy( $serie, &$series, &$post_array, $parent = 0 ) {
+	$field = 'iworks_fleet_serie';
+	echo $serie,PHP_EOL;
+	if ( preg_match( '@/@', $serie ) ) {
+		foreach ( preg_split( '@/@', $serie ) as $el ) {
+			$parent = handle_serie_taxonomy( $el, $series, $post_array, $parent );
+		}
+	} else {
+		$serie = trim( $serie );
+		if ( isset( $series[ $serie ] ) && is_object( $series[ $serie ] ) ) {
+			$post_array['tax_input'][ $field ][] = $series[ $serie ]->term_id;
+			return $series[ $serie ]->term_id;
+		} else {
+			$series[ $serie ] = wp_insert_term( $serie, $field, array( 'parent' => $parent ) );
+			$series[ $serie ] = get_term_by( 'name', $serie, $field );
+			if ( is_object( $series[ $serie ] ) ) {
+				$post_array['tax_input'][ $field ][] = $series[ $serie ]->term_id;
+				return $series[ $serie ]->term_id;
+			} else {
+				print_r( [ $serie, $series ] );
+				die;
+			}
+		}
+	}
+
+}
+
+
