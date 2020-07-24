@@ -50,15 +50,23 @@ if ( in_array( 'all', $argv ) ) {
 	$import_registry = $import_results = $import_sailors = true;
 } else {
 	if (
-		in_array( 'registry', $argv )
+		in_array( 'b', $argv )
+		|| in_array( 'registry', $argv )
 		|| in_array( 'boats', $argv )
 	) {
 		$import_registry = true;
 	}
-	if ( in_array( 'sailors', $argv ) ) {
+    if (
+        in_array( 's', $argv ) 
+        || in_array( 'sailors', $argv ) 
+    ) {
 		$import_sailors = true;
 	}
-	if ( in_array( 'results', $argv ) ) {
+    if (
+        in_array( 'e', $argv )
+        || in_array( 'events', $argv )
+        || in_array( 'results', $argv )
+    ) {
 		$import_results = true;
 	}
 }

@@ -115,6 +115,7 @@ AUS,Matt Merchant
 AUS,Matt Smith
 AUS,Matt Summers
 AUS,Matthew Hansen
+AUS,Matthew Owen
 AUS,Matthew Till
 AUS,Max Hayman
 AUS,Michael Cook
@@ -261,10 +262,13 @@ DEN,Anders Friis
 DEN,Anders Kaempe
 DEN,Bo Petersen
 DEN,Brian Sørensen
+DEN,Carsten Petersen
+DEN,Erik Ørsted
 DEN,Etienne Bourbeau
 DEN,Fabiola Wonterghem
 DEN,Finn Angelo
 DEN,Hans Jørgen Riber
+DEN,Helge Rasmussen
 DEN,Jacob Ernst
 DEN,Jakob Karbo
 DEN,Jakob Thomasen
@@ -273,15 +277,19 @@ DEN,Jan Saugmann
 DEN,Jesper Bülow
 DEN,Jesper Ernst
 DEN,Jesper Legind Larsen
+DEN,Johnny Redholm
 DEN,Johnny Rodholm
 DEN,Jon Andersen
 DEN,Jörg Hansen
+DEN,Kristoffer Møllevang
+DEN,Lars Espersen
 DEN,Lars Henrik Andersen
 DEN,Lasse Andersen
 DEN,Lasse B. Andersen
 DEN,Laust Castor Lund
 DEN,Mads Christiansen
 DEN,Martin Thombs
+DEN,Martin Thumle
 DEN,Michael Bang
 DEN,Michael Paulsen
 DEN,Michael Wonterghem
@@ -306,6 +314,7 @@ FIN,Rosemarie Hartman
 FIN,Tommy Andersson
 FIN,Ville Tarvo
 FRA,Adrien Lafortune
+FRA,Alain Beltzung
 FRA,Alain Chartier
 FRA,Alain Ferec
 FRA,Alain Karadjian
@@ -336,6 +345,7 @@ FRA,Bastien Couvreux
 FRA,Benoit Dijoux
 FRA,Benoit Morane
 FRA,Bernard Dugrip
+FRA,Bernard Peuch
 FRA,Cedric Faucheux
 FRA,Celine Chevet
 FRA,Charles de Kergariou
@@ -502,6 +512,7 @@ GBR,Alex Barry
 GBR,Alex Cherry
 GBR,Alex Cull
 GBR,Alex Davies
+GBR,Andrew Nolan
 GBR,Andrew Short
 GBR,Andrew Smith
 GBR,Andrew Streeter
@@ -553,10 +564,12 @@ GBR,Gary Cawthorn
 GBR,Geoff Edwards
 GBR,Geoff Kimber
 GBR,Gordon Russell
+GBR,Gordon Russen
 GBR,Harold Barnes
 GBR,Hubertus Ritter
 GBR,Hugh Bourn
 GBR,Ian Barker
+GBR,Ian Godfrey
 GBR,Ian Mitchell
 GBR,Ian Nicholson
 GBR,Ian Pinnell
@@ -644,6 +657,7 @@ GBR,Scott Allen
 GBR,Simon Briddon
 GBR,Simon Dabson
 GBR,Simon Hiscook
+GBR,Simon Hiscooks
 GBR,Simon Lake
 GBR,Simon Spratt
 GBR,Simon Sydenham
@@ -664,6 +678,7 @@ GBR,Tim Williams
 GBR,Tom Clayton
 GBR,Tom Darling
 GBR,Tom Stivano
+GBR,Tom Ward
 GBR,Tony Power
 GBR,Vernon Ralston
 GBR,Vincent Horey
@@ -674,6 +689,7 @@ GER,Alexander Lampert
 GER,Alexander Neddermeier
 GER,Alexander von Mertens
 GER,Alexander Wilhelm
+GER,André Müller
 GER,Andre Tirre
 GER,Andréas Achterberg
 GER,Andreas Bock
@@ -682,6 +698,8 @@ GER,Andreas Happich
 GER,Andréas Jungclaus
 GER,Andreas Lehmann
 GER,Andreas Porth
+GER,Andreas Schmidt
+GER,Andreas Thomsen
 GER,Angela Stenger
 GER,Anika Kébreau
 GER,Anika Wollenbecker
@@ -723,6 +741,7 @@ GER,Christian Henge
 GER,Christian Labenz
 GER,Christian Lindemann
 GER,Christian Meier-Kothe
+GER,Christian Müllejans
 GER,Christian Niefert
 GER,Christian Schafer
 GER,Christian Schönbach
@@ -737,6 +756,7 @@ GER,Claas Lehmann
 GER,Claudius Zeiler
 GER,Daniel Czeninga
 GER,Daniel Wehden
+GER,David Thiemann
 GER,Davina Schlesiger
 GER,Diethardt Freye
 GER,Dietrich Scheder
@@ -786,6 +806,7 @@ GER,Gordon Russell
 GER,Guido von Walter
 GER,Günter Bökle
 GER,Gunter Peters
+GER,Günter Peters
 GER,Günter Peters
 GER,Hannes Kindermann
 GER,Hannes Lehning
@@ -905,6 +926,7 @@ GER,Martin Lietz
 GER,Martin Maal
 GER,Martin Schöler
 GER,Marvin Schlesiger
+GER,Mathias Haase
 GER,Matthias Bruhl
 GER,Matthias Brühl
 GER,Matthias Dachs
@@ -1009,6 +1031,7 @@ GER,Thomas Weber
 GER,Thomas Wilbert
 GER,Thoralf Greger
 GER,Thorben Köster
+GER,Thore Michels
 GER,Thore von Puttkamer
 GER,Thorge Holm
 GER,Thorsten Pösch
@@ -1280,6 +1303,7 @@ SUI,Gilles Petermann
 SUI,Jean-Marie Tinembart
 SUI,Jean-Philippe Senn
 SUI,John Bergquist
+SUI,Jürg Weber
 SUI,Laurent Grob
 SUI,Lionel Hollinger
 SUI,Marcell Plüss
@@ -1289,6 +1313,7 @@ SUI,Matthias Märki
 SUI,Michel Rotache
 SUI,Patrick Ducommun
 SUI,Peter Schweizer
+SUI,Phillip Grob
 SUI,Phillipe Jacot
 SUI,Res Schürch
 SUI,Toni Utiger
@@ -1307,6 +1332,7 @@ SWE,Axel Hampe
 SWE,Axel Hultgren
 SWE,Bengt Magnusson
 SWE,Bengt Sareyko
+SWE,Björn Thews
 SWE,Bo Ringdahl
 SWE,Caroline Lexén
 SWE,Christer Båth
@@ -1332,6 +1358,7 @@ SWE,Göran Källfeldt
 SWE,Göran Petersson
 SWE,Gunilla Berg
 SWE,Gustav Franzén
+SWE,Henrik Gustafsson
 SWE,Ingrid Söderström
 SWE,Jakob Lindvall
 SWE,Jan Calvert
@@ -1370,6 +1397,7 @@ SWE,Malin Broberg
 SWE,Malin Vångfors
 SWE,Marcus Haas
 SWE,Martin Persson
+SWE,Martin Westerdahl
 SWE,Mats Lindgren
 SWE,Mattias Stenqvistt
 SWE,Mikael Ahrbom
@@ -1394,6 +1422,7 @@ SWE,Pia Wennersten
 SWE,Rasmus Tengblad
 SWE,Ray Larsson
 SWE,Rita Cording
+SWE,Robert Larsson
 SWE,Roy Wedin
 SWE,Staffan Eklund
 SWE,Stefan Eriksson
@@ -1426,6 +1455,7 @@ USA,Alan Norman
 USA,Alex Simanis
 USA,Alexander Meller
 USA,Alexia Fischer
+USA,Allan Johnson
 USA,Alyce Flanagan
 USA,Amie Huebner
 USA,Andrew Chadwick
