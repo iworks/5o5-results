@@ -1,15 +1,3 @@
-SWE,Stefan Sjöström
-GBR,Eric Ironmonger
-GBR,Mark Longstaff
-RSA,David Vinnicombe
-RSA,Peter Vinnicombe
-USA,Tucker Edmundson
-GER,Michael Seeger
-FRA,Marc Jouany
-FRA,Erik Nigon
-GBR,Chris Robinson
-GBR,Tom Philips
-AUS,Malcolm Page
 AUS,Adam Brenz-Verca
 AUS,Adam Wyatt
 AUS,Adrian Finglas
@@ -117,6 +105,7 @@ AUS,Luke Payne
 AUS,Luke Rhodes
 AUS,Maggie Bowden
 AUS,Malcolm Higgins
+AUS,Malcolm Page
 AUS,Marcel Vos
 AUS,Marcus Cooper
 AUS,Mark Stowell
@@ -293,6 +282,7 @@ DEN,Johnny Redholm
 DEN,Johnny Rodholm
 DEN,Jon Andersen
 DEN,Jörg Hansen
+DEN,Ketil Johansen
 DEN,Kristoffer Møllevang
 DEN,Lars Espersen
 DEN,Lars Henrik Andersen
@@ -377,6 +367,7 @@ FRA,Eric Basset
 FRA,Eric Le Morvan
 FRA,Eric Quémard
 FRA,Eric Valery
+FRA,Erik Nigon
 FRA,Erwan Grossmann
 FRA,Fabrice Bouton
 FRA,Fabrice Toupet
@@ -412,7 +403,6 @@ FRA,Jean Claude Ancelot
 FRA,Jean-Baptiste Dupont
 FRA,Jean-Claude Ancelot
 FRA,Jean-Guy Puissant
-RSA,Malcom Möller
 FRA,Jean-Luc Muzellec
 FRA,Jean-Marie Danielou
 FRA,Jean-Philippe Artielle
@@ -435,6 +425,7 @@ FRA,Louis Claude
 FRA,Louise Acker
 FRA,Louis-Michel Ces
 FRA,Marc Desjuzeur
+FRA,Marc Jouany
 FRA,Marc Pajot
 FRA,Marcel Buffet
 FRA,Marcel Troupel
@@ -519,6 +510,8 @@ FRA,Xavier Broise
 FRA,Yann Plathier
 FRA,Yves Coltier
 FRA,Yves Pajot
+GBR,Adrian Howe
+GBR,Adrian Mullis
 GBR,Alan Montague
 GBR,Alastair Milton
 GBR,Alex Barry
@@ -535,6 +528,7 @@ GBR,Andy Couch
 GBR,Andy Edmonds
 GBR,Andy Harrop
 GBR,Andy Parkinson
+GBR,Andy Phillips
 GBR,Andy Tyas
 GBR,Andy Williams
 GBR,Arthur George
@@ -542,26 +536,34 @@ GBR,Ben Farren-Price
 GBR,Ben McGrane
 GBR,Bill Masterman
 GBR,Bill Munnery
+GBR,Bill Oliver
 GBR,Bobbie Johnson
 GBR,Brenda Romans
 GBR,Brian Newlyn
 GBR,Carl Gibbons
+GBR,Charlie Stewart
 GBR,Chips Howarth
 GBR,Chris Delves
 GBR,Chris Hewkin
+GBR,Chris Robinson
 GBR,Chris Romans
 GBR,Chris Thorne
 GBR,Christopher Dando
 GBR,Clive Robinson
 GBR,Colin Rawlings
+GBR,Damon Smith
 GBR,Dan Johnson
 GBR,Dan Parsons
+GBR,Dan Spratling
 GBR,Daniel Cripps
 GBR,Daniel Hart
+GBR,Darrel Samanjoul
+GBR,Dave Chalkey
 GBR,Dave Hughes
 GBR,David Barnes
 GBR,David Bell
 GBR,David Hitcock
+GBR,David Ryder
 GBR,David Smithwhite
 GBR,David Spragg
 GBR,David Thorpe
@@ -572,17 +574,22 @@ GBR,Donald Aitken
 GBR,Donald Sloan
 GBR,Dougal Cram
 GBR,Elliott Wells
+GBR,Eric Ironmonger
 GBR,Frank Rainsborough
 GBR,Gary Cawthorn
+GBR,Gary Fowler
 GBR,Geoff Edwards
 GBR,Geoff Kimber
 GBR,Gordon Russell
 GBR,Gordon Russen
+GBR,Greg Brown
 GBR,Harold Barnes
 GBR,Hubertus Ritter
 GBR,Hugh Bourn
 GBR,Ian Barker
 GBR,Ian Godfrey
+GBR,Ian Gould
+GBR,Ian McGillivray
 GBR,Ian Mitchell
 GBR,Ian Nicholson
 GBR,Ian Pinnell
@@ -596,10 +603,13 @@ GBR,Jarrod Simpson
 GBR,Jason Lunn
 GBR,Jim Berry
 GBR,Jim Hunt
+GBR,John Driscoll
 GBR,John Ironmonger
 GBR,John Loveday
+GBR,John Wilson
 GBR,Jonathan Rennie
 GBR,Jonathan Ward
+GBR,Jude Beamers
 GBR,Kevin Holden
 GBR,Kieth Borders
 GBR,Kimball Morrison
@@ -611,6 +621,8 @@ GBR,Lewis Dann
 GBR,Luke Molloy
 GBR,Magnus Leask
 GBR,Mark Darling
+GBR,Mark Fowler
+GBR,Mark Longstaff
 GBR,Mark Upton-Brown
 GBR,Martin Goult
 GBR,Martin Grady
@@ -619,12 +631,14 @@ GBR,Martin Hood
 GBR,Martin Spence
 GBR,Martin Stainsby
 GBR,Martin Wedge
+GBR,Martin Wright
 GBR,Mathieu Fountaine
 GBR,Matt Alavado
 GBR,Matthew Bristow
 GBR,Michael Nolan
 GBR,Michael Priddle
 GBR,Mike Holmes
+GBR,Mike Langefeld
 GBR,Miles Odell
 GBR,Neil Fulcher
 GBR,Neil Rabbitts
@@ -637,8 +651,11 @@ GBR,Nick Thorp
 GBR,Nigel Appleton
 GBR,Nigel Deane
 GBR,Nigel Vooght
+GBR,Ollie Boyes
 GBR,Ozzie Stewart
 GBR,Patrick Mcgale
+GBR,Patrick Moore
+GBR,Paul Barnbridge
 GBR,Paul Beasley
 GBR,Paul Davies
 GBR,Paul Davis
@@ -653,15 +670,18 @@ GBR,Peter Ward
 GBR,Phil Brown
 GBR,Reeve Dunn
 GBR,Rich Berry
+GBR,Richard Anderton
 GBR,Richard Berry
 GBR,Richard Nurse
 GBR,Richard Rowe
 GBR,Richard Tew
 GBR,Richard Tucker
+GBR,Robert Burdekin
 GBR,Robert Napier
 GBR,Robin Tetly
 GBR,Roger Gilbert
 GBR,Ross Davies
+GBR,Ross Kenney
 GBR,Russell Clark
 GBR,Russell Short
 GBR,Russell Wheeler
@@ -677,6 +697,7 @@ GBR,Simon Sydenham
 GBR,Simon Wood
 GBR,Steve Adams
 GBR,Steve Hunt
+GBR,Steve Perkins
 GBR,Steve Watson
 GBR,Stewart Mears
 GBR,Stuart Curtis
@@ -690,11 +711,13 @@ GBR,Tim Needham
 GBR,Tim Williams
 GBR,Tom Clayton
 GBR,Tom Darling
+GBR,Tom Philips
 GBR,Tom Stivano
 GBR,Tom Ward
 GBR,Tony Power
 GBR,Vernon Ralston
 GBR,Vincent Horey
+GBR,Walter Doule
 GER,Adalbert Kluck
 GER,Ailyn Hofmann
 GER,Alex Cross
@@ -819,7 +842,6 @@ GER,Gordon Russell
 GER,Guido von Walter
 GER,Günter Bökle
 GER,Gunter Peters
-GER,Günter Peters
 GER,Günter Peters
 GER,Hannes Kindermann
 GER,Hannes Lehning
@@ -958,6 +980,7 @@ GER,Michael Müller
 GER,Michael Rehberg
 GER,Michael Rössler
 GER,Michael Schöefer
+GER,Michael Seeger
 GER,Michael Troch
 GER,Michaela Melzwig
 GER,Micki Daisenberger
@@ -1084,8 +1107,10 @@ GER,Wilhelm Wollenbecker
 GER,Wolfdietrich Pfeiffer
 GER,Wolfgang Hiltscher
 GER,Wolfgang Seifert
+IRL,Brendan Dwyer
 IRL,John Bourke
 IRL,John Dunlea,,,https://www.youtube.com/channel/UCTOXVv_53aQqzpktecluPAg
+IRL,John O'Gorman
 IRL,Michael Ennis
 IRL,Pal O'Sullivan
 ITA,Andrea Greco
@@ -1284,8 +1309,10 @@ POL,Zbisław Lasek
 RSA,Albrecht Holm
 RSA,Alexander Ham
 RSA,Anthony Parker
+RSA,Anton Ellens
 RSA,Brett von Budenbrock
 RSA,Bronwen Klaas
+RSA,David Vinnicombe
 RSA,Dietmar Holm
 RSA,Dirk Rother
 RSA,Euan Hurter
@@ -1296,11 +1323,12 @@ RSA,James Spikesly
 RSA,Jonathan Ham
 RSA,Kobus Holtzhausen
 RSA,Kyle Klaas
+RSA,Malcom Möller
 RSA,Mark Biagio
 RSA,Nigel Milln
-RSA,Anton Ellens
 RSA,Peter Funke
 RSA,Peter Roos
+RSA,Peter Vinnicombe
 RSA,Rob Hancock
 RSA,Robert Crisp
 RSA,Robert von Gruenewaldt
@@ -1331,6 +1359,7 @@ SUI,Phillipe Jacot
 SUI,Res Schürch
 SUI,Toni Utiger
 SUI,Valéry Jacot
+SUI,Yves Reinacher
 SUI,Yvo Durr
 SWE,Albert Lawenius
 SWE,Alexander Gleerup
@@ -1389,7 +1418,6 @@ SWE,Kalle Nilsson
 SWE,Karl-Erik Nilsson
 SWE,Katarina Engström
 SWE,Kjell Lidman
-SWE,Kjell Lidman
 SWE,Knut Hastenpflug
 SWE,Krister Bergström,
 SWE,Lars Bjerke
@@ -1398,7 +1426,6 @@ SWE,Lars Hultgren
 SWE,Lars Lexell
 SWE,Lars Lindgren
 SWE,Lars Stugemo
-SWE,Lars Wester
 SWE,Lars Wester
 SWE,Lars Yngfors
 SWE,Lasse Norberg
@@ -1679,6 +1706,7 @@ USA,Tom Crawford
 USA,Tom Fink
 USA,Tom O'toole
 USA,Tony DeVita
+USA,Tucker Edmundson
 USA,Tyler Moore
 USA,W Allen Kilgore
 USA,Will Lowe
