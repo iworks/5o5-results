@@ -1,14 +1,14 @@
 Boat,Helm,Crew,Club,1,2,3,4,5,final,n°
 USA 8266,Howard Hamlin,Mike Martin,,2,2,2,1,DNS,9,1
-USA 7771,Andy Beeckman,Ben Benjamin,,1,9,1,5,6,21.70,2
-DEN 8728,Jörgen Schönherr,Anders Kaempe,,3,4,3,3,5,25.10,3
-GER 8721,Wolfgang Hunger,Holger Jess,,4,3,5,4,DNF,31.70,4
-SWE 8655,Krister Bergström,Thomas Moss,,5,5,6,2,7,34.70,5
-GBR 8720,Ian Pinnell,Nick Powell,,14,1,12,7,3,36.70,6
-SWE 8232,Ebbe Rosén,Olle Wenrup,,8,6,15,9,2,43.70,7
+USA 7771,Andy Beeckman,Ben Benjamin,,1,9,1,5,6,21.7,2
+DEN 8728,Jörgen Schönherr,Anders Kaempe,,3,4,3,3,5,25.1,3
+GER 8721,Wolfgang Hunger,Holger Jess,,4,3,5,4,DNF,31.7,4
+SWE 8655,Krister Bergström,Thomas Moss,,5,5,6,2,7,34.7,5
+GBR 8720,Ian Pinnell,Nick Powell,,14,1,12,7,3,36.7,6
+SWE 8232,Ebbe Rosén,Olle Wenrup,,8,6,15,9,2,43.7,7
 GBR 8552,Mark Upton-Brown,Ian Mitchell,,11,12,9,21,1,50,8
 DEN 8620,Jan Saugmann,Morten Ramsbeck,,12,11,7,43,4,56,9
-GER 8623,Stefan Böhm,Gerald Roos,,37,8,11,6,14,62.70,10
+GER 8623,Stefan Böhm,Gerald Roos,,37,8,11,6,14,62.7,10
 FRA 8684,Peirre-Jean Gallo,Fabri Toupet,,10,27,17,11,12,74,11
 GER 8670,Martin Goerge,Rayner Goerge,,9,14,4,47,27,76,12
 FRA 8702,Philippe Boite,Jean L Muzellec,,20,16,29,8,9,77,13
@@ -31,10 +31,10 @@ SWE 8585,Jan Eriksson,Magnus Molin,,52,34,30,16,35,139,29
 CAN 7200,Alexander Meller,Malcolm 'Pip' Pearson,,32,33,22,46,28,139,30
 GER 8621,Dirk Filiminov,Lars Stockmann,,18,63,39,32,29,142,31
 GBR 8707,Steve Nicholson,Jonat Mildred,,31,41,10,38,DNF,144,32
-GER 8671,Markus Muhlbauer,Angel Stenger,,6,40,69,30,45,144.70,33
+GER 8671,Markus Muhlbauer,Angel Stenger,,6,40,69,30,45,144.7,33
 DEN 8675,Rasmus Fredsted,Thomas Hartuig,,44,31,46,14,36,149,34
 FRA 7740,Erick Petit,Thierry Rattier,,42,30,48,40,18,154,35
-GBR 8640,Vernon Ralston,Simon Spratt,,19,RDG,31,44,59,156.30,36
+GBR 8640,Vernon Ralston,Simon Spratt,,19,RDG,31,44,59,156.3,36
 GBR 8526,Tim Bird,Arhtur George,,62,29,26,27,55,161,37
 FRA 8677,Michel Christ,Philippe Claude,,23,35,DSQ,36,47,165,38
 DEN 8622,Tom Bøjland,Soren Rohde,,34,57,28,29,DNF,172,39
@@ -110,7 +110,7 @@ AUS 8185,Earle Alexander,Ken Leckenby,,128,110,108,112,69,423,108
 FRA 8545,Alain Preel,Alexis Preel,,113,128,87,116,83,423,109
 GBR 8423,Martin Luright,Criss Luright,,114,102,114,93,90,423,110
 FRA 8352,Philippe Noclain,Jean Noclain,,107,125,93,114,91,429,111
-FRA 8456,Pede Jean-Pierre Di,Pede Be Di,,133,87,127,106,87,431,112
+FRA 8456,Jean-Pierre Di Pede,Be Di Pede,,133,87,127,106,87,431,112
 FRA 7932,Jacques Raguet,Ludovic Roblin,,100,84,120,122,106,434,113
 FRA 8693,Muriel Jeanne,Gilles Carvallo,,126,124,107,88,94,437,114
 FRA 7147,Alain Champeau,Jean M Tournier,,91,92,118,117,121,442,115
@@ -140,7 +140,7 @@ FRA 8302,Claude Got,Stephane Aggeri,,129,107,149,124,DNC,533,138
 FRA 8301,Bernard Blondy,Jerome Bourgoin,,148,136,DNF,121,113,542,139
 FRA 8359,Frederic Dalle,Laure Dalle,,127,142,140,131,126,548,140
 FRA 8157,Bernard Dugrip,Pierre Bories,,130,133,134,141,132,553,141
-BEL 7979,Frederic Dignef,Herde Luc D,,141,139,131,126,137,557,142
+BEL 7979,Frederic Dignef,Luc D Herde,,141,139,131,126,137,557,142
 FRA 8062,Guillaume Brossillon,L Porcher,,144,146,130,139,122,559,143
 FRA 8427,Jamonieres Nicolas Des,Lasnier,,139,129,136,150,131,559,144
 FRA 6340,Bernard Peiffert,Didi Peiffert,,134,144,DNC,134,124,560,145

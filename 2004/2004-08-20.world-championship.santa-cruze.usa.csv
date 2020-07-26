@@ -5,15 +5,15 @@ USA 8714,Mike Martin,Jeff Nelson,,3,1,2,1,19*,18,10,35,3
 USA 8762,Daniel Thompson,Andrew Zinn,,5,6,13,2,15*,6,8,40,4
 GBR 8834,Ian Pinnell,Steve Hunt,,103*,23,4,5,10,2,3,47,5
 AUS 8839,Sandy Higgins,Paul Marsh,,12,12,9,15,8,1,17*,57,6
-USA 8824,Andy Beeckman,Glass,,8,3,21*,13,9,17,11,61,7
-GER 8672,Christian Kellner,Schoeler,,10,20,8,10,26*,10,4,62,8
+USA 8824,Andy Beeckman,Benjamin Glass,,8,3,21*,13,9,17,11,61,7
+GER 8672,Christian Kellner,Martin Schöler,,10,20,8,10,26*,10,4,62,8
 USA 8792,Carol Buchan,Carl Buchan,,17,31,10,62*,1,4,6,69,9
 AUS 8801,Peter Chapple,Gill,,24,13,6,103*,14,16,7,80,10
 USA 8822,Mike Holt,Carl Smit,,4,7,11,4,31,36*,26,83,11
-USA 8680,Bruce Edwards,Shelton,,9,8,22,9,23,22,24*,93,12
-AUS 8796,Higgins,Johnston,,15,10,5,12,29,29,41*,100,13
+USA 8680,Bruce Edwards,David Shelton,,9,8,22,9,23,22,24*,93,12
+AUS 8796,Alexander Higgins,Nick Johnston,,15,10,5,12,29,29,41*,100,13
 USA 7771,Kevin Taugher,Chuck Tripp,,22,24,7,26,13,60*,12,104,14
-FRA 8802,Boite,Goerge,,25,103*,32,32,11,5,1,106,15
+FRA 8802,Philippe Boite,Volker Goerge,,25,103*,32,32,11,5,1,106,15
 USA 8815,Renehan,Fritz Lanzinger,,26,14,28,25,5,8,31*,106,16
 USA 7875,Jeff Miller,Bell,,7,17,103*,34,4,11,35,108,17
 AUS 8809,Nathanson,Machin,,19,5,23,19,18,27*,25,109,18
@@ -22,7 +22,7 @@ USA 8554,Doug Hagan,Stuart Park,,103*,15,26,14,21,33,14,123,20
 GER 8843,Voelckner,Lars Dehne,,11,27,19,30,22,37*,19,128,21
 USA 8776,Alexander Meller,Jesse Falsone,,31,45,103*,18,16,13,9,132,22
 USA 8715,Ethan Bixby,Boothe,,103*,9,30,43,6,9,36,133,23
-USA 8081,Harris,Silverman,,41*,22,31,44,12,14,13,133,24
+USA 8081,Barney Harris,Silverman,,41*,22,31,44,12,14,13,133,24
 USA 8829,Tyler Moore,Sparkman,,33,29,36,27,2,12,38*,139,25
 AUS 8853,Carter Jackson,Nicholson,,28,33*,18,22,28,19,29,144,26
 USA 8831,Kerry Poe,Paul von Grey,,27,38*,27,11,24,32,30,151,27
@@ -38,12 +38,12 @@ CAN 8698,Fowler,Fowler,,34,66*,37,41,40,26,20,198,36
 GBR 8555,Walters,Dougal Cram,,20,103*,3,103,32,30,23,211,37
 AUS 8840,Michael Quirk,Showell,,48,47,14,54*,36,24,44,213,38
 DEN 8826,Tom Bøjland,Christian Stormark,,43,42,44,37,59*,31,21,218,39
-AUS 8813,Brett Van Munster,McAllister,,49,19,35,36,55*,41,40,220,40
-USA 8823,Nigel Oswald,Woelfel,,23,103*,50,8,33,55,66,235,41
+AUS 8813,Brett Van Munster,James McAllister,,49,19,35,36,55*,41,40,220,40
+USA 8823,Nigel Oswald,RobWoelfel,,23,103*,50,8,33,55,66,235,41
 USA 8808,Evert Meyer,Holger Jess,,46,46,15,56,78*,35,45,243,42
 USA 8643,Barney Harris,Saunders,,50,11,59,20,54,67*,53,247,43
-USA 7156,Aaron Ross,Pearson,,71*,36,58,58,38,28,32,250,44
-USA 8012,Barb Amthor,James,,47,43,43,42,45,40,50*,260,45
+USA 7156,Aaron Ross,Pip Pearson,,71*,36,58,58,38,28,32,250,44
+USA 8012,Barb Amthor,Clayton James,,47,43,43,42,45,40,50*,260,45
 USA 8411,Bill Jenkins,Dan Merino,,42,25,48,57,62,64*,28,262,46
 USA 8731,Thad Lieb,Mike Smith,,44,37,40,29,72,48,65*,263,47
 GBR 8552,Russell Short,Andrew Short,,59,39,49,61*,51,53,15,266,48
@@ -51,9 +51,9 @@ GBR 8701,Rob Napier,Matthew Bristow,,18,61*,38,52,65,57,43,269,49
 GBR 8419,Stuart Turnbull,Jason Lunn,,38,21,47,50,70*,63,58,277,50
 AUS 8817,Nigel Lott,Franks,,53,44,33,39,75,46,62*,277,51
 GBR 8836,David Smithwhite,Neil Fulcher,,16,51,103*,17,60,38,103,285,52
-AUS 8785,Ian Burford,Cronin,,37,32,69,45,56,59,64*,293,53
-AUS 8855,Duffield,Gaunt,,29,103*,53,49,69,47,47,294,54
-USA 7092,Tihansky,Romey,,57,30,64,59*,57,42,49,294,55
+AUS 8785,Ian Burford,Sam Cronin,,37,32,69,45,56,59,64*,293,53
+AUS 8855,Michael Duffield,Anthony Gaunt,,29,103*,53,49,69,47,47,294,54
+USA 7092,Tihansky,Dustin Romey,,57,30,64,59*,57,42,49,294,55
 USA 8084,Flam,Rob Waterman,,67,103*,20,38,52,50,68,295,56
 CAN 8192,Philip Cragg,Cross,,40,35,63*,60,43,76,55,296,57
 USA 6992,Brad Wheeler,Mais,,61*,41,70,55,41,58,42,298,58
@@ -61,20 +61,20 @@ GER 8751,Melanie Oestergaard,Angela Stenger,,58,64,80*,64,30,43,48,307,59
 USA 8660,Sloan,Nick Nelson,,60*,55,55,65,39,45,54,308,60
 AUS 8798,Mark Stowell,Scott Bailey,,39,50,61,48,46,103*,74,318,61
 AUS 8811,Matthew Hansen,Shane Attwell,,56,52,65,47,42,71*,67,329,62
-AUS 8781,Earle Alexander,Boulton,,52,53,39,46,79*,73,70,333,63
+AUS 8781,Earle Alexander,Brett Boulton,,52,53,39,46,79*,73,70,333,63
 USA 8814,Lin Robson,Jorgensen,,51,62,54,68,103*,39,59,333,64
 USA 8790,John Wyles,Beardsley,,73,103*,57,72,53,52,27,334,65
 GBR 8726,Martin Stainsby,Poston,,55,58,52,77*,71,49,52,337,66
-USA 8838,Kahn,Estcourt,,64,34,76,51,49,69,73*,340,67
-USA 8841,Kahn,Allen,,103*,103,51,33,67,68,37,359,68
+USA 8838,Samuel Kahn,Andrew Estcourt,,64,34,76,51,49,69,73*,340,67
+USA 8841,Philippe Kahn,Paul Allen,,103*,103,51,33,67,68,37,359,68
 CAN 8696,Deb Ashby,Dave Adams,,77*,56,75,74,47,54,61,367,69
 GBR 8745,Chris Pearson,Frank Rainsborough,,54,59,60,67,66,61,78*,367,70
 USA 6230,Craig Thompson,JB Turney,,69,103*,79,75,35,70,46,374,71
 AUS 8783,Fletcher Kennedy,Ben Greenhough,,103*,63,45,40,94,65,79,386,72
 USA 8018,Hauser,Sol Marini,,68,48,72,70,80*,79,60,397,73
-USA 8857,Cristensen,Dunning,,103*,103,56,71,44,74,57,405,74
+USA 8857,Mark Cristensen,Harry Dunning,,103*,103,56,71,44,74,57,405,74
 USA 7877,Steve Anderes,Kirk Twardowski,,65,54,68,73,77,82*,71,408,75
-USA 8778,Darryl Dietz,Hurwitch,,76,60,71,63,63,83*,82,415,76
+USA 8778,Darryl Dietz,Thomas Hurwitch,,76,60,71,63,63,83*,82,415,76
 USA 7774,Paul Tara,Kolb,,103*,77,73,76,58,62,72,418,77
 GBR 8708,Martin Wedge,Scott Allen,,62,103*,67,69,61,80,103,442,78
 CAN 8755,Brian Trainor,Karl Oswald,,82,65,78,83,64,91,77,449,79

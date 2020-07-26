@@ -1,3 +1,43 @@
+SUI,Sacha Wirth
+FRA,Jean-Pierre Di Pede
+FRA,Be Di Pede
+GER,Günter Peters
+GER,Matthias Brühl
+GER,Lars Metzner
+GER,Enno Thaeter
+POL,Jarosław Górski
+POL,Grzegorz Stencel
+GBR,Steve Culpitt
+GBR,Mark Nicholson
+BEL,Lien Van Assche
+BEL,Cédric Crets
+BEL,Lionel Lampert
+BEl,Sander Smeets
+FRA,Yves Niddam
+FRA,Jean Philippe Hermieu
+FRA,Christian Simonnot
+FRA,Lawrence Banahan
+SUI,Lorenz Nydegger
+SUI,Martin Nydegger
+USA,Stephen Benjamin
+USA,Duncan Skinner
+USA,Gary Knapp
+SWE,Andreas Karoliussen
+SWE,Bengt Zachrisson
+USA,Kevil Eley
+USA,Bob Wondolleck
+USA,George Iverson
+AUS,Dennis Evans
+AUS,Stephen Ianna
+AUS,Mark Engert
+DEN,Soren Storm
+GBR,Neil Willmot
+AUS,Kim Williams
+AUS,John Greenlees
+CAN,Margaret Hurley
+GBR,Tim Hancock
+USA,David Penfield
+AUS,A. Martin
 AUS,Adam Brenz-Verca
 AUS,Adam Wyatt
 AUS,Adrian Finglas
@@ -21,11 +61,13 @@ AUS,Brett Boulton
 AUS,Brett Bowden
 AUS,Brett Sharpe
 AUS,Brian Pike
+AUS,Brian Price
 AUS,Bryce Penfold
 AUS,Byron Mavrick
 AUS,Cameron McDonald
 AUS,Charles Spence
 AUS,Chris Gregg
+AUS,Chris Hough
 AUS,Chris Whyte
 AUS,Christopher Paterson
 AUS,Christopher Pearson
@@ -54,6 +96,7 @@ AUS,Edmond Repsevicius
 AUS,Frank Karlovecz
 AUS,Gary Rushton
 AUS,Geoff Lange
+AUS,Geoffrey Kyrwood
 AUS,Gilbert Ford
 AUS,Glen Stewart
 AUS,Graeme Murphy
@@ -68,22 +111,24 @@ AUS,Ian Burford
 AUS,Ian Davidson
 AUS,Ian Dunn
 AUS,Ian Gregg
-AUS,Ian Mc Gillivray
+AUS,Ian McGillivray
 AUS,Ian Scholes
 AUS,Ian Taylor
 AUS,James Ford
-AUS,James Mc Gillivray
+AUS,James McGillivray
 AUS,James McAllister
 AUS,James Ryssenbeek
 AUS,Jeffrey Robinson
 AUS,Jeremy Fussell
 AUS,Jeremy Manders
-AUS,Jim Mc Gillivray
+AUS,Jim McGillivray
 AUS,Joel Castle
+AUS,John B. Cuneo
 AUS,John Fry
 AUS,John Jenkins
 AUS,John Macarthur‑King
 AUS,John McLean
+AUS,John Parrington
 AUS,John Paterson
 AUS,Jonathon Ross
 AUS,Jonno Bannister
@@ -119,6 +164,7 @@ AUS,Matthew Hansen
 AUS,Matthew Owen
 AUS,Matthew Till
 AUS,Max Hayman
+AUS,Max Whitnall
 AUS,Michael Cook
 AUS,Michael Gallagher
 AUS,Michael Lawrence
@@ -145,6 +191,7 @@ AUS,Paul Campbell
 AUS,Paul Greenwood
 AUS,Paul Marsh
 AUS,Paul Ridgway
+AUS,Peter Harvey
 AUS,Peter Holden
 AUS,Peter McDonald
 AUS,Peter Nicholas
@@ -164,6 +211,7 @@ AUS,Robert Fleming
 AUS,Robert Franks
 AUS,Robert Gilchrist
 AUS,Robin Bath
+AUS,Rod Dalgleish
 AUS,Roger Pell
 AUS,Ryan Menzies
 AUS,Sam Haines
@@ -179,6 +227,7 @@ AUS,Shane Guanaria
 AUS,Simon Reffold
 AUS,Simon Wilder
 AUS,Soggy Pidsley
+AUS,Stephen Jones
 AUS,Steve Howden
 AUS,Steve McConaghy
 AUS,Steve Sievewright
@@ -297,8 +346,10 @@ DEN,Michael Paulsen
 DEN,Michael Wonterghem
 DEN,Morten Ramsbæk
 DEN,Nikolaj Hoffmann Buhl,1992
+DEN,Paul Bert Elvstrøm
 DEN,Per Winther Larsen
 DEN,Peter Moller
+DEN,Pierre Poullain
 DEN,Poul Strange
 DEN,Rasmus Andersen
 DEN,Søren Asboe Jørgensen
@@ -310,6 +361,8 @@ FIN,Hannu Pöyry
 FIN,Henri Räty
 FIN,Juha Pietilä
 FIN,Juhani Heimsch
+FIN,Jyri Wilén
+FIN,Kari Wilén
 FIN,Lauri Kääpä
 FIN,Miika Perden
 FIN,Rosemarie Hartman
@@ -339,6 +392,7 @@ FRA,Arnaud Dini
 FRA,Augustin Doumic
 FRA,Aurelien Pierroz
 FRA,Aymeric Essertel
+FRA,B. Moret
 FRA,Baptiste Galaup
 FRA,Baptiste Lafortune
 FRA,Basile Géron
@@ -348,6 +402,8 @@ FRA,Benoit Dijoux
 FRA,Benoit Morane
 FRA,Bernard Dugrip
 FRA,Bernard Peuch
+FRA,Bev Moss
+FRA,Bruno Levesque
 FRA,Cedric Faucheux
 FRA,Celine Chevet
 FRA,Charles de Kergariou
@@ -357,6 +413,7 @@ FRA,Christophe Bochu
 FRA,Ciret-Lecosquer Madeg
 FRA,Claire Carvallo
 FRA,Clement Card
+FRA,D Doufier
 FRA,Damien Trouillet
 FRA,David De Monteil
 FRA,Derek Farrant
@@ -402,7 +459,9 @@ FRA,Jean Charles Zimmowitch
 FRA,Jean Claude Ancelot
 FRA,Jean-Baptiste Dupont
 FRA,Jean-Claude Ancelot
+FRA,Jean-Claude Cornu
 FRA,Jean-Guy Puissant
+FRA,Jean-Luc Baptiste
 FRA,Jean-Luc Muzellec
 FRA,Jean-Marie Danielou
 FRA,Jean-Philippe Artielle
@@ -445,12 +504,16 @@ FRA,Muriel Jeanne
 FRA,Nicholas Loday
 FRA,Nicolas Auberger
 FRA,Nicolas Croce
+FRA,Nicolas Fedorenko
 FRA,Nicolas Guillou
+FRA,Nicolas Loday
 FRA,Nicolas Martin
 FRA,Nicolas Michel
 FRA,Nicolas Picquerey
 FRA,Olivier Magret
+FRA,P Harinkcouck
 FRA,Patrice Hue
+FRA,Patrick Wolff
 FRA,Paul Alric
 FRA,Paul Cousin
 FRA,Paul Roche
@@ -473,6 +536,7 @@ FRA,Pierre Jean Gallo
 FRA,Pierre Pénisson
 FRA,Pierre Williot
 FRA,Pierre-Jerome Coulmin
+FRA,R. Morch
 FRA,Regis Viateur
 FRA,Robert Lehmann
 FRA,Robin Farrant
@@ -535,6 +599,7 @@ GBR,Arthur George
 GBR,Ben Farren-Price
 GBR,Ben McGrane
 GBR,Bill Masterman
+GBR,Bill Moakes
 GBR,Bill Munnery
 GBR,Bill Oliver
 GBR,Bobbie Johnson
@@ -610,6 +675,7 @@ GBR,John Wilson
 GBR,Jonathan Rennie
 GBR,Jonathan Ward
 GBR,Jude Beamers
+GBR,Keith Paul
 GBR,Kevin Holden
 GBR,Kieth Borders
 GBR,Kimball Morrison
@@ -637,6 +703,7 @@ GBR,Matt Alavado
 GBR,Matthew Bristow
 GBR,Michael Nolan
 GBR,Michael Priddle
+GBR,Mike Derry
 GBR,Mike Holmes
 GBR,Mike Langefeld
 GBR,Miles Odell
@@ -659,6 +726,7 @@ GBR,Paul Barnbridge
 GBR,Paul Beasley
 GBR,Paul Davies
 GBR,Paul Davis
+GBR,Paul Foddy
 GBR,Paul Lovesy
 GBR,Paul Young
 GBR,Penny Clark
@@ -666,6 +734,7 @@ GBR,Pete Brooke Houghton
 GBR,Peter Bainbridge
 GBR,Peter Burwood
 GBR,Peter Halliwell
+GBR,Peter Smithin
 GBR,Peter Ward
 GBR,Phil Brown
 GBR,Reeve Dunn
@@ -708,6 +777,7 @@ GBR,Thomas Bruton
 GBR,Tim Berry
 GBR,Tim Bird
 GBR,Tim Needham
+GBR,Tim Octon
 GBR,Tim Williams
 GBR,Tom Clayton
 GBR,Tom Darling
@@ -716,6 +786,7 @@ GBR,Tom Stivano
 GBR,Tom Ward
 GBR,Tony Power
 GBR,Vernon Ralston
+GBR,Victor Deschamps
 GBR,Vincent Horey
 GBR,Walter Doule
 GER,Adalbert Kluck
@@ -1107,6 +1178,7 @@ GER,Wilhelm Wollenbecker
 GER,Wolfdietrich Pfeiffer
 GER,Wolfgang Hiltscher
 GER,Wolfgang Seifert
+HKG,Neil Pryde
 IRL,Brendan Dwyer
 IRL,John Bourke
 IRL,John Dunlea,,,https://www.youtube.com/channel/UCTOXVv_53aQqzpktecluPAg
@@ -1461,6 +1533,7 @@ SWE,Pia Åhlund
 SWE,Pia Wennersten
 SWE,Rasmus Tengblad
 SWE,Ray Larsson
+SWE,Reine Andersson
 SWE,Rita Cording
 SWE,Robert Larsson
 SWE,Roy Wedin
@@ -1523,6 +1596,7 @@ USA,Brandon Charif
 USA,Brendan Heussler
 USA,Brian Haines
 USA,Brian Richmond
+USA,Brian Smart
 USA,Bruce Edwards
 USA,Bruce Fleming
 USA,Bruce Heckman
@@ -1547,10 +1621,13 @@ USA,Dalton Bergan
 USA,Dan Herlihy
 USA,Daniel Thompson
 USA,Dave Dyson
+USA,Dave Vickland
 USA,David Chatham
 USA,David Fagen
 USA,David Shelton
 USA,David Stetson
+USA,Dennis Surtees
+USA,Dick Deaver
 USA,Dick Hamilton
 USA,Douglas Amthor
 USA,Douglas McKeige
@@ -1580,6 +1657,7 @@ USA,Grey Paul Shipley
 USA,Hans Gode
 USA,Harry Mattison
 USA,Henry Amthor
+USA,Henry Schefter
 USA,Howard Hamlin
 USA,Ian Conners
 USA,Ian Goofrey
@@ -1666,6 +1744,7 @@ USA,Phil Ryan
 USA,Phil Termin
 USA,Piper Dunlap
 USA,Ramsay Key
+USA,Ray Pingree
 USA,Reid Shaffer
 USA,Rene De
 USA,Rene de la Rie
