@@ -35,7 +35,7 @@ Event Start Date,Event End Date,Name,Races,Competitors,Area,Organizer,Secretary,
 1997-07-19,1997-07-25,T.R. Fastenings UK National Championship,9,45,"Brighton,GBR",Brighton Marina Yacht Club,,,,,,1997/country/uk/1997-07-25.uk-national-championships.brighton.GBR.csv,National,,GBR
 1997-08-10,1997-08-11,Pre-Worlds & Danish Championship,6,70,"Gilleleje,DEN",Gilleleje Sejlklub,,,,,,1997/world/1997-08-11-pre-world.danish-championship.gilleleje.DEN.csv,"Pre-Worlds, National",,DEN
 1997-08-10,1997-08-21,World Championship,7,79,"Gilleleje,DEN",Gilleleje Sejlklub,,,,,,1997/world/1997-08-21.world-championships.gilleleje.DEN.csv,World,,
-1998-01-02,1998-01-02,Florida Midwinters,7,15,"St. Petersburg, FL, USA",St. Petersburg Sailing Center,,,,,,1998/country/usa/1998-01-02.florida-midwinters.st-petersburg.USA.csv,,,
+,,,,,,,,,,,,,,,
 1998-05-09,1998-05-16,European Championship,5,36,"Damp,GER",,,,,,,1998/continental/1998-05-16.european-championship.damp.GER.csv,Continental,,
 1998-07-24,1998-07-26,Euro Cup,6,35,"Hayling Island,GBR",Hayling Island Sailing Club,,,,,,1998/1998-07-26-euro-cup-hayling-island-GBR.csv,Euro Cup,,
 1998-08-01,1998-08-01,Zimbabwe Championship,12,9,"Kariba, Zimbabwe ",,,,,,,1998/country/zimbabwe/1998-08-01.zimbabwe-championship.kariba.ZIM.csv,National,Kariba,ZIM
@@ -287,15 +287,15 @@ Event Start Date,Event End Date,Name,Races,Competitors,Area,Organizer,Secretary,
 2019-08-21,2019-08-22,Open Belgium Cup,9,22,"Froidchapelle, BEL",Sports Nautiques de l'Eau d'Heure,,,,,,2019/country/belgium/2019-08-22.open-belgium-cup.froidchapelle.BEL.csv,National,,BEL
 2015-04-03,2015-04-05,Saint Raphaël,8,32,"Saint Raphaël,FRA",Club Nautique de Saint Raphaël,Paul Edouard Despierres,John Coveney,,,,2015/country/france/2015-04-05-ec-france-st-raphael.st-raphael.FRA.csv,Euro Cup,,
 2015-07-11,2015-07-15,Championnat de France,10,42,"La Rochelle ,FRA",Club de voile à La Rochelle,Ikhlef Georges,Lorber Yves,,,,2015/country/france/2015-07-15.championnat-de-france.la-rochelle.FRA.csv,National,,FRA
-2015-03-28,2015-03-29,Coupe Chassenay d'Arce des Vrais Bateaux,7,25,"Lusigny-sur-Barse, FRA",Club Nautique Haute Seine,Jean Pierre Salou,Jacques Terrasson,,,,2015/country/france/2015-03-29.coupe-chassenay-darce-des-vrais-bateaux.lusigny-sur-barse.FRA.csv,,,FRA
+2015-03-28,2015-03-29,Coupe Chassenay d’Arce des Vrais Bateaux,7,25,"Lusigny-sur-Barse, FRA",Club Nautique Haute Seine,Jean Pierre Salou,Jacques Terrasson,,,,2015/country/france/2015-03-29.coupe-chassenay-darce-des-vrais-bateaux.lusigny-sur-barse.FRA.csv,,,FRA
 2006-07-01,2006-07-02,National Espoirs,6,18,"Le Havre, FRA",Sport Nautique et Plaisance du Havre,Travert Jean Claude,Laleu Francois,,,,2006/country/france/2006-07-02.national-espoirs.le-havre.FRA.csv,,,FRA
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,World,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
+1998-01-01,1998-01-04,Midwinter Championship,9,32,"St. Petersburg, FL, USA",St. Petersburg Yacht Club,,,,,,1998/country/usa/1998-01-04.midwinter-championship.st-petersburg.USA.csv,,,USA
+1998-03-14,1998-03-15,Spring Dinghy,6,11,"San Francisco, CA, USA",St. Francis Yacht Club,,,,,,1998/country/usa/1998-03-15.spring-dinghy.san-francisco.USA.csv,,,USA
+1998-04-04,1998-04-05,Hiper regatta,8,11,"Marina del Rey, CA, USA",,,,,,,1998/country/usa/1998-04-05.hiper-regatta.marina-del-rey.USA.csv,,,USA
+1998-04-25,1998-04-26,Santa Cruz Spring Open Regatta,5,15,"Santa Cruz, CA,USA",Santa Cruz Yacht Club,Dave Wahle,,,,,1998/country/usa/1998-04-26.santa-cruz-spring-open-regatta.santa-cruz.USA.csv,,,USA
+1998-04-25,1998-04-26,West River Spring,6,10,"Galesville, MD, USA",West River Sailing Club,,,,,,1998/country/usa/1998-04-26.west-river-spring.galesville.USA.csv,,,USA
+1998-06-27,1998-06-27,WRSC One Day 505 Regatta/Open House,4,11,"Galesville, MD, USA",West River Sailing Club,,,,,,1998/country/usa/1998-06-27.wrsc-one-day-505-regatta-open-house.galesville.USA.csv,,,USA
+1998-06-27,1998-06-28,St Francis Regatta,6,15,"San Francisco, CA, USA",St. Francis Yacht Club,,,,,,1998/country/usa/1998-06-28.st-francis-regatta.san-francisco.USA.csv,,,USA
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,

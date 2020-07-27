@@ -155,7 +155,8 @@ function check_is_person( $data ) {
 		}
 		return false;
 	}
-	switch ( $data ) {
+    switch ( $data ) {
+        case 'Moss-Lovshin family':
 		case 'Alexandria Wooden Boat Society':
 		case 'Avocado Sail Training Association':
 		case 'Burnham-Sharpe Co':

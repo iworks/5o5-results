@@ -881,6 +881,10 @@ class iworks_5o5_upload_fixer {
 			'Batchelor' => 'Nathan Batchelor',
 			'Pascoe'    => 'Sam Pascoe',
 		),
+		array(
+			'Amthor' => 'Henry Amthor',
+			'Romey' => 'Dustin Romey',
+		),
 		/*
 		array(
 			'' => '',
@@ -889,7 +893,12 @@ class iworks_5o5_upload_fixer {
 		 */
 	);
 
-	private $person = array(
+    private $person = array(
+        'Tom O’toole' => 'Tom O\'Toole',
+        'Rene De la Rie'  => 'Rene de la Rie',
+        'G. Alexander' => 'Graham Alexander',
+        'Sterg.   Papadakis' => 'Stergios Papadakis',
+        'Scott Mackey' => 'Scott MacKay',
 		'A. Franklin'                => 'Alan Franklin',
 		'A Miles'                    => 'Adrian Miles',
 		'A. Murray'                  => 'Alex Murray',
