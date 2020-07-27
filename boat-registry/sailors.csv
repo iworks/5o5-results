@@ -1,24 +1,3 @@
-FRA,Etienne Seguelas
-CAN,Alain Molimard
-USA,Joe Stoodley
-GBR,Gordon McGeorge
-GBR,Graeme Russell
-FRA,Damien Zucconi
-FRA,Lauren Camusson
-GBR,Kenny Robertson
-GBR,Robin Annett
-GBR,Adrian Lane
-GBR,Geof Lane
-GBR,Melvyn Newman
-USA,Chris Woods
-USA,Tom O'Toole
-USA,Dylan Breton
-USA,Chuck Allan
-CAN,Alain Molimard
-CAN,François Bertrand
-USA,Scott MacKay
-USA,Andy Beckman
-FRA,Jeremie Brau
 AUS,A. Martin
 AUS,Adam Brenz-Verca
 AUS,Adam Wyatt
@@ -255,6 +234,7 @@ CAN,Adam Bookman
 CAN,Adam Gesing
 CAN,Adam Gooderham
 CAN,Adam Schell
+CAN,Alain Molimard
 CAN,Alec Francis
 CAN,Andrew Gesing
 CAN,Angus Ross
@@ -265,6 +245,7 @@ CAN,David Adams
 CAN,David Brown
 CAN,Devlin Lovshin
 CAN,Evan Jennings
+CAN,François Bertrand
 CAN,Hugh Morrin
 CAN,Ian Marentette
 CAN,Ian Plumbley
@@ -277,7 +258,7 @@ CAN,Kyber Lovshin
 CAN,Margaret Hurley
 CAN,Mark Ashby
 CAN,Martin Hicks
-CAN,Martin Ten Hove
+CAN,Martin ten Hove
 CAN,Michael Hoffman
 CAN,Michael Wonnacott
 CAN,Nicolas Tosi
@@ -300,6 +281,7 @@ CAN,Samuel Place
 CAN,Scott Salter
 CAN,Thomas Kivney
 CAN,Tim Willett
+CAN,Todd Johnson
 CAN,Victor Stopp
 CAN,Winston Cummins
 DEN,Allan Andreasen
@@ -413,6 +395,7 @@ FRA,Claire Carvallo
 FRA,Clement Card
 FRA,D Doufier
 FRA,Damien Trouillet
+FRA,Damien Zucconi
 FRA,David De Monteil
 FRA,Derek Farrant
 FRA,Dominique Rouanne
@@ -424,6 +407,7 @@ FRA,Eric Quémard
 FRA,Eric Valery
 FRA,Erik Nigon
 FRA,Erwan Grossmann
+FRA,Etienne Seguelas
 FRA,Fabrice Bouton
 FRA,Fabrice Toupet
 FRA,Florent Duplouy
@@ -470,6 +454,7 @@ FRA,Jean-Philippe Chartier
 FRA,Jean-Pierre Derungs
 FRA,Jean-Pierre Di Pede
 FRA,Jean-Pierre Peter
+FRA,Jeremie Brau
 FRA,Jerome Zimmowitch
 FRA,Jordane Lafortune
 FRA,Jules Ducelier
@@ -479,6 +464,7 @@ FRA,July-Wormit Mareva
 FRA,Killian Zimmowitch
 FRA,Kleber Valery
 FRA,Lancelot Lippi
+FRA,Lauren Camusson
 FRA,Laurent Duquesne
 FRA,Laurent Michel
 FRA,Lawrence Banahan
@@ -583,6 +569,7 @@ FRA,Yves Coltier
 FRA,Yves Niddam
 FRA,Yves Pajot
 GBR,Adrian Howe
+GBR,Adrian Lane
 GBR,Adrian Mullis
 GBR,Alan Montague
 GBR,Alastair Milton
@@ -651,10 +638,13 @@ GBR,Eric Ironmonger
 GBR,Frank Rainsborough
 GBR,Gary Cawthorn
 GBR,Gary Fowler
+GBR,Geof Lane
 GBR,Geoff Edwards
 GBR,Geoff Kimber
+GBR,Gordon McGeorge
 GBR,Gordon Russell
 GBR,Gordon Russen
+GBR,Graeme Russell
 GBR,Greg Brown
 GBR,Harold Barnes
 GBR,Hubertus Ritter
@@ -684,6 +674,7 @@ GBR,Jonathan Rennie
 GBR,Jonathan Ward
 GBR,Jude Beamers
 GBR,Keith Paul
+GBR,Kenny Robertson
 GBR,Kevin Holden
 GBR,Kieth Borders
 GBR,Kimball Morrison
@@ -710,6 +701,7 @@ GBR,Martin Wright
 GBR,Mathieu Fountaine
 GBR,Matt Alavado
 GBR,Matthew Bristow
+GBR,Melvyn Newman
 GBR,Michael Nolan
 GBR,Michael Priddle
 GBR,Mike Derry
@@ -757,6 +749,7 @@ GBR,Richard Tew
 GBR,Richard Tucker
 GBR,Robert Burdekin
 GBR,Robert Napier
+GBR,Robin Annett
 GBR,Robin Tetly
 GBR,Roger Gilbert
 GBR,Ross Davies
@@ -928,7 +921,6 @@ GER,Guido von Walter
 GER,Günter Bökle
 GER,Gunter Peters
 GER,Günter Peters
-GER,Günter Peters
 GER,Hannes Kindermann
 GER,Hannes Lehning
 GER,Hannes Wagner
@@ -974,6 +966,7 @@ GER,Jens Olbrysch
 GER,Jens Steinborn
 GER,Jochen Heydolph
 GER,Joerg Thumann
+GER,Johan Backsin
 GER,Johannes Ganzer
 GER,Johannes Kindermann
 GER,John Christiansen
@@ -1050,7 +1043,6 @@ GER,Martin Schöler
 GER,Marvin Schlesiger
 GER,Mathias Haase
 GER,Matthias Bruhl
-GER,Matthias Brühl
 GER,Matthias Brühl
 GER,Matthias Dachs
 GER,Matthias Fedde
@@ -1597,8 +1589,10 @@ USA,Alyce Flanagan
 USA,Amie Huebner
 USA,Andrew Chadwick
 USA,Andrew Cole
+USA,Andrew Gassman
 USA,Andrew Sutton
 USA,Andrew Zinn
+USA,Andy Beckman
 USA,Andy Forman
 USA,Andy Zinn
 USA,Angela Breeden
@@ -1633,17 +1627,20 @@ USA,Chris Behm
 USA,Chris Brady
 USA,Chris Freye
 USA,Chris Gorton
+USA,Chris Woods
 USA,Chris Yindra
 USA,Christian Rasmussen
 USA,Christopher Hubbard
 USA,Christopher Oleary
 USA,Christopher Pfrang
+USA,Chuck Allan
 USA,Cody Kowalski
 USA,Colin Dunphy
 USA,Collin Linehan
 USA,Courtney Starks
 USA,Dalton Bergan
 USA,Dan Herlihy
+USA,Dan Treadwell
 USA,Daniel Thompson
 USA,Dave Dyson
 USA,Dave Vickland
@@ -1662,10 +1659,12 @@ USA,Drew Buttner
 USA,Duane Delfosse
 USA,Duncan Skinner
 USA,Dustin Romey
+USA,Dylan Breton
 USA,Eben Russell
 USA,Edward Conrads
 USA,Ellen Ablow
 USA,Eric Anderson
+USA,Eric Gunderson
 USA,Erik Boothe
 USA,Erik Coburn
 USA,Ethan Bixby
@@ -1705,7 +1704,9 @@ USA,Jennifer Morgan Glass
 USA,Jesse Falsone
 USA,Jim Englert
 USA,Jim Maloney
+USA,Jim Walters
 USA,Joe Keating
+USA,Joe Stoodley
 USA,Joerg Esdorn
 USA,John Badtke
 USA,John Wyles
@@ -1720,6 +1721,7 @@ USA,Kelsey Avril
 USA,Kenny Elliot
 USA,Kerry Poe
 USA,Kevil Eley
+USA,Kevin Eley
 USA,Kevin Maguire
 USA,Ki Kaiser
 USA,Kirk Twardowski
@@ -1734,7 +1736,10 @@ USA,Leslie Crane
 USA,Luke Lawrence
 USA,Macy Nelson
 USA,Mark Ivey
+USA,Mark Koenig
 USA,Mark McCarthy
+USA,Mark Mendelblatt
+USA,Mark Wheeler
 USA,Mark Zagol
 USA,Martin Tipton
 USA,Mathias Kennerknecht
@@ -1772,6 +1777,7 @@ USA,Paul Von
 USA,Peter Alarie
 USA,Phil Ryan
 USA,Phil Termin
+USA,Phillipe Goubalt
 USA,Piper Dunlap
 USA,Ramsay Key
 USA,Ray Pingree
@@ -1784,11 +1790,14 @@ USA,Rick Blase
 USA,Rick Blase Jr.
 USA,R.Latene Montgue
 USA,Rob Woelfel
+USA,Robert Montague
+USA,Robert O'Brien
 USA,Robert Waterman
 USA,Robert Woelfel
 USA,Russell Miller
 USA,Ryan Lorence
 USA,Scott Ikle
+USA,Scott MacKay
 USA,Scott Weiler
 USA,Shane Illidge
 USA,Spencer Snapp
@@ -1797,6 +1806,7 @@ USA,Stephen Bourdow
 USA,Stephen Owens
 USA,Sterling Spruill
 USA,Steve Anderes
+USA,Steve Flam
 USA,Steve Rosenberg
 USA,Steve Sparkman
 USA,Stevios Papadakis
@@ -1815,6 +1825,7 @@ USA,Tim Wadlow
 USA,Tom Crawford
 USA,Tom Fink
 USA,Tom O'toole
+USA,Tom O'Toole
 USA,Tony DeVita
 USA,Tucker Edmundson
 USA,Tyler Moore

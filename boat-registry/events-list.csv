@@ -68,7 +68,7 @@ Event Start Date,Event End Date,Name,Races,Competitors,City,Organizer,Secretary,
 1998-07-31,1998-08-02,East Coast Championship,8,26,"Hyannis, MA, USA",Hyannis Yacht Club,,,,,,1998/country/usa/1998-08-02.east-coast-championship.hyannis.USA.csv,,,USA
 1998-08-01,1998-08-01,Zimbabwe Championship,12,9,"Kariba, Zimbabwe ",,,,,,,1998/country/zimbabwe/1998-08-01.zimbabwe-championship.kariba.ZIM.csv,National,Kariba,ZIM
 1998-08-29,1998-08-29,Pacific Coast Championship,5,18,"Richmond,CA,USA",Richmond Yacht Club,,,,,,1998/country/usa/1998-08-29.pacific-coast-championship.richmond.USA.csv,,,
-1998-08-29,1998-08-30,CORK,9,19,"Kingston,ON,CAN",CORK,,,,,,1998/country/canada/1998-08-30-cork-1998.kingston-on.CAN.csv,,,
+1998-08-29,1998-08-30,Eastern Canadian Championship (CORK),9,19,"Kingston,ON,CAN",CORK,,,,,,1998/country/canada/1998-08-30-cork-1998.kingston-on.CAN.csv,,,
 1998-09-19,1998-09-25,World Championship,8,106,"Hyannis, MA, USA",Hyannis Yacht Club,,,,,,1998/world/1998-09-25.world-championship.hyannis-MA.USA.csv,World,,
 1998-10-24,1998-10-25,Hoosier Regatta,7,9,"Bloomington, Indiana, USA",Indiana University Yacht Club,,,,,,1998/country/usa/1998-10-25.hoosier-regatta.bloomington.USA.csv,,Lake Lemon,
 1999-06-25,1999-06-27,Europa Cup,,,"Nieuwpoort, BEL",,,,,,,1999/country/belgium/1999-06-27.europa-cup.nieuwpoort.BEL.csv,Euro Cup,,BEL
@@ -247,7 +247,7 @@ Event Start Date,Event End Date,Name,Races,Competitors,City,Organizer,Secretary,
 2018-07-13,2018-07-15,Championnat de France,4,40,"Saint-Pierre-Quiberon,FRA",SR S.P. QUIBERON,,,,,,2018/country/france/2018-07-15-championnat-de-france.saint-pierre-quiberon.FRA.csv,National,,
 2018-07-20,2018-07-20,Pre-Worlds,3,129,"Gdynia,POL","Polski Związek Żeglarski,Miasto Gdynia,Polskie Stowarzyszenie Klasy 505",Walter Mielke,Tim Hancock,,,,2018/world/2018-07-20-pre-worlds.gdynia.POL.csv,Pre-Worlds,Zatoka Gdańska,
 2018-07-21,2018-07-28,World Championship,10,127,"Gdynia,POL","Polski Związek Żeglarski,Miasto Gdynia,Polskie Stowarzyszenie Klasy 505",Walter Mielke,Tim Hancock,,,,2018/world/2018-07-29-world-championship.gdynia.POL.csv,"World,Euro Cup",Zatoka Gdańska,
-2018-08-02,2018-08-04,CORK Fall Regatta - Eastern Canadian Championship,5,13,"Kingston,ON,CAN",CORK,,,,,,2018/country/canada/2018-08-04-cork-fall-regatta-eastern-canadian-championship.kingstone-on.CAN.csv,,,
+2018-08-02,2018-08-04,Eastern Canadian Championship (CORK),5,13,"Kingston,ON",CORK,,,,,,2018/country/canada/2018-08-04-cork-fall-regatta-eastern-canadian-championship.kingstone-on.CAN.csv,,,CAN
 2018-08-08,2018-08-13,North American Championship,11,24,"San Francisco,CA,USA",St. Francis Yacht Club,J. Lancaster,,,,,2018/continental/2018-08-13.north-american-championships.san-fancisco.csv,Continental,,
 2018-08-10,2018-08-12,TPS Airisto Regatta,4,7,"Ruissalo,Turku,FIN",Turun Pursiseura - Turku Yacht Club,,,,,,2018/country/finland/2018-08-12.tps-airisto-regatta.ruissalo-turku.FIN.csv,,,
 2018-08-17,2018-08-19,Polish Championship,7,28,"Świnoujście,POL",MT Partners,,,,,,2018/country/poland/2018-08-19-polish-championship.swinoujscie.POL.csv,National,Zatoka Pomorska,POL
@@ -301,6 +301,30 @@ Event Start Date,Event End Date,Name,Races,Competitors,City,Organizer,Secretary,
 1998-08-08,1998-08-14,UK National Championship,7,39,"Plymount, GBR",UK 505 Class Association,,,,,,1998/country/uk/1998-08-14.uk-national-championship.plymount.GBR.csv,National,,GBR
 1998-08-15,1998-08-16,Hospice Regatta,6,12,"Hyannis, MA, USA",Hyannis Yacht Club,,,,,,1998/country/usa/1998-08-16.hospice-regatta.hyannis.USA.csv,,,USA
 1998-08-22,1998-08-23,Midwest Championship,7,20,"Ontario, CAN",South Port Sailing Club,,,,,,1998/country/canada/1998-08-23.midwest-championship.ontario.CAN.csv,,Lake St. Claire,CAN
+1997-01-03,1997-01-05,Florida Midwinters,6,23,"St. Petersburg, FL",St. Petersburg Sailing Center,,,,,,1997/country/usa/1997-01-05.florida-midwinters.st-petersburg.USA.csv,,,USA
+1997-02-15,1997-02-16,Southern California Midwinters,5,10,"Long Beach, CA",Alamitos Bay Yacht Club,,,,,,1997/country/usa/1997-02-16.southern-california-midwinters.long-beach.USA.csv,,,USA
+1997-03-15,1997-03-16,St. Francis Spring Dinghy,6,10,"San Francisco, CA",St. Francis Yacht Club,,,,,,1997/country/usa/1997-03-16.st-francis-spring-dinghy.san-francisco.USA.csv,,,USA
+1997-05-03,1997-05-04,Spring Regatta,5,13,"Galesville, MD",West River Sailing Club,,,,,,1997/country/usa/1997-05-04.spring-regatta.galesville.USA.csv,,Chesapeake Bay,USA
+1997-05-17,1997-05-18,Bristol Regatta,6,11,"Bristol, RI",Bristol Yacht Club,,,,,,1997/country/usa/1997-05-18.bristol-regatta.bristol.ri.USA.csv,,,USA
+1997-05-24,1997-05-25,Mid-Atlantic Regional Regatta,5,8,"Galesville, MD",West River Sailing Club,,,,,,1997/country/usa/1997-05-25.mid-atlantic-regional-regatta.galesville.md.USA.csv,,Chesapeake Bay,USA
+1997-06-06,1997-06-08,East Coast Championship,7,23,"Hampton, VA ",Hampton Yacht Club,,,,,,1997/country/usa/1997-06-08.east-coast-championship.hampton.va.USA.csv,,,USA
+1997-08-16,1997-08-17,New Bedford Yacht Club Regatta,5,15,"South Dartmouth, MA",New Bedford Yacht Club,,,,,,1997/country/usa/1997-08-17.nbyc-505-regatta.south-dartmouth.ma.USA.csv,,,USA
+1997-08-21,1997-08-24,Eastern Canadian Championship (CORK),7,18,"Kingston,ON",CORK,,,,,,1997/country/canada/1997-08-24.eastern-canadian-championship-cork.kingston.on.CAN.csv,,,CAN
+1997-08-30,1997-09-01,Nebraska Governors Cup,5,7,"Ogallala, NE",,,,,,,1997/country/usa/1997-09-01.nebraska-governors-cup.ogallala.ne.USA.csv,,Lake McConaughy,USA
+1997-09-13,1997-09-14,Mid Atlantic Championship Regatta,3,13,"Galesville, MD",West River Sailing Club,,,,,,1997/country/usa/1997-09-14.mid-atlantic-championship-regatta.galesville.md.USA.csv,,Chesapeake Bay,USA
+1997-09-20,1997-09-21,Midwest Championship,5,11,"Sandusky, OH",Sandusky Sailing Club,,,,,,1997/country/usa/1997-09-21.midwest-championship.sandusky-oh.USA.csv,,,USA
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
