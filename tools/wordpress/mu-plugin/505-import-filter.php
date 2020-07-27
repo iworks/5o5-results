@@ -514,7 +514,7 @@ class iworks_5o5_upload_fixer {
 			'Corfu' => 'Reto Corfu',
 		),
 		array(
-			'Des Brisay' => 'Cynthia Des Brisay',
+			'Des Brisay' => 'Cynthia des Brisay',
 			'Hansen'     => 'Charles Hansen',
 		),
 		array(
@@ -674,7 +674,7 @@ class iworks_5o5_upload_fixer {
 			'Adams' => 'Dave Adams',
 		),
 		array(
-			'Desbrisay' => 'Cynthia Des Brisay',
+			'Desbrisay' => 'Cynthia des Brisay',
 			'Hansen'    => 'Charles Hansen',
 		),
 		array(
@@ -892,6 +892,7 @@ class iworks_5o5_upload_fixer {
 	private $person = array(
 		'A. Franklin'                => 'Alan Franklin',
 		'A Miles'                    => 'Adrian Miles',
+		'A. Murray'                  => 'Alex Murray',
 		'A Williams'                 => 'Andy Williams',
 		'Aaorn Ross'                 => 'Aaron Ross',
 		'Aaron Tellen'               => 'Aron Tellen',
@@ -1065,8 +1066,9 @@ class iworks_5o5_upload_fixer {
 		'Cris Hewkin'                => 'Chris Hewkin',
 		'Curtis Harmann'             => 'Curtis Hartmann',
 		'Curtis Hartman'             => 'Curtis Hartmann',
-		'Cynthia Brisay'             => 'Cynthia Des Brisay',
-		'Cynthia DesBrisay'          => 'Cynthia Des Brisay',
+		'Cynthia Brisay'             => 'Cynthia des Brisay',
+		'Cynthia Des Brisay'         => 'Cynthia des Brisay',
+		'Cynthia DesBrisay'          => 'Cynthia des Brisay',
 		'D Evans'                    => 'Dennis Evans',
 		'D Scheder-Bieschin'         => 'Dietrich Scheder-Bieschin',
 		'D. Surtees'                 => 'Dennis Surtees',
@@ -1147,6 +1149,7 @@ class iworks_5o5_upload_fixer {
 		'Eric Coburn'                => 'Erik Coburn',
 		'Eric Quemard'               => 'Eric Quémard',
 		'Ernst Jacob Sunny'          => 'Jacob Sonny Ernst',
+		'Etienne Des Jamonieres'     => 'Etienne des Jamonières',
 		'F Sanguino'                 => 'Franscisco Sanguino-Petersen',
 		'Fabiola Van Wonterghem'     => 'Fabiola van Wonterghem',
 		'Fabiola Wonterghem'         => 'Fabiola van Wonterghem',
@@ -1269,6 +1272,7 @@ class iworks_5o5_upload_fixer {
 		'J B Turney'                 => 'JB Turney',
 		'J. Gallo Pierre'            => 'Pierre-Jean Gallo',
 		'J. L. Muzellec'             => 'Jean-Luc Muzellec',
+		'J. Lake Simon'              => 'Simon Lake J.',
 		'J. Livingstone'             => 'Jonathan Livingstone',
 		'Jack Hoyhurst'              => 'Jack Hayhurst',
 		'Jacob Bojsen Moller'        => 'Jacob Bojsen-Møller',
@@ -1528,6 +1532,7 @@ class iworks_5o5_upload_fixer {
 		'Neil Rabbits'               => 'Neil Rabbitts',
 		'Neil Rabbtts'               => 'Neil Rabbitts',
 		'Nelson Jeff'                => 'Jeffrey Nelson',
+		'Nesseler Pierre'            => 'Pierre Nesseler',
 		'Nichael Poulsen'            => 'Michael Paulsen',
 		'Nici Birkner'               => 'Nicola Birkner',
 		'Nick Blair'                 => 'Nicholas Blair',
