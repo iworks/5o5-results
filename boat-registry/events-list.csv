@@ -1,4 +1,4 @@
-Event Start Date,Event End Date,Name,Races,Competitors,Area,Organizer,Secretary,Arbiter,Wind direction,Wind power,Post Content,File,Series,On the water of,Country
+Event Start Date,Event End Date,Name,Races,Competitors,City,Organizer,Secretary,Arbiter,Wind direction,Wind power,Post Content,File,Series,On the water of,Country
 1956-01-01,1956-01-01,World Championship,,,"La Baule,FRA",,,,,,,1956/world/1956.world-championship.la-baule.FRA.csv,World,,FRA
 1957-01-01,1957-01-01,World Championship,,,"La Baule,FRA",,,,,,,1957/world/1957.world-championship.la-baule.FRA.csv,World,,FRA
 1958-01-01,1958-01-01,World Championship,,,"La Baule,FRA",,,,,,,1958/world/1958.world-championship.la-baule.FRA.csv,World,,FRA
@@ -22,18 +22,18 @@ Event Start Date,Event End Date,Name,Races,Competitors,Area,Organizer,Secretary,
 1972-01-01,1972-01-01,World Championship,,,"Hanko,FIN",,,,,,,1972/world/1972.world-championship.hanko.FIN.csv,World,,FIN
 1973-01-01,1973-01-01,World Championship,6,90,"Kellett Island, Causeway Bay,HKG",The Royal Hong Kong Yacht Club,Bill Jeffrey,,,,,1973/world/1973-01-01.world-championship.kellett-island-causeway-bay.HKG.csv,World,,HKG
 1974-08-10,1974-08-24,World Championship,6,82,"Marstrand, SWE",Göteborgs Kungliga Segel Sällskap,,,,,,1974/world/1974-08-24.world-championship.marstrand.SWE.csv,World,,SWE
-1975-10-05,1975-10-12,World Championship,6,69,"Hamilton,BER",,,,,,,1975/world/1975-10-12.world-championship.bermuda.csv,World,,
+1975-10-05,1975-10-12,World Championship,6,69,"Hamilton,BER",,,,,,,1975/world/1975-10-12.world-championship.bermuda.csv,World,,BER
 1976-01-01,1976-01-01,World Championship,,,"Lake Macquarie, New South Wales, AUS",,,,,,,1976/world/1976.world-championship.lake-macquarie-new-south-wales.AUS.csv,World,,AUS
 1977-01-01,1977-01-01,World Championship,,,"La Rochelle, FRA",,,,,,,1977/world/1977.world-championship.la-rochelle.FRA.csv,World,,FRA
 1978-08-18,1978-08-27,World Championship,5,86,"Copenhagen, DEN","Skovshoved Sejlklub,",,,,,,1978/world/1978-08-27.world-championship.copenhagen.DEN.csv,World,,DEN
 1979-01-01,1979-01-01,World Championship,,,"Durban,RSA",,,,,,,1979/world/1979.world-championship.durban.RSA.csv,World,,RSA
 1979-08-03,1979-08-11,European Championship,6,69,"Kiel,GER",Kieler Yacht-Club e.V.,,,,,,1979/continental/1979-08-11.european-championship.kiel.GER.csv,Continental,,GER
 1980-01-01,1980-01-01,World Championship,,,"Hayling Island,GBR",,,,,,,1980/world/1980.world-championships.hayling-island.GBR.csv,World,,GBR
-1981-01-01,1981-01-01,Pre-Worlds,6,90,"San Francisco, USA",St. Francis Yacht Club,,,,,,1981/world/1981.pre-world.san-francisco.USA.csv,Pre-Worlds,,
-1981-01-01,1981-01-01,World Championship,6,86,"San Francisco, USA",St. Francis Yacht Club,,,,,,1981/world/1981.world.championship.san-francisco.USA.csv,World,,
-1982-08-13,1982-08-20,World Championship,6,73,"Cork, IRL",Royal Cork Yacht Club,,,,,,1982/world/1982-08-20.world-championship.cork.IRL.csv,World,,
-1983-03-01,1983-03-12,World Championship,6,63,"Adelaide,AUS",,,,,,,1983/world/1983-03-12.world-championship.adelaide.AUS.csv,World,,
-1983-07-30,1983-08-06,European Championship,5,74,"Karlskrona, SWE","Royal Navy Sportclub of Karlskrona, Karlskrona Yachtclub",,,,,,1983/continetal/1983-08-06.european-championship.karlskrona.SWE.csv,Continental,,
+1981-01-01,1981-01-01,Pre-Worlds,6,90,"San Francisco, USA",St. Francis Yacht Club,,,,,,1981/world/1981.pre-world.san-francisco.USA.csv,Pre-Worlds,,USA
+1981-01-01,1981-01-01,World Championship,6,86,"San Francisco, USA",St. Francis Yacht Club,,,,,,1981/world/1981.world.championship.san-francisco.USA.csv,World,,USA
+1982-08-13,1982-08-20,World Championship,6,73,"Cork, IRL",Royal Cork Yacht Club,,,,,,1982/world/1982-08-20.world-championship.cork.IRL.csv,World,,IRL
+1983-03-01,1983-03-12,World Championship,6,63,"Adelaide,AUS",,,,,,,1983/world/1983-03-12.world-championship.adelaide.AUS.csv,World,,AUS
+1983-07-30,1983-08-06,European Championship,5,74,"Karlskrona, SWE","Royal Navy Sportclub of Karlskrona, Karlskrona Yachtclub",,,,,,1983/continetal/1983-08-06.european-championship.karlskrona.SWE.csv,Continental,,SWE
 1984-06-28,1984-07-08,World Championship,6,90,"Gromitz, GER",,,,,,,1984/world/1984-07-08-world-championship.gromitz.GER.csv,World,,
 1985-10-11,1985-10-25,World Championship,6,55,"Fujisawa, JPN",ENOSHIMA Olympic Yacht Harbour,,,,,,1985/world/1985-10-25.world-championship.fujisawa.JPN.csv,World,,
 1986-07-24,1986-08-02,World Championship,6,87,"La Rochelle, FRA","Sociéte des Régates Rochelaises,",,,,,,1986/world/1986-08-02.world-championship.la-rochelle.FRA.csv,World,,
@@ -59,12 +59,12 @@ Event Start Date,Event End Date,Name,Races,Competitors,Area,Organizer,Secretary,
 1998-04-04,1998-04-05,Hiper regatta,8,11,"Marina del Rey, CA, USA",,,,,,,1998/country/usa/1998-04-05.hiper-regatta.marina-del-rey.USA.csv,,,USA
 1998-04-25,1998-04-26,Santa Cruz Spring Open Regatta,5,15,"Santa Cruz, CA,USA",Santa Cruz Yacht Club,Dave Wahle,,,,,1998/country/usa/1998-04-26.santa-cruz-spring-open-regatta.santa-cruz.USA.csv,,,USA
 1998-04-25,1998-04-26,West River Spring,6,10,"Galesville, MD, USA",West River Sailing Club,,,,,,1998/country/usa/1998-04-26.west-river-spring.galesville.USA.csv,,,USA
-1998-05-09,1998-05-16,European Championship,5,36,"Damp,GER",,,,,,,1998/continental/1998-05-16.european-championship.damp.GER.csv,Continental,,
+1998-05-09,1998-05-16,European Championship,5,36,"Damp,GER",,,,,,,1998/continental/1998-05-16.european-championship.damp.GER.csv,Continental,,GER
 1998-06-27,1998-06-27,WRSC One Day 505 Regatta/Open House,4,11,"Galesville, MD, USA",West River Sailing Club,,,,,,1998/country/usa/1998-06-27.wrsc-one-day-505-regatta-open-house.galesville.USA.csv,,,USA
 1998-06-27,1998-06-28,St Francis Regatta,6,15,"San Francisco, CA, USA",St. Francis Yacht Club,,,,,,1998/country/usa/1998-06-28.st-francis-regatta.san-francisco.USA.csv,,,USA
 1998-07-11,1998-07-12,High Sierra Regatta,3,13,USA,,,,,,,1998/country/usa/1998-07-12.high-sierra-regatta.USA.csv,,Hunting Lake,USA
 1998-07-18,1998-07-19,Ontario Championships,,10,"Toronto,CAN",J-Town Sailing Club,,,,,,1998/country/canada/1998-07-19.ontario-championships.toronto.CAN.csv,,,CAN
-1998-07-24,1998-07-26,Euro Cup,6,35,"Hayling Island,GBR",Hayling Island Sailing Club,,,,,,1998/1998-07-26-euro-cup-hayling-island-GBR.csv,Euro Cup,,
+1998-07-24,1998-07-26,Hayling Island,6,35,"Hayling Island,GBR",Hayling Island Sailing Club,,,,,,1998/country/uk/1998-07-26-euro-cup-hayling-island-GBR.csv,Euro Cup,,GBR
 1998-07-31,1998-08-02,East Coast Championship,8,26,"Hyannis, MA, USA",Hyannis Yacht Club,,,,,,1998/country/usa/1998-08-02.east-coast-championship.hyannis.USA.csv,,,USA
 1998-08-01,1998-08-01,Zimbabwe Championship,12,9,"Kariba, Zimbabwe ",,,,,,,1998/country/zimbabwe/1998-08-01.zimbabwe-championship.kariba.ZIM.csv,National,Kariba,ZIM
 1998-08-29,1998-08-29,Pacific Coast Championship,5,18,"Richmond,CA,USA",Richmond Yacht Club,,,,,,1998/country/usa/1998-08-29.pacific-coast-championship.richmond.USA.csv,,,
@@ -298,9 +298,9 @@ Event Start Date,Event End Date,Name,Races,Competitors,Area,Organizer,Secretary,
 2020-02-07,2020-02-09,Midwinter Championship,8,16,"Clearwater,USA",Clearwater Community Sailing Center,,,,,,2020/country/usa/2020-02-09-midwinters.clearwater.USA.csv,,,USA
 2020-07-04,2020-07-05,Sommerregatta,5,16,"Tutzing,GER",Deutscher Touring Yacht-Club e.V.,,,,,,2020/country/germany/2020-07-04.sommerregatta.tutzing.GER.csv,,,GER
 2020-07-11,2020-07-12,Lotos Nord Cup,7,14,"Górki Zachodnie,POL","AZS, Galion, YCG",,,,,,2020/country/poland/2020-07-12.lotos-nord-cup.gdansk.POL.csv,Polish Cup,Zatoka Gdańska,POL
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
+1998-08-08,1998-08-14,UK National Championship,7,39,"Plymount, GBR",UK 505 Class Association,,,,,,1998/country/uk/1998-08-14.uk-national-championship.plymount.GBR.csv,National,,GBR
+1998-08-15,1998-08-16,Hospice Regatta,6,12,"Hyannis, MA, USA",Hyannis Yacht Club,,,,,,1998/country/usa/1998-08-16.hospice-regatta.hyannis.USA.csv,,,USA
+1998-08-22,1998-08-23,Midwest Championship,7,20,"Ontario, CAN",South Port Sailing Club,,,,,,1998/country/canada/1998-08-23.midwest-championship.ontario.CAN.csv,,Lake St. Claire,CAN
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
