@@ -147,7 +147,7 @@ Event Start Date,Event End Date,Name,Races,Competitors,City,Organizer,Secretary,
 2011-03-20,2011-04-01,World Championship,7,85,"Hamilton Island,AUS",,,,,,,2011/world/2011-04-01-world-championship-hamilton-island.csv,World,,
 2011-05-28,2011-05-28,IV° TransAlp Cup,5,10,"Campione BS, ITA",Vela Club Campione del Garda,,,,,,2011/country/italy/2011-05-28.IV-trans-alp-cup.campione-bs.ITA.csv,Euro Cup,,
 2011-06-23,2011-06-27,UK National Championship,8,40,"Wadebridge, GBR",Rock Sailing and Waterski Club,,,,,,2011/country/uk/2011-06-27.uk-national-championship.wadebridge.GBR.csv,National,,GBR
-2011-09-02,2011-09-04,Polish Championship,9,10,"Zatoka Gdańska,Gdynia,POL",YKP Gdynia,,,,,,2011/2011-09-04-gdynia-mistrzostwa-polski.csv,National,,
+2011-09-02,2011-09-04,Polish Championship,9,10,Gdynia,YKP Gdynia,,,,,,2011/country/poland/2011-09-04.polish-championship.gdynia.POL.csv,National,Zatoka Gdańska,POL
 2011-09-17,2011-09-18,Dale Jepsen One-Design Regatta,7,12,"Bellingham,WA,USA",Bellingham Yacht Club,,Jamie Ashton,,,,2011/country/usa/2011-09-18.dale-jepsen-one-design-regatta.bellingham-wa.USA.csv,,,
 2011-09-24,2011-09-25,Ontario Championship,9,4,"Toronto,CAN",Outer Harbour Centreboard Club,,,,,,2011/country/canada/2011-09-24.ontario-championship.toronto.CAN.csv,,,
 2011-10-12,2011-10-16,North American Championship,10,32,"Rye, NY, USA",American Yacht Club,,,,,,2011/continental/2011-10-16.north-american-championship.rye.USA.csv,Continental,,
@@ -158,7 +158,7 @@ Event Start Date,Event End Date,Name,Races,Competitors,City,Organizer,Secretary,
 2012-09-01,2012-09-03,Canadian Championship,5,11,"Toronto,CAN",Outer Harbour Centreboard Club,,,,,,2012/country/canada/2012-09-03.canadian-championship.toronto.CAN.csv,National,,
 2012-09-07,2012-09-07,Nordic Championship and Swedish Class Championship,4,24,"Grötvik,Halmstad,SWE",Grötviks Segelsällskap,,,,,,2012/country/sweden/2012-09-07.nordic-championship-and-swedish-class-championship.grotvik-halmstad.SWE.csv,National,,
 2012-09-15,2012-09-16,Dale Jepsen One-Design Regatta,6,9,"Bellingham,WA,USA",Bellingham Yacht Club,,Mick Corcoran,,,,2012/country/usa/2012-09-16.dale-jepsen-one-design-regatta.bellingham-wa.USA.csv,,,
-2012-09-21,2012-09-23,Polish Championship,11,19,"Zalew Kamieński,Kamień Pomorski,POL",MKŻ Kamień Pomorski,,,,,,2012/2012-09-23-mistrzostwa-polski.csv,National,,
+2012-09-21,2012-09-23,Polish Championship,11,19,Kamień Pomorski,MKŻ Kamień Pomorski,,,,,,2012/country/poland/2012-09-23.polish-championship.kamien-pomorski.POL.csv,National,Zalew Kamieński,POL
 2012-10-20,2012-10-21,Irish and British Isles Championships,5,13,"Cork, IRL",Monkstown Bay Sailing Club,,,,,,2012/country/irland/2012-10-21.irish-and-british-isles-championships.cork.IRL.csv,,,IRL
 2013-02-22,2013-02-24,Midwinter Championship,10,,,,,,,,,2013/country/usa/2013-02-24.midwinter-championship.USA.csv,,,
 2013-04-22,2013-05-03,World Championship,9,77,"Barbados,Bridgetown",,,,,,,2013/world/2013-05-03-world-championships-barbados.csv,World,,
@@ -324,6 +324,30 @@ Event Start Date,Event End Date,Name,Races,Competitors,City,Organizer,Secretary,
 2008-08-19,2008-08-21,East Coast Championship,8,22,"Galesville, MD",West River Sailing Club,,,,,,2008/country/usa/2008-08-21.east-coast-championship.galesville.md.USA.csv,,,USA
 2013-03-23,2013-03-24,Coupe Chassenay d’Arce des Vrais Bateaux,6,23,,,Jean Pierre Salou,Jacques Terrasson,,,,2013/country/france/2013-03-24.coupe-chassenay-d-arce-des-vrais-bateaux.FRA.csv,,,FRA
 2013-07-11,2013-07-13,Championnat de France,4,31,Cazaux-La Teste,Cercle Voile Cazaux Lac,Patrick Hamart,Yves Leglise,,,,2013/country/france/2013-07-13.championnat-de-france.cazaux-la-teste.FRA.csv,National,,FRA
+2012-07-07,2012-07-08,NordCup,4,6,Górki Zachodnie,Marina Galion,,,,,,2012/country/poland/2012-07-08-nordcup.csv,Polish Cup,Zatoka Gdańska,POL
+2012-08-18,2012-08-19,Puchar Starosty Poznańskiego,4,11,Poznań,Klub Żeglarski “Mewa”,,,,,,2012/country/poland/2012-08-19-puchar-starosty-poznanskiego.csv,Polish Cup,Jezioro Kierskie,POL
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,

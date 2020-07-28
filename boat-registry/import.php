@@ -474,8 +474,8 @@ if ( $import_results && ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false 
 		[10] => iworks_fleet_result_wind_power
 		[11] => post_content
 		[12] => file
-        [13] => iworks_fleet_serie
-        [14] => iworks_fleet_result_location
+		[13] => iworks_fleet_serie
+		[14] => iworks_fleet_result_location
 		 */
 		$fields = array(
 			0  => 'iworks_fleet_result_date_start',
@@ -492,7 +492,8 @@ if ( $import_results && ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false 
 			11 => 'post_content',
 			12 => 'file',
 			13 => 'iworks_fleet_serie',
-			14  => 'iworks_fleet_result_location',
+			14 => 'iworks_fleet_result_location',
+			15 => 'iworks_fleet_result_country',
 		);
 		foreach ( $fields as $index => $key ) {
 			$value = trim( $data[ $index ] );
@@ -568,11 +569,10 @@ if ( $import_results && ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false 
 				continue;
 			}
 			if ( 'iworks_fleet_serie' === $field ) {
-				if ( empty( $value ) ) {
+				if ( empty( $$field ) ) {
 					continue;
 				}
-				$this_series = array();
-				foreach ( explode( ',', $value ) as $serie ) {
+				foreach ( explode( ',', $$field ) as $serie ) {
 					handle_serie_taxonomy( $serie, $series, $post_array );
 				}
 				continue;
