@@ -161,14 +161,14 @@ Event Start Date,Event End Date,Name,Races,Competitors,City,Organizer,Secretary,
 2012-09-21,2012-09-23,Polish Championship,11,19,"Zalew Kamieński,Kamień Pomorski,POL",MKŻ Kamień Pomorski,,,,,,2012/2012-09-23-mistrzostwa-polski.csv,National,,
 2012-10-20,2012-10-21,Irish and British Isles Championships,5,13,"Cork, IRL",Monkstown Bay Sailing Club,,,,,,2012/country/irland/2012-10-21.irish-and-british-isles-championships.cork.IRL.csv,,,IRL
 2013-02-22,2013-02-24,Midwinter Championship,10,,,,,,,,,2013/country/usa/2013-02-24.midwinter-championship.USA.csv,,,
-2013-04-22,2013-05-03,World Championship,9,77,"Barbados,Bridgetown",,,,,,,2013/2013-05-03-world-championships-barbados.csv,World,,
+2013-04-22,2013-05-03,World Championship,9,77,"Barbados,Bridgetown",,,,,,,2013/world/2013-05-03-world-championships-barbados.csv,World,,
 2013-05-18,2013-05-18,Young Europeans Sailing,3,21,"Olympia Zentrum,Kiel-Schilksee,GER",Kieler Yacht-Club e.V.,,,,,,2013/country/germany/2013-05-18-young-europeans-sailing.kiel-schilksee.GER.csv,,,
 2013-06-08,2013-06-09,Culix Cup,5,19,"Flensburg Fjord,Baltic Sea,Glücksburg,GER",Flensburger Segel-Club e.V.,,,,,XII. Culix Cup,2013/country/germany/2013-06-09-xii-culix-cup.flensburg-fjord-baltic-sea.GER.csv,,,
 2013-06-22,2013-06-30,Kieler Woche,10,46,"Olympia Zentrum,Kiel-Schilksee,GER",Kieler Yacht-Club e.V.,,,,,,2013/country/germany/2013-06-30-kieler-woche.kiel.GER.csv,,,
 2013-07-19,2013-07-28,Travemünder Woche,6,27,"Travemünde,GER",Lübecker Yacht-Club e.V.,,,,,124. Travemünder Woche,2013/country/germany/2013-07-28-124-travemunder-woche.travemunde.GER.csv,,,
 2013-08-11,2013-08-11,North American Championship,11,27,"Kingston,ON,CAN",Kingston Yacht Club,,,,,,2013/continental/2013-08-11-north-american-championship-kingston-ontario-CAN.csv,Continental,,
 2013-08-28,2013-08-29,Canadian Championship,8,8,"Toronto,CAN",Outer Harbour Centreboard Club,,,,,,2013/country/canada/2013-08-29.canadian-championship.toronto.CAN.csv,National,,
-2013-08-28,2013-09-01,European Championship,9,89,"Medemblik,NED",,,,,,,2013/2013-09-01-mistrzostwa-europy.csv,Continental,,
+2013-08-28,2013-09-01,European Championship,9,89,"Medemblik,NED",,,,,,,2013/continental/2013-09-01.european-championship.medemblik.NED.csv,Continental,,NED
 2013-09-06,2013-09-08,Polish Championship,11,19,"Zatoka Gdańska,Kamień Pomorski,POL",,,,,,,2013/country/poland/2013-09-08-mistrzostwa-polski.csv,National,,
 2013-09-14,2013-09-14,Swedish Championship,5,20,"Segelsällskapet Viken-Ägir,SWE",,,,,,,2013/country/sweden/2013-09-15-sweden-championship.viken-agir.SWE.csv,National,,
 2013-09-14,2013-09-15,Dale Jepsen One-Design Regatta,8,12,"Bellingham,WA,USA",Bellingham Yacht Club,,Mick Corcoran,,,,2013/country/usa/2013-09-15.dale-jepsen-one-design-regatta.bellingham-wa.USA.csv,,,
@@ -201,7 +201,7 @@ Event Start Date,Event End Date,Name,Races,Competitors,City,Organizer,Secretary,
 2015-06-06,2015-06-07,Culix Cup,4,19,"Flensburg Fjord,Baltic Sea,Glücksburg,GER",Flensburger Segel-Club e.V.,Claus Otto Hansen,Hajo Andresen,,,XIV. Culix Cup,2015/country/germany/2015-06-07-xiv-culix-cup.glucksburg.GER.csv,,,
 2015-06-20,2015-06-21,Regaty o Puchar Zbąszynia z okazji Dni Morza,6,20,"Zbąszyń,POL",Zbąszyński Klub Żeglarski,,,,,,2015/country/poland/2015-06-21-zbaszyn.csv,Polish Cup,Jezioro Błędno,
 2015-06-20,2015-06-28,Kieler Woche,10,39,"Olympia Zentrum,Kiel-Schilksee,GER",Kieler Yacht-Club e.V.,,,,,,2015/country/germany/2015-06-20-kieler-woche.kiel.GER.csv,Euro Cup,,
-2015-07-11,2015-07-15,Championnat de France,10,42,"La Rochelle ,FRA",Club de voile à La Rochelle,Ikhlef Georges,Lorber Yves,,,,2015/country/france/2015-07-15.championnat-de-france.la-rochelle.FRA.csv,National,,FRA
+2015-07-11,2015-07-15,Championnat de France,10,42,La Rochelle,Club de voile à La Rochelle,Ikhlef Georges,Lorber Yves,,,,2015/country/france/2015-07-15.championnat-de-france.la-rochelle.FRA.csv,National,,FRA
 2015-07-17,2015-07-26,Travemünder Woche,6,13,"Travemünde,GER",Lübecker Yacht-Club e.V.,Tina Buch,Andrus Pokis,,,126. Travemünder Woche,2015/country/germany/2015-07-28-126-travemunder-woche.travemunde.GER.csv,,,
 2015-07-18,2015-07-19,Puchar Mariny Kamień Pomorski,9,17,"Kamień Pomorski,POL",Polskie Stowarzyszenie Klasy 505,,,,,,2015/country/poland/2015-07-19-kamien.csv,Polish Cup,Zatoka Gdańska,
 2015-07-23,2015-07-27,UK National Championship,7,33,"Weymouth, GBR",Weymouth & Portland National Sailing Academy,,,,,,2015/country/uk/2015-07-27.uk-national-championship.weymouth.GBR.csv,National,,GBR
@@ -280,7 +280,7 @@ Event Start Date,Event End Date,Name,Races,Competitors,City,Organizer,Secretary,
 2018-10-21,2018-10-22,Berliner Meisterschaft,4,20,"Berlin,GER",Verein Seglerhaus am Wannsee Berliner Segler-Verband e.V.,,,,,,2018/country/germany/2018-10-22-berlin-championship.berlin.GER.csv,,,
 2019-01-01,2019-01-01,Pre-Worlds,5,89,"Fremantle,AUS",Fremantle Sailing Club,,,,,,2019/world/2018-12-30-pre-worlds-perth.csv,Pre-Worlds,,
 2019-01-01,2019-01-07,World Championship,10,89,"Fremantle,AUS",Fremantle Sailing Club,,,,,,2019/world/2019-01-07-world-championship-fremantle-AUS.csv,World,,
-2019-04-19,2019-04-21,Cannes,4,31,"Cannes,FRA",,,,,,,2019/country/france/2019-04-21-cannes.cannes.FRA.csv,Euro Cup,,
+2019-04-19,2019-04-21,Cannes,4,31,Cannes,Yacht club de Cannes,,,,,,2019/country/france/2019-04-21-cannes.cannes.FRA.csv,Euro Cup,,FRA
 2019-05-09,2019-05-12,UK National Championship,10,26,"Lymington,GBR",Royal Lymington Yacht Club,,,,,,2019/country/uk/2019-05-12-uk-championship-lymington.csv,National,,GBR
 2019-05-11,2019-05-11,Glücksb.Pokalregatta & Culix Cup,5,10,"Glücksburg, GER",Flensburger Segel-Club e.V.,Claus Otto Hansen,Rüdiger Schuchardt,,,47. Glücksb.Pokalregatta & XVIII. Culix Cup,2019/country/germany/2019-05-11.glucksburg-pokalregatta-xviii-culix-cup.glucksburg.GER.csv,,,
 2019-05-25,2019-05-25,EPS,6,7,"Espoo, FIN",Espoon Pursiseura ry,,,,,,2019/country/finland/2019-05-25.eps.espoo.FIN.csv,,,
@@ -312,18 +312,18 @@ Event Start Date,Event End Date,Name,Races,Competitors,City,Organizer,Secretary,
 2019-10-19,2019-10-20,Berliner Meisterschaft,4,20,"Berlin,GER",Verein Seglerhaus am Wannsee Berliner Segler-Verband e.V.,,,,,,2019/country/germany/2019-10-20-berlin-meistershaft.csv,,,GER
 2019-10-19,2019-10-20,Region II Championships,5,14,"West River,USA",West River Sailing Club and the Bay family,,,,,,2019/country/usa/2019-10-20-region-ii-championships.west-river.USA.csv,,,USA
 2019-10-26,2019-10-27,Sauncacup,6,13,"Markkleeberg, GER",Cospudener Yacht Club Markkleeberg e.V.,,,,,,2019/country/germany/2019-10-27.sauncacup.markkleeberg.GER.csv,,,GER
-2020-01-16,2020-01-21,Australian Championship,8,33,"Melbourne,AUS",Royal Brighton Yacht Club,,,,,,2020/country/australia/2020-01-21-australian-championship.melbourne.AUS.csv,National,,AUS
+2020-01-16,2020-01-21,Australian Championship,8,33,Melbourne,Royal Brighton Yacht Club,,,,,,2020/country/australia/2020-01-21-australian-championship.melbourne.AUS.csv,National,,AUS
 2020-02-07,2020-02-09,Midwinter Championship,8,16,"Clearwater,USA",Clearwater Community Sailing Center,,,,,,2020/country/usa/2020-02-09-midwinters.clearwater.USA.csv,,,USA
 2020-07-04,2020-07-05,Sommerregatta,5,16,"Tutzing,GER",Deutscher Touring Yacht-Club e.V.,,,,,,2020/country/germany/2020-07-04.sommerregatta.tutzing.GER.csv,,,GER
 2020-07-11,2020-07-12,Lotos Nord Cup,7,14,"Górki Zachodnie,POL","AZS, Galion, YCG",,,,,,2020/country/poland/2020-07-12.lotos-nord-cup.gdansk.POL.csv,Polish Cup,Zatoka Gdańska,POL
 1997-10-18,1997-10-18,The Pumpkin Patch Regatta,6,10,"Galesville, MD",West River Sailing Club,,,,,,1997/country/usa/1997-10-18.the-pumpkin-patch-regatta.galesville.md.USA.csv,,Chesapeake Bay,USA
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
+2006-01-01,2006-01-01,Australian Championship,8,34,"Toronto, NSW",,,,,,,2006/country/australia/2006-01-01.australian-championship.toronto.nsw.AUS.csv,National,,AUS
+2010-01-10,2010-01-16,Australian Championship,9,25,"McCrae,VIC",,,,,,,2010/country/australia/2010-01-16.australian-championship.mccrae.vic.AUS.csv,National,,AUS
+2009-08-14,2009-08-16,Australian Championship,9,30,"Manly, NSW",,,,,,,2009/country/australia/2009-08-16.australian-championship.manly.nsw.AUS.csv,National,,AUS
+2011-08-05,2011-08-07,East Coast Championship,9,16,"South Dartmouth, MA",Buzzards Bay Regatta,,,,,,2011/country/usa/2011-08-07.east-coast-championship.south-dartmouth.ma.USA.csv,,,USA
+2008-08-19,2008-08-21,East Coast Championship,8,22,"Galesville, MD",West River Sailing Club,,,,,,2008/country/usa/2008-08-21.east-coast-championship.galesville.md.USA.csv,,,USA
+2013-03-23,2013-03-24,Coupe Chassenay d’Arce des Vrais Bateaux,6,23,,,Jean Pierre Salou,Jacques Terrasson,,,,2013/country/france/2013-03-24.coupe-chassenay-d-arce-des-vrais-bateaux.FRA.csv,,,FRA
+2013-07-11,2013-07-13,Championnat de France,4,31,Cazaux-La Teste,Cercle Voile Cazaux Lac,Patrick Hamart,Yves Leglise,,,,2013/country/france/2013-07-13.championnat-de-france.cazaux-la-teste.FRA.csv,National,,FRA
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
