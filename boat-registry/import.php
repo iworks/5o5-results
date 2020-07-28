@@ -466,7 +466,7 @@ if ( $import_results && ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false 
 		[2] => post_title
 		[3] => iworks_fleet_result_number_of_races
 		[4] => iworks_fleet_result_number_of_competitors
-		[5] => iworks_fleet_result_location
+		[5] => CITY
 		[6] => iworks_fleet_result_organizer
 		[7] => iworks_fleet_result_secretary
 		[8] => iworks_fleet_result_arbiter
@@ -474,7 +474,8 @@ if ( $import_results && ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false 
 		[10] => iworks_fleet_result_wind_power
 		[11] => post_content
 		[12] => file
-		[13] => iworks_fleet_serie
+        [13] => iworks_fleet_serie
+        [14] => iworks_fleet_result_location
 		 */
 		$fields = array(
 			0  => 'iworks_fleet_result_date_start',
@@ -482,7 +483,7 @@ if ( $import_results && ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false 
 			2  => 'post_title',
 			3  => 'iworks_fleet_result_number_of_races',
 			4  => 'iworks_fleet_result_number_of_competitors',
-			5  => 'iworks_fleet_result_location',
+			5  => 'city',
 			6  => 'iworks_fleet_result_organizer',
 			7  => 'iworks_fleet_result_secretary',
 			8  => 'iworks_fleet_result_arbiter',
@@ -491,6 +492,7 @@ if ( $import_results && ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false 
 			11 => 'post_content',
 			12 => 'file',
 			13 => 'iworks_fleet_serie',
+			14  => 'iworks_fleet_result_location',
 		);
 		foreach ( $fields as $index => $key ) {
 			$value = trim( $data[ $index ] );
