@@ -139,8 +139,8 @@ Event Start Date,Event End Date,Name,Races,Competitors,City,Organizer,Secretary,
 2009-09-19,2009-09-20,Dale Jepsen One-Design Regatta,7,13,"Bellingham,WA,USA",Bellingham Yacht Club,Jamie Ashton,Michele Bodtke,,,,2009/country/usa/2009-09-20.dale-jepsen-one-design-regatta.bellingham-wa.USA.csv,,,
 2010-06-24,2010-06-27,North American Championship,10,23,"Chicago,IL,USA",Chicago Yacht Club,,,,,,2010/continental/2010-06-27.north-american-championship.chicago.USA.csv,Continental,Lake Michigan,
 2010-07-03,2010-07-04,National Espoirs,7,7,"Anse de la Picarde, FRA",Club Nautique Haute Seine,,,,,,2010/country/belgium/2010-07-04.national-espoirs.anse-de-la-picarde.FRA.csv,,,
-2010-07-09,2010-07-11,Polish Championship,9,5,"Gdańsk,POL",,,,,,,2010/2010-07-11-mp.csv,National,Zatoka Gdańska,
-2010-08-10,2010-08-16,World Championship,9,125,"Aarhus,DEN",,,,,,,2010/2010-08-16-world-championship-aarhus.csv,World,,
+2010-07-09,2010-07-11,Polish Championship,9,5,Gdańsk,,,,,,,2010/country/poland/2010-07-11.polish-championship.gdansk.POL.csv,National,Zatoka Gdańska,POL
+2010-08-10,2010-08-16,World Championship,9,125,Aarhus,,,,,,,2010/world/2010-08-16-world-championship-aarhus.DEN.csv,World,,DEN
 2010-08-27,2010-08-29,Canadian Championship,13,11,"Kingston,ON,CAN",Kingston Yacht Club,,,,,,2010/country/canada/2010-08-29.canadian-championship.kingston.CAN.csv,National,,
 2010-09-02,2010-09-05,UK National Championship,8,46,"Lyme Regis, GBR",Lyme Regis Sailing Club,,,,,,2010/country/uk/2010-09-05.uk-national-championship.lyme-regis.GBR.csv,National,,GBR
 2010-09-18,2010-09-19,Dale Jepsen One-Design Regatta,6,11,"Bellingham,WA,USA",Bellingham Yacht Club,Jamie Ashton,Mick Corcoran,,,,2010/country/usa/2010-09-19.dale-jepsen-one-design-regatta.bellingham-wa.USA.csv,,,
@@ -328,7 +328,7 @@ Event Start Date,Event End Date,Name,Races,Competitors,City,Organizer,Secretary,
 2012-08-18,2012-08-19,Puchar Starosty Poznańskiego,4,11,Poznań,Klub Żeglarski “Mewa”,,,,,,2012/country/poland/2012-08-19-puchar-starosty-poznanskiego.csv,Polish Cup,Jezioro Kierskie,POL
 2011-06-25,2011-06-25,Regaty o Puchar Zbąszynia z okazji Dni Morza,5,8,Zbąszyń,Zbąszyński Klub Żeglarski,,,,,,2011/country/poland/2011-06-28-zbaszyn.csv,Polish Cup,Jezioro Błędno,POL
 2011-07-23,2011-07-24,Gdynia Sailing Days,7,9,Gdynia,YK Stal Gdynia,,,,,,2011/country/poland/2011-07-24-gdynia-sailng-days.csv,Polish Cup,Zatoka Gdańska,POL
-,,,,,,,,,,,,,,,
+2010-08-14,2010-08-15,Puchar Starosty Poznańskiego,,11,Poznań,Klub Żeglarski “Mewa”,,,,,,2010/country/poland/2010-08-15-puchar-starosty-poznanskiego.csv,Polish Cup,Jezioro Kierskie,POL
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,

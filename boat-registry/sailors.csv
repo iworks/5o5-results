@@ -1,33 +1,3 @@
-POL,Michał Mironiuk
-POL,Wojciech Gierak
-POL,Marek Matysiewicz
-POL,Krzysztof Szulc
-USA,Simon Gerson
-USA,Whit Duncan
-USA,Chris Burd
-USA,Nicholas Burke
-USA,Nat Taylor
-USA,James Nunn
-FRA,Gerard Tilly
-FRA,Xavier Tilly
-FRA,Bruno Vaniekaut
-FRA,Emmanuel Mouclier
-FRA,Luc Vocanson
-FRA,Jean Philippe Ducros
-FRA,Riwanon Le Roy
-FRA,Bernard Edel
-FRA,Yoann Lapijover
-AUS,Kym Campion
-AUS,Charlie Longbottom
-AUS,Dan Cowan
-AUS,Phil Edney
-AUS,Mark Scrymgour
-CAN,Marek Baliński
-USA,Steve Smith
-USA,Ted Nordquist
-USA,Barret Rhodes
-USA,Andrew Gassman
-USA,Michael Goldstein
 AUS,A. Martin
 AUS,Adam Brenz-Verca
 AUS,Adam Wyatt
@@ -58,6 +28,7 @@ AUS,Bryce Penfold
 AUS,Byron Mavrick
 AUS,Cameron McDonald
 AUS,Charles Spence
+AUS,Charlie Longbottom
 AUS,Chris Gregg
 AUS,Chris Hough
 AUS,Chris Whyte
@@ -67,6 +38,7 @@ AUS,Clint Bowen
 AUS,Conall Hansford
 AUS,Curtis Hartmann
 AUS,Damian Carey
+AUS,Dan Cowan
 AUS,Daniel Keys
 AUS,Darren Cooney
 AUS,Darren Gilbert
@@ -136,6 +108,7 @@ AUS,Ken Lockenby
 AUS,Ken Mitchell
 AUS,Kevin Whitbread
 AUS,Kim Williams
+AUS,Kym Campion
 AUS,Lachlan Hornsby
 AUS,Leigh Riddell
 AUS,Leslie Nathanson
@@ -151,6 +124,7 @@ AUS,Malcolm Page
 AUS,Marcel Vos
 AUS,Marcus Cooper
 AUS,Mark Engert
+AUS,Mark Scrymgour
 AUS,Mark Stowell
 AUS,Martin Pike
 AUS,Matt Bowden
@@ -194,6 +168,7 @@ AUS,Peter Holden
 AUS,Peter McDonald
 AUS,Peter Nicholas
 AUS,Peter Nicolas
+AUS,Phil Edney
 AUS,Phil Gray
 AUS,Philip Scapens
 AUS,Pip Pearson
@@ -285,6 +260,7 @@ CAN,John Hayley
 CAN,Julian Pearson
 CAN,Karl Oswald
 CAN,Kyber Lovshin
+CAN,Marek Baliński
 CAN,Margaret Hurley
 CAN,Mark Ashby
 CAN,Martin Hicks
@@ -410,9 +386,11 @@ FRA,Be Di Pede
 FRA,Benoit Dijoux
 FRA,Benoit Morane
 FRA,Bernard Dugrip
+FRA,Bernard Edel
 FRA,Bernard Peuch
 FRA,Bev Moss
 FRA,Bruno Levesque
+FRA,Bruno Vaniekaut
 FRA,Cedric Faucheux
 FRA,Celine Chevet
 FRA,Charles de Kergariou
@@ -431,6 +409,7 @@ FRA,Derek Farrant
 FRA,Dominique Rouanne
 FRA,Edouard Morin
 FRA,Elisabeth Neidhart
+FRA,Emmanuel Mouclier
 FRA,Eric Basset
 FRA,Eric Le Morvan
 FRA,Eric Quémard
@@ -450,6 +429,7 @@ FRA,Francois Lafortune
 FRA,Frédéric Monnier
 FRA,Frederic Roucayrol
 FRA,Gabin Micoulot
+FRA,Gerard Tilly
 FRA,Geraud Lafortune
 FRA,Ghislain De Lafforest
 FRA,Gilles Carvallo
@@ -469,6 +449,7 @@ FRA,Jacques Raguet
 FRA,Jean Blache
 FRA,Jean Charles Zimmowitch
 FRA,Jean Claude Ancelot
+FRA,Jean Philippe Ducros
 FRA,Jean Philippe Hermieu
 FRA,Jean Pierre Noclain
 FRA,Jean-Baptiste Dupont
@@ -502,6 +483,7 @@ FRA,Loic Bleuez
 FRA,Louis Claude
 FRA,Louise Acker
 FRA,Louis-Michel Ces
+FRA,Luc Vocanson
 FRA,Marc Desjuzeur
 FRA,Marc Jouany
 FRA,Marc Pajot
@@ -560,6 +542,7 @@ FRA,Pierre Williot
 FRA,Pierre-Jerome Coulmin
 FRA,R. Morch
 FRA,Regis Viateur
+FRA,Riwanon Le Roy
 FRA,Robert Lehmann
 FRA,Robin Farrant
 FRA,Roger Chabaud
@@ -594,7 +577,9 @@ FRA,Vivien Lucienne
 FRA,Wenceslas Dieuzy
 FRA,Wojciech Butkiewicz
 FRA,Xavier Broise
+FRA,Xavier Tilly
 FRA,Yann Plathier
+FRA,Yoann Lapijover
 FRA,Yves Coltier
 FRA,Yves Niddam
 FRA,Yves Pajot
@@ -1324,6 +1309,7 @@ POL,Krystian Doch
 POL,Krzysztof Baran
 POL,Krzysztof Osiak
 POL,Krzysztof Rzadkowski
+POL,Krzysztof Szulc
 POL,Leszek Świstelnicki
 POL,Łukasz Czaja
 POL,Łukasz Grabia
@@ -1349,6 +1335,7 @@ POL,Marcin Pietrzak,2004,
 POL,Marcin Wojtoniak
 POL,Marek Kaczmarek
 POL,Marek Masłowski
+POL,Marek Matysiewicz
 POL,Marek Milewski
 POL,Mariusz Ambroziak
 POL,Mariusz Michalski,1978,Yacht Klub Stal Gdynia
@@ -1359,6 +1346,7 @@ POL,Mateusz Wolszczak
 POL,Mateusz Wujec
 POL,Mateusz Żolnierkiewicz
 POL,Michał Marciniak
+POL,Michał Mironiuk
 POL,Michał Olko,1977,Yacht Klub Stal Gdynia
 POL,Michał Prończuk
 POL,Michał Ruciński,2012, Akademicki Klub Morski Gdańsk
@@ -1415,6 +1403,7 @@ POL,Tomasz Zubelewicz
 POL,Tymon Sadowski
 POL,Wiktoria Lasek
 POL,Władysław Kondej,2000,AZS Poznań
+POL,Wojciech Gierak
 POL,Wojciech Kasprzyk
 POL,Zbigniew Doch
 POL,Zbigniew Monkiewicz
@@ -1630,6 +1619,7 @@ USA,Anne Fitzpatrick
 USA,Annie Fitzpatrick
 USA,Augie Diaz
 USA,Barney Harris
+USA,Barret Rhodes
 USA,Barry Kuehl
 USA,Ben Benjamin
 USA,Ben Moon
@@ -1655,6 +1645,7 @@ USA,Carl Smit
 USA,Catherine Guiader
 USA,Chris Behm
 USA,Chris Brady
+USA,Chris Burd
 USA,Chris Freye
 USA,Chris Gorton
 USA,Chris Woods
@@ -1723,6 +1714,7 @@ USA,Ian McKeige
 USA,Ian O'Leary
 USA,James Barry
 USA,James Holstine
+USA,James Nunn
 USA,Jan Aase
 USA,Jason Breeden
 USA,Jason Bright
@@ -1781,6 +1773,7 @@ USA,Michael Agrell
 USA,Michael Breault
 USA,Michael Coe
 USA,Michael Curtin
+USA,Michael Goldstein
 USA,Michael Martin
 USA,Michael Zimmerman
 USA,Mike Holt
@@ -1792,10 +1785,12 @@ USA,Mike Smith
 USA,Mike Welch
 USA,Mike Zani
 USA,Miles Johannessen
+USA,Nat Taylor
 USA,Nathaniel Plant
 USA,Neal Fowler
 USA,Ned Turney
 USA,Nicholas Blair
+USA,Nicholas Burke
 USA,Nicholas Grey
 USA,Nick Adamson
 USA,Nick Trotman
@@ -1830,6 +1825,7 @@ USA,Scott Ikle
 USA,Scott MacKay
 USA,Scott Weiler
 USA,Shane Illidge
+USA,Simon Gerson
 USA,Spencer Snapp
 USA,Stephen Benjamin
 USA,Stephen Bourdow
@@ -1838,6 +1834,7 @@ USA,Sterling Spruill
 USA,Steve Anderes
 USA,Steve Flam
 USA,Steve Rosenberg
+USA,Steve Smith
 USA,Steve Sparkman
 USA,Stevios Papadakis
 USA,Stine Cacavas
@@ -1845,6 +1842,7 @@ USA,Sugar Flanagan
 USA,Ted Fernau
 USA,Ted Huebner
 USA,Ted Moore
+USA,Ted Nordquist
 USA,Terry Neff
 USA,Thad Melton
 USA,Thomas Barrows
@@ -1860,6 +1858,7 @@ USA,Tony DeVita
 USA,Tucker Edmundson
 USA,Tyler Moore
 USA,W Allen Kilgore
+USA,Whit Duncan
 USA,Will Lowe
 USA,William Pevear
 USA,Wolf Chamberlain
