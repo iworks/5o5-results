@@ -51,9 +51,24 @@ Event Start Date,Event End Date,Name,Races,Competitors,City,Organizer,Secretary,
 1996-04-07,1996-04-09,Australian Championship,6,80,"Townsville,AUS",,,,,,,1996/country/australia/1996-04-10-australia-championship.townsville.AUS.csv,National,,AUS
 1996-04-10,1996-04-10,Pre-Worlds,3,98,"Townsville,AUS",,,,,,,1996/world/1996-04-12-pre-world.townsville.AUS.csv,Pre-Worlds,,AUS
 1996-04-11,1996-04-18,World Championship,7,96,"Townsville,AUS",,,,,,,1996/world/1996-04-17-world.championship.townsville.australia.csv,World,,
+1997-01-03,1997-01-05,Florida Midwinters,6,23,"St. Petersburg, FL",St. Petersburg Sailing Center,,,,,,1997/country/usa/1997-01-05.florida-midwinters.st-petersburg.USA.csv,,,USA
+1997-02-15,1997-02-16,Southern California Midwinters,5,10,"Long Beach, CA",Alamitos Bay Yacht Club,,,,,,1997/country/usa/1997-02-16.southern-california-midwinters.long-beach.USA.csv,,,USA
+1997-03-15,1997-03-16,St. Francis Spring Dinghy,6,10,"San Francisco, CA",St. Francis Yacht Club,,,,,,1997/country/usa/1997-03-16.st-francis-spring-dinghy.san-francisco.USA.csv,,,USA
+1997-05-03,1997-05-04,Spring Regatta,5,13,"Galesville, MD",West River Sailing Club,,,,,,1997/country/usa/1997-05-04.spring-regatta.galesville.USA.csv,,Chesapeake Bay,USA
+1997-05-17,1997-05-18,Bristol Regatta,6,11,"Bristol, RI",Bristol Yacht Club,,,,,,1997/country/usa/1997-05-18.bristol-regatta.bristol.ri.USA.csv,,,USA
+1997-05-24,1997-05-25,Mid-Atlantic Regional Regatta,5,8,"Galesville, MD",West River Sailing Club,,,,,,1997/country/usa/1997-05-25.mid-atlantic-regional-regatta.galesville.md.USA.csv,,Chesapeake Bay,USA
+1997-06-06,1997-06-08,East Coast Championship,7,23,"Hampton, VA ",Hampton Yacht Club,,,,,,1997/country/usa/1997-06-08.east-coast-championship.hampton.va.USA.csv,,,USA
 1997-07-19,1997-07-25,T.R. Fastenings UK National Championship,9,45,"Brighton,GBR",Brighton Marina Yacht Club,,,,,,1997/country/uk/1997-07-25.uk-national-championships.brighton.GBR.csv,National,,GBR
 1997-08-10,1997-08-11,Pre-Worlds & Danish Championship,6,70,"Gilleleje,DEN",Gilleleje Sejlklub,,,,,,1997/world/1997-08-11-pre-world.danish-championship.gilleleje.DEN.csv,"Pre-Worlds, National",,DEN
 1997-08-10,1997-08-21,World Championship,7,79,"Gilleleje,DEN",Gilleleje Sejlklub,,,,,,1997/world/1997-08-21.world-championships.gilleleje.DEN.csv,World,,
+1997-08-16,1997-08-17,New Bedford Yacht Club Regatta,5,15,"South Dartmouth, MA",New Bedford Yacht Club,,,,,,1997/country/usa/1997-08-17.nbyc-505-regatta.south-dartmouth.ma.USA.csv,,,USA
+1997-08-21,1997-08-24,Eastern Canadian Championship (CORK),7,18,"Kingston,ON",CORK,,,,,,1997/country/canada/1997-08-24.eastern-canadian-championship-cork.kingston.on.CAN.csv,,,CAN
+1997-08-30,1997-09-01,Nebraska Governors Cup,5,7,"Ogallala, NE",,,,,,,1997/country/usa/1997-09-01.nebraska-governors-cup.ogallala.ne.USA.csv,,Lake McConaughy,USA
+1997-09-13,1997-09-14,Mid Atlantic Championship Regatta,3,13,"Galesville, MD",West River Sailing Club,,,,,,1997/country/usa/1997-09-14.mid-atlantic-championship-regatta.galesville.md.USA.csv,,Chesapeake Bay,USA
+1997-09-20,1997-09-21,Midwest Championship,5,11,"Sandusky, OH",Sandusky Sailing Club,,,,,,1997/country/usa/1997-09-21.midwest-championship.sandusky-oh.USA.csv,,,USA
+1997-09-20,1997-09-21,Pacific Coast Championship,5,19,"Richmond,CA",Richmond Yacht Club,,,,,,1997/country/usa/1997-09-21.pacific-coast-championship.richmond.ca.USA.csv,,,USA
+1997-10-04,1997-10-05,Hoosier Regatta,6,9,"Bloomington, IN",Indiana University Yacht Club,,,,,,1997/country/usa/1997-10-05.hoosier-regatta.bloomington.in.USA.csv,,Lake Lemon,USA
+1997-10-04,1997-10-05,Karl Miller Regatta,4,13,"Galesville, MD",West River Sailing Club,,,,,,1997/country/usa/1997-10-05.karl-miller-regatta.galesville.md.USA.csv,,Chesapeake Bay,USA
 1998-01-01,1998-01-04,Midwinter Championship,9,32,"St. Petersburg, FL, USA",St. Petersburg Yacht Club,,,,,,1998/country/usa/1998-01-04.midwinter-championship.st-petersburg.USA.csv,,,USA
 1998-03-14,1998-03-15,Spring Dinghy,6,11,"San Francisco, CA, USA",St. Francis Yacht Club,,,,,,1998/country/usa/1998-03-15.spring-dinghy.san-francisco.USA.csv,,,USA
 1998-04-04,1998-04-05,Hiper regatta,8,11,"Marina del Rey, CA, USA",,,,,,,1998/country/usa/1998-04-05.hiper-regatta.marina-del-rey.USA.csv,,,USA
@@ -67,6 +82,9 @@ Event Start Date,Event End Date,Name,Races,Competitors,City,Organizer,Secretary,
 1998-07-24,1998-07-26,Hayling Island,6,35,"Hayling Island,GBR",Hayling Island Sailing Club,,,,,,1998/country/uk/1998-07-26-euro-cup-hayling-island-GBR.csv,Euro Cup,,GBR
 1998-07-31,1998-08-02,East Coast Championship,8,26,"Hyannis, MA, USA",Hyannis Yacht Club,,,,,,1998/country/usa/1998-08-02.east-coast-championship.hyannis.USA.csv,,,USA
 1998-08-01,1998-08-01,Zimbabwe Championship,12,9,"Kariba, Zimbabwe ",,,,,,,1998/country/zimbabwe/1998-08-01.zimbabwe-championship.kariba.ZIM.csv,National,Kariba,ZIM
+1998-08-08,1998-08-14,UK National Championship,7,39,"Plymount, GBR",UK 505 Class Association,,,,,,1998/country/uk/1998-08-14.uk-national-championship.plymount.GBR.csv,National,,GBR
+1998-08-15,1998-08-16,Hospice Regatta,6,12,"Hyannis, MA, USA",Hyannis Yacht Club,,,,,,1998/country/usa/1998-08-16.hospice-regatta.hyannis.USA.csv,,,USA
+1998-08-22,1998-08-23,Midwest Championship,7,20,"Ontario, CAN",South Port Sailing Club,,,,,,1998/country/canada/1998-08-23.midwest-championship.ontario.CAN.csv,,Lake St. Claire,CAN
 1998-08-29,1998-08-29,Pacific Coast Championship,5,18,"Richmond,CA,USA",Richmond Yacht Club,,,,,,1998/country/usa/1998-08-29.pacific-coast-championship.richmond.USA.csv,,,
 1998-08-29,1998-08-30,Eastern Canadian Championship (CORK),9,19,"Kingston,ON,CAN",CORK,,,,,,1998/country/canada/1998-08-30-cork-1998.kingston-on.CAN.csv,,,
 1998-09-19,1998-09-25,World Championship,8,106,"Hyannis, MA, USA",Hyannis Yacht Club,,,,,,1998/world/1998-09-25.world-championship.hyannis-MA.USA.csv,World,,
@@ -298,24 +316,6 @@ Event Start Date,Event End Date,Name,Races,Competitors,City,Organizer,Secretary,
 2020-02-07,2020-02-09,Midwinter Championship,8,16,"Clearwater,USA",Clearwater Community Sailing Center,,,,,,2020/country/usa/2020-02-09-midwinters.clearwater.USA.csv,,,USA
 2020-07-04,2020-07-05,Sommerregatta,5,16,"Tutzing,GER",Deutscher Touring Yacht-Club e.V.,,,,,,2020/country/germany/2020-07-04.sommerregatta.tutzing.GER.csv,,,GER
 2020-07-11,2020-07-12,Lotos Nord Cup,7,14,"Górki Zachodnie,POL","AZS, Galion, YCG",,,,,,2020/country/poland/2020-07-12.lotos-nord-cup.gdansk.POL.csv,Polish Cup,Zatoka Gdańska,POL
-1998-08-08,1998-08-14,UK National Championship,7,39,"Plymount, GBR",UK 505 Class Association,,,,,,1998/country/uk/1998-08-14.uk-national-championship.plymount.GBR.csv,National,,GBR
-1998-08-15,1998-08-16,Hospice Regatta,6,12,"Hyannis, MA, USA",Hyannis Yacht Club,,,,,,1998/country/usa/1998-08-16.hospice-regatta.hyannis.USA.csv,,,USA
-1998-08-22,1998-08-23,Midwest Championship,7,20,"Ontario, CAN",South Port Sailing Club,,,,,,1998/country/canada/1998-08-23.midwest-championship.ontario.CAN.csv,,Lake St. Claire,CAN
-1997-01-03,1997-01-05,Florida Midwinters,6,23,"St. Petersburg, FL",St. Petersburg Sailing Center,,,,,,1997/country/usa/1997-01-05.florida-midwinters.st-petersburg.USA.csv,,,USA
-1997-02-15,1997-02-16,Southern California Midwinters,5,10,"Long Beach, CA",Alamitos Bay Yacht Club,,,,,,1997/country/usa/1997-02-16.southern-california-midwinters.long-beach.USA.csv,,,USA
-1997-03-15,1997-03-16,St. Francis Spring Dinghy,6,10,"San Francisco, CA",St. Francis Yacht Club,,,,,,1997/country/usa/1997-03-16.st-francis-spring-dinghy.san-francisco.USA.csv,,,USA
-1997-05-03,1997-05-04,Spring Regatta,5,13,"Galesville, MD",West River Sailing Club,,,,,,1997/country/usa/1997-05-04.spring-regatta.galesville.USA.csv,,Chesapeake Bay,USA
-1997-05-17,1997-05-18,Bristol Regatta,6,11,"Bristol, RI",Bristol Yacht Club,,,,,,1997/country/usa/1997-05-18.bristol-regatta.bristol.ri.USA.csv,,,USA
-1997-05-24,1997-05-25,Mid-Atlantic Regional Regatta,5,8,"Galesville, MD",West River Sailing Club,,,,,,1997/country/usa/1997-05-25.mid-atlantic-regional-regatta.galesville.md.USA.csv,,Chesapeake Bay,USA
-1997-06-06,1997-06-08,East Coast Championship,7,23,"Hampton, VA ",Hampton Yacht Club,,,,,,1997/country/usa/1997-06-08.east-coast-championship.hampton.va.USA.csv,,,USA
-1997-08-16,1997-08-17,New Bedford Yacht Club Regatta,5,15,"South Dartmouth, MA",New Bedford Yacht Club,,,,,,1997/country/usa/1997-08-17.nbyc-505-regatta.south-dartmouth.ma.USA.csv,,,USA
-1997-08-21,1997-08-24,Eastern Canadian Championship (CORK),7,18,"Kingston,ON",CORK,,,,,,1997/country/canada/1997-08-24.eastern-canadian-championship-cork.kingston.on.CAN.csv,,,CAN
-1997-08-30,1997-09-01,Nebraska Governors Cup,5,7,"Ogallala, NE",,,,,,,1997/country/usa/1997-09-01.nebraska-governors-cup.ogallala.ne.USA.csv,,Lake McConaughy,USA
-1997-09-13,1997-09-14,Mid Atlantic Championship Regatta,3,13,"Galesville, MD",West River Sailing Club,,,,,,1997/country/usa/1997-09-14.mid-atlantic-championship-regatta.galesville.md.USA.csv,,Chesapeake Bay,USA
-1997-09-20,1997-09-21,Midwest Championship,5,11,"Sandusky, OH",Sandusky Sailing Club,,,,,,1997/country/usa/1997-09-21.midwest-championship.sandusky-oh.USA.csv,,,USA
-1997-09-20,1997-09-21,Pacific Coast Championship,5,19,"Richmond,CA",Richmond Yacht Club,,,,,,1997/country/usa/1997-09-21.pacific-coast-championship.richmond.ca.USA.csv,,,USA
-1997-10-04,1997-10-05,Hoosier Regatta,6,9,"Bloomington, IN",Indiana University Yacht Club,,,,,,1997/country/usa/1997-10-05.hoosier-regatta.bloomington.in.USA.csv,,Lake Lemon,USA
-,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
