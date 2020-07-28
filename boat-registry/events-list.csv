@@ -210,7 +210,7 @@ Event Start Date,Event End Date,Name,Races,Competitors,City,Organizer,Secretary,
 2015-08-22,2015-08-23,Puchar Burmistrza Krynicy Morskiej,7,20,"Krynica Morska,POL",Jacht Klub KM/Polskie Stowarzyszenie Klasy 505,,,,,,2015/country/poland/2015-08-23-krynica.csv,Polish Cup,Zalew Wiślany,POL
 2015-08-30,2015-08-31,Aarhus Festuge Cup,4,8,"Aarhus,DEN",,,,,,,2015/country/denmark/2015-08-31.aarhus-festuge-cup.arhus.DEN.csv,,,DEN
 2015-09-05,2015-09-06,National Espoirs,8,23,"Anse de la Picarde, FRA",Club Nautique Haute Seine,,,,,,2015/country/france/2015-09-06.national-espoirs.anse-de-la-picarde.FRA.csv,,,FRA
-2015-09-11,2015-09-13,Polish Championship,11,23,"Puck,POL",MOKSIR Puck/PSK 505,,,,,,2015/country/poland/2015-09-13.polish-championship.puck.POL.csv,National,Zatoka Pucka,POL
+2015-09-11,2015-09-13,Polish Championship,11,23,Puck,MOKSIR Puck/PSK 505,,,,,,2015/country/poland/2015-09-13.polish-championship.puck.POL.csv,National,Zatoka Pucka,POL
 2015-09-19,2015-09-20,Dale Jepsen One-Design Regatta,6,17,"Bellingham,WA,USA",Bellingham Yacht Club,,,,,,2015/country/usa/2015-09-20.dale-jepsen-one-design-regatta.bellingham-wa.USA.csv,,,USA
 2015-10-02,2015-10-04,Adonite Swiss Open,6,26,"Estavayer, SUI",Cercle de la Voile d'Estavayer,,,,,,2015/country/switzerland/2015-10-04.adonite-swiss-open.estavayer.SUI.csv,,,SUI
 2015-10-17,2015-10-18,Regaty Zakończenia Sezonu,3,9,"Warszawa,POL",,,,,,,2015/country/poland/2015-10-18-zegrze.csv,Polish Cup,Zalew Zegrzyński,POL
@@ -326,8 +326,8 @@ Event Start Date,Event End Date,Name,Races,Competitors,City,Organizer,Secretary,
 2013-07-11,2013-07-13,Championnat de France,4,31,Cazaux-La Teste,Cercle Voile Cazaux Lac,Patrick Hamart,Yves Leglise,,,,2013/country/france/2013-07-13.championnat-de-france.cazaux-la-teste.FRA.csv,National,,FRA
 2012-07-07,2012-07-08,NordCup,4,6,Górki Zachodnie,Marina Galion,,,,,,2012/country/poland/2012-07-08-nordcup.csv,Polish Cup,Zatoka Gdańska,POL
 2012-08-18,2012-08-19,Puchar Starosty Poznańskiego,4,11,Poznań,Klub Żeglarski “Mewa”,,,,,,2012/country/poland/2012-08-19-puchar-starosty-poznanskiego.csv,Polish Cup,Jezioro Kierskie,POL
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
+2011-06-25,2011-06-25,Regaty o Puchar Zbąszynia z okazji Dni Morza,5,8,Zbąszyń,Zbąszyński Klub Żeglarski,,,,,,2011/country/poland/2011-06-28-zbaszyn.csv,Polish Cup,Jezioro Błędno,POL
+2011-07-23,2011-07-24,Gdynia Sailing Days,7,9,Gdynia,YK Stal Gdynia,,,,,,2011/country/poland/2011-07-24-gdynia-sailng-days.csv,Polish Cup,Zatoka Gdańska,POL
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
