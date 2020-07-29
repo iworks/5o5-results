@@ -76,8 +76,37 @@ if ( in_array( 'all', $argv ) ) {
  */
 if ( $import_sailors && ( $handle = fopen( 'sailors.csv', 'r' ) ) !== false ) {
 	echo PHP_EOL,'IMPORT: sailors.csv',PHP_EOL;
+		/**
+		 * Fields:
+		 *
+		 *  0 Nation
+		 *  1 Name
+		 *  2 Birth Date - iworks_fleet_personal_birth_date
+		 *  3 Club
+		 *  4 Description
+		 *  5 Email    - iworks_fleet_contact_email
+		 *  6 Mobile   - iworks_fleet_contact_mobile
+		 *  7 Website  - iworks_fleet_social_website
+		 *  8 Facebook - iworks_fleet_social_facebook
+		 *  9 iworks_fleet_social_instagram
+		 * 10 iworks_fleet_social_twitter
+		 * 11 iworks_fleet_social_endomondo
+		 *
+		 */
+	$fields = array(
+		5  => 'works_fleet_contact_email',
+		6  => 'works_fleet_contact_mobile',
+		7  => 'works_fleet_social_website',
+		8  => 'works_fleet_social_facebook',
+		9  => 'works_fleet_social_instagram',
+		10 => 'works_fleet_social_twitter',
+		11 => 'works_fleet_social_endomondo',
+	);
 	while ( ( $data = fgetcsv( $handle, 0, ',' ) ) !== false ) {
 		if ( isset( $data[1] ) && ! empty( $data[1] ) ) {
+			if ( 'Nation' === $data[0] ) {
+				continue;
+			}
 			$p = person_clear_name( $data[1] );
 			if ( empty( $p ) ) {
 				continue;
@@ -96,6 +125,28 @@ if ( $import_sailors && ( $handle = fopen( 'sailors.csv', 'r' ) ) !== false ) {
 					'iworks_fleet_personal_nation' => trim( $data[0] ),
 				),
 			);
+			/**
+			 * Birth!
+			 */
+			$value = trim( $data[2] );
+			if ( preg_match( '/^\d{4}$/', $value ) ) {
+				$post_array['meta_input']['iworks_fleet_personal_birth_year'] = $value;
+			} else {
+				$value = strtotime( $value );
+				$post_array['meta_input']['iworks_fleet_personal_birth_year'] = date( 'Y', $value );
+				$post_array['meta_input']['iworks_fleet_personal_birth_date'] = $value;
+			}
+
+			/**
+			 * get meta fields
+			 */
+			foreach ( $fields as $index => $meta_key ) {
+				$value = trim( $data[ $index ] );
+				if ( empty( $value ) ) {
+					continue;
+				}
+				$post_array['meta_input'][ $meta_key ] = $value;
+			}
 			wp_insert_post( $post_array );
 		} else {
 			echo 'x';
@@ -496,16 +547,20 @@ if ( $import_results && ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false 
 			15 => 'iworks_fleet_result_country',
 		);
 		foreach ( $fields as $index => $key ) {
-			$value = trim( $data[ $index ] );
-			switch ( $key ) {
-				case 'iworks_fleet_result_date_start':
-				case 'iworks_fleet_result_date_end':
-					$value = strtotime( $value );
-					break;
-				case 'iworks_fleet_result_number_of_races':
-				case 'iworks_fleet_result_number_of_competitors':
-					$value = intval( $value );
-					break;
+			$value = '';
+			if ( isset( $data[ $index ] ) ) {
+
+				$value = trim( $data[ $index ] );
+				switch ( $key ) {
+					case 'iworks_fleet_result_date_start':
+					case 'iworks_fleet_result_date_end':
+						$value = strtotime( $value );
+						break;
+					case 'iworks_fleet_result_number_of_races':
+					case 'iworks_fleet_result_number_of_competitors':
+						$value = intval( $value );
+						break;
+				}
 			}
 			$$key = trim( $value );
 		}

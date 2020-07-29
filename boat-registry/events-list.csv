@@ -170,7 +170,7 @@ Event Start Date,Event End Date,Name,Races,Competitors,City,Organizer,Secretary,
 2013-08-28,2013-08-29,Canadian Championship,8,8,"Toronto,CAN",Outer Harbour Centreboard Club,,,,,,2013/country/canada/2013-08-29.canadian-championship.toronto.CAN.csv,National,,
 2013-08-28,2013-09-01,European Championship,9,89,"Medemblik,NED",,,,,,,2013/continental/2013-09-01.european-championship.medemblik.NED.csv,Continental,,NED
 2013-09-06,2013-09-08,Mistrzostwa Polski,11,19,"Zatoka Gdańska,Kamień Pomorski,POL",,,,,,,2013/country/poland/2013-09-08-mistrzostwa-polski.csv,National,,
-2013-09-14,2013-09-14,Swedish Championship,5,20,"Segelsällskapet Viken-Ägir,SWE",,,,,,,2013/country/sweden/2013-09-15-sweden-championship.viken-agir.SWE.csv,National,,
+2013-09-14,2013-09-14,Svenskt Mästerskap,5,20,"Segelsällskapet Viken-Ägir,SWE",,,,,,,2013/country/sweden/2013-09-15-sweden-championship.viken-agir.SWE.csv,National,,
 2013-09-14,2013-09-15,Dale Jepsen One-Design Regatta,8,12,"Bellingham,WA,USA",Bellingham Yacht Club,,Mick Corcoran,,,,2013/country/usa/2013-09-15.dale-jepsen-one-design-regatta.bellingham-wa.USA.csv,,,
 2014-02-21,2014-02-23,Midwinter Championship,3,18,"St. Petersburg, FL, USA",St. Petersburg Yacht Club,,,,,,2014/country/usa/2014-02-23.midwinter-championship.st-petersburg.USA.csv,,,
 2014-05-17,2014-05-18,Culix Cup,3,21,"Flensburg Fjord,Baltic Sea,Glücksburg,GER",Flensburger Segel-Club e.V.,Claus Otto Hansen,Hajo Andresen,,,XIII. Culix Cup,2014/country/germany/2014-05-18-xiii-culix-cup.glucksburg.GER.csv,,,
@@ -333,9 +333,9 @@ Event Start Date,Event End Date,Name,Races,Competitors,City,Organizer,Secretary,
 2009-05-01,2009-05-03,Puchar Wiosny,6,5,Warszawa,,,,,,,2009/country/poland/2009-05-03-zegrze.csv,Polish Cup,Zalew Zegrzyński,POL
 2009-07-11,2009-07-11,Nord Cup,6,5,Górki Zachodnie,,,,,,,2009/country/poland/2009-07-12-nord-cup.csv,Polish Cup,Zatoka Gdańska,POL
 2008-06-16,2008-06-18,Mistrzostwa Polski,,10,Kamień Pomorski,,,,,,,2008/country/poland/2008-06-18.polish-championship.kamien-pomorski.POL.csv,"National, Polish Cup",Zatoka Gdańska,POL
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
+2006-08-25,2006-08-27,Mistrzostwa Polski,,4,Sopot,,,,,,,2006/country/poland/2006-08-27.mistrzostwa-polski.sopot.POL.csv,"National, Polish Cup",Zatoka Gdańska,POL
+2007-08-24,2007-08-26,Pre-Europeans & Mistrzostwa Polski,6,61,Sopot,,,,,,,2007/country/poland/2007-08-26.mistrzostwa-polski.sopot.POL.csv,"National, Polish Cup",Zatoka Gdańska,POL
+2003-09-02,2003-09-04,Mistrzostwa Polski,9,10,Gdynia,,,,,,,2003/country/poland/2003-09-04.mistrzostwa-polski.gdynia.POL.csv,"National, Polish Cup",Zatoka Gdańska,POL
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
