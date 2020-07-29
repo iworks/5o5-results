@@ -998,6 +998,9 @@ class iworks_5o5_upload_fixer {
 	);
 
 	private $person = array(
+		'Tom O’toole'                => 'Tom O\'toole',
+		'Tom O’toole'                => 'Tom O\'toole',
+		'Scott Mackay'               => 'Scott MacKay',
 		'A. Franklin'                => 'Alan Franklin',
 		'A Miles'                    => 'Adrian Miles',
 		'A. Murray'                  => 'Alex Murray',
