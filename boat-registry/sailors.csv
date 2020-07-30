@@ -1,28 +1,5 @@
 Nation,Name,Birth Date,Club,Description,Email,Mobile,Website,Facebook,Instagram,Twitter,Endomondo
-GBR,Nigel Brackenbury
-GBR,Michael Lawton
-GBR,Terry Lawton
-GBR,Neil Thomas
-GBR,Mike Moore
-GBR,Andrew Gilmore
-GBR,Ken Norris
-GBR,David Treloar
-GBR,Nigel Treloar
-GBR,David Clark
-GBR,Roger Deane
-GBR,Ian Henry
-GBR,Mike Henry
-GBR,Ian Stowe
-IRL,Denis O'Sullivan
-GBR,Mike Hattemore
-GBR,Mike Payne
-GBR,John Labbett
-USA,Bruce Ayres
-USA,Don Ayres
-GBR,David Pitman
-FIN,Aarne Kuusi
-AUS,John Tunney
-HKG,Eric Lockeyear
+USA,Steve Kleha
 AUS,A. Martin,,,,,,,
 AUS,Adam Brenz-Verca,,,,,,,
 AUS,Adam Wyatt,,,,,,,
@@ -123,6 +100,7 @@ AUS,John Macarthur‑King,,,,,,,
 AUS,John McLean,,,,,,,
 AUS,John Parrington,,,,,,,
 AUS,John Paterson,,,,,,,
+AUS,John Tunney
 AUS,Jonathan Ross,,,,,,,
 AUS,Jonno Bannister,,,,,,,
 AUS,Jordan Spencer,,,,,,,
@@ -363,6 +341,7 @@ DEN,Rasmus Andersen,,,,,,,
 DEN,Søren Asboe Jørgensen,,,,,,,
 DEN,Soren Storm,,,,,,,
 DEN,Tom Bøjland,1963-07-16,Kongelig Dansk Yachtklub,Currently A-class & Formula 18,,,,https://www.facebook.com/tom.bojland.5
+FIN,Aarne Kuusi
 FIN,Ari Dillemuth,,,,,,,
 FIN,Björn Pundars,,,,,,,
 FIN,Hannu Pöyry,,,,,,,
@@ -619,6 +598,7 @@ GBR,Alex Barry,,,,,,,
 GBR,Alex Cherry,,,,,,,
 GBR,Alex Cull,,,,,,,
 GBR,Alex Davies,,,,,,,
+GBR,Andrew Gilmore
 GBR,Andrew Nolan,,,,,,,
 GBR,Andrew Short,,,,,,,
 GBR,Andrew Smith,,,,,,,
@@ -664,12 +644,15 @@ GBR,Dave Chalkley,,,,,,,
 GBR,Dave Hughes,,,,,,,
 GBR,David Barnes,,,,,,,
 GBR,David Bell,,,,,,,
+GBR,David Clark
 GBR,David Hitcock,,,,,,,
+GBR,David Pitman
 GBR,David Revill,,,,,,,
 GBR,David Ryder,,,,,,,
 GBR,David Smithwhite,,,,,,,
 GBR,David Spragg,,,,,,,
 GBR,David Thorpe,,,,,,,
+GBR,David Treloar
 GBR,David Williams,,,,,,,
 GBR,Dennis Cartwright,,,,,,,
 GBR,Dennis Hyatt,,,,,,,
@@ -695,10 +678,12 @@ GBR,Hugh Bourn,,,,,,,
 GBR,Ian Barker,,,,,,,
 GBR,Ian Godfrey,,,,,,,
 GBR,Ian Gould,,,,,,,
+GBR,Ian Henry
 GBR,Ian McGillivray,,,,,,,
 GBR,Ian Mitchell,,,,,,,
 GBR,Ian Nicholson,,,,,,,
 GBR,Ian Pinnell,,,,,,,
+GBR,Ian Stowe
 GBR,Ian Swainston,,,,,,,
 GBR,Ian Walters,,,,,,,
 GBR,Jack Kilburn,,,,,,,
@@ -711,12 +696,14 @@ GBR,Jim Berry,,,,,,,
 GBR,Jim Hunt,,,,,,,
 GBR,John Driscoll,,,,,,,
 GBR,John Ironmonger,,,,,,,
+GBR,John Labbett
 GBR,John Loveday,,,,,,,
 GBR,John Wilson,,,,,,,
 GBR,Jonathan Rennie,,,,,,,
 GBR,Jonathan Ward,,,,,,,
 GBR,Jude Beamers,,,,,,,
 GBR,Keith Paul,,,,,,,
+GBR,Ken Norris
 GBR,Kenny Robertson,,,,,,,
 GBR,Kevin Holden,,,,,,,
 GBR,Kieth Borders,,,,,,,
@@ -745,14 +732,20 @@ GBR,Mathieu Fountaine,,,,,,,
 GBR,Matt Alavado,,,,,,,
 GBR,Matthew Bristow,,,,,,,
 GBR,Melvyn Newman,,,,,,,
+GBR,Michael Lawton
 GBR,Michael Nolan,,,,,,,
 GBR,Michael Priddle,,,,,,,
 GBR,Mike Derry,,,,,,,
+GBR,Mike Hattemore
+GBR,Mike Henry
 GBR,Mike Holmes,,,,,,,
 GBR,Mike Langefeld,,,,,,,
+GBR,Mike Moore
+GBR,Mike Payne
 GBR,Miles Odell,,,,,,,
 GBR,Neil Fulcher,,,,,,,
 GBR,Neil Rabbitts,,,,,,,
+GBR,Neil Thomas
 GBR,Neil Willmot,,,,,,,
 GBR,Nell Rabbitts,,,,,,,
 GBR,Nicholas Meadow,,,,,,,
@@ -761,7 +754,9 @@ GBR,Nick Beloe,,,,,,,
 GBR,Nick Powell,,,,,,,
 GBR,Nick Thorp,,,,,,,
 GBR,Nigel Appleton,,,,,,,
+GBR,Nigel Brackenbury
 GBR,Nigel Deane,,,,,,,
+GBR,Nigel Treloar
 GBR,Nigel Vooght,,,,,,,
 GBR,Ollie Boyes,,,,,,,
 GBR,Ozzie Stewart,,,,,,,
@@ -794,6 +789,7 @@ GBR,Robert Burdekin,,,,,,,
 GBR,Robert Napier,,,,,,,
 GBR,Robin Annett,,,,,,,
 GBR,Robin Tetly,,,,,,,
+GBR,Roger Deane
 GBR,Roger Gilbert,,,,,,,
 GBR,Ross Davies,,,,,,,
 GBR,Ross Kenney,,,,,,,
@@ -819,6 +815,7 @@ GBR,Steve Watson,,,,,,,
 GBR,Stewart Mears,,,,,,,
 GBR,Stuart Curtis,,,,,,,
 GBR,Suzanne Mcdermott,,,,,,,
+GBR,Terry Lawton
 GBR,Terry Scutcher,,,,,,,
 GBR,Terry Selfe,,,,,,,
 GBR,Thomas Bruton,,,,,,,
@@ -1229,8 +1226,10 @@ GER,Wilhelm Wollenbecker,,,,,,,
 GER,Wolfdietrich Pfeiffer,,,,,,,
 GER,Wolfgang Hiltscher,,,,,,,
 GER,Wolfgang Seifert,,,,,,,
+HKG,Eric Lockeyear
 HKG,Neil Pryde,,,,,,,
 IRL,Brendan Dwyer,,,,,,,
+IRL,Denis O'Sullivan
 IRL,John Bourke,,,,,,,
 IRL,John Dunlea,,,https://www.youtube.com/channel/UCTOXVv_53aQqzpktecluPAg,,,,
 IRL,John O'Gorman,,,,,,,
@@ -1672,6 +1671,7 @@ USA,Brendan Heussler,,,,,,,
 USA,Brian Haines,,,,,,,
 USA,Brian Richmond,,,,,,,
 USA,Brian Smart,,,,,,,
+USA,Bruce Ayres
 USA,Bruce Edwards,,,,,,,
 USA,Bruce Fleming,,,,,,,
 USA,Bruce Heckman,,,,,,,
@@ -1709,6 +1709,7 @@ USA,David Stetson,,,,,,,
 USA,Dennis Surtees,,,,,,,
 USA,Dick Deaver,,,,,,,
 USA,Dick Hamilton,,,,,,,
+USA,Don Ayres
 USA,Douglas Amthor,,,,,,,
 USA,Douglas McKeige,,,,,,,
 USA,Douglas McKeigh,,,,,,,
@@ -1775,6 +1776,7 @@ USA,Jonathan Livingstone,,,,,,,
 USA,Josh Dyck,,,,,,,
 USA,Justin Shaffer,,,,,,,
 USA,Kaila Pfrang,,,,,,,
+USA,Keith Davids
 USA,Kelsey Avril,,,,,,,
 USA,Kenny Elliot,,,,,,,
 USA,Kerry Poe,,,,,,,
@@ -1832,6 +1834,7 @@ USA,Nick Adamson,,,,,,,
 USA,Nick Trotman,,,,,,,
 USA,Parry Barclay,,,,,,,
 USA,Pat Diola,,,,,,,
+USA,Paul Allen
 USA,Paul Andron,,,,,,,
 USA,Paul Muus,,,,,,,
 USA,Paul Von,,,,,,,

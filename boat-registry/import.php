@@ -138,7 +138,6 @@ if ( $import_sailors && ( $handle = fopen( 'sailors.csv', 'r' ) ) !== false ) {
 					$post_array['meta_input']['iworks_fleet_personal_birth_date'] = $value;
 				}
 			}
-
 			/**
 			 * get meta fields
 			 */
@@ -424,8 +423,7 @@ if ( $import_registry && ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) 
 					$type      = null;
 					switch ( $index ) {
 						case 6:
-							$date_from = 0 < intval( $data[1] ) ? intval( $data[1] ) . '-01-01' : '';
-							$type      = 'first';
+							$type = 'first';
 							break;
 						case 7:
 							break;
@@ -445,7 +443,10 @@ if ( $import_registry && ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) 
 							$name      = preg_replace( '/\-$/', '', $name );
 							if ( empty( $name ) ) {
 								continue;
-							}
+                            }
+                            if ( preg_match( '/[\d-]\+$/', $name, $matches ) ) {
+                                print_r( $matches );
+                            }
 							if ( preg_match( '/[\'`\t ](\d+)$/', $name, $matches ) ) {
 								$name = preg_replace( '/[\'`\t ]+\d+$/', '', $name );
 								$year = $matches[1];
