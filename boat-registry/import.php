@@ -128,19 +128,24 @@ if ( $import_sailors && ( $handle = fopen( 'sailors.csv', 'r' ) ) !== false ) {
 			/**
 			 * Birth!
 			 */
-			$value = trim( $data[2] );
-			if ( preg_match( '/^\d{4}$/', $value ) ) {
-				$post_array['meta_input']['iworks_fleet_personal_birth_year'] = $value;
-			} else {
-				$value = strtotime( $value );
-				$post_array['meta_input']['iworks_fleet_personal_birth_year'] = date( 'Y', $value );
-				$post_array['meta_input']['iworks_fleet_personal_birth_date'] = $value;
+			if ( isset( $data[2] ) ) {
+				$value = trim( $data[2] );
+				if ( preg_match( '/^\d{4}$/', $value ) ) {
+					$post_array['meta_input']['iworks_fleet_personal_birth_year'] = $value;
+				} else {
+					$value = strtotime( $value );
+					$post_array['meta_input']['iworks_fleet_personal_birth_year'] = date( 'Y', $value );
+					$post_array['meta_input']['iworks_fleet_personal_birth_date'] = $value;
+				}
 			}
 
 			/**
 			 * get meta fields
 			 */
 			foreach ( $fields as $index => $meta_key ) {
+				if ( ! isset( $data[ $index ] ) ) {
+					continue;
+				}
 				$value = trim( $data[ $index ] );
 				if ( empty( $value ) ) {
 					continue;

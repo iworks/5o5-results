@@ -387,7 +387,7 @@ class iworks_5o5_upload_fixer {
 		),
 		array(
 			'Tennant' => 'Bob Tennant',
-			'Mundell' => 'Rich Mundel',
+			'Mundell' => 'Rich Mundell',
 		),
 		array(
 			'Thornburrow' => 'Mark Thornburrow',
@@ -997,10 +997,14 @@ class iworks_5o5_upload_fixer {
 		 */
 	);
 
-	private $person = array(
-		'Tom O’toole'                => 'Tom O\'toole',
-		'Tom O’toole'                => 'Tom O\'toole',
-		'Scott Mackay'               => 'Scott MacKay',
+    private $person = array(
+        'Dave Pitman' => 'David Pitman',
+        'F. Doerenbecher' => 'Francis Doerenbecher',
+        'J. Tunney' => 'John Tunney',
+        'Steffan Eklund' => 'Staffan Eklund',
+        'Tom O’toole' => 'Tom O\'toole',
+        'Tom O’toole' =>  'Tom O\'toole',
+        'Scott Mackay' => 'Scott MacKay',
 		'A. Franklin'                => 'Alan Franklin',
 		'A Miles'                    => 'Adrian Miles',
 		'A. Murray'                  => 'Alex Murray',
@@ -1724,6 +1728,7 @@ class iworks_5o5_upload_fixer {
 		'Norbaert Dasenbrook'        => 'Norbert Dasenbrook',
 		'Normand Saint-Cyr'          => 'Norman Saint-Cyr',
 		'Ohilippe Jacot'             => 'Philippe Jacot',
+		'011e Wenrup'                => 'Olle Wenrup',
 		'OIIe Wenrup'                => 'Olle Wenrup',
 		'Olav Schlueter'             => 'Olav Schluter',
 		'Oliver Schurmann'           => 'Oliver Schürmann',
@@ -1831,8 +1836,9 @@ class iworks_5o5_upload_fixer {
 		'Rene De La Rie'             => 'Rene de la Rie',
 		'R.Farrant'                  => 'Robin Farrant',
 		'Rich Berry'                 => 'Richard Berry',
-		'Rich Mudell'                => 'Rich Mundel',
-		'Rich Mundell'               => 'Rich Mundel',
+		'Rich Mudel'                => 'Rich Mundell',
+		'Richard Mundell'               => 'Rich Mundell',
+		'Richard Mundel'               => 'Rich Mundell',
 		'Rich Nurse'                 => 'Richard Nurse',
 		'Rick Blase Sr.'             => 'Rick Blase',
 		'Ritter Hubertus'            => 'Hubertus Ritter',
