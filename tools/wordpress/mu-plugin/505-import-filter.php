@@ -1037,6 +1037,10 @@ class iworks_5o5_upload_fixer {
 			'I. Henry' => 'Ian Henry',
 			'M. Henry' => 'Mike Henry',
 		),
+		array(
+			'Nelson' => 'Geoff Nelson',
+			'Dan' => 'Dan Merino',
+		),
 		/*
 		array(
 			'' => '',
@@ -1045,7 +1049,12 @@ class iworks_5o5_upload_fixer {
 		 */
 	);
 
-	private $person = array(
+    private $person = array(
+        'D.Williams' => 'Dean Williams',
+        'Mattias Kennerknecht' => 'Mathias Kennerknecht',
+        'John Berquist' => 'John Bergquist',
+        'Pierre Jearingard' => 'Pierre Jeangirard',
+        'Nige Oswald' => 'Nigel Oswald',
 		'011e Wenrup'                => 'Olle Wenrup',
 		'A. Franklin'                => 'Alan Franklin',
 		'A Miles'                    => 'Adrian Miles',
@@ -1680,6 +1689,7 @@ class iworks_5o5_upload_fixer {
 		'Matt Woodworth'             => 'Matthew Woodworth',
 		'Mattew Barry'               => 'Matthew Barry',
 		'Matthias Bruehl'            => 'Matthias Brühl',
+		'Mattias Kennerknecht'      => 'Mathias Kennerknecht',
 		'Matthias Kennerknecht'      => 'Mathias Kennerknecht',
 		'Mattias Kennernecht'        => 'Mathias Kennerknecht',
 		'Mattihieu Guibbal'          => 'Matthieu Guibbal',
@@ -1904,6 +1914,7 @@ class iworks_5o5_upload_fixer {
 		'Rob Naiper'                 => 'Robert Napier',
 		'Rob Napier'                 => 'Robert Napier',
 		'Rob Watermann'              => 'Rob Waterman',
+		'RobWoelfel'                 => 'Rob Woelfel',
 		'Rob Woefel'                 => 'Rob Woelfel',
 		'Rob Woelfe'                 => 'Rob Woelfel',
 		'Robert Buidenkin'           => 'Robert Burdekin',
