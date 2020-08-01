@@ -1,17 +1,17 @@
-Numer na żaglu,Imię i nazwisko sternika,Imię i nazwisko załoganta,Przynależność klubowa,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Race 7,Suma punktów:,Miejsce
-9132,Jarosław Grabowski,Michał Olko,YK Stal,1,1,2,3,3*,1,2,10,1
-9119,Tymon Sadowski,Łukasz Skrzycki,YK Stal,2,2,16*,1,2,3,4,14,2
-8909,Łukasz Paszko,Bartosz Milewski,,6*,4,5,5,1,5,1,21,3
-8,Przemek Zagórski,Piotr Juckiewicz,YK Stal,7,3,1,11*,4,4,3,22,4
-8802,Mateusz Jura,Bartosz Chroł,AZS SGH W-wa,3,6,3,2,15*,2,7,23,5
-8736,Adam Kuczyński,Andrzej Borowiak,,5,5,4,6,5,7*,5,30,6
-7942,Mieczysław Szwed,Piotr Kosobucki,CŻ Szczecin,4,7,6,4,6,6,9*,33,7
-8483,Mariusz Michalski,Piotr Duma,YK Stal,8,9,7,8,8,10*,6,46,8
-8665,Marcin Panek,Przemysław Rzepecki,,10,8,8,10,11*,9,8,53,9
-8656,Emanuela Bartkowiak,Mateusz Wolszczak,YK Stal,12,10,16*,9,7,8,10,56,10
-8358,Jan Domański,Patryk Witkowski,Domański ST,9,11,10,16*,9,13,11,63,11
-8208,Piotr Rzepecki,Paweł Prus,YKP Warszawa,11,13,9,7,10,14,15*,64,12
-8217,Łukasz Grabia,Wojciech Denderski,,13,12,12,16*,13,11,13,74,13
-8145,Jakub Kozanko,Michał Wdówka,,15,15,11,16*,12,12,12,77,14
-8416,Marcin Matla,Jacek Kuciel,,16,14,13,16*,14,15,14,86,15
-BN,Mariusz Ambroziak,Paweł Strzelecki,,14,16,16,16*,16,16,16,94,16
+Nation,Numer na żaglu,Imię i nazwisko sternika,Imię i nazwisko załoganta,Przynależność klubowa,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Race 7,Suma punktów:,Miejsce
+POL,9132,Jarosław Grabowski,Michał Olko,YK Stal,1,1,2,3,3*,1,2,10,1
+POL,9119,Tymon Sadowski,Łukasz Skrzycki,YK Stal,2,2,16*,1,2,3,4,14,2
+POL,8909,Łukasz Paszko,Bartosz Milewski,,6*,4,5,5,1,5,1,21,3
+POL,8*,Przemek Zagórski,Piotr Juckiewicz,YK Stal,7,3,1,11*,4,4,3,22,4
+POL,8802,Mateusz Jura,Bartosz Chroł,AZS SGH W-wa,3,6,3,2,15*,2,7,23,5
+POL,8736,Adam Kuczyński,Andrzej Borowiak,,5,5,4,6,5,7*,5,30,6
+POL,7942,Mieczysław Szwed,Piotr Kosobucki,CŻ Szczecin,4,7,6,4,6,6,9*,33,7
+POL,8483,Mariusz Michalski,Piotr Duma,YK Stal,8,9,7,8,8,10*,6,46,8
+POL,8665,Marcin Panek,Przemysław Rzepecki,,10,8,8,10,11*,9,8,53,9
+POL,8656,Emanuela Bartkowiak,Mateusz Wolszczak,YK Stal,12,10,16*,9,7,8,10,56,10
+POL,8358,Jan Domański,Patryk Witkowski,Domański ST,9,11,10,16*,9,13,11,63,11
+POL,8208,Piotr Rzepecki,Paweł Prus,YKP Warszawa,11,13,9,7,10,14,15*,64,12
+POL,8217,Łukasz Grabia,Wojciech Denderski,,13,12,12,16*,13,11,13,74,13
+POL,8145,Jakub Kozanko,Michał Wdówka,,15,15,11,16*,12,12,12,77,14
+POL,8416,Marcin Matla,Jacek Kuciel,,16,14,13,16*,14,15,14,86,15
+POL,0,Mariusz Ambroziak,Paweł Strzelecki,,14,16,16,16*,16,16,16,94,16
