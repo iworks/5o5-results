@@ -1,17 +1,4 @@
 Nation,Name,Club,Description
-FIN,Ville Malm
-FIN,Eino Laitinen
-FIN,Thomas Castren
-FIN,Joonas Björkman
-FIN,Joonas Lindgren
-GER,Ralph Valkenberg
-FIN,Mikael Nylund
-FIN,Jukka Suonpää
-FIN,Markus Wikar
-FIN,Tapani Elovirta
-FRA,Philippe Noclain
-FRA,Bernard Dugrip
-FRA,Barbara Dugrip
 AUS,A. Martin,,
 AUS,Adam Brenz-Verca,,
 AUS,Adam Wyatt,,
@@ -357,17 +344,32 @@ DEN,Soren Storm,,
 DEN,Tom Bøjland,Kongelig Dansk Yachtklub,Currently A-class & Formula 18
 FIN,Aarne Kuusi,,
 FIN,Ari Dillemuth,,
+FIN,Ari Peltoniemi
 FIN,Björn Pundars,,
+FIN,Eino Laitinen
+FIN,Hanno Narjus
 FIN,Hannu Pöyry,,
 FIN,Henri Räty,,
+FIN,Iiro Jaakonsaari
+FIN,Joonas Björkman
+FIN,Joonas Lindgren
+FIN,Jouni Valli
 FIN,Juha Pietilä,,
 FIN,Juhani Heimsch,,
+FIN,Jukka Suonpää
 FIN,Jyri Wilén,,
 FIN,Kari Wilén,,
 FIN,Lauri Kääpä,,
+FIN,Markus Wikar
 FIN,Miika Perden,,
+FIN,Mikael Maksimow
+FIN,Mikael Nylund
 FIN,Rosemarie Hartman,,
+FIN,Tapani Elovirta
+FIN,Teemu Heljo
+FIN,Thomas Castren
 FIN,Tommy Andersson,,
+FIN,Ville Malm
 FIN,Ville Tarvo,,
 FRA,Adrien Lafortune,,
 FRA,Alain Beltzung,,
@@ -396,6 +398,7 @@ FRA,Aymeric Essertel,,
 FRA,B. Moret,,
 FRA,Baptiste Galaup,,
 FRA,Baptiste Lafortune,,
+FRA,Barbara Dugrip
 FRA,Basile Géron,,
 FRA,Bastian Le Morvan,,
 FRA,Bastien Couvreux,,
@@ -403,6 +406,7 @@ FRA,Be Di Pede,,
 FRA,Benoit Dijoux,,
 FRA,Benoit Morane,,
 FRA,Bernard Blondy
+FRA,Bernard Dugrip
 FRA,Bernard Dugrip,,
 FRA,Bernard Edel,,
 FRA,Bernard Peuch,,
@@ -550,6 +554,7 @@ FRA,Philippe Duquesne,,
 FRA,Philippe Leroy,,
 FRA,Philippe Lucienne,,
 FRA,Philippe Markt,,
+FRA,Philippe Noclain
 FRA,Philippe Wolff,,
 FRA,Phillipe Lanaverre,,
 FRA,Pierre Bessias,,
@@ -1158,6 +1163,7 @@ GER,Rainer Kremkow,,
 GER,Rainer Lü,,
 GER,Rainer Lühr,,
 GER,Ralf Breitenfeldt,,
+GER,Ralph Valkenberg
 GER,Rebecca Strahl,,
 GER,Reimund Bauer,,
 GER,Ricarda Wolf,,

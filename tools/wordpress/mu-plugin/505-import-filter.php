@@ -1041,6 +1041,14 @@ class iworks_5o5_upload_fixer {
 			'Nelson' => 'Geoff Nelson',
 			'Dan'    => 'Dan Merino',
 		),
+		array(
+			'Bart' => 'Cédric Bart',
+			'Grob' => 'Laurent Grob',
+		),
+		array(
+			'Hyde'    => 'Richard Hyde',
+			'Johnson' => 'David Johnson',
+		),
 		/*
 		array(
 			'' => '',
@@ -1049,7 +1057,20 @@ class iworks_5o5_upload_fixer {
 		 */
 	);
 
+	/**
+	 * foo
+	 */
 	private $person = array(
+		'Kenneth Thelen'             => 'Kenneth Thélen',
+		'Henri Räyy'                 => 'Henri Räty',
+		'Kauppinen Kaarle'           => 'Kaarle Kauppinen',
+		'Felic Stööp Lindgren'       => 'Felix Stööp Lindgren',
+		'Salonen Antti'              => 'Antti Salonen',
+		'Puttkamer Thore Von'        => 'Thore von Puttkamer',
+		'Huetten Dirk'               => 'Dirk Hütten',
+		'Von Walter Guido'           => 'Guido von Walter',
+		'Frank Boehm'                => 'Frank Böhm',
+		'Jean Louis Guibbal'         => 'Jean-Louis Guibbal',
 		'011e Wenrup'                => 'Olle Wenrup',
 		'A. Franklin'                => 'Alan Franklin',
 		'A Miles'                    => 'Adrian Miles',
@@ -1317,6 +1338,7 @@ class iworks_5o5_upload_fixer {
 		'Dr Christian Bühring-Uhle'  => 'Christian Bühring-Uhle',
 		'Dr Frank Bach'              => 'Frank Bach',
 		'Dr. Oliver Stieglitz'       => 'Oliver Stieglitz',
+		'Dr. Wolfgang Hunger'        => 'Dr Wolfgang Hunger',
 		'Dr.Wolfgang Hunger'         => 'Dr Wolfgang Hunger',
 		'D.Scheder'                  => 'Dietrich Scheder-Bieschin',
 		'Dunne Reeve'                => 'Reeve Dunn',
@@ -1471,6 +1493,10 @@ class iworks_5o5_upload_fixer {
 		'Ian Mcgillivray'            => 'Ian McGillivray',
 		'Ian O.Leary'                => 'Ian O\'Leary',
 		'Ian O\'leary'               => 'Ian O\'Leary',
+		'Jan Pinnel'                 => 'Ian Pinnell',
+		'Northoff Kilian'            => 'Kilian Northoff',
+		'Lyndsay Gilbert'            => 'Lindsay Gilbert',
+		'Richaes Hyde'               => 'Richard Hyde',
 		'Ian Pinnel'                 => 'Ian Pinnell',
 		'J. Arvedson'                => 'Johan Arvedson',
 		'J B Turney'                 => 'JB Turney',
