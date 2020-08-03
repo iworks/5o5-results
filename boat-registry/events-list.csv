@@ -324,10 +324,10 @@ Event Start Date,Event End Date,Name,Races,Competitors,City,Organizer,Secretary,
 2019-05-09,2019-05-12,UK National Championship,10,26,"Lymington,GBR",Royal Lymington Yacht Club,,,,,,2019/country/uk/2019-05-12-uk-championship-lymington.csv,National,,GBR
 2019-05-11,2019-05-11,Glücksb.Pokalregatta & Culix Cup,5,10,"Glücksburg, GER",Flensburger Segel-Club e.V.,Claus Otto Hansen,Rüdiger Schuchardt,,,47. Glücksb.Pokalregatta & XVIII. Culix Cup,2019/country/germany/2019-05-11.glucksburg-pokalregatta-xviii-culix-cup.glucksburg.GER.csv,,,
 2019-05-25,2019-05-25,EPS,6,7,"Espoo, FIN",Espoon Pursiseura ry,,,,,,2019/country/finland/2019-05-25.eps.espoo.FIN.csv,,,
-2019-05-30,2019-06-01,Riva del Garda,8,51,"Riva del Garda,ITA",,,,,,,2019/country/italy/2019-06-01-euro-cup-riva-del-garda-ITA.csv,Euro Cup,,
-2019-06-07,2019-06-09,Exhibition Regatta Barcelona,10,10,"Barcelona, ESP",,,,,,,2019/country/spain/2019-06-09.exhibition-regatta-barcelona.barcelona.ESP.csv,,,ESP
-2019-06-08,2019-06-09,Santa Cruz Summer Open,6,8,"Santa Cruz,USA",Santa Cruz Yacht Club,,,,,,2019/country/usa/2019-06-09-santa-cruz-summer-open.csv,,,
-2019-06-08,2019-06-10,Nordic & Danish Championship,9,23,"Sønderborg,DEN",Sønderborg Yacht-Club,,,,,,2019/country/denmark/2019-06-10.nordic-and-danish-championship.sonderborg.DEN.csv,National,,
+2019-05-30,2019-06-01,Riva Cup,8,51,Riva del Garda,Fraglia Vela Riva,,,,,,2019/country/italy/2019-06-01-euro-cup-riva-del-garda-ITA.csv,Euro Cup,Riva Del Garda,ITA
+2019-06-07,2019-06-09,Exhibition Regatta Barcelona,10,10,Barcelona,,,,,,,2019/country/spain/2019-06-09.exhibition-regatta-barcelona.barcelona.ESP.csv,,,ESP
+2019-06-08,2019-06-09,Santa Cruz Summer Open,6,8,Santa Cruz,Santa Cruz Yacht Club,,,,,,2019/country/usa/2019-06-09-santa-cruz-summer-open.csv,,,USA
+2019-06-08,2019-06-10,Nordic & Danish Championship,9,23,Sønderborg,Sønderborg Yacht-Club,,,,,,2019/country/denmark/2019-06-10.nordic-and-danish-championship.sonderborg.DEN.csv,National,,DEN
 2019-06-08,2019-06-10,Pfingstwettfahrten,2,16,"Herrsching a. Ammersee, GER",Herrschinger Segelclub e.V.,,,,,,2019/country/germany/2019-06-10.pfingstwettfahrten.herrsching-a-ammersee.GER.csv,,,
 2019-06-08,2019-06-10,Swiss Open Alpnachersee,7,4,"Alpnachstad,SUI",Wassersportclub Obwalden,,,,,,2019/country/switzerland/2019-06-10.swiss-open-alpnachersee.alpnachstad.SUI.csv,,,
 2019-06-22,2019-06-30,Kieler Woche,11,30,"Olympia Zentrum,Kiel-Schilksee,GER",Kieler Yacht-Club e.V.,,,,,,2019/country/germany/2019-06-22-kieler-woche.kiel.GER.csv,Euro Cup,,
@@ -361,8 +361,8 @@ Event Start Date,Event End Date,Name,Races,Competitors,City,Organizer,Secretary,
 2008-09-13,2008-09-14,Régionale/HN,6,13,Strasbourg,Aquatic Club d'Alsace Lorraine,,,,,,2008/country/france/2008-09-14.regionale-505-hn.strasbourg.FRA.csv,,,FRA
 2008-09-13,2008-09-14,Régate de 505,6,23,Le Havre,Sport Nautique et Plaisance du Havre,,,,,,2008/country/france/2008-09-14.regate-de-505.le-havre.FRA.csv,,,FRA
 2008-10-18,2008-10-19,Challenge Jacques Lebrun,5,9,Les Mureaux,Cercle de la Voile de Paris,,,,,,2008/country/france/2008-10-19.challenge-jacques-lebrun.les-mureaux.FRA.csv,,,FRA
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
+2017-05-25,2017-05-27,Riva Cup,8,45,Riva del Garda,Fraglia Vela Riva,,,,,,2017/country/italy/2017-05-27.riva-cup.riva-del-garda.ITA.csv,Euro Cup,Riva Del Garda,ITA
+2018-05-10,2018-05-12,Riva Cup,3,56,Riva del Garda,Fraglia Vela Riva,,,,,,2018/country/italy/2018-05-12.riva-cup.riva-del-garda.ITA.csv,Euro Cup,Riva Del Garda,ITA
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
@@ -497,7 +497,7 @@ Event Start Date,Event End Date,Name,Races,Competitors,City,Organizer,Secretary,
 2017-09-20,2017-09-30,International 505 World Championship,,,Annapolis (USA),,,,,,,,,,
 2018-09-01,2018-09-01,Nordisk Mesterkab/Svensk Mesterskab,,,"Marstrand, SWE",,,,,,,,,,
 2019-01-02,2019-01-07,International 505 World Championship,,,Fremantle (AUS),,,,,,,,,,
-2019-05-30,2019-06-01,Riva Cup,,,Riva del Garda (ITA),,,,,,,,,,
+,,,,,,,,,,,,,,,
 2019-06-22,2019-06-30,Kieler Woche,,,Kiel-Schilksee (GER),,,,,,,,,,
 2019-07-19,2019-07-28,Travemünder Woche,,,Travemünder (GER),,,,,,,,,,
 2019-08-06,2019-08-10,505 European Championship,,,Sonderborg (DEN),,,,,,,,,,

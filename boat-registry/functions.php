@@ -51,6 +51,7 @@ function get_person_by_name( $name ) {
 
 function person_clear_name( $name ) {
 	$name      = preg_replace( '/[  \t]+/', ' ', $name );
+	$name      = preg_replace( '/[  \t]+/', ' ', $name );
 	$re        = '/[\d\' `\,\.\(\)\‘]+$/';
 	$name      = trim( preg_replace( $re, '', $name ) );
 	$is_person = check_is_person( $name );
