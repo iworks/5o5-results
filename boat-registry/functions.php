@@ -156,8 +156,8 @@ function check_is_person( $data ) {
 		}
 		return false;
 	}
-    switch ( $data ) {
-        case 'Moss-Lovshin family':
+	switch ( $data ) {
+		case 'Moss-Lovshin family':
 		case 'Alexandria Wooden Boat Society':
 		case 'Avocado Sail Training Association':
 		case 'Burnham-Sharpe Co':
@@ -215,7 +215,18 @@ function handle_serie_taxonomy( $serie, &$series, &$post_array, $parent = 0 ) {
 			}
 		}
 	}
+}
 
+function get_country_from_code( $code ) {
+	if ( function_exists( 'iworks_fleet_get_contries' ) ) {
+		$countries = iworks_fleet_get_contries();
+		foreach ( $countries as $one ) {
+			if ( $one['code'] === $code ) {
+				return $one['en'];
+			}
+		}
+	}
+	return $code;
 }
 
 

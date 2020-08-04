@@ -25,6 +25,10 @@ $result_post_type_name      = 'iworks_fleet_result';
 $owners_field_name          = 'iworks_fleet_boat_owners';
 $owners_index_field_name    = 'iworks_fleet_boot_owner_id';
 
+$countries = array();
+if ( function_exists( 'iworks_fleet_get_contries' ) ) {
+	$countries = iworks_fleet_get_contries();
+}
 
 $hull_manufacturer = array();
 $data              = get_terms( $taxonomy_name_manufacturer, array( 'hide_empty' => false ) );
@@ -443,10 +447,10 @@ if ( $import_registry && ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) 
 							$name      = preg_replace( '/\-$/', '', $name );
 							if ( empty( $name ) ) {
 								continue;
-                            }
-                            if ( preg_match( '/[\d-]\+$/', $name, $matches ) ) {
-                                print_r( $matches );
-                            }
+							}
+							if ( preg_match( '/[\d-]\+$/', $name, $matches ) ) {
+								print_r( $matches );
+							}
 							if ( preg_match( '/[\'`\t ](\d+)$/', $name, $matches ) ) {
 								$name = preg_replace( '/[\'`\t ]+\d+$/', '', $name );
 								$year = $matches[1];
@@ -523,7 +527,7 @@ if ( $import_results && ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false 
 		[2] => post_title
 		[3] => iworks_fleet_result_number_of_races
 		[4] => iworks_fleet_result_number_of_competitors
-		[5] => CITY
+		[5] => city
 		[6] => iworks_fleet_result_organizer
 		[7] => iworks_fleet_result_secretary
 		[8] => iworks_fleet_result_arbiter
@@ -533,6 +537,7 @@ if ( $import_results && ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false 
 		[12] => file
 		[13] => iworks_fleet_serie
 		[14] => iworks_fleet_result_location
+		[15] => country
 		 */
 		$fields = array(
 			0  => 'iworks_fleet_result_date_start',
@@ -550,12 +555,11 @@ if ( $import_results && ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false 
 			12 => 'file',
 			13 => 'iworks_fleet_serie',
 			14 => 'iworks_fleet_result_location',
-			15 => 'iworks_fleet_result_country',
+			15 => 'country',
 		);
 		foreach ( $fields as $index => $key ) {
 			$value = '';
 			if ( isset( $data[ $index ] ) ) {
-
 				$value = trim( $data[ $index ] );
 				switch ( $key ) {
 					case 'iworks_fleet_result_date_start':
@@ -618,7 +622,8 @@ if ( $import_results && ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false 
 			'post_status' => 'publish',
 			'meta_input'  => array(),
 			'tax_input'   => array(
-				'iworks_fleet_serie' => array(),
+				'iworks_fleet_serie'    => array(),
+				'iworks_fleet_location' => array(),
 			),
 		);
 		foreach ( $fields as $field ) {
@@ -629,16 +634,23 @@ if ( $import_results && ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false 
 				$post_array[ $field ] = $$field;
 				continue;
 			}
-			if ( 'iworks_fleet_serie' === $field ) {
-				if ( empty( $$field ) ) {
+			if ( preg_match( '/^iworks_/', $field ) ) {
+				if ( 'iworks_fleet_serie' === $field ) {
+					if ( empty( $$field ) ) {
+						continue;
+					}
+					foreach ( explode( ',', $$field ) as $serie ) {
+						handle_serie_taxonomy( $serie, $series, $post_array );
+					}
 					continue;
 				}
-				foreach ( explode( ',', $$field ) as $serie ) {
-					handle_serie_taxonomy( $serie, $series, $post_array );
-				}
-				continue;
+				$post_array['meta_input'][ $field ] = $$field;
 			}
-			$post_array['meta_input'][ $field ] = $$field;
+			switch ( $field ) {
+				case 'country':
+					$post_array['tax_input']['iworks_fleet_location'] = get_country_from_code( $$field );
+					break;
+			}
 		}
 		if ( empty( $post_array['post_title'] ) ) {
 			continue;
