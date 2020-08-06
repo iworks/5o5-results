@@ -187,6 +187,10 @@ if ( $import_registry && ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) 
 			 * 11 Country
 			 * 12 Last Updated
 			 * 13 Colors
+			 * 14 Facebook
+			 * 15 Instagram
+			 * 16 Twitter
+			 * 17 Website
 			 */
 
 			$iworks_fleet_boat_hull_number   = intval( $data[0] );
@@ -194,7 +198,15 @@ if ( $import_registry && ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) 
 			$iworks_fleet_hull_manufacturer  = trim( $data[2] );
 			$iworks_fleet_boat_name          = trim( $data[3] );
 			$iworks_fleet_boat_hull_material = trim( $data[4] );
-			$post_content                    = trim( $data[5] );
+			$iworks_fleet_social_facebook    = trim( $data[14] );
+			$iworks_fleet_social_instagram   = trim( $data[15] );
+			$iworks_fleet_social_twitter     = trim( $data[16] );
+			$iworks_fleet_social_website     = trim( $data[17] );
+
+
+
+
+			$post_content = trim( $data[5] );
 
 			$iworks_fleet_boat_nation = trim( $data[11] );
 			$iworks_fleet_boat_colors = explode( ';', trim( $data[13] ) );
@@ -223,6 +235,10 @@ if ( $import_registry && ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) 
 					'iworks_fleet_boat_hull_material',
 					'iworks_fleet_boat_name',
 					'iworks_fleet_boat_nation',
+					'iworks_fleet_social_facebook',
+					'iworks_fleet_social_instagram',
+					'iworks_fleet_social_twitter',
+					'iworks_fleet_social_website',
 				) as $key ) {
 				if ( empty( $$key ) ) {
 					continue;
