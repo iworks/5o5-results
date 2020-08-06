@@ -1072,7 +1072,8 @@ class iworks_5o5_upload_fixer {
 	/**
 	 * foo
 	 */
-	private $person = array(
+    private $person = array(
+        'Andy Wisner' => 'Andy Weisner',
 		'011e Wenrup'                 => 'Olle Wenrup',
 		'A. Franklin'                 => 'Alan Franklin',
 		'A Miles'                     => 'Adrian Miles',
