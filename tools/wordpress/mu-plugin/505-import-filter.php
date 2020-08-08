@@ -1077,6 +1077,14 @@ class iworks_5o5_upload_fixer {
 			'Wright' => 'Martin Wright',
 			'Powell' => 'Jeff Powel',
 		),
+		array(
+			'Elf' => 'Mats Elf',
+			'Campbell' => 'Brent Campbell',
+		),
+		array(
+			'Torrie' => 'Ian Torrie',
+			'Yates' => 'Steve Yates',
+		),
 		/*
 		array(
 			'' => '',
@@ -1088,7 +1096,16 @@ class iworks_5o5_upload_fixer {
 	/**
 	 * foo
 	 */
-	private $person = array(
+    private $person = array(
+        'Anne Fitzpatric' => 'Anne Fitzpatrick',
+        'Craig Mcminn' => 'Craig McMinn',
+        'Jackson Mccoy' => 'Jackson McCoy',
+        'G Nelson' => 'G. Nelson',
+        'g nelson' => 'G. Nelson',
+        'Davy Chatham' => 'David Chatham',
+        'Jamers Cruickshank' => 'James Cruickshank',
+        'Clarrisa Bush' => 'Clarissa Bush',
+        'Thorsten Posch' => 'Thorsten Pösch',
 		'011e Wenrup'                 => 'Olle Wenrup',
 		'A. Franklin'                 => 'Alan Franklin',
 		'A Miles'                     => 'Adrian Miles',

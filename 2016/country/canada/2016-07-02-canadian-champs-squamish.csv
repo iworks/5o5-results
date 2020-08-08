@@ -1,12 +1,12 @@
-Nat Sail,Names,1,2,3,4,5,6,T,N,R,
-USA 8823,Mats Elf,Campbell,(3),2,2,1,1,1,10,7,1
-CAN 8192,Cragg,Corfu,1,1,1,3,2,(6),14,8,2
-USA 80,Johannessen,Von Grey,2,(4),3,2,4,2,17,13,3
-USA 9116,Stephen Long,Josh Dyck,6,(7),5,6,6,3,33,26,4
-CAN 8755,Brian Trainor,Evan Jennings,7,(8),4,5,7,5,36,28,5
-USA 8263,Kowalski,Ginther,5,9,6,(12 DNS),5,4,41,29,6
-CAN 8866,Des Brisay,Hansen,8,3,9,(12 DNS),3,12 RET,47,35,7
-USA 6991,Starks,Flanagan,9,6,7,4,(12 DNS),12 DNS,50,38,8
-USA 8631,Jeangirard,Crawford,4,5,8,(12 DNS),12 DNS,12 DNS,53,41,9
-USA 8017,Jon Seestrom,Mike Poulos,11,(12 DNF),10,12 RET,12 RET,12 DNS,69,57,10
-USA 7206,Fitzpatrick,Pittack,10,(12 RET),12 DNS,12 DNS,12 DNS,12 DNS,70,58,11
+Nat,Sail,Names,1,2,3,4,5,6,T,N,R,
+USA,8823,Mats Elf,Brent Campbell,(3),2,2,1,1,1,10,7,1
+CAN,8192,Cragg,Corfu,1,1,1,3,2,(6),14,8,2
+USA,80*,Miles Johannessen,Von Grey,2,(4),3,2,4,2,17,13,3
+USA,9116,Stephen Long,Josh Dyck,6,(7),5,6,6,3,33,26,4
+CAN,8755,Brian Trainor,Evan Jennings,7,(8),4,5,7,5,36,28,5
+USA,8263,Kowalski,Ginther,5,9,6,(12 DNS),5,4,41,29,6
+CAN,8866,Des Brisay,Hansen,8,3,9,(12 DNS),3,12 RET,47,35,7
+USA,6991,Starks,Flanagan,9,6,7,4,(12 DNS),12 DNS,50,38,8
+USA,8631,Jeangirard,Crawford,4,5,8,(12 DNS),12 DNS,12 DNS,53,41,9
+USA,8017,Jon Seestrom,Mike Poulos,11,(12 DNF),10,12 RET,12 RET,12 DNS,69,57,10
+USA,7206,Fitzpatrick,Pittack,10,(12 RET),12 DNS,12 DNS,12 DNS,12 DNS,70,58,11

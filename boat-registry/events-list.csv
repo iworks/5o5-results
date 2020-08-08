@@ -43,7 +43,7 @@ Event Start Date,Event End Date,Name,Races,Competitors,City,Organizer,Secretary,
 1989-01-01,1989-01-01,World Championship,6,90,"Felixstowe, GBR",Felixstowe Ferry,,,,,,1989/world/1989.world-championship.felixstowe.GBR.csv,World,,GBR
 1990-01-01,1990-01-01,World Championship,6,76,"Kingston,ON,CAN",Portsmouth Olympic Harbour,,,,,,1990/world/1990.world-championship.kingston.CAN.csv,World,,CAN
 1991-08-01,1991-08-08,World Championship,6,83,"Marstrand, SWE",Göteborgs Kungliga Segel Sällskap,,,,,,1991/world/1991-08-08.world-championship.marstrand.SWE.csv,World,,SWE
-1992-06-10,1992-06-18,European Championship,5,44,"Hellerup, DEN",Hellerup Sejlklub,,,,,,1992/continental/1992-06-18.european-championship.hellerup.DEN.csv,Continental,,DEN
+1992-06-10,1992-06-18,European Championship,5,44,Hellerup,Hellerup Sejlklub,,,,,,1992/continental/1992-06-18.european-championship.hellerup.DEN.csv,Continental,,DEN
 1992-08-08,1992-08-20,World Championship,6,85,"Santa Cruz,USA",,,,,,,1992/worlds/1992-08-20.world-championship.santa-cruz.USA.csv,World,,USA
 1993-08-30,1993-09-07,World Championship,6,90,"Travemünde,GER",,,,,,,1993/world/1993-09-07.world-chamipionship.travemunde.GER.csv,World,,GER
 1994-03-01,1994-03-07,World Championship,6,41,"Durban, RSA",,,,,,,1994/world/1994-03-07.world.championship.durban.RSA.csv,World,,RSA
@@ -109,7 +109,7 @@ Event Start Date,Event End Date,Name,Races,Competitors,City,Organizer,Secretary,
 2002-12-02,2002-12-12,World Championship,9,98,"Fremantle,AUS",Fremantle Sailing Club,Tony Duncan,,,,,2002/world/2002-12-14.world-championship.Fremantle.AUS.csv,World,,AUS
 2003-05-23,2003-05-25,Pacific Coast Championships,8,22,"San Francisco, CA",,,,,,,2003/country/usa/2003-05-25.pacific-coast-championships.san-francisco.ca.USA.csv,,,USA
 2003-07-26,2003-08-01,World Championship,9,81,"Malmö,SWE",MALMÖ SEGEL SÄLLSKAP,Krister Ahlkvist,,,,,2003/world/2003-08-01.world-championship.malmo.SWE.csv,World,,SWE
-2003-08-01,2003-08-03,Columbia Gorge One Design,11,18,"Portland, OR,USA",Columbia Gorge Racing Association,,,,,,2003/country/usa/2003-08-03.columbia-gorge-one-design.portland.USA.csv,,,USA
+2003-08-01,2003-08-03,Columbia Gorge One-Design Regatta,11,18,"Portland, OR,USA",Columbia Gorge Racing Association,,,,,,2003/country/usa/2003-08-03.columbia-gorge-one-design.portland.USA.csv,,,USA
 2003-08-06,2003-08-06,Open Meeting,4,19,"Hayling Island,GBR",Hayling Island Sailing Club,,,,,,2003/country/uk/2003-08-06-open-meeting-hayling-island-GBR.csv,,,GBR
 2004-05-29,2004-05-30,Kings of the Bay Regatta,7,14,"San Francisco, CA",,,,,,,2004/country/usa/2004-05-30.kings-of-the-bay-regatta.san-francisco.ca.USA.csv,,,USA
 2004-05-29,2004-05-30,Open meeting,5,8,Swansea,Mumbles Yacht Club,,,,,,2004/country/uk/2004-05-30.open-meeting.swansea.GBR.csv,,,GBR
@@ -244,16 +244,16 @@ Event Start Date,Event End Date,Name,Races,Competitors,City,Organizer,Secretary,
 2014-06-21,2014-06-22,Puchar Zbąszynia,6,16,"Zbąszyń,POL",Zbąszyński Klub Żeglarski,,,,,,2014/country/poland/2014-06-22-puchar-zbaszynia.csv,Polish Cup,Jezioro Błędno,POL
 2014-06-21,2014-06-29,Kieler Woche,5,62,"Olympia Zentrum,Kiel-Schilksee,GER",Kieler Yacht-Club e.V.,,,,,,2014/country/germany/2014-06-29-kieler-woche.kiel.GER.csv,Euro Cup,,GER
 2014-06-27,2014-06-28,Helsinki Regatta,3,9,Helsinki,,,,,,,2014/country/finland/2014-06-28.helsinki-regatta.helsinki.FIN.csv,,,FIN
-2014-07-05,2014-07-06,Nord Cup,6,15,"Górki Zachodnie,POL",Marina Galion,,,,,,2014/country/poland/2014-07-06-nordcup.csv,Polish Cup,Zatoka Gdańska,POL
-2014-07-11,2014-07-13,Canadian Championship,8,14,"Vancouver,BC,CAN",Kitsilano Yacht Club,,,,,,2014/country/canada/2014-07-13.canadian-championship.vancouver.CAN.csv,National,,CAN
-2014-07-18,2014-07-27,Travemünder Woche,8,42,"Travemünde,GER",Lübecker Yacht-Club e.V.,,,,,125. Travemünder Woche,2014/country/germany/2014-07-27-125-travemunder-woche.travemunde.GER.csv,,,GER
+2014-07-05,2014-07-06,Nord Cup,6,15,Górki Zachodnie,Marina Galion,,,,,,2014/country/poland/2014-07-06-nordcup.csv,Polish Cup,Zatoka Gdańska,POL
+2014-07-11,2014-07-13,Canadian Championship,8,14,"Vancouver,BC",Kitsilano Yacht Club,,,,,,2014/country/canada/2014-07-13.canadian-championship.vancouver.CAN.csv,National,,CAN
+2014-07-18,2014-07-27,Travemünder Woche,8,42,Travemünde,Lübecker Yacht-Club e.V.,,,,,125. Travemünder Woche,2014/country/germany/2014-07-27-125-travemunder-woche.travemunde.GER.csv,,,GER
 2014-07-19,2014-07-20,Dinghy’s Whidbey Island Race Week,8,10,"Oak Harbor, WA",Clear Ahead Marine Productions,,,,,,2014/country/usa/2014-07-20.dinghys-whidbey-island-race-week.oak-harbor-wa.USA.csv,,,USA
-2014-07-25,2014-07-27,UK National Championship,8,22,"Felixstowe, GBR",Felixstowe Ferry,,,,,,2014/country/uk/2014-07-27.uk-national-championship.felixstowe.GBR.csv,National,,GBR
-2014-08-13,2014-08-22,World Championship,7,161,"Kiel,GER",,,,,,,2014/world/2014-08-22.world-championship.kiel.GER.csv,"World,Euro Cup",,GER
-2014-08-16,2014-08-17,Regaty o Puchar Starosty Poznańskiego,5,12,"Poznań,POL",Klub Żeglarski “Mewa”,,,,,,2014/country/poland/2014-08-17-startosta.csv,Polish Cup,Jezioro Kierskie,POL
+2014-07-25,2014-07-27,UK National Championship,8,22,Felixstowe,Felixstowe Ferry,,,,,,2014/country/uk/2014-07-27.uk-national-championship.felixstowe.GBR.csv,National,,GBR
+2014-08-13,2014-08-22,World Championship,7,161,Kiel,,,,,,,2014/world/2014-08-22.world-championship.kiel.GER.csv,"World,Euro Cup",,GER
+2014-08-16,2014-08-17,Regaty o Puchar Starosty Poznańskiego,5,12,Poznań,Klub Żeglarski “Mewa”,,,,,,2014/country/poland/2014-08-17-startosta.csv,Polish Cup,Jezioro Kierskie,POL
 2014-09-06,2014-09-07,National Espoirs,3,19,Anse de la Picarde,Club Nautique Haute Seine,,,,,,2014/country/belgium/2014-09-07.national-espoirs.anse-de-la-picarde.FRA.csv,,,FRA
 2014-09-12,2014-09-12,Nordic & Finnish Championship,9,22,Helsinki,,,,,,,2014/country/finland/2014-09-12.nordic-finnish-championship.helsinki.FIN.csv,National,,FIN
-2014-09-12,2014-09-14,Mistrzostwa Polski,8,25,"Sopot,POL",Sopocki Klub Żeglarski Ergo Hestia,,,,,,2014/2014-09-14-mistrzostwa-polski.csv,National,Zatoka Gdańska,POL
+2014-09-12,2014-09-14,Mistrzostwa Polski,8,25,Sopot,Sopocki Klub Żeglarski Ergo Hestia,,,,,,2014/2014-09-14-mistrzostwa-polski.csv,National,Zatoka Gdańska,POL
 2014-09-19,2014-09-20,Dale Jepsen One-Design Regatta,5,19,"Bellingham,WA,USA",Bellingham Yacht Club,,Mick Corcoran,,,,2014/country/usa/2014-09-20.dale-jepsen-one-design-regatta.bellingham-wa.USA.csv,,,USA
 2014-10-11,2014-10-12,Heineken High Performance Dinghy Open,8,14,"Rye, NY",American Yacht Club,,,,,,2014/country/usa/2014-10-12.heineken-high-performance-dinghy-open.rye-ny.USA.csv,,,USA
 2014-10-18,2014-10-19,Memoriał Macieja Szosta,6,16,"Warszawa,POL",Spójnia Warszawa,,,,,,2014/country/poland/2014-10-19-memorial-macieja-szosta-zegrze.csv,Polish Cup,Zalew Zegrzyński,POL
@@ -419,6 +419,29 @@ Event Start Date,Event End Date,Name,Races,Competitors,City,Organizer,Secretary,
 2007-07-10,2007-07-14,UK National Championship,5,30,,South Caernarvonshire YC,,,,,,2007/country/uk/2007-07-14-national-championship.GBR.csv,National,,GBR
 2014-08-05,2014-08-07,Svenskt Mästerskap,6,22,Segelsällskapet Viken-Ägir,Segelsällskapet Åmålsviken,,,,,,2014/country/sweden/2014-08-07-sweden-championship.viken-agir.SWE.csv,National,,SWE
 2020-08-07,2020-08-09,Mistrzostwa Polski,2,22,Ustka,,,,,,,2020/country/poland/2020-08-09.mistrzostwa-polski.ustka.POL.csv,National,Baltic Sea,POL
+2010-08-11,2010-08-12,FAntastic Nepean FAll REgatta (FANFARE),5,10,Ottawa,Nepean Sailing Club,,,,,,2010/country/canada/2010-08-12-fantastic-nepean-fall-regatta.ottawa.CAN.csv,,,CAN
+2010-07-26,2010-07-26,Nepean One Design,6,8,Ottawa,Nepean Sailing Club,,,,,,2010/country/canada/2010-07-26.nepean-one-design.ottawa.CAN.csv,,,CAN
+2016-08-23,2016-08-25,Pacific Coast Championship,6,14,"San Francisco, CA",San Francisco Yacht Club,,,,,,2016/country/usa/2016-08-25.pacific-coast-championship.san-francisco.USA.csv,,,USA
+2019-08-24,2019-08-24,Chesapeake Bay Open Distance Race,1,8,,,,,,,,2019/country/usa/2019-08-24.chesapeake-bay-open-distance-race.USA.csv,,Chesapeake Bay,USA
+2019-08-24,2019-08-25,Fall Series,3,8,,,,,,,,2019/country/usa/2019-08-25.fall-series.USA.csv,,Chesapeake Bay,USA
+2019-08-02,2019-08-04,Buzzards Bay Regatta,9,13,"South Dartmouth, MA",New Bedford Yacht Club & Beverly Yacht Club,,,,,,2019/country/usa/2019-08-04.buzzards-bay-regatta.south-dartmouth-ma.USA.csv,,,USA
+2019-07-06,2019-07-07,Wickford Regatta,7,11,"North Kingstown, RI",Wickford Yacht Club,,,,,,2019/country/usa/2019-07-07.wickford-regatta.north-kingstown-ri.USA.csv,,Narragansett Bay,USA
+2019-07-06,2019-07-07,Stuart Sinclair,13,11,"Port Townsend, WA",,,,,,,2019/country/usa/2019-07-07.stuart-sinclair.port-townsend-wa.USA.csv,,,USA
+2019-07-26,2019-07-28,Columbia Gorge One-Design Regatta,10,19,"Portland, OR",Columbia Gorge Racing Association,,,,,,2019/country/usa/2019-07-28.columbia-gorge-one-design-regatta.portland-or.USA.csv,,,USA
+2019-05-04,2019-05-05,Kings of the River,6,12,"Galesville, MD",West River Sailing Club,,,,,,2019/country/usa/2019-05-05.kings-of-the-river.galesville-md.USA.csv,,,USA
+2018-10-26,2018-10-27,Fall Dinghy,7,7,,,,,,,,2018/country/usa/2018-10-27.fall-dinghy.USA.csv,,,USA
+2018-05-11,2018-05-12,WRSC Spring Regatta,2,10,"Galesville, MD",West River Sailing Club,,,,,,2018/country/usa/2018-05-12.wrsc-spring-regatta.galesville-md.USA.csv,,,USA
+2018-04-28,2018-04-29,Severn Sailing Association Spring,4,6,"Annapolis, MD",Severn Sailing Association,,,,,,2018/country/usa/2018-04-29.severn-sailing-association-spring.annapolis-md.USA.csv,,,USA
+2015-07-24,2015-07-26,Columbia Gorge One-Design Regatta,11,9,"Portland, OR",Columbia Gorge Racing Association,,,,,,2015/country/usa/2015-07-26.columbia-gorge-one-design-regatta.portland-or.USA.csv,,,USA
+2015-06-05,2015-06-06,Wickford Regatta,7,11,"North Kingstown, RI",Wickford Yacht Club,,,,,,2015/country/usa/2015-06-06.wickford-regatta.north-kingstown-ri.USA.csv,,Narragansett Bay,USA
+2020-08-08,2020-08-09,Danish Championship,3,18,Hellerup,Hellerup Sejlklub,,,,,,2020/country/denmark/2020-08-09.danish-championship.hellerup.DEN.csv,National,,DEN
+2013-07-05,2013-07-07,Pacific Coast Championshps,12,16,"Vancouver,BC",Kitsilano Yacht Club,,,,,,2013/country/canada/2013-07-07.pacific-coast-championshps.vancouver-bc.CAN.csv,,,CAN
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
@@ -553,9 +576,9 @@ Event Start Date,Event End Date,Name,Races,Competitors,City,Organizer,Secretary,
 ,,,,,,,,,,,,,,,
 2019-06-22,2019-06-30,Kieler Woche,,,Kiel-Schilksee (GER),,,,,,,,,,
 2019-07-19,2019-07-28,Travemünder Woche,,,Travemünder (GER),,,,,,,,,,
-2019-08-06,2019-08-10,505 European Championship,,,Sonderborg (DEN),,,,,,,,,,
+2019-08-06,2019-08-10,European Championship,,,Sonderborg (DEN),,,,,,,,,,
 2020-01-15,2020-01-21,Australian Championship,,,"Melbourne,AUS",Royal Brighton Yacht Club as part of Sail Melbourne,,,,,,,,,
 2020-01-17,2020-01-21,Sail Melbourne,,,Melbourne (AUS),,,,,,,,,,
 2020-08-13,2020-08-22,International 505 World Championship,,,Torekov (SWE),,,,,,,,,,
-2020-09-18,2020-09-20,505 Canadian Championship,,,"Kingston, Ontario (CAN)",,,,,,,,,,
+2020-09-18,2020-09-20,Canadian Championship,,,"Kingston, Ontario (CAN)",,,,,,,,,,
 1999-05-22,1999-05-24,Goldener Pfingstbusch,,,"Kiel,GER",Kieler Yacht-Club eV,,,,,,,,,GER
