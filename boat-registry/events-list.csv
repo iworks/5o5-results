@@ -51,7 +51,7 @@ Event Start Date,Event End Date,Name,Races,Competitors,City,Organizer,Secretary,
 1995-07-27,1995-08-04,World Championship,4,106,"Marazion, GBR",Mounts Bay Sailing Club,,,,,,1995/world/1995-08-04.world-championship.marazion.GBR.csv,World,,GBR
 1996-04-07,1996-04-09,Australian Championship,6,80,"Townsville,AUS",,,,,,,1996/country/australia/1996-04-10-australia-championship.townsville.AUS.csv,National,,AUS
 1996-04-10,1996-04-10,Pre-Worlds,3,98,"Townsville,AUS",,,,,,,1996/world/1996-04-12-pre-world.townsville.AUS.csv,Pre-Worlds,,AUS
-1996-04-11,1996-04-18,World Championship,7,96,"Townsville,AUS",,,,,,,1996/world/1996-04-17-world.championship.townsville.australia.csv,World,,AUS
+1996-04-11,1996-04-18,World Championship,7,96,"Townsville,AUS","NQ International 505 Fleet 17, Conference & Events Management",,,,,,1996/world/1996-04-17-world.championship.townsville.australia.csv,World,,AUS
 1997-01-03,1997-01-05,Florida Midwinters,6,23,"St. Petersburg, FL",St. Petersburg Sailing Center,,,,,,1997/country/usa/1997-01-05.florida-midwinters.st-petersburg.USA.csv,,,USA
 1997-02-15,1997-02-16,Southern California Midwinters,5,10,"Long Beach, CA",Alamitos Bay Yacht Club,,,,,,1997/country/usa/1997-02-16.southern-california-midwinters.long-beach.USA.csv,,,USA
 1997-03-15,1997-03-16,Spring Dinghy,6,10,"San Francisco, CA",St. Francis Yacht Club,,,,,,1997/country/usa/1997-03-16.st-francis-spring-dinghy.san-francisco.USA.csv,,,USA
@@ -437,20 +437,20 @@ Event Start Date,Event End Date,Name,Races,Competitors,City,Organizer,Secretary,
 2020-08-07,2020-08-09,Mistrzostwa Polski,6,22,Ustka,"Miasto Ustka, ProSport, Dolina Charlotty",,,,,,2020/country/poland/2020-08-09.mistrzostwa-polski.ustka.POL.csv,National,Baltic Sea,POL
 2020-08-08,2020-08-09,Danish Championship,7,18,Hellerup,Hellerup Sejlklub,,,,,,2020/country/denmark/2020-08-09.danish-championship.hellerup.DEN.csv,National,,DEN
 2020-06-27,2020-06-28,Helsinki Regatta,6,10,Helsinki,Nyländska Jaktklubben r.f.,,,,,,2020/country/finland/2020-06-28.helsinki-regatta.helsinki.FIN.csv,,,FIN
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
+1995-12-02,1995-12-02,Florida Sailfest,4,5,"Orlando, FL",,,,,,,1995/country/usa/1995-12-02.florida-sailfest.orlando.fl.USA.csv,,,USA
+1995-08-22,1995-08-24,East Coast Championship,7,23,"Galesville, MD",West River Sailing Club,,,,,,1995/country/usa/1995-08-24.east-coast-championship.galesville-md.USA.csv,,,USA
+1995-08-07,1995-08-08,Carl Miller Regatta,5,6,"Galesville, MD",West River Sailing Club,,,,,,1995/country/usa/1995-08-08.carl-miller-regatta.USA.csv,,,USA
+1995-08-08,1995-08-10,Pacific Coast Championship,5,24,Santa Cruz,Santa Cruz Yacht Club,,,,,,1995/country/usa/1995-08-10.pacific-coast-championship.santa-cruze.USA.csv,,,USA
+1995-08-02,1995-08-04,Alberta Provincial Championship,10,8,Alberta,,,,,"10-15 knots,10-15 knots,10-15 knots,3-10 knots,3-10 knots,3-10 knots, Monday 4 races(18-23 Knots)",,1995/country/canada/1995-08-03.alberta-provincial-championship.alberta.CAN.csv,,,CAN
+1995-08-09,1995-08-10,New England Championship,4,8,"Hyannis, MA",,,,,,,1995/country/usa/1995-08-10.new-england-championship.-hyannis-ma.USA.csv,,,USA
+1995-08-16,1995-08-17,Midwest Championship/Sandusky Fall Open,5,5,"Sandusky, OH",Sandusky Sailing Club,,,,,,1995/country/usa/1995-08-17.midwest-championship-sandusky-fall-open.sandusky-oh.USA.csv,,,USA
+1995-08-05,1995-08-06,The Gim Hoebelman Regatta,4,7,Chicago,Chicago Corinthian Yacht Club,,,,,,1995/country/usa/1995-08-06.the-gim-hoebelman-regatta.chicago.USA.csv,,,USA
+1995-07-27,1995-08-04,North American Championship,6,26,"Kingston,ON,CAN",Kingston Yacht Club,,Steve Tupper,,,,1995/continental/1995-08-04-north-american-championship-kingston-ontario-CAN.csv,Continental,,CAN
+1995-07-10,1995-07-12,Canadian Championship,7,22,"Vancouver,BC",Kitsilano Yacht Club,,,,,,1995/country/canada/1995-07-12.canadian-championship.vancouver.CAN.csv,National,,CAN
+1993-08-30,1993-09-03,North American Championship,5,31,"Grosse Pointe Farms, MI",Crescent Sail Yacht Club,,Steve Tupper,,,,1993/continental/1993-09-03.north-american-championship.grosse-pointe-farms-mi.USA.csv,Continental,Lake St. Claire,USA
+1995-05-13,1995-05-14,Regatta,7,7,"Columbus, Ohio",Hoover Yacht Club,,,,,,1995/country/usa/1995-05-14.regatta.columbus-ohio.USA.csv,,,USA
+1994-01-01,1994-01-01,North American Championship,6,35,"South Dartmouth, MA",New Bedford Yacht Club,,Steve Tupper,,,,1994/continental/1994.north-american-championship.south-dartmouth-ma.USA.csv,Continental,"Buzzards Bay, MA",USA
+1994-07-01,1994-07-03,Canadian Championship,7,10,"Kingston,ON",Kingston Yacht Club,,,,,,1994/country/canada/1994-07-03.canadian-championship.kingston.CAN.csv,National,,CAN
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
@@ -615,7 +615,7 @@ Event Start Date,Event End Date,Name,Races,Competitors,City,Organizer,Secretary,
 2017-09-20,2017-09-30,International 505 World Championship,,,Annapolis (USA),,,,,,,,,,
 2018-09-01,2018-09-01,Nordisk Mesterkab/Svensk Mesterskab,,,"Marstrand, SWE",,,,,,,,,,
 2019-01-02,2019-01-07,International 505 World Championship,,,Fremantle (AUS),,,,,,,,,,
-,,,,,,,,,,,,,,,
+1995-08-22,1995-08-24,East Coast Championship,,,"Galesville, MD",505 Fleet 19 & the West River Sailing Club,,,,,,,,,
 2019-06-22,2019-06-30,Kieler Woche,,,Kiel-Schilksee (GER),,,,,,,,,,
 2019-07-19,2019-07-28,Travemünder Woche,,,Travemünder (GER),,,,,,,,,,
 2019-08-06,2019-08-10,European Championship,,,Sonderborg (DEN),,,,,,,,,,
@@ -624,3 +624,28 @@ Event Start Date,Event End Date,Name,Races,Competitors,City,Organizer,Secretary,
 2020-08-13,2020-08-22,International 505 World Championship,,,Torekov (SWE),,,,,,,,,,
 2020-09-18,2020-09-20,Canadian Championship,,,"Kingston, Ontario (CAN)",,,,,,,,,,
 1999-05-22,1999-05-24,Goldener Pfingstbusch,,,"Kiel,GER",Kieler Yacht-Club eV,,,,,,,,,GER
+1996-03-02,1996-03-03,Sailboat 96,,,Alexandra Palace,,,,,,,,,,GBR
+1996-03-22,1996-03-23,Open Meeting,,,Bewl Valley,,,,,,,,,,GBR
+1996-03-30,1996-03-31,Training,,,Grafham,,,,,,,,,,GBR
+1996-03-30,1996-03-31,Open Meeting,,,Queen Mary,,,,,,,,,,GBR
+1996-04-02,1996-04-09,Prewords and Australian National Championship,,,Townsville,,,,,,,,,,AUS
+1996-04-05,1996-04-07,Europa Cup,,,Le Lavandou,,,,,,,,,,FRA
+1996-04-12,1996-04-19,World Championship,,,Townsville,,,,,,,,,,AUS
+1996-04-13,1996-04-14,Inland Championship,,,Grafham,,,,,,,,,,GBR
+1996-04-27,1996-04-28,Open Meeting,,,Burton,,,,,,,,,,GBR
+1996-05-04,1996-05-05,Stokes Bay UK Training ,,,,,,,,,,,,,
+1996-05-06,1996-05-06,Stokes Bay UK 3 Forts Race ,,,,,,,,,,,,,
+1996-05-16,1996-05-19,Europa Cup,,,Riva,,,,,,,,,,ITA
+1996-05-18,1996-05-19,Open Meeting,,,Bala,,,,,,,,,,GBR
+1996-06-01,1996-06-02,Open Meeting,,,Llandegfedd,,,,,,,,,,GBR
+1996-06-08,1996-06-09,Southern Championship,,,Stokes Bay,,,,,,,,,,GBR
+1996-06-15,1996-06-17,Europa Cup,,,Gilleleje,,,,,,,,,,DEN
+1996-06-22,1996-06-23,South Western C'ship,,,Brighton,,,,,,,,,,GBR
+1996-06-22,1996-06-25,Europa Cup,,,Kiel,,,,,,,,,,GER
+1996-06-29,1996-07-01,Europa Cup,,,Zebrugge,,,,,,,,,,BEL
+1996-07-06,1996-07-07,Welsh Championship,,,Abersoch,,,,,,,,,,GBR
+1996-07-11,1996-07-14,French Nationals,,,Loctudy,,,,,,,,,,FRA
+1996-07-13,1996-07-14,Eastern Championship,,,Brightlingsea,,,,,,,,,,GBR
+1996-08-17,1996-08-18,Short Course Open,,,Stone,,,,,,,,,,GBR
+1996-08-17,1996-08-24,European Championship,,,Silvaplana,,,,,,,,,,SUI
+1996-09-08,1996-09-13,British Nationals,,,Hayling Island,,,,,,,,,,GBR

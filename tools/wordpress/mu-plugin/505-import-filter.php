@@ -158,6 +158,10 @@ class iworks_5o5_upload_fixer {
 			'Zinn'   => 'Andy Zinn',
 		),
 		array(
+			'Hamlin' => 'Howard Hamlin',
+			'Rosenb.'   => 'Steve Rosenberg',
+		),
+		array(
 			'Hamström' => 'Jari Hamström',
 			'Laurila'  => 'Tuomas Laurila',
 		),
@@ -1085,6 +1089,62 @@ class iworks_5o5_upload_fixer {
 			'Torrie' => 'Ian Torrie',
 			'Yates' => 'Steve Yates',
 		),
+		array(
+			'Nelson' => 'Macy Nelson',
+			'Alarie' => 'Peter Alarie',
+		),
+		array(
+			'S.Moss' => 'Shona Loveshin-Moss',
+			'S.Lovshin' => 'Stephen Lovshin',
+		),
+		array(
+			'Punnet' => 'Mike Punnet',
+			'Ikle' => 'Scott Iklé',
+		),
+		array(
+			'M. Punnet' => 'Mike Punnet',
+			'S. Ikle' => 'Scott Iklé',
+		),
+		array(
+			'Gooding' => 'Kirk Gooding',
+			'Smith' => 'Don Smith',
+		),
+		array(
+			'M. Nelson' => 'Macy Nelson',
+			'P. Alarie' => 'Peter Alarie',
+		),
+		array(
+			'A. Meller' => 'Alexander Meller',
+			'A. Johnson' => 'Allan Johnson',
+		),
+		array(
+			'Meller' => 'Alexander Meller',
+			'Fry' => 'John Fry',
+		),
+		array(
+			'N. Fowler' => 'Neal Fowler',
+			'D. Dyson' => 'Dave Dyson',
+		),
+		array(
+			'K. Elliot' => 'Kenny Elliot',
+			'A. Kilgore' => 'Allen Kilgore',
+		),
+		array(
+			'Elliot' => 'Kenny Elliot',
+			'Wheeler' => 'Mark Wheeler',
+		),
+		array(
+			'J. Phillips' => 'Jonathan Phillips',
+			'L. Crane' => 'Les Crane',
+		),
+		array(
+			'N. Trotman' => 'Nick Trotman',
+			'M. Mills' => 'Mike Mills',
+		),
+		array(
+			'Dohan' => 'John Dohan',
+			'Beardslee' => 'Bill Beardslee',
+		),
 		/*
 		array(
 			'' => '',
@@ -1097,6 +1157,14 @@ class iworks_5o5_upload_fixer {
 	 * foo
 	 */
     private $person = array(
+        'W Allen Kilgore' => 'Allen Kilgore',
+			'J. Boyd' => 'Jeff Boyd',
+        'Anne Fitzpatric' => 'Anne Fitzpatrick',
+        'Tom O\'toole' => 'Tom O\'Toole',
+        'K.Briggs' => 'Keith Briggs',
+        'C.Fuchshuber' => 'Carl Fuchshuber',
+        'D.Philips' => 'Dale Phillips',
+        'AdamLowry' => 'Adam Lowry',
         'Bartosz Chrol' => 'Bartosz Chroł',
         'Anne Fitzpatric' => 'Anne Fitzpatrick',
         'Craig Mcminn' => 'Craig McMinn',
