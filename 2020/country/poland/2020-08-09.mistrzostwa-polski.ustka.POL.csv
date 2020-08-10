@@ -1,23 +1,23 @@
-Class,SailNo,HelmName,CrewName,R1,R2,R3,R4,R5,R6,Total,Nett,Rank
-POL,9020,Jakub Pawluk,Marcin Józefowski,1,2,1,1,-5,2,12,7,1st
-GER,9182,Alexander Holzapefel,Thorsten Posch,2,1,3,5,-6,1,18,12,2nd
-GER,9040,Norbert Dasenbrook,Sven Meier,-6,3,2,4,1,3,19,13,3rd
-POL,9119,Mateusz Jura,Bartosz Chrol,3,-9,4,2,2,4,24,15,4th
-POL,9170,Karol Milewski,Bartosz Milewski,4,4,-6,3,3,6,26,20,5th
-GER,9113,Joseph Schutte,Karsten Stumpel,5,6,5,7,7,-9,39,30,6th
-POL,9232,Tomasz Brzozowski,Pawel Choroba,-9,5,7,6,9,5,41,32,7th
-POL,8875,Dariusz Konopczak,Pawel Henszke,10,8,8,-13,8,8,55,42,8th
-POL,9043,Mariusz Swistelwicki,Leslaw Swistelwicki,-11,11,9,10,4,11,56,45,9th
-POL,8909,Jan Domanski,Roman Glowka,8,-12,10,9,10,12,61,49,10th
-POL,9132,Przemyslaw Zagorski,Michal Olko,7,(23.0 DNC),23.0 UFD,8,14,7,82,59,11th
-POL,8493,Mieczyslaw Szwed,Tomasz Idzikowski,14,7,15,16,-17,10,79,62,12th
-POL,8665,Marcin Panek,Wojciech Denderski,12,14,13,12,12,(23.0 RET),86,63,13th
-POL,8802,Dominik Ostrowski,Stefan Romanik,13,10,14,11,16,-17,81,64,14th
-POL,8212,Anna Jablonska,Andrzej Zdrojek,16,13,11,14,15,-18,87,69,15th
-POL,8483,Mariusz Michalski,Piotr Duma,15,15,12,17,-18,16,93,75,16th
-POL,8736,Michal Strusinski,Michal Pronczuk,17,(23.0 DNC),23.0 DNC,15,11,13,102,79,17th
-POL,8145,Pawel Kluczynski,Wladyslaw Kondej,18,17,(23.0 UFD),21,13,15,107,84,18th
-POL,8906,Tomasz Polikowski,Adam Najmowicz,20,16,(23.0 UFD),18,19,14,110,87,19th
-POL,8490,Marcin Preiffer,Dominik Narloch,(23.0 DNC),18,16,19,23.0 DNC,23.0 DNC,122,99,20th
-POL,8770,Kuba Gasiorowski,Karolina Gasiorowska,21,(23.0 DNC),17,20,20,23.0 DNC,124,101,21st
-POL,8751,Wojciech Kasprzyk,Maciej Kasprzyk,19,(23.0 DNC),23.0 DNC,23.0 DNC,23.0 DNC,23.0 DNC,134,111,22nd
+Nation,SailNo,HelmName,CrewName,Club,R1,R2,R3,R4,R5,R6,Total,Nett,Rank
+POL,9020,Jakub Pawluk,Marcin Józefowski,,1,2,1,1,(5.0),2,12,7,1st
+GER,9182,Alexander Holzapefel,Thorsten Posch,,2,1,3,5,(6.0),1,18,12,2nd
+GER,9040,Norbert Dasenbrook,Sven Meier,,(6.0),3,2,4,1,3,19,13,3rd
+POL,9119,Mateusz Jura,Bartosz Chrol,,3,(9.0),4,2,2,4,24,15,4th
+POL,9170,Karol Milewski,Bartosz Milewski,,4,4,(6.0),3,3,6,26,20,5th
+GER,9113,Joseph Schutte,Karsten Stumpel,,5,6,5,7,7,(9.0),39,30,6th
+POL,9232,Tomasz Brzozowski,Pawel Choroba,,(9.0),5,7,6,9,5,41,32,7th
+POL,8875,Dariusz Konopczak,Pawel Henszke,,10,8,8,(13.0),8,8,55,42,8th
+POL,9043,Mariusz Swistelwicki,Leslaw Swistelwicki,,(11.0),11,9,10,4,11,56,45,9th
+POL,8909,Jan Domanski,Roman Glowka,,8,(12.0),10,9,10,12,61,49,10th
+POL,9132,Przemyslaw Zagorski,Michal Olko,,7,(23.0 DNC),23.0 UFD,8,14,7,82,59,11th
+POL,8493,Mieczyslaw Szwed,Tomasz Idzikowski,,14,7,15,16,(17.0),10,79,62,12th
+POL,8665,Marcin Panek,Wojciech Denderski,,12,14,13,12,12,(23.0 RET),86,63,13th
+POL,8802,Dominik Ostrowski,Stefan Romanik,,13,10,14,11,16,(17.0),81,64,14th
+POL,8212,Anna Jablonska,Andrzej Zdrojek,,16,13,11,14,15,(18.0),87,69,15th
+POL,8483,Mariusz Michalski,Piotr Duma,,15,15,12,17,(18.0),16,93,75,16th
+POL,8736,Michal Strusinski,Michal Pronczuk,,17,(23.0 DNC),23.0 DNC,15,11,13,102,79,17th
+POL,8145,Pawel Kluczynski,Wladyslaw Kondej,,18,17,(23.0 UFD),21,13,15,107,84,18th
+POL,8906,Tomasz Polikowski,Adam Najmowicz,,20,16,(23.0 UFD),18,19,14,110,87,19th
+POL,8490,Marcin Preiffer,Dominik Narloch,,(23.0 DNC),18,16,19,23.0 DNC,23.0 DNC,122,99,20th
+POL,8770,Kuba Gasiorowski,Karolina Gasiorowska,,21,(23.0 DNC),17,20,20,23.0 DNC,124,101,21st
+POL,8751,Wojciech Kasprzyk,Maciej Kasprzyk,,19,(23.0 DNC),23.0 DNC,23.0 DNC,23.0 DNC,23.0 DNC,134,111,22nd
