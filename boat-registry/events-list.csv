@@ -463,11 +463,11 @@ Event Start Date,Event End Date,Name,Races,Competitors,City,Organizer,Secretary,
 2020-07-11,2020-07-12,Lotos Nord Cup,7,14,Górki Zachodnie,"Akademicki Związek Sportowy, Galion, Yacht Club Gdynia",,,,,,2020/country/poland/2020-07-12.lotos-nord-cup.gdansk.POL.csv,Polish Cup,Zatoka Gdańska,POL
 2020-08-07,2020-08-09,Mistrzostwa Polski,6,22,Ustka,"Miasto Ustka, ProSport, Dolina Charlotty",,,,,,2020/country/poland/2020-08-09.mistrzostwa-polski.ustka.POL.csv,National,Baltic Sea,POL
 2020-08-08,2020-08-09,Danish Championship,7,18,Hellerup,Hellerup Sejlklub,,,,,,2020/country/denmark/2020-08-09.danish-championship.hellerup.DEN.csv,National,,DEN
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
+1996-08-17,1996-08-24,European Championship,7,49,St. Moritz,Silvaplana,,,,,,1996/continental/1996-08-24-european-championship-st-moritz.SUI.csv,"Continental,Euro Cup",,SUI
+1996-08-07,1996-08-10,North American Championship,7,34,"Kingston,ON",CORK,,,,,,1996/continental/1996-08-10-north-american-championship-kingston-ontario-CAN.csv,Continental,,CAN
+1996-07-10,1996-07-14,Championnat de France,5,67,,,,,,,,1996/country/france/1996-07-14-french-championship.FRA.csv,National,,FRA
+1996-07-11,1996-07-13,East Coast Championship,6,28,"South Dartmouth, MA",New Bedford Yacht Club,,,,,,1996/country/usa/1996-07-13.east-coast-championship.south-dartmouth-ma.USA.csv,,,USA
+1996-01-01,1996-01-01,Hampton Annual,3,14,Hampton,Hampton Yacht Club,,,,,,1996/country/usa/1996.hampton-annual.hampton.USA.csv,,,USA
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
