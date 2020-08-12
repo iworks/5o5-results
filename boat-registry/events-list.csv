@@ -128,15 +128,15 @@ Event Start Date,Event End Date,Name,Races,Competitors,City,Organizer,Secretary,
 2000-07-08,2000-07-09,Open Meeting,5,19,"Hayling Island,GBR",Hayling Island Sailing Club,,,,,,2000/country/uk/2000-07-09-open-meeting-hayling-island-GBR.csv,,,GBR
 2000-07-08,2000-07-10,European Championship,5,57,"Abersoch,UK",,,,,,,2000/continental/2000-07-10.european-championship.abersoch.UK.csv,Continental,,GBR
 2000-11-11,2000-11-23,World Championship,5,61,Durban,,,,,,,2000/world/2000-11-23.world-championship.durban.RSA.csv,World,,RSA
-2001-01-01,2001-01-01,Victoria Lake Club CUP,5,4,,Victoria Lake Club,,,,,,2001/country/south-africa/2001.victoria-lake-club-cup.RSA.csv,,,RSA
-2001-04-27,2001-04-30,South African National Championship,,9,,Point Yacht Club,,,,,,2001/country/south-africa/2001-04-30.south-african-national-championship.RSA.csv,National,,RSA
+2001-11-17,2001-11-18,Victoria Lake Club CUP,5,4,,Victoria Lake Club,,,,,,2001/country/south-africa/2001-11-18.victoria-lake-club-cup.RSA.csv,,,RSA
+2001-04-27,2001-04-30,South African National Championship,,9,Durban,Point Yacht Club,,,,,,2001/country/south-africa/2001-04-30.south-african-national-championship.RSA.csv,National,,RSA
 2001-05-05,2001-05-06,GUL-regattan,5,13,"Malmö,SWE",Malmö Segel Sällskap,,,,,,2001/country/sweden/2001-05-06.gul-regattan.malmo.SWE.csv,,,SWE
 2001-08-08,2001-08-12,North American Championship,6,35,"Kingston,ON,CAN",Kingston Yacht Club,,,,,,2001/continental/2001-08-12-north-american-championship-kingston-ontario-CAN.csv,Continental,,CAN
 2001-08-11,2001-08-12,Highvelds,,12,Pretoria,Pretoria Sailing Club,,,,,,2001/country/south-africa/2001-08-12.highvelds.pretoria.RSA.csv,,,RSA
 2001-08-19,2001-08-28,World Championship,7,105,"Cascais,POR",,,,,,,2001/world/2001-07-21.world-championship.cascais.POR.csv,World,,POR
-2002-01-01,2002-01-01,Duffin trophy,5,9,,Victoria Lake Club,,,,,,2002/country/south-africa/2002.duffin-trophy.RSA.csv,,,RSA
-2002-01-01,2002-01-01,Highvelds,7,6,Pretoria,Pretoria Sailing Club,,,,,,2002/country/south-africa/2002.highvelds.pretoria.RSA.csv,,,RSA
-2002-01-01,2002-01-01,Northvaal Championship,11,11,Vaal Dam,Aeolians Club,,,,,,2002/country/south-africa/2002.northvaal-championships.vaal-dam.RSA.csv,,,RSA
+2002-01-12,2002-01-13,Duffin trophy,5,9,,Victoria Lake Club,,,,,,2002/country/south-africa/2002-01-13.duffin-trophy.RSA.csv,,,RSA
+2002-08-17,2002-08-18,Highvelds,7,6,Pretoria,Pretoria Sailing Club,,,,,,2002/country/south-africa/2002-08-18.highvelds.pretoria.RSA.csv,,,RSA
+2002-09-21,2002-09-22,Northvaal Championship,11,11,Vaal Dam,Aeolians Club,,,,,,2002/country/south-africa/2002-09-22.northvaal-championships.vaal-dam.RSA.csv,,,RSA
 2002-01-01,2002-01-01,Van Rooyen Trophy,4,8,,Transvaal Yacht Club,,,,,,2002/country/south-africa/2002.van-rooyen-trophy.RSA.csv,,,RSA
 2002-06-22,2002-06-22,Open Meeting,5,19,"Hayling Island,GBR",Hayling Island Sailing Club,,,,,,2002/country/uk/2002-06-22-open-meeting-hayling-island-GBR.csv,,,GBR
 2002-07-12,2002-07-12,Europa Cup & Riksmästerskap för 505,6,19,"Landskrona, SWE",Borstahusens Segelsällskap,,,,,,2002/country/sweden/2002-07-12.europa-cup-riksmasterskap-for-505.landskrona.SWE.csv,,,SWE
@@ -477,8 +477,9 @@ Event Start Date,Event End Date,Name,Races,Competitors,City,Organizer,Secretary,
 2020-07-11,2020-07-12,Lotos Nord Cup,7,14,Górki Zachodnie,"Akademicki Związek Sportowy, Galion, Yacht Club Gdynia",,,,,,2020/country/poland/2020-07-12.lotos-nord-cup.gdansk.POL.csv,Polish Cup,Zatoka Gdańska,POL
 2020-08-07,2020-08-09,Mistrzostwa Polski,6,22,Ustka,"Miasto Ustka, ProSport, Dolina Charlotty",,,,,,2020/country/poland/2020-08-09.mistrzostwa-polski.ustka.POL.csv,National,Baltic Sea,POL
 2020-08-08,2020-08-09,Danish Championship,7,18,Hellerup,Hellerup Sejlklub,,,,,,2020/country/denmark/2020-08-09.danish-championship.hellerup.DEN.csv,National,,DEN
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
+2002-03-21,2002-03-23,South African National Championship,9,16,Vaal Dam,Aeolians Club,,,,,,2002/country/south-africa/2002-03-23.south-african-national-championship.vaal-dam.RSA.csv,National,,RSA
+2002-06-15,2002-06-17,BP Trophy,6,6,,Henley Midmar Yacht Club,,,,,,"2002/country/south-africa/2002-06-17.bp-trophy.RSA.csv
+",,,RSA
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
