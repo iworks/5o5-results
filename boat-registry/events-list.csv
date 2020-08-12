@@ -64,6 +64,7 @@ Event Start Date,Event End Date,Name,Races,Competitors,City,Organizer,Secretary,
 1995-08-16,1995-08-17,Midwest Championship/Sandusky Fall Open,5,5,"Sandusky, OH",Sandusky Sailing Club,,,,,,1995/country/usa/1995-08-17.midwest-championship-sandusky-fall-open.sandusky-oh.USA.csv,,,USA
 1995-08-22,1995-08-24,East Coast Championship,7,23,"Galesville, MD",West River Sailing Club,,,,,,1995/country/usa/1995-08-24.east-coast-championship.galesville-md.USA.csv,,,USA
 1995-12-02,1995-12-02,Florida Sailfest,4,5,"Orlando, FL",,,,,,,1995/country/usa/1995-12-02.florida-sailfest.orlando.fl.USA.csv,,,USA
+1996-01-01,1996-01-01,Hampton Annual,3,14,Hampton,Hampton Yacht Club,,,,,,1996/country/usa/1996.hampton-annual.hampton.USA.csv,,,USA
 1996-01-01,1996-01-01,St. Francis Spring Dinghy,6,12,"San Francisco, CA",St. Francis Yacht Club,,,,,,1996/country/usa/1996.st-francis-spring-dinghy.san-francisco.USA.csv,,,USA
 1996-01-01,1996-01-01,Wittensee Regatta,2,53,,,,,,,,1996/country/germany/1996.wittensee-regatta.GER.csv,,,GER
 1996-01-05,1996-01-07,Midwinter Championships,7,20,"St. Petersburg, FL",St. Petersburg Yacht Club,,,,,,1996/country/usa/1996-01-07.midwinter-championships.st-petersburg-fl.USA.csv,,,USA
@@ -74,6 +75,10 @@ Event Start Date,Event End Date,Name,Races,Competitors,City,Organizer,Secretary,
 1996-04-11,1996-04-18,World Championship,7,96,"Townsville,AUS","NQ International 505 Fleet 17, Conference & Events Management",,,,,,1996/world/1996-04-17-world.championship.townsville.australia.csv,World,,AUS
 1996-06-08,1996-06-09,West River Mid-Atlantic Regatta,7,13,"Galesville, MD",West River Sailing Club,,,,,,1996/country/usa/1996-06-09.west-river-mid-atlantic-regatta.galesville-md.USA.csv,,,USA
 1996-06-23,1996-06-24,St Francis Regatta,6,14,"San Francisco, CA",St. Francis Yacht Club,,,,,,1996/country/usa/1996-06-24.st-francis-regatta.san-francisco.USA.csv,,,USA
+1996-07-10,1996-07-14,Championnat de France,5,67,,,,,,,,1996/country/france/1996-07-14-french-championship.FRA.csv,National,,FRA
+1996-07-11,1996-07-13,East Coast Championship,6,28,"South Dartmouth, MA",New Bedford Yacht Club,,,,,,1996/country/usa/1996-07-13.east-coast-championship.south-dartmouth-ma.USA.csv,,,USA
+1996-08-07,1996-08-10,North American Championship,7,34,"Kingston,ON",CORK,,,,,,1996/continental/1996-08-10-north-american-championship-kingston-ontario-CAN.csv,Continental,,CAN
+1996-08-17,1996-08-24,European Championship,7,49,St. Moritz,Silvaplana,,,,,,1996/continental/1996-08-24-european-championship-st-moritz.SUI.csv,"Continental,Euro Cup",,SUI
 1996-09-14,1996-09-15,St. Francis Fall Dinghy Regatta,6,10,"San Francisco, CA",St. Francis Yacht Club,,,,,,1996/country/usa/1996-09-15.st-francis-fall-dinghy-regatta.san-francisco.USA.csv,,,USA
 1996-09-21,1996-09-22,Niantic Bay Yacht Club Regatta,9,11,"Niantic, CT",Niantic Bay Yacht Club,,,,,,1996/country/usa/1996-09-22.niantic-bay-yacht-club-regatta.niantic-ct.USA.csv,,,USA
 1996-10-06,1996-10-07,Carl Miller Regatta,5,12,"Galesville, MD",West River Sailing Club,,,,,,1996/country/usa/1996-10-07.carl-miller-regatta.galesville-md.USA.csv,,,USA
@@ -463,11 +468,6 @@ Event Start Date,Event End Date,Name,Races,Competitors,City,Organizer,Secretary,
 2020-07-11,2020-07-12,Lotos Nord Cup,7,14,Górki Zachodnie,"Akademicki Związek Sportowy, Galion, Yacht Club Gdynia",,,,,,2020/country/poland/2020-07-12.lotos-nord-cup.gdansk.POL.csv,Polish Cup,Zatoka Gdańska,POL
 2020-08-07,2020-08-09,Mistrzostwa Polski,6,22,Ustka,"Miasto Ustka, ProSport, Dolina Charlotty",,,,,,2020/country/poland/2020-08-09.mistrzostwa-polski.ustka.POL.csv,National,Baltic Sea,POL
 2020-08-08,2020-08-09,Danish Championship,7,18,Hellerup,Hellerup Sejlklub,,,,,,2020/country/denmark/2020-08-09.danish-championship.hellerup.DEN.csv,National,,DEN
-1996-08-17,1996-08-24,European Championship,7,49,St. Moritz,Silvaplana,,,,,,1996/continental/1996-08-24-european-championship-st-moritz.SUI.csv,"Continental,Euro Cup",,SUI
-1996-08-07,1996-08-10,North American Championship,7,34,"Kingston,ON",CORK,,,,,,1996/continental/1996-08-10-north-american-championship-kingston-ontario-CAN.csv,Continental,,CAN
-1996-07-10,1996-07-14,Championnat de France,5,67,,,,,,,,1996/country/france/1996-07-14-french-championship.FRA.csv,National,,FRA
-1996-07-11,1996-07-13,East Coast Championship,6,28,"South Dartmouth, MA",New Bedford Yacht Club,,,,,,1996/country/usa/1996-07-13.east-coast-championship.south-dartmouth-ma.USA.csv,,,USA
-1996-01-01,1996-01-01,Hampton Annual,3,14,Hampton,Hampton Yacht Club,,,,,,1996/country/usa/1996.hampton-annual.hampton.USA.csv,,,USA
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,

@@ -1281,6 +1281,10 @@ class iworks_5o5_upload_fixer {
 			'de la Rie' => 'Rene de la Rie',
 			'Richard'   => 'Merv Richards',
 		),
+		array(
+			'Mignerey' => 'Peter Mignerey',
+			'Saunders' => 'George Saunders',
+		),
 		/*
 		array(
 			'' => '',
