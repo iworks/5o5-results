@@ -156,7 +156,8 @@ function check_is_person( $data ) {
 		}
 		return false;
 	}
-	switch ( $data ) {
+    switch ( $data ) {
+        case 'Schwaebisch Hall':
 		case 'Moss-Lovshin family':
 		case 'Alexandria Wooden Boat Society':
 		case 'Avocado Sail Training Association':

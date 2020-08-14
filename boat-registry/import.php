@@ -192,7 +192,6 @@ if ( $import_registry && ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) 
 			 * 16 Twitter
 			 * 17 Website
 			 */
-
 			$iworks_fleet_boat_hull_number   = intval( $data[0] );
 			$iworks_fleet_boat_build_year    = intval( $data[1] );
 			$iworks_fleet_hull_manufacturer  = trim( $data[2] );
@@ -202,15 +201,9 @@ if ( $import_registry && ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) 
 			$iworks_fleet_social_instagram   = trim( $data[15] );
 			$iworks_fleet_social_twitter     = trim( $data[16] );
 			$iworks_fleet_social_website     = trim( $data[17] );
-
-
-
-
-			$post_content = trim( $data[5] );
-
-			$iworks_fleet_boat_nation = trim( $data[11] );
-			$iworks_fleet_boat_colors = explode( ';', trim( $data[13] ) );
-
+			$post_content                    = trim( $data[5] );
+			$iworks_fleet_boat_nation        = trim( $data[11] );
+			$iworks_fleet_boat_colors        = explode( ';', trim( $data[13] ) );
 			if ( ! is_string( $post_content ) ) {
 				print_r( $post_content );
 				die;
@@ -417,7 +410,6 @@ if ( $import_registry && ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) 
 			}
 			$post_ID = wp_insert_post( $post );
 			wp_set_post_terms( $post_ID, array( $iworks_fleet_hull_manufacturer ), $taxonomy_name_manufacturer );
-
 			/**
 			 * owners
 			 */
@@ -511,7 +503,6 @@ if ( $import_registry && ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) 
 			// echo 'x(',$data[0],')';
 		}
 	}
-
 	/**
 	 * update term  counter
 	 */
@@ -520,10 +511,8 @@ if ( $import_registry && ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) 
 		'fields'     => 'ids',
 		'hide_empty' => false,
 	);
-
-	$update_terms = get_terms( $get_terms_args );
+	$update_terms   = get_terms( $get_terms_args );
 	wp_update_term_count_now( $update_terms, $taxonomy_name_manufacturer );
-
 	fclose( $handle );
 }
 
@@ -541,37 +530,39 @@ if ( $import_results && ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false 
 		[0] => iworks_fleet_result_date_start
 		[1] => iworks_fleet_result_date_end
 		[2] => post_title
-		[3] => iworks_fleet_result_number_of_races
-		[4] => iworks_fleet_result_number_of_competitors
-		[5] => city
-		[6] => iworks_fleet_result_organizer
-		[7] => iworks_fleet_result_secretary
-		[8] => iworks_fleet_result_arbiter
-		[9] => iworks_fleet_result_wind_direction
-		[10] => iworks_fleet_result_wind_power
-		[11] => post_content
-		[12] => file
-		[13] => iworks_fleet_serie
-		[14] => iworks_fleet_result_location
-		[15] => country
+		[3] => iworks_fleet_result_english
+		[4] => iworks_fleet_result_number_of_races
+		[5] => iworks_fleet_result_number_of_competitors
+		[6] => city
+		[7] => iworks_fleet_result_organizer
+		[8] => iworks_fleet_result_secretary
+		[9] => iworks_fleet_result_arbiter
+		[10] => iworks_fleet_result_wind_direction
+		[11] => iworks_fleet_result_wind_power
+		[12] => post_content
+		[13] => file
+		[14] => iworks_fleet_serie
+		[15] => iworks_fleet_result_location
+		[16] => country
 		 */
 		$fields = array(
 			0  => 'iworks_fleet_result_date_start',
 			1  => 'iworks_fleet_result_date_end',
 			2  => 'post_title',
-			3  => 'iworks_fleet_result_number_of_races',
-			4  => 'iworks_fleet_result_number_of_competitors',
-			5  => 'city',
-			6  => 'iworks_fleet_result_organizer',
-			7  => 'iworks_fleet_result_secretary',
-			8  => 'iworks_fleet_result_arbiter',
-			9  => 'iworks_fleet_result_wind_direction',
-			10 => 'iworks_fleet_result_wind_power',
-			11 => 'post_content',
-			12 => 'file',
-			13 => 'iworks_fleet_serie',
-			14 => 'iworks_fleet_result_location',
-			15 => 'country',
+			3  => 'iworks_fleet_result_english',
+			4  => 'iworks_fleet_result_number_of_races',
+			5  => 'iworks_fleet_result_number_of_competitors',
+			6  => 'city',
+			7  => 'iworks_fleet_result_organizer',
+			8  => 'iworks_fleet_result_secretary',
+			9  => 'iworks_fleet_result_arbiter',
+			10 => 'iworks_fleet_result_wind_direction',
+			11 => 'iworks_fleet_result_wind_power',
+			12 => 'post_content',
+			13 => 'file',
+			14 => 'iworks_fleet_serie',
+			15 => 'iworks_fleet_result_location',
+			16 => 'country',
 		);
 		foreach ( $fields as $index => $key ) {
 			$value = '';
@@ -632,9 +623,15 @@ if ( $import_results && ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false 
 				}
 			}
 			remove_filter( 'iworks_fleet_result_skip_year_in_title', '__return_true' );
-        }
+		}
 		$post_array = array(
-			'post_name'   => sanitize_title( sprintf( '%s-%s', date( 'Y-m', $iworks_fleet_result_date_start ), $post_title ) ),
+			'post_name'   => sanitize_title(
+				sprintf(
+					'%s-%s',
+					date( 'Y-m', $iworks_fleet_result_date_start ),
+					empty( $iworks_fleet_result_english ) ? $post_title : $iworks_fleet_result_english
+				)
+			),
 			'post_type'   => $result_post_type_name,
 			'post_status' => 'publish',
 			'meta_input'  => array(),
