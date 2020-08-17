@@ -1,33 +1,4 @@
 Nation,Name,Club,Description,Birth Date,email\
-GBR,John Howlett
-GBR,Keith Norris
-USA,Alexander Tong
-USA,Zachary Marks
-CAN,Leszek Nowosielski
-USA,Chris Watson
-CAN,Paul Clifford
-IRL,Dion Barrett
-FRA,Frederic Veroul
-GER,Christian Schuster
-FRA,Stephane Pedron
-GER,Karl-Heinz Hilgers
-FRA,Franck Tudal
-FRA,Herve Druart-Pariat
-GER,Cord-Henrich Lefhalm
-DEN,Rasmus Fredsted
-DEN,Thomas Hartvig
-FRA,Eric Petit
-DEN,Klaus Natorp
-SUI,Dominik Haitz
-SUI,Luc Schultheiss
-GER,Christoph Hessel
-GER,Göran Berggren
-GBR,Ian Pavey
-GBR,Stuart Ashton
-GBR,Dave Poston
-GBR,Mike Hart
-GBR,Michael Sims
-GBR,Ann Lane
 AUS,A. Martin,,,,
 AUS,Adam Brenz-Verca,,,,
 AUS,Adam Wyatt,,,,
@@ -304,6 +275,7 @@ CAN,Julian Pearson,,,,
 CAN,Karl Oswald,,,,
 CAN,Kevin Shulz,,,,
 CAN,Kyber Lovshin,,,,
+CAN,Leszek Nowosielski
 CAN,Malcolm McHattie,,,,
 CAN,Marek Baliński,,,,
 CAN,Margaret Hurley,,,,
@@ -314,6 +286,7 @@ CAN,Michael Hoffman,,,,
 CAN,Michael Wonnacott,,,,
 CAN,Nicolas Tosi,,,,
 CAN,Norman Saint-Cyr,,,,
+CAN,Paul Clifford
 CAN,Paul Place,,,,
 CAN,Penny Eastabrooke,,,,
 CAN,Per Jacobsen,,,,
@@ -364,6 +337,7 @@ DEN,Jon Andersen,,,,
 DEN,Jörg Hansen,,,,
 DEN,Jørgen Schönherr,,,,
 DEN,Ketil Johansen,,,,
+DEN,Klaus Natorp
 DEN,Kristoffer Møllevang,,,,
 DEN,Lars Espersen,,,,
 DEN,Lars Henrik Andersen,,,,
@@ -384,8 +358,10 @@ DEN,Peter Moller,,,,
 DEN,Pierre Poullain,,,,
 DEN,Poul Strange,,,,
 DEN,Rasmus Andersen,,,,
+DEN,Rasmus Fredsted
 DEN,Søren Asboe Jørgensen,,,,
 DEN,Soren Storm,,,,
+DEN,Thomas Hartvig
 DEN,Tom Bøjland,Kongelig Dansk Yachtklub,Currently A-class & Formula 18,,
 FIN,Aarne Kuusi,,,,
 FIN,Ari Dillemuth,,,,
@@ -485,6 +461,7 @@ FRA,Emmanuel Mouclier,,,,
 FRA,Eric Basset,,,,
 FRA,Eric Brun
 FRA,Eric Le Morvan,,,,
+FRA,Eric Petit
 FRA,Eric Quémard,,,,
 FRA,Eric Valery,,,,
 FRA,Erik Nigon,,,,
@@ -497,6 +474,7 @@ FRA,Florian Corbel,,,,
 FRA,Florian Fort,,,,
 FRA,Franck Agrapart,,,,
 FRA,Franck Tudal
+FRA,Franck Tudal
 FRA,Francois Caminade,,,,
 FRA,Francois De Lisle,,,,
 FRA,François de Lisle,,,,
@@ -504,6 +482,7 @@ FRA,Francois Fischer
 FRA,Francois Lafortune,,,,
 FRA,Frédéric Monnier,,,,
 FRA,Frederic Roucayrol,,,,
+FRA,Frederic Veroul
 FRA,Gabin Micoulot,,,,
 FRA,Gerard Tilly,,,,
 FRA,Geraud Lafortune,,,,
@@ -520,6 +499,7 @@ FRA,Guillaume Regnier,,,,
 FRA,Guillaume Thery,,,,
 FRA,Henry Chevet,,,,
 FRA,Herve Brillaud,,,,
+FRA,Herve Druart-Pariat
 FRA,Herve Wattine,,,,
 FRA,Hugues Morane,,,,
 FRA,Ivan Doerenbecher,,,,
@@ -651,6 +631,7 @@ FRA,Sebastien Rauly,,,,
 FRA,Serge Gubri,,,,
 FRA,Simon Chartier,,,,
 FRA,Stephane Maisse,,,,
+FRA,Stephane Pedron
 FRA,Tamara Ritvo,,,,
 FRA,Theo Dutrieux,,,,
 FRA,Thibault Di Pede,,,,
@@ -701,6 +682,7 @@ GBR,Andy Parkinson,,,,
 GBR,Andy Phillips,,,,
 GBR,Andy Tyas,,,,
 GBR,Andy Williams,,,,
+GBR,Ann Lane
 GBR,Arthur George,,,,
 GBR,Ben Farren-Price,,,,
 GBR,Ben Greenfield,,,,
@@ -736,6 +718,7 @@ GBR,Daniel Samanjoul,,,,
 GBR,Darrel Samanjoul,,,,
 GBR,Dave Chalkley,,,,
 GBR,Dave Hughes,,,,
+GBR,Dave Poston
 GBR,David Barnes,,,,
 GBR,David Bell,,,,
 GBR,David Clark,,,,
@@ -750,6 +733,7 @@ GBR,David Treloar,,,,
 GBR,David Williams,,,,
 GBR,Dennis Cartwright,,,,
 GBR,Dennis Hyatt,,,,
+GBR,Dick Rowe
 GBR,Donald Aitken,,,,
 GBR,Donald Sloan,,,,
 GBR,Dougal Cram,,,,
@@ -760,9 +744,9 @@ GBR,Fra Rainsborough,,,,
 GBR,Frank Rainsborough,,,,
 GBR,Gary Cawthorne,,,,
 GBR,Gary Fowler,,,,
-GBR,Geof Lane,,,,
 GBR,Geoff Edwards,,,,
 GBR,Geoff Kimber,,,,
+GBR,Geoff Lane,,,
 GBR,Gordon McGeorge,,,,
 GBR,Gordon Russell,,,,
 GBR,Gordon Russen,,,,
@@ -779,6 +763,7 @@ GBR,Ian McGillivray,,,,
 GBR,Ian Merryfield,,,,
 GBR,Ian Mitchell,,,,
 GBR,Ian Nicholson,,,,
+GBR,Ian Pavey
 GBR,Ian Pinnell,,,,
 GBR,Ian Stowe,,,,
 GBR,Ian Swainston,,,,
@@ -791,11 +776,13 @@ GBR,Jarrod Simpson,,,,
 GBR,Jason Lunn,,,,
 GBR,Jeff Powell,,,,
 GBR,Jeremy White,,,,
+GBR,Jim Bennett
 GBR,Jim Berry,,,,
 GBR,Jim Fergusson,,,,
 GBR,Jim Hunt,,,,
 GBR,John Donnelly
 GBR,John Driscoll,,,,
+GBR,John Howlett
 GBR,John Ironmonger,,,,
 GBR,John Labbett,,,,
 GBR,John Loveday,,,,
@@ -805,6 +792,7 @@ GBR,Jonathan Carter,,,,
 GBR,Jonathan Rennie,,,,
 GBR,Jonathan Ward,,,,
 GBR,Jude Beamers,,,,
+GBR,Keith Norris
 GBR,Keith Paul,,,,
 GBR,Ken Norris,,,,
 GBR,Kenny Robertson,,,,
@@ -840,7 +828,9 @@ GBR,Melvyn Newman,,,,
 GBR,Michael Lawton,,,,
 GBR,Michael Nolan,,,,
 GBR,Michael Priddle,,,,
+GBR,Michael Sims
 GBR,Mike Derry,,,,
+GBR,Mike Hart
 GBR,Mike Hattemore,,,,
 GBR,Mike Henry,,,,
 GBR,Mike Holmes,,,,
@@ -861,9 +851,11 @@ GBR,Nicholas Powell,,,,
 GBR,Nick Beloe,,,,
 GBR,Nick Powell,,,,
 GBR,Nick Thorp,,,,
+GBR,Nick Willis
 GBR,Nigel Appleton,,,,
 GBR,Nigel Brackenbury,,,,
 GBR,Nigel Deane,,,,
+GBR,Nigel James
 GBR,Nigel Treloar,,,,
 GBR,Nigel Vooght,,,,
 GBR,Ollie Boyes,,,,
@@ -915,6 +907,7 @@ GBR,Simon Briddon,,,,
 GBR,Simon Dabson,,,,
 GBR,Simon Hiscook,,,,
 GBR,Simon Hiscooks,,,,
+GBR,Simon Johnson
 GBR,Simon Lake,,,,
 GBR,Simon Lake J.,,,,
 GBR,Simon Spratt,,,,
@@ -926,6 +919,7 @@ GBR,Steve Hunt,,,,
 GBR,Steve Perkins,,,,
 GBR,Steve Watson,,,,
 GBR,Stewart Mears,,,,
+GBR,Stuart Ashton
 GBR,Stuart Curtis,,,,
 GBR,Suzanne Mcdermott,,,,
 GBR,Terry Lawton,,,,
@@ -942,6 +936,7 @@ GBR,Tom Clayton,,,,
 GBR,Tom Darling,,,,
 GBR,Tom Philips,,,,
 GBR,Tom Stivano,,,,
+GBR,Tom Wain
 GBR,Tom Ward,,,,
 GBR,Tony Power,,,,
 GBR,Tyler Harmsworth,,,,
@@ -980,9 +975,11 @@ GER,Anna Hauschild,,,,
 GER,Anna Heinisch,,,,
 GER,Anna Lang,,,,
 GER,Anne Nehrenberg,,,,
+GER,Annette Thiel
 GER,Antje Gosch,,,,
 GER,Antje Paulsen,,,,
 GER,Antje Schneidewind,,,,
+GER,Arnd Howar
 GER,Arne Wittemer,,,,
 GER,Aron Tellen,,,,
 GER,Axel Dierich,,,,
@@ -1015,15 +1012,18 @@ GER,Christian Müllejans,,,,
 GER,Christian Niefert,,,,
 GER,Christian Schäfer,,,,
 GER,Christian Schönbach,,,,
+GER,Christian Schuster
 GER,Christian Sonntag,,,,
 GER,Christiane Giefers,,,,
 GER,Christina Burger,,,,
 GER,Christina Höll,,,,
 GER,Christina Wilhelm,,,,
 GER,Christoph Bökle,,,,
+GER,Christoph Hessel
 GER,Christoph Klein,,,,
 GER,Claas Lehmann,,,,
 GER,Claudius Zeiler,,,,
+GER,Cord-Henrich Lefhalm
 GER,Daniel Czeninga,,,,
 GER,Daniel Wehden,,,,
 GER,David Thiemann,,,,
@@ -1050,6 +1050,7 @@ GER,Felix Björn Brockerhoff,,,,
 GER,Felix Graff,,,,
 GER,Felix Heibeck,,,,
 GER,Felix Hummel,,,,
+GER,Felix Ismar
 GER,Felix Klöpfer,,,,
 GER,Felix Mittermayer,,,,
 GER,Finn Böger,,,,
@@ -1077,6 +1078,7 @@ GER,Gerald Roos,,,,
 GER,Gerd Linnemann
 GER,Gerhard Schmidt,,,,
 GER,Gesche Kohlberg,,,,
+GER,Göran Berggren
 GER,Gordon Russell,,,,
 GER,Guido von Walter,,,,
 GER,Günter Bökle,,,,
@@ -1126,8 +1128,8 @@ GER,Jens Lücke,,,,
 GER,Jens Olbrysch,,,,
 GER,Jens Steinborn,,,,
 GER,Jens Weishaupt
+GER,Jens Wilke
 GER,Jochen Heydolph,,,,
-GER,Jörgen Thumann,,,
 GER,Johan Backsin,,,,
 GER,Johannes Ganzer,,,,
 GER,Johannes Kindermann,,,,
@@ -1138,6 +1140,7 @@ GER,Jörg Gosche,,,,
 GER,Jörg Häger,,,,
 GER,Jörg Thumann,,,,
 GER,Jörgen Holm,,,,
+GER,Jörgen Thumann,,,
 GER,Jörn Alberts,,,,
 GER,Jörn Wille,,,,
 GER,Joseph Schütte,,,,
@@ -1151,8 +1154,10 @@ GER,Jürgen Feuerhake,,,,
 GER,Jürgen Joseph,,,,
 GER,Justus Rauno,,,,
 GER,Kai Bertallot,,,,
+GER,Kai Löblein
 GER,Kai Mares,,,,
 GER,Kai-Uwe Weiß,,,,
+GER,Karl-Heinz Hilgers
 GER,Karsten Contag,,,,
 GER,Karsten Lahrs,,,,
 GER,Karsten Stümpel,,,,
@@ -1164,6 +1169,7 @@ GER,Kilian Northoff,,,,
 GER,Kirsten Roos,,,,
 GER,Klaus Brinkbäumer,,,,
 GER,Klaus Heeschen,,,,
+GER,Klaus Riedl
 GER,Klaus Stammerjohann,,,,
 GER,Konrad Barop,,,,
 GER,Kristine Förster,,,,
@@ -1171,6 +1177,7 @@ GER,Kristine König,,,,
 GER,Lars Lankenau,,,,
 GER,Lars Metzner,,,,
 GER,Lars Stöckmann,,,,
+GER,Lars Thiel
 GER,Lena Stückl,,,,
 GER,Lennart Tasche,,,,
 GER,Leon Oehme,,,,
@@ -1211,6 +1218,7 @@ GER,Mathias Haase,,,,
 GER,Mathias Jetschke
 GER,Matthias Bruhl,,,,
 GER,Matthias Brühl
+GER,Matthias Brühl
 GER,Matthias Brühl,,,,
 GER,Matthias Dachs,,,,
 GER,Matthias Fedde,,,,
@@ -1246,12 +1254,14 @@ GER,Nicola Birkner,,,,
 GER,Nicolai Völckner,,,,
 GER,Nils-Henning Hofmann,,,,
 GER,Norbert Becker,,,,
+GER,Olaf Oberländer
 GER,Ole Raschdorf,,,,
 GER,Oliver Kraft
 GER,Oliver Paulzen
 GER,Oliver Schürmann,,,,
 GER,Oliver Stieglitz,,,,
 GER,Oliver Thies,,,,
+GER,Oliver Ziems
 GER,Olivier Koch,,,,
 GER,Olivier Kraft,,,,
 GER,Olivier Ziems
@@ -1285,6 +1295,7 @@ GER,Robert Hanke,,,,
 GER,Robert Steinke,,,,
 GER,Robert Wisolek,,,,
 GER,Roger Bussenius,,,,
+GER,Roland Wiedemann
 GER,Rolf Bertenrath,,,,
 GER,Rolf Meyer,,,,
 GER,Sascha Spors,,,,
@@ -1364,12 +1375,14 @@ GER,Wiebke Gewinn,,,,
 GER,Wiebke Siemsen,,,,
 GER,Wilhelm Wollenbecker,,,,
 GER,Wolfdietrich Pfeiffer,,,,
+GER,Wolfgang Bogacki
 GER,Wolfgang Hiltscher,,,,
 GER,Wolfgang Seifert,,,,
 HKG,Eric Lockeyear,,,,
 HKG,Neil Pryde,,,,
 IRL,Brendan Dwyer,,,,
 IRL,Denis O'Sullivan,,,,
+IRL,Dion Barrett
 IRL,John Bourke,,,,
 IRL,John Dunlea,,https://www.youtube.com/channel/UCTOXVv_53aQqzpktecluPAg,,
 IRL,John O'Gorman,,,,
@@ -1683,9 +1696,12 @@ RSA,Tony Murray,,,,tonmur@mweb.co.za
 RSA,Warren von Buddenbrack,,,,
 RSA,Warwick Ham,PSC,,,woham@netactive.co.za
 RSA,Wouter Langhout,,,,
+SUI,Adrian Iten
+SUI,Alain Brasey
 SUI,Ammann Walter,,,,
 SUI,Andreas Kindlimann,,,,
 SUI,Beat Waser,,,,
+SUI,Dominik Haitz
 SUI,Florian Stauffer,,,,
 SUI,Giles Donzé,,,,
 SUI,Gilles Petermann,,,,
@@ -1697,7 +1713,9 @@ SUI,Jürg Weber,,,,
 SUI,Laurent Grob,,,,
 SUI,Lionel Hollinger,,,,
 SUI,Lorenz Nydegger,,,,
+SUI,Luc Schultheiss
 SUI,Marcell Plüss,,,,
+SUI,Markus Gericke
 SUI,Markus Heilig,,,,
 SUI,Martin Nydegger,,,,
 SUI,Matthias Märki,,,,
@@ -1708,6 +1726,7 @@ SUI,Phillip Grob,,,,
 SUI,Phillipe Jacot,,,,
 SUI,Res Schürch,,,,
 SUI,Sacha Wirth,,,,
+SUI,Stephan Burri
 SUI,Toni Utiger,,,,
 SUI,Valéry Jacot,,,,
 SUI,Yves Reinacher,,,,
@@ -1854,6 +1873,7 @@ USA,Alan Freedman,,,,
 USA,Alan Norman,,,,
 USA,Alex Simanis,,,,
 USA,"Alexander ""Ali"" Meller",,,,
+USA,Alexander Tong
 USA,Alexandre Laussu,,,,
 USA,Alexia Fischer,,,,
 USA,Allan Johnson,,,,
@@ -1915,6 +1935,7 @@ USA,Chris Burd,,,,
 USA,Chris Freye,,,,
 USA,Chris Gorton,,,,
 USA,Chris Tuggle,,,,
+USA,Chris Watson
 USA,Chris Woods,,,,
 USA,Chris Yindra,,,,
 USA,Christian Antoni,,,,
@@ -2146,6 +2167,7 @@ USA,Stephen Bourdow,,,,
 USA,Stephen Owens,,,,
 USA,Sterling Spruill,,,,
 USA,Steve Anderes,,,,
+USA,Steve Eller
 USA,Steve Flam,,,,
 USA,Steve Kleha,,,,
 USA,Steve Rosenberg,,,,
@@ -2174,6 +2196,7 @@ USA,Tony DeVita,,,,
 USA,Tucker Edmundson,,,,
 USA,Tyler Moore,,,,
 USA,W Allen Kilgore,,,,
+USA,W. Mason
 USA,Whit Duncan,,,,
 USA,Will Hundahl,,,,
 USA,Will Lowe,,,,
@@ -2181,6 +2204,7 @@ USA,William Pevear,,,,
 USA,Witold Gesing,,,,
 USA,Wolf Chamberlain,,,,
 USA,Xavier deTappe,,,,
+USA,Zachary Marks
 USA,Zhenya Kirushkin-Stepanoff,,,,
 ZIM,David Horsfall,,,,
 ZIM,Patrick McCosh,,,,
