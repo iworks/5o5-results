@@ -141,55 +141,54 @@ function add_organization( $raw, $person, $date_from = '', $order = false ) {
 	);
 }
 
-
-
 function check_is_person( $data ) {
-	if ( 7 > strlen( $data ) ) {
-		if ( show_debug() ) {
-			echo PHP_EOL,'short: ',$data,PHP_EOL;
-		}
-		return false;
-	}
-	if ( ! preg_match( '/ /', $data ) ) {
-		if ( show_debug() ) {
-			echo PHP_EOL,'no-space: ',$data,PHP_EOL;
-		}
-		return false;
-	}
+    if ( 7 > strlen( $data ) ) {
+        if ( show_debug() ) {
+            echo PHP_EOL,'short: ',$data,PHP_EOL;
+        }
+        return false;
+    }
+    if ( ! preg_match( '/ /', $data ) ) {
+        if ( show_debug() ) {
+            echo PHP_EOL,'no-space: ',$data,PHP_EOL;
+        }
+        return false;
+    }
     switch ( $data ) {
-        case 'Schwaebisch Hall':
-		case 'Moss-Lovshin family':
-		case 'Alexandria Wooden Boat Society':
-		case 'Avocado Sail Training Association':
-		case 'Burnham-Sharpe Co':
-		case 'Burnham-Sharpe Co.':
-		case 'Eklund Brothers':
-		case 'Elkington Brothers':
-		case 'Grosheny brothers':
-		case 'Indiana University':
-		case 'Indiana University Yacht Club':
-		case 'Krywood Composites':
-		case 'Larchmont Yacht Club':
-		case 'Orange Coast College':
-		case 'Pegasus Racing':
-		case 'Pettipaug Jr. Sailing Academy':
-		case 'Sailing club in Washington State':
-		case 'Sawanaka Corinthian Yacht Club':
-		case 'School in Queen Anne':
-		case 'some New England sailing academy':
-		case 'some New England sailing academy.':
-		case 'St. George\'s School Sailing Club':
-		case 'St. Johns Jr. College':
-		case 'St. Vincents Gulf 505 Association':
-		case 'Team Pegasus':
-		case 'US Coastguard Academy':
-		case 'Wansborough family':
-		case 'Web Institute':
-		case 'Redwood City':
-		case 'German Class Assn':
-			return false;
-	}
-	return true;
+    case 'Alexandria Wooden Boat Society':
+    case 'Avocado Sail Training Association':
+    case 'Burnham-Sharpe Co':
+    case 'Burnham-Sharpe Co.':
+    case 'Eklund Brothers':
+    case 'Elkington Brothers':
+    case 'German Class Assn':
+    case 'Grosheny brothers':
+    case 'Indiana University':
+    case 'Indiana University Yacht Club':
+    case 'Krywood Composites':
+    case 'Larchmont Yacht Club':
+    case 'Moss-Lovshin family':
+    case 'Orange Coast College':
+    case 'Pegasus Racing':
+    case 'Pettipaug Jr. Sailing Academy':
+    case 'Redwood City':
+    case 'Sailing club in Washington State':
+    case 'Sawanaka Corinthian Yacht Club':
+    case 'School in Queen Anne':
+    case 'Schwaebisch Hall':
+    case 'some New England sailing academy':
+    case 'some New England sailing academy.':
+    case 'St. George\'s School Sailing Club':
+    case 'St. Johns Jr. College':
+    case 'St. Vincents Gulf 505 Association':
+    case 'Team Eskimo':
+    case 'Team Pegasus':
+    case 'US Coastguard Academy':
+    case 'Wansborough family':
+    case 'Web Institute':
+        return false;
+    }
+    return true;
 }
 
 function handle_serie_taxonomy( $serie, &$series, &$post_array, $parent = 0 ) {
