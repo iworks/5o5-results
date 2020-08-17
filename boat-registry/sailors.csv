@@ -1,4 +1,22 @@
 Nation,Name,Club,Description,Birth Date,email\
+CAN,Ian Eskritt
+CAN,Kevin Schultz
+USA,Pete Spaulding
+DEN,Ole Høyer
+USA,Josh Lieberman
+USA,Chris Tackas
+FRA,Philippe Claraz
+FRA,Pascal Jullian
+GER,Ursula Tetzlaff
+FRA,Dominique Keraudrenv
+GER,Till Supan
+GER,Gregor Dahlem
+FRA,Pierre-Yves Partant
+FRA,Laurent Camusson
+FRA,Carole Blattner
+FRA,Jean Ja Veroul
+GER,Frank Weigelt
+FRA,Eric Defroimont
 AUS,A. Martin,,,,
 AUS,Adam Brenz-Verca,,,,
 AUS,Adam Wyatt,,,,
@@ -229,9 +247,12 @@ BEL,Alain Mineur,,,,
 BEL,Bas Van Assche,,,,
 BEL,Casper Martens,,,,
 BEL,Cédric Crets,,,,
+BEL,Emiel Van Hemeldonck
+BEL,Eric Defroimont
 BEL,Fabienne Boucau,,,,
 BEL,Frédéric Decocq,,,,
 BEL,Geert De Pauw,,,,
+BEL,Jan Van Hemeldonck
 BEL,Jeroen Smeets,,,,
 BEL,Kim Van Assche,,,,
 BEL,Koen Willems
@@ -326,7 +347,7 @@ DEN,Helge Rasmussen,,,,
 DEN,Jacob Ernst,,,,
 DEN,Jakob Karbo,,,,
 DEN,Jakob Thomasen,,,,
-DEN,Jan Möller,,,,
+DEN,Jan Møller
 DEN,Jan Saugmann,,,,
 DEN,Jesper Bülow,,,,
 DEN,Jesper Ernst,,,,
@@ -387,6 +408,7 @@ FIN,Miika Perden,,,,
 FIN,Mikael Maksimow,,,,
 FIN,Mikael Nylund,,,,
 FIN,Mikko Laine,,,,
+FIN,Robin Gustafsson
 FIN,Rosemarie Hartman,,,,
 FIN,Tapani Elovirta,,,,
 FIN,Teemu Heljo,,,,
@@ -412,6 +434,7 @@ FRA,Anna Marie de Kergariou,,,,
 FRA,Antoine De Nijs,,,,
 FRA,Antoine Delagrange,,,,
 FRA,Antoine Lafortune,,,,
+FRA,Antoine Rimbert
 FRA,Antoine Victor,,,,
 FRA,Antonin Robe,,,,
 FRA,Aristide Gasquet,,,,
@@ -440,6 +463,7 @@ FRA,Bruno Vaniekaut,,,,
 FRA,Cedric Faucheux,,,,
 FRA,Celine Chevet,,,,
 FRA,Charles de Kergariou,,,,
+FRA,Charles Maire
 FRA,Chartier Thomas,,,,
 FRA,Chloe Lafortune,,,,
 FRA,Christian Silvestre,,,,
@@ -447,11 +471,13 @@ FRA,Christian Simonnot,,,,
 FRA,Christian Vallaud,,,,
 FRA,Christophe Bochu,,,,
 FRA,Ciret-Lecosquer Madeg,,,,
+FRA,Clair Carvallo
 FRA,Claire Carvallo,,,,
 FRA,Clement Card,,,,
 FRA,D Doufier,,,,
 FRA,Damien Trouillet,,,,
 FRA,Damien Zucconi,,,,
+FRA,Daniel Wagner
 FRA,David De Monteil,,,,
 FRA,Derek Farrant,,,,
 FRA,Dominique Rouanne,,,,
@@ -460,6 +486,7 @@ FRA,Elisabeth Neidhart,,,,
 FRA,Emmanuel Mouclier,,,,
 FRA,Eric Basset,,,,
 FRA,Eric Brun
+FRA,Eric Cuny
 FRA,Eric Le Morvan,,,,
 FRA,Eric Petit
 FRA,Eric Quémard,,,,
@@ -476,14 +503,18 @@ FRA,Franck Agrapart,,,,
 FRA,Franck Tudal
 FRA,Franck Tudal
 FRA,Francois Caminade,,,,
+FRA,Francois Cuny
 FRA,Francois De Lisle,,,,
 FRA,François de Lisle,,,,
 FRA,Francois Fischer
 FRA,Francois Lafortune,,,,
+FRA,Frede Roucayrol
+FRA,Frederic Dalle
 FRA,Frédéric Monnier,,,,
 FRA,Frederic Roucayrol,,,,
 FRA,Frederic Veroul
 FRA,Gabin Micoulot,,,,
+FRA,Gautier Destombes
 FRA,Gerard Tilly,,,,
 FRA,Geraud Lafortune,,,,
 FRA,Ghislain De Lafforest,,,,
@@ -491,23 +522,28 @@ FRA,Gilbert Vinches
 FRA,Gilles Bernon,,,,
 FRA,Gilles Carvallo,,,,
 FRA,Gilles Chapelin,,,,
+FRA,Gilles Lasnier
 FRA,Goff Le Maxime
+FRA,Guillaume Brossillon
 FRA,Guillaume de Kergariou,,,,
 FRA,Guillaume Faugier,,,,
 FRA,Guillaume Got,,,,
 FRA,Guillaume Regnier,,,,
 FRA,Guillaume Thery,,,,
 FRA,Henry Chevet,,,,
+FRA,Her Lecharpentier
 FRA,Herve Brillaud,,,,
 FRA,Herve Druart-Pariat
 FRA,Herve Wattine,,,,
 FRA,Hugues Morane,,,,
 FRA,Ivan Doerenbecher,,,,
+FRA,Jacob Antoine Lortat
 FRA,Jacques Bochu,,,,
 FRA,Jacques Raguet,,,,
 FRA,Jean Blache,,,,
 FRA,Jean Charles Zimmowitch,,,,
 FRA,Jean Claude Ancelot,,,,
+FRA,Jean Ja Veroul
 FRA,Jean Philippe Ducros,,,,
 FRA,Jean Philippe Hermieu,,,,
 FRA,Jean Pierre Noclain,,,,
@@ -528,6 +564,7 @@ FRA,Jean-Pierre Peter,,,,
 FRA,Jeremie Brau,,,,
 FRA,Jerom Delvaux
 FRA,Jerome Legeai,,,,
+FRA,Jerome Terrasson
 FRA,Jerome Zimmowitch,,,,
 FRA,Jordane Lafortune,,,,
 FRA,Jules Ducelier,,,,
@@ -536,10 +573,13 @@ FRA,Julien Lovadina,,,,
 FRA,July-Wormit Mareva,,,,
 FRA,Killian Zimmowitch,,,,
 FRA,Kleber Valery,,,,
+FRA,L Porcher
 FRA,Lancelot Lippi,,,,
+FRA,Laure Dalle
 FRA,Lauren Camusson,,,,
 FRA,Laurent Duquesne,,,,
 FRA,Laurent Hay
+FRA,Laurent Lasnier
 FRA,Laurent Michel,,,,
 FRA,Lawrence Banahan,,,,
 FRA,Loic Bleuez,,,,
@@ -567,11 +607,13 @@ FRA,Michel Christ
 FRA,Michel Christ
 FRA,Michel Laugerotte,,,,
 FRA,Michel Nedelec,,,,
+FRA,Michel Rimbert
 FRA,Morgane Suquart,,,,
 FRA,Muriel Agrapart,,,,
 FRA,Muriel Jeanne,,,,
 FRA,Nicholas Loday,,,,
 FRA,Nicolas Auberger,,,,
+FRA,Nicolas Cendron
 FRA,Nicolas Croce,,,,
 FRA,Nicolas Fedorenko,,,,
 FRA,Nicolas Guillou,,,,
@@ -580,6 +622,8 @@ FRA,Nicolas Martin,,,,
 FRA,Nicolas Michel,,,,
 FRA,Nicolas Picquerey,,,,
 FRA,Olivier Magret,,,,
+FRA,Olivier Thiberge
+FRA,P Chervet
 FRA,P Harinkcouck,,,,
 FRA,Pascal Coquelet,,,,
 FRA,Patrice Hue,,,,
@@ -589,6 +633,7 @@ FRA,Paul Cousin,,,,
 FRA,Paul Roche,,,,
 FRA,Philip Toth,,,,
 FRA,Philippe Boite,,,,
+FRA,Philippe Chantraine
 FRA,Philippe Claude
 FRA,Philippe Claude
 FRA,Philippe Dubuc,,,,
@@ -599,10 +644,13 @@ FRA,Philippe Markt,,,,
 FRA,Philippe Noclain,,,,
 FRA,Philippe Wolff,,,,
 FRA,Phillipe Lanaverre,,,,
+FRA,Phillipe le Norment
 FRA,Phillipe Lenorment,,,,
 FRA,Pierre Bessias,,,,
+FRA,Pierre Bories
 FRA,Pierre Chene Yves,,,,
 FRA,Pierre de Kergariou,,,,
+FRA,Pierre Ducos
 FRA,Pierre Gendry,,,,
 FRA,Pierre Gorremans,,,,
 FRA,Pierre Guibbal,,,,
@@ -630,6 +678,7 @@ FRA,Sebastien Le Bouteiller,,,,
 FRA,Sebastien Rauly,,,,
 FRA,Serge Gubri,,,,
 FRA,Simon Chartier,,,,
+FRA,Stephane Boudier
 FRA,Stephane Maisse,,,,
 FRA,Stephane Pedron
 FRA,Tamara Ritvo,,,,
@@ -647,11 +696,16 @@ FRA,Valentin Guerin,,,,
 FRA,Valleteau de Moulliac,,,,
 FRA,Veronique Brenet,,,,
 FRA,Vincent Le Morvan,,,,
+FRA,Vincent Sorel
 FRA,Vivien Lucienne,,,,
 FRA,Wenceslas Dieuzy,,,,
+FRA,Will Froux
 FRA,Wojciech Butkiewicz,,,,
 FRA,Xavier Broise,,,,
+FRA,Xavier Brotschi
 FRA,Xavier Tilly,,,,
+FRA,Yann Brotschi
+FRA,Yann le Hegarat
 FRA,Yann Plathier,,,,
 FRA,Yoann Lapijover,,,,
 FRA,Yves Coltier,,,,
@@ -1216,9 +1270,6 @@ GER,Martin Seikel,,,,
 GER,Marvin Schlesiger,,,,
 GER,Mathias Haase,,,,
 GER,Mathias Jetschke
-GER,Matthias Bruhl,,,,
-GER,Matthias Brühl
-GER,Matthias Brühl
 GER,Matthias Brühl,,,,
 GER,Matthias Dachs,,,,
 GER,Matthias Fedde,,,,
@@ -1230,7 +1281,7 @@ GER,Melanie Oestergaard,,,,
 GER,Michael Eller,,,,
 GER,Michael Freitag,,,,
 GER,Michael Heyder,,,,
-GER,Michael Kluegel
+GER,Michael Klügel
 GER,Michael Köritz,,,,
 GER,Michael Krause,,,,
 GER,Michael Müller,,,,
@@ -1661,6 +1712,7 @@ RSA,Matthew McRystal,,,,
 RSA,Michael Giles,,,,michaelgiles@compuserve.com
 RSA,Mike Doveton,,,,mikedoveton@yebo.co.za
 RSA,Mike Klostermann,,,,mklostermann@pangbourne.co.za
+RSA,Mike Price
 RSA,Nigel Milln,KZN,,,nigel@saol.com
 RSA,Patrick McCosh,,,,mccosh@africaonline.co.zw
 RSA,Peter Funke,,,,
@@ -1694,6 +1746,7 @@ RSA,Tony Allison,,,,
 RSA,Tony Baker,Victoria Lake Club,,,tonyb@netactive.co.za
 RSA,Tony Murray,,,,tonmur@mweb.co.za
 RSA,Warren von Buddenbrack,,,,
+RSA,Warren von Budenbrock
 RSA,Warwick Ham,PSC,,,woham@netactive.co.za
 RSA,Wouter Langhout,,,,
 SUI,Adrian Iten
@@ -1714,6 +1767,7 @@ SUI,Laurent Grob,,,,
 SUI,Lionel Hollinger,,,,
 SUI,Lorenz Nydegger,,,,
 SUI,Luc Schultheiss
+SUI,Ma Froidevaux
 SUI,Marcell Plüss,,,,
 SUI,Markus Gericke
 SUI,Markus Heilig,,,,
@@ -2132,6 +2186,7 @@ USA,Paul Allen,,,,
 USA,Paul Andron,,,,
 USA,Paul Muus,,,,
 USA,Paul Von,,,,
+USA,Pete Melvin
 USA,Peter Alarie,,,,
 USA,Phil Ryan,,,,
 USA,Phil Termin,,,,
