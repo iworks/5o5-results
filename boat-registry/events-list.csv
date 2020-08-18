@@ -41,7 +41,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 1987-07-12,1987-07-20,World Championship,,5,74,"Helsinki, FIN",Helsingfors Segelklubb,,,,,,1987/world/1987-07-20.world-championship.helsinki.FIN.csv,World,,FIN
 1988-02-08,1988-02-17,World Championship,,4,90,"Sydney, AUS",Middle Harbour Yacht Club,,,,,,1988/world/1988-02-17.world-championship.sydney.AUS.csv,World,,AUS
 1989-01-01,1989-01-01,World Championship,,6,90,"Felixstowe, GBR",Felixstowe Ferry,,,,,,1989/world/1989.world-championship.felixstowe.GBR.csv,World,,GBR
-1990-01-01,1990-01-01,World Championship,,6,76,"Kingston,ON,CAN",Portsmouth Olympic Harbour,,,,,,1990/world/1990.world-championship.kingston.CAN.csv,World,,CAN
+1990-01-01,1990-01-01,World Championship,,6,76,"Kingston,ON",Portsmouth Olympic Harbour,,,,,,1990/world/1990.world-championship.kingston.CAN.csv,World,,CAN
 1991-08-01,1991-08-08,World Championship,,6,83,"Marstrand, SWE",Göteborgs Kungliga Segel Sällskap,,,,,,1991/world/1991-08-08.world-championship.marstrand.SWE.csv,World,,SWE
 1992-06-10,1992-06-18,European Championship,,5,44,Hellerup,Hellerup Sejlklub,,,,,,1992/continental/1992-06-18.european-championship.hellerup.DEN.csv,"Continental,Europe",,DEN
 1992-08-08,1992-08-20,World Championship,,6,85,"Santa Cruz,USA",,,,,,,1992/worlds/1992-08-20.world-championship.santa-cruz.USA.csv,World,,USA
@@ -54,7 +54,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 1995-05-13,1995-05-14,Regatta,,7,7,"Columbus, Ohio",Hoover Yacht Club,,,,,,1995/country/usa/1995-05-14.regatta.columbus-ohio.USA.csv,,,USA
 1995-07-01,1995-07-02,Eastern Canadian Championship,,,12,"Shipshaw, Quebec",Saguenay Sailing Club,,,,,,1995/country/canada/1995-07-02.eastern-canadian-championship.shipshaw-quebec.CAN.csv,,,CAN
 1995-07-10,1995-07-12,Canadian Championship,,7,22,"Vancouver,BC",Kitsilano Yacht Club,,,,,,1995/country/canada/1995-07-12.canadian-championship.vancouver.CAN.csv,National,,CAN
-1995-07-27,1995-08-04,North American Championship,,6,26,"Kingston,ON,CAN",Kingston Yacht Club,,Steve Tupper,,,,1995/continental/1995-08-04-north-american-championship-kingston-ontario-CAN.csv,Continental,,CAN
+1995-07-27,1995-08-04,North American Championship,,6,26,"Kingston,ON",Kingston Yacht Club,,Steve Tupper,,,,1995/continental/1995-08-04-north-american-championship-kingston-ontario-CAN.csv,Continental,,CAN
 1995-07-27,1995-08-04,World Championship,,4,106,"Marazion, GBR",Mounts Bay Sailing Club,,,,,,1995/world/1995-08-04.world-championship.marazion.GBR.csv,World,,GBR
 1995-08-02,1995-08-04,Alberta Provincial Championship,,10,8,Alberta,,,,,"10-15 knots,10-15 knots,10-15 knots,3-10 knots,3-10 knots,3-10 knots, Monday 4 races(18-23 Knots)",,1995/country/canada/1995-08-03.alberta-provincial-championship.alberta.CAN.csv,,,CAN
 1995-08-05,1995-08-06,The Gim Hoebelman Regatta,,4,7,Chicago,Chicago Corinthian Yacht Club,,,,,,1995/country/usa/1995-08-06.the-gim-hoebelman-regatta.chicago.USA.csv,,,USA
@@ -94,7 +94,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 1997-08-10,1997-08-11,Pre-Worlds & Danish Championship,,6,70,"Gilleleje,DEN",Gilleleje Sejlklub,,,,,,1997/world/1997-08-11-pre-world.danish-championship.gilleleje.DEN.csv,"Pre-Worlds, National",,DEN
 1997-08-10,1997-08-21,World Championship,,7,79,"Gilleleje,DEN",Gilleleje Sejlklub,,,,,,1997/world/1997-08-21.world-championships.gilleleje.DEN.csv,World,,DEN
 1997-08-16,1997-08-17,New Bedford Yacht Club Regatta,,5,15,"South Dartmouth, MA",New Bedford Yacht Club,,,,,,1997/country/usa/1997-08-17.nbyc-505-regatta.south-dartmouth.ma.USA.csv,,,USA
-1997-08-21,1997-08-24,Eastern Canadian Championship (CORK),,7,18,"Kingston,ON",CORK,,,,,,1997/country/canada/1997-08-24.eastern-canadian-championship-cork.kingston.on.CAN.csv,,,CAN
+1997-08-21,1997-08-24,Eastern Canadian Championship,,7,18,"Kingston,ON",CORK,,,,,,1997/country/canada/1997-08-24.eastern-canadian-championship-cork.kingston.on.CAN.csv,,,CAN
 1997-08-30,1997-09-01,Nebraska Governors Cup,,5,7,"Ogallala, NE",,,,,,,1997/country/usa/1997-09-01.nebraska-governors-cup.ogallala.ne.USA.csv,,Lake McConaughy,USA
 1997-09-13,1997-09-14,Mid Atlantic Championship Regatta,,3,13,"Galesville, MD",West River Sailing Club,,,,,,1997/country/usa/1997-09-14.mid-atlantic-championship-regatta.galesville.md.USA.csv,,Chesapeake Bay,USA
 1997-09-20,1997-09-21,Midwest Championship,,5,11,"Sandusky, OH",Sandusky Sailing Club,,,,,,1997/country/usa/1997-09-21.midwest-championship.sandusky-oh.USA.csv,,,USA
@@ -122,7 +122,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 1998-08-15,1998-08-16,Hospice Regatta,,6,12,"Hyannis, MA",Hyannis Yacht Club,,,,,,1998/country/usa/1998-08-16.hospice-regatta.hyannis.USA.csv,,,USA
 1998-08-22,1998-08-23,Midwest Championship,,7,20,"Ontario, CAN",South Port Sailing Club,,,,,,1998/country/canada/1998-08-23.midwest-championship.ontario.CAN.csv,,Lake St. Claire,CAN
 1998-08-29,1998-08-29,Pacific Coast Championship,,5,18,"Richmond,CA,USA",Richmond Yacht Club,,,,,,1998/country/usa/1998-08-29.pacific-coast-championship.richmond.USA.csv,,,USA
-1998-08-29,1998-08-30,Eastern Canadian Championship (CORK),,9,19,"Kingston,ON",CORK,,,,,,1998/country/canada/1998-08-30-cork-1998.kingston-on.CAN.csv,,,CAN
+1998-08-29,1998-08-30,Eastern Canadian Championship,,9,19,"Kingston,ON",CORK,,,,,,1998/country/canada/1998-08-30-cork-1998.kingston-on.CAN.csv,,,CAN
 1998-09-19,1998-09-25,World Championship,,8,106,"Hyannis, MA",Hyannis Yacht Club,,,,,,1998/world/1998-09-25.world-championship.hyannis-MA.USA.csv,World,,USA
 1998-10-24,1998-10-25,Hoosier Regatta,,7,9,"Bloomington, Indiana, USA",Indiana University Yacht Club,,,,,,1998/country/usa/1998-10-25.hoosier-regatta.bloomington.USA.csv,,Lake Lemon,USA
 1999-02-13,1999-02-14,West Coast Midwinters,,6,5,"Long Beach, CA",Alamitos Bay Yacht Club,,,,,,1999/country/usa/1999-02-14.west-coast-midwinters.long-beach-ca.USA.csv,,,USA
@@ -161,7 +161,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2001-06-20,2001-07-01,South East Championships,,4,21,Hayling Island,Hayling Island Sailing Club,,,,,,2001/country/uk/2001-07-01.south-east-championships.hayling-island.GBR.csv,,,GBR
 2001-07-14,2001-07-15,Open Meeting,,4,5,Poole,Poole Yacht Club,,,,,,2001/country/uk/2001-07-15.open-meeting.poole.GBR.csv,,,GBR
 2001-08-04,2001-08-05,Open Meeting,,3,11,Lyme Regis,Lyme Regis Sailing Club,,,,,,2001/country/uk/2001-08-05.open-meeting.lyme-regis.GBR.csv,,,GBR
-2001-08-08,2001-08-12,North American Championship,,6,35,"Kingston,ON,CAN",Kingston Yacht Club,,,,,,2001/continental/2001-08-12-north-american-championship-kingston-ontario-CAN.csv,Continental,,CAN
+2001-08-08,2001-08-12,North American Championship,,6,35,"Kingston,ON",Kingston Yacht Club,,,,,,2001/continental/2001-08-12-north-american-championship-kingston-ontario-CAN.csv,Continental,,CAN
 2001-08-11,2001-08-12,Highvelds,,,12,Pretoria,Pretoria Sailing Club,,,,,,2001/country/south-africa/2001-08-12.highvelds.pretoria.RSA.csv,,,RSA
 2001-08-19,2001-08-28,World Championship,,7,105,"Cascais,POR",,,,,,,2001/world/2001-07-21.world-championship.cascais.POR.csv,World,,POR
 2001-08-25,2001-08-27,UK National Championship,,6,29,Pevensey,Pevensey Bay Sailing Club,,,,,,2001/country/uk/2001-08-27.uk-championship.pevensey.GBR..csv,National,,GBR
@@ -194,10 +194,10 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2004-05-29,2004-05-30,Kings of the Bay Regatta,,7,14,"San Francisco, CA",,,,,,,2004/country/usa/2004-05-30.kings-of-the-bay-regatta.san-francisco.ca.USA.csv,,,USA
 2004-05-29,2004-05-30,Open meeting,,5,8,Swansea,Mumbles Yacht Club,,,,,,2004/country/uk/2004-05-30.open-meeting.swansea.GBR.csv,,,GBR
 2004-06-24,2004-06-27,UK National Championship,,7,46,Lyme Regis,Lyme Regis Sailing Club,,,,,,2004/country/uk/2004-06-27.uk-national-championship.lyme-regis.GBR.csv,National,,GBR
-2004-07-02,2004-07-04,East Coast Championship,,9,29,"Kingston,ON,CAN",Kingston Yacht Club,,,,,,2004/country/canada/2004-07-02.east.coast.championship.kingston.CAN.csv,,,CAN
+2004-07-02,2004-07-04,East Coast Championship,,9,29,"Kingston,ON",Kingston Yacht Club,,,,,,2004/country/canada/2004-07-02.east.coast.championship.kingston.CAN.csv,,,CAN
 2004-07-24,2004-08-04,World Championship,,7,102,"Santa Cruze,USA",,,,,,,2004/world/2004-08-20.world-championship.santa-cruze.usa.csv,World,,USA
 2004-10-03,2004-10-08,European Championship,,8,56,Pula,,,,,,,2004/continental/2004-10-08.european-championship.croatia.pula.csv,"Continental,Europe",,CRO
-2005-01-01,2005-01-01,North American Championship,,9,37,"Kingston,ON,CAN",Kingston Yacht Club,,,,,,2005/continental/2005-north-american-championship-kingston-ontario-CAN.csv,Continental,,CAN
+2005-01-01,2005-01-01,North American Championship,,9,37,"Kingston,ON",Kingston Yacht Club,,,,,,2005/continental/2005-north-american-championship-kingston-ontario-CAN.csv,Continental,,CAN
 2005-05-21,2005-05-22,Open Meeting,,5,13,"Hayling Island,GBR",Hayling Island Sailing Club,,,,,,2005/country/uk/2005-05-22-open-meeting-hayling-island-GBR.csv,,,GBR
 2005-07-28,2005-07-31,UK National Championship,,8,25,Swansea,Mumbles Yacht Club,,,,,,2005/country/uk/2005-07-31.uk-national-championship.swansea.GBR.csv,National,,GBR
 2005-08-17,2005-08-19,Pre-Worlds,,4,114,"Warnemünde,GER",,,,,,,2005/world/2005-08-17.pre-world.warnemunde.GER.csv,Pre-Worlds,,GER
@@ -391,7 +391,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2016-06-19,2016-06-20,NSC One Design,,5,9,Ottawa,Nepean Sailing Club,,,,,,2016/country/canada/2016-06-20.nsc-one-design.ottawa.CAN.csv,,,CAN
 2016-06-25,2016-06-26,Regaty o Puchar Zbąszynia z okazji Dni Morza,,5,11,"Zbąszyń,POL",Zbńszyński Klub Żeglarski,,,,,,2016/country/poland/2016-06-26-puchar-zbaszynia.csv,Polish Cup,Jezioro Błędno,POL
 2016-07-01,2016-07-03,Helsinki Regatta,,6,11,Helsinki,,,,,,,2016/country/finland/2016-07-03.helsinki-regatta.helsinki.FIN.csv,,,FIN
-2016-07-02,2016-07-03,Canadian Championship,,6,11,"Squamish,BC",KYC and Canadian 5O5 fleet 1,,,,,,2016/country/canada/2016-07-02-canadian-champs-squamish.csv,National,,CAN
+2016-07-02,2016-07-03,Canadian Championship,,6,11,"Squamish,BC",Kitsilano Yacht Club;Canadian 5O5 fleet 1,,,,,,2016/country/canada/2016-07-02-canadian-champs-squamish.csv,National,,CAN
 2016-07-09,2016-07-10,Kitsilano Invitational Regatta,,9,9,"Vancouver,BC,CAN",Kitsilano Yacht Club,,,,,,2016/country/canada/2016-07-10.kitsilano-invitational-regatta.vancouver-bc.CAN.csv,,,CAN
 2016-07-16,2016-07-17,Puchar Pucka,,7,16,"Puck,POL",MOKSIR Puck /PSK 505,,,,,,2016/country/poland/2016-07-18.puchar-pucka.csv,Polish Cup,Zatoka Pucka,POL
 2016-07-25,2016-08-05,World Championship,,9,130,"Weymouth,GBR",Weymouth & Portland National Sailing Academy,,,,,,2016/world/2016-08-05-world-championship-weymouth.csv,"World,Euro Cup",,GBR
@@ -455,7 +455,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2018-07-13,2018-07-15,Championnat de France,France Championship,4,40,Saint-Pierre-Quiberon,SR S.P. QUIBERON,,,,,,2018/country/france/2018-07-15-championnat-de-france.saint-pierre-quiberon.FRA.csv,National,,FRA
 2018-07-20,2018-07-20,Pre-Worlds,,3,129,"Gdynia,POL","Polski Związek Żeglarski,Miasto Gdynia,Polskie Stowarzyszenie Klasy 505",Walter Mielke,Tim Hancock,,,,2018/world/2018-07-20-pre-worlds.gdynia.POL.csv,Pre-Worlds,Zatoka Gdańska,POL
 2018-07-21,2018-07-28,World Championship,,10,127,"Gdynia,POL","Polski Związek Żeglarski,Miasto Gdynia,Polskie Stowarzyszenie Klasy 505",Walter Mielke,Tim Hancock,,,,2018/world/2018-07-29-world-championship.gdynia.POL.csv,"World,Euro Cup",Zatoka Gdańska,POL
-2018-08-02,2018-08-04,Eastern Canadian Championship (CORK),,5,13,"Kingston,ON",CORK,,,,,,2018/country/canada/2018-08-04-cork-fall-regatta-eastern-canadian-championship.kingstone-on.CAN.csv,,,CAN
+2018-08-02,2018-08-04,Eastern Canadian Championship,,5,13,"Kingston,ON",CORK,,,,,,2018/country/canada/2018-08-04-cork-fall-regatta-eastern-canadian-championship.kingstone-on.CAN.csv,,,CAN
 2018-08-03,2018-08-05,Buzzards Bay Regatta,,6,10,"South Dartmouth, MA",New Bedford Yacht Club & Beverly Yacht Club,,,,,,2018/country/usa/2018-08-05.buzzards-bay-regatta.south-dartmouth-ma.USA.csv,,,USA
 2018-08-08,2018-08-13,North American Championship,,11,24,"San Francisco,CA,USA",St. Francis Yacht Club,J. Lancaster,,,,,2018/continental/2018-08-13.north-american-championships.san-fancisco.csv,Continental,,USA
 2018-08-10,2018-08-12,TPS Airisto Regatta,,4,7,"Ruissalo,Turku,FIN",Turun Pursiseura - Turku Yacht Club,,,,,,2018/country/finland/2018-08-12.tps-airisto-regatta.ruissalo-turku.FIN.csv,,,FIN
@@ -535,11 +535,11 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 1999-07-02,1999-07-04,Eastern Canadian Championship,,7,13,"Windsor, ON",South Port Sailing Club,,Mike Agrell,,,,1999/country/canada/1999-07-04.eastern-canadian-championship.windsor-on.CAN.csv,,,CAN
 1999-07-17,1999-07-18,New England Championship,,6,15,"New Bedford, MA",,,,,,,1999/country/usa/1999-07-18.new-england-championships.new-bedford.USA.csv,,,USA
 1999-06-19,1999-06-20,Nepean One Design,,7,8,Ottawa,Nepean Sailing Club,,,,,,1999/country/canada/1999-06-20.nepean-one-design.ottawa.CAN.csv,,,CAN
-2002-05-25,2002-05-26,Warm-up Regatta,,6,8,"Windsor, ON",South Port Sailing Club,,,,,,2002/country/canda/2002-05-26.warm-up-regatta.windsor-on.CAN.csv,,,CAN
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
+2002-05-25,2002-05-26,Warm-up Regatta,,6,8,"Windsor, ON",South Port Sailing Club,,,,,,2002/country/canada/2002-05-26.warm-up-regatta.windsor-on.CAN.csv,,,CAN
+2002-07-20,2002-07-21,Canadian Championship,,9,10,"Squamish,BC",Kitsilano Yacht Club;Canadian 5O5 fleet 1,,Frances Cross,,,,2002/country/canada/2002-07-21-canadian-champs-squamish.csv,National,,CAN
+2002-06-28,2002-06-30,Eastern Canadian Championship,,9,16,"Kingston,ON",Kingston Yacht Club,,,,,,2002/country/canada/2002-06-30.eastern-canadian-championship.kingston.on.CAN.csv,,,CAN
+2001-08-08,2001-08-09,Fleet 4 Championship,,8,14,"Ottawa,ON",Britannia Yacht Club,,,,,,2001/country/canada/2001-08-09.fleet-4-championship.ottawa-on.CAN.csv,,,CAN
+2001-07-14,2001-07-15,Eastern Canadian Championship,,6,10,"Toronto,ON",Outer Harbour Centreboard Club,,,,,,2001/country/canada/2001-07-15.eastern-canadian-championship.toronto-on.CAN.csv,,,CAN
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
