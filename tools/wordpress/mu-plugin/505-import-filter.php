@@ -1566,6 +1566,10 @@ class iworks_5o5_upload_fixer {
 			'Penney' => 'William Penney',
 		),
 		array(
+			'Hurley' => 'Margaret Hurley',
+			'Wood' => 'Peter Wood',
+		),
+		array(
 			'McLaughlin' => 'Frank McLauchlin',
 			'Yates'      => 'Steve Yates',
 		),
@@ -1576,6 +1580,30 @@ class iworks_5o5_upload_fixer {
 		array(
 			'Hennessey' => 'Doug Hennessey',
 			'Angers'    => 'Mario Angers',
+		),
+		array(
+			'Rzucidlo' => 'Marius Rzucidlo',
+			'Torrie' => 'Ian Torrie',
+		),
+		array(
+			'Rzucildo' => 'Marius Rzucidlo',
+			'Torrie' => 'Ian Torrie',
+		),
+		array(
+			'Ross' => 'Angus Ross',
+			'McClachlan' => 'Jim MacLachlan',
+		),
+		array(
+			'Hennessy' => 'Doug Hennessey',
+			'Angers' => 'Mario Angers',
+		),
+		array(
+			'Shaeffer' => 'Geoff Schaefer',
+			'Seiple' => 'Dave Seiple',
+		),
+		array(
+			'Samson' => 'Louis Samson',
+			'Beaudoin' => 'Isabelle Beaudoin',
 		),
 		/*
 		array(
@@ -1588,7 +1616,11 @@ class iworks_5o5_upload_fixer {
 	/**
 	 * foo
 	 */
-	private $person = array(
+    private $person = array(
+        'Stephen Yates' => 'Steve Yates',
+        'Catherine Long' => 'Katherine Long',
+        'Marious Rzuciblo' => 'Marius Rzucidlo',
+        'Bernard Pero' => 'Bernard Péro',
 		'011e Wenrup'                 => 'Olle Wenrup',
 		'A. Franklin'                 => 'Alan Franklin',
 		'A Holm'                      => 'Albrecht Holm',

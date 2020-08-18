@@ -114,7 +114,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 1998-06-27,1998-06-27,WRSC One Day 505 Regatta/Open House,,4,11,"Galesville, MD, USA",West River Sailing Club,,,,,,1998/country/usa/1998-06-27.wrsc-one-day-505-regatta-open-house.galesville.USA.csv,,,USA
 1998-06-27,1998-06-28,St Francis Regatta,,6,15,"San Francisco, CA",St. Francis Yacht Club,,,,,,1998/country/usa/1998-06-28.st-francis-regatta.san-francisco.USA.csv,,,USA
 1998-07-11,1998-07-12,High Sierra Regatta,,3,13,USA,,,,,,,1998/country/usa/1998-07-12.high-sierra-regatta.USA.csv,,Hunting Lake,USA
-1998-07-18,1998-07-19,Ontario Championships,,,10,"Toronto,ON",J-Town Sailing Club,,,,,,1998/country/canada/1998-07-19.ontario-championships.toronto.CAN.csv,,,CAN
+1998-07-18,1998-07-19,Ontario Championship,,,10,"Toronto,ON",J-Town Sailing Club,,,,,,1998/country/canada/1998-07-19.ontario-championships.toronto.CAN.csv,,,CAN
 1998-07-24,1998-07-26,Hayling Island,,6,35,"Hayling Island,GBR",Hayling Island Sailing Club,,,,,,1998/country/uk/1998-07-26-euro-cup-hayling-island-GBR.csv,Euro Cup,,GBR
 1998-07-31,1998-08-02,East Coast Championship,,8,26,"Hyannis, MA",Hyannis Yacht Club,,,,,,1998/country/usa/1998-08-02.east-coast-championship.hyannis.USA.csv,,,USA
 1998-08-01,1998-08-01,Zimbabwe Championship,,12,9,"Kariba, Zimbabwe ",,,,,,,1998/country/zimbabwe/1998-08-01.zimbabwe-championship.kariba.ZIM.csv,National,Kariba,ZIM
@@ -542,12 +542,12 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2020-07-11,2020-07-12,Lotos Nord Cup,,7,14,Górki Zachodnie,"Akademicki Związek Sportowy, Galion, Yacht Club Gdynia",,,,,,2020/country/poland/2020-07-12.lotos-nord-cup.gdansk.POL.csv,Polish Cup,Zatoka Gdańska,POL
 2020-08-07,2020-08-09,Mistrzostwa Polski,Polish Championship,6,22,Ustka,"Miasto Ustka, ProSport, Dolina Charlotty",,,,,,2020/country/poland/2020-08-09.mistrzostwa-polski.ustka.POL.csv,National,Baltic Sea,POL
 2020-08-08,2020-08-09,Danish Championship,,7,18,Hellerup,Hellerup Sejlklub,,,,,,2020/country/denmark/2020-08-09.danish-championship.hellerup.DEN.csv,National,,DEN
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
+2001-06-02,2001-06-03,Québec Championship,,7,9,"Vaudreuil-sur-le-Lac, QC",Club Nautique Deux-Montagnes,,,,,,2001/country/canada/2001-06-03.quebec-championship.vaudreuil-sur-le-lac-qc.CAN.csv,,,CAN
+2000-08-09,2000-08-10,Fleet 4 Championship,,10,11,"Ottawa,ON",Nepean Sailing Club,,,,,,2000/country/canada/2000-08-10.fleet-4-championship.ottawa-on.CAN.csv,,,CAN
+2000-08-05,2000-08-06,Eastern Canadian Championship,,,10,"Montreal, QC",Beaconsfield Yacht Club,,,,,,2000/country/canada/2000-08-06.eastern-canadian-championship.montreal.qc.CAN.csv,,,CAN
+2000-07-29,2000-07-30,Ontario Championship,,7,8,"Toronto,ON",Outer Harbour Centreboard Club,,,,,,2000/country/canada/2000-07-30.ontario-championships.toronto.CAN.csv,,Lake Ontario,CAN
+1999-08-26,1999-08-29,Canadian Olympic Regatta,,8,20,"Kingston,ON",CORK,,,,,,1999/country/canada/1999-08-29.canadian-olympic-regatta.kingston-on.CAN.csv,,,CAN
+1999-06-05,1999-06-06,Québec Championship,,7,9,"Vaudreuil-sur-le-Lac, QC",Club Nautique Deux-Montagnes,,,,,,1999/country/canada/1999-06-06.quebec-championship.vaudreuil-sur-le-lac-qc.CAN.csv,,,CAN
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
