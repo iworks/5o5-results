@@ -129,13 +129,21 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 1999-04-10,1999-04-11,Hi-Per,,8,6,"Los Angeles, CA","California Yacht Club, Marina del Ray, ",,,,,,1999/country/usa/1999-04-11.hi-per.los-angeles-ca.USA.csv,,,USA
 1999-05-13,1999-05-16,Riva Cup,,5,49,Riva del Garda,Fraglia Vela Riva,,,,,,1999/country/italy/1999-05-16.riva-cup.riva-del-garda.ITA.csv,Euro Cup,Riva Del Garda,ITA
 1999-05-31,1999-06-04,North American Championship,,7,14,"Corpus Christi, TX",Corpus Christi Yacht Club,,Steve Tupper,,,,1999/continental/1999-06-04.north-american-championship.corpus-christi-tx.USA.csv,Continental,,USA
+1999-06-19,1999-06-20,Nepean One Design,,7,8,Ottawa,Nepean Sailing Club,,,,,,1999/country/canada/1999-06-20.nepean-one-design.ottawa.CAN.csv,,,CAN
 1999-06-25,1999-06-27,Nieuwpoort,,9,16,Nieuwpoort,,,,,,,1999/country/belgium/1999-06-27.europa-cup.nieuwpoort.BEL.csv,Euro Cup,,BEL
+1999-07-02,1999-07-04,Eastern Canadian Championship,,7,13,"Windsor, ON",South Port Sailing Club,,Mike Agrell,,,,1999/country/canada/1999-07-04.eastern-canadian-championship.windsor-on.CAN.csv,,,CAN
+1999-07-02,1999-07-04,Pre-Worlds,,4,88,Quiberon,,,,,,,1999/world/1999-07-04.pre-worlds.quiberon-france.csv,Pre-Worlds,,GBR
 1999-07-04,1999-07-10,World Championship,,5,157,Quiberon,,,,,,,1999/world/1999-06-10-world-championship-quiberon-france.csv,World,,GBR
+1999-07-17,1999-07-18,New England Championship,,6,15,"New Bedford, MA",,,,,,,1999/country/usa/1999-07-18.new-england-championships.new-bedford.USA.csv,,,USA
+1999-07-30,1999-08-01,Hyannis Annual,,6,11,"Hyannis, MA",Hyannis Yacht Club,,,,,,1999/country/usa/1999-08-01.hyannis-annual.hyannis.USA.csv,,,USA
+1999-08-01,1999-08-01,Dansk Mesterskab,Danish Championship,6,15,Hornbæk,Hornbæk Bådeklub,,,,,,1999/country/denmark/1999.dansk-mesterskab.hornbaek.DEN.csv,National,,DEN
+1999-08-14,1999-08-14,Oak Harbour Regatta,,5,7,,,,,,,,1999/country/usa/1999-08-14.oak-harbour-regatta.USA.csv,,,USA
 1999-08-21,1999-08-22,Open meeting,,6,20,Weymouth,Weymouth Sailing Centre,,,,,,1999/country/uk/1999-08-22.open-meeting.weymouth.GBR.csv,,,GBR
 1999-08-28,1999-09-04,Deutsche Meisterschaft,German Championship,5,40,Helgoland,,,,,,,1999/country/germany/1999-09-04.german-championship.helgoland.GER.csv,"National,Euro Cup",,GER
 1999-09-09,1999-09-12,UK National Championship & European Cup,,7,50,Hayling Island,Hayling Island Sailing Club,,,,,,1999/country/uk/1999-09-12.uk-national-championship-european-cup.hayling-island.GBR.csv,"National,Euro Cup",,GBR
 1999-09-24,1999-09-26,East Coast Championship,,7,26,,,,,,,,1999/country/usa/1999-09-26.east-coast-championship.USA.csv,,,USA
 2000-03-22,2000-03-26,Mini Open,,2,5,Chew Valley,Chew Valley Lake SC,,,,,,2000/country/uk/2000-03-26.mini-open.chew-valley.GBR.csv,,,GBR
+2000-04-21,2000-04-23,Cavalaire,,8,73,Cavalaire,,,,,,,2000/country/france/2000-04-23.cavalaire.FRA.csv,Euro Cup,,FRA
 2000-05-06,2000-05-07,Solent Championships,,2,24,,Stokes Bay SC,,,,,,2000/country/uk/2000-05-07.solent-championships.GBR.csv,,,GBR
 2000-05-19,2000-05-21,Roskilde,,,,Roskilde,,,,,,,2000/country/uk/2000-05-21.roskilde.GBR.csv,Euro Cup,,GBR
 2000-05-20,2000-05-20,Mini Open,,,6,Derby,Burton Sailing Club,,,,,,2000/country/uk/2000-05-20.mini-open.derby.GBR.csv,,,GBR
@@ -158,9 +166,13 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2001-05-05,2001-05-06,GUL-regattan,,5,13,"Malmö,SWE",Malmö Segel Sällskap,,,,,,2001/country/sweden/2001-05-06.gul-regattan.malmo.SWE.csv,,,SWE
 2001-05-12,2001-05-13,Open Meeting,,5,13,Ipswich,Shotley Sailing Club,,,,,,2001/country/uk/2001-05-13.open-meeting.ipswich.GBR.csv,,,GBR
 2001-05-24,2001-05-27,Riva Cup,,7,40,Riva del Garda,Fraglia Vela Riva,,,,,,2001/country/italy/2001-05-27.riva-cup.riva-del-garda.ITA.csv,Euro Cup,Riva Del Garda,ITA
+2001-06-15,2001-06-17,Canadian Championship,,9,12,"Windsor,ON",South Port Sailing Club;Renka & Adam Gesing,,,,,,2001/country/canada/2001-06-17.canadian-championships.windsor-on.CAN.csv,National,Lake St. Clair,CAN
 2001-06-20,2001-07-01,South East Championships,,4,21,Hayling Island,Hayling Island Sailing Club,,,,,,2001/country/uk/2001-07-01.south-east-championships.hayling-island.GBR.csv,,,GBR
+2001-06-23,2001-06-23,Nepean One Design,,5,6,Ottawa,Nepean Sailing Club,,,,,,2001/country/canada/2001-06-23.nepean-one-design.ottawa.CAN.csv,,,CAN
+2001-07-14,2001-07-15,Eastern Canadian Championship,,6,10,"Toronto,ON",Outer Harbour Centreboard Club,,,,,,2001/country/canada/2001-07-15.eastern-canadian-championship.toronto-on.CAN.csv,,,CAN
 2001-07-14,2001-07-15,Open Meeting,,4,5,Poole,Poole Yacht Club,,,,,,2001/country/uk/2001-07-15.open-meeting.poole.GBR.csv,,,GBR
 2001-08-04,2001-08-05,Open Meeting,,3,11,Lyme Regis,Lyme Regis Sailing Club,,,,,,2001/country/uk/2001-08-05.open-meeting.lyme-regis.GBR.csv,,,GBR
+2001-08-08,2001-08-09,Fleet 4 Championship,,8,14,"Ottawa,ON",Britannia Yacht Club,,,,,,2001/country/canada/2001-08-09.fleet-4-championship.ottawa-on.CAN.csv,,,CAN
 2001-08-08,2001-08-12,North American Championship,,6,35,"Kingston,ON",Kingston Yacht Club,,,,,,2001/continental/2001-08-12-north-american-championship-kingston-ontario-CAN.csv,Continental,,CAN
 2001-08-11,2001-08-12,Highvelds,,,12,Pretoria,Pretoria Sailing Club,,,,,,2001/country/south-africa/2001-08-12.highvelds.pretoria.RSA.csv,,,RSA
 2001-08-19,2001-08-28,World Championship,,7,105,"Cascais,POR",,,,,,,2001/world/2001-07-21.world-championship.cascais.POR.csv,World,,POR
@@ -169,9 +181,12 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2002-01-01,2002-01-01,Van Rooyen Trophy,,4,8,,Transvaal Yacht Club,,,,,,2002/country/south-africa/2002.van-rooyen-trophy.RSA.csv,,,RSA
 2002-01-12,2002-01-13,Duffin trophy,,5,9,,Victoria Lake Club,,,,,,2002/country/south-africa/2002-01-13.duffin-trophy.RSA.csv,,,RSA
 2002-03-21,2002-03-23,South African National Championship,,9,16,Vaal Dam,Aeolians Club,,,,,,2002/country/south-africa/2002-03-23.south-african-national-championship.vaal-dam.RSA.csv,National,,RSA
+2002-05-25,2002-05-26,Warm-up Regatta,,6,8,"Windsor, ON",South Port Sailing Club,,,,,,2002/country/canada/2002-05-26.warm-up-regatta.windsor-on.CAN.csv,,,CAN
 2002-06-15,2002-06-17,BP Trophy,,6,6,,Henley Midmar Yacht Club,,,,,,2002/country/south-africa/2002-06-17.bp-trophy.RSA.csv,,,RSA
 2002-06-22,2002-06-22,Open Meeting,,5,19,"Hayling Island,GBR",Hayling Island Sailing Club,,,,,,2002/country/uk/2002-06-22-open-meeting-hayling-island-GBR.csv,,,GBR
+2002-06-28,2002-06-30,Eastern Canadian Championship,,9,16,"Kingston,ON",Kingston Yacht Club,,,,,,2002/country/canada/2002-06-30.eastern-canadian-championship.kingston.on.CAN.csv,,,CAN
 2002-07-12,2002-07-12,Europa Cup & Riksmästerskap för 505,,6,19,"Landskrona, SWE",Borstahusens Segelsällskap,,,,,,2002/country/sweden/2002-07-12.europa-cup-riksmasterskap-for-505.landskrona.SWE.csv,,,SWE
+2002-07-20,2002-07-21,Canadian Championship,,9,10,"Squamish,BC",Kitsilano Yacht Club;Canadian 5O5 fleet 1,,Frances Cross,,,,2002/country/canada/2002-07-21-canadian-champs-squamish.csv,National,,CAN
 2002-07-27,2002-08-02,European Championship,,8,45,Riva del Garda,,,,,,,2002/continental/2002-08-02.european-championship.riva-del-garda.ITA.csv,"Continental,Europe",Riva Del Garda,ITA
 2002-08-03,2002-08-04,Regatta,,2,9,Lyme Regis,Lyme Regis Sailing Club,,,,,,2002/country/uk/2002-08-04.regatta.lyme-regis.GBR.csv,,,GBR
 2002-08-17,2002-08-18,Highvelds,,7,6,Pretoria,Pretoria Sailing Club,,,,,,2002/country/south-africa/2002-08-18.highvelds.pretoria.RSA.csv,,,RSA
@@ -527,21 +542,6 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2020-07-11,2020-07-12,Lotos Nord Cup,,7,14,Górki Zachodnie,"Akademicki Związek Sportowy, Galion, Yacht Club Gdynia",,,,,,2020/country/poland/2020-07-12.lotos-nord-cup.gdansk.POL.csv,Polish Cup,Zatoka Gdańska,POL
 2020-08-07,2020-08-09,Mistrzostwa Polski,Polish Championship,6,22,Ustka,"Miasto Ustka, ProSport, Dolina Charlotty",,,,,,2020/country/poland/2020-08-09.mistrzostwa-polski.ustka.POL.csv,National,Baltic Sea,POL
 2020-08-08,2020-08-09,Danish Championship,,7,18,Hellerup,Hellerup Sejlklub,,,,,,2020/country/denmark/2020-08-09.danish-championship.hellerup.DEN.csv,National,,DEN
-1999-08-14,1999-08-14,Oak Harbour Regatta,,5,7,,,,,,,,1999/country/usa/1999-08-14.oak-harbour-regatta.USA.csv,,,USA
-1999-07-02,1999-07-04,Pre-Worlds,,4,88,Quiberon,,,,,,,1999/world/1999-07-04.pre-worlds.quiberon-france.csv,Pre-Worlds,,GBR
-2000-04-21,2000-04-23,Cavalaire,,8,73,Cavalaire,,,,,,,2000/country/france/2000-04-23.cavalaire.FRA.csv,Euro Cup,,FRA
-1999-08-01,1999-08-01,Dansk Mesterskab,Danish Championship,6,15,Hornbæk,Hornbæk Bådeklub,,,,,,1999/country/denmark/1999.dansk-mesterskab.hornbaek.DEN.csv,National,,DEN
-1999-07-30,1999-08-01,Hyannis Annual,,6,11,"Hyannis, MA",Hyannis Yacht Club,,,,,,1999/country/usa/1999-08-01.hyannis-annual.hyannis.USA.csv,,,USA
-1999-07-02,1999-07-04,Eastern Canadian Championship,,7,13,"Windsor, ON",South Port Sailing Club,,Mike Agrell,,,,1999/country/canada/1999-07-04.eastern-canadian-championship.windsor-on.CAN.csv,,,CAN
-1999-07-17,1999-07-18,New England Championship,,6,15,"New Bedford, MA",,,,,,,1999/country/usa/1999-07-18.new-england-championships.new-bedford.USA.csv,,,USA
-1999-06-19,1999-06-20,Nepean One Design,,7,8,Ottawa,Nepean Sailing Club,,,,,,1999/country/canada/1999-06-20.nepean-one-design.ottawa.CAN.csv,,,CAN
-2002-05-25,2002-05-26,Warm-up Regatta,,6,8,"Windsor, ON",South Port Sailing Club,,,,,,2002/country/canada/2002-05-26.warm-up-regatta.windsor-on.CAN.csv,,,CAN
-2002-07-20,2002-07-21,Canadian Championship,,9,10,"Squamish,BC",Kitsilano Yacht Club;Canadian 5O5 fleet 1,,Frances Cross,,,,2002/country/canada/2002-07-21-canadian-champs-squamish.csv,National,,CAN
-2002-06-28,2002-06-30,Eastern Canadian Championship,,9,16,"Kingston,ON",Kingston Yacht Club,,,,,,2002/country/canada/2002-06-30.eastern-canadian-championship.kingston.on.CAN.csv,,,CAN
-2001-08-08,2001-08-09,Fleet 4 Championship,,8,14,"Ottawa,ON",Britannia Yacht Club,,,,,,2001/country/canada/2001-08-09.fleet-4-championship.ottawa-on.CAN.csv,,,CAN
-2001-07-14,2001-07-15,Eastern Canadian Championship,,6,10,"Toronto,ON",Outer Harbour Centreboard Club,,,,,,2001/country/canada/2001-07-15.eastern-canadian-championship.toronto-on.CAN.csv,,,CAN
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
