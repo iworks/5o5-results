@@ -492,7 +492,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2018-11-03,2018-11-04,Ovington Inlands,,7,9,Huntingdon,Grafham Water Sailing Club Limited,,,,,,2018/country/uk/2018-11-04.ovington.inlands.huntingdon.GBR.csv,,,GBR
 2019-01-01,2019-01-01,Pre-Worlds,,5,89,"Fremantle,AUS",Fremantle Sailing Club,,,,,,2019/world/2018-12-30-pre-worlds-perth.csv,Pre-Worlds,,AUS
 2019-01-01,2019-01-07,World Championship,,10,89,"Fremantle,AUS",Fremantle Sailing Club,,,,,,2019/world/2019-01-07-world-championship-fremantle-AUS.csv,World,,AUS
-2019-04-19,2019-04-21,Cannes,,4,31,Cannes,Yacht club de Cannes,,,,,,2019/country/france/2019-04-21-cannes.cannes.FRA.csv,Euro Cup,,FRA
+2019-04-19,2019-04-21,Cannes,,4,31,Cannes,Yacht club de Cannes,,,,,,2019/country/france/2019-04-21-cannes.cannes.FRA.csv,Euro Cup,Mediterranean Sea,FRA
 2019-05-04,2019-05-04,WRSC Spring Regatta,,6,12,"Galesville, MD",West River Sailing Club,,,,,,2019/country/usa/2019-05-04.wrsc-spring-regatta.galesville-md.USA.csv,,,USA
 2019-05-04,2019-05-05,Kings of the River,,6,12,"Galesville, MD",West River Sailing Club,,,,,,2019/country/usa/2019-05-05.kings-of-the-river.galesville-md.USA.csv,,,USA
 2019-05-09,2019-05-12,UK National Championship,,10,26,Lymington,Royal Lymington Yacht Club,,,,,,2019/country/uk/2019-05-12-uk-championship-lymington.csv,National,,GBR
@@ -548,8 +548,8 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2000-07-29,2000-07-30,Ontario Championship,,7,8,"Toronto,ON",Outer Harbour Centreboard Club,,,,,,2000/country/canada/2000-07-30.ontario-championships.toronto.CAN.csv,,Lake Ontario,CAN
 1999-08-26,1999-08-29,Canadian Olympic Regatta,,8,20,"Kingston,ON",CORK,,,,,,1999/country/canada/1999-08-29.canadian-olympic-regatta.kingston-on.CAN.csv,,,CAN
 1999-06-05,1999-06-06,Québec Championship,,7,9,"Vaudreuil-sur-le-Lac, QC",Club Nautique Deux-Montagnes,,,,,,1999/country/canada/1999-06-06.quebec-championship.vaudreuil-sur-le-lac-qc.CAN.csv,,,CAN
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
+2018-03-30,2018-04-01,Cannes,,7,38,Cannes,Yacht club de Cannes,,,,,,2018/country/france/2018-04-01.euro-cup.cannes.FRA.csv,Euro Cup,Mediterranean Sea,FRA
+2016-05-05,2016-05-07,Hyères,,8,50,Hyères,Club de Voile de Hyères,Jean Diaz,Abel Bellaguet,,,,2016/country/france/2016-05-07.euro-cup.hyeres.FRA.csv,Euro Cup,,FRA
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
