@@ -1,13 +1,4 @@
 Nation,Name,Club,Description,Birth Date,email
-USA,Gina Scott
-CAN,Julie Giguere
-CAN,Valerie Fuchshuber
-CAN,Trevor Owen
-CAN,Terry Meade
-CAN,Tom Burnard
-CAN,Adrien Rootsaert
-CAN,Dean Rootsaert
-CAN,Caroline Bougie
 AUS,A. Martin,,,,
 AUS,Adam Brenz-Verca,,,,
 AUS,Adam Wyatt,,,,
@@ -257,6 +248,7 @@ BEL,Jeroen Smeets,,,,
 BEL,Kim Van Assche,,,,
 BEL,Koen Willems
 BEL,Lien Van Assche,,,,
+BEL,Lionel Lambert
 BEL,Lionel Lampert,,,,
 BEL,Luc Moentack
 BEL,Philippe Vandersteen,,,,
@@ -270,6 +262,7 @@ CAN,Adam Bookman,,,,
 CAN,Adam Gesing,,,,
 CAN,Adam Gooderham,,,,
 CAN,Adam Schell,,,,
+CAN,Adrien Rootsaert
 CAN,Alain Molimard,,,,
 CAN,Alec Francis,,,,
 CAN,Andrew Gesing,,,,
@@ -278,6 +271,7 @@ CAN,Angus Ross,,,,
 CAN,Barrett Rhodes
 CAN,Bernard Péro
 CAN,Carol Cote,,,,
+CAN,Caroline Bougie
 CAN,Chris Gillies,,,,
 CAN,Chuck Hanson,,,,
 CAN,Clarissa Bush,,,,
@@ -286,6 +280,7 @@ CAN,David Adams,,,,
 CAN,David Brown,,,,
 CAN,David Cross
 CAN,David Friberg
+CAN,Dean Rootsaert
 CAN,Devlin Lovshin,,,,
 CAN,Eric Dumouchel
 CAN,Evan Jennings,,,,
@@ -306,6 +301,7 @@ CAN,Jim Dingle
 CAN,Jim MacLachlan
 CAN,John Hayley,,,,
 CAN,Julian Pearson,,,,
+CAN,Julie Giguere
 CAN,Justin Kitney
 CAN,Karl Oswald,,,,
 CAN,Kevin Schultz
@@ -345,10 +341,14 @@ CAN,Robert Terbrugge
 CAN,Robin Brown,,,,
 CAN,Samuel Place,,,,
 CAN,Scott Salter,,,,
+CAN,Terry Meade
 CAN,Thomas Kivney,,,,
 CAN,Tim Willett,,,,
 CAN,Todd Johnson,,,,
+CAN,Tom Burnard
 CAN,Tom Russell,,,,
+CAN,Trevor Owen
+CAN,Valerie Fuchshuber
 CAN,Victor Stopp,,,,
 CAN,William Penney
 CAN,Winston Cummins,,,,
@@ -1406,7 +1406,6 @@ GER,Siegfried Labenz,,,,
 GER,Sophie Söllner,,,,
 GER,Stefan Brückner,,,,
 GER,Stefan Kempf
-BEL,Lionel Lambert
 GER,Stefan Krumm,,,,
 GER,Stefan Schmidt,,,,
 GER,Stefan Schollmayer,,,,
@@ -2116,6 +2115,7 @@ USA,Geoff Ewenson,,,,
 USA,Geoff Gales,,,,
 USA,George Iverson,,,,
 USA,Gerard Kivney,,,,
+USA,Gina Scott
 USA,Grace Olsen,,,,
 USA,Graham Alexander,,,,
 USA,Greg Davis,,,,
