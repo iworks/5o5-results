@@ -1,44 +1,4 @@
 Nation,Name,Club,Description,Birth Date,email
-FRA,Thibault Di Pède
-FRA,Gael Le Mauguen
-CAN,Geoff Schaefer
-CAN,Isabelle Beaudoin
-CAN,Eric Dumouchel
-CAN,Jim Dingle
-CAN,Mario Angers
-CAN,Barrett Rhodes
-CAN,Bernard Péro
-CAN,François-Xavier Bertrand
-CAN,Marius Rzucidlo
-CAN,Jim MacLachlan
-CAN,Robert Terbrugge
-CAN,Kingsley Fairbridge
-CAN,Frank McLauchlin
-CAN,Nora Hoffer
-CAN,Florence Boyd
-CAN,David Friberg
-CAN,William Penney
-CAN,Justin Kitney
-USA,John Henderson
-CAN,David Cross
-CAN,Ian Eskritt
-CAN,Kevin Schultz
-USA,Pete Spaulding
-DEN,Ole Høyer
-USA,Josh Lieberman
-USA,Chris Tackas
-FRA,Philippe Claraz
-FRA,Pascal Jullian
-GER,Ursula Tetzlaff
-FRA,Dominique Keraudrenv
-GER,Till Supan
-GER,Gregor Dahlem
-FRA,Pierre-Yves Partant
-FRA,Laurent Camusson
-FRA,Carole Blattner
-FRA,Jean Ja Veroul
-GER,Frank Weigelt
-FRA,Eric Defroimont
 AUS,A. Martin,,,,
 AUS,Adam Brenz-Verca,,,,
 AUS,Adam Wyatt,,,,
@@ -297,6 +257,8 @@ CAN,Alec Francis,,,,
 CAN,Andrew Gesing,,,,
 CAN,Andriy Kanyuka,,,,
 CAN,Angus Ross,,,,
+CAN,Barrett Rhodes
+CAN,Bernard Péro
 CAN,Carol Cote,,,,
 CAN,Chris Gillies,,,,
 CAN,Chuck Hanson,,,,
@@ -304,30 +266,47 @@ CAN,Clarissa Bush,,,,
 CAN,Cynthia Des Brisay,,,,
 CAN,David Adams,,,,
 CAN,David Brown,,,,
+CAN,David Cross
+CAN,David Friberg
 CAN,Devlin Lovshin,,,,
+CAN,Eric Dumouchel
 CAN,Evan Jennings,,,,
+CAN,Florence Boyd
 CAN,François Bertrand,,,,
+CAN,François-Xavier Bertrand
+CAN,Frank McLauchlin
+CAN,Geoff Schaefer
 CAN,Hugh Morrin,,,,
+CAN,Ian Eskritt
 CAN,Ian Marentette,,,,
 CAN,Ian Plumbley,,,,
 CAN,Ian Torrie,,,,
+CAN,Isabelle Beaudoin
 CAN,James Cruickshank,,,,
 CAN,Jeff Boyd,,,,
+CAN,Jim Dingle
+CAN,Jim MacLachlan
 CAN,John Hayley,,,,
 CAN,Julian Pearson,,,,
+CAN,Justin Kitney
 CAN,Karl Oswald,,,,
+CAN,Kevin Schultz
 CAN,Kevin Shulz,,,,
+CAN,Kingsley Fairbridge
 CAN,Kyber Lovshin,,,,
 CAN,Leszek Nowosielski
 CAN,Malcolm McHattie,,,,
 CAN,Marek Baliński,,,,
 CAN,Margaret Hurley,,,,
+CAN,Mario Angers
+CAN,Marius Rzucidlo
 CAN,Mark Ashby,,,,
 CAN,Martin Hicks,,,,
 CAN,Martin ten Hove,,,,
 CAN,Michael Hoffman,,,,
 CAN,Michael Wonnacott,,,,
 CAN,Nicolas Tosi,,,,
+CAN,Nora Hoffer
 CAN,Norman Saint-Cyr,,,,
 CAN,Paul Clifford
 CAN,Paul Place,,,,
@@ -344,6 +323,7 @@ CAN,Rich Mundell,,,,
 CAN,Richard McDonald,,,,
 CAN,Robert Bartlewski,,,,
 CAN,Robert Tennant,,,,
+CAN,Robert Terbrugge
 CAN,Robin Brown,,,,
 CAN,Samuel Place,,,,
 CAN,Scott Salter,,,,
@@ -352,6 +332,7 @@ CAN,Tim Willett,,,,
 CAN,Todd Johnson,,,,
 CAN,Tom Russell,,,,
 CAN,Victor Stopp,,,,
+CAN,William Penney
 CAN,Winston Cummins,,,,
 DEN,Allan Andreasen,,,,
 DEN,Anders Friis,,,,
@@ -395,6 +376,7 @@ DEN,Michael Paulsen,,,,
 DEN,Michael Wonterghem,,,,
 DEN,Morten Ramsbæk,,,,
 DEN,Nikolaj Hoffmann Buhl,,,,
+DEN,Ole Høyer
 DEN,Paul Bert Elvstrøm,,,,
 DEN,Per Winther Larsen,,,,
 DEN,Peter Moller,,,,
@@ -479,9 +461,11 @@ FRA,Bernard Blondy,,,,
 FRA,Bernard Dugrip,,,,
 FRA,Bernard Edel,,,,
 FRA,Bernard Peuch,,,,
+FRA,Bertrand Lapeyre
 FRA,Bev Moss,,,,
 FRA,Bruno Levesque,,,,
 FRA,Bruno Vaniekaut,,,,
+FRA,Carole Blattner
 FRA,Cedric Faucheux,,,,
 FRA,Celine Chevet,,,,
 FRA,Charles de Kergariou,,,,
@@ -502,13 +486,16 @@ FRA,Damien Zucconi,,,,
 FRA,Daniel Wagner
 FRA,David De Monteil,,,,
 FRA,Derek Farrant,,,,
+FRA,Dominique Keraudrenv
 FRA,Dominique Rouanne,,,,
 FRA,Edouard Morin,,,,
 FRA,Elisabeth Neidhart,,,,
+FRA,Emilie Guilleminot
 FRA,Emmanuel Mouclier,,,,
 FRA,Eric Basset,,,,
 FRA,Eric Brun
 FRA,Eric Cuny
+FRA,Eric Defroimont
 FRA,Eric Le Morvan,,,,
 FRA,Eric Petit
 FRA,Eric Quémard,,,,
@@ -536,6 +523,7 @@ FRA,Frédéric Monnier,,,,
 FRA,Frederic Roucayrol,,,,
 FRA,Frederic Veroul
 FRA,Gabin Micoulot,,,,
+FRA,Gael Le Mauguen
 FRA,Gautier Destombes
 FRA,Gerard Tilly,,,,
 FRA,Geraud Lafortune,,,,
@@ -565,6 +553,7 @@ FRA,Jacques Raguet,,,,
 FRA,Jean Blache,,,,
 FRA,Jean Charles Zimmowitch,,,,
 FRA,Jean Claude Ancelot,,,,
+FRA,Jean Ja Veroul
 FRA,Jean Ja Veroul
 FRA,Jean Philippe Ducros,,,,
 FRA,Jean Philippe Hermieu,,,,
@@ -599,6 +588,7 @@ FRA,L Porcher
 FRA,Lancelot Lippi,,,,
 FRA,Laure Dalle
 FRA,Lauren Camusson,,,,
+FRA,Laurent Camusson
 FRA,Laurent Duquesne,,,,
 FRA,Laurent Hay
 FRA,Laurent Lasnier
@@ -648,6 +638,7 @@ FRA,Olivier Thiberge
 FRA,P Chervet
 FRA,P Harinkcouck,,,,
 FRA,Pascal Coquelet,,,,
+FRA,Pascal Jullian
 FRA,Patrice Hue,,,,
 FRA,Patrick Wolff,,,,
 FRA,Paul Alric,,,,
@@ -656,6 +647,7 @@ FRA,Paul Roche,,,,
 FRA,Philip Toth,,,,
 FRA,Philippe Boite,,,,
 FRA,Philippe Chantraine
+FRA,Philippe Claraz
 FRA,Philippe Claude
 FRA,Philippe Claude
 FRA,Philippe Dubuc,,,,
@@ -682,6 +674,7 @@ FRA,Pierre Pénisson,,,,
 FRA,Pierre Quil,,,,
 FRA,Pierre Williot,,,,
 FRA,Pierre-Jerome Coulmin,,,,
+FRA,Pierre-Yves Partant
 FRA,R. Morch,,,,
 FRA,Regis Viateur,,,,
 FRA,Riwanon Le Roy,,,,
@@ -706,6 +699,7 @@ FRA,Stephane Pedron
 FRA,Tamara Ritvo,,,,
 FRA,Theo Dutrieux,,,,
 FRA,Thibault Di Pede,,,,
+FRA,Thibault Di Pède
 FRA,Thibault Vincent,,,,
 FRA,Thibaut Vincent,,,,
 FRA,Thierry Rattier,,,,
@@ -1138,6 +1132,7 @@ GER,Frank Böhm,,,,
 GER,Frank Feller,,,,
 GER,Frank Heimburger,,,,
 GER,Frank Rupprich,,,,
+GER,Frank Weigelt
 GER,Frank Wille,,,,
 GER,Frank Zschieschang,,,,
 GER,Franscisco Sanguino-Petersen,,,,
@@ -1156,6 +1151,7 @@ GER,Gerhard Schmidt,,,,
 GER,Gesche Kohlberg,,,,
 GER,Göran Berggren
 GER,Gordon Russell,,,,
+GER,Gregor Dahlem
 GER,Guido von Walter,,,,
 GER,Günter Bökle,,,,
 GER,Gunter Peters,,,,
@@ -1415,6 +1411,7 @@ GER,Thorsten Drewes
 GER,Thorsten Pösch,,,,
 GER,Thorsten Spötter,,,,
 GER,Thure Gnadeberg,,,,
+GER,Till Supan
 GER,Tilman Giesen,,,,
 GER,Tim Boger,,,,
 GER,Timon Treichel,,,,
@@ -1433,6 +1430,7 @@ GER,Ulli Heerdegen,,,,
 GER,Ulrich Ellerbeck,,,,
 GER,Ulrich Meyer,,,,
 GER,Urs Wihlfahrt,,,,
+GER,Ursula Tetzlaff
 GER,Ute Oberländer,,,,
 GER,Ute Stümpel,,,,
 GER,Ute Ziems
@@ -2010,6 +2008,7 @@ USA,Chris Brady,,,,
 USA,Chris Burd,,,,
 USA,Chris Freye,,,,
 USA,Chris Gorton,,,,
+USA,Chris Tackas
 USA,Chris Tuggle,,,,
 USA,Chris Watson
 USA,Chris Woods,,,,
@@ -2120,6 +2119,7 @@ USA,Joe Keating,,,,
 USA,Joe Stoodley,,,,
 USA,Joerg Esdorn,,,,
 USA,John Badtke,,,,
+USA,John Henderson
 USA,John Wyles,,,,
 USA,John Zakaib,,,,
 USA,Jon Bell,,,,
@@ -2128,6 +2128,7 @@ USA,Jonathan Livingston,,,,
 USA,Jonathan Livingstone,,,,
 USA,Jonathan Wenderoth,,,,
 USA,Josh Dyck,,,,
+USA,Josh Lieberman
 USA,Justin Shaffer,,,,
 USA,Kaila Pfrang,,,,
 USA,Keith Davids,,,,
@@ -2209,6 +2210,7 @@ USA,Paul Andron,,,,
 USA,Paul Muus,,,,
 USA,Paul Von,,,,
 USA,Pete Melvin
+USA,Pete Spaulding
 USA,Peter Alarie,,,,
 USA,Phil Ryan,,,,
 USA,Phil Termin,,,,
