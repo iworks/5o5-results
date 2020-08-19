@@ -392,7 +392,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2015-09-11,2015-09-13,Mistrzostwa Polski,Polish Championship,11,23,Puck,MOKSIR Puck/PSK 505,,,,,,2015/country/poland/2015-09-13.polish-championship.puck.POL.csv,National,Zatoka Pucka,POL
 2015-09-12,2015-09-13,Ranking Tampere,,8,6,,,,,,,,2015/country/finland/2015-09-13.ranking-tampere.FIN.csv,,,FIN
 2015-09-19,2015-09-20,Dale Jepsen One-Design Regatta,,6,17,"Bellingham,WA,USA",Bellingham Yacht Club,,,,,,2015/country/usa/2015-09-20.dale-jepsen-one-design-regatta.bellingham-wa.USA.csv,,,USA
-2015-10-02,2015-10-04,Adonite Swiss Open,,6,26,"Estavayer, SUI",Cercle de la Voile d'Estavayer,,,,,,2015/country/switzerland/2015-10-04.adonite-swiss-open.estavayer.SUI.csv,,,SUI
+2015-10-02,2015-10-04,Adonite Swiss Open,,6,26,Estavayer,Cercle de la Voile d'Estavayer,,,,,,2015/country/switzerland/2015-10-04.adonite-swiss-open.estavayer.SUI.csv,National,,SUI
 2015-10-10,2015-10-11,Heineken High Performance Dinghy Open,,7,14,"Rye, NY",American Yacht Club,,,,,,2015/country/usa/2015-10-11.heineken-high-performance-dinghy-open.rye-ny.USA.csv,,,USA
 2015-10-17,2015-10-18,Regaty Zakończenia Sezonu,Season ending regatta,3,9,"Warszawa,POL",,,,,,,2015/country/poland/2015-10-18-zegrze.csv,Polish Cup,Zalew Zegrzyński,POL
 2015-10-31,2015-11-01,505 Open,,2,9,Slough,Datchet Water Sailing Club,,,,,,2015/country/uk/2015-11-01.505-open.slough.GBR.csv,,,GBR
@@ -445,7 +445,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2017-09-01,2017-09-03,Aarhus Festuge Cup,,4,9,"Aarhus,DEN",Aarhus Sejlklub,Jens Fast,Torben Precht-Jensen,,,,2017/country/denmark/2017-09-03-aarhus-festuge-cup.aarhus.DEN.csv,,,DEN
 2017-09-02,2017-09-03,National Espoirs,,8,16,Anse de la Picarde,Club Nautique Haute Seine,,,,,,2017/country/belgium/2017-09-03.national-espoirs.anse-de-la-picarde.FRA.csv,,,FRA
 2017-09-09,2017-09-10,Dale Jepsen One-Design Regatta,,5,15,"Bellingham,WA",Bellingham Yacht Club,,Jonathan Knowles,,,,2017/country/usa/2017-09-10.dale-jepsen-one-design-regatta.bellingham-wa.USA.csv,,,USA
-2017-09-15,2017-09-17,Swiss Open Alpnachersee,,9,12,Stansstad,Wassersportclub Obwalden,,,,,,2017/country/switzerland/2017-09-17-swiss-open-alpnachersee.stansstad.SUI.csv,,,SUI
+2017-09-15,2017-09-17,Swiss Open Alpnachersee,,9,12,Stansstad,Wassersportclub Obwalden,,,,,,2017/country/switzerland/2017-09-17-swiss-open-alpnachersee.stansstad.SUI.csv,National,,SUI
 2017-09-16,2017-09-17,Oktoberfestpreis,,3,10,Tutzing,Deutscher Touring Yacht-Club e.V.,Michael Lohner,Friedrich Hauger,,,,2017/country/germany/2017-09-17.oktoberfestpreis.tutzing.GER.csv,,,GER
 2017-09-20,2017-09-29,World Championship,,8,87,"Annapolis,MD",Severn Sailing Association / Eastport Yacht Club,,Walter Mielke (Ger),,,,2017/world/2017-09-29-world-championship-annapolis.csv,World,,USA
 2017-10-21,2017-10-22,Joachim Hunger Gedächtnispreis,,4,20,"Berlin,GER",Berliner Yacht-Club e.V.,Robert Niemczewski,Gernot Schreiber,,,,2017/country/germany/2017-10-22-joachim-hunger-gedachtnis-preis-berlin-GER.csv,,,GER
@@ -503,7 +503,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2019-06-08,2019-06-09,Santa Cruz Summer Open,,6,8,Santa Cruz,Santa Cruz Yacht Club,,,,,,2019/country/usa/2019-06-09-santa-cruz-summer-open.csv,,,USA
 2019-06-08,2019-06-10,Nordic & Danish Championship,,9,23,Sønderborg,Sønderborg Yacht-Club,,,,,,2019/country/denmark/2019-06-10.nordic-and-danish-championship.sonderborg.DEN.csv,National,,DEN
 2019-06-08,2019-06-10,Pfingstwettfahrten,,2,16,"Herrsching a. Ammersee, GER",Herrschinger Segelclub e.V.,,,,,,2019/country/germany/2019-06-10.pfingstwettfahrten.herrsching-a-ammersee.GER.csv,,,GER
-2019-06-08,2019-06-10,Swiss Open Alpnachersee,,7,4,"Alpnachstad,SUI",Wassersportclub Obwalden,,,,,,2019/country/switzerland/2019-06-10.swiss-open-alpnachersee.alpnachstad.SUI.csv,,,SUI
+2019-06-08,2019-06-10,Swiss Open Alpnachersee,,7,4,Alpnachstad,Wassersportclub Obwalden,,,,,,2019/country/switzerland/2019-06-10.swiss-open-alpnachersee.alpnachstad.SUI.csv,National,,SUI
 2019-06-15,2019-06-16,NSC One Design,,5,6,Ottawa,Nepean Sailing Club,,,,,,2019/country/canada/2019-06-16.nsc-one-design.ottawa.CAN.csv,,,CAN
 2019-06-22,2019-06-30,Kieler Woche,,11,30,"Olympia Zentrum,Kiel-Schilksee,GER",Kieler Yacht-Club e.V.,,,,,,2019/country/germany/2019-06-22-kieler-woche.kiel.GER.csv,Euro Cup,,GER
 2019-06-28,2019-06-30,Helsinki Regatta,,6,7,"Helsinki,FIN",,,,,,,2019/country/finland/2019-06-30.helsinki-regatta.helsinki.FIN.csv,,,FIN
@@ -551,9 +551,9 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2018-03-30,2018-04-01,Cannes,,7,38,Cannes,Yacht club de Cannes,,,,,,2018/country/france/2018-04-01.euro-cup.cannes.FRA.csv,Euro Cup,Mediterranean Sea,FRA
 2016-05-05,2016-05-07,Hyères,,8,50,Hyères,Club de Voile de Hyères,Jean Diaz,Abel Bellaguet,,,,2016/country/france/2016-05-07.euro-cup.hyeres.FRA.csv,Euro Cup,,FRA
 2016-03-26,2016-03-28,Coupe des vrais bateaux,,9,28,,,,,,,,2016/country/france/2016-03-28.coupe-des-vrais-bateaux.FRA.csv,,,FRA
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
+2012-08-28,2012-08-30,Swiss Open,,9,20,Neuch�tel,Cercle de la voile de Neuch�tel,,,,,,2012/country/switzerland/2012-08-30.swiss-open.neuchatel.SUI.csv,National,,SUI
+2016-06-03,2016-06-03,Adonite Swiss Open,,3,16,Bevaix,Club Nautique de Bevaix,,,,,,2016/country/switzerland/2016-06-03.adonite-swiss-open.bevaix.SUI.csv,National,,SUI
+2019-11-17,2020-03-22,SA State Heats 2019/2020,,10,16,,,,,,,,2020/country/australia/2020-03-22.sa-state-heats.AUS.csv,,,AUS
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
