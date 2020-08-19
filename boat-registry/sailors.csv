@@ -1,16 +1,13 @@
 Nation,Name,Club,Description,Birth Date,email
-AUS,Angus Higgins
-AUS,Alexandra South
-AUS,Robin Cross
-AUS,Matt Sanderson
-AUS,Martin Smith
-AUS,Sam Byass
-FRA,Marc-Martin Titouan
-SUI,Walter Ammann
-FRA,Jerome Maupay
-FRA,Dominique Lambard
-FRA,Alain Tosello
-SUI,Jean-Marc Monnard
+USA,Gina Scott
+CAN,Julie Giguere
+CAN,Valerie Fuchshuber
+CAN,Trevor Owen
+CAN,Terry Meade
+CAN,Tom Burnard
+CAN,Adrien Rootsaert
+CAN,Dean Rootsaert
+CAN,Caroline Bougie
 AUS,A. Martin,,,,
 AUS,Adam Brenz-Verca,,,,
 AUS,Adam Wyatt,,,,
@@ -18,11 +15,13 @@ AUS,Adrian Finglas,,,,
 AUS,Adrian Kiely,,,,
 AUS,Alex Murray,,,,
 AUS,Alex Thomson,,,,
+AUS,Alexandra South
 AUS,Amy Lee,,,,
 AUS,Andrew Chisholm,,,,
 AUS,Andrew McCole,,,,
 AUS,Andrew McConaghy,,,,
 AUS,Andrew Petch,,,,
+AUS,Angus Higgins
 AUS,Annabel Jones,,,,
 AUS,Anthony King,,,,
 AUS,Arne Lanatowitz,,,,
@@ -143,9 +142,11 @@ AUS,Mark Engert,,,,
 AUS,Mark Scrymgour,,,,
 AUS,Mark Stowell,,,,
 AUS,Martin Pike,,,,
+AUS,Martin Smith
 AUS,Matt Bowden,,,,
 AUS,Matt Brooman,,,,
 AUS,Matt Merchant,,,,
+AUS,Matt Sanderson
 AUS,Matt Smith,,,,
 AUS,Matt Summers,,,,
 AUS,Matthew Hansen,,,,
@@ -202,9 +203,11 @@ AUS,Robert Fleming,,,,
 AUS,Robert Franks,,,,
 AUS,Robert Gilchrist,,,,
 AUS,Robin Bath,,,,
+AUS,Robin Cross
 AUS,Rod Dalgleish,,,,
 AUS,Roger Pell,,,,
 AUS,Ryan Menzies,,,,
+AUS,Sam Byass
 AUS,Sam Haines,,,,
 AUS,Sam Heritage,,,,
 AUS,Sarah Cooper,,,,
@@ -238,14 +241,17 @@ AUS,Xavier Agnew,,,,
 AUT,Adam Smith,,,,
 AUT,Julian Jöbstl,,,,
 BEL,Alain Mineur,,,,
+BEL,Alain Tosello
 BEL,Bas Van Assche,,,,
 BEL,Casper Martens,,,,
 BEL,Cédric Crets,,,,
-BEL,Emiel Van Hemeldonck
 BEL,Eric Defroimont
 BEL,Fabienne Boucau,,,,
 BEL,Frédéric Decocq,,,,
 BEL,Geert De Pauw,,,,
+BEL,Harald Van Exem
+BEL,Hemeldonck Van Emiel
+BEL,Jan Van Emiel
 BEL,Jan Van Hemeldonck
 BEL,Jeroen Smeets,,,,
 BEL,Kim Van Assche,,,,
@@ -472,6 +478,7 @@ FRA,Benoit Morane,,,,
 FRA,Bernard Blondy,,,,
 FRA,Bernard Dugrip,,,,
 FRA,Bernard Edel,,,,
+FRA,Bernard Le Guen
 FRA,Bernard Peuch,,,,
 FRA,Bertrand Lapeyre
 FRA,Bev Moss,,,,
@@ -499,6 +506,7 @@ FRA,Daniel Wagner
 FRA,David De Monteil,,,,
 FRA,Derek Farrant,,,,
 FRA,Dominique Keraudrenv
+FRA,Dominique Lambard
 FRA,Dominique Rouanne,,,,
 FRA,Edouard Morin,,,,
 FRA,Elisabeth Neidhart,,,,
@@ -587,11 +595,13 @@ FRA,Jean-Pierre Peter,,,,
 FRA,Jeremie Brau,,,,
 FRA,Jerom Delvaux
 FRA,Jerome Legeai,,,,
+FRA,Jerome Maupay
 FRA,Jerome Terrasson
 FRA,Jerome Zimmowitch,,,,
 FRA,Jordane Lafortune,,,,
 FRA,Jules Ducelier,,,,
 FRA,Julien Lafortune,,,,
+FRA,Julien Letissier
 FRA,Julien Lovadina,,,,
 FRA,July-Wormit Mareva,,,,
 FRA,Killian Zimmowitch,,,,
@@ -607,6 +617,7 @@ FRA,Laurent Lasnier
 FRA,Laurent Michel,,,,
 FRA,Lawrence Banahan,,,,
 FRA,Loic Bleuez,,,,
+FRA,Loic Brillaud
 FRA,Louis Claude,,,,
 FRA,Louise Acker,,,,
 FRA,Louis-Michel Ces,,,,
@@ -619,10 +630,12 @@ FRA,Marc Riot
 FRA,Marcel Buffet,,,,
 FRA,Marcel Troupel,,,,
 FRA,Marc-Henri Guitteny,,,,
+FRA,Marc-Martin Titouan
 FRA,Marie Nowak,,,,
 FRA,Marine Delagrange,,,,
 FRA,Marion Michel,,,,
 FRA,Mathieu Fountaine,,,,
+FRA,Mathieu Ingrand
 FRA,Matthieu Gougeon,,,,
 FRA,Matthieu Guibbal,,,,
 FRA,Maxime Aroux,,,,
@@ -1104,6 +1117,7 @@ GER,Christoph Bökle,,,,
 GER,Christoph Hessel
 GER,Christoph Klein,,,,
 GER,Claas Lehmann,,,,
+GER,Claudia Conrads
 GER,Claudius Zeiler,,,,
 GER,Cord-Henrich Lefhalm
 GER,Daniel Czeninga,,,,
@@ -1115,6 +1129,7 @@ GER,Dietrich Scheder,,,,
 GER,Dietrich Scheder-Bieschin,,,,
 GER,Dirk Barteldt,,,,
 GER,Dirk Filimonow,,,,
+GER,Dirk Frank
 GER,Dirk Hänsgen,,,,
 GER,Dirk Hütten,,,,
 GER,Dirk Ipach,,,,
@@ -1234,6 +1249,7 @@ GER,Julia Trusen,,,,
 GER,Julian Stückl,,,,
 GER,Juliane Kohl,,,,
 GER,Julien Kleiner,,,,
+GER,Julius Jacoby
 GER,Jürgen Feuerhake,,,,
 GER,Jürgen Joseph,,,,
 GER,Justus Rauno,,,,
@@ -1314,6 +1330,7 @@ GER,Michael Heyder,,,,
 GER,Michael Klügel
 GER,Michael Köritz,,,,
 GER,Michael Krause,,,,
+GER,Michael Kurzeja
 GER,Michael Müller,,,,
 GER,Michael Rehberg,,,,
 GER,Michael Rössler,,,,
@@ -1388,6 +1405,8 @@ GER,Sebastian Wiemer,,,,
 GER,Siegfried Labenz,,,,
 GER,Sophie Söllner,,,,
 GER,Stefan Brückner,,,,
+GER,Stefan Kempf
+BEL,Lionel Lambert
 GER,Stefan Krumm,,,,
 GER,Stefan Schmidt,,,,
 GER,Stefan Schollmayer,,,,
@@ -1471,6 +1490,7 @@ IRL,John Dunlea,,https://www.youtube.com/channel/UCTOXVv_53aQqzpktecluPAg,,
 IRL,John O'Gorman,,,,
 IRL,Michael Ennis,,,,
 IRL,Pal O'Sullivan,,,,
+ITA,Alfredo Annese
 ITA,Andrea Greco,,,,
 ITA,Andrea Messina,,,,
 ITA,Cesare Giorgetti,,,,
@@ -1478,7 +1498,10 @@ ITA,Claus Quarz
 ITA,Gabriele Cortegiani,,,,
 ITA,Gabriele Natali,,,,
 ITA,Giacinto Piacquadio,,,,
+ITA,Luca Manzi
+ITA,Paolo Corbellini
 ITA,Roberto Candela,,,,
+ITA,Roberto Loce
 ITA,Urs Vetter
 JPN,Aiko Saito,,,,
 JPN,Shiro Noguchi,,,,
@@ -1791,6 +1814,7 @@ SUI,Florian Stauffer,,,,
 SUI,Giles Donzé,,,,
 SUI,Gilles Petermann,,,,
 SUI,Jean-Francois de Cerjat
+SUI,Jean-Marc Monnard
 SUI,Jean-Marie Tinembart,,,,
 SUI,Jean-Philippe Senn,,,,
 SUI,John Bergquist,,,,
@@ -1815,6 +1839,7 @@ SUI,Sacha Wirth,,,,
 SUI,Stephan Burri
 SUI,Toni Utiger,,,,
 SUI,Valéry Jacot,,,,
+SUI,Walter Ammann
 SUI,Yves Reinacher,,,,
 SUI,Yvo Dürr,,,,
 SWE,Åkesson Fredrik

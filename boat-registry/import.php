@@ -79,6 +79,7 @@ if ( in_array( 'all', $argv ) ) {
  * import sailors
  */
 if ( $import_sailors && ( $handle = fopen( 'sailors.csv', 'r' ) ) !== false ) {
+	$counter = 1;
 	echo PHP_EOL,'IMPORT: sailors.csv',PHP_EOL;
 		/**
 		 * Fields:
@@ -117,10 +118,11 @@ if ( $import_sailors && ( $handle = fopen( 'sailors.csv', 'r' ) ) !== false ) {
 			}
 			$post = get_page_by_title( $p, OBJECT, $person_post_type_name );
 			if ( ! empty( $post ) ) {
-				echo 'x';
+				int505_echo_dot( $counter, 'fail' );
+				$counter++;
 				continue;
 			}
-			echo '.';
+			int505_echo_dot( $counter );
 			$post_array = array(
 				'post_title'  => $p,
 				'post_type'   => $person_post_type_name,
@@ -157,12 +159,17 @@ if ( $import_sailors && ( $handle = fopen( 'sailors.csv', 'r' ) ) !== false ) {
 			}
 			wp_insert_post( $post_array );
 		} else {
-			echo 'x';
+			int505_echo_dot( $counter, 'fail' );
 		}
+		$counter++;
 	}
 }
 
-$rows = array();
+/**
+ * registry
+ */
+$counter = 0;
+$rows    = array();
 if ( $import_registry && ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) {
 	echo PHP_EOL,'IMPORT: registry.csv',PHP_EOL;
 	while ( ( $data = fgetcsv( $handle, 0, ',' ) ) !== false ) {
@@ -171,7 +178,7 @@ if ( $import_registry && ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) 
 		}
 		$post = get_page_by_title( $data[0], OBJECT, $boat_post_type_name );
 		if ( empty( $post ) ) {
-			echo '.';
+			int505_echo_dot( $counter );
 			/*
 			 *  0 Sail No
 			 *  1 Year Built
@@ -450,23 +457,19 @@ if ( $import_registry && ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) 
 					if ( 1 < sizeof( $persons ) ) {
 						$users_ids = array();
 						foreach ( $persons as $name ) {
-							$date_from = null;
+							$date_from = $date_to = null;
 							$name      = trim( $name );
 							$name      = preg_replace( '/\-$/', '', $name );
 							if ( empty( $name ) ) {
 								continue;
 							}
-							if ( preg_match( '/[\d-]\+$/', $name, $matches ) ) {
-								print_r( $matches );
-							}
-							if ( preg_match( '/[\'`\t ](\d+)$/', $name, $matches ) ) {
-								$name = preg_replace( '/[\'`\t ]+\d+$/', '', $name );
-								$year = $matches[1];
-								if ( 56 > $year ) {
-									$year += 100;
-								}
-								$year     += 1900;
-								$date_from = sprintf( '%d-01-01', $year );
+							if ( preg_match( '/(\d+)\-(\d+)$/', $name, $matches ) ) {
+								$date_from = int505_import_fix_year( $matches[1] );
+								$date_to   = int505_import_fix_year( $matches[2], 'end' );
+								$name      = preg_replace( '/[\'`\t \d\-]+$/', '', $name );
+							} elseif ( preg_match( '/[\'`\t ](\d+)$/', $name, $matches ) ) {
+								$name      = preg_replace( '/[\'`\t \d]+$/', '', $name );
+								$date_from = int505_import_fix_year( $matches[1] );
 							}
 							$person = get_person_by_name( $name );
 							if ( is_object( $person ) ) {
@@ -474,7 +477,7 @@ if ( $import_registry && ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) 
 								$users_ids[] = $person->ID;
 							}
 						}
-						$o = add_more_owners( $users_ids, $date_from, $type );
+						$o = add_more_owners( $users_ids, $date_from, $date_to, $type );
 						if ( ! empty( $o ) ) {
 							$owners[] = $o;
 						}
@@ -499,9 +502,9 @@ if ( $import_registry && ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) 
 				add_post_meta( $post_ID, $owners_field_name, $owners, true );
 			}
 		} else {
-			echo 'x';
-			// echo 'x(',$data[0],')';
+			int505_echo_dot( $counter, 'fail' );
 		}
+		$counter++;
 	}
 	/**
 	 * update term  counter

@@ -74,7 +74,7 @@ function add_century_to_date( $year ) {
 	return sprintf( '%d-01-01', $year );
 }
 
-function add_more_owners( $users_ids, $date_from, $order = false ) {
+function add_more_owners( $users_ids, $date_from, $date_to, $order = false ) {
 	if ( empty( $users_ids ) ) {
 		return;
 	}
@@ -84,6 +84,7 @@ function add_more_owners( $users_ids, $date_from, $order = false ) {
 			'current'   => 'current' === $order,
 			'users_ids' => $users_ids,
 			'date_from' => $date_from,
+			'date_to'   => $date_to,
 		),
 		array(
 			'current'   => false,
@@ -142,53 +143,53 @@ function add_organization( $raw, $person, $date_from = '', $order = false ) {
 }
 
 function check_is_person( $data ) {
-    if ( 7 > strlen( $data ) ) {
-        if ( show_debug() ) {
-            echo PHP_EOL,'short: ',$data,PHP_EOL;
-        }
-        return false;
-    }
-    if ( ! preg_match( '/ /', $data ) ) {
-        if ( show_debug() ) {
-            echo PHP_EOL,'no-space: ',$data,PHP_EOL;
-        }
-        return false;
-    }
-    switch ( $data ) {
-    case 'Alexandria Wooden Boat Society':
-    case 'Avocado Sail Training Association':
-    case 'Burnham-Sharpe Co':
-    case 'Burnham-Sharpe Co.':
-    case 'Eklund Brothers':
-    case 'Elkington Brothers':
-    case 'German Class Assn':
-    case 'Grosheny brothers':
-    case 'Indiana University':
-    case 'Indiana University Yacht Club':
-    case 'Krywood Composites':
-    case 'Larchmont Yacht Club':
-    case 'Moss-Lovshin family':
-    case 'Orange Coast College':
-    case 'Pegasus Racing':
-    case 'Pettipaug Jr. Sailing Academy':
-    case 'Redwood City':
-    case 'Sailing club in Washington State':
-    case 'Sawanaka Corinthian Yacht Club':
-    case 'School in Queen Anne':
-    case 'Schwaebisch Hall':
-    case 'some New England sailing academy':
-    case 'some New England sailing academy.':
-    case 'St. George\'s School Sailing Club':
-    case 'St. Johns Jr. College':
-    case 'St. Vincents Gulf 505 Association':
-    case 'Team Eskimo':
-    case 'Team Pegasus':
-    case 'US Coastguard Academy':
-    case 'Wansborough family':
-    case 'Web Institute':
-        return false;
-    }
-    return true;
+	if ( 7 > strlen( $data ) ) {
+		if ( show_debug() ) {
+			echo PHP_EOL,'short: ',$data,PHP_EOL;
+		}
+		return false;
+	}
+	if ( ! preg_match( '/ /', $data ) ) {
+		if ( show_debug() ) {
+			echo PHP_EOL,'no-space: ',$data,PHP_EOL;
+		}
+		return false;
+	}
+	switch ( $data ) {
+		case 'Alexandria Wooden Boat Society':
+		case 'Avocado Sail Training Association':
+		case 'Burnham-Sharpe Co':
+		case 'Burnham-Sharpe Co.':
+		case 'Eklund Brothers':
+		case 'Elkington Brothers':
+		case 'German Class Assn':
+		case 'Grosheny brothers':
+		case 'Indiana University':
+		case 'Indiana University Yacht Club':
+		case 'Krywood Composites':
+		case 'Larchmont Yacht Club':
+		case 'Moss-Lovshin family':
+		case 'Orange Coast College':
+		case 'Pegasus Racing':
+		case 'Pettipaug Jr. Sailing Academy':
+		case 'Redwood City':
+		case 'Sailing club in Washington State':
+		case 'Sawanaka Corinthian Yacht Club':
+		case 'School in Queen Anne':
+		case 'Schwaebisch Hall':
+		case 'some New England sailing academy':
+		case 'some New England sailing academy.':
+		case 'St. George\'s School Sailing Club':
+		case 'St. Johns Jr. College':
+		case 'St. Vincents Gulf 505 Association':
+		case 'Team Eskimo':
+		case 'Team Pegasus':
+		case 'US Coastguard Academy':
+		case 'Wansborough family':
+		case 'Web Institute':
+			return false;
+	}
+	return true;
 }
 
 function handle_serie_taxonomy( $serie, &$series, &$post_array, $parent = 0 ) {
@@ -229,4 +230,41 @@ function get_country_from_code( $code ) {
 	return $code;
 }
 
+function int505_import_fix_year( $year, $pointer = 'begin' ) {
+	if ( preg_match( '/^\d+$/', $year ) ) {
+		$year = intval( $year );
+	}
+	if ( 1900 > $year ) {
+		if ( 56 > $year ) {
+			$year += 100;
+		}
+		$year += 1900;
+	}
+	if ( 'end' === $pointer ) {
+		return sprintf( '%d-12-31', $year );
+	}
+	return sprintf( '%d-01-01', $year );
+}
+
+function int505_echo_dot( $counter, $type = 'success' ) {
+	if ( 0 === $counter % 10 ) {
+		echo ' ';
+	}
+	if ( 0 === $counter % 100 ) {
+		echo PHP_EOL;
+		if ( 0 === $counter % 1000 ) {
+			echo '------------------',PHP_EOL;
+		}
+	}
+	switch ( $type ) {
+		case 'success':
+			echo '.';
+			break;
+		case 'fail':
+			echo 'x';
+			break;
+		default:
+			echo '-';
+	}
+}
 
