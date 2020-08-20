@@ -1246,12 +1246,20 @@ class iworks_5o5_upload_fixer {
 			'Ramsbek'  => 'Morten Ramsbæk',
 		),
 		array(
+			'Saugmann' => 'Jan Saugmann',
+			'Ramsbaek' => 'Morten Ramsbæk',
+		),
+		array(
 			'Hartwig' => 'Jens Hartwig',
 			'Stöckl'  => 'Wolfgang Stückl',
 		),
 		array(
 			'Espersen' => 'Lars Espersen',
 			'Rohde'    => 'Søren Rohde',
+		),
+		array(
+			'Bojland' => 'Tom Bøjland',
+			'Rohde'   => 'Søren Rohde',
 		),
 		array(
 			'Bojland'    => 'Tom Bøjland',
@@ -1673,6 +1681,46 @@ class iworks_5o5_upload_fixer {
 			'Schulz'     => 'Kevin Schultz',
 			'Estabrooks' => 'Penny Eastabrooke',
 		),
+		array(
+			'Brown'  => 'Robin Brown',
+			'Thomas' => 'Dave Thomas',
+		),
+		array(
+			'Brown'    => 'Brown',
+			'Jacobsen' => 'Per Jacobsen',
+		),
+		array(
+			'Salter'   => 'Scott Salter',
+			'Jacobsen' => 'Per Jacobsen',
+		),
+		array(
+			'Bergstrom' => 'Krister Bergström',
+			'Moss'      => 'Thomas Moss',
+		),
+		array(
+			'Shonherr' => 'Jørgen Schönherr',
+			'Kaempe'   => 'Anders Kæmpe',
+		),
+		array(
+			'Gosh'  => 'Tom Gosche',
+			'Meier' => 'Rolf Meyer',
+		),
+		array(
+			'Andreasen'  => 'Sören Andreasen',
+			'Langendorf' => 'Jens Langendorf',
+		),
+		array(
+			'Fredsted' => 'Rasmus Fredsted',
+			'Hartvig'  => 'Thomas Hartvig',
+		),
+		array(
+			'Lindwall' => 'Jakob Lindvall',
+			'Byrenius' => 'Kalle Byrenius',
+		),
+		array(
+			'Michels' => 'Thore Michels',
+			'Schmidt' => 'Andreas Schmidt',
+		),
 		/*
 		array(
 			'' => '',
@@ -1700,6 +1748,7 @@ class iworks_5o5_upload_fixer {
 		'Achterberg Julia'            => 'Julia Achterberg',
 		'Adalbel Kluck'               => 'Adalbert Kluck',
 		'Adam Gesin'                  => 'Adam Gesing',
+		'Adam Gessing'                => 'Adam Gesing',
 		'Adam Kenny'                  => 'Adam Kenney',
 		'Adam Lowery'                 => 'Adam Lowry',
 		'Adam Mailling'               => 'Adam Malling',
@@ -1884,6 +1933,7 @@ class iworks_5o5_upload_fixer {
 		'Caminade Francois'           => 'Francois Caminade',
 		'Carl Gibbons'                => 'Carl Gibbon',
 		'Carl Smith'                  => 'Carl Smit',
+		'Carnallo Clai'               => 'Clair Carvallo',
 		'Carninede Francois'          => 'Francois Caminade',
 		'Carvalleo Samuel'            => 'Samuel Carvallo',
 		'Carvallo Gilles'             => 'Gilles Carvallo',
@@ -2237,6 +2287,7 @@ class iworks_5o5_upload_fixer {
 		'H. Rix Hans'                 => 'Hans-Heinrich Rix',
 		'H Rogotzki'                  => 'Hans Rogotzki',
 		'Hamlin Howard'               => 'Howard Hamlin',
+		'Hammer Carsten'              => 'Carsten Hammer',
 		'Hannu Poyry'                 => 'Hannu Pöyry',
 		'Hans Heinrich Rix'           => 'Hans-Heinrich Rix',
 		'Hans Nöldecke'               => 'Hans Nöldeke',
@@ -2437,9 +2488,12 @@ class iworks_5o5_upload_fixer {
 		'Joern Wille'                 => 'Jörn Wille',
 		'Johan Rook'                  => 'Johan Röök',
 		'Johann Baecksin'             => 'Johan Backsin',
+		'Johat Mildred'               => 'Jonat Mildred',
 		'John Berquist'               => 'John Bergquist',
 		'John Mclean'                 => 'John McLean',
 		'John Mclean CRAZY*'          => 'John McLean',
+		'John Mildram'                => 'John Mildred',
+		'John Mildrid'                => 'John Mildred',
 		'John O\'gorman'              => 'John O\'Gorman',
 		'Johnson Nick'                => 'Nick Johnston',
 		'Jon Anderson'                => 'Jon Andersen',
@@ -2962,6 +3016,7 @@ class iworks_5o5_upload_fixer {
 		'R Schearar'                  => 'Rick Shearar',
 		'Rainer Goerge'               => 'Rainer Görge',
 		'Rainer Gorge'                => 'Rainer Görge',
+		'Ralf Meyer'                  => 'Rolf Meyer',
 		'Ralf Schneiderwind'          => 'Ralf Schneidewind',
 		'Ralston Vernon'              => 'Vernon Ralston',
 		'Ramsbaek Morten'             => 'Morten Ramsbæk',
@@ -2973,6 +3028,7 @@ class iworks_5o5_upload_fixer {
 		'Rene De la Rie'              => 'Rene de la Rie',
 		'Rene De La Rie'              => 'Rene de la Rie',
 		'Rene Delarie'                => 'Rene de la Rie',
+		'Renka Gessing'               => 'Renka Gesing',
 		'R.Farrant'                   => 'Robin Farrant',
 		'Rich Berry'                  => 'Richard Berry',
 		'Rich Mudel'                  => 'Rich Mundell',
@@ -3089,6 +3145,7 @@ class iworks_5o5_upload_fixer {
 		'Sören Arleth'                => 'Søren Arleth',
 		'Soren Asboe Jorgensen'       => 'Søren Asboe Jørgensen',
 		'Soren Overbeck'              => 'Søren Overbeck',
+		'Soren Rohde'                 => 'Søren Rohde',
 		'Spratt Simon'                => 'Simon Spratt',
 		'Stauffer Florian'            => 'Florian Stauffer',
 		'Ste Angela'                  => 'Angela Stenger',
