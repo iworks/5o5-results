@@ -690,6 +690,10 @@ class iworks_5o5_upload_fixer {
 			'tenHove' => 'Martin ten Hove',
 		),
 		array(
+			'Boyd'    => 'Jeff Boyd',
+			'Tenhove' => 'Martin ten Hove',
+		),
+		array(
 			'Taugher' => 'Kevin Taugher',
 			'Trip'    => 'Chuck Tripp',
 		),
@@ -736,6 +740,10 @@ class iworks_5o5_upload_fixer {
 		array(
 			'Deane'    => '',
 			'Williams' => 'Tim Williams',
+		),
+		array(
+			'Meller' => 'Alexander "Ali" Meller',
+			'Smith'  => 'Mike Smith',
 		),
 		array(
 			'Meller'  => 'Alexander "Ali" Meller',
@@ -832,6 +840,10 @@ class iworks_5o5_upload_fixer {
 		array(
 			'Fowler' => 'Neal Fowler',
 			'Dyson'  => 'Dave Dyson',
+		),
+		array(
+			'Fowler'     => 'Neal Fowler',
+			'VanVoorhis' => 'VanVoorhis',
 		),
 		array(
 			'Amthor' => 'Henry Amthor',
@@ -946,6 +958,10 @@ class iworks_5o5_upload_fixer {
 			'Mills'   => 'Mike Mills',
 		),
 		array(
+			'Trotman' => 'Nick Trotman',
+			'Adams'   => 'Adams',
+		),
+		array(
 			'Moore' => 'Tyler Moore',
 			'Ikle'  => 'Scott Iklé',
 		),
@@ -964,6 +980,18 @@ class iworks_5o5_upload_fixer {
 		array(
 			'Kivney'     => 'Thomas Kivney',
 			'Chamberlin' => 'Wolf Chamberlain',
+		),
+		array(
+			'Kivney' => 'Thomas Kivney',
+			'Kitney' => 'Kitney',
+		),
+		array(
+			'Kivney'   => 'Thomas Kivney',
+			'Penfield' => 'Penfield',
+		),
+		array(
+			'Kivney' => 'Thomas Kivney',
+			'Schell' => 'Schell',
 		),
 		array(
 			'Grey'   => 'Nicholas Grey',
@@ -1159,6 +1187,10 @@ class iworks_5o5_upload_fixer {
 		),
 		array(
 			'Meller' => 'Alexander Meller',
+			'Fry'    => 'John Fry',
+		),
+		array(
+			'Nelson' => 'Macy Nelson',
 			'Fry'    => 'John Fry',
 		),
 		array(
@@ -1727,7 +1759,7 @@ class iworks_5o5_upload_fixer {
 		),
 		array(
 			'VanLandingham' => 'Robbie VanLandingham',
-			'Keckler' => 'Steve Keckler',
+			'Keckler'       => 'Steve Keckler',
 		),
 		array(
 			'James' => 'Clayton James',
@@ -1744,8 +1776,7 @@ class iworks_5o5_upload_fixer {
 	/**
 	 * foo
 	 */
-    private $person = array(
-        'Wolf Chamberlain' => 'Wolfgang Chamberlain',
+	private $person = array(
 		'011e Wenrup'                 => 'Olle Wenrup',
 		'A. Franklin'                 => 'Alan Franklin',
 		'A Holm'                      => 'Albrecht Holm',
@@ -1874,6 +1905,7 @@ class iworks_5o5_upload_fixer {
 		'Berwid Kowaalzig'            => 'Bernd Kowalzig',
 		'Betschen Rene'               => 'René Betschen',
 		'Betschen René'               => 'René Betschen',
+		'Betsy O’Brien'               => 'Betsy O\'Brien',
 		'Biederer Jens'               => 'Jens Biederer',
 		'Bill Hasterman'              => 'Bill Masterman',
 		'Bill Mastermann'             => 'Bill Masterman',
@@ -1893,6 +1925,7 @@ class iworks_5o5_upload_fixer {
 		'Blevez Loic'                 => 'Loic Bleuez',
 		'Bob Crisp'                   => 'Robert Crisp',
 		'Bob Franks'                  => 'Robert Franks',
+		'Bob O’Brien'                 => 'Bob O\'Brien',
 		'Bob O\'brien'                => 'Robert O\'Brien',
 		'Bob Tennant'                 => 'Robert Tennant',
 		'Bochu Christoph'             => 'Christophe Bochu',
@@ -2017,6 +2050,7 @@ class iworks_5o5_upload_fixer {
 		'Cody Kawalski'               => 'Cody Kowalski',
 		'Conze Gil'                   => 'Giles Donzé',
 		'Cosh Patrick Mac'            => 'Patrick McCosh',
+		'Craig Coltharp'              => 'Craig Coltharpe',
 		'Craig Mcminn'                => 'Craig McMinn',
 		'Craig Preze'                 => 'Craig Perez',
 		'Craig Thomson'               => 'Craig Thompson',
@@ -2084,6 +2118,7 @@ class iworks_5o5_upload_fixer {
 		'De Kergariou Herve'          => 'Hervé de Kergariou',
 		'De Kergariou Pierre'         => 'Pierre de Kergariou',
 		'de la Rie'                   => 'Rene de la Rie',
+		'de La Rie'                   => 'Rene de la Rie',
 		'De Monteil David'            => 'David De Monteil',
 		'De Mouilla Valleteau'        => 'Valleteau de Moulliac',
 		'De Pauw Geert'               => 'Geert De Pauw',
@@ -2116,6 +2151,7 @@ class iworks_5o5_upload_fixer {
 		'Doerenbecher Francis'        => 'Francis Doerenbecher',
 		'Dogulas Hagan'               => 'Douglas Hagan',
 		'Domi Keraudrenv'             => 'Dominique Keraudrenv',
+		'Dominck Marchall'            => 'Dominic Marchal',
 		'Dominiqu Keraudrenv'         => 'Dominique Keraudrenv',
 		'Dominique Keraudren'         => 'Dominique Keraudrenv',
 		'Donald Aitkin'               => 'Donald Aitken',
@@ -3070,6 +3106,7 @@ class iworks_5o5_upload_fixer {
 		'Robby Duessen'               => 'Robin Deussen',
 		'Robert Buidenkin'            => 'Robert Burdekin',
 		'Robert Waterman'             => 'Rob Waterman',
+		'Robert Woelful'              => 'Rob Woelfel',
 		'Roberto Steinke'             => 'Robert Steinke',
 		'RobWoelfel'                  => 'Rob Woelfel',
 		'RoIf Bertenrath'             => 'Rolf Bertenrath',
@@ -3184,6 +3221,7 @@ class iworks_5o5_upload_fixer {
 		'Steve Anders'                => 'Steve Anderes',
 		'Steve Bartz'                 => 'Steven Bartz',
 		'Steve Benjamin'              => 'Stephen Benjamin',
+		'Steve Bordow'                => 'Stephen Bourdow',
 		'Steve Bourdow'               => 'Stephen Bourdow',
 		'Steve Gallagher'             => 'Stephen Gallagher',
 		'Steve Hegestrom'             => 'Steve Hegerstrom',
@@ -3357,6 +3395,8 @@ class iworks_5o5_upload_fixer {
 		'Wedge Martin'                => 'Martin Wedge',
 		'Weichel Franco'              => 'Franco Weichel',
 		'Weiß Maxi'                   => 'Maximilian Weiß',
+		'Wendy Hegboy'                => 'Wendy Herzberg',
+		'Wendy Herzburg'              => 'Wendy Herzberg',
 		'Wenrup / Olle'               => 'Olle Wenrup',
 		'Wilf Cham'                   => 'Wolf Chamberlain',
 		'Wilhelm Johannisson'         => 'Wilhelm Johanisson',
@@ -3365,6 +3405,7 @@ class iworks_5o5_upload_fixer {
 		'Wladyslaw Kondej'            => 'Władysław Kondej',
 		'Wojtek Butkiewicz'           => 'Wojciech Butkiewicz',
 		'Wojtek Gierak'               => 'Wojciech Gierak',
+		'Wolf Chamberlain'            => 'Wolfgang Chamberlain',
 		'Wolfang Hunger'              => 'Wolfgang Hunger',
 		'Wolfang Stueckl'             => 'Wolfgang Stückl',
 		'Wolff Philippe'              => 'Philippe Wolff',
