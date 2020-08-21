@@ -129,7 +129,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 1999-04-10,1999-04-11,Hi-Per,,8,6,"Los Angeles, CA","California Yacht Club, Marina del Ray, ",,,,,,1999/country/usa/1999-04-11.hi-per.los-angeles-ca.USA.csv,,,USA
 1999-05-13,1999-05-16,Riva Cup,,5,49,Riva del Garda,Fraglia Vela Riva,,,,,,1999/country/italy/1999-05-16.riva-cup.riva-del-garda.ITA.csv,Euro Cup,Riva Del Garda,ITA
 1999-05-31,1999-06-04,North American Championship,,7,14,"Corpus Christi, TX",Corpus Christi Yacht Club,,Steve Tupper,,,,1999/continental/1999-06-04.north-american-championship.corpus-christi-tx.USA.csv,Continental,,USA
-1999-06-19,1999-06-20,Nepean One Design,,7,8,Ottawa,Nepean Sailing Club,,,,,,1999/country/canada/1999-06-20.nepean-one-design.ottawa.CAN.csv,,,CAN
+1999-06-19,1999-06-20,Nepean One Design,,7,8,"Ottawa, ON",Nepean Sailing Club,,,,,,1999/country/canada/1999-06-20.nepean-one-design.ottawa.CAN.csv,,,CAN
 1999-06-25,1999-06-27,Nieuwpoort,,9,16,Nieuwpoort,,,,,,,1999/country/belgium/1999-06-27.europa-cup.nieuwpoort.BEL.csv,Euro Cup,,BEL
 1999-07-02,1999-07-04,Eastern Canadian Championship,,7,13,"Windsor, ON",South Port Sailing Club,,Mike Agrell,,,,1999/country/canada/1999-07-04.eastern-canadian-championship.windsor-on.CAN.csv,,,CAN
 1999-07-02,1999-07-04,Pre-Worlds,,4,88,Quiberon,,,,,,,1999/world/1999-07-04.pre-worlds.quiberon-france.csv,Pre-Worlds,,GBR
@@ -566,8 +566,8 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 1999-06-06,1999-06-06,One Day Open Meeting,,4,11,Ashford,Queen Mary Sailing Club,,,,,,1999/country/uk/1999-06-06.one-day-open-meeting.ashford.GBR.csv,,,GBR
 1999-05-15,1999-05-16,Hoover Spring Regatta,,10,7,"Columbus, OH",Hoover Reservoir,,,,,,1999/country/usa/1999-05-16.hoover-spring-regatta.columbus-oh.USA.csv,,,USA
 1999-06-01,1999-06-01,EuroCup & Scandinavian Championship,,6,20,Koge,,,,,,,1999/country/denmark/1999-06-01.eurocup-scandinavian-championship.koge.DEN.csv,Euro Cup,,DEN
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
+1999-05-22,1999-05-22,Bristol Spring,,7,6,"Bristol, RI",Bristol Yacht Club,,,,,,1999/country/usa/1999-05-22.bristol-spring.bristol-ri.USA.csv,,,USA
+1999-08-11,1999-08-12,Fleet 4 Championship,,8,6,"Ottawa, ON","Nepean Sailing Club,",,,,,,1999/country/canada/1999-08-12.fleet-4-championship.ottawa-on.CAN.csv,,,CAN
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
