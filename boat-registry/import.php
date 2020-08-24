@@ -79,7 +79,7 @@ if ( in_array( 'all', $argv ) ) {
  * import sailors
  */
 if ( $import_sailors && ( $handle = fopen( 'sailors.csv', 'r' ) ) !== false ) {
-	$counter = 1;
+	$counter = 0;
 	echo PHP_EOL,'IMPORT: sailors.csv',PHP_EOL;
 		/**
 		 * Fields:

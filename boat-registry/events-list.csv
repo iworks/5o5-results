@@ -260,11 +260,11 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2007-07-07,2007-07-09,Nord Cup,,3,7,Górki Zachodnie,,,,,,,2007/country/poland/2007-06-10-nord-cup.csv,Polish Cup,Zatoka Gdańska,POL
 2007-07-10,2007-07-14,UK National Championship,,5,30,,South Caernarvonshire YC,,,,,,2007/country/uk/2007-07-14-national-championship.GBR.csv,National,,GBR
 2007-08-24,2007-08-26,Pre-Europeans & Mistrzostwa Polski,,6,61,Sopot,,,,,,,2007/country/poland/2007-08-26.mistrzostwa-polski.sopot.POL.csv,"National, Polish Cup",Zatoka Gdańska,POL
-2007-08-26,2007-09-01,European Championship,,9,53,Sopot,,Beata Zajkowska,Zbigniew Czubek,"NW,W,W,W,W,W,W,W,NW","9-11,4-6,3-7,3-7,5-9,5-9,2-3,2-7,3-7",,2007/continental/2007-09-01.european-championship.sopot.POL.csv,"Continental,Europe",Zatoka Gdańska,POL
+2007-08-26,2007-09-01,European Championship,,9,53,Sopot,,Beata Zajkowska,Zbigniew Czubek,"NW,W,W,W,W,W,W,W,NW","9-11,4-6,3-7,3-7,5-9,5-9,2-3,2-7,3-7",,2007/continental/2007-09-01.european-championship.sopot.POL.csv,"Continental,Europe,Euro Cup",Zatoka Gdańska,POL
 2007-10-16,2007-10-19,North American Championship,,7,30,"Annapolis, MD",,,,,,,2007/continental/2007-10-19-north-america-championship.csv,Continental,,USA
 2008-01-01,2008-01-01,Canadian Championship,,9,15,"Kingston,ON",Kingston Yacht Club,,,,,,2008/country/canada/2008.canadian-championship.kingston.CAN.csv,National,,CAN
 2008-03-09,2008-03-09,Interligue,,4,8,Viry Chatillon,Club Nautique de Viry Chatillon,Didier Dagommer,Olivier Balazuc,,,,2008/country/france/2008-03-09.interligue.viry-chatillon.FRA.csv,,,FRA
-2008-03-21,2008-03-23,Saint Raphaël,,3,65,"Saint Raphaël,FRA",,,,,,,2008/country/france/2008-03-23-ec-france-st-raphael.st-raphael.FRA.csv,Euro Cup,,FRA
+2008-03-21,2008-03-23,Saint Raphaël,,3,65,Saint Raphaël,,,,,,,2008/country/france/2008-03-23-ec-france-st-raphael.st-raphael.FRA.csv,Euro Cup,,FRA
 2008-04-24,2008-04-25,National en eaux intérieures,,4,14,Charavines,Yacht Club Grenoble Charavines,,,,,,2008/country/france/2008-04-25.national-en-eaux-interieures.charavines.FRA.csv,,,FRA
 2008-04-26,2008-04-26,Régionale/HN,,3,16,Strasbourg,Aquatic Club d'Alsace Lorraine,Philippe Fernandez,Dominique Wendling,,,,2008/country/france/2008-04-26.regionale-505-hn.strasbourg.FRA.csv,,,FRA
 2008-06-14,2008-06-15,Interligue,,6,5,Salles-Curan,C.Y.V.P. Yachting Center Sail Pareloup,,,,,,2008/country/france/2008-06-15.interligue.salles-curan.FRA.csv,,,FRA
@@ -278,11 +278,11 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2008-09-13,2008-09-14,Régionale/HN,,6,13,Strasbourg,Aquatic Club d'Alsace Lorraine,,,,,,2008/country/france/2008-09-14.regionale-505-hn.strasbourg.FRA.csv,,,FRA
 2008-10-18,2008-10-19,Challenge Jacques Lebrun,,5,9,Les Mureaux,Cercle de la Voile de Paris,,,,,,2008/country/france/2008-10-19.challenge-jacques-lebrun.les-mureaux.FRA.csv,,,FRA
 2009-01-23,2009-01-23,Skivoile International,,3,27, Juan les Pins,Club Nautique d'Antibes,,,,,,2009/country/france/2009-01-23.skivoile-international.juan-les-pins.FRA.csv,,,FRA
-2009-04-10,2009-04-10,Saint Raphaël,,6,66,"Saint Raphaël,FRA",,,,,,,2009/country/france/2009-04-10-ec-france-st-raphael.st-raphael.FRA.csv,Euro Cup,,FRA
+2009-04-10,2009-04-10,Saint Raphaël,,6,66,Saint Raphaël,,,,,,,2009/country/france/2009-04-10-ec-france-st-raphael.st-raphael.FRA.csv,Euro Cup,,FRA
 2009-04-25,2009-04-25,South African National Championship,,9,13,Vaal Dam,Aeolians Club,,,,,,2009/country/south-africa/2009-04-25.nsa-championships.RSA.csv,National,Vaal Dam,RSA
 2009-05-01,2009-05-03,Puchar Wiosny,,6,5,Warszawa,,,,,,,2009/country/poland/2009-05-03-zegrze.csv,Polish Cup,Zalew Zegrzyński,POL
 2009-06-11,2009-06-14,UK National Championship,,0,36,Torquay,Royal Torbay Yacht Club,,,,,,2009/country/uk/2009-06-14.uk-national-championship.torquay.GBR.csv,National,,GBR
-2009-06-24,2009-06-28,European Championship,,8,100,Kiel,,,,,,,2009/continental/2009-06-28.european-championship.kiel.GER.csv,"Continental,Europe",,GER
+2009-06-24,2009-06-28,European Championship,,8,100,Kiel,,,,,,,2009/continental/2009-06-28.european-championship.kiel.GER.csv,"Continental,Europe,Euro Cup",,GER
 2009-06-27,2009-06-27,Helsinki Regatta,,6,13,Helsinki,,,,,,,2009/country/finland/2009-06-27.helsinki-regatta.helsinki.FIN.csv,,,FIN
 2009-06-27,2009-06-27,Kings of the Bay Regatta,,5,22,"San Francisco, CA",,,,,,,2009/country/usa/2009-06-27.kings-of-the-bay-regatta.san-francisco.ca.USA.csv,,,USA
 2009-07-11,2009-07-11,Nord Cup,,6,5,Górki Zachodnie,,,,,,,2009/country/poland/2009-07-12-nord-cup.csv,Polish Cup,Zatoka Gdańska,POL
@@ -315,7 +315,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2010-10-09,2010-10-10,Heineken High Performance Dinghy Open,,8,17,"Rye, NY",American Yacht Club,,,,,,2010/country/usa/2010-10-10.heineken-high-performance-dinghy-open.rye-ny.USA.csv,,,USA
 2011-03-12,2011-03-13,Spring Dinghy,,5,4,"San Francisco, CA",St. Francis Yacht Club,,,,,,2011/country/usa/2011-03-13.spring-dinghy.san-francisco-ca.USA.csv,,,USA
 2011-03-20,2011-04-01,World Championship,,7,85,"Hamilton Island,AUS",,,,,,,2011/world/2011-04-01-world-championship-hamilton-island.csv,World,,AUS
-2011-05-28,2011-05-28,IV° TransAlp Cup,,5,10,"Campione BS, ITA",Vela Club Campione del Garda,,,,,,2011/country/italy/2011-05-28.IV-trans-alp-cup.campione-bs.ITA.csv,Euro Cup,,ITA
+2011-05-28,2011-05-28,IV° TransAlp Cup,,5,10,Campione BS,Vela Club Campione del Garda,,,,,,2011/country/italy/2011-05-28.IV-trans-alp-cup.campione-bs.ITA.csv,Euro Cup,,ITA
 2011-06-23,2011-06-27,UK National Championship,,8,40,Wadebridge,Rock Sailing and Waterski Club,,,,,,2011/country/uk/2011-06-27.uk-national-championship.wadebridge.GBR.csv,National,,GBR
 2011-06-25,2011-06-25,Regaty o Puchar Zbąszynia z okazji Dni Morza,,5,8,Zbąszyń,Zbąszyński Klub Żeglarski,,,,,,2011/country/poland/2011-06-28-zbaszyn.csv,Polish Cup,Jezioro Błędno,POL
 2011-06-25,2011-06-26,Helsinki Regatta,,8,17,Helsinki,,,,,,,2011/country/finland/2011-06-26.helsinki-regatta.helsinki.FIN.csv,,,FIN
@@ -332,11 +332,11 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2012-07-07,2012-07-08,NordCup,,4,6,Górki Zachodnie,Marina Galion,,,,,,2012/country/poland/2012-07-08-nordcup.csv,Polish Cup,Zatoka Gdańska,POL
 2012-07-14,2012-07-15,Dinghy’s Whidbey Island Race Week,,6,10,"Oak Harbor, WA",Clear Ahead Marine Productions,,,,,,2012/country/usa/2012-07-15.dinghys-whidbey-island-race-week.oak-harbor-wa.USA.csv,,,USA
 2012-07-17,2012-07-19,Pre-Worlds,,6,118,La Rochelle,Société des Régates Rochelaises,,,,,,2012/world/2012-07-19.pre-worlds.la-rochelle.FRA.csv,Pre-Worlds,,FRA
-2012-07-21,2012-07-27,World Championship,,9,188,La Rochelle,Société des Régates Rochelaises,Jack Edwards,Pierre Lemaire,,,,2012/world/2012-07-27-world-championships.la-rochelle.france.csv,World,,FRA
+2012-07-21,2012-07-27,World Championship,,9,188,La Rochelle,Société des Régates Rochelaises,Jack Edwards,Pierre Lemaire,,,,2012/world/2012-07-27-world-championships.la-rochelle.france.csv,"World,Euro Cup",,FRA
 2012-08-04,2012-08-06,UK National Championship,,8,27,,South Caernarvonshire YC,,,,,,2012/country/uk/2012-08-06-national-championship.GBR.csv,National,,GBR
 2012-08-13,2012-09-24,Måndagsseglingar,,9,8,Torslanda,Björlanda Kile SS,,,,,,2012/country/sweden/2012-09-24.mandagsseglingar.SWE.csv,,,SWE
 2012-08-18,2012-08-19,Puchar Starosty Poznańskiego,,4,11,Poznań,Klub Żeglarski “Mewa”,,,,,,2012/country/poland/2012-08-19-puchar-starosty-poznanskiego.csv,Polish Cup,Jezioro Kierskie,POL
-2012-08-28,2012-08-30,Swiss Open,,9,20,Neuch�tel,Cercle de la voile de Neuch�tel,,,,,,2012/country/switzerland/2012-08-30.swiss-open.neuchatel.SUI.csv,National,,SUI
+2012-08-28,2012-08-30,Swiss Open,,9,20,Neuchâtel,Cercle de la voile de Neuchâtel,,,,,,2012/country/switzerland/2012-08-30.swiss-open.neuchatel.SUI.csv,National,,SUI
 2012-09-01,2012-09-02,National Espoirs,,7,23,Anse de la Picarde,Club Nautique Haute Seine,,,,,,2012/country/belgium/2012-09-01.national-espoirs.anse-de-la-picarde.FRA.csv,,,FRA
 2012-09-01,2012-09-03,Canadian Championship,,5,11,"Toronto,ON",Outer Harbour Centreboard Club,,,,,,2012/country/canada/2012-09-03.canadian-championship.toronto.CAN.csv,National,,CAN
 2012-09-07,2012-09-07,Nordic & Swedish Championship,,4,24,"Grötvik,Halmstad",Grötviks Segelsällskap,,,,,,2012/country/sweden/2012-09-07.nordic-championship-and-swedish-class-championship.grotvik-halmstad.SWE.csv,National,,SWE
@@ -366,7 +366,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2013-08-28,2013-08-29,Canadian Championship,,8,8,"Toronto,ON",Outer Harbour Centreboard Club,,,,,,2013/country/canada/2013-08-29.canadian-championship.toronto.CAN.csv,National,,CAN
 2013-08-28,2013-09-01,European Championship,,9,89,Medemblik,,,,,,,2013/continental/2013-09-01.european-championship.medemblik.NED.csv,"Continental,Europe",,NED
 2013-09-06,2013-09-08,Mistrzostwa Polski,,11,19,Kamień Pomorski,,,,,,,2013/country/poland/2013-09-08-mistrzostwa-polski.csv,"National, Polish Cup",Zalew Kamieński,POL
-2013-09-14,2013-09-14,Svenskt Mästerskap,Swedish Championship,5,20,"Segelsällskapet Viken-Ägir,SWE",,,,,,,2013/country/sweden/2013-09-15-sweden-championship.viken-agir.SWE.csv,National,,SWE
+2013-09-14,2013-09-14,Svenskt Mästerskap,Swedish Championship,5,20,Segelsällskapet Viken-Ägir,Segelsällskapet Åmålsviken,,,,,,2013/country/sweden/2013-09-15-sweden-championship.viken-agir.SWE.csv,National,,SWE
 2013-09-14,2013-09-15,Dale Jepsen One-Design Regatta,,8,12,"Bellingham,WA,USA",Bellingham Yacht Club,,Mick Corcoran,,,,2013/country/usa/2013-09-15.dale-jepsen-one-design-regatta.bellingham-wa.USA.csv,,,USA
 2013-10-12,2013-10-13,Heineken High Performance Dinghy Open,,5,14,"Rye, NY",American Yacht Club,,,,,,2013/country/usa/2013-10-13.heineken-high-performance-dinghy-open.rye-ny.USA.csv,,,USA
 2014-02-21,2014-02-23,Midwinter Championship,,3,18,"St. Petersburg, FL",St. Petersburg Yacht Club,,,,,,2014/country/usa/2014-02-23.midwinter-championship.st-petersburg.USA.csv,,,USA
@@ -443,7 +443,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2016-07-02,2016-07-03,Canadian Championship,,6,11,"Squamish,BC",Kitsilano Yacht Club;Canadian 5O5 fleet 1,,,,,,2016/country/canada/2016-07-02-canadian-champs-squamish.csv,National,,CAN
 2016-07-09,2016-07-10,Kitsilano Invitational Regatta,,9,9,"Vancouver,BC,CAN",Kitsilano Yacht Club,,,,,,2016/country/canada/2016-07-10.kitsilano-invitational-regatta.vancouver-bc.CAN.csv,,,CAN
 2016-07-16,2016-07-17,Puchar Pucka,,7,16,"Puck,POL",MOKSIR Puck /PSK 505,,,,,,2016/country/poland/2016-07-18.puchar-pucka.csv,Polish Cup,Zatoka Pucka,POL
-2016-07-25,2016-08-05,World Championship,,9,130,"Weymouth,GBR",Weymouth & Portland National Sailing Academy,,,,,,2016/world/2016-08-05-world-championship-weymouth.csv,"World,Euro Cup",,GBR
+2016-07-25,2016-08-05,World Championship,,9,130,Weymouth,Weymouth & Portland National Sailing Academy,,,,,,2016/world/2016-08-05-world-championship-weymouth.csv,"World,Euro Cup",,GBR
 2016-07-27,2016-07-28,Pre-Worlds & UK National Championship,,5,99,Weymouth,Weymouth & Portland National Sailing Academy,,,,,,2016/world/2016-07-28.pre-worlds-uk-national-championship.weymouth.GBR.csv,"Pre-Worlds, National",,GBR
 2016-08-03,2016-08-04,Aarhus Festuge Cup,,8,7,"Aarhus,DEN",Aarhus Sejlklub & Sejlklubben Bugten,,,,,,2016/country/denmark/2016-08-04.aarhus-festuge-cup.arhus.DEN.csv,,,DEN
 2016-08-16,2016-08-18,East Coast Championship,,8,34,"Annapolis, MD",Severn Sailing Association & Eastport Yacht Club,,,,,,2016/country/usa/2016-08-18.east-coast-championship.annapoli-md.USA.csv,,,USA
@@ -498,13 +498,13 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2018-05-19,2018-05-20,Regaty Otwarcia Sezonu,,5,25,"Gdynia,POL",,,,,,,2018/country/poland/2018-05-18-gdynia.csv,Polish Cup,Zatoka Gdańska,POL
 2018-05-19,2018-05-21,Danish Championship,,10,21,"Sønderborg,DEN",Sønderborg Yacht-Club,,,,,,2018/country/denmark/2018-05-21.danish-championship.sonderborg.DEN.csv,National,,DEN
 2018-06-16,2018-06-17,Puchar Burmistrza Krynicy Morskiej,,3,19,"Krynica Morska,POL",,,,,,,2018/country/poland/2018-06-17-krynica.csv,Polish Cup,Zalew Wiślany,POL
-2018-06-16,2018-06-20,Kieler Woche,,11,36,"Kiel,GER",Kieler Yacht-Club e.V.,Nino Shmueli,Douglas Sloan,,,https://youtu.be/-PTzl5M5eLo,2018/country/germany/2018-06-20-kieler-woche.kiel.GER.csv,Euro Cup,,GER
+2018-06-16,2018-06-20,Kieler Woche,,11,36,Kiel,Kieler Yacht-Club e.V.,Nino Shmueli,Douglas Sloan,,,https://youtu.be/-PTzl5M5eLo,2018/country/germany/2018-06-20-kieler-woche.kiel.GER.csv,Euro Cup,,GER
 2018-06-29,2018-07-01,Helsinki Regatta,,4,8,Helsinki,,,,,,,2018/country/finland/2018-07-01.helsinki-regatta.helsinki.FIN.csv,,,FIN
 2018-07-07,2018-07-08,Kitsilano Invitational Regatta,,8,8,"Vancouver,BC,CAN",Kitsilano Yacht Club,,,,,,2018/country/canada/2018-07-08.kitsilano-invitational-regatta.vancouver-bc.CAN.csv,,,CAN
 2018-07-07,2018-07-08,Newport Regatta,,8,9,"Newport, RI",Sail Newport,,,,,,2018/country/usa/2018-07-08.newport-regatta.newport-ri.USA.csv,,,USA
 2018-07-13,2018-07-15,Championnat de France,France Championship,4,40,Saint-Pierre-Quiberon,SR S.P. QUIBERON,,,,,,2018/country/france/2018-07-15-championnat-de-france.saint-pierre-quiberon.FRA.csv,National,,FRA
 2018-07-20,2018-07-20,Pre-Worlds,,3,129,"Gdynia,POL","Polski Związek Żeglarski,Miasto Gdynia,Polskie Stowarzyszenie Klasy 505",Walter Mielke,Tim Hancock,,,,2018/world/2018-07-20-pre-worlds.gdynia.POL.csv,Pre-Worlds,Zatoka Gdańska,POL
-2018-07-21,2018-07-28,World Championship,,10,127,"Gdynia,POL","Polski Związek Żeglarski,Miasto Gdynia,Polskie Stowarzyszenie Klasy 505",Walter Mielke,Tim Hancock,,,,2018/world/2018-07-29-world-championship.gdynia.POL.csv,"World,Euro Cup",Zatoka Gdańska,POL
+2018-07-21,2018-07-28,World Championship,,10,127,Gdynia,"Polski Związek Żeglarski,Miasto Gdynia,Polskie Stowarzyszenie Klasy 505",Walter Mielke,Tim Hancock,,,,2018/world/2018-07-29-world-championship.gdynia.POL.csv,"World,Euro Cup",Zatoka Gdańska,POL
 2018-08-02,2018-08-04,Eastern Canadian Championship,,5,13,"Kingston,ON",CORK,,,,,,2018/country/canada/2018-08-04-cork-fall-regatta-eastern-canadian-championship.kingstone-on.CAN.csv,,,CAN
 2018-08-03,2018-08-05,Buzzards Bay Regatta,,6,10,"South Dartmouth, MA",New Bedford Yacht Club & Beverly Yacht Club,,,,,,2018/country/usa/2018-08-05.buzzards-bay-regatta.south-dartmouth-ma.USA.csv,,,USA
 2018-08-08,2018-08-13,North American Championship,,11,24,"San Francisco,CA,USA",St. Francis Yacht Club,J. Lancaster,,,,,2018/continental/2018-08-13.north-american-championships.san-fancisco.csv,Continental,,USA
@@ -517,7 +517,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2018-09-22,2018-09-23,Emäsalonregatta,,5,6,"Borgå,FIN",Borgå Segelsällskap r. f.,,,,,,2018/country/finland/2019-09-23-emasalonregatta.borga.FIN.csv,,,FIN
 2018-09-22,2018-09-23,Finał Pucharu Polski,Polish Cup Final,5,13,"Zbąszyń,POL",,,,,,,2018/country/poland/2018-09-24-puchar-zbaszczynia.csv,Polish Cup,Jezioro Błędno,POL
 2018-09-28,2018-09-29,Ontario Championships,,8,5,"Toronto,ON",,,,,,,2018/country/canada/2018-09-29.ontario-championships.toronto.CAN.csv,,,CAN
-2018-09-28,2018-09-30,Hayling Island,,7,28,"Hayling Island,GBR",Hayling Island Sailing Club,,,,,,2018/country/uk/2018-09-30-euro-cup-hayling-island-GBR.csv,Euro Cup,,GBR
+2018-09-28,2018-09-30,Hayling Island,,7,28,Hayling Island,Hayling Island Sailing Club,,,,,,2018/country/uk/2018-09-30-euro-cup-hayling-island-GBR.csv,Euro Cup,,GBR
 2018-09-29,2018-09-30,Oktoberfestpreis,,5,10,"Tutzing,GER",Deutscher Touring Yacht-Club e.V.,Christel Hauger,Friedrich Hauger,,,,2018/country/germany/2018-09-30.oktoberfestpreis.tutzing.GER.csv,,,GER
 2018-10-13,2019-04-13,BSYC Consistency,,15,10,"Seacliff,SA",Brighton & Seacliff Yacht Club,,,,,,2019/country/australia/2019-04-13.bsyc-consistency.seacliff-sa.AUS.csv,,,AUS
 2018-10-19,2018-10-21,East Coast Championships & Pumpkin Patch Regatta,,9,24,"Galesville, MD",West River Sailing Club,,,,,,2018/country/usa/2018-10-21.east-coast-championships-pumpkin-patch-regatta.galesville-md.USA.csv,,,USA
@@ -561,12 +561,12 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2019-08-24,2019-08-25,Fall Series,,3,8,,,,,,,,2019/country/usa/2019-08-25.fall-series.USA.csv,,Chesapeake Bay,USA
 2019-09-02,2019-09-02,Dale Jepsen One-Design Regatta,,7,16,"Bellingham,WA,USA",Bellingham Yacht Club,,,,,,2019/country/usa/2019-09-02.dale-jepsen-one-design-regatta.bellingham-wa.USA.csv,,,USA
 2019-09-06,2019-09-06,EMK Syysregatta,,7,8,"Espoo,FIN",Espoon Merenkävijät ry,,,,,,2019/country/finland/2019-09-06-emk-syysregatta.espoo.FIN.csv,,,FIN
-2019-09-06,2019-09-08,Hayling Island,,8,28,"Hayling Island,GBR",Hayling Island Sailing Club,,,,,,2019/country/uk/2019-09-08-euro-cup-hayling-island-GBR.csv,Euro Cup,,GBR
+2019-09-06,2019-09-08,Hayling Island,,8,28,Hayling Island,Hayling Island Sailing Club,,,,,,2019/country/uk/2019-09-08-euro-cup-hayling-island-GBR.csv,Euro Cup,,GBR
 2019-09-06,2019-09-08,Mistrzostwa Polski,Polish Championship,10,17,"Gdynia,POL",Polskie Stowarzyszenie Klasy 5O5,,,,,,2019/country/poland/2019-09-08-polish-open-national-championship.baltic-sea.gdynia-POL.csv,National,Baltic Sea,POL
 2019-09-21,2019-09-22,Emäsalonregatta,,6,4,"Borgå,FIN",Borgå Segelsällskap r. f.,,,,,,2019/country/finland/2019-09-22-emasalonregatta.borga.FIN.csv,,,FIN
 2019-09-28,2019-08-18,Finał Sezonu Pucharu Polski,,6,16,"Szczecin,POL",,,,,,,2019/country/poland/2019-09-29-final-sezonu.csv,Polish Cup,,POL
 2019-09-28,2019-09-29,Oktoberfestpreis,,4,10,"Tutzing,GER",Deutscher Touring Yacht-Club e.V.,Michael Lohner,Friedrich Hauger,,,,2019/country/germany/2019-09-29-tutzing-oktoberfestpreis.csv,,,GER
-2019-10-05,2019-10-05,KSSS Olympic Class Regatta,,6,9,"Saltsjöbaden,SWE",Kungliga Svenska Segel Sällskapet,,,,,,2019/country/sweden/2019-10-05-ksss-olympic-class-regatta.saltsjobaden.SWE.csv,,,SWE
+2019-10-05,2019-10-05,KSSS Olympic Class Regatta,,6,9,Saltsjöbaden,Kungliga Svenska Segel Sällskapet,,,,,,2019/country/sweden/2019-10-05-ksss-olympic-class-regatta.saltsjobaden.SWE.csv,,,SWE
 2019-10-19,2019-10-20,Berliner Meisterschaft,,4,20,"Berlin,GER",Verein Seglerhaus am Wannsee Berliner Segler-Verband e.V.,,,,,,2019/country/germany/2019-10-20-berlin-meistershaft.csv,,,GER
 2019-10-19,2019-10-20,Region Two Championship,,5,14,"West River,USA",West River Sailing Club and the Bay family,,,,,,2019/country/usa/2019-10-20-region-ii-championships.west-river.USA.csv,,,USA
 2019-10-26,2019-10-27,Sauncacup,,6,13,"Markkleeberg, GER",Cospudener Yacht Club Markkleeberg e.V.,,,,,,2019/country/germany/2019-10-27.sauncacup.markkleeberg.GER.csv,,,GER
@@ -578,12 +578,12 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2020-07-11,2020-07-12,Lotos Nord Cup,,7,14,Górki Zachodnie,"Akademicki Związek Sportowy, Galion, Yacht Club Gdynia",,,,,,2020/country/poland/2020-07-12.lotos-nord-cup.gdansk.POL.csv,Polish Cup,Zatoka Gdańska,POL
 2020-08-07,2020-08-09,Mistrzostwa Polski,Polish Championship,6,22,Ustka,"Miasto Ustka, ProSport, Dolina Charlotty",,,,,,2020/country/poland/2020-08-09.mistrzostwa-polski.ustka.POL.csv,National,Baltic Sea,POL
 2020-08-08,2020-08-09,Danish Championship,,7,18,Hellerup,Hellerup Sejlklub,,,,,,2020/country/denmark/2020-08-09.danish-championship.hellerup.DEN.csv,National,,DEN
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
+2012-04-06,2012-04-08,Cannes,,7,59,Cannes,Yacht club de Cannes,,,,,,2012/country/france/2012-04-08.euro-cup.cannes.cannes.FRA.csv,Euro Cup,Mediterranean Sea,FRA
+2009-05-21,2009-05-23,Riva Cup,,8,50,Riva del Garda,Fraglia Vela Riva,,,,,,2009/country/italy/2009-05-23.euro-cup.riva-del-garda.ITA.csv,Euro Cup,Riva Del Garda,ITA
+2009-06-13,2009-06-14,Aarhus,,7,24,Aarhus,,,,,,,2009/country/denmark/2009-06-14.euro-cup.aarhus.DEN.csv,Euro Cup,,DEN
+2009-01-01,2009-12-31,EuroCup Ranking,,4,161,Europe,,,,,,"St Raphael • Riva del Garda • Aarhus • Europeans, Kiel",2009/continental/2009.euro-cup.csv,Euro Cup,,
+2010-01-01,2010-12-31,EuroCup Ranking,,4,203,,,,,,,Cannes • Riva del Garda • Kiel • Aarhus,2010/continental/2010.euro-cup.csv,Euro Cup,,
+2020-08-22,2020-08-23,Svenskt Mästerskap,Swedish Championship,5,30,Vejbystrand,,,,,,,2020/country/sweden/2020-08-23-sweden-championship.vejbystrand.SWE.csv,National,,SWE
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
