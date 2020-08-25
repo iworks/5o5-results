@@ -1,0 +1,43 @@
+Nation,Sail No,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Race 7,Race 8,Points,No
+GER,8*,Lehmann Claase,Schoeler Martin,NRV,1,1,-4,1,3,2,1,2,11,1
+GER,8672,Kellner Christian,Stammerjohann Klaus,HERRSCHINER SEGELCLUB,2,2,1,3,1,1,2,(bf),12,2
+GBR,8787,Scutcher Terry,Diebitsch Christian,SHOTLEY SAILING CLUB,3,8,2,-10,4,3,5,3,28,3
+GER,8580,Mühlbauer Markus,Achterberg Andreas,DTYC,4,-16,5,7,7,8,10,4,45,4
+GER,8466,Niediek Volker,Kluegel Michael,BSV,6,5,7,2,19,4,4,(ns),47,5
+GER,8862,Böhm Stefan,Roos Gerald,SEGEL-CLUB-VILLE ERFTSTADT E.V,7,4,3,(ns),12,12,9,1,48,6
+GER,8744,Rix Heini,Achenbach Steffen,TSVS,5,11,6,11,14,5,3,-16,55,7
+GER,8669,Boeger Tim,Jung Thomas,HSC,(ns),14,8,5,6,7,6,19,65,8
+GBR,8773,Byrd Norman,Davies Alex,DRAYCOTE WATER,(ns),19,13,4,9,10,12,7,74,9
+GBR,8419,Turnbull Stuart,Lunn Jason,BURTON S C,9,7,-27,14,23,6,8,10,77,10
+GER,8663,Dasenbrook Norbert,Meier (Skbue) Sven,KSW,11,-17,10,8,15,9,15,11,79,11
+GER,8750,Roessler Michael,Neuhans Holger,NRW,17,-20,11,13,8,11,11,9,80,12
+GBR,8835,Lake Simon,Iliffe Ben,GRAFHAM WATER SAILING CLUB,10,12,9,16,-21,17,14,8,86,13
+GER,8721,Seikel Martin,Becker Norbert,PSVK (POSTSPORTVEREIN KOBLENZ),8,15,12,17,5,-22,20,12,89,14
+SUI,8569,Bart Cedric,Betschen Rene,CNB,16,10,-20,9,17,15,17,6,90,15
+SUI,8729,Stauffer Florian,Jacot Philippe,CVN (CERCLE DE LA VOILE DE NEU,-26,3,16,6,16,21,19,17,98,16
+DEN,8827,Kliba Dario,Stormark Christian,YACTCLUB VEGA,12,6,14,(ns),ns,14,7,5,101,17
+GER,8807,Bogacki Morten,Bogacki Wolfgang,DYC,13,13,31,15,2,-34,21,13,108,18
+GER,8777,Schollmayer Stefan,Sanguino Petersen Frisco,DTYC,14,9,17,20,11,23,-33,25,119,19
+GER,8652,Dörr Wastl,Stückl Wolfgang,HSC,(ns),ns,18,12,13,18,13,14,131,20
+GBR,8708,Wedge Martin,Allen Scott,HISC,15,21,15,19,25,-26,18,18,131,21
+GER,8609,Holzapfel Alexander,Worm Stefan,HAMBURGER SEGELCLUB,19,22,21,18,20,20,22,(ns),142,22
+GER,8642,Greger Thoralf,Klein Christoph,ASV Z. G.,(ns),ns,25,21,10,13,16,15,143,23
+GBR,8745,Pearson Chris,Rainsborough Frank,ROYAL THAMES YACHT CLUB,18,26,19,25,(ns),30,23,20,161,24
+GER,8751,Oestergaard Melanie,Stenger Angela,MÜNCHNER YACHT CLUB,21,28,23,23,24,-33,25,28,172,25
+GER,8465,Kliba-Schmidt Petra,Schmidt Jan-Rolf,YACHT CLUB VEGA (YCV),20,27,30,22,-31,24,31,21,175,26
+GER,8519,Robert Wisolek,Von Walter Guido,SCLW,27,25,-33,30,29,16,26,23,176,27
+GBR,8678,Berry Jim,Barnes David,,25,29,-32,24,26,31,32,22,189,28
+GER,8664,Unkelbach Franziska,Rolf Henrike,KIELER YACHT CLUB,29,24,26,27,22,28,36,(ns),192,29
+GER,8546,Haensgen Dirk,Rupprich Frank,SEGLERVEREIN PADERBORN (SVPB),23,31,24,(ns),28,35,27,24,192,30
+GER,8570,Kodisch Alexander,Hafner Dominik,DTYC DEUTSCHER TOURING YACHT C,28,30,28,33,27,29,24,(ns),199,31
+GER,8691,Günter Bökle,Frank Heimburger,SSCM,22,32,22,26,30,25,(ns),ns,200,32
+GER,8530,Von Mertens Alexander,Wiesbauer Pia,BSV 07,24,23,(ns),ns,32,27,29,ns,221,33
+GBR,8852,Trueman Mike,Cull Alex,OXFORD SAILING CLUB,(ns),18,29,31,18,ns,ns,ns,225,34
+FRA,7999,Lasnier Adrien,Lasnier Benjamin,YACHT CLUB DES SABLETTES,(ns),33,35,28,35,38,30,27,226,35
+GBR,8532,Clayton Tom,Hyatt Dennis,SSC,32,-37,34,29,33,36,37,26,227,36
+GER,8375,Klapper Timo,Demarczyk Christoph,SCLW,31,34,37,(ns),ns,19,ns,ns,250,37
+GER,8105,Contag Karsten,Göggelmann Sonja,POTSDAMER YACHT CLUB E.V. (PYC,(ns),38,ns,34,36,40,38,30,259,38
+GER,7801,Grosskurth Benjamin,Wilhelm Alexander,SCLW SEGELCLUB WALCHENSEE,30,36,(ns),32,34,ns,ns,ns,261,39
+GER,8769,Friedrich Nathalie,Zeiler Claudius,SCLW,(ns),ns,38,ns,ns,39,35,29,270,40
+GER,8507,Koch Thorsten,Schiedt Franziska,HSC,(ns),35,36,ns,ns,37,34,ns,271,41
+GBR,8435,Mcgale Patrick,Von Grey Paul,QUEEN MARY SC,(ns),ns,ns,ns,ns,32,28,ns,275,42
