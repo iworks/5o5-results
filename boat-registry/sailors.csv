@@ -1,38 +1,4 @@
 Nation,Name,Club,Description,Birth Date,email
-FRA,Benoit Blaison
-FRA,Dubruel Denis
-GER,Roland Herrmann
-POL,Tomasz Frydrychowicz
-GER,Benjamin Lasnier
-GER,Wilfried W. Stuis
-GER,Thomas Wieting
-GER,Markus Keding
-GER,Frank Weigelt
-GER,Markus Maisenbacher
-GER,Lars Kruse
-GER,Tim Mütze
-FRA,Bertrand Molinier
-FRA,Adrien Surbier
-FRA,David Denis
-FRA,Thomas Denis
-FRA,Virginie Auger
-FRA,Charles Courbonne
-FRA,Francoise Mallet
-GER,Hartmut Weiß
-GER,Volker Weiß
-FRA,Roland Delsemme
-FRA,Delphine Markt
-GER,Thorsten Pieper
-GER,Reiner Gerdes
-FRA,Gildas Sever
-GER,Dave Farmer
-GER,Berggren Johannes
-GER,Max Rauner
-GER,Kathrin Konrad-Schmolke
-GER,Matthias Konrad-Schmolke
-ITA,Giovanni Giacometti
-GER,Michael Daisenberger
-FRA,Jan Florian Faucheux
 AUS,A. Martin,,,,
 AUS,Adam Brenz-Verca,,,,
 AUS,Adam Wyatt,,,,
@@ -408,6 +374,7 @@ DEN,Erik Ørsted,,,,
 DEN,Etienne Bourbeau,,,,
 DEN,Fabiola Wonterghem,,,,
 DEN,Finn Angelo,,,,
+DEN,Flemming Sand
 DEN,Hans Jørgen Riber,,,,
 DEN,Helge Rasmussen,,,,
 DEN,Jacob Ernst,,,,
@@ -425,6 +392,7 @@ DEN,Jon Andersen,,,,
 DEN,Jörg Hansen,,,,
 DEN,Jørgen Schönherr,,,,
 DEN,Ketil Johansen,,,,
+DEN,Kim Sørensen
 DEN,Klaus Natorp
 DEN,Kristoffer Møllevang,,,,
 DEN,Lars Espersen,,,,
@@ -439,6 +407,7 @@ DEN,Martin Thumle,,,,
 DEN,Michael Bang,,,,
 DEN,Michael Paulsen,,,,
 DEN,Michael Wonterghem,,,,
+DEN,Mikkel Bardram
 DEN,Morten Ramsbæk,,,,
 DEN,Nikolaj Hoffmann Buhl,,,,
 DEN,Ole Høyer
@@ -471,6 +440,7 @@ FIN,Juhani Heimsch,,,,
 FIN,Jukka Suonpää,,,,
 FIN,Jyri Wilén,,,,
 FIN,Kari Wilén,,,,
+FIN,Kenneth Thélen
 FIN,Lauri Kääpä,,,,
 FIN,Markus Wikar,,,,
 FIN,Miika Perden,,,,
@@ -487,6 +457,7 @@ FIN,Tuomas Ebeling,,,,
 FIN,Ville Malm,,,,
 FIN,Ville Tarvo,,,,
 FRA,Adrien Lafortune,,,,
+FRA,Adrien Surbier
 FRA,Alain Beltzung,,,,
 FRA,Alain Chartier,,,,
 FRA,Alain Dupuis
@@ -523,6 +494,7 @@ FRA,Basile Géron,,,,
 FRA,Bastian Le Morvan,,,,
 FRA,Bastien Couvreux,,,,
 FRA,Be Di Pede,,,,
+FRA,Benoit Blaison
 FRA,Benoit Dijoux,,,,
 FRA,Benoit Morane,,,,
 FRA,Bernard Blondy,,,,
@@ -531,12 +503,14 @@ FRA,Bernard Edel,,,,
 FRA,Bernard Le Guen
 FRA,Bernard Peuch,,,,
 FRA,Bertrand Lapeyre
+FRA,Bertrand Molinier
 FRA,Bev Moss,,,,
 FRA,Bruno Levesque,,,,
 FRA,Bruno Vaniekaut,,,,
 FRA,Carole Blattner
 FRA,Cedric Faucheux,,,,
 FRA,Celine Chevet,,,,
+FRA,Charles Courbonne
 FRA,Charles de Kergariou,,,,
 FRA,Charles Maire
 FRA,Chartier Thomas,,,,
@@ -554,11 +528,14 @@ FRA,Damien Trouillet,,,,
 FRA,Damien Zucconi,,,,
 FRA,Daniel Wagner
 FRA,David De Monteil,,,,
+FRA,David Denis
 FRA.David Denis
+FRA,Delphine Markt
 FRA,Derek Farrant,,,,
 FRA,Dominique Keraudrenv
 FRA,Dominique Lambard
 FRA,Dominique Rouanne,,,,
+FRA,Dubruel Denis
 FRA,Edith Castillon
 FRA,Edouard Morin,,,,
 FRA,Elisabeth Neidhart,,,,
@@ -589,7 +566,9 @@ FRA,Francois De Lisle,,,,
 FRA,François de Lisle,,,,
 FRA,Francois Fischer
 FRA,Francois Lafortune,,,,
+FRA,Francoise Mallet
 FRA,Frede Roucayrol
+FRA,Frederic Bouillet
 FRA,Frederic Dalle
 FRA,Frédéric Monnier,,,,
 FRA,Frederic Roucayrol,,,,
@@ -600,10 +579,13 @@ FRA,Gaël Conversy
 FRA,Gael Le Mauguen
 FRA,Gaetan Finet
 FRA,Gautier Destombes
+FRA,Geoffroy Riot
+FRA,Gerard Daugey
 FRA,Gerard Tilly,,,,
 FRA,Geraud Lafortune,,,,
 FRA,Ghislain De Lafforest,,,,
 FRA,Gilbert Vinches
+FRA,Gildas Sever
 FRA,Gilles Bernon,,,,
 FRA,Gilles Carvallo,,,,
 FRA,Gilles Casanova
@@ -626,6 +608,7 @@ FRA,Ivan Doerenbecher,,,,
 FRA,Jacob Antoine Lortat
 FRA,Jacques Bochu,,,,
 FRA,Jacques Raguet,,,,
+FRA,Jan Florian Faucheux
 FRA,Jean Blache,,,,
 FRA,Jean Charles Zimmowitch,,,,
 FRA,Jean Claude Ancelot,,,,
@@ -726,6 +709,7 @@ FRA,P Chervet
 FRA,P Harinkcouck,,,,
 FRA,Pascal Coquelet,,,,
 FRA,Pascal Jullian
+FRA,Pascal Rossignol
 FRA,Patrice Hue,,,,
 FRA,Patrick Wolff,,,,
 FRA,Paul Alric,,,,
@@ -769,6 +753,7 @@ FRA,Robert Lehmann,,,,
 FRA,Robert Ronnback
 FRA,Robin Farrant,,,,
 FRA,Roger Chabaud,,,,
+FRA,Roland Delsemme
 FRA,Romain Adnot,,,,
 FRA,Romain Delmotte,,,,
 FRA,Romain Thivillier,,,,
@@ -779,6 +764,7 @@ FRA,Samuel Carvallo,,,,
 FRA,Sebastien Le Bouteiller,,,,
 FRA,Sebastien Rauly,,,,
 FRA,Serge Gubri,,,,
+FRA,Simon Chartier
 FRA,Simon Chartier,,,,
 FRA,Sophie Biecheler-Fiocconi
 FRA,Stephane Boudier
@@ -792,6 +778,7 @@ FRA,Thibaut Vincent,,,,
 FRA,Thierry Gresle
 FRA,Thierry Rattier,,,,
 FRA,Thomas Chartier,,,,
+FRA,Thomas Denis
 FRA,Thomas Pype,,,,
 FRA,Thomas Soinard,,,,
 FRA,Tom Roussel,,,,
@@ -801,12 +788,14 @@ FRA,Valleteau de Moulliac,,,,
 FRA,Veronique Brenet,,,,
 FRA,Vincent Le Morvan,,,,
 FRA,Vincent Sorel
+FRA,Virginie Auger
 FRA,Vivien Lucienne,,,,
 FRA,Wenceslas Dieuzy,,,,
 FRA,Will Froux
 FRA,Wojciech Butkiewicz,,,,
 FRA,Xavier Broise,,,,
 FRA,Xavier Brotschi
+FRA,Xavier Finet
 FRA,Xavier Tilly,,,,
 FRA,Yann Brotschi
 FRA,Yann le Hegarat
@@ -891,6 +880,7 @@ GBR,David Spragg,,,,
 GBR,David Thorpe,,,,
 GBR,David Treloar,,,,
 GBR,David Williams,,,,
+GBR,David Wood
 GBR,Dennis Cartwright,,,,
 GBR,Dennis Hyatt,,,,
 GBR,Dick Rowe
@@ -1164,6 +1154,8 @@ GER,Benedikt Northoff,,,,
 GER,Benedikt Schulte
 GER,Benjamin Gröger,,,,
 GER,Benjamin Großkurth,,,,
+GER,Benjamin Lasnier
+GER,Berggren Johannes
 GER,Bernd Heinisch,,,,
 GER,Bernd Kowalzig,,,,
 GER,Bernd Rasenack,,,,
@@ -1172,6 +1164,7 @@ GER,Bjorn Schaar,,,,
 GER,Brigitte Preuss,,,,
 GER,Bruno Laudage,,,,
 GER,Carl Uwe Böttner,,,,
+GER,Caroline Szesny
 GER,Carsten Engel,,,,
 GER,Carsten Hammer
 GER,Carsten Hehl,,,,
@@ -1206,6 +1199,7 @@ GER,Claus-Michael Lehr
 GER,Cord-Henrich Lefhalm
 GER,Daniel Czeninga,,,,
 GER,Daniel Wehden,,,,
+GER,Dave Farmer
 GER,David Thiemann,,,,
 GER,Davina Schlesiger,,,,
 GER,Diethardt Freye,,,,
@@ -1218,8 +1212,8 @@ GER,Dirk Hänsgen,,,,
 GER,Dirk Hütten,,,,
 GER,Dirk Ipach,,,,
 GER,Dirk Lübbers,,,,
+GER,Dominik Hafner
 GER,Dorothea Gebert,,,,
-GER,Wolfgang Hunger,,,,
 GER,Eberhard Schockenhoff,,,,
 GER,Eckart König,,,,
 GER,Eckhard Busch
@@ -1239,6 +1233,7 @@ GER,Felix Ismar
 GER,Felix Klöpfer,,,,
 GER,Felix Mittermayer,,,,
 GER,Finn Böger,,,,
+GER,Fiona Jordan
 GER,Florian Brix,,,,
 GER,Florian Duwe
 GER,Florian Kemper
@@ -1277,8 +1272,6 @@ GER,Gregor Dahlem
 GER,Guido von Walter,,,,
 GER,Günter Bökle,,,,
 GER,Günter Peters,,,,
-FRA,Geoffroy Riot
-FRA,Gerard Daugey
 GER,Hannes Kindermann,,,,
 GER,Hannes Lehning,,,,
 GER,Hannes Wagner,,,,
@@ -1288,6 +1281,7 @@ GER,Hans-Jürgen Rentelmann,,,,
 GER,Hans-Werner Steding,,,,
 GER,Harald Hundt,,,,
 GER,Harald König,,,,
+GER,Hartmut Weiß
 GER,Hartwig Friedrichs,,,,
 GER,Heiner Hirthe,,,,
 GER,Helmut Madeheim,,,,
@@ -1363,6 +1357,7 @@ GER,Karsten Contag,,,,
 GER,Karsten Lahrs,,,,
 GER,Karsten Stümpel,,,,
 GER,Katharina Menge,,,,
+GER,Kathrin Konrad-Schmolke
 GER,Katja Frühwald-König,,,,
 GER,Katja Henge,,,,
 GER,Katja Kilian
@@ -1377,6 +1372,7 @@ GER,Konrad Barop,,,,
 GER,Kristine Förster,,,,
 GER,Kristine König,,,,
 GER,Kurt Reincke
+GER,Lars Kruse
 GER,Lars Lankenau,,,,
 GER,Lars Metzner,,,,
 GER,Lars Stöckmann,,,,
@@ -1402,7 +1398,9 @@ GER,Mario Tirre,,,,
 GER,Marius Knippscheer
 GER,Mark Felling,,,,
 GER,Markus Hintz
+GER,Markus Keding
 GER,Markus Klos,,,,
+GER,Markus Maisenbacher
 GER,Markus Mechlbauer,,,,
 GER,Markus Schöner,,,,
 GER,Martha Hauschild,,,,
@@ -1425,14 +1423,17 @@ GER,Matthias Brühl,,,,
 GER,Matthias Dachs,,,,
 GER,Matthias Fedde,,,,
 GER,Matthias Himmel
+GER,Matthias Konrad-Schmolke
 GER,Matthias Tellen,,,,
 GER,Max Eisenrieder,,,,
+GER,Max Rauner
 GER,Maximilian Mayrshofer
 GER,Maximilian Roller
 GER,Maximilian Weiß,,,,
 GER,Meike Schomäker,,,,
 GER,Melanie Kohlhoff-Horstmann
 GER,Melanie Oestergaard,,,,
+GER,Michael Daisenberger
 GER,Michael Eller,,,,
 GER,Michael Freitag,,,,
 GER,Michael Heyder,,,,
@@ -1502,6 +1503,7 @@ GER,Ralf Breitenfeldt,,,,
 GER,Ralph Valkenberg,,,,
 GER,Rebecca Strahl,,,,
 GER,Reimund Bauer,,,,
+GER,Reiner Gerdes
 GER,Ricarda Wolf,,,,
 GER,Robert Appel
 GER,Robert Bautz,,,,
@@ -1511,6 +1513,7 @@ GER,Robert Hanke,,,,
 GER,Robert Steinke,,,,
 GER,Robert Wisolek,,,,
 GER,Roger Bussenius,,,,
+GER,Roland Herrmann
 GER,Roland Wiedemann
 GER,Rolf Bertenrath,,,,
 GER,Rolf Meyer,,,,
@@ -1547,10 +1550,12 @@ GER,Thomas Afken,,,,
 GER,Thomas Gosch,,,,
 GER,Thomas Heimbeck
 GER,Thomas Jung,,,,
+GER,Thomas Klug
 GER,Thomas Osterholz,,,,
 GER,Thomas Tschentscher,,,,
 GER,Thomas Wasilewski,,,,
 GER,Thomas Weber,,,,
+GER,Thomas Wieting
 GER,Thomas Wilbert,,,,
 GER,Thoralf Greger,,,,
 GER,Thorben Köster,,,,
@@ -1558,14 +1563,18 @@ GER,Thore Michels,,,,
 GER,Thore von Puttkamer,,,,
 GER,Thorge Holm,,,,
 GER,Thorsten Drewes
+GER,Thorsten Pieper
 GER,Thorsten Pösch,,,,
 GER,Thorsten Spötter,,,,
 GER,Thure Gnadeberg,,,,
 GER,Till Supan
 GER,Tilman Giesen,,,,
 GER,Tim Boger,,,,
+GER,Tim Mütze
+GER,Timo Klapper
 GER,Timon Treichel,,,,
 GER,Tina Hoell
+GER,Tino Käcks
 GER,Tobias Bolduan,,,,
 GER,Tobias Neumeyer,,,,
 GER,Tom Swift,,,,
@@ -1595,14 +1604,17 @@ GER,Viktoria Warminski,,,,
 GER,Volker Bohringer
 GER,Volker Böhringer,,,,
 GER,Volker Görge,,,,
+GER,Volker Weiß
 GER,Walter Steding,,,,
 GER,Welf Rehberg,,,,
 GER,Wiebke Gewinn,,,,
 GER,Wiebke Siemsen,,,,
+GER,Wilfried W. Stuis
 GER,Wilhelm Wollenbecker,,,,
 GER,Wolfdietrich Pfeiffer,,,,
 GER,Wolfgang Bogacki
 GER,Wolfgang Hiltscher,,,,
+GER,Wolfgang Hunger,,,,
 GER,Wolfgang Seifert,,,,
 HKG,Eric Lockeyear,,,,
 HKG,Neil Pryde,,,,
@@ -1617,6 +1629,7 @@ IRL,Matthew McNicholl
 IRL,Michael Ennis,,,,
 IRL,Pal O'Sullivan,,,,
 IRL,Sandy Rimmington
+ITA,Airoldi Massimiliano
 ITA,Alfredo Annese
 ITA,Andrea Greco,,,,
 ITA,Andrea Messina,,,,
@@ -1626,6 +1639,7 @@ ITA,Filippo Cucasso
 ITA,Gabriele Cortegiani,,,,
 ITA,Gabriele Natali,,,,
 ITA,Giacinto Piacquadio,,,,
+ITA,Giovanni Giacometti
 ITA,Luca Manzi
 ITA,Paolo Corbellini
 ITA,Roberto Candela,,,,
@@ -1824,6 +1838,7 @@ POL,Szymon Szymik,,,,
 POL,Szymon Wierzbicki,,,,
 POL,Tobiasz Zajączkowski,,,,
 POL,Tomasz Brzozowski,,,,
+POL,Tomasz Frydrychowicz
 POL,Tomasz Grzybowski,,,,
 POL,Tomasz Idzikowski,,,,
 POL,Tomasz Micewicz,,,,
@@ -1842,6 +1857,7 @@ RSA,Alan Franklin,KZN,,,alanf@alfcon.co.za
 RSA,Alan Haylett,VLC,,,
 RSA,Albrecht Holm,Pretoria Sailing Club,,,aholm@lantic.net
 RSA,Alexander Ham,,,,
+RSA,Andrew Arthur
 RSA,Andrew Heathcote,,,,hethcot@iafrica.com
 RSA,Anthony Parker,,,,
 RSA,Anton Ellens,KZN,,,ellensa@pmburg.co.za
@@ -1852,14 +1868,17 @@ RSA,Bob Crisp,International Liaison,,,xanadu@icon.co.za
 RSA,Bobby Dutton,,,,duttons@lantic.co.za
 RSA,Brett von Budenbrock,,,,
 RSA,Bronwen Klaas,,,,
+RSA,Bronwyn Klaas
 RSA,Carl Zimmerman,,,,
 RSA,Charles Crosby,Pretoria Sailing Club,,,ccrosby@imaginet.co.za
 RSA,Chris Oosthuizen,PYC,,,dv@icon.co.za
 RSA,Clive Whitburn,,,,tesset@global.co.za
+RSA,Craig Parker
 RSA,Dale Kushner,,,,kushner@inds.co.za
 RSA,Daniel Eigelaar,,,,
 RSA,Dave Grieve,,,,polym@iafrica.com
 RSA,David Vinnicombe,,,,
+RSA,Dennis Lapham
 RSA,Derek Nortjie,,,,
 RSA,Dietmar Holm,Pretoria Sailing Club,,,dietmarholm@lantic.net
 RSA,Dirk Rother,,,,
@@ -1867,24 +1886,31 @@ RSA,Dirk Von der Fecht,,,,gvdfecht@internext.co.za
 RSA,Ditmar Herman,VLC,,,ditmar@worldonline.co.za
 RSA,Dudley Isaacs,,,,dudley@sailafrica.co.za
 RSA,Dylan Leroux,,,,
+RSA,Eddie Forster
 RSA,Euan Hurter,,,,
 RSA,Ferdinand Holm,Pretoria Sailing Club,,,fcholm@yebo.co.za
+RSA,Flynn Robson
 RSA,Frank Silberbauer,,,,frank@lorge.co.za
 RSA,Grant Ballantyne,,,,scenic@mweb.co.za
+RSA,Gregg Hurter
 RSA,Hans Rogotzki,,,,hans.rogotzki@batco.co.za
 RSA,Harry Ellens,KZN,,,custom@saol.com
+RSA,Henko Holtzhausen
 RSA,Ian Hogg,,,,idhogg@iafrica.com
 RSA,Ian Jones,,,,ijones@mweb.co.za
 RSA,James Largier,,,,
 RSA,James Spikesly,,,,
 RSA,Jan Milne,,,,nigel@saol.com
+RSA,Jason Honeywell
 RSA,John Archer,,,,Archerj@matteyafrica.com
 RSA,John Lindemann,,,,jfl@global.co.za
 RSA,Jonathan Ham,,,,
 RSA,Jonathan Norton,,,,nortonm@admin.und.ac.za
+RSA,Karl Kuhn
 RSA,Kevin O'Connor,,,,doccon@pc2000.co.zw
 RSA,Kobus Holtzhausen,,,,
 RSA,Kyle Klaas,,,,
+RSA,Leon Prinsloo
 RSA,Malcom Möller,,,,
 RSA,Marc Bouwer,,,,
 RSA,Mark Abbotts,,,,abbotts@worldonline.co.za
@@ -1892,10 +1918,12 @@ RSA,Mark Biagio,,,,
 RSA,Mark Biaglo
 RSA,Mark Rogotski,,,,batco@global.co.za
 RSA,Matthew McRystal,,,,
+RSA,Michael Biagio
 RSA,Michael Giles,,,,michaelgiles@compuserve.com
 RSA,Mike Doveton,,,,mikedoveton@yebo.co.za
 RSA,Mike Klostermann,,,,mklostermann@pangbourne.co.za
 RSA,Mike Price
+RSA,Nicholas Abbotts
 RSA,Nigel Milln,KZN,,,nigel@saol.com
 RSA,Patrick McCosh,,,,mccosh@africaonline.co.zw
 RSA,Peter Funke,,,,
@@ -1907,6 +1935,7 @@ RSA,Peter Sreger,,,,ics.psteger@xsinet.co.za
 RSA,Peter Vinnicombe,,,,
 RSA,Phil Bennet,Victoria Lake Club,,,pbennett@fnb.co.za
 RSA,Phillip Bennett,,,,
+RSA,Randolph Verheij
 RSA,Richard Parker,,,,
 RSA,Rick Shearar,Pretoria Sailing Club,,,shearar@global.co.za
 RSA,Rob Hancock,KZN,,,pipdog@yebo.co.za
@@ -1917,10 +1946,12 @@ RSA,Robert von Gruenewaldt,,,,
 RSA,Ross Robson,,,,toro@rri.co.za
 RSA,Roy Dunster,,,,Roy.Dunster@kpmg.co.za
 RSA,Rudolph Holm,Pretoria Sailing Club,,,rudolphh@mweb.co.za
+RSA,Ryan Avery
 RSA,Ryan Robinson,,,,
 RSA,Stephan Hegerstrom,PSC,,,shegerstrom@sfw.co.za
 RSA,Stephan Kuhn,Pretoria Sailing Club,,,stephank@netactive.co.za
 RSA,Steve Hegerstrom,,,,
+RSA,Sue-Ellen Biagio
 RSA,Thomas Fischer,,,,fischert@mweb.co.za
 RSA,Tim Archer,,,,
 RSA,Tina Plattner,,,,
@@ -1928,6 +1959,7 @@ RSA,Tom Fisher,,,,
 RSA,Tony Allison,,,,
 RSA,Tony Baker,Victoria Lake Club,,,tonyb@netactive.co.za
 RSA,Tony Murray,,,,tonmur@mweb.co.za
+RSA,Warren Arthur
 RSA,Warren von Buddenbrack,,,,
 RSA,Warren von Budenbrock
 RSA,Warwick Ham,PSC,,,woham@netactive.co.za
@@ -1952,7 +1984,7 @@ SUI,Laurent Grob,,,,
 SUI,Lionel Hollinger,,,,
 SUI,Lorenz Nydegger,,,,
 SUI,Luc Schultheiss
-SUI,Ma Froidevaux
+SUI,Marc Froidevaux
 SUI,Marcell Plüss,,,,
 SUI,Markus Gericke
 SUI,Markus Heilig,,,,
@@ -1965,6 +1997,7 @@ SUI,Phillip Grob,,,,
 SUI,Phillipe Jacot,,,,
 SUI,Res Schürch,,,,
 SUI,Sacha Wirth,,,,
+SUI,Samuel Bacher
 SUI,Stephan Burri
 SUI,Toni Utiger,,,,
 SUI,Valéry Jacot,,,,
