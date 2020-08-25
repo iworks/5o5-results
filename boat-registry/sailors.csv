@@ -1,11 +1,4 @@
 Nation,Name,Club,Description,Birth Date,email
-GER,Andreas Schulter
-GER,Rainer Gerdes
-GER,Falk Stenger
-GER,Christoph Fuchs
-GER,Alexander Kodisch
-GBR,Douglas Newberry
-GER,Nikolaus Jägersberg
 AUS,A. Martin,,,,
 AUS,Adam Brenz-Verca,,,,
 AUS,Adam Wyatt,,,,
@@ -870,6 +863,7 @@ GBR,Dick Rowe
 GBR,Donald Aitken,,,,
 GBR,Donald Sloan,,,,
 GBR,Dougal Cram,,,,
+GBR,Douglas Newberry
 GBR,Dylan Marvelly
 GBR,Elliott Wells,,,,
 GBR,Eric Ironmonger,,,,
@@ -1087,6 +1081,7 @@ GBR,Will Waddington,,,,
 GER,Adalbert Kluck,,,,
 GER,Ailyn Hofmann,,,,
 GER,Alex Cross,,,,
+GER,Alexander Kodisch
 GER,Alexander Lampert,,,,
 GER,Alexander Neddermeier,,,,
 GER,Alexander von Mertens,,,,
@@ -1104,6 +1099,7 @@ GER,Andreas Lehmann,,,,
 GER,Andreas Porth,,,,
 GER,Andreas Roller
 GER,Andreas Schmidt,,,,
+GER,Andreas Schulter
 GER,Andreas Thomsen,,,,
 GER,Angela Stenger,,,,
 GER,Anika Kébreau,,,,
@@ -1166,6 +1162,7 @@ GER,Christina Wilhelm,,,,
 GER,Christine Schaal-Lehr
 GER,Christine Wegner
 GER,Christoph Bökle,,,,
+GER,Christoph Fuchs
 GER,Christoph Hessel
 GER,Christoph Klein,,,,
 GER,Claas Lehmann,,,,
@@ -1198,6 +1195,7 @@ GER,Engel Christoph
 GER,Enno Thaeter,,,,
 GER,Eric Bellstedt
 GER,Fabian Vergil,,,,
+GER,Falk Stenger
 GER,Falko Braun,,,,
 GER,Felix Björn Brockerhoff,,,,
 GER,Felix Graff,,,,
@@ -1428,6 +1426,7 @@ GER,Nicholas Melzwig,,,,
 GER,Nick Heuwinkel,,,,
 GER,Nicola Birkner,,,,
 GER,Nicolai Völckner,,,,
+GER,Nikolaus Jägersberg
 GER,Nils-Henning Hofmann,,,,
 GER,Norbert Becker,,,,
 GER,Olaf Oberländer
@@ -1460,6 +1459,7 @@ GER,Pia Matscheroth Brodwurm
 GER,Pia Matscheroth-Brodwurm
 GER,Pia Wiesbauer,,,,
 GER,Raik Wollenbecker,,,,
+GER,Rainer Gerdes
 GER,Rainer Görge,,,,
 GER,Rainer Kremkow,,,,
 GER,Rainer Lü,,,,
