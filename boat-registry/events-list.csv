@@ -93,7 +93,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 1997-06-06,1997-06-08,East Coast Championship,,7,23,"Hampton, VA ",Hampton Yacht Club,,,,,,1997/country/usa/1997-06-08.east-coast-championship.hampton.va.USA.csv,,,USA
 1997-06-13,1997-06-15,Canadian Championship,,9,13,"Parkland County,AB",Wabamun Sailing Club,Peter vanMuyden,,,,,1997/country/canada/1997-06-15.canadian-championship.parkland-county-ab.CAN.csv,National,,CAN
 1997-07-19,1997-07-25,T.R. Fastenings UK National Championship,,9,45,Brighton,Brighton Marina Yacht Club,,,,,,1997/country/uk/1997-07-25.uk-national-championships.brighton.GBR.csv,National,,GBR
-1997-08-10,1997-08-11,Pre-Worlds & Danish Championship,,6,70,"Gilleleje,DEN",Gilleleje Sejlklub,,,,,,1997/world/1997-08-11-pre-world.danish-championship.gilleleje.DEN.csv,"Pre-Worlds, National",,DEN
+1997-08-10,1997-08-11,Pre-Worlds & Danish Championship,,6,70,Gilleleje,Gilleleje Sejlklub,,,,,,1997/world/1997-08-11-pre-world.danish-championship.gilleleje.DEN.csv,"Pre-Worlds, National",,DEN
 1997-08-10,1997-08-21,World Championship,,7,79,"Gilleleje,DEN",Gilleleje Sejlklub,,,,,,1997/world/1997-08-21.world-championships.gilleleje.DEN.csv,World,,DEN
 1997-08-16,1997-08-17,New Bedford Yacht Club Regatta,,5,15,"South Dartmouth, MA",New Bedford Yacht Club,,,,,,1997/country/usa/1997-08-17.nbyc-505-regatta.south-dartmouth.ma.USA.csv,,,USA
 1997-08-21,1997-08-24,Eastern Canadian Championship,,7,18,"Kingston,ON",CORK,,,,,,1997/country/canada/1997-08-24.eastern-canadian-championship-cork.kingston.on.CAN.csv,,,CAN
@@ -182,7 +182,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2000-08-05,2000-08-06,Eastern Canadian Championship,,,10,"Montreal, QC",Beaconsfield Yacht Club,,,,,,2000/country/canada/2000-08-06.eastern-canadian-championship.montreal.qc.CAN.csv,,,CAN
 2000-08-09,2000-08-10,Fleet 4 Championship,,10,11,"Ottawa,ON",Nepean Sailing Club,,,,,,2000/country/canada/2000-08-10.fleet-4-championship.ottawa-on.CAN.csv,,,CAN
 2000-08-12,2000-08-18,European Championship,,5,57,Abersoch,South Caernarvonshire Yacht Club,,,,,,2000/continental/2000-08-18.european-championship.abersoch.GBR.csv,"Continental,Europe",,GBR
-2000-08-26,2000-08-27,Danish National Championships,,6,15,Århus,Århus Sejlsport,,,,,,2000/country/denmark/2000-08-27.danish-national-championships.arhus.DEN.csv,National,,DEN
+2000-08-26,2000-08-27,Dansk Mesterskab,Danish Championship,6,15,Århus,Århus Sejlsport,,,,,,2000/country/denmark/2000-08-27.danish-national-championships.arhus.DEN.csv,National,,DEN
 2000-10-08,2000-09-03,Queen Mary Open Meeting,,,7,Ashford,Queen Mary Sailing Club,,,,,,2000/country/uk/2000-09-03.queen-mary-open-meeting.ashford.GBR.csv,,,GBR
 2000-11-11,2000-11-23,World Championship,,5,61,Durban,,,,,,,2000/world/2000-11-23.world-championship.durban.RSA.csv,World,,RSA
 2001-04-13,2001-04-15,Cavalaire,,6,37,Cavalaire,,,,,,,2001/country/france/2001-04-15.cavalaire.FRA.csv,Euro Cup,,FRA
@@ -272,7 +272,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2008-06-28,2008-06-29,Helsinki Regatta,,6,18,Helsinki,,,,,,,2008/country/finland/2008-06-29.helsinki-regatta.helsinki.FIN.csv,,,FIN
 2008-06-28,2008-06-29,National Espoirs,,6,21,Anse de la Picarde,Club Nautique Haute Seine,,,,,,2008/country/france/2008-06-29.national-espoirs.anse-de-la-picarde.FRA.csv,,,FRA
 2008-07-03,2008-07-06,UK National Championship,,4,40,Lymington,Lymington Town Sailing Club,,,,,,2008/country/uk/2008-07-06.uk-national-championship.lymington.GBR.csv,National,,GBR
-2008-07-07,2008-07-13,World Championship,,6,123,"Palermo,ITA",,,,,,,2008/world/2008-world-championship.palermo.ITA.csv,World,,ITA
+2008-07-07,2008-07-13,World Championship,,6,123,Palermo,,,,,,,2008/world/2008-world-championship.palermo.ITA.csv,World,,ITA
 2008-08-19,2008-08-21,East Coast Championship,,8,22,"Galesville, MD",West River Sailing Club,,,,,,2008/country/usa/2008-08-21.east-coast-championship.galesville.md.USA.csv,,,USA
 2008-09-13,2008-09-14,Régate de 505,,6,23,Le Havre,Sport Nautique et Plaisance du Havre,,,,,,2008/country/france/2008-09-14.regate-de-505.le-havre.FRA.csv,,,FRA
 2008-09-13,2008-09-14,Régionale/HN,,6,13,Strasbourg,Aquatic Club d'Alsace Lorraine,,,,,,2008/country/france/2008-09-14.regionale-505-hn.strasbourg.FRA.csv,,,FRA
@@ -410,7 +410,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2015-06-20,2015-06-28,Kieler Woche,,10,39,"Olympia Zentrum,Kiel-Schilksee,GER",Kieler Yacht-Club e.V.,,,,,,2015/country/germany/2015-06-20-kieler-woche.kiel.GER.csv,Euro Cup,,GER
 2015-07-01,2015-07-03,Helsinki Regatta,,6,6,Helsinki,,,,,,,2015/country/finland/2015-07-03.helsinki-regatta.helsinki.FIN.csv,,,FIN
 2015-07-11,2015-07-15,Championnat de France,France Championship,10,42,La Rochelle,Club de voile à La Rochelle,Ikhlef Georges,Lorber Yves,,,,2015/country/france/2015-07-15.championnat-de-france.la-rochelle.FRA.csv,National,,FRA
-2015-07-17,2015-07-26,Travemünder Woche,,6,13,"Travemünde,GER",Lübecker Yacht-Club e.V.,Tina Buch,Andrus Pokis,,,126. Travemünder Woche,2015/country/germany/2015-07-28-126-travemunder-woche.travemunde.GER.csv,,,GER
+2015-07-17,2015-07-26,Travemünder Woche,,6,13,Travemünde,Lübecker Yacht-Club e.V.,Tina Buch,Andrus Pokis,,,126. Travemünder Woche,2015/country/germany/2015-07-28-126-travemunder-woche.travemunde.GER.csv,,,GER
 2015-07-18,2015-07-19,Puchar Mariny Kamień Pomorski,Kamień Pomorski Cup,9,17,"Kamień Pomorski,POL",Polskie Stowarzyszenie Klasy 505,,,,,,2015/country/poland/2015-07-19-kamien.csv,Polish Cup,Zatoka Gdańska,POL
 2015-07-23,2015-07-27,UK National Championship,,7,33,Weymouth,Weymouth & Portland National Sailing Academy,,,,,,2015/country/uk/2015-07-27.uk-national-championship.weymouth.GBR.csv,National,,GBR
 2015-07-24,2015-07-26,Columbia Gorge One-Design Regatta,,11,9,"Portland, OR",Columbia Gorge Racing Association,,,,,,2015/country/usa/2015-07-26.columbia-gorge-one-design-regatta.portland-or.USA.csv,,,USA
@@ -496,7 +496,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2018-05-12,2018-05-12,SWE Cup 1,,7,21,Torslanda,Björlanda Kile SS,,,,,,2018/country/sweden/2018-05-12.swe-cup-1.SWE.csv,Swedish Cup,,SWE
 2018-05-19,2018-05-20,Pfingstwettfahrten,,7,25,"Herrsching,GER",Herrschinger Segelclub e.V.,Michael Marcour,Fritz Kocourek,,,,2018/country/germany/2018-05-20.pfingstwettfahrten.herrsching.GER.csv,,,GER
 2018-05-19,2018-05-20,Regaty Otwarcia Sezonu,,5,25,"Gdynia,POL",,,,,,,2018/country/poland/2018-05-18-gdynia.csv,Polish Cup,Zatoka Gdańska,POL
-2018-05-19,2018-05-21,Danish Championship,,10,21,"Sønderborg,DEN",Sønderborg Yacht-Club,,,,,,2018/country/denmark/2018-05-21.danish-championship.sonderborg.DEN.csv,National,,DEN
+2018-05-19,2018-05-21,Dansk Mesterskab,Danish Championship,10,21,Sønderborg,Sønderborg Yacht-Club,,,,,,2018/country/denmark/2018-05-21.danish-championship.sonderborg.DEN.csv,National,,DEN
 2018-06-16,2018-06-17,Puchar Burmistrza Krynicy Morskiej,,3,19,"Krynica Morska,POL",,,,,,,2018/country/poland/2018-06-17-krynica.csv,Polish Cup,Zalew Wiślany,POL
 2018-06-16,2018-06-20,Kieler Woche,,11,36,Kiel,Kieler Yacht-Club e.V.,Nino Shmueli,Douglas Sloan,,,https://youtu.be/-PTzl5M5eLo,2018/country/germany/2018-06-20-kieler-woche.kiel.GER.csv,Euro Cup,,GER
 2018-06-29,2018-07-01,Helsinki Regatta,,4,8,Helsinki,,,,,,,2018/country/finland/2018-07-01.helsinki-regatta.helsinki.FIN.csv,,,FIN
@@ -577,13 +577,21 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2020-07-04,2020-07-05,Sommerregatta,,5,16,"Tutzing,GER",Deutscher Touring Yacht-Club e.V.,,,,,,2020/country/germany/2020-07-04.sommerregatta.tutzing.GER.csv,,,GER
 2020-07-11,2020-07-12,Lotos Nord Cup,,7,14,Górki Zachodnie,"Akademicki Związek Sportowy, Galion, Yacht Club Gdynia",,,,,,2020/country/poland/2020-07-12.lotos-nord-cup.gdansk.POL.csv,Polish Cup,Zatoka Gdańska,POL
 2020-08-07,2020-08-09,Mistrzostwa Polski,Polish Championship,6,22,Ustka,"Miasto Ustka, ProSport, Dolina Charlotty",,,,,,2020/country/poland/2020-08-09.mistrzostwa-polski.ustka.POL.csv,National,Baltic Sea,POL
-2020-08-08,2020-08-09,Danish Championship,,7,18,Hellerup,Hellerup Sejlklub,,,,,,2020/country/denmark/2020-08-09.danish-championship.hellerup.DEN.csv,National,,DEN
+2020-08-08,2020-08-09,Dansk Mesterskab,Danish Championship,7,18,Hellerup,Hellerup Sejlklub,,,,,,2020/country/denmark/2020-08-09.danish-championship.hellerup.DEN.csv,National,,DEN
 2012-04-06,2012-04-08,Cannes,,7,59,Cannes,Yacht club de Cannes,,,,,,2012/country/france/2012-04-08.euro-cup.cannes.cannes.FRA.csv,Euro Cup,Mediterranean Sea,FRA
 2009-05-21,2009-05-23,Riva Cup,,8,50,Riva del Garda,Fraglia Vela Riva,,,,,,2009/country/italy/2009-05-23.euro-cup.riva-del-garda.ITA.csv,Euro Cup,Riva Del Garda,ITA
 2009-06-13,2009-06-14,Aarhus,,7,24,Aarhus,,,,,,,2009/country/denmark/2009-06-14.euro-cup.aarhus.DEN.csv,Euro Cup,,DEN
 2009-01-01,2009-12-31,EuroCup Ranking,,4,161,Europe,,,,,,"St Raphael • Riva del Garda • Aarhus • Europeans, Kiel",2009/continental/2009.euro-cup.csv,Euro Cup,,
-2010-01-01,2010-12-31,EuroCup Ranking,,4,203,,,,,,,Cannes • Riva del Garda • Kiel • Aarhus,2010/continental/2010.euro-cup.csv,Euro Cup,,
+2010-01-01,2010-12-31,EuroCup Ranking,,4,203,Europe,,,,,,Cannes • Riva del Garda • Kiel • Aarhus,2010/continental/2010.euro-cup.csv,Euro Cup,,
 2020-08-22,2020-08-23,Svenskt Mästerskap,Swedish Championship,5,30,Vejbystrand,,,,,,,2020/country/sweden/2020-08-23-sweden-championship.vejbystrand.SWE.csv,National,,SWE
+2012-01-01,2012-12-31,EuroCup Ranking,,4,112,Europe,,,,,,Cannes • Riva del Garda • Kiel • La Rochelle,2012/continental/2012.euro-cup.csv,Euro Cup,,
+2010-06-24,2010-06-27,Kieler Woche,,7,56,Kiel,Kieler Yacht-Club e.V.,,,,,,2010/country/germany/2010-06-27.euro-cup.kieler-woche.kiel.GER.csv,Euro Cup,,GER
+2008-05-01,2008-05-03,Riva Cup,,6,58,Riva del Garda,Fraglia Vela Riva,,,,,,2008/country/italy/2008-05-03.euro-cup.riva-del-garda.ITA.csv,Euro Cup,Riva Del Garda,ITA
+2003-05-29,2003-05-31,Riva Cup,,6,27,Riva del Garda,Fraglia Vela Riva,,,,,,2003/country/italy/2003-05-31.riva-cup.riva-del-garda.ITA.csv,,Riva Del Garda,ITA
+2004-05-20,2004-05-23,Riva Cup,,8,31,Riva del Garda,Fraglia Vela Riva,,,,,,2004/country/italy/2004-05-23.riva-cup.riva-del-garda.ITA.csv,,Riva Del Garda,ITA
+2005-05-05,2005-05-08,Riva Cup,,8,42,Riva del Garda,Fraglia Vela Riva,,,,,,2005/country/italy/2005-05-08.riva-cup.riva-del-garda.ITA.csv,,Riva Del Garda,ITA
+2005-07-22,2005-07-31,Travemünder Woche,,9,63,Travemünde,Lübecker Yacht-Club e.V.,,,,,116. Travemünder Woche,2005/country/germany/2005-07-31.travemunder-woche.travemunde.GER.csv,,,GER
+2007-07-21,2007-07-29,Travemünder Woche,,8,14,Travemünde,Lübecker Yacht-Club e.V.,,,,,118. Travemünder Woche,2007/country/germany/2007-07-29.travemunder-woche.travemunde.GER.csv,,,GER
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
@@ -608,22 +616,14 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
-1981-01-01,1981-01-01,505 World Championship,,,,"San Francisco, California (USA)",,,,,,,,,,
-1981-,1981-,European Championship,,6,82,"Riva del Garda,ITA",,,,,,,,,,
-1982-01-01,1982-01-01,505 World Championship,,,,Cork (IRL),,,,,,,,,,
-1983-03-01,1983-03-10,505 World Championship,,,,Adelaide (AUS),,,,,,,,,,
-1984-01-01,1984-01-01,505 World Championship,,,,Gromitz (GER),,,,,,,,,,
-1985-10-20,1985-10-30,505 World Championship,,,,Enoshima (JPN),,,,,,,,,,
-1986-07-25,1986-08-02,505 World Championship,,,,La Rochelle (FRA),,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+2008-07-24,2008-07-27,Travemünder Woche,,,,Travemünde,,,,,,,,Euro Cup,,GER
+2008-10-04,2008-10-09,European Championship,,,,Palermo,,,,,,,,"Continental,Europe,Euro Cup",,ITA
 1987-01-10,,1987 Pacific Championship in Singapore,,,,,,,,,,,,,,
-1987-07-03,1987-07-17,505 World Championship,,,,Helsinki (FIN),,,,,,,,,,
-1988-01-29,1988-02-17,505 World Championship,,,,"Sydney, New South Wales (AUS)",,,,,,,,,,
-1989-01-01,1989-01-01,505 World Championship,,,,Felixstowe (GBR),,,,,,,,,,
-1990-01-01,1990-01-01,505 World Championship,,,,"Kingston, Ontario (CAN)",,,,,,,,,,
-1991-01-01,1991-01-01,505 World Championship,,,,Marstrand (SWE),,,,,,,,,,
-1992-01-01,1992-01-01,505 World Championship,,,,"Santa Cruz, California (USA)",,,,,,,,,,
-1993-01-01,1993-01-01,505 World Championship,,,,Travemunde (GER),,,,,,,,,,
-1994-01-01,1994-01-01,505 World Championship,,,,Durban (RSA),,,,,,,,,,
+1981-,1981-,European Championship,,6,82,"Riva del Garda,ITA",,,,,,,,,,
 1995-01-01,1995-01-01,505 World Championship,,,,Mounts Bay (GBR),,,,,,,,,,
 1995-08-22,1995-08-24,East Coast Championship,,,,"Galesville, MD",505 Fleet 19 & the West River Sailing Club,,,,,,,,,
 1996-03-02,1996-03-03,Sailboat 96,,,,Alexandra Palace,,,,,,,,,,GBR
@@ -678,7 +678,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2004-07-24,2004-07-27,505 Euro-Cup,,,,Lubecker Bucht (GER),,,,,,,,,,
 2004-08-13,2004-08-20,LightSurf - 505 World Championship,,,,"Santa Cruz, CA (USA)",,,,,,,,,,
 2004-10-03,2004-10-07,International 505 European Championship,,,,Pula (CRO),,,,,,,,,,
-2005-05-05,2005-05-08,Riva Cup,,,,Riva del Garda (ITA),,,,,,,,,,
+,,,,,,,,,,,,,,,,
 2005-05-14,2005-05-16,Pfingstbusch Young European Sailings,,,,"Kiel Bay, Baltic Sea (GER)",,,,,,,,,,
 2005-06-18,2005-06-26,Kieler Woche,,,,Baltic Sea / Kiel (GER),,,,,,,,,,
 2005-08-16,2005-08-25,CSC - 505 World Championship,,,,Warnemunder (GER),,,,,,,,,,
