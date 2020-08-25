@@ -259,10 +259,10 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2006-09-10,2006-09-11,Dale Jepsen One-Design Regatta,,8,5,"Bellingham,WA,USA",Bellingham Yacht Club,,Dale Jepsen,,,,2006/country/usa/2006-09-11.dale-jepsen-one-design-regatta.bellingham-wa.USA.csv,,,USA
 2006-09-15,2006-09-19,North American Championship,,11,27,,,,,,,,2006/continental/2006-09-19.north-american-championship.csv,Continental,,
 2007-02-02,2007-02-02,World Championship,,9,92,Adelaide,,,,,,,2007/world/2007-02-02.world-championship.adelaide.AUS.csv,World,,AUS
-2007-04-21,2007-04-22,Inland Championships,,5,6,"Derby, GBR",Burton Sailing Club,,,,,,2007/country/uk/2007-04-22.inland-championships.derby.GBR.csv,,,GBR
-2007-06-20,2007-06-24,Kieler Woche,,8,54,"Olympia Zentrum,Kiel-Schilksee,GER",Kieler Yacht-Club e.V.,,,,,,2007/country/germany/2007-06-24-kieler-woche.kiel.GER.csv,Euro Cup,,GER
+2007-04-21,2007-04-22,Inland Championships,,5,6,Derby,Burton Sailing Club,,,,,,2007/country/uk/2007-04-22.inland-championships.derby.GBR.csv,,,GBR
+2007-06-20,2007-06-24,Kieler Woche,,8,54,Kiel,Kieler Yacht-Club e.V.,,,,,,2007/country/germany/2007-06-24-kieler-woche.kiel.GER.csv,Euro Cup,,GER
 2007-07-07,2007-07-09,Nord Cup,,3,7,Górki Zachodnie,,,,,,,2007/country/poland/2007-06-10-nord-cup.csv,Polish Cup,Zatoka Gdańska,POL
-2007-07-10,2007-07-14,UK National Championship,,5,30,,South Caernarvonshire YC,,,,,,2007/country/uk/2007-07-14-national-championship.GBR.csv,National,,GBR
+2007-07-10,2007-07-14,UK National Championship,,5,30,Abersoch,South Caernarvonshire YC,,,,,,2007/country/uk/2007-07-14-national-championship.GBR.csv,National,,GBR
 2007-07-21,2007-07-29,Travemünder Woche,,8,14,Travemünde,Lübecker Yacht-Club e.V.,,,,,118. Travemünder Woche,2007/country/germany/2007-07-29.travemunder-woche.travemunde.GER.csv,,,GER
 2007-08-24,2007-08-26,Pre-Europeans & Mistrzostwa Polski,,6,61,Sopot,,,,,,,2007/country/poland/2007-08-26.mistrzostwa-polski.sopot.POL.csv,"National, Polish Cup",Zatoka Gdańska,POL
 2007-08-26,2007-09-01,European Championship,,9,53,Sopot,,Beata Zajkowska,Zbigniew Czubek,"NW,W,W,W,W,W,W,W,NW","9-11,4-6,3-7,3-7,5-9,5-9,2-3,2-7,3-7",,2007/continental/2007-09-01.european-championship.sopot.POL.csv,"Continental,Europe,Euro Cup",Zatoka Gdańska,POL
@@ -592,11 +592,11 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2020-08-07,2020-08-09,Mistrzostwa Polski,Polish Championship,6,22,Ustka,"Miasto Ustka, ProSport, Dolina Charlotty",,,,,,2020/country/poland/2020-08-09.mistrzostwa-polski.ustka.POL.csv,National,Baltic Sea,POL
 2020-08-08,2020-08-09,Dansk Mesterskab,Danish Championship,7,18,Hellerup,Hellerup Sejlklub,,,,,,2020/country/denmark/2020-08-09.danish-championship.hellerup.DEN.csv,National,,DEN
 2020-08-22,2020-08-23,Svenskt Mästerskap,Swedish Championship,5,30,Vejbystrand,,,,,,,2020/country/sweden/2020-08-23-sweden-championship.vejbystrand.SWE.csv,National,,SWE
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
+2008-10-04,2008-10-09,European Championship,,6,69,Palermo,,,,,,,2008/continental/2008-10-09.european-championship.palermo.ITA.csv,"Continental,Europe,Euro Cup",,ITA
+2008-03-21,2008-10-09,EuroCup Ranking,,4,130,Europe,,,,,,St. Raphael • Riva del Garda • Travemünde Woche • Palermo,2008/continental/2008.euro-cup.csv,Euro Cup,,
+2007-04-06,2007-09-01,EuroCup Ranking,,4,145,Europe,,,,,,Saint Raphaël • Riva del Garda • Kille Woche • Sopot,2007/continental/2007.euro-cup.csv,Euro Cup,,
+2007-05-17,2007-05-19,Riva Cup,,,47,Riva del Garda,,,,,,,2007/country/italy/2007-05-19.euro-cup.riva-del-garda-ITA.csv,Euro Cup,Riva Del Garda,ITA
+2007-04-06,2007-04-08,Saint Raphaël,,,75,Saint Raphaël,Club Nautique de Saint Raphaël,Paul Edouard Despierres,John Coveney,,,,2007/country/france/2007-04-08.euro-cup.st-raphael.FRA.csv,Euro Cup,,FRA
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
@@ -707,7 +707,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2008-07-24,2008-07-27,Travemünder Woche,,,,Travemünde,,,,,,,,Euro Cup,,GER
 2008-08-15,2008-08-17,International Open Dinghy Regatta,,,,Clearwater Bay (HKG),,,,,,,,,,
 2008-08-21,2008-08-24,Cork Classes Regatta,,,,Kingston (CAN),,,,,,,,,,
-2008-10-04,2008-10-09,European Championship,,,,Palermo,,,,,,,,"Continental,Europe,Euro Cup",,ITA
+,,,,,,,,,,,,,,,,
 2008-10-06,2008-10-17,505 World Championship,,,,Palermo (ITA),,,,,,,,,,
 2009-05-21,2009-05-23,Riva Cup,,,,Riva del Garda (ITA),,,,,,,,,,
 2009-05-30,2009-06-01,Pfingstbusch Young European Sailings,,,,Kiel (GER),,,,,,,,,,

@@ -1,4 +1,38 @@
 Nation,Name,Club,Description,Birth Date,email
+FRA,Benoit Blaison
+FRA,Dubruel Denis
+GER,Roland Herrmann
+POL,Tomasz Frydrychowicz
+GER,Benjamin Lasnier
+GER,Wilfried W. Stuis
+GER,Thomas Wieting
+GER,Markus Keding
+GER,Frank Weigelt
+GER,Markus Maisenbacher
+GER,Lars Kruse
+GER,Tim Mütze
+FRA,Bertrand Molinier
+FRA,Adrien Surbier
+FRA,David Denis
+FRA,Thomas Denis
+FRA,Virginie Auger
+FRA,Charles Courbonne
+FRA,Francoise Mallet
+GER,Hartmut Weiß
+GER,Volker Weiß
+FRA,Roland Delsemme
+FRA,Delphine Markt
+GER,Thorsten Pieper
+GER,Reiner Gerdes
+FRA,Gildas Sever
+GER,Dave Farmer
+GER,Berggren Johannes
+GER,Max Rauner
+GER,Kathrin Konrad-Schmolke
+GER,Matthias Konrad-Schmolke
+ITA,Giovanni Giacometti
+GER,Michael Daisenberger
+FRA,Jan Florian Faucheux
 AUS,A. Martin,,,,
 AUS,Adam Brenz-Verca,,,,
 AUS,Adam Wyatt,,,,
@@ -639,7 +673,7 @@ FRA,Laurent Hay
 FRA,Laurent Lasnier
 FRA,Laurent Michel,,,,
 FRA,Lawrence Banahan,,,,
-FRA,Loic Bleuez,,,,
+FRA,Loïc Bleuez,,,,
 FRA,Loic Brillaud
 FRA,Louis Claude,,,,
 FRA,Louis Gibert
@@ -1146,7 +1180,7 @@ GER,Christian Bühring-Uhle,,,,
 GER,Christian Dörr,,,,
 GER,Christian Henge,,,,
 GER,Christian Labenz,,,,
-GER,Christian Lemps
+GER,Christian Lempp
 GER,Christian Lindemann,,,,
 GER,Christian Meier-Kothe,,,,
 GER,Christian Müllejans,,,,
@@ -1185,7 +1219,7 @@ GER,Dirk Hütten,,,,
 GER,Dirk Ipach,,,,
 GER,Dirk Lübbers,,,,
 GER,Dorothea Gebert,,,,
-GER,Dr Wolfgang Hunger,,,,
+GER,Wolfgang Hunger,,,,
 GER,Eberhard Schockenhoff,,,,
 GER,Eckart König,,,,
 GER,Eckhard Busch
@@ -1242,9 +1276,9 @@ GER,Greger Thoralf
 GER,Gregor Dahlem
 GER,Guido von Walter,,,,
 GER,Günter Bökle,,,,
-GER,Gunter Peters,,,,
-GER,Günter Peters
 GER,Günter Peters,,,,
+FRA,Geoffroy Riot
+FRA,Gerard Daugey
 GER,Hannes Kindermann,,,,
 GER,Hannes Lehning,,,,
 GER,Hannes Wagner,,,,
