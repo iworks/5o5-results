@@ -1,11 +1,4 @@
 Nation,Name,Club,Description,Birth Date,email
-CRO,Nina Popovac
-CRO,Ratko Štibrić
-CRO,Zoran Majstorović
-CRO,Slobodan Velikić
-CRO,Nikola Fabijanić
-CRO,Miro Cvitkovic
-CRO,Tomislav Jelic
 AUS,A. Martin,,,,
 AUS,Adam Brenz-Verca,,,,
 AUS,Adam Wyatt,,,,
@@ -368,8 +361,15 @@ CAN,Valerie Fuchshuber
 CAN,Victor Stopp,,,,
 CAN,William Penney
 CAN,Winston Cummins,,,,
+CRO,Miro Cvitkovic
 CRO,Nikola Fabijanic
+CRO,Nikola Fabijanić
+CRO,Nina Popovac
+CRO,Ratko Štibrić
 CRO,Slobodan Velikic
+CRO,Slobodan Velikić
+CRO,Tomislav Jelic
+CRO,Zoran Majstorović
 DEN,Allan Andreasen,,,,
 DEN,Anders Friis,,,,
 DEN,Anders Kaempe,,,,
@@ -1859,11 +1859,15 @@ POL,Wojciech Kasprzyk,,,,
 POL,Zbigniew Doch,,,,
 POL,Zbigniew Monkiewicz,,,,
 POL,Zbisław Lasek,,,,
+RSA,Adam van der Ploeg
 RSA,Adrian Gornall,,,,
 RSA,Alan Franklin,KZN,,,alanf@alfcon.co.za
 RSA,Alan Haylett,VLC,,,
 RSA,Albrecht Holm,Pretoria Sailing Club,,,aholm@lantic.net
 RSA,Alexander Ham,,,,
+RSA,Allan Lewthwaite
+RSA,Andre Eigelaar
+RSA,Andrew Arnold
 RSA,Andrew Arthur
 RSA,Andrew Heathcote,,,,hethcot@iafrica.com
 RSA,Anthony Parker,,,,
@@ -1873,15 +1877,20 @@ RSA,Belinda Fraser,,,,
 RSA,Ben De Klerk,,,,ben@rih.co.za
 RSA,Bob Crisp,International Liaison,,,xanadu@icon.co.za
 RSA,Bobby Dutton,,,,duttons@lantic.co.za
+RSA,Brennan Robinson
 RSA,Brett von Budenbrock,,,,
 RSA,Bronwen Klaas,,,,
 RSA,Bronwyn Klaas
 RSA,Carl Zimmerman,,,,
 RSA,Charles Crosby,Pretoria Sailing Club,,,ccrosby@imaginet.co.za
 RSA,Chris Oosthuizen,PYC,,,dv@icon.co.za
+RSA,CJ Milln
 RSA,Clive Whitburn,,,,tesset@global.co.za
+RSA,Colin Becker
+RSA,Courtney Ballantyne
 RSA,Craig Parker
 RSA,Dale Kushner,,,,kushner@inds.co.za
+RSA,Danie Ungerer
 RSA,Daniel Eigelaar,,,,
 RSA,Dave Grieve,,,,polym@iafrica.com
 RSA,David Vinnicombe,,,,
@@ -1895,10 +1904,15 @@ RSA,Dudley Isaacs,,,,dudley@sailafrica.co.za
 RSA,Dylan Leroux,,,,
 RSA,Eddie Forster
 RSA,Euan Hurter,,,,
+RSA,Evert Groenewald
 RSA,Ferdinand Holm,Pretoria Sailing Club,,,fcholm@yebo.co.za
 RSA,Flynn Robson
 RSA,Frank Silberbauer,,,,frank@lorge.co.za
+RSA,Georgou Divaris
+RSA,Gordon Quarmby
 RSA,Grant Ballantyne,,,,scenic@mweb.co.za
+RSA,Greg Barnard
+RSA,Gregg Dobson
 RSA,Gregg Hurter
 RSA,Hans Rogotzki,,,,hans.rogotzki@batco.co.za
 RSA,Harry Ellens,KZN,,,custom@saol.com
@@ -1909,11 +1923,13 @@ RSA,James Largier,,,,
 RSA,James Spikesly,,,,
 RSA,Jan Milne,,,,nigel@saol.com
 RSA,Jason Honeywell
+RSA,Jay D'Engle
 RSA,John Archer,,,,Archerj@matteyafrica.com
 RSA,John Lindemann,,,,jfl@global.co.za
 RSA,Jonathan Ham,,,,
 RSA,Jonathan Norton,,,,nortonm@admin.und.ac.za
 RSA,Karl Kuhn
+RSA,Kevin Foreman
 RSA,Kevin O'Connor,,,,doccon@pc2000.co.zw
 RSA,Kobus Holtzhausen,,,,
 RSA,Kyle Klaas,,,,
@@ -1924,7 +1940,7 @@ RSA,Mark Abbotts,,,,abbotts@worldonline.co.za
 RSA,Mark Biagio,,,,
 RSA,Mark Biaglo
 RSA,Mark Rogotski,,,,batco@global.co.za
-RSA,Matthew McRystal,,,,
+RSA,Matthew McCrystal,,,,
 RSA,Michael Biagio
 RSA,Michael Giles,,,,michaelgiles@compuserve.com
 RSA,Mike Doveton,,,,mikedoveton@yebo.co.za
@@ -1943,9 +1959,12 @@ RSA,Peter Vinnicombe,,,,
 RSA,Phil Bennet,Victoria Lake Club,,,pbennett@fnb.co.za
 RSA,Phillip Bennett,,,,
 RSA,Randolph Verheij
+RSA,Richard Hutton Squire
 RSA,Richard Parker,,,,
 RSA,Rick Shearar,Pretoria Sailing Club,,,shearar@global.co.za
+RSA,Ricky Robinson
 RSA,Rob Hancock,KZN,,,pipdog@yebo.co.za
+RSA,Rob McCrystal
 RSA,Rob M'Crystal,VLC,,,robmcrystal@freemail.absa.co.za
 RSA,Robbie Willcox,Victoria Lake Club,,,rwillcox@amplats.co.za
 RSA,Robert Crisp,,,,
@@ -1955,12 +1974,16 @@ RSA,Roy Dunster,,,,Roy.Dunster@kpmg.co.za
 RSA,Rudolph Holm,Pretoria Sailing Club,,,rudolphh@mweb.co.za
 RSA,Ryan Avery
 RSA,Ryan Robinson,,,,
+RSA,Scott Quarmby
+RSA,Sean Ballantyne
+RSA,Stefan Kuhn
 RSA,Stephan Hegerstrom,PSC,,,shegerstrom@sfw.co.za
 RSA,Stephan Kuhn,Pretoria Sailing Club,,,stephank@netactive.co.za
-RSA,Steve Hegerstrom,,,,
+RSA,Steve Hegerström,,,,
 RSA,Sue-Ellen Biagio
 RSA,Thomas Fischer,,,,fischert@mweb.co.za
 RSA,Tim Archer,,,,
+RSA,Tim Gibbons
 RSA,Tina Plattner,,,,
 RSA,Tom Fisher,,,,
 RSA,Tony Allison,,,,
