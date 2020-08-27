@@ -85,6 +85,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 1996-10-06,1996-10-07,Carl Miller Regatta,,5,12,"Galesville, MD",West River Sailing Club,,,,,,1996/country/usa/1996-10-07.carl-miller-regatta.galesville-md.USA.csv,,,USA
 1996-10-07,1996-10-08,First Annual Hoosier Regatta,,7,8,"Unionville, IN",Indiana University Yacht Club,,,,,,1996/country/usa/1996-10-08.first-annual-hoosier-regatta.unionville-in.USA.csv,,,USA
 1997-01-03,1997-01-05,Florida Midwinters,,6,23,"St. Petersburg, FL",St. Petersburg Sailing Center,,,,,,1997/country/usa/1997-01-05.florida-midwinters.st-petersburg.USA.csv,,,USA
+1997-01-11,1997-01-12,Snowflake Regatta,,7,5,"Seattle, WA",Washington Yacht Club,,,,,,1997/country/usa/1997-01-12.snowflake-regatta.seattle-wa.USA.csv,,Lake Washington,USA
 1997-02-15,1997-02-16,Southern California Midwinters,,5,10,"Long Beach, CA",Alamitos Bay Yacht Club,,,,,,1997/country/usa/1997-02-16.southern-california-midwinters.long-beach.USA.csv,,,USA
 1997-03-15,1997-03-16,Spring Dinghy,,6,10,"San Francisco, CA",St. Francis Yacht Club,,,,,,1997/country/usa/1997-03-16.st-francis-spring-dinghy.san-francisco.USA.csv,,,USA
 1997-05-03,1997-05-04,WRSC Spring Regatta,,5,13,"Galesville, MD",West River Sailing Club,,,,,,1997/country/usa/1997-05-04.spring-regatta.galesville.USA.csv,,Chesapeake Bay,USA
@@ -204,6 +205,11 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2001-08-19,2001-08-28,World Championship,,7,105,"Cascais,POR",,,,,,,2001/world/2001-07-21.world-championship.cascais.POR.csv,World,,POR
 2001-08-25,2001-08-27,UK National Championship,,6,29,Pevensey,Pevensey Bay Sailing Club,,,,,,2001/country/uk/2001-08-27.uk-championship.pevensey.GBR..csv,National,,GBR
 2001-11-17,2001-11-18,Victoria Lake Club Cup,,5,4,Germiston,Victoria Lake Club,,,,,,2001/country/south-africa/2001-11-18.victoria-lake-club-cup.RSA.csv,,,RSA
+2002-01-01,2002-01-01,Dansk Mesterskab,Danish Championship,6,18,Hellerup,Hellerup Sejlklub,,,,,,2002/country/denmark/2002.danish-championship.hellerup.DEN.csv,National,,DEN
+2002-01-01,2002-01-01,Harboe Cup,,6,9,,,,,,,,2002/country/denmark/2002.harboe.cup.DEN.csv,,,DEN
+2002-01-01,2002-01-01,Landskrona,,6,19,Landskrona,,,,,,,2002/country/denmark/2002.euro-cup.landskrona.DEN.csv,Euro Cup,,DEN
+2002-01-01,2002-01-01,Nordisk Mesterskab,,6,10,,,,,,,,2002/country/denmark/2002.nordisk-mesterskab.DEN.csv,,,DEN
+2002-01-01,2002-01-01,Sail Extreme,,7,8,,,,,,,,2002/country/denmark/2002.sail-extreme.DEN.csv,,,DEN
 2002-01-01,2002-01-01,Van Rooyen Trophy,,4,8,,Transvaal Yacht Club,,,,,,2002/country/south-africa/2002.van-rooyen-trophy.RSA.csv,,,RSA
 2002-01-12,2002-01-13,Duffin trophy,,5,9,Germiston,Victoria Lake Club,,,,,,2002/country/south-africa/2002-01-13.duffin-trophy.RSA.csv,,,RSA
 2002-03-21,2002-03-23,South African National Championship,,9,16,Vaal Dam,Aeolians Club,,,,,,2002/country/south-africa/2002-03-23.south-african-national-championship.vaal-dam.RSA.csv,National,,RSA
@@ -632,12 +638,6 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2020-08-07,2020-08-09,Mistrzostwa Polski,Polish Championship,6,22,Ustka,"Miasto Ustka, ProSport, Dolina Charlotty",,,,,,2020/country/poland/2020-08-09.mistrzostwa-polski.ustka.POL.csv,National,Baltic Sea,POL
 2020-08-08,2020-08-09,Dansk Mesterskab,Danish Championship,7,18,Hellerup,Hellerup Sejlklub,,,,,,2020/country/denmark/2020-08-09.danish-championship.hellerup.DEN.csv,National,,DEN
 2020-08-22,2020-08-23,Svenskt Mästerskap,Swedish Championship,5,30,Vejbystrand,,,,,,,2020/country/sweden/2020-08-23-sweden-championship.vejbystrand.SWE.csv,National,,SWE
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
