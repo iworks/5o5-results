@@ -186,7 +186,8 @@ function check_is_person( $data ) {
 		case 'Team Pegasus':
 		case 'US Coastguard Academy':
 		case 'Wansborough family':
-		case 'Web Institute':
+        case 'Web Institute':
+        case 'Brothers Sparv':
 			return false;
 	}
 	return true;

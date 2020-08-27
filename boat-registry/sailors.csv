@@ -390,6 +390,7 @@ DEN,Jakob Karbo,,,,
 DEN,Jakob Thomasen,,,,
 DEN,Jan Møller
 DEN,Jan Saugmann,,,,
+DEN,Jan Thews
 DEN,Jesper Bülow,,,,
 DEN,Jesper Ernst,,,,
 DEN,Jesper Høeg
@@ -518,6 +519,7 @@ FRA,Be Di Pede,,,,
 FRA,Benoit Blaison
 FRA,Benoit Dijoux,,,,
 FRA,Benoit Morane,,,,
+FRA,Benoît Valleteau de Moulliac
 FRA,Bernard Blondy,,,,
 FRA,Bernard Dugrip,,,,
 FRA,Bernard Edel,,,,
@@ -777,7 +779,6 @@ FRA,Roger Chabaud,,,,
 FRA,Roland Delsemme
 FRA,Romain Adnot,,,,
 FRA,Romain Delmotte,,,,
-FRA,Romain Thivillier,,,,
 FRA,Romain Thivilliers,,,,
 FRA,Romaric Zimmowitch,,,,
 FRA,Sabine Dechauffour,,,,
@@ -889,6 +890,7 @@ GBR,Darrel Samanjoul,,,,
 GBR,Dave Chalkley,,,,
 GBR,Dave Hughes,,,,
 GBR,Dave Poston
+GBR,David Banks
 GBR,David Barnes,,,,
 GBR,David Bell,,,,
 GBR,David Clark,,,,
@@ -2014,6 +2016,7 @@ SUI,Alain Brasey
 SUI,Ammann Walter,,,,
 SUI,Andreas Kindlimann,,,,
 SUI,Beat Waser,,,,
+SUI,Daniela Zoller
 SUI,Dominik Haitz
 SUI,Florian Stauffer,,,,
 SUI,Giles Donzé,,,,
@@ -2035,6 +2038,7 @@ SUI,Markus Heilig,,,,
 SUI,Martin Nydegger,,,,
 SUI,Matthias Märki,,,,
 SUI,Michel Rotache,,,,
+SUI,Othmar Zoller
 SUI,Patrick Ducommun,,,,
 SUI,Peter Schweizer,,,,
 SUI,Phillip Grob,,,,
@@ -2042,7 +2046,7 @@ SUI,Phillipe Jacot,,,,
 SUI,Res Schürch,,,,
 SUI,Sacha Wirth,,,,
 SUI,Samuel Bacher
-SUI,Stephan Burri
+SUI,Stéphane Burri
 SUI,Toni Utiger,,,,
 SUI,Valéry Jacot,,,,
 SUI,Walter Ammann
@@ -2095,6 +2099,7 @@ SWE,Göran Källfeldt,,,,
 SWE,Göran Petersson,,,,
 SWE,Gunilla Berg,,,,
 SWE,Gustav Franzén,,,,
+SWE,Håkan Larsson
 SWE,Henrik Gustafsson,,,,
 SWE,Ingrid Söderström,,,,
 SWE,Jakob Lindvall,,,,
@@ -2115,6 +2120,7 @@ SWE,Kalle Nilsson,,,,
 SWE,Karin Storm
 SWE,Karl-Erik Nilsson,,,,
 SWE,Katarina Engström,,,,
+SWE,Katharina Berggren
 SWE,Kjell Lidman,,,,
 SWE,Knut Hastenpflug,,,,
 SWE,Krister Bergström,,,,
@@ -2162,6 +2168,7 @@ SWE,Per-Eric Thörnström,,,,
 SWE,Peter Andersson,,,,
 SWE,Peter Bökmark,,,,
 SWE,Petter Nilsson,,,,
+SWE,Philipp Frisch
 SWE,Pia Åhlund,,,,
 SWE,Pia Wennersten,,,,
 SWE,Rasmus Tengblad,,,,
@@ -2189,6 +2196,7 @@ SWE,Tomas Gustavsson,,,,
 SWE,Tomas Jaxing,,,,
 SWE,Ton Törm,,,,
 SWE,Toni Hastenpflug,,,,
+SWE,Torbjörn Linderson
 SWE,Tord Lawner,,,,
 SWE,Tore Reinhold,,,,
 SWE,Ulf Andersson,,,,
@@ -2277,6 +2285,7 @@ USA,Christopher Pfrang,,,,
 USA,Chuck Allan,,,,
 USA,Clayton James
 USA,Cody Kowalski,,,,
+USA,Colin Campbell
 USA,Colin Dunphy,,,,
 USA,Collin Linehan,,,,
 USA,Courtney Starks,,,,
@@ -2347,6 +2356,7 @@ USA,Grace Olsen,,,,
 USA,Graham Alexander,,,,
 USA,Graham Shelter
 USA,Greg Davis,,,,
+USA,Greg Gump
 USA,Greg Schuster,,,,
 USA,Grey Paul Shipley,,,,
 USA,Hans Gode,,,,
@@ -2390,13 +2400,13 @@ USA,John Wyles,,,,
 USA,John Zakaib,,,,
 USA,Jon Bell,,,,
 USA,Jon Henderson,,,,
-USA,Jonathan Livingston,,,,
 USA,Jonathan Livingstone,,,,
 USA,Jonathan Wenderoth,,,,
 USA,Josh Dyck,,,,
-USA,Josh Lieberman
+USA,Joshua Lieberman
 USA,Justin Shaffer,,,,
 USA,Kaila Pfrang,,,,
+USA,Katherine Viechnicki
 USA,Keith Davids,,,,
 USA,Kelsey Averill,,,,
 USA,Kelsey Avril,,,,
@@ -2409,6 +2419,7 @@ USA,Kevin Maguire,,,,
 USA,Ki Kaiser,,,,
 USA,Kirk Gooding,,,,
 USA,Kirk Twardowski,,,,
+USA,Kirstin Guinther
 USA,Krysia Pohl,,,,
 USA,Kyle Pfrang,,,,
 USA,Langdon Foley,,,,
@@ -2447,6 +2458,7 @@ USA,Michael Curtin,,,,
 USA,Michael Goldstein,,,,
 USA,Michael Komar,,,,
 USA,Michael Martin,,,,
+USA,Michael Welch,,,,
 USA,Michael Zimmerman,,,,
 USA,Mike Holt,,,,
 USA,Mike Mills,,,,
@@ -2454,7 +2466,6 @@ USA,Mike Poulos,,,,
 USA,Mike Powell,,,,
 USA,Mike Punnett,,,,
 USA,Mike Smith,,,,
-USA,Mike Welch,,,,
 USA,Mike Zani,,,,
 USA,Miles Johannessen,,,,
 USA,Naim Buseb
@@ -2480,8 +2491,8 @@ USA,Pete Melvin
 USA,Pete Spaulding
 USA,Peter Alarie,,,,
 USA,Peter Tuck
-USA,Phil Ryan,,,,
 USA,Phil Termin,,,,
+USA,Phillip Ryan,,,,
 USA,Phillipe Goubalt,,,,
 USA,Piper Dunlap,,,,
 USA,Ramsay Key,,,,
@@ -2522,6 +2533,7 @@ USA,Steve Kleha,,,,
 USA,Steve Rosenberg,,,,
 USA,Steve Smith,,,,
 USA,Steve Sparkman,,,,
+USA,Steven Lieberman
 USA,Stevios Papadakis,,,,
 USA,Stine Cacavas,,,,
 USA,Sugar Flanagan,,,,
