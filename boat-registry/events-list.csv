@@ -108,7 +108,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 1997-10-04,1997-10-05,Hoosier Regatta,,6,9,"Bloomington, IN",Indiana University Yacht Club,,,,,,1997/country/usa/1997-10-05.hoosier-regatta.bloomington.in.USA.csv,,Lake Lemon,USA
 1997-10-04,1997-10-05,Karl Miller Regatta,,4,13,"Galesville, MD",West River Sailing Club,,,,,,1997/country/usa/1997-10-05.karl-miller-regatta.galesville.md.USA.csv,,Chesapeake Bay,USA
 1997-10-18,1997-10-18,The Pumpkin Patch Regatta,,6,10,"Galesville, MD",West River Sailing Club,,,,,,1997/country/usa/1997-10-18.the-pumpkin-patch-regatta.galesville.md.USA.csv,,Chesapeake Bay,USA
-1998-01-01,1998-01-04,Midwinter Championship,,9,32,"St. Petersburg, FL, USA",St. Petersburg Yacht Club,,,,,,1998/country/usa/1998-01-04.midwinter-championship.st-petersburg.USA.csv,,,USA
+1998-01-01,1998-01-04,Midwinter Championship,,9,32,"St. Petersburg, FL",St. Petersburg Yacht Club,,,,,,1998/country/usa/1998-01-04.midwinter-championship.st-petersburg.USA.csv,,,USA
 1998-03-14,1998-03-15,Spring Dinghy,,6,11,"San Francisco, CA, USA",St. Francis Yacht Club,,,,,,1998/country/usa/1998-03-15.spring-dinghy.san-francisco.USA.csv,,,USA
 1998-04-04,1998-04-05,Hiper regatta,,8,11,"Marina del Rey, CA, USA",,,,,,,1998/country/usa/1998-04-05.hiper-regatta.marina-del-rey.USA.csv,,,USA
 1998-04-10,1998-04-12,Cavalaire,,6,92,Cavalaire,,,,,,,1998/country/france/1998-04-10.cavalaire.FRA.csv,Euro Cup,,FRA
@@ -129,7 +129,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 1998-08-01,1998-08-01,Zimbabwe Championship,,12,9,"Kariba, Zimbabwe ",,,,,,,1998/country/zimbabwe/1998-08-01.zimbabwe-championship.kariba.ZIM.csv,National,Kariba,ZIM
 1998-08-08,1998-08-14,UK National Championship,,7,39,Plymount,UK 505 Class Association,,,,,,1998/country/uk/1998-08-14.uk-national-championship.plymount.GBR.csv,National,,GBR
 1998-08-15,1998-08-16,Hospice Regatta,,6,12,"Hyannis, MA",Hyannis Yacht Club,,,,,,1998/country/usa/1998-08-16.hospice-regatta.hyannis.USA.csv,,,USA
-1998-08-22,1998-08-23,Midwest Championship,,7,20,"Ontario, CAN",South Port Sailing Club,,,,,,1998/country/canada/1998-08-23.midwest-championship.ontario.CAN.csv,,Lake St. Claire,CAN
+1998-08-22,1998-08-23,Midwest Championship,,7,20,Ontario,South Port Sailing Club,,,,,,1998/country/canada/1998-08-23.midwest-championship.ontario.CAN.csv,,Lake St. Claire,CAN
 1998-08-28,1998-08-30,Eastern Canadian Championship,,9,19,"Kingston,ON",CORK,,,,,,1998/country/canada/1998-08-30-cork-1998.kingston-on.CAN.csv,,,CAN
 1998-08-29,1998-08-29,Pacific Coast Championship,,5,18,"Richmond,CA,USA",Richmond Yacht Club,,,,,,1998/country/usa/1998-08-29.pacific-coast-championship.richmond.USA.csv,,,USA
 1998-09-19,1998-09-25,World Championship,,8,106,"Hyannis, MA",Hyannis Yacht Club,,,,,,1998/world/1998-09-25.world-championship.hyannis-MA.USA.csv,World,,USA
@@ -463,7 +463,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2014-10-11,2014-10-12,Heineken High Performance Dinghy Open,,8,14,"Rye, NY",American Yacht Club,,,,,,2014/country/usa/2014-10-12.heineken-high-performance-dinghy-open.rye-ny.USA.csv,,,USA
 2014-10-18,2014-10-19,Memoriał Macieja Szosta,Maciej Szost Memorial,6,16,Warszawa,Spójnia Warszawa,,,,,,2014/country/poland/2014-10-19-memorial-macieja-szosta-zegrze.csv,Polish Cup,Zalew Zegrzyński,POL
 2014-12-06,2014-12-07,Southern Charter Grand Slam 2,,5,11,Villiersdorp,Theewater Sports Club,,,,,,2014/country/south-africa/2014-12-07.southern-charter-grand-slam.villiersdorp.RSA.csv,,,RSA
-2015-02-20,2015-02-22,Midwinter Championship,,6,14,"St. Petersburg, FL, USA",St. Petersburg Yacht Club,,,,,,2015/country/usa/2015-02-22.midwinter-championship.st-petersburg.USA.csv,,,USA
+2015-02-20,2015-02-22,Midwinter Championship,,6,14,"St. Petersburg, FL",St. Petersburg Yacht Club,,,,,,2015/country/usa/2015-02-22.midwinter-championship.st-petersburg.USA.csv,,,USA
 2015-03-07,2015-03-08,Spring Dinghy,,6,12,"San Francisco, USA",St. Francis Yacht Club,,,,,,2015/country/usa/2015-03-07.spring-dinghy-regatta.san-francisco.USA.csv,,,USA
 2015-03-28,2015-03-29,Coupe Chassenay d’Arce des Vrais Bateaux,,7,25,"Lusigny-sur-Barse, FRA",Club Nautique Haute Seine,Jean Pierre Salou,Jacques Terrasson,,,,2015/country/france/2015-03-29.coupe-chassenay-darce-des-vrais-bateaux.lusigny-sur-barse.FRA.csv,,,FRA
 2015-03-28,2015-04-03,World Championship,,8,36,Port Elizabeth,Algoa Bay Yacht Club,,,,,,2015/world/2015-04-03.world-championship.nelson-mandela-bay.RSA.csv,World,Nelson Mandela Bay,RSA
@@ -653,7 +653,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2020-08-07,2020-08-09,Mistrzostwa Polski,Polish Championship,6,22,Ustka,"Miasto Ustka, ProSport, Dolina Charlotty",,,,,,2020/country/poland/2020-08-09.mistrzostwa-polski.ustka.POL.csv,National,Baltic Sea,POL
 2020-08-08,2020-08-09,Dansk Mesterskab,Danish Championship,7,18,Hellerup,Hellerup Sejlklub,,,,,,2020/country/denmark/2020-08-09.danish-championship.hellerup.DEN.csv,National,,DEN
 2020-08-22,2020-08-23,Svenskt Mästerskap,Swedish Championship,5,30,Vejbystrand,,,,,,,2020/country/sweden/2020-08-23-sweden-championship.vejbystrand.SWE.csv,National,,SWE
-,,,,,,,,,,,,,,,,
+2000-01-01,2000-01-01,Midwinter Championship,,3,16,"St. Petersburg, FL",St. Petersburg Yacht Club,,,,,,2000/country/usa/2000.midwinter-championship.st-petersburg.USA.csv,,,USA
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
