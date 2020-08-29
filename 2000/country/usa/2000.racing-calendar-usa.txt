@@ -1,0 +1,190 @@
+2000
+CHECK DATES WITH CONTACTS
+ 	 	Event	Venue	Contact	Rank
+January	2	Richmond Midwinters	Richmond YC,
+Richmond, CA	Eric Willis	1.0?
+7-9	Florida Midwinters Results
+Who is going/lame excuses	St. Petersburg Sailing Center,
+St. Petersburg, FL	Ethan Bixby	1.2
+9	Stockton SC Midwinter Regatta	Stockton SC,
+Stockton, CA	Stockton SC	1.0?
+15	505 Frostbite
+(with Jet 14)	Severn SA,
+Eastport, MD	Ali Meller	0
+15-16	Turnbuckle Tightner	Alamitos Bay YC,
+Long Beach, CA	Ben Benjamin	1.0?
+29	505 Frostbite (with Jet 14)
+cancelled due to ice preventing launching	Severn SA,
+Eastport, MD	Ali Meller	0
+February	6	Richmond Midwinters	Richmond YC,
+Richmond, CA	Eric Willis	1.0?
+12	505 Frostbite
+(with Jet 14)	Severn SA,
+Eastport, MD	Ali Meller	0
+13	Stockton SC Midwinter Regatta	Stockton SC,
+Stockton, CA	Stockton SC	1.0?
+19-20	West Coast Midwinters	Alamitos Bay YC,
+Long Beach, CA	Ben Benjamin	1.2?
+26	505 Frostbite
+(with Jet 14)	Severn SA,
+Eastport, MD	Ali Meller	0
+March	5	Richmond Midwinters #4	Richmond YC,
+Richmond, CA	Eric Willis	1.0?
+11	505 Frostbite
+(with Jet 14)	Severn SA,
+Eastport, MD	Ali Meller	0
+11-12	Spring Dinghy	St. Francis YC,
+San Francisco, CA	Eric Willis	1.2
+11-12	Manning Series	Alamitos Bay YC,
+Long Beach, CA	Ben Benjamin	1.0?
+12	Stockton SC Midwinter Regatta	Stockton SC,
+Stockton, CA	Stockton SC	1.0?
+18	Practice/Training/Frostbite	Severn SA,
+Eastport, MD	Ali Meller	0
+25	Practice/Training/Frostbite	Severn SA,
+Eastport, MD	Ali Meller	0
+25-26	Oak Harbor Pelican Regatta	OH Pelican Fleet, Oak Harbor, WA	Paul von Grey	1.0?
+April	1-2	Hampton training session	Royal Sarah YC
+(Sarah & Douglas Amthor's place),
+Hampton, VA	Doug Amthor	0
+8-9	Astoria Regatta	??, Astoria, OR	Mary Louise Vidas/
+Allan Staley	1.0?
+15	Spring Bowl: Report, Results, SI	Severn SA,
+Eastport, MD	Ali Meller	1.0?
+15-16	Hi-Per 2000/California Championship: Report, Results, NOR	California YC,
+Marina del Rey, CA	Dave Collins	??
+22-23	505 Spring Tune up: NOR (Practice/Training)	West River SC,
+Galesville, MD	Barney Harris	0
+29-30	West River Spring: NOR, Report	West River SC,
+Galesville, MD	Barney Harris	1.2?
+29-30	Richmond YC Spring Small Boat Invite:Report	Richmond YC,
+Richmond, CA	Del Olson	?
+29	505s at Dinghy Shop Open House: Report	Dinghy Shop,
+Amityville, Long Island, NY	Fred Liesegang	0
+May	13-14	SSA Spring II: Results, SI, Report	Severn SA,
+Eastport, MD	Ali Meller	1.2?
+13-14	Hoover Regatta: Report	Hoover YC,
+Columbus, OH	Graham Alexander	1.0?
+13-14	Spring Dinghyfest	Rush Creek YC,
+Dallas, TX	Steve Eller	1.0?
+20-21	Bristol Spring: NOR, Report	Bristol YC,
+Bristol, RI	Tim Collins	1.0?
+20-21	Hampton Trapeze: Report, NOR	Hampton YC,
+Hampton, VA	Henry Amthor	1.2?
+20-21	Spring Tune Up	US Sailing Center,
+Long Beach, CA	Ben Benjamin	1.0?
+20-21	SCYC Spring 1-design #2 /Invite: Report	Santa Cruz YC,
+Santa Cruz, CA	Eric Willis	1.0?
+20-21	SOCKS: Report	Seattle Yacht Club, Shilshole Marina, WA	Paul von Grey	1.0?
+27	SSA Spring IV: Report, Results, SI	Severn SA,
+Eastport, MD	Ali Meller	1.0?
+27-28	Midwest Championship: Report and Results, NOR	Southport SC,
+Windsor, Ontario	Renka Gesing	1.3
+27-28	Memorial Day	Alamitos Bay YC,
+Long Beach, CA	Ben Benjamin	1.0?
+June	3-4	Mission Bay YC 505 Invitational Regatta: Report, NOR	Mission Bay YC,
+San Diego, CA	Dan Merino	1.2?
+3-4	Vancouver Lake Regatta	Vancouver Lake SC, Vancouver, WA	Peter Tuck	1.0?
+10-11	SSA Dinghy Invitational: Report, Results, SI	Severn SA,
+Eastport, MD	Ali Meller	1.0?
+10-11	Junebug	Fanshawe Yacht Club,
+London, Ontario	Graham Alexander	1.2?
+10-11	Summer Solstice Regatta	Seabrook SC,
+Houston, TX	Steve Eller	1.0?
+17-18	New England Championships: Report NOR	Falmouth YC,
+Falmouth, MA (Cape Cod)	Tim Collins	1.2?
+17? 18?	SCYC Spring 1-design # 3	Santa Cruz YC,
+Santa Cruz, CA	Bruce Edwards	1.0?
+17-18	Nepean One Design	Nepean SC,
+Nepean (Ottawa), Ontario	Ron Hughes,
+or John Bryant	1.0?
+24	505 Open House/rides Day: Info	West River SC,
+Galesville, MD	Barney Harris	0.0
+July	1-3	Canadian Championships: NOR, Report	Kingston YC,
+Kingston, Ontario	Jeff Boyd	1.4
+1-2	Bay Challenge 505 Regatta: Report, NOR, Entry form	St. Francis YC,
+San Francisco, CA	Eric Willis	1.2?
+1-2	4th of July Regatta	Alamitos Bay YC,
+Long Beach, CA	Ben Benjamin	1.0?
+8	Great South Bay Regatta: Report, Images, NOR	Wet Pants Sailing Association, Long Island, NY	Fred Liesegang	1.2?
+8-9	Centerboard Regatta	Austin YC,
+Austin TX	Steve Eller	1.0?
+15	505 Open House/rides Day	Severn SA,
+Eastport, MD	Ali Meller	0.0
+15-16	High Sierra Regatta: Report	High in the Sierras.....
+somewhere, CA	Bruce Edwards	1.0?
+15-16	National Capital Regatta	Britannia YC,
+Ottawa, Ontario	Dave Adams	1.0?
+15-16	Oak Harbor Summer Regatta: NOR, Report	Adventure Marine, Oak Harbor, WA	Paul von Grey	1.0?
+21-23	Nebraska/Colorado Coaching/Training: NOR	Lake McConaughy, Nebraska	Joe Keating	0.0
+22-23	SBRA Santa Cruz: Report	Santa Cruz YC,
+Santa Cruz, CA	Bruce Edwards	1.0?
+22-23	Sandusky Summer	A club on Lake Erie,
+Sandusky, OH	Graham Alexander	1.0?
+28-30	Hyannis Annual Regatta: Information, 505 NOR, Report, Results	Hyannis YC,
+Hyannis, MA	Tim Collins	1.2?
+29-30	Ontario 505 Championships: Report	Outer Harbour Centreboard Club,
+Toronto, Ontario	Angus Ross	1.2?
+August	5-7	Pacific Coast Championship: NOR, Report, Results	Sequoia YC/Stanford SC	Steve Bourdow	1.3
+5-6	Hobelman	Montrose YC? Chicago Corinthian?,
+Chicago, IL	Graham Alexander	1.0?
+5-6	CYA SAIL EAST 2000 and
+Eastern Canadian Championship: Report	Beaconsfield YC,
+Montreal, Quebec	Georges Portelance	1.3?
+9-13	North American Championship: web site, NOR, Entry form, local conditions	Santa Cruz YC,
+Santa Cruz, CA	Bruce Edwards	1.5
+19-20	Astoria Summer Regatta: NOR, Report, Images	??, Astoria, OR	Mary Louise Vidas/Allan Staley	1.0?
+26-27	SBRA Richmond: Report	Richmond YC,
+Richmond, CA	Dan Strellis	1.0
+25-27	East Coast Championships
+NAs container unloading. Report, Results, Images, NOR, entry form	New Bedford YC,
+Padanaram, MA	Tim Collins	1.3
+September	2-3	Labor Day Regatta	Alamitos Bay YC,
+Long Beach CA	Mike Martin	1.0?
+9	Bay to Bay Race: NOR	Mission Bay YC, San Diego, CA	Dan Merino	?
+9-10	Fleet 4 Championship	Nepean SC,
+Nepean (Ottawa), Ontario	Ron Hughes, or
+John Bryant	1.2?
+9-10	Harvest Regatta: NOR	Eugene Yacht Club, Fern Ridge Reservoir, Eugene, OR	???	1.0?
+10	Region II Co-Ed Championship/SSA Fall I: Information, SI, Report, Images	Severn SA,
+Eastport, MD	Jesse Falsone	1.0?
+16	SCYC Fall One Design #2?	Santa Cruz YC,
+Santa Cruz, CA	Bruce Edwards	1.0?
+16-17	Sandusky Fall	A club on Lake Erie,
+Sandusky, OH	Graham Alexander	1.0?
+23-24	West River MidAtlantics: NOR, Results	West River SC,
+Galesville, MD	Barney Harris	1.2?
+Sep 30-
+Oct 1	Carl Miller: NOR, Results	West River SC,
+Galesville, MD	Barney Harris	1.0?
+Sep 30-
+Oct 1	Pumpkin	Fanshawe Yacht Club,
+London, Ontario	Graham Alexander	1.0?
+??	Whale of a sail	Carlyle Sailing Association,
+Hazlett State Park, Carlyle, IL	Graham Alexander	1.0?
+October	7 OR 8?	Very tentative 505 practice/tuning day at SSA (not on SSA schedule)	Severn SA,
+Eastport, MD	Ali Meller	0.0
+7-8	CYC Fleet Championships	Corinthian Yacht Club, Shilshole Harbor, WA	???	1.0?
+7-8	Hoosier Invitational: NOR	Indiana University YC,
+Beechwood Heights (Lake Lemon - near Bloomington), IN	Mike Goldstein	1.0?
+14-15	Pumpkin Patch: NOR	West River SC,
+Galesville, MD	Barney Harris	1.0??
+21	SCYC Fall One Design	Santa Cruz YC,
+Santa Cruz, CA	Bruce Edwards	1.0?
+21-22	Planing Boat Regatta: NOR, Report	Mission Bay YC,
+San Diego, CA	Dan Merino	1.2?
+??	Multi hull open plus	Carlyle Sailing Association,
+Hazlett State Park, Carlyle, IL	Graham Alexander	1.0?
+28-29	Fall Dinghy	St. Francis YC,
+San Francisco, CA	Eric Willis	1.2?
+November	4-5	Wurstfest Regatta	Lake Canyon YC,
+New Braunsfels, TX	Steve Eller	1.0
+5	Acors Thompson: SI	Severn SA,
+Eastport, MD	Ali Meller	1.0
+13-15	pre-worlds: Reports	Point Yacht Club
+Durban, Republic of South Africa	Nigel Milln	1.5
+16-24	2000 505 World Championship: Reports	Point Yacht Club
+Durban, Republic of South Africa	Nigel Milln	1.6
+18-19	Turkey Day	Alamitos Bay YC,
+Long Beach CA	Ben Benjamin	1.0
+late	Thanksgiving Saturday sailing	WRSC or SSA	Dustin Romey	0.0
