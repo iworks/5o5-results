@@ -671,6 +671,8 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2000-05-20,2000-05-21,Santa Cruz One Design Spring Open,,5,17,"Santa Cruz,CA",Santa Cruz Yacht Club,,,,,,2000/country/usa/2000-05-21.santa-cruz-one-design-spring-open.santa-cruz-ca.USA.csv,,,USA
 2000-05-25,2000-05-27,Mid-West Championship,,,,"St Clair Beach,ON",South Port Sailing Club,,,,,,2000/country/canada/2000-05-27.mid-west-championship.st-clair-beach-on.CAN.csv,,,CAN
 2000-05-13,2000-05-14,Spring Bow II,,6,12,"Eastport, MD",Severn Sailing Association,,,,,,2000/country/usa/2000-05-14.spring-bow-ii.eastport-md.USA.csv,,,USA
+1995-01-01,1995-01-01,National Capital Regatta,,6,10,"Ottawa,ON",,,,,,,1995/country/canada/1995.national-capital-regatta.ottawa-on.CAN.csv,,,CAN
+1995-05-13,1995-05-14,Hampton Trapeze,,,,"Hampton, VA ",Hampton Yacht Club,,,,,,1995/country/usa/1995-05-14.hampton-trapeze.hampton-vi.USA.csv,,,USA
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
@@ -751,10 +753,8 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
+1995-01-01,1995-01-01,West Coast Midwinters,,,,,Alamitos Bay Yacht Club,,,,,,1995/country/usa/1995.west-coast-midwinters.alamitos-bay-yc.USA.csv,,,USA
+1995–06-10,1995–06-11,Mid-Atlantic Regatta,,,12,"Galesville, MD",West River Sailing Club,,,,,,1995/country/usa/1995-06-11.mid-atlantic-regatta.galesville-md.USA.csv,,,USA
 2000-05-27,2000-05-27,Mid-West Championship,,,,"St Clair Beach,ON",South Port Sailing Club,,,,,,2000/country/canada/2000-05-27.2000-05-27.mid-west-championship.st-clair-beach.CAN.csv,,,CAN
 2001-02-02,,Midwinter Championship,,,,"St. Petersburg, FL",St. Petersburg Yacht Club,,,,,,,,,USA
 1981-,1981-,European Championship,,6,82,"Riva del Garda,ITA",,,,,,,,,,
