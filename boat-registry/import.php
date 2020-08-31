@@ -36,6 +36,8 @@ foreach ( $data as $one ) {
 	$hull_manufacturer[ $one->name ] = $one;
 }
 
+$debug = false;
+
 $import_registry = $import_results = $import_sailors = false;
 
 if ( sizeof( $argv ) === 1 ) {
@@ -573,7 +575,7 @@ if ( $import_results && ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false 
 				$value = trim( $data[ $index ] );
 				switch ( $key ) {
 					case 'iworks_fleet_result_date_start':
-					case 'iworks_fleet_result_date_end':
+                    case 'iworks_fleet_result_date_end':
 						$value = strtotime( $value );
 						break;
 					case 'iworks_fleet_result_number_of_races':
@@ -583,17 +585,23 @@ if ( $import_results && ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false 
 				}
 			}
 			$$key = trim( $value );
-		}
+        }
+        /**
+         * check exit parsing
+         */
+        if ( 'exit' === $post_title ) {
+            echo 'exit detected'.PHP_EOL;
+            break;
+        }
 		/**
 		 * check file
 		 */
-		echo $post_title,PHP_EOL;
-		echo 'FILE: ' . $file;
+        $file_name = $file;
 		$file = '../' . $file;
-		if ( ! is_file( $file ) ) {
-			echo ' - NO FILE!',PHP_EOL;
-			continue;
-		}
+        if ( ! is_file( $file ) ) {
+            printf( 'NO FILE: %s - %s%s', $post_title, $file_name, PHP_EOL );
+            continue;
+        }
 		/**
 		 * Check already exists
 		 */
@@ -620,13 +628,17 @@ if ( $import_results && ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false 
 				$test = preg_replace( '/&#8211;/', '-', get_the_title( $post_ID ) );
 				$test = preg_replace( '/&amp;/', '&', $test );
 				$test = preg_replace( '/&nbsp;/', ' ', $test );
-				if ( $test === $post_title ) {
-					echo 'SKIP: ',$post_title,PHP_EOL;
+                if ( $test === $post_title ) {
+                    if ( $debug ) {
+                        echo 'SKIP: ',date('y-m-d', $iworks_fleet_result_date_start), ' ',$post_title,PHP_EOL;
+                    }
 					continue 2;
 				}
 			}
 			remove_filter( 'iworks_fleet_result_skip_year_in_title', '__return_true' );
 		}
+		echo $post_title,PHP_EOL;
+		echo 'FILE: ' . $file_name,PHP_EOL;
 		$post_array = array(
 			'post_name'   => sanitize_title(
 				sprintf(
