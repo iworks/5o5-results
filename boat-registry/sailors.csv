@@ -1,38 +1,4 @@
 Nation,Name,Club,Description,Birth Date,email
-FRA,Jean-Guy Puissant
-GER,Heinz Balters
-GBR,Anne Cave-Penney
-GBR,Robert Ahlheid
-GBR,T.A. Mehew
-GBR,Nigel Statham
-AUS,Graham Payne
-AUS,Nandor Klatsmanyi
-AUS,Cullen Hughes
-AUS,Daniel Yaffey
-AUS,David Thompson
-AUS,Steve Liney
-AUS,Rod Badgery
-AUS,Samuel Hyde
-AUS,Nick Stabback
-AUS,Jim McNally
-AUS,Steve Finlay
-AUS,Guy Robertson
-AUS,Justin Mitchell
-AUS,Liam Parker
-AUS,Graeme Engert
-AUS,Mick Patrick
-GBR,Gareth Kelly
-GBR,Christian Diebitsch
-USA,Eric Chase
-USA,Larry Tuttle
-GBR,Jeremy Entwhistle
-GBR,Geoff Carveth
-USA.Scott Smith
-USA,Patrick Whitmarsh
-USA,Chris Harvey
-USA,Chad Atkins
-USA,Todd Lochner
-CAN,John Fracisco
 AUS,A. Martin,,,,
 AUS,Adam Brenz-Verca,,,,
 AUS,Adam Wyatt,,,,
@@ -75,10 +41,12 @@ AUS,Christopher Paterson,,,,
 AUS,Christopher Pearson,,,,
 AUS,Clint Bowen,,,,
 AUS,Conall Hansford,,,,
+AUS,Cullen Hughes
 AUS,Curtis Hartmann,,,,
 AUS,Damian Carey,,,,
 AUS,Dan Cowan,,,,
 AUS,Daniel Keys,,,,
+AUS,Daniel Yaffey
 AUS,Darren Cooney,,,,
 AUS,Darren Gilbert,,,,
 AUS,Darren Nicholson,,,,
@@ -93,6 +61,7 @@ AUS,David Mole,,,,
 AUS,David Muel,,,,
 AUS,David Ottaway,,,,
 AUS,David Porter,,,,
+AUS,David Thompson
 AUS,Dean Williams,,,,
 AUS,Dennis Evans,,,,
 AUS,Dustin Carlsson,,,,
@@ -104,12 +73,15 @@ AUS,Geoff Lange,,,,
 AUS,Geoffrey Kyrwood,,,,
 AUS,Gilbert Ford,,,,
 AUS,Glen Stewart,,,,
+AUS,Graeme Engert
 AUS,Graeme Murphy,,,,
 AUS,Graeme Spence
+AUS,Graham Payne
 AUS,Grahame Tindall,,,,
 AUS,Grant Abbott,,,,
 AUS,Grant Rose,,,,
 AUS,Greg Clarke,,,,
+AUS,Guy Robertson
 AUS,Hamish Jarrett,,,,
 AUS,Hugh Stoddart,,,
 AUS,Iain Jensen,,,,
@@ -130,6 +102,7 @@ AUS,Jeffrey Robinson,,,,
 AUS,Jeremy Fussell,,,,
 AUS,Jeremy Manders,,,,
 AUS,Jim McGillivray,,,,
+AUS,Jim McNally
 AUS,Joel Castle,,,,
 AUS,John B. Cuneo,,,,
 AUS,John Fry,,,,
@@ -144,6 +117,7 @@ AUS,Jonathan Ross,,,,
 AUS,Jonno Bannister,,,,
 AUS,Jordan Spencer,,,,
 AUS,Josh Mortensen,,,,
+AUS,Justin Mitchell
 AUS,Justin Mulkearns,,,,
 AUS,Ken Leckenby,,,,
 AUS,Ken Lockenby,,,,
@@ -155,6 +129,7 @@ AUS,Lachlan Hornsby,,,,
 AUS,Leigh Riddell,,,,
 AUS,Leslie Nathanson,,,,
 AUS,Leslie Nathonson,,,,
+AUS,Liam Parker
 AUS,Lindsay Gilbert,,,,
 AUS,Lindsay Whitton,,,,
 AUS,Lucas Prescott,,,,
@@ -189,10 +164,12 @@ AUS,Michael Navarro,,,,
 AUS,Michael Thomson,,,,
 AUS,Mick Babbage,,,,
 AUS,Mick O'Donnell,,,,
+AUS,Mick Patrick
 AUS,Mike Navarro,,,,
 AUS,Mitchell McDonald,,,,
 AUS,Morgan Bax,,,,
 AUS,Murray Smith,,,,
+AUS,Nandor Klatsmanyi
 AUS,Nathan Outteridge,,,,
 AUS,Nathan Quirk,,,,
 AUS,Nathan Rosenberg,,,,
@@ -202,6 +179,7 @@ AUS,Nicholas Mariani,,,,
 AUS,Nick Davis,,,,
 AUS,Nick Johnston,,,,
 AUS,Nick Johnstone,,,,
+AUS,Nick Stabback
 AUS,Noah Taylor,,,,
 AUS,Patrick Atwell,,,,
 AUS,Paul Campbell,,,,
@@ -235,12 +213,14 @@ AUS,Robert Gichrist
 AUS,Robert Gilchrist,,,,
 AUS,Robin Bath,,,,
 AUS,Robin Cross
+AUS,Rod Badgery
 AUS,Rod Dalgleish,,,,
 AUS,Roger Pell,,,,
 AUS,Ryan Menzies,,,,
 AUS,Sam Byass
 AUS,Sam Haines,,,,
 AUS,Sam Heritage,,,,
+AUS,Samuel Hyde
 AUS,Sarah Cooper,,,,
 AUS,Sarah Macarthur‑King,,,,
 AUS,Sarah Withall,,,,
@@ -255,7 +235,9 @@ AUS,Simon Wilder,,,,
 AUS,Soggy Pidsley,,,,
 AUS,Stephen Ianna,,,,
 AUS,Stephen Jones,,,,
+AUS,Steve Finlay
 AUS,Steve Howden,,,,
+AUS,Steve Liney
 AUS,Steve McConaghy,,,,
 AUS,Steve Sievewright,,,,
 AUS,Thor Schoenhoff,,,,
@@ -346,6 +328,7 @@ CAN,James Cruickshank,,,,
 CAN,Jeff Boyd,,,,
 CAN,Jim Dingle
 CAN,Jim MacLachlan
+CAN,John Fracisco
 CAN,John Hayley,,,,
 CAN,Julian Pearson,,,,
 CAN,Julie Giguere
@@ -686,6 +669,7 @@ FRA,Jean-Baptiste Kopecky,,,,
 FRA,Jean-Charles Cadoret,,,,
 FRA,Jean-Claude Ancelot,,,,
 FRA,Jean-Claude Cornu,,,,
+FRA,Jean-Guy Puissant
 FRA,Jean-Guy Puissant,,,,
 FRA,Jean-Luc Baptiste,,,,
 FRA,Jean-Luc Muzellec,,,,
@@ -901,6 +885,7 @@ GBR,Andy Phillips,,,,
 GBR,Andy Tyas,,,,
 GBR,Andy Williams,,,,
 GBR,Ann Lane
+GBR,Anne Cave-Penney
 GBR,Arthur George,,,,
 GBR,Ben Farren-Price,,,,
 GBR,Ben Greenfield,,,,
@@ -923,6 +908,7 @@ GBR,Chris Ritchie
 GBR,Chris Robinson,,,,
 GBR,Chris Romans,,,,
 GBR,Chris Thorne,,,,
+GBR,Christian Diebitsch
 GBR,Christopher Dando,,,,
 GBR,Clive Robinson,,,,
 GBR,Colin Rawlings,,,,
@@ -964,8 +950,10 @@ GBR,Elliott Wells,,,,
 GBR,Eric Ironmonger,,,,
 GBR,Fra Rainsborough,,,,
 GBR,Frank Rainsborough,,,,
+GBR,Gareth Kelly
 GBR,Gary Cawthorne,,,,
 GBR,Gary Fowler,,,,
+GBR,Geoff Carveth
 GBR,Geoff Edwards,,,,
 GBR,Geoff Kimber,,,,
 GBR,Geoff Lane,,,
@@ -999,6 +987,7 @@ GBR,James Read,,,,
 GBR,Jarrod Simpson,,,,
 GBR,Jason Lunn,,,,
 GBR,Jeff Powell,,,,
+GBR,Jeremy Entwhistle
 GBR,Jeremy White,,,,
 GBR,Jim Bennett
 GBR,Jim Berry,,,,
@@ -1085,6 +1074,7 @@ GBR,Nigel Appleton,,,,
 GBR,Nigel Brackenbury,,,,
 GBR,Nigel Deane,,,,
 GBR,Nigel James
+GBR,Nigel Statham
 GBR,Nigel Treloar,,,,
 GBR,Nigel Vooght,,,,
 GBR,Nolan Forward
@@ -1119,6 +1109,7 @@ GBR,Richard Tew,,,,
 GBR,Richard Tucker,,,,
 GBR,Richard Williams
 GBR,Rob Stallard
+GBR,Robert Ahlheid
 GBR,Robert Burdekin,,,,
 GBR,Robert Napier,,,,
 GBR,Robin Annett,,,,
@@ -1154,6 +1145,7 @@ GBR,Stewart Mears,,,,
 GBR,Stuart Ashton
 GBR,Stuart Curtis,,,,
 GBR,Suzanne Mcdermott,,,,
+GBR,T.A. Mehew
 GBR,Terry Lawton,,,,
 GBR,Terry Scutcher,,,,
 GBR,Terry Selfe,,,,
@@ -1255,7 +1247,6 @@ GER,Christian Lindemann,,,,
 GER,Christian Meier-Kothe,,,,
 GER,Christian Müllejans,,,,
 GER,Christian Niefert,,,,
-GER,Christian Schafer
 GER,Christian Schafer
 GER,Christian Schäfer,,,,
 GER,Christian Schönbach,,,,
@@ -1364,6 +1355,7 @@ GER,Harald König,,,,
 GER,Hartmut Weiß
 GER,Hartwig Friedrichs,,,,
 GER,Heiner Hirthe,,,,
+GER,Heinz Balters
 GER,Helmut Madeheim,,,,
 GER,Hendrik Annighöfer,,,,
 GER,Hendrik Reinhardt,,,,
@@ -2311,10 +2303,10 @@ USA,Bill McKinney,,,,
 USA,Bill Platt,,,,
 USA,Bill Smith,,,,
 USA,Bob Conrad,,,,
-USA,Bobby Noyes,,,,
 USA,Bob Rinker,,,,
 USA,Bob Williams,,,,
 USA,Bob Wondolleck,,,,
+USA,Bobby Noyes,,,,
 USA,Brandon Charif,,,,
 USA,Brendan Heussler,,,,
 USA,Brent Campbell,,,,
@@ -2331,11 +2323,13 @@ USA,Carl Smit,,,,
 USA,Carrisa Harris
 USA,Catherine Brady,,,,
 USA,Catherine Guiader,,,,
+USA,Chad Atkins
 USA,Chris Behm,,,,
 USA,Chris Brady,,,,
 USA,Chris Burd,,,,
 USA,Chris Freye,,,,
 USA,Chris Gorton,,,,
+USA,Chris Harvey
 USA,Chris Tackas
 USA,Chris Tuggle,,,,
 USA,Chris Watson
@@ -2395,6 +2389,7 @@ USA,Edward Conrads,,,,
 USA,Edward Tillinghast
 USA,Ellen Ablow,,,,
 USA,Eric Anderson,,,,
+USA,Eric Chase
 USA,Eric Gunderson,,,,
 USA,Eric Knight
 USA,Erik Boothe,,,,
@@ -2490,6 +2485,7 @@ USA,Kyle Pfrang,,,,
 USA,Langdon Foley,,,,
 USA,Langdon Junge,,,,
 USA,Larry Rosenfield,,,,
+USA,Larry Tuttle
 USA,Lauren Abramson,,,,
 USA,Lauren Schoene,,,,
 USA,Lee Laney,,,,
@@ -2548,6 +2544,7 @@ USA,Parry Barclay,,,,
 USA,Pat Diola,,,,
 USA,Patrick Diola,,,,
 USA,Patrick Smiley,,,,
+USA,Patrick Whitmarsh
 USA,Paul Allen,,,,
 USA,Paul Andron,,,,
 USA,Paul Muus,,,,
@@ -2582,6 +2579,7 @@ USA,Ryan Lorence,,,,
 USA,Saesha Carlile,,,,
 USA,Scott Ikle,,,,
 USA,Scott MacKay,,,,
+USA.Scott Smith
 USA,Scott Weiler,,,,
 USA,Shane Illidge,,,,
 USA,Simon Gerson,,,,
@@ -2616,6 +2614,7 @@ USA,Tim Collins,,,,
 USA,Tim Murphy,,,,
 USA,Tim Sayles,,,,
 USA,Tim Wadlow,,,,
+USA,Todd Lochner
 USA,Tom Crawford,,,,
 USA,Tom Fink,,,,
 USA,Tom O'Toole,,,,
