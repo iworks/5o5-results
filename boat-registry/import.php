@@ -173,7 +173,7 @@ if ( $import_sailors && ( $handle = fopen( 'sailors.csv', 'r' ) ) !== false ) {
 $counter          = 0;
 $rows             = array();
 $import_file_name = 'registry.csv';
-$import_file_name = 'test-registry.csv';
+// $import_file_name = 'test-registry.csv';
 if ( $import_registry && ( $handle = fopen( $import_file_name, 'r' ) ) !== false ) {
 	echo PHP_EOL,'IMPORT: ',$import_file_name,PHP_EOL;
 	while ( ( $data = fgetcsv( $handle, 0, ',' ) ) !== false ) {
