@@ -34,7 +34,7 @@ foreach ( $argv as $arg ) {
 	}
 }
 
-$separtor = ';';
+$separtor = ',';
 if ( ! $csv ) {
 	$separtor = ' => ';
 }

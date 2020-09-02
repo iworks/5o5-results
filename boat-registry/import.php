@@ -170,10 +170,12 @@ if ( $import_sailors && ( $handle = fopen( 'sailors.csv', 'r' ) ) !== false ) {
 /**
  * registry
  */
-$counter = 0;
-$rows    = array();
-if ( $import_registry && ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) {
-	echo PHP_EOL,'IMPORT: registry.csv',PHP_EOL;
+$counter          = 0;
+$rows             = array();
+$import_file_name = 'registry.csv';
+$import_file_name = 'test-registry.csv';
+if ( $import_registry && ( $handle = fopen( $import_file_name, 'r' ) ) !== false ) {
+	echo PHP_EOL,'IMPORT: ',$import_file_name,PHP_EOL;
 	while ( ( $data = fgetcsv( $handle, 0, ',' ) ) !== false ) {
 		if ( 1 > intval( $data[0] ) ) {
 			continue;
@@ -456,24 +458,20 @@ if ( $import_registry && ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) 
 					 * check is more than one
 					 */
 					$persons = preg_split( '/[\&\/]/', $persons );
+
+
 					if ( 1 < sizeof( $persons ) ) {
 						$users_ids = array();
 						foreach ( $persons as $name ) {
-							$date_from = $date_to = null;
-							$name      = trim( $name );
-							$name      = preg_replace( '/\-$/', '', $name );
+							$name = trim( $name );
+							$name = preg_replace( '/[\-\'`\t ]+$/', '', $name );
+							$name = preg_replace( '/^[\-\'`\t ]/', '', $name );
 							if ( empty( $name ) ) {
 								continue;
 							}
-							if ( preg_match( '/(\d+)\-(\d+)$/', $name, $matches ) ) {
-								$date_from = int505_import_fix_year( $matches[1] );
-								$date_to   = int505_import_fix_year( $matches[2], 'end' );
-								$name      = preg_replace( '/[\'`\t \d\-]+$/', '', $name );
-							} elseif ( preg_match( '/[\'`\t ](\d+)$/', $name, $matches ) ) {
-								$name      = preg_replace( '/[\'`\t \d]+$/', '', $name );
-								$date_from = int505_import_fix_year( $matches[1] );
-							}
-							$person = get_person_by_name( $name );
+							$date_from = int505_person_get_date_from( $name );
+							$date_to   = int505_person_get_date_to( $name );
+							$person    = get_person_by_name( $name );
 							if ( is_object( $person ) ) {
 								add_post_meta( $post_ID, $owners_index_field_name, $person->ID );
 								$users_ids[] = $person->ID;
@@ -489,7 +487,9 @@ if ( $import_registry && ( $handle = fopen( 'registry.csv', 'r' ) ) !== false ) 
 							if ( empty( $name ) ) {
 								continue;
 							}
-							$person = get_person_by_name( $name );
+							$date_from = int505_person_get_date_from( $name );
+							$date_to   = int505_person_get_date_to( $name );
+							$person    = get_person_by_name( $name );
 							if ( is_object( $person ) ) {
 								add_post_meta( $post_ID, $owners_index_field_name, $person->ID );
 								$owners[] = person( $name, $person, $date_from, $type );
@@ -575,7 +575,7 @@ if ( $import_results && ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false 
 				$value = trim( $data[ $index ] );
 				switch ( $key ) {
 					case 'iworks_fleet_result_date_start':
-                    case 'iworks_fleet_result_date_end':
+					case 'iworks_fleet_result_date_end':
 						$value = strtotime( $value );
 						break;
 					case 'iworks_fleet_result_number_of_races':
@@ -585,23 +585,23 @@ if ( $import_results && ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false 
 				}
 			}
 			$$key = trim( $value );
-        }
-        /**
-         * check exit parsing
-         */
-        if ( 'exit' === $post_title ) {
-            echo 'exit detected'.PHP_EOL;
-            break;
-        }
+		}
+		/**
+		 * check exit parsing
+		 */
+		if ( 'exit' === $post_title ) {
+			echo 'exit detected' . PHP_EOL;
+			break;
+		}
 		/**
 		 * check file
 		 */
-        $file_name = $file;
-		$file = '../' . $file;
-        if ( ! is_file( $file ) ) {
-            printf( 'NO FILE: %s - %s%s', $post_title, $file_name, PHP_EOL );
-            continue;
-        }
+		$file_name = $file;
+		$file      = '../' . $file;
+		if ( ! is_file( $file ) ) {
+			printf( 'NO FILE: %s - %s%s', $post_title, $file_name, PHP_EOL );
+			continue;
+		}
 		/**
 		 * Check already exists
 		 */
@@ -628,10 +628,10 @@ if ( $import_results && ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false 
 				$test = preg_replace( '/&#8211;/', '-', get_the_title( $post_ID ) );
 				$test = preg_replace( '/&amp;/', '&', $test );
 				$test = preg_replace( '/&nbsp;/', ' ', $test );
-                if ( $test === $post_title ) {
-                    if ( $debug ) {
-                        echo 'SKIP: ',date('y-m-d', $iworks_fleet_result_date_start), ' ',$post_title,PHP_EOL;
-                    }
+				if ( $test === $post_title ) {
+					if ( $debug ) {
+						echo 'SKIP: ',date( 'y-m-d', $iworks_fleet_result_date_start ), ' ',$post_title,PHP_EOL;
+					}
 					continue 2;
 				}
 			}

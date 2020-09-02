@@ -36,11 +36,15 @@ function get_person_by_name( $name ) {
 	}
 	$person = get_page_by_title( $post_title, OBJECT, $person_post_type_name );
 	if ( empty( $person ) ) {
-		$args                   = array(
+		$args = array(
 			'post_status' => 'publish',
 			'post_type'   => $person_post_type_name,
 			'post_title'  => $post_title,
 		);
+		if ( preg_match( '/\d/', $post_title ) ) {
+			print_r( [ $name, $args ] );
+			die;
+		}
 		$post_ID                = wp_insert_post( $args );
 		$persons[ $post_title ] = get_post( $post_ID, OBJECT );
 	} else {
@@ -52,6 +56,7 @@ function get_person_by_name( $name ) {
 function person_clear_name( $name ) {
 	$name      = preg_replace( '/[  \t]+/', ' ', $name );
 	$name      = preg_replace( '/[  \t]+/', ' ', $name );
+	$name      = preg_replace( '/[\d\s\h\v\'\-`"\,\.]+$/', '', $name );
 	$re        = '/[\d\' `\,\.\(\)\‘]+$/';
 	$name      = trim( preg_replace( $re, '', $name ) );
 	$is_person = check_is_person( $name );
@@ -121,10 +126,7 @@ function person( $raw, $person, $date_from = '', $order = false ) {
 }
 
 function add_organization( $raw, $person, $date_from = '', $order = false ) {
-	if ( empty( $date_from ) && preg_match( '/(\d{2})$/', $raw, $matches ) ) {
-		$year      = intval( $matches[1] );
-		$date_from = add_century_to_date( $year );
-	}
+	$person = person_clear_name( $person );
 	return wp_parse_args(
 		array(
 			'first'        => 'first' === $order,
@@ -186,8 +188,8 @@ function check_is_person( $data ) {
 		case 'Team Pegasus':
 		case 'US Coastguard Academy':
 		case 'Wansborough family':
-        case 'Web Institute':
-        case 'Brothers Sparv':
+		case 'Web Institute':
+		case 'Brothers Sparv':
 			return false;
 	}
 	return true;
@@ -269,3 +271,55 @@ function int505_echo_dot( $counter, $type = 'success' ) {
 	}
 }
 
+function int505_person_get_date( $name, $type = 'from' ) {
+	$date_from = $date_to = null;
+	if ( show_debug() && preg_match( '/\d/', $name ) ) {
+		print_r(
+			[
+				$name,
+				'/(\d{4}-\d{2}-\d{2})[^\d]+(\d{4}-\d{2}-\d{2})$/' => preg_match( '/(\d{4}-\d{2}-\d{2})[^\d]+(\d{4}-\d{2}-\d{2})$/', $name ),
+				'/(\d{2})[^\d]+(\d{2})$/' => preg_match( '/(\d{2})[^\d]+(\d{2})$/', $name ),
+				'/(\d{4})[^\d]+(\d{2})$/' => preg_match( '/(\d{4})[^\d]+(\d{2})$/', $name ),
+				'/(\d{4})[^\d]+(\d{4})$/' => preg_match( '/(\d{4})[^\d]+(\d{4})$/', $name ),
+				'/[^\d]+(\d{2})$/'        => preg_match( '/[^\d]+(\d{2})$/', $name ),
+			]
+		);
+	}
+
+	if ( preg_match( '/(\d{4}-\d{2}-\d{2})[^\d]+(\d{4}-\d{2}-\d{2})$/', $name, $matches ) ) {
+		$date_from = $matches[1];
+		$date_to   = $matches[2];
+	} elseif ( preg_match( '/(\d{2})[^\d]+(\d{2})$/', $name, $matches ) ) {
+		$date_from = int505_import_fix_year( $matches[1] );
+		$date_to   = int505_import_fix_year( $matches[2], 'end' );
+	} elseif ( preg_match( '/(\d{4})[^\d]+(\d{2})$/', $name, $matches ) ) {
+		$date_from = sprintf( '%d-%d-01', $matches[1], $matches[2] );
+	} elseif ( preg_match( '/(\d{4})[^\d]+(\d{4})$/', $name, $matches ) ) {
+		$date_from = int505_import_fix_year( $matches[1] );
+		$date_to   = int505_import_fix_year( $matches[2], 'end' );
+	} elseif ( preg_match( '/(\d+)\-(\d+)$/', $name, $matches ) ) {
+		$date_from = int505_import_fix_year( $matches[1] );
+		$date_to   = int505_import_fix_year( $matches[2], 'end' );
+		$name      = preg_replace( '/[\'`\t \d\-]+$/', '', $name );
+	} elseif ( preg_match( '/[\'`\t ](\d+)$/', $name, $matches ) ) {
+		$date_from = int505_import_fix_year( $matches[1] );
+	} elseif ( preg_match( '/[\'`\t ](\d+)\-(\d+)\-(\d+)$/', $name, $matches ) ) {
+		$date_from = sprintf( '%d-%d-%d', $matches[1], $matches[2], $matches[3] );
+	} elseif ( preg_match( '/[^\d]+(\d{2})$/', $name, $matches ) ) {
+		$date_from = int505_import_fix_year( $matches[1] );
+	}
+
+	if ( 'to' === $type ) {
+		return $date_to;
+	}
+
+	return $date_from;
+}
+
+function int505_person_get_date_from( $name ) {
+	return int505_person_get_date( $name, 'from' );
+}
+
+function int505_person_get_date_to( $name ) {
+	return int505_person_get_date( $name, 'to' );
+}
