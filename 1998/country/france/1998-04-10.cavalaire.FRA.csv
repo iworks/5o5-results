@@ -24,7 +24,7 @@ GER,8392,Seikel Martin,Becker Norbert,,45,38,17,27,28,15,,125,22
 GER,8661,Freye Piethardt,Lefhalm Cord-,,4,DNC,11,18,8,DNC,,141,23
 FRA,8564,Hay Laurent,Tudal Franck,,42,18,34,23,47,24,,141,24
 FRA,8455,Buffet Marcel,Trouillet Damie,,32,45,40,33,18,31,,154,25
-BEL,8463,Van Hemeldonck Emie,Van Heme,,39,21,31,34,DNC,34,,159,26
+BEL,8463,Van Hemeldonck Emie,Van Hemeldonck,,39,21,31,34,DNC,34,,159,26
 SUI,8569,Betschen Rene,Jacot Filippe,,25,16,13,6,DNC,DNC,,160,27
 GER,8539,Ziems Olivier,Ziems Ute,,54,23,41,DNC,26,18,,162,28
 FRA,8431,Druart Herve,Boudier Thomas,,18,20,DNC,DNC,19,17,,174,29
@@ -68,7 +68,7 @@ FRA,8002,Rouanne Dominique,Blache Jean,,70,DNC,DNC,DNC,58,36,,364,66
 GER,8546,Hansgen Dirk,Rupprich Frank,,60,DNC,45,DNC,59,DNC,,364,67
 GER,8664,Hammer Carsten,Schmidt Andrea,,48,17,DNC,DNC,DNC,DNC,,365,68
 GER,8424,Gerdts Peter,Lahrs Karsten,,69,47,51,DNC,DNC,DNC,,367,69
-GER,8633,Achterberg Frieder,Stuckl Wol,,40,DNC,DNC,DNC,29,DNC,,369,70
+GER,8633,Achterberg Frieder,Wolfgang Stückl,,40,DNC,DNC,DNC,29,DNC,,369,70
 FRA,7931,Dupont Jean Baptist,Ancelot,,83,DNC,DNC,DNC,56,45,,384,71
 GER,8473,Kraft Olivier,Goeggel Andreas,,71,DNC,62,DNC,52,DNC,,385,72
 GER,8691,Bokle Gunter,Heimburger Frank,,67,DNC,58,DNC,66,DNC,,391,73
@@ -89,12 +89,12 @@ FRA,7888,De Mouillac Benoit,Scolan Yve,,DNC,DNC,63,DNC,DNC,DNC,,463,87
 FRA,8007,Brotschi Yann,Brotschi Xavier,,DNC,DNC,64,DNC,DNC,DNC,,464,88
 FRA,8037,Le Roux Jean Pierre,Kohler Je,,DNC,DNC,DNC,DNC,67,DNC,,467,89
 GER,8414,Worm Stefan,Kaiser Mathias,,73,DNC,DNC,DNC,DNC,DNC,,473,90
-GER,8582,Ihmels Detlef,Wand Barbara,,81,DNC,DNC,DNC,DNC,DNC,,481,91
+GER,8582,Detlef Ihmels,Wand Barbara,,81,DNC,DNC,DNC,DNC,DNC,,481,91
 FRA,8363,Bourgoin Jerome,Lefebvre Chri,,82,DNC,DNC,DNC,DNC,DNC,,482,92
-FRA,7999,Riot Marc,Hamelin Antoine,,DNC,DNC,DNC,DNC,DNC,DNC,,500,93
-FRA,8157,Dugrip Bernard,Dalle Dugrip L,,DNC,DNC,DNC,DNC,DNC,DNC,,500,93
-FRA,8337,Vanderstraeten Mich,Laviell,,DNC,DNC,DNC,DNC,DNC,DNC,,500,93
-SUI,8492,Spiess Hansjorg,Stutz Hanspet,,DNC,DNC,DNC,DNC,DNC,DNC,,500,93
-FRA,8301,Blondy Bernard,Chabaud Roger,,DNC,DNC,DNC,DNC,DNC,DNC,,500,93
-FRA,8031,Devanneaux Olivier,Laine Arme,,DNC,DNC,DNC,DNC,DNC,DNC,,500,93
-FRA,8436,Carvallo Gilles,Carnallo Clai,,DNC,DNC,DNC,DNC,DNC,DNC,,500,93
+FRA,7999,Riot Marc,Hamelin Antoine,,DNC,DNC,DNC,DNC,DNC,DNC,,500,TDA
+FRA,8157,Dugrip Bernard,Dalle Dugrip L,,DNC,DNC,DNC,DNC,DNC,DNC,,500,TDA
+FRA,8337,Vanderstraeten,Michel Lavielle,,DNC,DNC,DNC,DNC,DNC,DNC,,500,TDA
+SUI,8492,Spiess Hansjorg,Stutz Hanspet,,DNC,DNC,DNC,DNC,DNC,DNC,,500,TDA
+FRA,8301,Blondy Bernard,Chabaud Roger,,DNC,DNC,DNC,DNC,DNC,DNC,,500,TDA
+FRA,8031,Devanneaux Olivier,Laine Arme,,DNC,DNC,DNC,DNC,DNC,DNC,,500,TDA
+FRA,8436,Carvallo Gilles,Carnallo Clai,,DNC,DNC,DNC,DNC,DNC,DNC,,500,TDA
