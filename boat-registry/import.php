@@ -176,12 +176,16 @@ $import_file_name = 'registry.csv';
 // $import_file_name = 'test-registry.csv';
 if ( $import_registry && ( $handle = fopen( $import_file_name, 'r' ) ) !== false ) {
 	echo PHP_EOL,'IMPORT: ',$import_file_name,PHP_EOL;
+	$counter = 0;
 	while ( ( $data = fgetcsv( $handle, 0, ',' ) ) !== false ) {
 		if ( 1 > intval( $data[0] ) ) {
+            int505_echo_dot( $counter, 'fail' );
+            $counter++;
 			continue;
 		}
 		$post = get_page_by_title( $data[0], OBJECT, $boat_post_type_name );
 		if ( empty( $post ) ) {
+			int505_echo_dot( $counter );
 			int505_echo_dot( $counter );
 			/*
 			 *  0 Sail No

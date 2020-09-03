@@ -60,6 +60,7 @@ AUS,David Christie,,,,
 AUS,David Mole,,,,
 AUS,David Muel,,,,
 AUS,David Ottaway,,,,
+AUS,David Page,,,,
 AUS,David Porter,,,,
 AUS,David Thompson
 AUS,Dean Williams,,,,
@@ -373,8 +374,10 @@ CAN,Robert Terbrugge
 CAN,Robin Brown,,,,
 CAN,Samuel Place,,,,
 CAN,Scott Salter,,,,
+CAN,Tereska Gesing
 CAN,Terry Meade
 CAN,Thomas Kivney,,,,
+CAN,Tibor Kamon
 CAN,Tim Willett,,,,
 CAN,Todd Johnson,,,,
 CAN,Tom Burnard
@@ -412,6 +415,7 @@ DEN,Henrik Boye
 DEN,Jacob Ernst,,,,
 DEN,Jakob Karbo,,,,
 DEN,Jakob Thomasen,,,,
+DEN,Jan Feddersen
 DEN,Jan Møller
 DEN,Jan Saugmann,,,,
 DEN,Jan Thews
@@ -432,6 +436,7 @@ DEN,Kim Riis Pedersen
 DEN,Kim Sørensen
 DEN,Klaus Natorp
 DEN,Kristoffer Møllevang,,,,
+DEN,Lars Christensen
 DEN,Lars Espersen,,,,
 DEN,Lars Henrik Andersen,,,,
 DEN,Lasse Andersen,,,,
@@ -557,6 +562,7 @@ FRA,Bruno Vaniekaut,,,,
 FRA,Carole Blattner
 FRA,Cedric Faucheux,,,,
 FRA,Celine Chevet,,,,
+FRA,Charles Briffotevaux
 FRA,Charles Courbonne
 FRA,Charles de Kergariou,,,,
 FRA,Charles Maire
@@ -605,6 +611,7 @@ FRA,Fabrice Toupet,,,,
 FRA,Florent Duplouy,,,,
 FRA,Florian Corbel,,,,
 FRA,Florian Fort,,,,
+FRA,Florian Pilleron
 FRA,Franck Agrapart,,,,
 FRA,Franck Tudal
 FRA,Francois Caminade,,,,
@@ -737,6 +744,7 @@ FRA,Melissa Ferrois
 FRA,Michel Bonnet
 FRA,Michel Christ
 FRA,Michel Laugerotte,,,,
+FRA,Michel Lavielle
 FRA,Michel Nedelec,,,,
 FRA,Michel Rimbert
 FRA,Morgan Aussel
@@ -778,6 +786,7 @@ FRA,Philippe Leroy,,,,
 FRA,Philippe Lucienne,,,,
 FRA,Philippe Markt,,,,
 FRA,Philippe Noclain,,,,
+FRA,Philippe Wirtz
 FRA,Philippe Wolff,,,,
 FRA,Phillipe Lanaverre,,,,
 FRA,Phillipe le Norment
@@ -1020,6 +1029,7 @@ GBR,Lawrence Crispin,,,,
 GBR,Lee Marriott,,,,
 GBR,Lewis Dann,,,,
 GBR,Luke Molloy,,,,
+GBR,Magnus Groth
 GBR,Magnus Leask,,,,
 GBR,Mark Darling,,,,
 GBR,Mark Fowler,,,,
@@ -1108,10 +1118,10 @@ GBR,Richard Rowe,,,,
 GBR,Richard Tew,,,,
 GBR,Richard Tucker,,,,
 GBR,Richard Williams
-GBR,Rob Stallard
 GBR,Robert Ahlheid
 GBR,Robert Burdekin,,,,
 GBR,Robert Napier,,,,
+GBR,Robert Stallard
 GBR,Robin Annett,,,,
 GBR,Robin Farrant,,,,
 GBR,Robin Tetly,,,,
@@ -1347,6 +1357,7 @@ GER,Hannes Kindermann,,,,
 GER,Hannes Lehning,,,,
 GER,Hannes Wagner,,,,
 GER,Hans Nöldeke,,,,
+GER,Hans-Christian Schwieger
 GER,Hansjörg Ehlers,,,,
 GER,Hans-Jürgen Rentelmann,,,,
 GER,Hans-Werner Steding,,,,
@@ -1405,7 +1416,6 @@ GER,Jonas Royla,,,,
 GER,Jonas Vogt
 GER,Jörg Gosche,,,,
 GER,Jörg Häger,,,,
-GER,Jörg Thumann,,,,
 GER,Jørgen Holm,,,,
 GER,Jörgen Thumann,,,
 GER,Jörn Alberts,,,,
@@ -1422,6 +1432,7 @@ GER,Jürgen Feuerhake,,,,
 GER,Jürgen Joseph,,,,
 GER,Justus Rauno,,,,
 GER,Kai Bertallot,,,,
+GER,Kai Erhardt
 GER,Kai Löblein
 GER,Kai Mares,,,,
 GER,Kai-Uwe Weiß,,,,
@@ -1434,6 +1445,7 @@ GER,Kathrin Konrad-Schmolke
 GER,Katja Frühwald-König,,,,
 GER,Katja Henge,,,,
 GER,Katja Kilian
+GER,Kersten Weichborn
 GER,Kerstin Bernauer,,,,
 GER,Kilian Northoff,,,,
 GER,Kirsten Roos,,,,
@@ -1493,6 +1505,7 @@ GER,Martin Seikel,,,,
 GER,Marvin Schlesiger,,,,
 GER,Mathias Haase,,,,
 GER,Mathias Jetschke
+GER,Mathias Kaiser
 GER,Matthias Brühl,,,,
 GER,Matthias Dachs,,,,
 GER,Matthias Fedde,,,,
@@ -1561,6 +1574,7 @@ GER,Peter Wilbert,,,,
 GER,Peter Wolffram,,,,
 GER,Petra Kliba-Schmidt,,,,
 GER,Philip Christiani,,,,
+GER,Philip Ismar
 GER,Philipp Müller,,,,
 GER,Philipp Sudbrack,,,,
 GER,Phillipp Müller,,,,
@@ -2258,7 +2272,6 @@ SWE,Tore Reinhold,,,,
 SWE,Ulf Andersson,,,,
 SWE,Viktor Wecke
 SWE,Wilhelm Johannisson,,,,
-SWE,Wille Johanisson,,,,
 USA,Adam Lowry,,,,
 USA,Adam Wolnikowski,,,,
 USA,Alan Freedman,,,,
@@ -2278,6 +2291,7 @@ USA,Andrew Gassman,,,,
 USA,Andrew Sutton,,,,
 USA,Andrew Zinn,,,,
 USA,Andy Beckman,,,,
+USA,Andy Burrill
 USA,Andy Forman,,,,
 USA,Andy Weisner,,,,
 USA,Andy Zinn,,,,
@@ -2324,12 +2338,15 @@ USA,Carrisa Harris
 USA,Catherine Brady,,,,
 USA,Catherine Guiader,,,,
 USA,Chad Atkins
+USA,Charles Twardy
 USA,Chris Behm,,,,
 USA,Chris Brady,,,,
 USA,Chris Burd,,,,
 USA,Chris Freye,,,,
 USA,Chris Gorton,,,,
 USA,Chris Harvey
+USA,Chris Jackson
+USA,Chris Junge
 USA,Chris Tackas
 USA,Chris Tuggle,,,,
 USA,Chris Watson
@@ -2337,6 +2354,7 @@ USA,Chris Woods,,,,
 USA,Chris Yindra,,,,
 USA,Christian Antoni,,,,
 USA,Christian Rasmussen,,,,
+USA,Christina Rhoades
 USA,Christopher Hubbard,,,,
 USA,Christopher O'Leary,,,,
 USA,Christopher Pfrang,,,,
@@ -2417,7 +2435,7 @@ USA,Graham Shelter
 USA,Greg Davis,,,,
 USA,Greg Gump
 USA,Greg Schuster,,,,
-USA,Grey Paul Shipley,,,,
+USA,Gris Bettle
 USA,Hans Gode,,,,
 USA,Harry Mattison,,,,
 USA,Henry Amthor,,,,
@@ -2455,6 +2473,7 @@ USA,Joe Stoodley,,,,
 USA,Joerg Esdorn,,,,
 USA,John Badtke,,,,
 USA,John Henderson
+USA,John Smith
 USA,John Wyles,,,,
 USA,John Zakaib,,,,
 USA,Jon Bell,,,,
@@ -2522,6 +2541,7 @@ USA,Michael Martin,,,,
 USA,Michael Welch,,,,
 USA,Michael Zimmerman,,,,
 USA,Mike Holt,,,,
+USA,Mike Kohn
 USA,Mike Mills,,,,
 USA,Mike Poulos,,,,
 USA,Mike Powell,,,,
@@ -2547,11 +2567,14 @@ USA,Patrick Smiley,,,,
 USA,Patrick Whitmarsh
 USA,Paul Allen,,,,
 USA,Paul Andron,,,,
+USA,Paul Kerner
 USA,Paul Muus,,,,
 USA,Paul Von,,,,
 USA,Pete Melvin
 USA,Pete Spaulding
 USA,Peter Alarie,,,,
+USA,Peter Goetz
+USA,Peter Laudrup
 USA,Peter Tuck
 USA,Phil Terman
 USA,Phillip Ryan,,,,

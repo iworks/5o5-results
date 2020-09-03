@@ -1,14 +1,14 @@
 Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organizer,Secretary,Arbiter,Wind direction,Wind power,Post Content,File,Series,On the water of,Country
-1956-01-01,1956-01-01,World Championship,,,,"La Baule,FRA",,,,,,,1956/world/1956.world-championship.la-baule.FRA.csv,World,,FRA
-1957-01-01,1957-01-01,World Championship,,,,"La Baule,FRA",,,,,,,1957/world/1957.world-championship.la-baule.FRA.csv,World,,FRA
-1958-01-01,1958-01-01,World Championship,,,,"La Baule,FRA",,,,,,,1958/world/1958.world-championship.la-baule.FRA.csv,World,,FRA
-1959-01-01,1959-01-01,World Championship,,,,"Cork, IRL",,,,,,,1959/world/1959.world-championship.cork.IRL.csv,World,,IRL
-1960-01-01,1960-01-01,World Championship,,,,"La Baule,FRA",,,,,,,1960/world/1960.world-championship.la-baule.FRA.csv,World,,FRA
-1961-01-01,1961-01-01,World Championship,,,,"Weymouth,GBR",,,,,,,1961/world/1961.world-championship.weymouth.GBR.csv,World,,GBR
-1962-01-01,1962-01-01,World Championship,,,,"La Baule,FRA",,,,,,,1962/world/1962.world-championship.la-baule.FRA.csv,World,,FRA
-1963-01-01,1963-01-01,World Championship,,,,"New York,USA",Larchmont,,,,,,1963/world/1963.world-championship.new-york.USA.csv,World,,USA
-1964-01-01,1964-01-01,World Championship,,,,"Cork, IRL",,,,,,,1964/world/1964.world-championship.cork.IRL.csv,World,,IRL
-1965-01-01,1965-01-01,World Championship,,,,"Tanger,MAR",,,,,,,1965/world/1965.world-championship.tenger.MAR.csv,World,,MAR
+1956-01-01,1956-01-01,World Championship,,,,La Baule,,,,,,,1956/world/1956.world-championship.la-baule.FRA.csv,World,,FRA
+1957-01-01,1957-01-01,World Championship,,,,La Baule,,,,,,,1957/world/1957.world-championship.la-baule.FRA.csv,World,,FRA
+1958-01-01,1958-01-01,World Championship,,,,La Baule,,,,,,,1958/world/1958.world-championship.la-baule.FRA.csv,World,,FRA
+1959-01-01,1959-01-01,World Championship,,,,Cork,,,,,,,1959/world/1959.world-championship.cork.IRL.csv,World,,IRL
+1960-01-01,1960-01-01,World Championship,,,,La Baule,,,,,,,1960/world/1960.world-championship.la-baule.FRA.csv,World,,FRA
+1961-01-01,1961-01-01,World Championship,,,,Weymouth,,,,,,,1961/world/1961.world-championship.weymouth.GBR.csv,World,,GBR
+1962-01-01,1962-01-01,World Championship,,,,La Baule,,,,,,,1962/world/1962.world-championship.la-baule.FRA.csv,World,,FRA
+1963-01-01,1963-01-01,World Championship,,,,New York,Larchmont,,,,,,1963/world/1963.world-championship.new-york.USA.csv,World,,USA
+1964-01-01,1964-01-01,World Championship,,,,Cork,,,,,,,1964/world/1964.world-championship.cork.IRL.csv,World,,IRL
+1965-01-01,1965-01-01,World Championship,,,,Tanger,,,,,,,1965/world/1965.world-championship.tenger.MAR.csv,World,,MAR
 1966-01-01,1966-01-01,World Championship,,,,"Adelaide,AUS",,,,,,,1966/world/1966.world-championship.adeleide.AUS.csv,World,,AUS
 1967-01-01,1967-01-01,World Championship,,,,"La Baule,FRA",,,,,,,1967/world/1967.world-championship.la-baule.FRA.csv,World,,FRA
 1968-08-06,1968-08-10,Svenskt Mästerskap,Swedish Championship,7,36,"Sandhamn,SWE",,,,,"5-7,5-7,3-7,3-4,4,1-2,5",,1968/country/sweden/1968-08-10.svenskt-masterskap.sandhamn.SWE.csv,National,,SWE
@@ -34,7 +34,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 1981-01-01,1981-01-01,Pre-Worlds,,6,90,"San Francisco, USA",St. Francis Yacht Club,,,,,,1981/world/1981.pre-world.san-francisco.USA.csv,Pre-Worlds,,USA
 1981-01-01,1981-01-01,World Championship,,6,86,"San Francisco, USA",St. Francis Yacht Club,,,,,,1981/world/1981.world.championship.san-francisco.USA.csv,World,,USA
 1982-01-01,1982-01-01,Svenskt Mästerskap,Swedish Championship,,30,,,,,,,,1982/country/sweden/1982.swedish-championship.SWE.csv,National,,SWE
-1982-08-13,1982-08-20,World Championship,,6,73,"Cork, IRL",Royal Cork Yacht Club,,,,,,1982/world/1982-08-20.world-championship.cork.IRL.csv,World,,IRL
+1982-08-13,1982-08-20,World Championship,,6,73,Cork,Royal Cork Yacht Club,,,,,,1982/world/1982-08-20.world-championship.cork.IRL.csv,World,,IRL
 1983-03-01,1983-03-12,World Championship,,6,63,"Adelaide,AUS",,,,,,,1983/world/1983-03-12.world-championship.adelaide.AUS.csv,World,,AUS
 1983-07-30,1983-08-06,European Championship,,5,74,"Karlskrona, SWE","Royal Navy Sportclub of Karlskrona, Karlskrona Yachtclub",,,,,,1983/continetal/1983-08-06.european-championship.karlskrona.SWE.csv,"Continental,Europe",,SWE
 1984-06-28,1984-07-08,World Championship,,6,90,"Gromitz, GER",,,,,,,1984/world/1984-07-08-world-championship.gromitz.GER.csv,World,,GER
@@ -48,18 +48,20 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 1991-08-01,1991-08-08,World Championship,,6,83,"Marstrand, SWE",Göteborgs Kungliga Segel Sällskap,,,,,,1991/world/1991-08-08.world-championship.marstrand.SWE.csv,World,,SWE
 1992-06-10,1992-06-18,European Championship,,5,44,Hellerup,Hellerup Sejlklub,,,,,,1992/continental/1992-06-18.european-championship.hellerup.DEN.csv,"Continental,Europe",,DEN
 1992-08-08,1992-08-20,World Championship,,6,85,"Santa Cruz,USA",,,,,,,1992/worlds/1992-08-20.world-championship.santa-cruz.USA.csv,World,,USA
-1993-08-30,1993-09-03,North American Championship,,5,31,"Grosse Pointe Farms, MI",Crescent Sail Yacht Club,,Steve Tupper,,,,1993/continental/1993-09-03.north-american-championship.grosse-pointe-farms-mi.USA.csv,Continental,Lake St. Claire,USA
+1993-08-30,1993-09-03,North American Championship,,5,31,"Grosse Pointe Farms, MI",Crescent Sail Yacht Club,,Steve Tupper,,,,1993/continental/1993-09-03.north-american-championship.grosse-pointe-farms-mi.USA.csv,"Continental,North America",Lake St. Claire,USA
 1993-08-30,1993-09-07,World Championship,,6,90,"Travemünde,GER",,,,,,,1993/world/1993-09-07.world-chamipionship.travemunde.GER.csv,World,,GER
-1994-01-01,1994-01-01,North American Championship,,6,35,"South Dartmouth, MA",New Bedford Yacht Club,,Steve Tupper,,,,1994/continental/1994.north-american-championship.south-dartmouth-ma.USA.csv,Continental,"Buzzards Bay, MA",USA
+1994-01-01,1994-01-01,North American Championship,,6,35,"South Dartmouth, MA",New Bedford Yacht Club,,Steve Tupper,,,,1994/continental/1994.north-american-championship.south-dartmouth-ma.USA.csv,"Continental,North America","Buzzards Bay, MA",USA
 1994-03-01,1994-03-07,World Championship,,6,41,Durban,,,,,,,1994/world/1994-03-07.world.championship.durban.RSA.csv,World,,RSA
 1994-07-01,1994-07-03,Canadian Championship,,7,10,"Kingston,ON",Kingston Yacht Club,,,,,,1994/country/canada/1994-07-03.canadian-championship.kingston.CAN.csv,National,,CAN
 1994-08-13,1994-08-21,European Championship,,6,63,"Medemblik,NED",,,,,"5-10knt,5-10knt,25-30knt,25-30knt,15knt,5-10knt",,1994/continental/1994-08-21-european-championship-medemblik-NED.csv,"Continental,Europe",,NED
 1995-01-01,1995-01-01,National Capital Regatta,,6,10,"Ottawa,ON",,,,,,,1995/country/canada/1995.national-capital-regatta.ottawa-on.CAN.csv,,,CAN
 1995-05-13,1995-05-14,Hampton Trapeze,,,,"Hampton, VA ",Hampton Yacht Club,,,,,,1995/country/usa/1995-05-14.hampton-trapeze.hampton-vi.USA.csv,,,USA
+1995-05-13,1995-05-14,Hoover Spring Regatta,,7,7,"Westerville, OH",Hoover Yacht Club,,,,,,1995/country/usa/1995-05-14.hoover-spring-regatta.westerville-oh.USA.csv,,Hoover Reservoir,USA
 1995-05-13,1995-05-14,Regatta,,7,7,"Columbus, Ohio",Hoover Yacht Club,,,,,,1995/country/usa/1995-05-14.regatta.columbus-ohio.USA.csv,,,USA
+1995-07-01,1995-07-01,Sandusky Summer Open,,4,4,"Sandusky, OH",Sandusky Sailing Club,,,,,,1995/country/usa/1995-07.sandusky-summer-open.sandusky-oh.USA.csv,,,USA
 1995-07-01,1995-07-02,Eastern Canadian Championship,,,12,"Shipshaw, Quebec",Saguenay Sailing Club,,,,,,1995/country/canada/1995-07-02.eastern-canadian-championship.shipshaw-quebec.CAN.csv,,,CAN
 1995-07-10,1995-07-12,Canadian Championship,,7,22,"Vancouver,BC",Kitsilano Yacht Club,,,,,,1995/country/canada/1995-07-12.canadian-championship.vancouver.CAN.csv,National,,CAN
-1995-07-27,1995-08-04,North American Championship,,6,26,"Kingston,ON",Kingston Yacht Club,,Steve Tupper,,,,1995/continental/1995-08-04-north-american-championship-kingston-ontario-CAN.csv,Continental,,CAN
+1995-07-27,1995-08-04,North American Championship,,6,26,"Kingston,ON",Kingston Yacht Club,,Steve Tupper,,,,1995/continental/1995-08-04-north-american-championship-kingston-ontario-CAN.csv,"Continental,North America",,CAN
 1995-07-27,1995-08-04,World Championship,,4,106,"Marazion, GBR",Mounts Bay Sailing Club,,,,,,1995/world/1995-08-04.world-championship.marazion.GBR.csv,World,,GBR
 1995-08-02,1995-08-04,Alberta Provincial Championship,,10,8,Alberta,,,,,"10-15 knots,10-15 knots,10-15 knots,3-10 knots,3-10 knots,3-10 knots, Monday 4 races(18-23 Knots)",,1995/country/canada/1995-08-03.alberta-provincial-championship.alberta.CAN.csv,,,CAN
 1995-08-05,1995-08-06,The Gim Hoebelman Regatta,,4,7,Chicago,Chicago Corinthian Yacht Club,,,,,,1995/country/usa/1995-08-06.the-gim-hoebelman-regatta.chicago.USA.csv,,,USA
@@ -87,7 +89,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 1996-06-22,1996-06-23,South East Area Championship,,4,6,Pontoon,Brighton Marina Yacht Club,,,,,,1996/country/uk/1996-06-23.south-east-area-championship.pontoon.GBR.csv,,,GBR
 1996-06-23,1996-06-24,St. Francis Regatta,,6,14,"San Francisco, CA",St. Francis Yacht Club,,,,,,1996/country/usa/1996-06-24.st-francis-regatta.san-francisco.USA.csv,,,USA
 1996-07-06,1996-07-07,Welsh National Championship,,4,,Abersoch,Caernarvonshire Yacht Club,,,,,,1996/country/uk/1996-07-07.welsh-national-championship.abersoch.GBR.csv,,,GBR
-1996-07-10,1996-07-14,Championnat de France,France Championship,5,67,,,,,,,,1996/country/france/1996-07-14-french-championship.FRA.csv,National,,FRA
+1996-07-10,1996-07-14,Championnat de France,French Championship,5,67,,,,,,,,1996/country/france/1996-07-14-french-championship.FRA.csv,National,,FRA
 1996-07-11,1996-07-13,East Coast Championship,,6,28,"South Dartmouth, MA",New Bedford Yacht Club,,,,,,1996/country/usa/1996-07-13.east-coast-championship.south-dartmouth-ma.USA.csv,,,USA
 1996-08-07,1996-08-10,North American Championship,,7,34,"Kingston,ON",CORK,,,,,,1996/continental/1996-08-10-north-american-championship-kingston-ontario-CAN.csv,"Continental,North America",,CAN
 1996-08-17,1996-08-24,European Championship,,7,49,St. Moritz,Silvaplana,,,,,,1996/continental/1996-08-24-european-championship-st-moritz.SUI.csv,"Continental,Europe,Euro Cup",,SUI
@@ -95,32 +97,40 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 1996-09-14,1996-09-15,St. Francis Fall Dinghy Regatta,,6,10,"San Francisco, CA",St. Francis Yacht Club,,,,,,1996/country/usa/1996-09-15.st-francis-fall-dinghy-regatta.san-francisco.USA.csv,,,USA
 1996-09-21,1996-09-22,Niantic Bay Yacht Club Regatta,,9,11,"Niantic, CT",Niantic Bay Yacht Club,,,,,,1996/country/usa/1996-09-22.niantic-bay-yacht-club-regatta.niantic-ct.USA.csv,,,USA
 1996-10-06,1996-10-07,Carl Miller Regatta,,5,12,"Galesville, MD",West River Sailing Club,,,,,,1996/country/usa/1996-10-07.carl-miller-regatta.galesville-md.USA.csv,,,USA
+1996-10-07,1996-10-08,Bean Blossom Classic,,7,8,"Bloomington, IN",Indiana University Yacht Club,,,,,,1996/country/usa/1996-10-08.bean-blossom-classic.bloomington-in.USA.csv,,Lake Lemon,USA
 1996-10-07,1996-10-08,First Annual Hoosier Regatta,,7,8,"Bloomington, IN",Indiana University Yacht Club,,,,,,1996/country/usa/1996-10-08.first-annual-hoosier-regatta.unionville-in.USA.csv,,,USA
 1996-10-13,1996-11-10,Grafham Winter Series,,8,22,Huntingdon,Grafham Water Sailing Club,,,,,,1996/country/uk/1996-11-10.grafham-winter-series.GBR.csv,,,GBR
 1997-01-01,1997-01-01,Zimbabwe National Championship,,11,10,Kyle,,,,,,,1997/country/zimbabwe/1997.zimbabwe-national-championship.kyle.ZIM.csv,National,,ZIM
 1997-01-01,1997-01-03,Australian Championship,,6,50,Sydney,Middle Harbour Yacht Club,,,,,,1997/country/australia/1997-01-03.australia-championship.sydney.AUS.csv,National,,AUS
-1997-01-01,1997-12-31,EuroCup Ranking,,5,27,Europe,,,,,,Le Lavandou • Riva del Garda • Gilleleje • Kille Woche • Nieupoort,1997/continental/1997.euro-cup.csv,Euro Cup,,
 1997-01-02,1997-01-05,Florida Midwinters,,6,23,"St. Petersburg, FL",St. Petersburg Sailing Center,,,,,,1997/country/usa/1997-01-05.florida-midwinters.st-petersburg.USA.csv,,,USA
 1997-01-11,1997-01-12,Snowflake Regatta,,7,5,"Seattle, WA",Washington Yacht Club,,,,,,1997/country/usa/1997-01-12.snowflake-regatta.seattle-wa.USA.csv,,Lake Washington,USA
 1997-02-15,1997-02-16,Southern California Midwinters,,5,10,"Long Beach, CA",Alamitos Bay Yacht Club,,,,,,1997/country/usa/1997-02-16.southern-california-midwinters.long-beach.USA.csv,,,USA
 1997-03-15,1997-03-16,Spring Dinghy,,6,10,"San Francisco, CA",St. Francis Yacht Club,,,,,,1997/country/usa/1997-03-16.st-francis-spring-dinghy.san-francisco.USA.csv,,,USA
+1997-03-28,1997-03-31,Cavalaire,,6,84,Cavalaire-sur-Mer,Yacht Club de Cavalaire,,,,,Leg 1,1997/country/france/1997-03-28.euro-cup.leg-1.cavalaire.FRA.csv,Euro Cup,,FRA
+1997-03-28,1997-12-31,EuroCup Ranking,,5,27,Europe,,,,,,Le Lavandou • Riva del Garda • Gilleleje • Kille Woche • Nieupoort,1997/continental/1997.euro-cup.csv,Euro Cup,,
+1997-04-12,1997-04-13,Inland Championship,,3,60,Huntingdon,Grafham Water Sailing Club,,,,,,1997/country/uk/1997-04-13.inland-championship.GBR.csv,,,GBR
 1997-05-03,1997-05-04,WRSC Spring Regatta,,5,13,"Galesville, MD",West River Sailing Club,,,,,,1997/country/usa/1997-05-04.spring-regatta.galesville.USA.csv,,Chesapeake Bay,USA
 1997-05-03,1997-10-05,Region II Championship Ranking,,6,17,Region II,,,,,,West River Spring • Hampton Trapeze • West River Regional • Fishing Bay • West River MidAtlantics • Karl Miller,1997/country/usa/1997.region-ii-championship-ranking.USA.csv,,,USA
+1997-05-08,1997-05-11,Riva Cup,,,64,Riva del Garda,Fraglia Vela Riva,,,,,Leg 2,1997/country/italy/1997-05-11.euro-cup.riva-del-garda.ITA.csv,Euro Cup,Riva Del Garda,ITA
+1997-05-10,1997-05-11,Hoover Spring Regatta,,7,14,"Westerville, OH",Hoover Yacht Club,,,,,,1997/country/usa/1997-05-11.hoover-spring-regatta.westerville-oh.USA.csv,,Hoover Reservoir,USA
 1997-05-17,1997-05-18,Bristol Regatta,,6,11,"Bristol, RI",Bristol Yacht Club,,,,,,1997/country/usa/1997-05-18.bristol-regatta.bristol.ri.USA.csv,,,USA
 1997-05-17,1997-05-18,Hampton Trapeze,,6,10,"Hampton, VA ",Hampton Yacht Club,,,,,,1997/country/usa/1997-05-18.hampton-trapeze.hampton-vi.USA.csv,,,USA
 1997-05-24,1997-05-25,Mid-Atlantic Regional Regatta,,5,8,"Galesville, MD",West River Sailing Club,,,,,,1997/country/usa/1997-05-25.mid-atlantic-regional-regatta.galesville.md.USA.csv,,Chesapeake Bay,USA
 1997-06-06,1997-06-08,East Coast Championship,,7,23,"Hampton, VA ",Hampton Yacht Club,,,,,,1997/country/usa/1997-06-08.east-coast-championship.hampton.va.USA.csv,,,USA
 1997-06-13,1997-06-15,Canadian Championship,,9,13,"Parkland County,AB",Wabamun Sailing Club,Peter vanMuyden,,,,,1997/country/canada/1997-06-15.canadian-championship.parkland-county-ab.CAN.csv,National,,CAN
+1997-06-14,1997-06-15,St. Francis Regatta,,6,12,"San Francisco, CA",St. Francis Yacht Club,,,,,,1997/country/usa/1997-06-15.st-francis.san-francisco.USA.csv,,,USA
+1997-07-05,1997-07-11,North American Championship,,8,35,"Long Beach, CA",Alamitos Bay Yacht Club,,,,,The 41st Annual International 505 North American Championship,1997/continental/1997-07-11.north-american-championship.long-beach-ca.USA.csv,"Continental,North America",,USA
 1997-07-19,1997-07-25,T.R. Fastenings UK National Championship,,9,45,Brighton,Brighton Marina Yacht Club,,,,,,1997/country/uk/1997-07-25.uk-national-championships.brighton.GBR.csv,National,,GBR
 1997-07-20,1997-07-23,Svenskt Mästerskap,Swedish Championship,7,13,Simrishamn,Simrishamns Segelsällskap,,,,,,1997/country/sweden/1997-07-23.swedish-championship.SWE.csv,National,,SWE
 1997-08-10,1997-08-11,Pre-Worlds & Danish Championship,,6,70,Gilleleje,Gilleleje Sejlklub,,,,,,1997/world/1997-08-11-pre-world.danish-championship.gilleleje.DEN.csv,"Pre-Worlds, National",,DEN
 1997-08-10,1997-08-21,World Championship,,7,79,Gilleleje,Gilleleje Sejlklub,,,,,,1997/world/1997-08-21.world-championships.gilleleje.DEN.csv,"World,Euro Cup",,DEN
-1997-08-16,1997-08-17,New Bedford Yacht Club Regatta,,5,15,"South Dartmouth, MA",New Bedford Yacht Club,,,,,,1997/country/usa/1997-08-17.nbyc-505-regatta.south-dartmouth.ma.USA.csv,,,USA
+1997-08-16,1997-08-17,Region I Regatta,,5,15,"South Dartmouth, MA",New Bedford Yacht Club,,,,,,1997/country/usa/1997-08-17.nbyc-505-regatta.south-dartmouth.ma.USA.csv,,Buzzards Bay,USA
 1997-08-21,1997-08-24,Eastern Canadian Championship,,7,18,"Kingston,ON",CORK,,,,,,1997/country/canada/1997-08-24.eastern-canadian-championship-cork.kingston.on.CAN.csv,,,CAN
+1997-08-30,1997-08-31,Labor Day Regatta,,5,7,,,,,,,,1997/country/usa/1997-08-31.labor-day-regatta.USA.csv,,Lake McConaughy,USA
 1997-08-30,1997-09-01,Nebraska Governors Cup,,5,7,"Ogallala, NE",,,,,,,1997/country/usa/1997-09-01.nebraska-governors-cup.ogallala.ne.USA.csv,,Lake McConaughy,USA
 1997-09-13,1997-09-14,Mid Atlantic Championship Regatta,,3,13,"Galesville, MD",West River Sailing Club,,,,,,1997/country/usa/1997-09-14.mid-atlantic-championship-regatta.galesville.md.USA.csv,,Chesapeake Bay,USA
 1997-09-18,1997-09-20,Hyannis Pre-Pre Worlds,,4,22,"Hyannis, MA",,,,,,,1997/country/usa/1997-09-20.hyannis-pre-pre-worlds.hyannis-ma.USA.csv,,,USA
-1997-09-20,1997-09-21,Midwest Championship,,5,11,"Sandusky, OH",Sandusky Sailing Club,,,,,,1997/country/usa/1997-09-21.midwest-championship.sandusky-oh.USA.csv,,,USA
+1997-09-20,1997-09-21,Midwest Championship/Sandusky Fall Open,,5,11,"Sandusky, OH",Sandusky Sailing Club,,,,,,1997/country/usa/1997-09-21.midwest-championship.sandusky-oh.USA.csv,,,USA
 1997-09-20,1997-09-21,Pacific Coast Championship,,5,19,"Richmond,CA",Richmond Yacht Club,,,,,,1997/country/usa/1997-09-21.pacific-coast-championship.richmond.ca.USA.csv,,,USA
 1997-09-20,1997-09-21,Scottish Championship,,6,,Prestwick,Prestwick Sailing Club,,,,,,1997/country/uk/1997-09-20.scottish-championship.prestwick.GBR.csv,,,GBR
 1997-09-27,1997-09-28,Belgium Championship,,5,42,Froidchapelle,Sports Nautiques de l’Eau d’Heure,,,,,,1997/country/belgium/1997-09-28.belgium-championship.froidchapelle.BEL.csv,National,Eau d'Heure Lake,BEL
@@ -128,35 +138,49 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 1997-10-04,1997-10-05,Karl Miller Regatta,,4,13,"Galesville, MD",West River Sailing Club,,,,,,1997/country/usa/1997-10-05.karl-miller-regatta.galesville.md.USA.csv,,Chesapeake Bay,USA
 1997-10-18,1997-10-18,The Pumpkin Patch Regatta,,6,10,"Galesville, MD",West River Sailing Club,,,,,,1997/country/usa/1997-10-18.the-pumpkin-patch-regatta.galesville.md.USA.csv,,Chesapeake Bay,USA
 1997-11-01,1997-11-01,Halloween Regatta,,2,6,"Long Beach, CA",Alamitos Bay Yacht Club,,,,,,1997/country/usa/1997-11-01.halloween-regatta.long-beach-ca.USA.csv,,,USA
-1998-01-01,1998-01-01,Kalovig,,,26,,,,,,,,1998/country/denmark/1998.euro-cup.kalovig.DEN.csv,Euro Cup,,DEN
-1998-01-01,1998-01-01,Nieuwpoort,,,39,,,,,,,,1998/country/belgium/1998.euro-cup.nieuwpoort.BEL.csv,Euro Cup,,BEL
 1998-01-01,1998-01-04,Midwinter Championship,,9,32,"St. Petersburg, FL",St. Petersburg Yacht Club,,,,,,1998/country/usa/1998-01-04.midwinter-championship.st-petersburg.USA.csv,,,USA
 1998-01-01,1998-12-31,EuroCup Ranking,,5,171,Europe,,,,,,Cavalaire • Riva • Kalovig • Nieuwpoort • Hayling Island,1998/continental/1998.euro-cup.csv,Euro Cup,,
-1998-03-14,1998-03-15,Spring Dinghy,,6,11,"San Francisco, CA, USA",St. Francis Yacht Club,,,,,,1998/country/usa/1998-03-15.spring-dinghy.san-francisco.USA.csv,,,USA
-1998-04-04,1998-04-05,Hiper regatta,,8,11,"Marina del Rey, CA, USA",,,,,,,1998/country/usa/1998-04-05.hiper-regatta.marina-del-rey.USA.csv,,,USA
-1998-04-10,1998-04-12,Cavalaire,,6,92,Cavalaire,,,,,,,1998/country/france/1998-04-10.cavalaire.FRA.csv,Euro Cup,,FRA
-1998-04-25,1998-04-26,Santa Cruz Spring Open Regatta,,5,15,"Santa Cruz, CA,USA",Santa Cruz Yacht Club,Dave Wahle,,,,,1998/country/usa/1998-04-26.santa-cruz-spring-open-regatta.santa-cruz.USA.csv,,,USA
-1998-04-25,1998-04-26,West River Spring,,6,10,"Galesville, MD, USA",West River Sailing Club,,,,,,1998/country/usa/1998-04-26.west-river-spring.galesville.USA.csv,,,USA
-1998-05-09,1998-05-16,European Championship,,5,36,"Damp,GER",,,,,,,1998/continental/1998-05-16.european-championship.damp.GER.csv,"Continental,Europe",,GER
+1998-03-14,1998-03-15,Spring Dinghy,,6,11,"San Francisco, CA",St. Francis Yacht Club,,,,,,1998/country/usa/1998-03-15.spring-dinghy.san-francisco.USA.csv,,,USA
+1998-04-04,1998-04-05,Hiper regatta,,8,11,"Marina Del Rey, CA",,,,,,,1998/country/usa/1998-04-05.hiper-regatta.marina-del-rey.USA.csv,,,USA
+1998-04-10,1998-04-12,Cavalaire,,6,92,Cavalaire-sur-Mer,,,,,,,1998/country/france/1998-04-10.cavalaire.FRA.csv,Euro Cup,,FRA
+1998-04-25,1998-04-26,Santa Cruz Spring Open Regatta,,5,15,"Santa Cruz, CA",Santa Cruz Yacht Club,Dave Wahle,,,,,1998/country/usa/1998-04-26.santa-cruz-spring-open-regatta.santa-cruz.USA.csv,,,USA
+1998-04-25,1998-04-26,West River Spring,,6,10,"Galesville, MD",West River Sailing Club,,,,,,1998/country/usa/1998-04-26.west-river-spring.galesville.USA.csv,,,USA
+1998-05-09,1998-05-10,Hoover Spring Regatta,,10,11,"Columbus, OH",,,,,,,1998/country/usa/1998-05-10.hoover-spring-regatta.columbus-oh.USA.csv,,,USA
+1998-05-09,1998-05-10,Richmond High Performance Invitational,,5,14,"Richmond,CA",Richmond Yacht Club,,,,,,1998/country/usa/1998-05-10.richmond-high-performance-invitational.richmond-ca.USA.csv,,,USA
+1998-05-09,1998-05-16,European Championship,,5,36,Damp,,,,,,,1998/continental/1998-05-16.european-championship.damp.GER.csv,"Continental,Europe",,GER
+1998-05-15,1998-05-16,Hampton Trapeze,,3,5,"Hampton, VA	",Hampton Yacht Club,,,,,,1998/country/usa/1998-05-15.hampton-trapeze.hampton-va.USA.csv,,,USA
+1998-05-16,1998-05-17,Seattle One-design Centerboard and Keelboat Series,,6,4,"Seattle, WA",Seattle Yacht Club,,,,,,1998/country/usa/1998-05-17.seattle-one-design-centerboard-and-keelboat-series.seattle-wa.USA.csv,,Shilshole Bay,USA
 1998-05-21,1998-05-24,Riva Cup,,7,36,Riva del Garda,Fraglia Vela Riva,,,,,,1998/country/italy/1998-05-24.riva-cup.riva-del-garda.ITA.csv,Euro Cup,Riva Del Garda,ITA
-1998-05-24,1998-05-26,Inland Championships,,8,,Huntingdon,Grafham Water Sailing Club,,,,,,1998/country/uk/1998-05-26.inland-championships.huntingdon.GBR.csv,,,GBR
+1998-05-23,1998-05-24,ABYC Memorial Day Regatta,,7,12,"Long Beach, CA",Alamitos Bay Yacht Club,,,,,,1998/country/usa/1998-05-24.abyc-memorial-day-regatta.long-beach-ca.USA.csv,,,USA
+1998-05-23,1998-05-24,West River MidAtlantics,,3,9,"Hampton, VA	",Hampton Yacht Club,,,,,,1998/country/usa/1998-05-24.west-river-midatlantics.hampton-va.USA.csv,,,USA
+1998-05-24,1998-05-26,Inland Championship,,8,,Huntingdon,Grafham Water Sailing Club,,,,,,1998/country/uk/1998-05-26.inland-championships.huntingdon.GBR.csv,,,GBR
+1998-05-30,1998-06-01,Pfingstbush,,6,35,Kiel,,,,,,,1998/country/germany/1998-06-01.pfingstbush.kiel.GER.csv,,,GER
+1998-06-12,1998-06-14,Scandinavian Championship & Euro Cup,,9,26,Kalovig,,,,,,,1998/country/denmark/1998-06-14.euro-cup.scandinavian-championship.kalovig.DEN.csv,Euro Cup,,DEN
 1998-06-20,1998-06-21,Nepean One Design,,3,12,Ottawa,Nepean Sailing Club,,,,,,1998/country/canada/1998-06-21.nepean-one-design.ottawa.CAN.csv,,,CAN
-1998-06-27,1998-06-27,WRSC One Day 505 Regatta/Open House,,4,11,"Galesville, MD, USA",West River Sailing Club,,,,,,1998/country/usa/1998-06-27.wrsc-one-day-505-regatta-open-house.galesville.USA.csv,,,USA
+1998-06-26,1998-06-28,Dansk Mesterskab,Danish Championship,5,15,,,,,,,,1998/country/denmark/1998-06-28.danish-championship.DEN.csv,National,Lake Esrum,DEN
+1998-06-26,1998-06-28,Nieuwpoort,,6,39,Nieuwpoort,,,,,,,1998/country/belgium/1998-06-28.euro-cup.nieuwpoort.BEL.csv,Euro Cup,,BEL
+1998-06-27,1998-06-27,WRSC One Day 505 Regatta/Open House,,4,11,"Galesville, MD",West River Sailing Club,,,,,,1998/country/usa/1998-06-27.wrsc-one-day-505-regatta-open-house.galesville.USA.csv,,,USA
 1998-06-27,1998-06-28,St Francis Regatta,,6,15,"San Francisco, CA",St. Francis Yacht Club,,,,,,1998/country/usa/1998-06-28.st-francis-regatta.san-francisco.USA.csv,,,USA
 1998-07-03,1998-07-05,Canadian Championship,,6,33,"Kingston,ON",Kingston Yacht Club,,,,,,1998/country/canada/1998-07-05.canadian-championship.kingston.CAN.csv,National,,CAN
-1998-07-11,1998-07-12,High Sierra Regatta,,3,13,USA,,,,,,,1998/country/usa/1998-07-12.high-sierra-regatta.USA.csv,,Hunting Lake,USA
+1998-07-11,1998-07-11,Kitsilano Invitational Regatta,,8,14,"Vancouver,BC",Kitsilano Yacht Club,,,,,,1998/country/canada/1998-07-11.kitsilano-invitational-regatta.vancouver-bc.CAN.csv,,,CAN
+1998-07-11,1998-07-12,High Sierra Regatta,,3,13,,,,,,,,1998/country/usa/1998-07-12.high-sierra-regatta.USA.csv,,Hunting Lake,USA
 1998-07-13 ,1998-07-15,Svenskt Mästerskap,Swedish Championship,5,11,Åhus,Åhus Kappseglingsclub,,,,,,1998/country/sweden/1998-07-15.swedish-championship.SWE.csv,National,,SWE
-1998-07-18,1998-07-19,Ontario Championship,,,10,"Toronto,ON",J-Town Sailing Club,,,,,,1998/country/canada/1998-07-19.ontario-championships.toronto.CAN.csv,,,CAN
-1998-07-24,1998-07-26,Hayling Island,,6,35,"Hayling Island,GBR",Hayling Island Sailing Club,,,,,,1998/country/uk/1998-07-26-euro-cup-hayling-island-GBR.csv,Euro Cup,,GBR
+1998-07-18,1998-07-19,Felixstowe Ferry,,4,8,Felixstowe,Felixstowe Ferry Sailing Club,,,,,,1998/country/uk/1998-07-19.felixstowe-ferry.felixstowe.GBR.csv,,,GBR
+1998-07-18,1998-07-19,Ontario Championship,,11,8,"Toronto,ON",J-Town Sailing Club,,,,,,1998/country/canada/1998-07-19.ontario-championships.toronto.CAN.csv,,,CAN
+1998-07-22,1998-07-25,Travemünder Woche,,7,35,Travemünde,Lübecker Yacht-Club e.V.,,,,,,1998/country/germany/1998-07-25.travemunder-woche.travemunde.GER.csv,,,GER
+1998-07-24,1998-07-26,Hayling Island,,6,35,Hayling Island,Hayling Island Sailing Club,,,,,,1998/country/uk/1998-07-26-euro-cup-hayling-island-GBR.csv,Euro Cup,,GBR
 1998-07-31,1998-08-02,East Coast Championship,,8,26,"Hyannis, MA",Hyannis Yacht Club,,,,,,1998/country/usa/1998-08-02.east-coast-championship.hyannis.USA.csv,,,USA
-1998-08-01,1998-08-01,Zimbabwe Championship,,12,9,"Kariba, Zimbabwe ",,,,,,,1998/country/zimbabwe/1998-08-01.zimbabwe-championship.kariba.ZIM.csv,National,Kariba,ZIM
+1998-08-01,1998-08-01,Zimbabwe Championship,,12,9,Kariba,,,,,,,1998/country/zimbabwe/1998-08-01.zimbabwe-championship.kariba.ZIM.csv,National,Kariba,ZIM
+1998-08-01,1998-08-02,Gim Hobelman,,,8,"Chicago,IL",,,,,,,1998/country/usa/1998-08-02.gim-hobelman.chicago-il.USA.csv,,,USA
+1998-08-08,1998-08-09,Fishing Bay Annual,,6,7,"Deltaville,VA",Fishing Bay Yacht Club,,,,,,1998/country/usa/1998-08-09.fishing-bay-annual.deltaville-va.USA.csv,,,USA
 1998-08-08,1998-08-14,UK National Championship,,7,39,Plymount,UK 505 Class Association,,,,,,1998/country/uk/1998-08-14.uk-national-championship.plymount.GBR.csv,National,,GBR
+1998-08-12,1998-08-13,Fleet 4 Second Series,,4,7,"Ottawa, ON",Britannia Yacht Club,,,,,,1998/country/canada/1998-08-13.fleet-4-second-series.ottawa-on.CAN.csv,,,CAN
 1998-08-15,1998-08-16,Hospice Regatta,,6,12,"Hyannis, MA",Hyannis Yacht Club,,,,,,1998/country/usa/1998-08-16.hospice-regatta.hyannis.USA.csv,,,USA
-1998-08-22,1998-08-23,Midwest Championship,,7,20,Ontario,South Port Sailing Club,,,,,,1998/country/canada/1998-08-23.midwest-championship.ontario.CAN.csv,,Lake St. Claire,CAN
+1998-08-22,1998-08-23,Midwest Championship,,7,20,"St Clair Beach, ON",South Port Sailing Club,,,,,,1998/country/canada/1998-08-23.midwest-championship.ontario.CAN.csv,,Lake St. Claire,CAN
 1998-08-28,1998-08-30,Eastern Canadian Championship,,9,19,"Kingston,ON",CORK,,,,,,1998/country/canada/1998-08-30-cork-1998.kingston-on.CAN.csv,,,CAN
-1998-08-29,1998-08-29,Pacific Coast Championship,,5,18,"Richmond,CA,USA",Richmond Yacht Club,,,,,,1998/country/usa/1998-08-29.pacific-coast-championship.richmond.USA.csv,,,USA
+1998-08-29,1998-08-30,Pacific Coast Championship,,5,18,"Richmond,CA",Richmond Yacht Club,,,,,,1998/country/usa/1998-08-29.pacific-coast-championship.richmond.USA.csv,,,USA
 1998-09-19,1998-09-25,World Championship,,8,106,"Hyannis, MA",Hyannis Yacht Club,,,,,,1998/world/1998-09-25.world-championship.hyannis-MA.USA.csv,World,,USA
-1998-10-24,1998-10-25,Hoosier Regatta,,7,9,"Bloomington, Indiana, USA",Indiana University Yacht Club,,,,,,1998/country/usa/1998-10-25.hoosier-regatta.bloomington.USA.csv,,Lake Lemon,USA
+1998-10-24,1998-10-25,Hoosier Regatta,,7,9,"Bloomington, Indiana",Indiana University Yacht Club,,,,,,1998/country/usa/1998-10-25.hoosier-regatta.bloomington.USA.csv,,Lake Lemon,USA
 1999-01-03,1999-01-03,RYC Midwinters #2,,3,7,"Richmond,CA",Richmond Yacht Club,,,,,,1999/country/usa/1999-01-03.midwinters.richmond-ca.USA.csv,,,USA
 1999-01-08,1999-01-10,Florida Midwinter,,7,15,"St. Petersburg,FL",St. Petersburg Sailing Center,,,,,,1999/country/usa/1999-01-10.florida-midwinters.st-petersburg-fl.USA.csv,,,USA
 1999-02-13,1999-02-14,West Coast Midwinters,,6,5,"Long Beach, CA",Alamitos Bay Yacht Club,,,,,,1999/country/usa/1999-02-14.west-coast-midwinters.long-beach-ca.USA.csv,,,USA
@@ -169,10 +193,10 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 1999-05-08,1999-05-09,Richmond YC Spring Small Boat Invite,,6,10,"Richmond,CA",Richmond Yacht Club,,,,,,1999/country/usa/1999-05-09.richmond-yc-spring-small-boat-invite.richmond-ca.USA.csv,,,USA
 1999-05-13,1999-05-16,Riva Cup,,5,49,Riva del Garda,Fraglia Vela Riva,,,,,,1999/country/italy/1999-05-16.riva-cup.riva-del-garda.ITA.csv,Euro Cup,Riva Del Garda,ITA
 1999-05-15,1999-05-16,Hampton Trapeze,,5,6,"Hampton,VA",Hampton Yacht Club,,,,,,1999/country/usa/1999-05-16.hampton-trapeze.hampton-va.USA.csv,,,USA
-1999-05-15,1999-05-16,Hoover Spring Regatta,,10,7,"Columbus, OH",Hoover Reservoir,,,,,,1999/country/usa/1999-05-16.hoover-spring-regatta.columbus-oh.USA.csv,,,USA
+1999-05-15,1999-05-16,Hoover Spring Regatta,,10,7,"Westerville, OH",Hoover Reservoir,,,,,,1999/country/usa/1999-05-16.hoover-spring-regatta.columbus-oh.USA.csv,,Hoover Reservoir,USA
 1999-05-22,1999-05-22,Bristol Spring,,7,6,"Bristol, RI",Bristol Yacht Club,,,,,,1999/country/usa/1999-05-22.bristol-spring.bristol-ri.USA.csv,,,USA
-1999-05-31,1999-06-04,North American Championship,,7,14,"Corpus Christi, TX",Corpus Christi Yacht Club,,Steve Tupper,,,,1999/continental/1999-06-04.north-american-championship.corpus-christi-tx.USA.csv,Continental,,USA
-1999-06-01,1999-06-01,EuroCup & Scandinavian Championship,,6,20,Koge,,,,,,,1999/country/denmark/1999-06-01.eurocup-scandinavian-championship.koge.DEN.csv,Euro Cup,,DEN
+1999-05-31,1999-06-04,North American Championship,,7,14,"Corpus Christi, TX",Corpus Christi Yacht Club,,Steve Tupper,,,,1999/continental/1999-06-04.north-american-championship.corpus-christi-tx.USA.csv,"Continental,North America",,USA
+1999-06-01,1999-06-01,Scandinavian Championship & Euro Cup,,6,20,Koge,,,,,,,1999/country/denmark/1999-06-01.eurocup-scandinavian-championship.koge.DEN.csv,Euro Cup,,DEN
 1999-06-05,1999-06-06,Québec Championship,,7,9,"Vaudreuil-sur-le-Lac, QC",Club Nautique Deux-Montagnes,,,,,,1999/country/canada/1999-06-06.quebec-championship.vaudreuil-sur-le-lac-qc.CAN.csv,,,CAN
 1999-06-06,1999-06-06,One Day Open Meeting,,4,11,Ashford,Queen Mary Sailing Club,,,,,,1999/country/uk/1999-06-06.one-day-open-meeting.ashford.GBR.csv,,,GBR
 1999-06-12,1999-06-13,Canadian Championship,,5,18,"Kingston,ON",Kingston Yacht Club,,,,,,1999/country/canada/1999-06-13.canadian-championship.kingston.CAN.csv,National,English Bay,CAN
@@ -200,12 +224,12 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2000-03-22,2000-03-26,Mini Open,,2,5,Chew Valley,Chew Valley Lake SC,,,,,,2000/country/uk/2000-03-26.mini-open.chew-valley.GBR.csv,,,GBR
 2000-04-15,2000-04-15,Spring Bow I,,4,4,"Eastport, MD",Severn Sailing Association,,,,,,2000/country/usa/2000-04-15.spring-bow-i.eastport-md.USA.csv,,,USA
 2000-04-15,2000-04-16,Hi-Per/Spring Dinghy Regatta,,7,12,"Marina Del Rey, CA",California Yacht Club,David Collins,,,,,2000/country/usa/2000-04-16.hi-per-spring-dinghy-regatta.marina-del-rey-ca.USA.csv,,,USA
-2000-04-15,2000-04-16,UK Inland Championship,,6,29,Huntingdon,Grafham Water Sailing Club,,,,,,2000/country/uk/2000-04-16.uk-inland-championship.huntingdon.GBR.csv,,,GBR
-2000-04-21,2000-04-23,Cavalaire,,8,73,Cavalaire,,,,,,,2000/country/france/2000-04-23.cavalaire.FRA.csv,Euro Cup,,FRA
+2000-04-15,2000-04-16,Inland Championship,,6,29,Huntingdon,Grafham Water Sailing Club,,,,,,2000/country/uk/2000-04-16.uk-inland-championship.huntingdon.GBR.csv,,,GBR
+2000-04-21,2000-04-23,Cavalaire,,8,73,Cavalaire-sur-Mer,,,,,,,2000/country/france/2000-04-23.cavalaire.FRA.csv,Euro Cup,,FRA
 2000-04-29,2000-04-30,Richmond Spring Invite,,5,14,"Richmond,CA",Richmond Yacht Club,,,,,,2000/country/usa/2000-04-30.richmond-spring-invite.richmond-ca.USA.csv,,,USA
 2000-04-29,2000-04-30,West River Spring,,6,8,"Galesville, MD",West River Sailing Club,,,,,,2000/country/usa/2000-04-30.west-river-spring.galesville-md.USA.csv,,,USA
 2000-05-06,2000-05-07,Solent Championships,,2,24,,Stokes Bay SC,,,,,,2000/country/uk/2000-05-07.solent-championships.GBR.csv,,,GBR
-2000-05-13,2000-05-14,Hoover Regatta,,6,9,"Columbus, OH",Hoover Yacht Club,,,,,,2000/country/usa/2000-05-14.hoover-regatta.columbus-oh.USA.csv,,,USA
+2000-05-13,2000-05-14,Hoover Spring Regatta,,6,9,"Westerville, OH",Hoover Yacht Club,,,,,,2000/country/usa/2000-05-14.hoover-regatta.columbus-oh.USA.csv,,Hoover Reservoir,USA
 2000-05-13,2000-05-14,Spring Bow II,,6,12,"Eastport, MD",Severn Sailing Association,,,,,,2000/country/usa/2000-05-14.spring-bow-ii.eastport-md.USA.csv,,,USA
 2000-05-13,2000-05-14,Spring Bow II,,6,12,"Eastport, MD",Severn Sailing Association,,,,,,2000/country/usa/2000-05-14.spring-bow-ii.eastport-md.USA.csv,,,USA
 2000-05-19,2000-05-21,Scandinavian Championship & Euro Cup,,6,,Roskilde,,,,,,,2000/country/denmark/2000-05-21.euro-cup.roskilde.DEN.csv,Euro Cup,,DEN
@@ -220,7 +244,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2000-06-24,2000-06-25,Lee-on-Solent Open,,2,11,Lee-on-the-Solent,,,,,,,2000/country/uk/2000-06-25-open-meeting-lee-on-the-solent.GBR.csv,,,GBR
 2000-06-25,2000-06-27,Nieuwpoort,,8,19,Nieuwpoort,Yacht Club WSKLuM vzw,,,,,,2000/country/belgium/2000-06-27-nieuwpoort.BEL.csv,Euro Cup,,BEL
 2000-07-08,2000-07-09,South East Championships,,5,19,Hayling Island,Hayling Island Sailing Club,,,,,,2000/country/uk/2000-07-09-open-meeting-hayling-island-GBR.csv,,,GBR
-2000-07-12,2000-07-15,Championnat de France,French National Championship,4,30,La Londe,,,,,,,2000/country/france/2000-07-15.championnat-de-france.la-londe.FRA.csv,National,,FRA
+2000-07-12,2000-07-15,Championnat de France,French Championship,4,30,La Londe,,,,,,,2000/country/france/2000-07-15.championnat-de-france.la-londe.FRA.csv,National,,FRA
 2000-07-14,2000-07-16,Inofficiellt Svenskt Mästerskap,Inofficial Swedish Championship,9,7,Åhus,Johan Arvedson & Swedish 505 Association,,,,,,2000/country/sweden/2000-07-16.inofficial-swedish-championship.ahus.SWE.csv,National,,SWE
 2000-07-22,2000-07-23,Santa Cruz YC Regatta,,5,11,Santa Cruz,Santa Cruz Yacht Club,,,,,,2000/country/usa/2000-07-23.santa-cruz.USA.csv,,,USA
 2000-07-22,2000-07-23,South West Championships,,5,17,Weymouth,,,,,,,2000/country/uk/2000-07-23.south-west-championships.weymouth.GBR.csv,,,GBR
@@ -237,8 +261,8 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2000-08-26,2000-08-27,Dansk Mesterskab,Danish Championship,6,15,Århus,Århus Sejlsport,,,,,,2000/country/denmark/2000-08-27.danish-national-championships.arhus.DEN.csv,National,,DEN
 2000-10-08,2000-09-03,Queen Mary Open Meeting,,,7,Ashford,Queen Mary Sailing Club,,,,,,2000/country/uk/2000-09-03.queen-mary-open-meeting.ashford.GBR.csv,,,GBR
 2000-11-11,2000-11-23,World Championship,,5,61,Durban,,,,,,,2000/world/2000-11-23.world-championship.durban.RSA.csv,World,,RSA
-2001-04-13,2001-04-15,Cavalaire,,6,37,Cavalaire,,,,,,,2001/country/france/2001-04-15.cavalaire.FRA.csv,Euro Cup,,FRA
-2001-04-21,2001-04-22,Inland Championships,,,,Huntingdon,Grafham Water Sailing Club,,,,,,2001/country/uk/2001-04-22.inland-championships.huntingdon.GBR.csv,,,GBR
+2001-04-13,2001-04-15,Cavalaire,,6,37,Cavalaire-sur-Mer,,,,,,,2001/country/france/2001-04-15.cavalaire.FRA.csv,Euro Cup,,FRA
+2001-04-21,2001-04-22,Inland Championship,,,,Huntingdon,Grafham Water Sailing Club,,,,,,2001/country/uk/2001-04-22.inland-championships.huntingdon.GBR.csv,,,GBR
 2001-04-27,2001-04-30,South African National Championship,,,9,Durban,Point Yacht Club,,,,,,2001/country/south-africa/2001-04-30.south-african-national-championship.RSA.csv,National,,RSA
 2001-05-05,2001-05-06,GUL-regattan,,5,13,"Malmö,SWE",Malmö Segel Sällskap,,,,,,2001/country/sweden/2001-05-06.gul-regattan.malmo.SWE.csv,,,SWE
 2001-05-12,2001-05-13,Open Meeting,,5,13,Ipswich,Shotley Sailing Club,,,,,,2001/country/uk/2001-05-13.open-meeting.ipswich.GBR.csv,,,GBR
@@ -251,7 +275,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2001-07-14,2001-07-15,Open Meeting,,4,5,Poole,Poole Yacht Club,,,,,,2001/country/uk/2001-07-15.open-meeting.poole.GBR.csv,,,GBR
 2001-08-04,2001-08-05,Open Meeting,,3,11,Lyme Regis,Lyme Regis Sailing Club,,,,,,2001/country/uk/2001-08-05.open-meeting.lyme-regis.GBR.csv,,,GBR
 2001-08-08,2001-08-09,Fleet 4 Championship,,8,14,"Ottawa,ON",Britannia Yacht Club,,,,,,2001/country/canada/2001-08-09.fleet-4-championship.ottawa-on.CAN.csv,,,CAN
-2001-08-08,2001-08-12,North American Championship,,6,35,"Kingston,ON",Kingston Yacht Club,,,,,,2001/continental/2001-08-12-north-american-championship-kingston-ontario-CAN.csv,Continental,,CAN
+2001-08-08,2001-08-12,North American Championship,,6,35,"Kingston,ON",Kingston Yacht Club,,,,,,2001/continental/2001-08-12-north-american-championship-kingston-ontario-CAN.csv,"Continental,North America",,CAN
 2001-08-11,2001-08-12,Highvelds,,,12,Pretoria,Pretoria Sailing Club,,,,,,2001/country/south-africa/2001-08-12.highvelds.pretoria.RSA.csv,,,RSA
 2001-08-19,2001-08-28,World Championship,,7,105,Cascais,Clube Naval de Cascais,,,,,,2001/world/2001-07-21.world-championship.cascais.POR.csv,World,,POR
 2001-08-25,2001-08-27,UK National Championship,,6,29,Pevensey,Pevensey Bay Sailing Club,,,,,,2001/country/uk/2001-08-27.uk-championship.pevensey.GBR..csv,National,,GBR
@@ -279,7 +303,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2002-10-19,2002-10-20,Irish Open,,3,15,Cork,Monkstown Bay Sailing Club,,,,,,2002/country/irland/2002-10-20.irish-open.cork.IRL.csv,,,IRL
 2002-10-25,2002-10-25,Small Boat Regatta,,5,6,"San Diego, CA",Coronado YC,,,,,,2002/country/usa/2002-10-25.small-boat-regatta.san-diego.ca.USA.csv,,South Bay,USA
 2002-11-09,2002-11-10,Victoria Lake Club Cup,,6,5,Germiston,Victoria Lake Club,,,,,,2002/country/south-africa/2002-11-10.victoria-lake-club-cup.RSA.csv,,,RSA
-2002-12-02,2002-12-12,World Championship,,9,98,"Fremantle,AUS",Fremantle Sailing Club,Tony Duncan,,,,,2002/world/2002-12-14.world-championship.Fremantle.AUS.csv,World,,AUS
+2002-12-02,2002-12-12,World Championship,,9,98,Fremantle,Fremantle Sailing Club,Tony Duncan,,,,,2002/world/2002-12-14.world-championship.Fremantle.AUS.csv,World,,AUS
 2003-01-01,2003-01-01,Charity Regatta,,5,11,Rietvlei,Pretoria Sailing Club,,,,,,2003/country/south-africa/2003.charity-regatta.rietvlei.RSA.csv,,,RSA
 2003-01-11,2003-01-12,Duffin trophy,,4,9,Germiston,Victoria Lake Club,,,,,,2003/country/south-africa/2003-01-12.duffin-trophy.RSA.csv,,,RSA
 2003-03-21,2003-03-23,South African National Championship,,10,14,Vaal Dam,Aeolians Club,,,,,,2003/country/south-africa/2003-03-23.south-african-national-championship.vaal-dam.RSA.csv,National,,RSA
@@ -299,12 +323,12 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2004-06-12,2004-06-16,Van Rooyen Trophy,,4,6,Vaal Dam,Aeolians Club,,,,,,2004/country/south-africa/2004-06-16.van-rooyen.vaal-dam.RSA.csv,,,RSA
 2004-06-24,2004-06-27,UK National Championship,,7,46,Lyme Regis,Lyme Regis Sailing Club,,,,,,2004/country/uk/2004-06-27.uk-national-championship.lyme-regis.GBR.csv,National,,GBR
 2004-07-02,2004-07-04,East Coast Championship,,9,29,"Kingston,ON",Kingston Yacht Club,,,,,,2004/country/canada/2004-07-02.east.coast.championship.kingston.CAN.csv,,,CAN
-2004-07-24,2004-08-04,World Championship,,7,102,"Santa Cruze,USA",,,,,,,2004/world/2004-08-20.world-championship.santa-cruze.usa.csv,World,,USA
+2004-07-24,2004-08-04,World Championship,,7,102,Santa Cruze,,,,,,,2004/world/2004-08-20.world-championship.santa-cruze.usa.csv,World,,USA
 2004-08-18,2004-08-19,North Vaal Championship,,8,11,Vaal Dam,Aeolians Club,,,,,,2004/country/south-africa/2004-08-19.north-vaal-championship.vaal-dam.RSA.csv,,,RSA
 2004-10-03,2004-10-08,European Championship,,8,56,Pula,,,,,,,2004/continental/2004-10-08.european-championship.croatia.pula.csv,"Continental,Europe",,CRO
 2004-10-23,2004-10-24,TYC GP 1,,8,5,Hartebeespoort Dam ,Tranvaal Yacht Club,,,,,,2004/country/south-africa/2004-10-24.tyc-gp-1.hartebeespoort-dam.RSA.csv,,,RSA
 2004-11-01,2004-11-01,Victoria Lake Club Cup,,6,7,Germiston,Victoria Lake Club,,,,,,2004/country/south-africa/2004-11.victoria-lake-club-cup.germiston.RSA.csv,,,RSA
-2005-01-01,2005-01-01,North American Championship,,9,37,"Kingston,ON",Kingston Yacht Club,,,,,,2005/continental/2005-north-american-championship-kingston-ontario-CAN.csv,Continental,,CAN
+2005-01-01,2005-01-01,North American Championship,,9,37,"Kingston,ON",Kingston Yacht Club,,,,,,2005/continental/2005-north-american-championship-kingston-ontario-CAN.csv,"Continental,North America",,CAN
 2005-01-29,2005-01-30,Charity Regatta,,6,10,Rietvlei,Pretoria Sailing Club,,,,,,2005/country/south-africa/2005-01-30.charity-regatta.rietvlei.RSA.csv,,,RSA
 2005-03-19,2005-03-22,South African National Championship,,10,15,Vaal Dam,Aeolians Club,,,,,,2005/country/south-africa/2005-03-22.south-african-national-championship.vaal-dam.RSA.csv,National,,RSA
 2005-04-09,2005-04-10,Van Rooyen Trophy,,12,10,Vaal Dam,Aeolians Club,,,,,,2005/country/south-africa/2005-04-10.van-rooyen.vaal-dam.RSA.csv,,,RSA
@@ -313,10 +337,10 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2005-07-22,2005-07-31,Travemünder Woche,,9,63,Travemünde,Lübecker Yacht-Club e.V.,,,,,116. Travemünder Woche,2005/country/germany/2005-07-31.travemunder-woche.travemunde.GER.csv,,,GER
 2005-07-28,2005-07-31,UK National Championship,,8,25,Swansea,Mumbles Yacht Club,,,,,,2005/country/uk/2005-07-31.uk-national-championship.swansea.GBR.csv,National,,GBR
 2005-08-17,2005-08-19,Pre-Worlds,,4,114,"Warnemünde,GER",,,,,,,2005/world/2005-08-17.pre-world.warnemunde.GER.csv,Pre-Worlds,,GER
-2005-08-20,2005-08-26,World Championship,,9,170,"Warnemünde,GER",,,,,,,2005/world/2005-08-26.world-championship.warnemunde.GER.csv,World,,GER
+2005-08-20,2005-08-26,World Championship,,9,170,Warnemünde,,,,,,,2005/world/2005-08-26.world-championship.warnemunde.GER.csv,World,,GER
 2006-01-01,2006-01-01,Australian Championship,,8,34,"Toronto, NSW",,,,,,,2006/country/australia/2006-01-01.australian-championship.toronto.nsw.AUS.csv,National,,AUS
 2006-01-01,2006-01-01,Victoria Lake Club Cup,,6,7,Germiston,Victoria Lake Club,,,,,,2006/country/south-africa/2006.victoria-lake-club-cup.germiston.RSA.csv,,,RSA
-2006-04-14,2006-04-16,Cavalaire,,7,57,Cavalaire,,,,,,,2006/country/france/2006-04-16.euro-cup.cavalaire.FRA.csv,Euro Cup,,FRA
+2006-04-14,2006-04-16,Cavalaire,,7,57,Cavalaire-sur-Mer,,,,,,,2006/country/france/2006-04-16.euro-cup.cavalaire.FRA.csv,Euro Cup,,FRA
 2006-04-14,2006-04-17,South African National Championship,,10,15,Durban,Point Yacht Club,,,,,,2006/country/south-africa/2006-04-17.south-african-national-championship.durban.RSA.csv,National,,RSA
 2006-04-14,2006-07-02,EuroCup Ranking,,4,125,Europe,,,,,,Cavalaire • Riva del Garda • Kille Woche • Aarhus,2006/continental/2006.euro-cup.csv,Euro Cup,,
 2006-04-29,2006-04-30,Thrilla in Cabrilla,,7,11,"San Pedro, CA",Cabrillo Beach Yacht Club,,,,"12,14,16,18,8,12,18",,2006/country/usa/2006-04-30.thrilla-in-cabrilla.san-pedro.ca.USA.csv,,,USA
@@ -325,16 +349,16 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2006-06-30,2006-07-02,European Championship,,7,22,Aarhus,,,,,,,2006/continental/2006-07-02.european-championship.aarhus.DEN.csv,"Continental,Europe,Euro Cup",,DEN
 2006-07-01,2006-07-02,National Espoirs,,6,18,Le Havre,Sport Nautique et Plaisance du Havre,Travert Jean Claude,Laleu Francois,,,,2006/country/france/2006-07-02.national-espoirs.le-havre.FRA.csv,,,FRA
 2006-07-24,2006-07-27,Pre-Worlds & UK National Championship,,4,76,Hayling Island,Hayling Island Sailing Club,,,,,,2006/world/2006-07-27-pre-world.hayling-island.GBR.csv,"Pre-Worlds, National",,GBR
-2006-07-27,2006-08-04,World Championship,,7,113,"Hayling Island,GBR",Hayling Island Sailing Club,,,,,,2006/world/2006-08-04-world-championships.hayling-island.GBR.csv,World,,GBR
+2006-07-27,2006-08-04,World Championship,,7,113,Hayling Island,Hayling Island Sailing Club,,,,,,2006/world/2006-08-04-world-championships.hayling-island.GBR.csv,World,,GBR
 2006-08-12,2006-08-12,Kings of the Bay Regatta,,8,17,"San Francisco, CA",Treasure Island Sailing Club,,,,,,2006/country/usa/2006-08-12.kings-of-the-bay-regatta.san-francisco.ca.USA.csv,,,USA
 2006-08-25,2006-08-27,Mistrzostwa Polski,Polish Championship,,4,Sopot,,,,,,,2006/country/poland/2006-08-27.mistrzostwa-polski.sopot.POL.csv,"National, Polish Cup",Zatoka Gdańska,POL
 2006-09-10,2006-09-11,Dale Jepsen One-Design Regatta,,8,5,"Bellingham,WA,USA",Bellingham Yacht Club,,Dale Jepsen,,,,2006/country/usa/2006-09-11.dale-jepsen-one-design-regatta.bellingham-wa.USA.csv,,,USA
-2006-09-15,2006-09-19,North American Championship,,11,27,,,,,,,,2006/continental/2006-09-19.north-american-championship.csv,Continental,,
+2006-09-15,2006-09-19,North American Championship,,11,27,,,,,,,,2006/continental/2006-09-19.north-american-championship.csv,"Continental,North America",,
 2006-09-22,2006-09-25,North Vaal Championship,,5,7,Vaal Dam,Aeolians Club,,,,,,2006/country/south-africa/2006-09-25.north-vaal-championship.vaal-dam.RSA.csv,,,RSA
 2007-02-02,2007-02-02,World Championship,,9,92,Adelaide,,,,,,,2007/world/2007-02-02.world-championship.adelaide.AUS.csv,World,,AUS
 2007-04-06,2007-04-08,Saint Raphaël,,,75,Saint Raphaël,Club Nautique de Saint Raphaël,Paul Edouard Despierres,John Coveney,,,,2007/country/france/2007-04-08.euro-cup.st-raphael.FRA.csv,Euro Cup,,FRA
 2007-04-06,2007-09-01,EuroCup Ranking,,4,145,Europe,,,,,,Saint Raphaël • Riva del Garda • Kille Woche • Sopot,2007/continental/2007.euro-cup.csv,Euro Cup,,
-2007-04-21,2007-04-22,Inland Championships,,5,6,Derby,Burton Sailing Club,,,,,,2007/country/uk/2007-04-22.inland-championships.derby.GBR.csv,,,GBR
+2007-04-21,2007-04-22,Inland Championship,,5,6,Derby,Burton Sailing Club,,,,,,2007/country/uk/2007-04-22.inland-championships.derby.GBR.csv,,,GBR
 2007-05-17,2007-05-19,Riva Cup,,,47,Riva del Garda,,,,,,,2007/country/italy/2007-05-19.euro-cup.riva-del-garda-ITA.csv,Euro Cup,Riva Del Garda,ITA
 2007-06-20,2007-06-24,Kieler Woche,,8,54,Kiel,Kieler Yacht-Club e.V.,,,,,,2007/country/germany/2007-06-24-kieler-woche.kiel.GER.csv,Euro Cup,,GER
 2007-07-07,2007-07-09,Nord Cup,,3,7,Górki Zachodnie,,,,,,,2007/country/poland/2007-06-10-nord-cup.csv,Polish Cup,Zatoka Gdańska,POL
@@ -343,8 +367,8 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2007-08-22,2007-08-24,South African National Championship,,9,17,Vaal Dam,Aeolians Club,,,,,,2007/country/south-africa/2007-08-24.south-african-national-championship.vaal-dam.RSA.csv,National,,RSA
 2007-08-24,2007-08-26,Pre-Europeans & Mistrzostwa Polski,Pre-Europeans & Polish Championship,6,61,Sopot,,,,,,,2007/country/poland/2007-08-26.mistrzostwa-polski.sopot.POL.csv,"National, Polish Cup",Zatoka Gdańska,POL
 2007-08-26,2007-09-01,European Championship,,9,53,Sopot,,Beata Zajkowska,Zbigniew Czubek,"NW,W,W,W,W,W,W,W,NW","9-11,4-6,3-7,3-7,5-9,5-9,2-3,2-7,3-7",,2007/continental/2007-09-01.european-championship.sopot.POL.csv,"Continental,Europe,Euro Cup",Zatoka Gdańska,POL
-2007-10-16,2007-10-19,North American Championship,,7,30,"Annapolis, MD",,,,,,,2007/continental/2007-10-19-north-america-championship.csv,Continental,,USA
-2008-01-01,2008-01-01,Canadian Championship,,9,15,"Kingston,ON",Kingston Yacht Club,,,,,,2008/country/canada/2008.canadian-championship.kingston.CAN.csv,National,,CAN
+2007-10-16,2007-10-19,North American Championship,,7,30,"Annapolis, MD",,,,,,,2007/continental/2007-10-19-north-america-championship.csv,"Continental,North America",,USA
+2008-01-01,2008-01-01,Canadian Championship,,9,15,"Kingston,ON",CORK,,,,,,2008/country/canada/2008.canadian-championship.kingston.CAN.csv,National,,CAN
 2008-01-01,2008-01-01,North Vaal Championship,,8,8,Vaal Dam,Aeolians Club,,,,,,2008/country/south-africa/2008.north-vaal-championship.vaal-dam.RSA.csv,,,RSA
 2008-03-09,2008-03-09,Interligue,,4,8,Viry Chatillon,Club Nautique de Viry Chatillon,Didier Dagommer,Olivier Balazuc,,,,2008/country/france/2008-03-09.interligue.viry-chatillon.FRA.csv,,,FRA
 2008-03-21,2008-03-23,Saint Raphaël,,3,65,Saint Raphaël,,,,,,,2008/country/france/2008-03-23-ec-france-st-raphael.st-raphael.FRA.csv,Euro Cup,,FRA
@@ -381,7 +405,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2009-07-11,2009-07-14,Coupe Nationale,,8,62,"Baie De La Rochelle, FRA",,,,,,,2009/country/france/2009-07-14.coupe-nationale.baie-de-la-rochelle.FRA.csv,,,FRA
 2009-08-14,2009-08-16,Australian Championship,,9,30,"Manly, NSW",,,,,,,2009/country/australia/2009-08-16.australian-championship.manly.nsw.AUS.csv,National,,AUS
 2009-08-14,2009-08-16,Śródlądowe Mistrzostwa Polski,Inland Polish Championship,7,5,"Giżcko, POL",,,Wojcech Caban,,,,2009/country/poland/2009-08-16.srodladowe-mistrzostwa-polski.gizycko.POL.csv,,,POL
-2009-08-14,2009-08-18,North American Championship,,14,32,"San Francisco,CA,USA",Columbia Gorge Racing Association,,,,,,2009/continental/2009-08-18.north-american-championships.san-fancisco.USA.csv,Continental,,USA
+2009-08-14,2009-08-18,North American Championship,,14,32,"San Francisco,CA",Columbia Gorge Racing Association,,,,,,2009/continental/2009-08-18.north-american-championships.san-fancisco.USA.csv,"Continental,North America",,USA
 2009-08-23,2009-08-30,World Championship,,9,98,"San Francisco, CA",St. Francis Yacht Club,,,,,,2009/world/2009-08-30.world-championship.francisco.ca.USA.csv,World,,USA
 2009-08-24,2009-08-27,Eastern Cape Championships,,9,12,Mossel Bay,Mossel Bay Yacht Club and Boat Club,,,,,,2009/country/south-africa/2009-08-27.eastern-cape-championships.mossel-bay.RSA.csv,,,RSA
 2009-09-18,2009-09-20,Mistrzostwa Polski,Polish Championship,8,10,Gdynia,,,,,,,2009/country/poland/2009-09-20.polish-championship.gdynia.POL.csv,"National, Polish Cup",Zatoka Gdańska,POL
@@ -396,7 +420,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2010-03-27,2010-03-28,Coupe des vrais bateaux,,7,35,Lusigny-sur-Barse,Club Nautique Haute Seine,Jean Pierre Salou,Jacques Terrasson,,,,2010/country/france/2010-03-28.coupe-des-vrais-bateaux.lusigny-sur-barse.FRA.csv,,,FRA
 2010-04-01,2010-04-01,Cannes,,6,71,Cannes,Yacht club de Cannes,,,,,,2010/country/france/2010-04-01.euro-cup.cannes.FRA.csv,Euro Cup,Mediterranean Sea,FRA
 2010-06-24,2010-06-27,Kieler Woche,,7,56,Kiel,Kieler Yacht-Club e.V.,,,,,,2010/country/germany/2010-06-27.euro-cup.kieler-woche.kiel.GER.csv,Euro Cup,,GER
-2010-06-24,2010-06-27,North American Championship,,10,23,"Chicago,IL,USA",Chicago Yacht Club,,,,,,2010/continental/2010-06-27.north-american-championship.chicago.USA.csv,Continental,Lake Michigan,USA
+2010-06-24,2010-06-27,North American Championship,,10,23,"Chicago,IL",Chicago Yacht Club,,,,,,2010/continental/2010-06-27.north-american-championship.chicago.USA.csv,"Continental,North America",Lake Michigan,USA
 2010-07-03,2010-07-04,Helsinki Regatta,,6,14,Helsinki,,,,,,,2010/country/finland/2010-07-04.helsinki-regatta.helsinki.FIN.csv,,,FIN
 2010-07-03,2010-07-04,National Espoirs,,7,7,"Anse de la Picarde, FRA",Club Nautique Haute Seine,,,,,,2010/country/belgium/2010-07-04.national-espoirs.anse-de-la-picarde.FRA.csv,,,FRA
 2010-07-09,2010-07-11,Mistrzostwa Polski,Polish Championship,9,5,Gdańsk,,,,,,,2010/country/poland/2010-07-11.polish-championship.gdansk.POL.csv,"National, Polish Cup",Zatoka Gdańska,POL
@@ -424,7 +448,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2011-09-17,2011-09-18,Dale Jepsen One-Design Regatta,,7,12,"Bellingham,WA",Bellingham Yacht Club,,Jamie Ashton,,,,2011/country/usa/2011-09-18.dale-jepsen-one-design-regatta.bellingham-wa.USA.csv,,,USA
 2011-09-24,2011-09-25,Ontario Championship,,9,4,"Toronto,ON",Outer Harbour Centreboard Club,,,,,,2011/country/canada/2011-09-24.ontario-championship.toronto.CAN.csv,,,CAN
 2011-10-07,2011-10-09,Heineken High Performance Dinghy Open,,7,25,"Rye, NY",American Yacht Club,,,,,,2011/country/usa/2011-10-09.heineken-high-performance-dinghy-open.rye-ny.USA.csv,,,USA
-2011-10-12,2011-10-16,North American Championship,,10,32,"Rye, NY",American Yacht Club,,,,,,2011/continental/2011-10-16.north-american-championship.rye.USA.csv,Continental,,USA
+2011-10-12,2011-10-16,North American Championship,,10,32,"Rye, NY",American Yacht Club,,,,,,2011/continental/2011-10-16.north-american-championship.rye.USA.csv,"Continental,North America",,USA
 2011-11-04,2011-11-05,Inlands,,5,20,,Northampton Sailing Club,,,,,,2011/country/uk/2011-11-05.inlands.GBR.csv,,,GBR
 2012-01-01,2012-01-01,South African National Championship,,9,16,Vaal Dam,Aeolians Club,,,,,,2012/country/south-africa/2012.south-african-national-championship.vaal-dam.RSA.csv,National,,RSA
 2012-01-01,2012-12-31,EuroCup Ranking,,4,112,Europe,,,,,,Cannes • Riva del Garda • Kiel • La Rochelle,2012/continental/2012.euro-cup.csv,Euro Cup,,
@@ -459,11 +483,11 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2013-06-29,2013-06-30,Helsinki Regatta,,8,17,Helsinki,,,,,,,2013/country/finland/2013-06-30.helsinki-regatta.helsinki.FIN.csv,,,FIN
 2013-07-05,2013-07-07,Pacific Coast Championshps,,12,16,"Vancouver,BC",Kitsilano Yacht Club,,,,,,2013/country/canada/2013-07-07.pacific-coast-championshps.vancouver-bc.CAN.csv,,,CAN
 2013-07-06,2013-07-07,Nord Cup,,6,11,Górki Zachodnie,Marina Galion,,,,,,2013/country/poland/2013-07-07-nord-cup.csv,Polish Cup,Zatoka Gdańska,POL
-2013-07-11,2013-07-13,Championnat de France,,4,31,Cazaux-La Teste,Cercle Voile Cazaux Lac,Patrick Hamart,Yves Leglise,,,,2013/country/france/2013-07-13.championnat-de-france.cazaux-la-teste.FRA.csv,National,,FRA
+2013-07-11,2013-07-13,Championnat de France,French Championship,4,31,Cazaux-La Teste,Cercle Voile Cazaux Lac,Patrick Hamart,Yves Leglise,,,,2013/country/france/2013-07-13.championnat-de-france.cazaux-la-teste.FRA.csv,National,,FRA
 2013-07-13,2013-07-14,Dinghy’s Whidbey Island Race Week,,9,6,"Oak Harbor, WA",Clear Ahead Marine Productions,,,,,,2013/country/usa/2013-07-14.dinghys-whidbey-island-race-week.oak-harbor-wa.USA.csv,,,USA
 2013-07-19,2013-07-28,Travemünder Woche,,6,27,Travemünde,Lübecker Yacht-Club e.V.,,,,,124. Travemünder Woche,2013/country/germany/2013-07-28-124-travemunder-woche.travemunde.GER.csv,,,GER
 2013-08-10,2013-08-11,Airisto Regatta,,6,6,Turku,Turun Pursiseura - Turku Yacht Club,,,,,,2013/country/finland/2013-08-11.airisto-regatta.turku.FIN.csv,,,FIN
-2013-08-11,2013-08-11,North American Championship,,11,27,"Kingston,ON",Kingston Yacht Club,,,,,,2013/continental/2013-08-11-north-american-championship-kingston-ontario-CAN.csv,Continental,,CAN
+2013-08-11,2013-08-11,North American Championship,,11,27,"Kingston,ON",Kingston Yacht Club,,,,,,2013/continental/2013-08-11-north-american-championship-kingston-ontario-CAN.csv,"Continental,North America",,CAN
 2013-08-17,2013-08-18,Puchar Starosty Poznańskiego,,5,8,Poznań,Klub Żeglarski “Mewa”,,,,,,2013/country/poland/2013-08-18-poznan-puchar-starosty.csv,Polish Cup,Jezioro Kierskie,POL
 2013-08-28,2013-08-28,Shoreham Open,,4,5,Shoreham-by-Sea,Shoreham Sailing Club,,,,,,2013/country/uk/2013-08-28.shoreham-open.shoreham-by-sea.GBR.csv,,,GBR
 2013-08-28,2013-08-29,Canadian Championship,,8,8,"Toronto,ON",Outer Harbour Centreboard Club,,,,,,2013/country/canada/2013-08-29.canadian-championship.toronto.CAN.csv,National,,CAN
@@ -479,7 +503,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2014-04-26,2014-04-27,Régate Interligue,,4,19,Strasbourg,L’Aquatic Club d’Alsace et de Lorraine,Theo Wendling,Jean Pierre Gros,,,,2014/country/france/2014-04-27.regate-interligue.strasbourg.FRA.csv,,,FRA
 2014-05-17,2014-05-18,Culix Cup,,3,21,Glücksburg,Flensburger Segel-Club e.V.,Claus Otto Hansen,Hajo Andresen,,,XIII. Culix Cup,2014/country/germany/2014-05-18-xiii-culix-cup.glucksburg.GER.csv,,"Flensburg Fjord,Baltic Sea",GER
 2014-05-17,2014-05-18,Regaty Otwarcia Sezonu,Season opening regatta,4,14,Gdynia,Yacht Klub Stal Gdynia,,,,,,2014/country/poland/2014-05-18-regaty-otwarcia.csv,Polish Cup,Zatoka Gdańska,POL
-2014-05-21,2014-05-25,North American Championship,,9,40,Santa Cruz,Santa Cruz Yacht Club,,,,,,2014/continental/2014-05-25.north-american-championship.santa-cruz.USA.csv,Continental,,USA
+2014-05-21,2014-05-25,North American Championship,,9,40,Santa Cruz,Santa Cruz Yacht Club,,,,,,2014/continental/2014-05-25.north-american-championship.santa-cruz.USA.csv,"Continental,North America",,USA
 2014-06-07,2014-06-09,Young Europeans Sailing,,3,21,"Olympia Zentrum,Kiel-Schilksee",Kieler Yacht-Club e.V.,,,,,,2014/country/germany/2014-06-07-young-europeans-sailing.kiel-schilksee.GER.csv,,,GER
 2014-06-21,2014-06-22,Puchar Zbąszynia,Zbąszczyń Cup,6,16,Zbąszyń,Zbąszyński Klub Żeglarski,,,,,,2014/country/poland/2014-06-22-puchar-zbaszynia.csv,Polish Cup,Jezioro Błędno,POL
 2014-06-21,2014-06-29,Kieler Woche,,5,62,"Olympia Zentrum,Kiel-Schilksee",Kieler Yacht-Club e.V.,,,,,,2014/country/germany/2014-06-29-kieler-woche.kiel.GER.csv,Euro Cup,,GER
@@ -515,14 +539,14 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2015-06-20,2015-06-21,Regaty o Puchar Zbąszynia z okazji Dni Morza,Zbąszczyń Sea Days Cup,6,20,"Zbąszyń,POL",Zbąszyński Klub Żeglarski,,,,,,2015/country/poland/2015-06-21-zbaszyn.csv,Polish Cup,Jezioro Błędno,POL
 2015-06-20,2015-06-28,Kieler Woche,,10,39,"Olympia Zentrum,Kiel-Schilksee,GER",Kieler Yacht-Club e.V.,,,,,,2015/country/germany/2015-06-20-kieler-woche.kiel.GER.csv,Euro Cup,,GER
 2015-07-01,2015-07-03,Helsinki Regatta,,6,6,Helsinki,,,,,,,2015/country/finland/2015-07-03.helsinki-regatta.helsinki.FIN.csv,,,FIN
-2015-07-11,2015-07-15,Championnat de France,France Championship,10,42,La Rochelle,Club de voile à La Rochelle,Ikhlef Georges,Lorber Yves,,,,2015/country/france/2015-07-15.championnat-de-france.la-rochelle.FRA.csv,National,,FRA
+2015-07-11,2015-07-15,Championnat de France,French Championship,10,42,La Rochelle,Club de voile à La Rochelle,Ikhlef Georges,Lorber Yves,,,,2015/country/france/2015-07-15.championnat-de-france.la-rochelle.FRA.csv,National,,FRA
 2015-07-17,2015-07-26,Travemünder Woche,,6,13,Travemünde,Lübecker Yacht-Club e.V.,Tina Buch,Andrus Pokis,,,126. Travemünder Woche,2015/country/germany/2015-07-28-126-travemunder-woche.travemunde.GER.csv,,,GER
 2015-07-18,2015-07-19,Puchar Mariny Kamień Pomorski,Kamień Pomorski Cup,9,17,"Kamień Pomorski,POL",Polskie Stowarzyszenie Klasy 505,,,,,,2015/country/poland/2015-07-19-kamien.csv,Polish Cup,Zatoka Gdańska,POL
 2015-07-23,2015-07-27,UK National Championship,,7,33,Weymouth,Weymouth & Portland National Sailing Academy,,,,,,2015/country/uk/2015-07-27.uk-national-championship.weymouth.GBR.csv,National,,GBR
 2015-07-24,2015-07-26,Columbia Gorge One-Design Regatta,,11,9,"Portland, OR",Columbia Gorge Racing Association,,,,,,2015/country/usa/2015-07-26.columbia-gorge-one-design-regatta.portland-or.USA.csv,,,USA
 2015-08-03,2015-08-08,European Championship,,9,101,Varberg,Varberg Yacht Club,,,,,,2015/continental/2015-08-08.european-championship.varberg.SWE.csv,"Continental,Europe,Euro Cup",,SWE
 2015-08-13,2015-08-14,FAntastic Nepean FAll REgatta (FANFARE),,8,8,Ottawa,Nepean Sailing Club,,,,,,2015/country/canada/2015-08-14.fantastic-nepean-fall-regatta.ottawa.CAN.csv,,,CAN
-2015-08-16,2015-08-20,North American Championship,,11,33,"Annapolis,MD,USA",,,,,,,2015/continental/2015-08-20.north-american-championship.annapolis.USA.csv,Continental,Chesapeake Bay,USA
+2015-08-16,2015-08-20,North American Championship,,11,33,"Annapolis,MD",,,,,,,2015/continental/2015-08-20.north-american-championship.annapolis.USA.csv,"Continental,North America",Chesapeake Bay,USA
 2015-08-22,2015-08-23,Puchar Burmistrza Krynicy Morskiej,Mayor of Krynica Morska Cup,7,20,"Krynica Morska,POL",Jacht Klub KM/Polskie Stowarzyszenie Klasy 505,,,,,,2015/country/poland/2015-08-23-krynica.csv,Polish Cup,Zalew Wiślany,POL
 2015-08-30,2015-08-31,Aarhus Festuge Cup,,4,8,Aarhus,,,,,,,2015/country/denmark/2015-08-31.aarhus-festuge-cup.arhus.DEN.csv,,,DEN
 2015-09-05,2015-09-06,National Espoirs,,8,23,"Anse de la Picarde, FRA",Club Nautique Haute Seine,,,,,,2015/country/france/2015-09-06.national-espoirs.anse-de-la-picarde.FRA.csv,,,FRA
@@ -541,7 +565,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2016-05-05,2016-05-07,Hyères,,8,50,Hyères,Club de Voile de Hyères,Jean Diaz,Abel Bellaguet,,,,2016/country/france/2016-05-07.euro-cup.hyeres.FRA.csv,Euro Cup,,FRA
 2016-05-14,2016-05-16,Young Europeans Sailing,,6,12,"Olympia Zentrum,Kiel-Schilksee,GER",Kieler Yacht-Club e.V.,Andreas Schorr,Rainer Heinrich,,,,2016/country/germany/2016-05-16-young-europeans-sailing.kiel-schilksee.GER.csv,,,GER
 2016-05-21,2016-05-22,Regaty otwarcia sezonu,Season opening regatta,7,16,"Gdynia,POL",Yacht Klub Stal Gdynia,,,,,,2016/country/poland/2016-05-22.regaty-otwarcia-sezonu.csv,Polish Cup,,POL
-2016-06-02,2016-06-05,North American Championship,,10,49,"Bellingham Bay,USA",Bellingham Yacht Club,John Pedlow,,,,,2016/continental/2016-06-05.north-american-championships.bellingham.csv,Continental,,USA
+2016-06-02,2016-06-05,North American Championship,,10,49,Bellingham Bay,Bellingham Yacht Club,John Pedlow,,,,,2016/continental/2016-06-05.north-american-championships.bellingham.csv,"Continental,North America",,USA
 2016-06-03,2016-06-03,Adonite Swiss Open,,3,16,Bevaix,Club Nautique de Bevaix,,,,,,2016/country/switzerland/2016-06-03.adonite-swiss-open.bevaix.SUI.csv,National,,SUI
 2016-06-04,2016-06-05,XV. Culix Cup,,3,22,"Flensburg Fjord,Baltic Sea,Glücksburg,GER",Flensburger Segel-Club e.V.,,,,,,2016/country/germany/2016-06-05-xiv-culix-cup.glucksburg.GER.csv,,,GER
 2016-06-18,2016-06-26,Kieler Woche,,11,50,"Olympia Zentrum,Kiel-Schilksee,GER",Kieler Yacht-Club e.V.,,,,,,2016/country/germany/2016-06-18-kieler-woche.kiel.GER.csv,Euro Cup,,GER
@@ -549,7 +573,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2016-06-25,2016-06-26,Regaty o Puchar Zbąszynia z okazji Dni Morza,Zbąszczyń Sea Days Cup,5,11,"Zbąszyń,POL",Zbńszyński Klub Żeglarski,,,,,,2016/country/poland/2016-06-26-puchar-zbaszynia.csv,Polish Cup,Jezioro Błędno,POL
 2016-07-01,2016-07-03,Helsinki Regatta,,6,11,Helsinki,,,,,,,2016/country/finland/2016-07-03.helsinki-regatta.helsinki.FIN.csv,,,FIN
 2016-07-02,2016-07-03,Canadian Championship,,6,11,"Squamish,BC",Kitsilano Yacht Club;Canadian 5O5 fleet 1,,,,,,2016/country/canada/2016-07-02-canadian-champs-squamish.csv,National,,CAN
-2016-07-09,2016-07-10,Kitsilano Invitational Regatta,,9,9,"Vancouver,BC,CAN",Kitsilano Yacht Club,,,,,,2016/country/canada/2016-07-10.kitsilano-invitational-regatta.vancouver-bc.CAN.csv,,,CAN
+2016-07-09,2016-07-10,Kitsilano Invitational Regatta,,9,9,"Vancouver,BC",Kitsilano Yacht Club,,,,,,2016/country/canada/2016-07-10.kitsilano-invitational-regatta.vancouver-bc.CAN.csv,,,CAN
 2016-07-16,2016-07-17,Puchar Pucka,Puck Cup,7,16,"Puck,POL",MOKSIR Puck /PSK 505,,,,,,2016/country/poland/2016-07-18.puchar-pucka.csv,Polish Cup,Zatoka Pucka,POL
 2016-07-25,2016-08-05,World Championship,,9,130,Weymouth,Weymouth & Portland National Sailing Academy,,,,,,2016/world/2016-08-05-world-championship-weymouth.csv,"World,Euro Cup",,GBR
 2016-07-27,2016-07-28,Pre-Worlds & UK National Championship,,5,99,Weymouth,Weymouth & Portland National Sailing Academy,,,,,,2016/world/2016-07-28.pre-worlds-uk-national-championship.weymouth.GBR.csv,"Pre-Worlds, National",,GBR
@@ -574,13 +598,13 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2017-05-11,2017-05-14,Deutsche Meisterschaft,German Championship,9,35,Berlin,Berliner Yacht-Club e.V.,Dr. Matthias Grothues-Spork,,,,,2017/country/germany/2017-05-14-internationale-deutsche-meisterschaft-505er.berlin.GER.csv,National,,GER
 2017-05-25,2017-05-27,Riva Cup,,8,45,Riva del Garda,Fraglia Vela Riva,,,,,,2017/country/italy/2017-05-27.riva-cup.riva-del-garda.ITA.csv,Euro Cup,Riva Del Garda,ITA
 2017-06-03,2017-06-04,Pfingstwettfahrten,,4,23,Herrsching,Herrschinger Segelclub e.V.,Max Marcour,Fritz Kocourek,,,,2017/country/germany/2017-06-04-pfingstwettfahrten.herrsching.GER.csv,,,GER
-2017-06-14,2017-06-18,North American Championship,,9,25,"New Bedford,MA",Community Boating Center of New Bedford,,,,,,2017/continental/2017-07-18.north-american-championships.new-bedford.csv,Continental,,USA
+2017-06-14,2017-06-18,North American Championship,,9,25,"New Bedford,MA",Community Boating Center of New Bedford,,,,,,2017/continental/2017-07-18.north-american-championships.new-bedford.csv,"Continental,North America",,USA
 2017-06-17,2017-06-25,Kieler Woche,,11,38,"Olympia Zentrum,Kiel-Schilksee",Kieler Yacht-Club e.V.,,,,,,2017/country/germany/2017-06-17-kieler-woche.kiel.GER.csv,Euro Cup,,GER
 2017-06-30,2017-07-02,Helsinki Regatta,,3,8,Helsinki,,,,,,,2017/country/finland/2017-07-02.helsinki-regatta.helsinki.FIN.csv,,,FIN
 2017-07-05,2017-07-09,European Championship,,4,94,Warnemünde,Joersfelder Segel-Club e.V.,Svenja Ehrmann,Dr. Jörn-Christoph Jansen,,,,2017/continental/2017-07-08-european-championship-warnemunde.csv,"Continental,Europe,Euro Cup",,GER
 2017-07-07,2017-07-09,Newport Regatta,,6,7,"Newport, RI",Sail Newport,,,,,,2017/country/usa/2017-07-09.newport-regatta.newport-ri.USA.csv,,,USA
 2017-07-08,2017-07-09,Kitsilano Invitational Regatta,,7,14,"Vancouver,BC",Kitsilano Yacht Club,,,,,,2017/country/canada/2017-07-09.kitsilano-invitational-regatta.vancouver-bc.CAN.csv,,,CAN
-2017-07-14,2017-07-16,Championnat de France,France Championship,6,52,Aan Port-Blanc,,Vilain Patrick,Fayein Denis,,,,2017/country/france/2017-07-16-championnat-de-france.aan-port-blanc.FRA.csv,National,,FRA
+2017-07-14,2017-07-16,Championnat de France,French Championship,6,52,Aan Port-Blanc,,Vilain Patrick,Fayein Denis,,,,2017/country/france/2017-07-16-championnat-de-france.aan-port-blanc.FRA.csv,National,,FRA
 2017-07-27,2017-07-30,UK National Championship,,9,29,Hayling Island,Hayling Island Sailing Club,,,,,,2017/country/uk/2017-07-30-uk-open-national-championship.hayling-island.GBR.csv,National,,GBR
 2017-08-02,2017-08-03,Canadian Championship,,6,9,"Toronto,ON",Outer Harbour Centreboard Club,,,,,,2017/country/canada/2017-08-03.canadian-championship.toronto-on.CAN.csv,National,,CAN
 2017-08-04,2017-08-06,Buzzards Bay Regatta,,7,5,"South Dartmouth, MA",New Bedford Yacht Club,,,,,,2017/country/usa/2017-08-06.buzzards-bay-regatta.south-dartmouth-ma.USA.csv,,,USA
@@ -609,14 +633,14 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2018-06-16,2018-06-17,Puchar Burmistrza Krynicy Morskiej,Mayor of Krynica Morska Cup,3,19,"Krynica Morska,POL",,,,,,,2018/country/poland/2018-06-17-krynica.csv,Polish Cup,Zalew Wiślany,POL
 2018-06-16,2018-06-20,Kieler Woche,,11,36,Kiel,Kieler Yacht-Club e.V.,Nino Shmueli,Douglas Sloan,,,https://youtu.be/-PTzl5M5eLo,2018/country/germany/2018-06-20-kieler-woche.kiel.GER.csv,Euro Cup,,GER
 2018-06-29,2018-07-01,Helsinki Regatta,,4,8,Helsinki,,,,,,,2018/country/finland/2018-07-01.helsinki-regatta.helsinki.FIN.csv,,,FIN
-2018-07-07,2018-07-08,Kitsilano Invitational Regatta,,8,8,"Vancouver,BC,CAN",Kitsilano Yacht Club,,,,,,2018/country/canada/2018-07-08.kitsilano-invitational-regatta.vancouver-bc.CAN.csv,,,CAN
+2018-07-07,2018-07-08,Kitsilano Invitational Regatta,,8,8,"Vancouver,BC",Kitsilano Yacht Club,,,,,,2018/country/canada/2018-07-08.kitsilano-invitational-regatta.vancouver-bc.CAN.csv,,,CAN
 2018-07-07,2018-07-08,Newport Regatta,,8,9,"Newport, RI",Sail Newport,,,,,,2018/country/usa/2018-07-08.newport-regatta.newport-ri.USA.csv,,,USA
-2018-07-13,2018-07-15,Championnat de France,France Championship,4,40,Saint-Pierre-Quiberon,SR S.P. QUIBERON,,,,,,2018/country/france/2018-07-15-championnat-de-france.saint-pierre-quiberon.FRA.csv,National,,FRA
+2018-07-13,2018-07-15,Championnat de France,French Championship,4,40,Saint-Pierre-Quiberon,SR S.P. QUIBERON,,,,,,2018/country/france/2018-07-15-championnat-de-france.saint-pierre-quiberon.FRA.csv,National,,FRA
 2018-07-20,2018-07-20,Pre-Worlds,,3,129,"Gdynia,POL","Polski Związek Żeglarski,Miasto Gdynia,Polskie Stowarzyszenie Klasy 505",Walter Mielke,Tim Hancock,,,,2018/world/2018-07-20-pre-worlds.gdynia.POL.csv,Pre-Worlds,Zatoka Gdańska,POL
 2018-07-21,2018-07-28,World Championship,,10,127,Gdynia,"Polski Związek Żeglarski,Miasto Gdynia,Polskie Stowarzyszenie Klasy 505",Walter Mielke,Tim Hancock,,,,2018/world/2018-07-29-world-championship.gdynia.POL.csv,"World,Euro Cup",Zatoka Gdańska,POL
 2018-08-02,2018-08-04,Eastern Canadian Championship,,5,13,"Kingston,ON",CORK,,,,,,2018/country/canada/2018-08-04-cork-fall-regatta-eastern-canadian-championship.kingstone-on.CAN.csv,,,CAN
 2018-08-03,2018-08-05,Buzzards Bay Regatta,,6,10,"South Dartmouth, MA",New Bedford Yacht Club & Beverly Yacht Club,,,,,,2018/country/usa/2018-08-05.buzzards-bay-regatta.south-dartmouth-ma.USA.csv,,,USA
-2018-08-08,2018-08-13,North American Championship,,11,24,"San Francisco,CA,USA",St. Francis Yacht Club,J. Lancaster,,,,,2018/continental/2018-08-13.north-american-championships.san-fancisco.csv,Continental,,USA
+2018-08-08,2018-08-13,North American Championship,,11,24,"San Francisco,CA",St. Francis Yacht Club,J. Lancaster,,,,,2018/continental/2018-08-13.north-american-championships.san-fancisco.csv,"Continental,North America",,USA
 2018-08-10,2018-08-12,TPS Airisto Regatta,,4,7,"Ruissalo,Turku,FIN",Turun Pursiseura - Turku Yacht Club,,,,,,2018/country/finland/2018-08-12.tps-airisto-regatta.ruissalo-turku.FIN.csv,,,FIN
 2018-08-15,2018-08-15,Sista Chansen,,2,6,Torslanda,Björlanda Kile SS,,,,,,2018/country/sweden/2018-08-15.sista-chansen.torslanda.SWE.csv,,,SWE
 2018-08-17,2018-08-19,Mistrzostwa Polski,Polish Championship,7,28,"Świnoujście,POL",MT Partners,,,,,,2018/country/poland/2018-08-19-polish-championship.swinoujscie.POL.csv,National,Zatoka Pomorska,POL
@@ -654,11 +678,11 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2019-06-22,2019-06-30,Kieler Woche,,11,30,"Olympia Zentrum,Kiel-Schilksee,GER",Kieler Yacht-Club e.V.,,,,,,2019/country/germany/2019-06-22-kieler-woche.kiel.GER.csv,Euro Cup,,GER
 2019-06-28,2019-06-30,Helsinki Regatta,,6,7,"Helsinki,FIN",,,,,,,2019/country/finland/2019-06-30.helsinki-regatta.helsinki.FIN.csv,,,FIN
 2019-06-29,2019-06-30,Lotos Nord Cup,,6,14,"Górki Zachodnie,POL",,,,,,,2019/country/poland/2019-06-30-lotos-nord-cup-gdansk.csv,Polish Cup,Zatoka Gdańska,POL
-2019-07-05,2019-07-07,Championnat de France,France Championship,7,38,Baie De Douarnenez,SR DOUARNENEZ,Bournot Eric,Vilain Patrick,,,,2019/country/france/2019-07-07-french-championship.baie-de-douarnenez.FRA.csv,National,,FRA
+2019-07-05,2019-07-07,Championnat de France,French Championship,7,38,Baie De Douarnenez,SR DOUARNENEZ,Bournot Eric,Vilain Patrick,,,,2019/country/france/2019-07-07-french-championship.baie-de-douarnenez.FRA.csv,National,,FRA
 2019-07-06,2019-07-07,Newport Regatta,,7,9,"Newport, RI",Sail Newport,,,,,,2019/country/usa/2019-07-07.newport-regatta.newport-ri.USA.csv,,,USA
 2019-07-06,2019-07-07,Stuart Sinclair,,13,11,"Port Townsend, WA",,,,,,,2019/country/usa/2019-07-07.stuart-sinclair.port-townsend-wa.USA.csv,,,USA
 2019-07-06,2019-07-07,Wickford Regatta,,7,11,"North Kingstown, RI",Wickford Yacht Club,,,,,,2019/country/usa/2019-07-07.wickford-regatta.north-kingstown-ri.USA.csv,,Narragansett Bay,USA
-2019-07-13,2019-07-14,Kits Invitational Regatta,,4,10,"Vancouver,BC,CAN",Kitsilano Yacht Club,,,,,,2019/country/canada/2019-07-14-kits-invitational-regatta.vancouver.CAN.csv,,,CAN
+2019-07-13,2019-07-14,Kitsilano Invitational Regatta,,4,10,"Vancouver,BC",Kitsilano Yacht Club,,,,,,2019/country/canada/2019-07-14-kits-invitational-regatta.vancouver.CAN.csv,,,CAN
 2019-07-26,2019-07-28,Columbia Gorge One-Design Regatta,,10,19,"Portland, OR",Columbia Gorge Racing Association,,,,,,2019/country/usa/2019-07-28.columbia-gorge-one-design-regatta.portland-or.USA.csv,,,USA
 2019-07-27,2019-07-28,Puchar Pucka,Puck Cup,7,18,"Puck,POL",,,,,,,2019/country/poland/2019-07-28-puchar-polski-puck.csv,Polish Cup,Zatoka Pucka,POL
 2019-08-02,2019-08-04,Buzzards Bay Regatta,,9,13,"South Dartmouth, MA",New Bedford Yacht Club & Beverly Yacht Club,,,,,,2019/country/usa/2019-08-04.buzzards-bay-regatta.south-dartmouth-ma.USA.csv,,,USA
@@ -667,7 +691,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2019-08-16,2019-08-18,Puchar Burmistrza Miasta Ustka,Mayor of Ustka Cup,10,20,"Ustka,POL",,,,,,,2019/country/poland/2019-08-18-puchar-polsk-ustka.csv,Polish Cup,Baltic Sea,POL
 2019-08-17,2019-08-18,Canadian Championship,,5,23,"Kingston,ON",Kingston Yacht Club,,,,,,2019/country/canada/2019-08-18-canadian-championships-kingston-ontario-CAN.csv,National,,CAN
 2019-08-21,2019-08-22,Open Belgium Cup,,9,22,"Froidchapelle, BEL",Sports Nautiques de l'Eau d'Heure,,,,,,2019/country/belgium/2019-08-22.open-belgium-cup.froidchapelle.BEL.csv,National,,BEL
-2019-08-21,2019-08-25,North American Championship,,10,39,"Kingston,ON,CAN",Kingston Yacht Club,,,,,,2019/continental/2019-08-25-north-american-championship-kingston-ontario-CAN.csv,Continental,,CAN
+2019-08-21,2019-08-25,North American Championship,,10,39,"Kingston,ON",Kingston Yacht Club,,,,,,2019/continental/2019-08-25-north-american-championship-kingston-ontario-CAN.csv,"Continental,North America",,CAN
 2019-08-24,2019-08-24,Chesapeake Bay Open Distance Race,,1,8,,,,,,,,2019/country/usa/2019-08-24.chesapeake-bay-open-distance-race.USA.csv,,Chesapeake Bay,USA
 2019-08-24,2019-08-25,Fall Series,,3,8,,,,,,,,2019/country/usa/2019-08-25.fall-series.USA.csv,,Chesapeake Bay,USA
 2019-09-02,2019-09-02,Dale Jepsen One-Design Regatta,,7,16,"Bellingham,WA,USA",Bellingham Yacht Club,,,,,,2019/country/usa/2019-09-02.dale-jepsen-one-design-regatta.bellingham-wa.USA.csv,,,USA
@@ -737,33 +761,6 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
 1900-01-01,,exit,exit,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
@@ -775,6 +772,22 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+1998-07-11,1998-07-14,Championnat de France,French Championship,,,,,,,,,,1998/country/france/1998-07-14.french-championship.FRA.csv,National,,FRA
+1998-07-02,1998-07-05,Deutsche Meisterschaft,German Championship,,53,,,,,,,,1998/country/germany/1998-07-05.german-championship.helgoland.GER.csv,National,,GER
+1998-04-04,1998-04-11,Australian Championship,,,,,,,,,,,,National,,AUS
+1998-08-08,1998-08-09,Annual One-Design Regatta,,,,"Deltaville,VA",Fishing Bay Yacht Club,,,,,59th,,,,USA
+1998-08-15,1998-08-16,Northwest Regionals And Tuning Clinic,,,,"Oak Harbor,WA",Crescent Harbor,,,,,,,,,USA
+1998-08-08,1998-08-09,Western Canadian Championships,,,,"Vancouver, BC","Kitsilano Yacht Club, Vancouver 5o5 Fleet",,,,,,,,,CAN
+1998-08-24,1998-08-24,Planing Boat Regatta,,,,"San Diego, CA",Mission Bay Yacht Club,,,,,,,,,USA
+1997-01-01,1997-01-01,Pacific Northwest Regionals,,,6,"Oak Harbor,WA",,,,,,,1997/country/usa/1997.pacific-northwest-regionals.oak-harbor-wa.USA.csv,,Whidbey Island,USA
+1997-04-26,1997-04-27,Santa Cruz Spring,,,,Santa Cruz,Santa Cruz Yacht Club,,,,,,1997/country/usa/1997-04-27.santa-cruze-spring.santa-cruze.USA.csv,,,
+1997-06-28,1997-06-28,Lake Mills Regatta,,,,"Lake Mills,WI",,,,,,,,,Lake Mills,USA
+1997-10-11,1997-10-12,Sandy Hook,,,,,Sandy Hook Bay Catamaran Club,,,,,,,,,USA
 1981-,1981-,European Championship,,6,82,"Riva del Garda,ITA",,,,,,,,,,
 1987-01-10,,1987 Pacific Championship in Singapore,,,,,,,,,,,,,,
 1990-01-01,1990-01-01,European Championship,,,72,Quiberon,,,,,,,,,,FRA
@@ -809,8 +822,8 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 1996-08-31,1996-09-02,Western Canadian Championship,,,,"Parkland County, AB",Wabamun Sailing Club,,,,,,,,,CAN
 1996-09-08,1996-09-13,British Nationals,,,,Hayling Island,,,,,,,,,,GBR
 1996-09-28,1996-09-28,Harboe Cup,,,,Skælskør,,,,,,,,,,DEN
-1997-03-28,1997-03-28,Cavalaire,,,,Cavalaire,Yacht Club de Cavalaire,,,,,,,Euro Cup,,FRA
-1997-04-26,1997-05-03,Bermuda International Race Week,,,,,The Royal Bermuda Yacht Club,,,,,,,,,BER
+1997-03-28,1997-03-28,Cavalaire,,,,Cavalaire-sur-Mer,Yacht Club de Cavalaire,,,,,,,Euro Cup,,FRA
+1997-04-26,1997-05-03,Bermuda International Race Week,,,,,The Royal Bermuda Yacht Club,,,,,,1997/country/bermuda/1997-05-03.bermuda-race-week.BER.csv,,,BER
 1997-07-05,1997-07-11,North American Championship,,,,"Long Beach, CA",Alamitos Bay Yacht Club,,,,,,1997/continental/1997-07-11.north-american-championship.long-beach-ca.USA.csv,"Continental,North America",,USA
 1998-09-10,1998-09-21,Sea-Land - 505 World Championship,,,,"Hyannis, Massachusetts (USA)",,,,,,,,,,
 1999-05-22,1999-05-24,Goldener Pfingstbusch,,,,Kiel (GER),,,,,,,,,,
