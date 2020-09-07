@@ -104,11 +104,12 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 1997-01-01,1997-01-03,Australian Championship,,6,50,Sydney,Middle Harbour Yacht Club,,,,,,1997/country/australia/1997-01-03.australia-championship.sydney.AUS.csv,National,,AUS
 1997-01-02,1997-01-05,Florida Midwinters,,6,23,"St. Petersburg, FL",St. Petersburg Sailing Center,,,,,,1997/country/usa/1997-01-05.florida-midwinters.st-petersburg.USA.csv,,,USA
 1997-01-11,1997-01-12,Snowflake Regatta,,7,5,"Seattle, WA",Washington Yacht Club,,,,,,1997/country/usa/1997-01-12.snowflake-regatta.seattle-wa.USA.csv,,Lake Washington,USA
-1997-02-15,1997-02-16,Southern California Midwinters,,5,10,"Long Beach, CA",Alamitos Bay Yacht Club,,,,,,1997/country/usa/1997-02-16.southern-california-midwinters.long-beach.USA.csv,,,USA
+1997-02-15,1997-02-16,Southern California Midwinters,5,5,10,"Long Beach, CA",Alamitos Bay Yacht Club,,,,,,1997/country/usa/1997-02-16.southern-california-midwinters.long-beach.USA.csv,,,USA
 1997-03-15,1997-03-16,Spring Dinghy,,6,10,"San Francisco, CA",St. Francis Yacht Club,,,,,,1997/country/usa/1997-03-16.st-francis-spring-dinghy.san-francisco.USA.csv,,,USA
 1997-03-28,1997-03-31,Cavalaire,,6,84,Cavalaire-sur-Mer,Yacht Club de Cavalaire,,,,,Leg 1,1997/country/france/1997-03-28.euro-cup.leg-1.cavalaire.FRA.csv,Euro Cup,,FRA
 1997-03-28,1997-12-31,EuroCup Ranking,,5,27,Europe,,,,,,Le Lavandou • Riva del Garda • Gilleleje • Kille Woche • Nieupoort,1997/continental/1997.euro-cup.csv,Euro Cup,,
 1997-04-12,1997-04-13,Inland Championship,,3,60,Huntingdon,Grafham Water Sailing Club,,,,,,1997/country/uk/1997-04-13.inland-championship.GBR.csv,,,GBR
+1997-04-19,1997-04-20,Open Meeting,,5,17,Queen Mary,Queen Mary Sailing Club,,,,,,1997/country/uk/1997-04-20.open-meeting.GBR.csv,,,GBR
 1997-05-03,1997-05-04,WRSC Spring Regatta,,5,13,"Galesville, MD",West River Sailing Club,,,,,,1997/country/usa/1997-05-04.spring-regatta.galesville.USA.csv,,Chesapeake Bay,USA
 1997-05-03,1997-10-05,Region II Championship Ranking,,6,17,Region II,,,,,,West River Spring • Hampton Trapeze • West River Regional • Fishing Bay • West River MidAtlantics • Karl Miller,1997/country/usa/1997.region-ii-championship-ranking.USA.csv,,,USA
 1997-05-08,1997-05-11,Riva Cup,,,64,Riva del Garda,Fraglia Vela Riva,,,,,Leg 2,1997/country/italy/1997-05-11.euro-cup.riva-del-garda.ITA.csv,Euro Cup,Riva Del Garda,ITA
@@ -143,6 +144,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 1998-03-14,1998-03-15,Spring Dinghy,,6,11,"San Francisco, CA",St. Francis Yacht Club,,,,,,1998/country/usa/1998-03-15.spring-dinghy.san-francisco.USA.csv,,,USA
 1998-04-04,1998-04-05,Hiper regatta,,8,11,"Marina Del Rey, CA",,,,,,,1998/country/usa/1998-04-05.hiper-regatta.marina-del-rey.USA.csv,,,USA
 1998-04-10,1998-04-12,Cavalaire,,6,92,Cavalaire-sur-Mer,,,,,,,1998/country/france/1998-04-10.cavalaire.FRA.csv,Euro Cup,,FRA
+1998-04-18,1998-04-19,Open Meeting,,5,18,Derby,Burton Sailing Club,,,,,,1998/country/uk/1998-04-19.open-meeting.derby.GBR.csv,,,GBR
 1998-04-25,1998-04-26,Santa Cruz Spring Open Regatta,,5,15,"Santa Cruz, CA",Santa Cruz Yacht Club,Dave Wahle,,,,,1998/country/usa/1998-04-26.santa-cruz-spring-open-regatta.santa-cruz.USA.csv,,,USA
 1998-04-25,1998-04-26,West River Spring,,6,10,"Galesville, MD",West River Sailing Club,,,,,,1998/country/usa/1998-04-26.west-river-spring.galesville.USA.csv,,,USA
 1998-05-09,1998-05-10,Hoover Spring Regatta,,10,11,"Columbus, OH",,,,,,,1998/country/usa/1998-05-10.hoover-spring-regatta.columbus-oh.USA.csv,,,USA
@@ -184,31 +186,37 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 1999-01-03,1999-01-03,RYC Midwinters #2,,3,7,"Richmond,CA",Richmond Yacht Club,,,,,,1999/country/usa/1999-01-03.midwinters.richmond-ca.USA.csv,,,USA
 1999-01-08,1999-01-10,Florida Midwinter,,7,15,"St. Petersburg,FL",St. Petersburg Sailing Center,,,,,,1999/country/usa/1999-01-10.florida-midwinters.st-petersburg-fl.USA.csv,,,USA
 1999-02-13,1999-02-14,West Coast Midwinters,,6,5,"Long Beach, CA",Alamitos Bay Yacht Club,,,,,,1999/country/usa/1999-02-14.west-coast-midwinters.long-beach-ca.USA.csv,,,USA
+1999-04-01,1999-04-04,Championnat de France,French Championship,7,83,Cavalaire Sur Mer,,,,,,,1999/country/france/1999-04-04.championnat-de-france.cavaliere-sur-mer.FRA.csv,National,,FRA
 1999-04-10,1999-04-11,Hi-Per,,8,6,"Los Angeles, CA","California Yacht Club, Marina del Ray, ",,,,,,1999/country/usa/1999-04-11.hi-per.los-angeles-ca.USA.csv,,,USA
+1999-04-17,1999-04-17,Inland Championship,,1,37,Grafham,Grafham Water Sailing Club,,,,,,1999/country/uk/1999-04-17.inland-championship.grafham.GBR.csv,,,GBR
 1999-04-24,1999-04-25,Oak Harbor Spring Free,,15,5,"Oak Harbor, WA",Adventure Marine,,,,,,1999/country/usa/1999-04-24.oak-harbour-spring-free.USA.csv,,,
 1999-04-24,1999-04-25,Santa Cruz,,,15,"Santa Cruz,CA",Santa Cruz Yacht Club,,,,,,1999/country/usa/1999-04-25.santa-cruz.santa-cruz-ca.USA.csv,,,
 1999-05-01,1999-05-01,Richmond Regatta,,6,10,,,,,,,,1999/country/usa/1999-05.richmond-regatta.USA.csv,,,USA
 1999-05-01,1999-05-02,WRSC Spring,,5,12,"Richmond,CA",West River Sailing Club,,,,,,1999/country/usa/1999-05-02.wrsc-spring.richmond-ca.USA.csv,,,USA
+1999-05-08,1999-05-08,Southern Areas,,6,35,Gosport,Stokes Bay Sailing Club,,,,,,1999/country/uk/1999-05-08.southern-areas.gosport.GBR.csv,,,GBR
 1999-05-08,1999-05-09,No Gas,,5,5,"Annapolis,MD",Severn Sailing Association,,,,,,1999/country/usa/1999-05-09.no-gas.annapolis-md.USA.csv,,,USA
 1999-05-08,1999-05-09,Richmond YC Spring Small Boat Invite,,6,10,"Richmond,CA",Richmond Yacht Club,,,,,,1999/country/usa/1999-05-09.richmond-yc-spring-small-boat-invite.richmond-ca.USA.csv,,,USA
+1999-05-13,1999-05-16,Grand Prix des Vins de Bordeaux,Grand Prix of Bordeaux Wines,10,32,Maubuisson,,,,,,,1999/country/france/1999-05-16.grand-prix-des-vins-de-bordeaux.maubuisson.FRA.csv,,,FRA
 1999-05-13,1999-05-16,Riva Cup,,5,49,Riva del Garda,Fraglia Vela Riva,,,,,,1999/country/italy/1999-05-16.riva-cup.riva-del-garda.ITA.csv,Euro Cup,Riva Del Garda,ITA
 1999-05-15,1999-05-16,Hampton Trapeze,,5,6,"Hampton,VA",Hampton Yacht Club,,,,,,1999/country/usa/1999-05-16.hampton-trapeze.hampton-va.USA.csv,,,USA
 1999-05-15,1999-05-16,Hoover Spring Regatta,,10,7,"Westerville, OH",Hoover Reservoir,,,,,,1999/country/usa/1999-05-16.hoover-spring-regatta.columbus-oh.USA.csv,,Hoover Reservoir,USA
 1999-05-22,1999-05-22,Bristol Spring,,7,6,"Bristol, RI",Bristol Yacht Club,,,,,,1999/country/usa/1999-05-22.bristol-spring.bristol-ri.USA.csv,,,USA
 1999-05-31,1999-06-04,North American Championship,,7,14,"Corpus Christi, TX",Corpus Christi Yacht Club,,Steve Tupper,,,,1999/continental/1999-06-04.north-american-championship.corpus-christi-tx.USA.csv,"Continental,North America",,USA
-1999-06-01,1999-06-01,Scandinavian Championship & Euro Cup,,6,20,Koge,,,,,,,1999/country/denmark/1999-06-01.eurocup-scandinavian-championship.koge.DEN.csv,Euro Cup,,DEN
+1999-06-04,1999-06-06,Scandinavian Championship & Euro Cup,,6,20,Køge,,,,,,,1999/country/denmark/1999-06-06.euro-cup.scandinavian-championship.koge.DEN.csv,Euro Cup,,DEN
 1999-06-05,1999-06-06,Québec Championship,,7,9,"Vaudreuil-sur-le-Lac, QC",Club Nautique Deux-Montagnes,,,,,,1999/country/canada/1999-06-06.quebec-championship.vaudreuil-sur-le-lac-qc.CAN.csv,,,CAN
 1999-06-06,1999-06-06,One Day Open Meeting,,4,11,Ashford,Queen Mary Sailing Club,,,,,,1999/country/uk/1999-06-06.one-day-open-meeting.ashford.GBR.csv,,,GBR
 1999-06-12,1999-06-13,Canadian Championship,,5,18,"Kingston,ON",Kingston Yacht Club,,,,,,1999/country/canada/1999-06-13.canadian-championship.kingston.CAN.csv,National,English Bay,CAN
+1999-06-12,1999-06-13,Short Course Championship,,6,20,Weymouth,Weymouth Sailing Centre,,,,,,1999/country/uk/1999-06-13.short-course-championship.weymouth.GBR.csv,,,GBR
 1999-06-19,1999-06-20,Nepean One Design,,7,8,"Ottawa, ON",Nepean Sailing Club,,,,,,1999/country/canada/1999-06-20.nepean-one-design.ottawa.CAN.csv,,,CAN
 1999-06-25,1999-06-27,Nieuwpoort,,9,16,Nieuwpoort,,,,,,,1999/country/belgium/1999-06-27.europa-cup.nieuwpoort.BEL.csv,Euro Cup,,BEL
 1999-07-01,1999-07-01,South Bay Regatta,,6,7,,,,,,,,1999/country/usa/1999-07-01.south-bay-regatta.USA.csv,,,USA
 1999-07-02,1999-07-04,Eastern Canadian Championship,,7,13,"Windsor, ON",South Port Sailing Club,,Mike Agrell,,,,1999/country/canada/1999-07-04.eastern-canadian-championship.windsor-on.CAN.csv,,,CAN
-1999-07-02,1999-07-04,Pre-Worlds,,4,88,Quiberon,,,,,,,1999/world/1999-07-04.pre-worlds.quiberon-france.csv,Pre-Worlds,,GBR
-1999-07-04,1999-07-10,World Championship,,5,157,Quiberon,,,,,,,1999/world/1999-06-10-world-championship-quiberon-france.csv,World,,GBR
+1999-07-02,1999-07-04,Pre-Worlds,,4,88,Quiberon,,,,,,,1999/world/1999-07-04.pre-worlds.quiberon-france.csv,Pre-Worlds,,FRA
+1999-07-04,1999-07-10,World Championship,,5,157,Quiberon,,,,,,,1999/world/1999-06-10-world-championship-quiberon-france.csv,World,,FRA
 1999-07-17,1999-07-18,New England Championship,,6,15,"New Bedford, MA",,,,,,,1999/country/usa/1999-07-18.new-england-championships.new-bedford.USA.csv,,,USA
 1999-07-30,1999-08-01,Hyannis Annual,,6,11,"Hyannis, MA",Hyannis Yacht Club,,,,,,1999/country/usa/1999-08-01.hyannis-annual.hyannis.USA.csv,,,USA
 1999-08-01,1999-08-01,Dansk Mesterskab,Danish Championship,6,15,Hornbæk,Hornbæk Bådeklub,,,,,,1999/country/denmark/1999.dansk-mesterskab.hornbaek.DEN.csv,National,,DEN
+1999-08-06,1999-08-08,Abersoch Open,,3,11,Abersoch,South Caernarvonshire Yacht Club,,,,,,1999/country/uk/1999-08-08.abersoch-open.abersoch.GBR.csv,,,GBR
 1999-08-11,1999-08-12,Fleet 4 Championship,,8,6,"Ottawa, ON","Nepean Sailing Club,",,,,,,1999/country/canada/1999-08-12.fleet-4-championship.ottawa-on.CAN.csv,,,CAN
 1999-08-14,1999-08-14,Oak Harbour Regatta,,5,7,"Oak Harbor, WA",Adventure Marine,,,,,,1999/country/usa/1999-08-14.oak-harbour-regatta.USA.csv,,,USA
 1999-08-21,1999-08-22,Open meeting,,6,20,Weymouth,Weymouth Sailing Centre,,,,,,1999/country/uk/1999-08-22.open-meeting.weymouth.GBR.csv,,,GBR
@@ -662,6 +670,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2019-01-01,2019-01-01,Pre-Worlds,,5,89,"Fremantle,AUS",Fremantle Sailing Club,,,,,,2019/world/2018-12-30-pre-worlds-perth.csv,Pre-Worlds,,AUS
 2019-01-01,2019-01-01,South African National Championship,,6,13,Langebaan,Langebaan Yacht Club,,,,,,2019/country/south-africa/2019.south-african-national-championship.langebaan.RSA.csv,National,,RSA
 2019-01-01,2019-01-07,World Championship,,10,89,"Fremantle,AUS",Fremantle Sailing Club,,,,,,2019/world/2019-01-07-world-championship-fremantle-AUS.csv,World,,AUS
+2019-03-30,2019-03-31,Whitstable Open,,3,7,Whitstable,Whitstable Yacht Club,,,,,,2019/country/uk/2019-03-31.whitstable-open.whitstable.GBR.csv,,,GBR
 2019-04-19,2019-04-21,Cannes,,4,31,Cannes,Yacht club de Cannes,,,,,,2019/country/france/2019-04-21-cannes.cannes.FRA.csv,Euro Cup,Mediterranean Sea,FRA
 2019-05-04,2019-05-04,WRSC Spring Regatta,,6,12,"Galesville, MD",West River Sailing Club,,,,,,2019/country/usa/2019-05-04.wrsc-spring-regatta.galesville-md.USA.csv,,,USA
 2019-05-04,2019-05-05,Kings of the River,,6,12,"Galesville, MD",West River Sailing Club,,,,,,2019/country/usa/2019-05-05.kings-of-the-river.galesville-md.USA.csv,,,USA
@@ -713,18 +722,9 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2020-07-11,2020-07-12,Lotos Nord Cup,,7,14,Górki Zachodnie,"Akademicki Związek Sportowy, Galion, Yacht Club Gdynia",,,,,,2020/country/poland/2020-07-12.lotos-nord-cup.gdansk.POL.csv,Polish Cup,Zatoka Gdańska,POL
 2020-08-07,2020-08-09,Mistrzostwa Polski,Polish Championship,6,22,Ustka,"Miasto Ustka, ProSport, Dolina Charlotty",,,,,,2020/country/poland/2020-08-09.mistrzostwa-polski.ustka.POL.csv,National,Baltic Sea,POL
 2020-08-08,2020-08-09,Dansk Mesterskab,Danish Championship,7,18,Hellerup,Hellerup Sejlklub,,,,,,2020/country/denmark/2020-08-09.danish-championship.hellerup.DEN.csv,National,,DEN
+2020-08-14,2020-08-16,TPS Airisto Regatta,,6,7,"Ruissalo,Turku",Turun Pursiseura - Turku Yacht Club,,,,,,2020/country/finland/2020-08-16.tps-airisto-regatta.ruissalo-turku.FIN.csv,,,FIN
 2020-08-22,2020-08-23,Svenskt Mästerskap,Swedish Championship,5,30,Vejbystrand,,,,,,,2020/country/sweden/2020-08-23-sweden-championship.vejbystrand.SWE.csv,National,,SWE
 2020-09-05,2020-09-06,Puchar Pucka,Puck Cup,7,10,"Puck,POL",,,,,,,2020/country/poland/2020-09-06.puchar-polski.puck.POL.csv,Polish Cup,Zatoka Pucka,POL
-2019-03-30,2019-03-31,Whitstable Open,,3,7,Whitstable,Whitstable Yacht Club,,,,,,2019/country/uk/2019-03-31.whitstable-open.whitstable.GBR.csv,,,GBR
-1998-04-18,1998-04-19,Open Meeting,,5,18,Derby,Burton Sailing Club,,,,,,1998/country/uk/1998-04-19.open-meeting.derby.GBR.csv,,,GBR
-2020-08-14,2020-08-16,TPS Airisto Regatta,,6,7,"Ruissalo,Turku",Turun Pursiseura - Turku Yacht Club,,,,,,2020/country/finland/2020-08-16.tps-airisto-regatta.ruissalo-turku.FIN.csv,,,FIN
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
@@ -776,7 +776,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
+1999-05-22,1999-05-23,Burton Open,,,26,Burton,Burton Sailing Club,,,,,,1999/country/uk/1999-05-23.burton-open.burton.GBR.csv,,,GBR
 1998-07-11,1998-07-14,Championnat de France,French Championship,,,,,,,,,,1998/country/france/1998-07-14.french-championship.FRA.csv,National,,FRA
 1998-07-02,1998-07-05,Deutsche Meisterschaft,German Championship,,53,,,,,,,,1998/country/germany/1998-07-05.german-championship.helgoland.GER.csv,National,,GER
 1998-04-04,1998-04-11,Australian Championship,,,,,,,,,,,,National,,AUS
