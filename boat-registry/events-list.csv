@@ -447,11 +447,13 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2011-03-12,2011-03-13,Spring Dinghy,,5,4,"San Francisco, CA",St. Francis Yacht Club,,,,,,2011/country/usa/2011-03-13.spring-dinghy.san-francisco-ca.USA.csv,,,USA
 2011-03-20,2011-04-01,World Championship,,7,85,"Hamilton Island,AUS",,,,,,,2011/world/2011-04-01-world-championship-hamilton-island.csv,World,,AUS
 2011-05-28,2011-05-28,IV° TransAlp Cup,,5,10,Campione BS,Vela Club Campione del Garda,,,,,,2011/country/italy/2011-05-28.IV-trans-alp-cup.campione-bs.ITA.csv,Euro Cup,,ITA
+2011-06-04,2011-06-05,Jericho Classic,,8,4,"Vancouver, BC",Jericho Sailing Centre,,,,,,2011/country/canada/2011-06-05.jericho-classic.vancouver-bc.CAN.csv,,,CAN
 2011-06-23,2011-06-27,UK National Championship,,8,40,Wadebridge,Rock Sailing and Waterski Club,,,,,,2011/country/uk/2011-06-27.uk-national-championship.wadebridge.GBR.csv,National,,GBR
 2011-06-25,2011-06-25,Regaty o Puchar Zbąszynia z okazji Dni Morza,Zbąszczyń Sea Days Cup,5,8,Zbąszyń,Zbąszyński Klub Żeglarski,,,,,,2011/country/poland/2011-06-28-zbaszyn.csv,Polish Cup,Jezioro Błędno,POL
 2011-06-25,2011-06-26,Helsinki Regatta,,8,17,Helsinki,,,,,,,2011/country/finland/2011-06-26.helsinki-regatta.helsinki.FIN.csv,,,FIN
 2011-07-23,2011-07-24,Gdynia Sailing Days,,7,9,Gdynia,YK Stal Gdynia,,,,,,2011/country/poland/2011-07-24-gdynia-sailng-days.csv,Polish Cup,Zatoka Gdańska,POL
 2011-08-05,2011-08-07,East Coast Championship,,9,16,"South Dartmouth, MA",Buzzards Bay Regatta,,,,,,2011/country/usa/2011-08-07.east-coast-championship.south-dartmouth.ma.USA.csv,,,USA
+2011-08-24,2011-08-25,Harboe Cup,,8,5,Skælskør,Skælskør Amatør-Sejlklub,,,,,,2011/country/denmark/2011-08-25.harboe.cup.skerlskor.DEN.csv,,,DEN
 2011-09-02,2011-09-04,Mistrzostwa Polski,Polish Championship,9,10,Gdynia,YKP Gdynia,,,,,,2011/country/poland/2011-09-04.polish-championship.gdynia.POL.csv,"National, Polish Cup",Zatoka Gdańska,POL
 2011-09-17,2011-09-18,Dale Jepsen One-Design Regatta,,7,12,"Bellingham,WA",Bellingham Yacht Club,,Jamie Ashton,,,,2011/country/usa/2011-09-18.dale-jepsen-one-design-regatta.bellingham-wa.USA.csv,,,USA
 2011-09-24,2011-09-25,Ontario Championship,,9,4,"Toronto,ON",Outer Harbour Centreboard Club,,,,,,2011/country/canada/2011-09-24.ontario-championship.toronto.CAN.csv,,,CAN
@@ -471,6 +473,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2012-08-13,2012-09-24,Måndagsseglingar,,9,8,Torslanda,Björlanda Kile SS,,,,,,2012/country/sweden/2012-09-24.mandagsseglingar.SWE.csv,,,SWE
 2012-08-18,2012-08-19,Puchar Starosty Poznańskiego,,4,11,Poznań,Klub Żeglarski “Mewa”,,,,,,2012/country/poland/2012-08-19-puchar-starosty-poznanskiego.csv,Polish Cup,Jezioro Kierskie,POL
 2012-08-28,2012-08-30,Swiss Open,,9,20,Neuchâtel,Cercle de la voile de Neuchâtel,,,,,,2012/country/switzerland/2012-08-30.swiss-open.neuchatel.SUI.csv,National,,SUI
+2012-08-29,2012-08-30,Harboe Cup,,10,5,Skælskør,Skælskør Amatør-Sejlklub,,,,,,2012/country/denmark/2012-08-30.harboe.cup.skerlskor.DEN.csv,,,DEN
 2012-09-01,2012-09-02,National Espoirs,,7,23,Anse de la Picarde,Club Nautique Haute Seine,,,,,,2012/country/belgium/2012-09-01.national-espoirs.anse-de-la-picarde.FRA.csv,,,FRA
 2012-09-01,2012-09-03,Canadian Championship,,5,11,"Toronto,ON",Outer Harbour Centreboard Club,,,,,,2012/country/canada/2012-09-03.canadian-championship.toronto.CAN.csv,National,,CAN
 2012-09-07,2012-09-09,Nordiska & Svenskt Mästerskap,Nordic & Swedish Championship,4,24,"Grötvik,Halmstad",Grötviks Segelsällskap,,,,,,2012/country/sweden/2012-09-07.nordic-championship-and-swedish-class-championship.grotvik-halmstad.SWE.csv,National,,SWE
@@ -500,6 +503,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2013-08-28,2013-08-28,Shoreham Open,,4,5,Shoreham-by-Sea,Shoreham Sailing Club,,,,,,2013/country/uk/2013-08-28.shoreham-open.shoreham-by-sea.GBR.csv,,,GBR
 2013-08-28,2013-08-29,Canadian Championship,,8,8,"Toronto,ON",Outer Harbour Centreboard Club,,,,,,2013/country/canada/2013-08-29.canadian-championship.toronto.CAN.csv,National,,CAN
 2013-08-28,2013-09-01,European Championship,,9,89,Medemblik,,,,,,,2013/continental/2013-09-01.european-championship.medemblik.NED.csv,"Continental,Europe",,NED
+2013-08-29,2013-08-30,Harboe Cup,,10,5,Skælskør,Skælskør Amatør-Sejlklub,,,,,,2013/country/denmark/2013-08-30.harboe.cup.skerlskor.DEN.csv,,,DEN
 2013-09-06,2013-09-08,Mistrzostwa Polski,Polish Championship,11,19,Kamień Pomorski,,,,,,,2013/country/poland/2013-09-08-mistrzostwa-polski.csv,"National, Polish Cup",Zalew Kamieński,POL
 2013-09-14,2013-09-14,Svenskt Mästerskap,Swedish Championship,5,20,Segelsällskapet Viken-Ägir,Segelsällskapet Åmålsviken,,,,,,2013/country/sweden/2013-09-15-sweden-championship.viken-agir.SWE.csv,National,,SWE
 2013-09-14,2013-09-15,Dale Jepsen One-Design Regatta,,8,12,"Bellingham,WA,USA",Bellingham Yacht Club,,Mick Corcoran,,,,2013/country/usa/2013-09-15.dale-jepsen-one-design-regatta.bellingham-wa.USA.csv,,,USA
@@ -562,6 +566,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2015-09-12,2015-09-13,Ranking Tampere,,8,6,,,,,,,,2015/country/finland/2015-09-13.ranking-tampere.FIN.csv,,,FIN
 2015-09-19,2015-09-20,Dale Jepsen One-Design Regatta,,6,17,"Bellingham,WA,USA",Bellingham Yacht Club,,,,,,2015/country/usa/2015-09-20.dale-jepsen-one-design-regatta.bellingham-wa.USA.csv,,,USA
 2015-10-02,2015-10-04,Adonite Swiss Open,,6,26,Estavayer,Cercle de la Voile d'Estavayer,,,,,,2015/country/switzerland/2015-10-04.adonite-swiss-open.estavayer.SUI.csv,National,,SUI
+2015-10-09,2015-10-10,KKKK Höstregatta,,3,6,Kullavik,,,,,,,2015/country/sweden/2015-10-10.kkkk-hostregatta.kullavik.SWE.csv,,,SWE
 2015-10-10,2015-10-11,Heineken High Performance Dinghy Open,,7,14,"Rye, NY",American Yacht Club,,,,,,2015/country/usa/2015-10-11.heineken-high-performance-dinghy-open.rye-ny.USA.csv,,,USA
 2015-10-17,2015-10-18,Regaty Zakończenia Sezonu,Season ending regatta,3,9,"Warszawa,POL",,,,,,,2015/country/poland/2015-10-18-zegrze.csv,Polish Cup,Zalew Zegrzyński,POL
 2015-10-31,2015-11-01,505 Open,,2,9,Slough,Datchet Water Sailing Club,,,,,,2015/country/uk/2015-11-01.505-open.slough.GBR.csv,,,GBR
@@ -594,12 +599,14 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2016-09-09,2016-09-11,Mistrzostwa Polski,Polish Championship,3,20,"Zalew Wiślany,POL",,,,,,,2016/country/poland/2016-09-11-mistrzostwa-polski.csv,National,,POL
 2016-09-17,2016-09-18,Dale Jepsen One-Design Regatta,,6,21,"Bellingham,WA,USA",Bellingham Yacht Club,,,,,,2016/country/usa/2016-09-18.dale-jepsen-one-design-regatta.bellingham-wa.USA.csv,,,USA
 2016-09-24,2016-09-25,Oktoberfestpreis,,5,11,"Tutzing,GER",Deutscher Touring Yacht-Club e.V.,Christl Hauger,Barbara Stodal,,,,2016/country/germany/2016-09-25-oktoberfestpreis.tutzing.GER.csv,,,GER
+2016-10-07,2016-10-08,KKKK Höstregatta,,4,6,Kullavik,,,,,,,2016/country/sweden/2016-10-08.kkkk-hostregatta.kullavik.SWE.csv,,,SWE
 2016-10-07,2016-10-09,Heineken High Performance Dinghy Open,,7,11,"Rye, NY",American Yacht Club,,,,,,2016/country/usa/2016-10-09.heineken-high-performance-dinghy-open.rye-ny.USA.csv,,,USA
 2016-10-07,2016-10-09,Region One Championship,,7,11,"Rye, NY",American Yacht Club,,,,,,2016/country/usa/2016-10-09.region-one-championship.rye-ny.csv,,,USA
 2016-10-08,2016-10-09,Regaty Zakończenia Sezonu,Season ending regatta,4,11,"Warszawa,POL",Sztorm Grupa,,,,,,2016/country/poland/2016-10-09-regaty-zakonczenia-sezonu.csv,Polish Cup,,POL
 2016-10-15,2016-10-16,Joachim Hunger Gedächtnispreis,,5,16,"Berlin,GER",Berliner Yacht-Club e.V.,,,,,,2016/country/germany/2016-10-16-joachim-hunger-gedachtnispreis.berlin.GER.csv,,,GER
 2016-10-15,2016-10-16,Puget Sound Sailing Championship,,10,12,"Seattle, WA",Corinthian Yacht Club of Seattle,,,,,,2016/country/usa/2016-10-16.puget-sound-sailing-championship.seattle-wa.USA.csv,,,USA
 2016-11-21,2016-11-22,Ovington Inlands,,6,9,Huntingdon,Grafham Water Sailing Club Limited,,,,,,2016/country/uk/2016-11-22.ovington.inlands.huntingdon.GBR.csv,,,GBR
+2017-01-01,2017-01-01,Sail Fremantle Regatta,,8,5,"Freemantle, WA",Fremantle Sailing Club,,,,,,2017/country/australia/2017.sail-fremantle-regatta.freemantle-wa.AUS.csv,,,AUS
 2017-01-01,2017-01-01,South African National Championship,,5,9,Durban,,,,,,,2017/country/south-africa/2017.south-african-national-championship.durban.RSA.csv,National,,RSA
 2017-04-15,2017-04-17,Coupe des vrais bateaux,,11,31,Anse de la Picarde,Club Nautique Haute Seine,,,,,,2017/country/france/2017-04-17.coupe-des-vrais-bateaux.anse-de-la-picarde.FRA.csv,,,FRA
 2017-05-05,2017-05-06,505 Open,,0,13,,Isle of Sheppey SC,,,,,,2017/country/uk/2017-05-06.505-open.GBR.csv,,,GBR
@@ -623,11 +630,13 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2017-09-15,2017-09-17,Swiss Open Alpnachersee,,9,12,Stansstad,Wassersportclub Obwalden,,,,,,2017/country/switzerland/2017-09-17-swiss-open-alpnachersee.stansstad.SUI.csv,National,,SUI
 2017-09-16,2017-09-17,Oktoberfestpreis,,3,10,Tutzing,Deutscher Touring Yacht-Club e.V.,Michael Lohner,Friedrich Hauger,,,,2017/country/germany/2017-09-17.oktoberfestpreis.tutzing.GER.csv,,,GER
 2017-09-20,2017-09-29,World Championship,,8,87,"Annapolis,MD",Severn Sailing Association / Eastport Yacht Club,,Walter Mielke (Ger),,,,2017/world/2017-09-29-world-championship-annapolis.csv,World,,USA
+2017-10-13,2017-10-14,KKKK Höstregatta,,4,8,Kullavik,,,,,,,2017/country/sweden/2017-10-14.kkkk-hostregatta.kullavik.SWE.csv,,,SWE
 2017-10-21,2017-10-22,Joachim Hunger Gedächtnispreis,,4,20,"Berlin,GER",Berliner Yacht-Club e.V.,Robert Niemczewski,Gernot Schreiber,,,,2017/country/germany/2017-10-22-joachim-hunger-gedachtnis-preis-berlin-GER.csv,,,GER
 2017-11-10,2017-11-11,North Vaal Championship,,6,10,Deneysville,Lake Deneys Yacht Club,,,,,,2017/country/south-africa/2017-11-11.northvaal-championship.deneysville.RSA.csv,,,RSA
 2017-11-17,2017-11-18,Inlands,,8,14,Huntingdon,Grafham Water Sailing Club Limited,,,,,,2017/country/uk/2017-11-18.inlands.huntingdon.GBR.csv,,,GBR
 2018-01-13,2018-01-19,Australian Championship,,9,40,,Work'N'Store / Ronstan Australian Titles,,,,,,2018/country/australia/2018-01-19.australian-championship.AUS.csv,National,,AUS
 2018-01-26,2018-01-28,Florida Midwinter,,10,9,"Clearwater, FL, USA",Clearwater Community Sailing Center,,,,,,2018/country/usa/2018-01-28.florida-midwinter.clearwater.USA.csv,,,USA
+2018-02-22,2018-02-23,Midwinters Regatta ABYC,,7,2,"Long Beach, CA",Alamitos Bay Yacht Club,,,,,,2018/country/usa/2018-02-23.midwinter-regatta.long-beach-ca.USA.csv,,,USA
 2018-03-30,2018-04-01,Cannes,,7,38,Cannes,Yacht club de Cannes,,,,,,2018/country/france/2018-04-01.euro-cup.cannes.FRA.csv,Euro Cup,Mediterranean Sea,FRA
 2018-04-14,2018-04-15,Coupe des vrais bateaux,,4,24,"Anse de la Picarde, FRA",Club Nautique Haute Seine,,,,,,2018/country/france/2018-04-15.coupe-des-vrais-bateaux.anse-de-la-picarde.FRA.csv,,,FRA
 2018-04-26,2018-04-29,UK National Championship,,8,27,Whitstable,Whitstable Yacht Club,,,,,,2018/country/uk/2018-04-29-uk-national-championship-whitstable.GBR.csv,National,,GBR
@@ -661,6 +670,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2018-09-28,2018-09-29,Ontario Championships,,8,5,"Toronto,ON",,,,,,,2018/country/canada/2018-09-29.ontario-championships.toronto.CAN.csv,,,CAN
 2018-09-28,2018-09-30,Hayling Island,,7,28,Hayling Island,Hayling Island Sailing Club,,,,,,2018/country/uk/2018-09-30-euro-cup-hayling-island-GBR.csv,Euro Cup,,GBR
 2018-09-29,2018-09-30,Oktoberfestpreis,,5,10,"Tutzing,GER",Deutscher Touring Yacht-Club e.V.,Christel Hauger,Friedrich Hauger,,,,2018/country/germany/2018-09-30.oktoberfestpreis.tutzing.GER.csv,,,GER
+2018-10-13,2018-10-14,KKKK Höstregatta,,4,11,Kullavik,,,,,,,2018/country/sweden/2018-10-14.kkkk-hostregatta.kullavik.SWE.csv,,,SWE
 2018-10-13,2019-04-13,BSYC Consistency,,15,10,"Seacliff,SA",Brighton & Seacliff Yacht Club,,,,,,2019/country/australia/2019-04-13.bsyc-consistency.seacliff-sa.AUS.csv,,,AUS
 2018-10-19,2018-10-21,East Coast Championships & Pumpkin Patch Regatta,,9,24,"Galesville, MD",West River Sailing Club,,,,,,2018/country/usa/2018-10-21.east-coast-championships-pumpkin-patch-regatta.galesville-md.USA.csv,,,USA
 2018-10-20,2018-10-21,Joachim Hunger Gedächtnispreis,,4,20,"Berlin,GER",Berliner Yacht-Club e.V.,,,,,,2018/country/germany/2018-10-21.joachim-hunger-gedachtnispreis.berlin.GER.csv,,,GER
@@ -725,16 +735,6 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2020-08-14,2020-08-16,TPS Airisto Regatta,,6,7,"Ruissalo,Turku",Turun Pursiseura - Turku Yacht Club,,,,,,2020/country/finland/2020-08-16.tps-airisto-regatta.ruissalo-turku.FIN.csv,,,FIN
 2020-08-22,2020-08-23,Svenskt Mästerskap,Swedish Championship,5,30,Vejbystrand,,,,,,,2020/country/sweden/2020-08-23-sweden-championship.vejbystrand.SWE.csv,National,,SWE
 2020-09-05,2020-09-06,Puchar Pucka,Puck Cup,7,10,"Puck,POL",,,,,,,2020/country/poland/2020-09-06.puchar-polski.puck.POL.csv,Polish Cup,Zatoka Pucka,POL
-2018-10-13,2018-10-14,KKKK Höstregatta,,4,11,Kullavik,,,,,,,2018/country/sweden/2018-10-14.kkkk-hostregatta.kullavik.SWE.csv,,,SWE
-2013-08-29,2013-08-30,Harboe Cup,,10,5,Skælskør,Skælskør Amatør-Sejlklub,,,,,,2013/country/denmark/2013-08-30.harboe.cup.skerlskor.DEN.csv,,,DEN
-2011-06-04,2011-06-05,Jericho Classic,,8,4,"Vancouver, BC",Jericho Sailing Centre,,,,,,2011/country/canada/2011-06-05.jericho-classic.vancouver-bc.CAN.csv,,,CAN
-2012-08-29,2012-08-30,Harboe Cup,,10,5,Skælskør,Skælskør Amatør-Sejlklub,,,,,,2012/country/denmark/2012-08-30.harboe.cup.skerlskor.DEN.csv,,,DEN
-2011-08-24,2011-08-25,Harboe Cup,,8,5,Skælskør,Skælskør Amatør-Sejlklub,,,,,,2011/country/denmark/2011-08-25.harboe.cup.skerlskor.DEN.csv,,,DEN
-2017-10-13,2017-10-14,KKKK Höstregatta,,4,8,Kullavik,,,,,,,2017/country/sweden/2017-10-14.kkkk-hostregatta.kullavik.SWE.csv,,,SWE
-2018-02-22,2018-02-23,Midwinters Regatta ABYC,,7,2,"Long Beach, CA",Alamitos Bay Yacht Club,,,,,,2018/country/usa/2018-02-23.midwinter-regatta.long-beach-ca.USA.csv,,,USA
-2017-01-01,2017-01-01,Sail Fremantle Regatta,,8,5,"Freemantle, WA",Fremantle Sailing Club,,,,,,2017/country/australia/2017.sail-fremantle-regatta.freemantle-wa.AUS.csv,,,AUS
-2015-10-09,2015-10-10,KKKK Höstregatta,,3,6,Kullavik,,,,,,,2015/country/sweden/2015-10-10.kkkk-hostregatta.kullavik.SWE.csv,,,SWE
-2016-10-07,2016-10-08,KKKK Höstregatta,,4,6,Kullavik,,,,,,,2016/country/sweden/2016-10-08.kkkk-hostregatta.kullavik.SWE.csv,,,SWE
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
