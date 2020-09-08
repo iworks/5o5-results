@@ -248,7 +248,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2000-06-01,2000-06-04,Riva Cup,,7,53,Riva del Garda,Fraglia Vela Riva,,,,,,2000/country/italy/2000-06-04.riva-cup.riva-del-garda.ITA.csv,Euro Cup,Riva Del Garda,ITA
 2000-06-03,2000-06-04,Short Course Championship,,6,17,Southminster,Stone Sailing Club,,,,,,2000/country/uk/2000-06-04.short-course-championships.southminster.GBR.csv,,,GBR
 2000-06-17,2000-06-18,New England Championship,,6,14,"Cape Cod, MA",Falmouth Yacht Club,,,,,,2000/country/usa/2000-07-18.new-england-championship.cape-cod-ma.USA.csv,,,USA
-2000-06-19,2000-06-22,Kieler Woche,,5,44,"Olympia Zentrum,Kiel-Schilksee",Kieler Yacht-Club e.V.,,,,,,2000/country/germany/2000-06-22-kieler-woche.kiel.GER.csv,Euro Cup,,GER
+2000-06-19,2000-06-22,Kieler Woche,Kiel Week,5,44,"Olympia Zentrum,Kiel-Schilksee",Kieler Yacht-Club e.V.,,,,,,2000/country/germany/2000-06-22-kieler-woche.kiel.GER.csv,Euro Cup,,GER
 2000-06-24,2000-06-25,Lee-on-Solent Open,,2,11,Lee-on-the-Solent,,,,,,,2000/country/uk/2000-06-25-open-meeting-lee-on-the-solent.GBR.csv,,,GBR
 2000-06-25,2000-06-27,Nieuwpoort,,8,19,Nieuwpoort,Yacht Club WSKLuM vzw,,,,,,2000/country/belgium/2000-06-27-nieuwpoort.BEL.csv,Euro Cup,,BEL
 2000-07-08,2000-07-09,South East Championships,,5,19,Hayling Island,Hayling Island Sailing Club,,,,,,2000/country/uk/2000-07-09-open-meeting-hayling-island-GBR.csv,,,GBR
@@ -368,7 +368,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2007-04-06,2007-09-01,EuroCup Ranking,,4,145,Europe,,,,,,Saint Raphaël • Riva del Garda • Kille Woche • Sopot,2007/continental/2007.euro-cup.csv,Euro Cup,,
 2007-04-21,2007-04-22,Inland Championship,,5,6,Derby,Burton Sailing Club,,,,,,2007/country/uk/2007-04-22.inland-championships.derby.GBR.csv,,,GBR
 2007-05-17,2007-05-19,Riva Cup,,,47,Riva del Garda,,,,,,,2007/country/italy/2007-05-19.euro-cup.riva-del-garda-ITA.csv,Euro Cup,Riva Del Garda,ITA
-2007-06-20,2007-06-24,Kieler Woche,,8,54,Kiel,Kieler Yacht-Club e.V.,,,,,,2007/country/germany/2007-06-24-kieler-woche.kiel.GER.csv,Euro Cup,,GER
+2007-06-20,2007-06-24,Kieler Woche,Kiel Week,8,54,"Olympia Zentrum,Kiel-Schilksee",Kieler Yacht-Club e.V.,,,,,,2007/country/germany/2007-06-24-kieler-woche.kiel.GER.csv,Euro Cup,,GER
 2007-07-07,2007-07-09,Nord Cup,,3,7,Górki Zachodnie,,,,,,,2007/country/poland/2007-06-10-nord-cup.csv,Polish Cup,Zatoka Gdańska,POL
 2007-07-10,2007-07-14,UK National Championship,,5,30,Abersoch,South Caernarvonshire YC,,,,,,2007/country/uk/2007-07-14-national-championship.GBR.csv,National,,GBR
 2007-07-21,2007-07-29,Travemünder Woche,,8,14,Travemünde,Lübecker Yacht-Club e.V.,,,,,118. Travemünder Woche,2007/country/germany/2007-07-29.travemunder-woche.travemunde.GER.csv,,,GER
@@ -427,7 +427,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2010-01-10,2010-01-16,Australian Championship,,9,25,"McCrae,VIC",,,,,,,2010/country/australia/2010-01-16.australian-championship.mccrae.vic.AUS.csv,National,,AUS
 2010-03-27,2010-03-28,Coupe des vrais bateaux,,7,35,Lusigny-sur-Barse,Club Nautique Haute Seine,Jean Pierre Salou,Jacques Terrasson,,,,2010/country/france/2010-03-28.coupe-des-vrais-bateaux.lusigny-sur-barse.FRA.csv,,,FRA
 2010-04-01,2010-04-01,Cannes,,6,71,Cannes,Yacht club de Cannes,,,,,,2010/country/france/2010-04-01.euro-cup.cannes.FRA.csv,Euro Cup,Mediterranean Sea,FRA
-2010-06-24,2010-06-27,Kieler Woche,,7,56,Kiel,Kieler Yacht-Club e.V.,,,,,,2010/country/germany/2010-06-27.euro-cup.kieler-woche.kiel.GER.csv,Euro Cup,,GER
+2010-06-24,2010-06-27,Kieler Woche,Kiel Week,7,56,"Olympia Zentrum,Kiel-Schilksee",Kieler Yacht-Club e.V.,,,,,,2010/country/germany/2010-06-27.euro-cup.kieler-woche.kiel.GER.csv,Euro Cup,,GER
 2010-06-24,2010-06-27,North American Championship,,10,23,"Chicago,IL",Chicago Yacht Club,,,,,,2010/continental/2010-06-27.north-american-championship.chicago.USA.csv,"Continental,North America",Lake Michigan,USA
 2010-07-03,2010-07-04,Helsinki Regatta,,6,14,Helsinki,,,,,,,2010/country/finland/2010-07-04.helsinki-regatta.helsinki.FIN.csv,,,FIN
 2010-07-03,2010-07-04,National Espoirs,,7,7,"Anse de la Picarde, FRA",Club Nautique Haute Seine,,,,,,2010/country/belgium/2010-07-04.national-espoirs.anse-de-la-picarde.FRA.csv,,,FRA
@@ -490,7 +490,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2013-05-25,2013-05-25,Otwarcie sezony,Season opening regatta,7,10,Gdynia,Yacht Klub Stal Gdynia,,,,,,2013/country/poland/2013-05-26-regaty-otwarcia-sezonu.csv,Polish Cup,Zatoka Gdańska,POL
 2013-06-08,2013-06-09,Culix Cup,,5,19,Glücksburg,Flensburger Segel-Club e.V.,,,,,XII. Culix Cup,2013/country/germany/2013-06-09-xii-culix-cup.flensburg-fjord-baltic-sea.GER.csv,,"Flensburg Fjord,Baltic Sea",GER
 2013-06-22,2013-06-23,Puchar Zbąszynia z okazji Dni Morza,Zbąszczyń Sea Days Cup,5,17,Zbąszyń,Zbąszyński Klub Żeglarski,,,,,,2013/country/poland/2013-06-23-puchar-zbaszynia.csv,Polish Cup,Jezioro Błędno,POL
-2013-06-22,2013-06-30,Kieler Woche,,10,46,"Olympia Zentrum,Kiel-Schilksee",Kieler Yacht-Club e.V.,,,,,,2013/country/germany/2013-06-30-kieler-woche.kiel.GER.csv,,,GER
+2013-06-22,2013-06-30,Kieler Woche,Kiel Week,10,46,"Olympia Zentrum,Kiel-Schilksee",Kieler Yacht-Club e.V.,,,,,,2013/country/germany/2013-06-30-kieler-woche.kiel.GER.csv,,,GER
 2013-06-29,2013-06-30,Helsinki Regatta,,8,17,Helsinki,,,,,,,2013/country/finland/2013-06-30.helsinki-regatta.helsinki.FIN.csv,,,FIN
 2013-07-05,2013-07-07,Pacific Coast Championshps,,12,16,"Vancouver,BC",Kitsilano Yacht Club,,,,,,2013/country/canada/2013-07-07.pacific-coast-championshps.vancouver-bc.CAN.csv,,,CAN
 2013-07-06,2013-07-07,Nord Cup,,6,11,Górki Zachodnie,Marina Galion,,,,,,2013/country/poland/2013-07-07-nord-cup.csv,Polish Cup,Zatoka Gdańska,POL
@@ -518,7 +518,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2014-05-21,2014-05-25,North American Championship,,9,40,Santa Cruz,Santa Cruz Yacht Club,,,,,,2014/continental/2014-05-25.north-american-championship.santa-cruz.USA.csv,"Continental,North America",,USA
 2014-06-07,2014-06-09,Young Europeans Sailing,,3,21,"Olympia Zentrum,Kiel-Schilksee",Kieler Yacht-Club e.V.,,,,,,2014/country/germany/2014-06-07-young-europeans-sailing.kiel-schilksee.GER.csv,,,GER
 2014-06-21,2014-06-22,Puchar Zbąszynia,Zbąszczyń Cup,6,16,Zbąszyń,Zbąszyński Klub Żeglarski,,,,,,2014/country/poland/2014-06-22-puchar-zbaszynia.csv,Polish Cup,Jezioro Błędno,POL
-2014-06-21,2014-06-29,Kieler Woche,,5,62,"Olympia Zentrum,Kiel-Schilksee",Kieler Yacht-Club e.V.,,,,,,2014/country/germany/2014-06-29-kieler-woche.kiel.GER.csv,Euro Cup,,GER
+2014-06-21,2014-06-29,Kieler Woche,Kiel Week,5,62,"Olympia Zentrum,Kiel-Schilksee",Kieler Yacht-Club e.V.,,,,,,2014/country/germany/2014-06-29-kieler-woche.kiel.GER.csv,Euro Cup,,GER
 2014-06-27,2014-06-28,Helsinki Regatta,,3,9,Helsinki,,,,,,,2014/country/finland/2014-06-28.helsinki-regatta.helsinki.FIN.csv,,,FIN
 2014-07-05,2014-07-06,Nord Cup,,6,15,Górki Zachodnie,Marina Galion,,,,,,2014/country/poland/2014-07-06-nordcup.csv,Polish Cup,Zatoka Gdańska,POL
 2014-07-11,2014-07-13,Canadian Championship,,8,14,"Vancouver,BC",Kitsilano Yacht Club,,,,,,2014/country/canada/2014-07-13.canadian-championship.vancouver.CAN.csv,National,,CAN
@@ -549,7 +549,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2015-06-05,2015-06-06,Wickford Regatta,,7,11,"North Kingstown, RI",Wickford Yacht Club,,,,,,2015/country/usa/2015-06-06.wickford-regatta.north-kingstown-ri.USA.csv,,Narragansett Bay,USA
 2015-06-06,2015-06-07,Culix Cup,,4,19,"Flensburg Fjord,Baltic Sea,Glücksburg,GER",Flensburger Segel-Club e.V.,Claus Otto Hansen,Hajo Andresen,,,XIV. Culix Cup,2015/country/germany/2015-06-07-xiv-culix-cup.glucksburg.GER.csv,,,GER
 2015-06-20,2015-06-21,Regaty o Puchar Zbąszynia z okazji Dni Morza,Zbąszczyń Sea Days Cup,6,20,"Zbąszyń,POL",Zbąszyński Klub Żeglarski,,,,,,2015/country/poland/2015-06-21-zbaszyn.csv,Polish Cup,Jezioro Błędno,POL
-2015-06-20,2015-06-28,Kieler Woche,,10,39,"Olympia Zentrum,Kiel-Schilksee,GER",Kieler Yacht-Club e.V.,,,,,,2015/country/germany/2015-06-20-kieler-woche.kiel.GER.csv,Euro Cup,,GER
+2015-06-20,2015-06-28,Kieler Woche,Kiel Week,10,39,"Olympia Zentrum,Kiel-Schilksee",Kieler Yacht-Club e.V.,,,,,,2015/country/germany/2015-06-20-kieler-woche.kiel.GER.csv,Euro Cup,,GER
 2015-07-01,2015-07-03,Helsinki Regatta,,6,6,Helsinki,,,,,,,2015/country/finland/2015-07-03.helsinki-regatta.helsinki.FIN.csv,,,FIN
 2015-07-11,2015-07-15,Championnat de France,French Championship,10,42,La Rochelle,Club de voile à La Rochelle,Ikhlef Georges,Lorber Yves,,,,2015/country/france/2015-07-15.championnat-de-france.la-rochelle.FRA.csv,National,,FRA
 2015-07-17,2015-07-26,Travemünder Woche,,6,13,Travemünde,Lübecker Yacht-Club e.V.,Tina Buch,Andrus Pokis,,,126. Travemünder Woche,2015/country/germany/2015-07-28-126-travemunder-woche.travemunde.GER.csv,,,GER
@@ -581,7 +581,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2016-06-02,2016-06-05,North American Championship,,10,49,Bellingham Bay,Bellingham Yacht Club,John Pedlow,,,,,2016/continental/2016-06-05.north-american-championships.bellingham.csv,"Continental,North America",,USA
 2016-06-03,2016-06-03,Adonite Swiss Open,,3,16,Bevaix,Club Nautique de Bevaix,,,,,,2016/country/switzerland/2016-06-03.adonite-swiss-open.bevaix.SUI.csv,National,,SUI
 2016-06-04,2016-06-05,XV. Culix Cup,,3,22,"Flensburg Fjord,Baltic Sea,Glücksburg,GER",Flensburger Segel-Club e.V.,,,,,,2016/country/germany/2016-06-05-xiv-culix-cup.glucksburg.GER.csv,,,GER
-2016-06-18,2016-06-26,Kieler Woche,,11,50,"Olympia Zentrum,Kiel-Schilksee,GER",Kieler Yacht-Club e.V.,,,,,,2016/country/germany/2016-06-18-kieler-woche.kiel.GER.csv,Euro Cup,,GER
+2016-06-18,2016-06-26,Kieler Woche,Kiel Week,11,50,"Olympia Zentrum,Kiel-Schilksee",Kieler Yacht-Club e.V.,,,,,,2016/country/germany/2016-06-18-kieler-woche.kiel.GER.csv,Euro Cup,,GER
 2016-06-19,2016-06-20,NSC One Design,,5,9,Ottawa,Nepean Sailing Club,,,,,,2016/country/canada/2016-06-20.nsc-one-design.ottawa.CAN.csv,,,CAN
 2016-06-25,2016-06-26,Regaty o Puchar Zbąszynia z okazji Dni Morza,Zbąszczyń Sea Days Cup,5,11,"Zbąszyń,POL",Zbńszyński Klub Żeglarski,,,,,,2016/country/poland/2016-06-26-puchar-zbaszynia.csv,Polish Cup,Jezioro Błędno,POL
 2016-07-01,2016-07-03,Helsinki Regatta,,6,11,Helsinki,,,,,,,2016/country/finland/2016-07-03.helsinki-regatta.helsinki.FIN.csv,,,FIN
@@ -614,7 +614,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2017-05-25,2017-05-27,Riva Cup,,8,45,Riva del Garda,Fraglia Vela Riva,,,,,,2017/country/italy/2017-05-27.riva-cup.riva-del-garda.ITA.csv,Euro Cup,Riva Del Garda,ITA
 2017-06-03,2017-06-04,Pfingstwettfahrten,,4,23,Herrsching,Herrschinger Segelclub e.V.,Max Marcour,Fritz Kocourek,,,,2017/country/germany/2017-06-04-pfingstwettfahrten.herrsching.GER.csv,,,GER
 2017-06-14,2017-06-18,North American Championship,,9,25,"New Bedford,MA",Community Boating Center of New Bedford,,,,,,2017/continental/2017-07-18.north-american-championships.new-bedford.csv,"Continental,North America",,USA
-2017-06-17,2017-06-25,Kieler Woche,,11,38,"Olympia Zentrum,Kiel-Schilksee",Kieler Yacht-Club e.V.,,,,,,2017/country/germany/2017-06-17-kieler-woche.kiel.GER.csv,Euro Cup,,GER
+2017-06-17,2017-06-25,Kieler Woche,Kiel Week,11,38,"Olympia Zentrum,Kiel-Schilksee",Kieler Yacht-Club e.V.,,,,,,2017/country/germany/2017-06-17-kieler-woche.kiel.GER.csv,Euro Cup,,GER
 2017-06-30,2017-07-02,Helsinki Regatta,,3,8,Helsinki,,,,,,,2017/country/finland/2017-07-02.helsinki-regatta.helsinki.FIN.csv,,,FIN
 2017-07-05,2017-07-09,European Championship,,4,94,Warnemünde,Joersfelder Segel-Club e.V.,Svenja Ehrmann,Dr. Jörn-Christoph Jansen,,,,2017/continental/2017-07-08-european-championship-warnemunde.csv,"Continental,Europe,Euro Cup",,GER
 2017-07-07,2017-07-09,Newport Regatta,,6,7,"Newport, RI",Sail Newport,,,,,,2017/country/usa/2017-07-09.newport-regatta.newport-ri.USA.csv,,,USA
@@ -648,7 +648,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2018-05-19,2018-05-20,Regaty Otwarcia Sezonu,Season opening regatta,5,25,"Gdynia,POL",,,,,,,2018/country/poland/2018-05-18-gdynia.csv,Polish Cup,Zatoka Gdańska,POL
 2018-05-19,2018-05-21,Dansk Mesterskab,Danish Championship,10,21,Sønderborg,Sønderborg Yacht-Club,,,,,,2018/country/denmark/2018-05-21.danish-championship.sonderborg.DEN.csv,National,,DEN
 2018-06-16,2018-06-17,Puchar Burmistrza Krynicy Morskiej,Mayor of Krynica Morska Cup,3,19,"Krynica Morska,POL",,,,,,,2018/country/poland/2018-06-17-krynica.csv,Polish Cup,Zalew Wiślany,POL
-2018-06-16,2018-06-20,Kieler Woche,,11,36,Kiel,Kieler Yacht-Club e.V.,Nino Shmueli,Douglas Sloan,,,https://youtu.be/-PTzl5M5eLo,2018/country/germany/2018-06-20-kieler-woche.kiel.GER.csv,Euro Cup,,GER
+2018-06-16,2018-06-20,Kieler Woche,Kiel Week,11,36,"Olympia Zentrum,Kiel-Schilksee",Kieler Yacht-Club e.V.,Nino Shmueli,Douglas Sloan,,,https://youtu.be/-PTzl5M5eLo,2018/country/germany/2018-06-20-kieler-woche.kiel.GER.csv,Euro Cup,,GER
 2018-06-29,2018-07-01,Helsinki Regatta,,4,8,Helsinki,,,,,,,2018/country/finland/2018-07-01.helsinki-regatta.helsinki.FIN.csv,,,FIN
 2018-07-07,2018-07-08,Kitsilano Invitational Regatta,,8,8,"Vancouver,BC",Kitsilano Yacht Club,,,,,,2018/country/canada/2018-07-08.kitsilano-invitational-regatta.vancouver-bc.CAN.csv,,,CAN
 2018-07-07,2018-07-08,Newport Regatta,,8,9,"Newport, RI",Sail Newport,,,,,,2018/country/usa/2018-07-08.newport-regatta.newport-ri.USA.csv,,,USA
@@ -694,7 +694,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2019-06-08,2019-06-10,Pfingstwettfahrten,,2,16,"Herrsching a. Ammersee, GER",Herrschinger Segelclub e.V.,,,,,,2019/country/germany/2019-06-10.pfingstwettfahrten.herrsching-a-ammersee.GER.csv,,,GER
 2019-06-08,2019-06-10,Swiss Open Alpnachersee,,7,4,Alpnachstad,Wassersportclub Obwalden,,,,,,2019/country/switzerland/2019-06-10.swiss-open-alpnachersee.alpnachstad.SUI.csv,National,,SUI
 2019-06-15,2019-06-16,NSC One Design,,5,6,Ottawa,Nepean Sailing Club,,,,,,2019/country/canada/2019-06-16.nsc-one-design.ottawa.CAN.csv,,,CAN
-2019-06-22,2019-06-30,Kieler Woche,,11,30,"Olympia Zentrum,Kiel-Schilksee,GER",Kieler Yacht-Club e.V.,,,,,,2019/country/germany/2019-06-22-kieler-woche.kiel.GER.csv,Euro Cup,,GER
+2019-06-22,2019-06-30,Kieler Woche,Kiel Week,11,30,"Olympia Zentrum,Kiel-Schilksee",Kieler Yacht-Club e.V.,,,,,,2019/country/germany/2019-06-22-kieler-woche.kiel.GER.csv,Euro Cup,,GER
 2019-06-28,2019-06-30,Helsinki Regatta,,6,7,"Helsinki,FIN",,,,,,,2019/country/finland/2019-06-30.helsinki-regatta.helsinki.FIN.csv,,,FIN
 2019-06-29,2019-06-30,Lotos Nord Cup,,6,14,"Górki Zachodnie,POL",,,,,,,2019/country/poland/2019-06-30-lotos-nord-cup-gdansk.csv,Polish Cup,Zatoka Gdańska,POL
 2019-07-05,2019-07-07,Championnat de France,French Championship,7,38,Baie De Douarnenez,SR DOUARNENEZ,Bournot Eric,Vilain Patrick,,,,2019/country/france/2019-07-07-french-championship.baie-de-douarnenez.FRA.csv,National,,FRA
@@ -735,7 +735,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2020-08-14,2020-08-16,TPS Airisto Regatta,,6,7,"Ruissalo,Turku",Turun Pursiseura - Turku Yacht Club,,,,,,2020/country/finland/2020-08-16.tps-airisto-regatta.ruissalo-turku.FIN.csv,,,FIN
 2020-08-22,2020-08-23,Svenskt Mästerskap,Swedish Championship,5,30,Vejbystrand,,,,,,,2020/country/sweden/2020-08-23-sweden-championship.vejbystrand.SWE.csv,National,,SWE
 2020-09-05,2020-09-06,Puchar Pucka,Puck Cup,7,10,"Puck,POL",,,,,,,2020/country/poland/2020-09-06.puchar-polski.puck.POL.csv,Polish Cup,Zatoka Pucka,POL
-,,,,,,,,,,,,,,,,
+2020-09-05,2020-09-13,Kieler Woche,Kiel Week,11,27,"Olympia Zentrum,Kiel-Schilksee",Kieler Yacht-Club e.V.,Fabian Bach,Timo Haß,,,,2020/country/germany/2020-09-13.kieler-woche.kiel.GER.csv,Euro Cup,,GER
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
