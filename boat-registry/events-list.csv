@@ -200,12 +200,12 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 1999-05-13,1999-05-16,Riva Cup,,5,49,Riva del Garda,Fraglia Vela Riva,,,,,,1999/country/italy/1999-05-16.riva-cup.riva-del-garda.ITA.csv,Euro Cup,Riva Del Garda,ITA
 1999-05-15,1999-05-16,Hampton Trapeze,,5,6,"Hampton,VA",Hampton Yacht Club,,,,,,1999/country/usa/1999-05-16.hampton-trapeze.hampton-va.USA.csv,,,USA
 1999-05-15,1999-05-16,Hoover Spring Regatta,,10,7,"Westerville, OH",Hoover Reservoir,,,,,,1999/country/usa/1999-05-16.hoover-spring-regatta.columbus-oh.USA.csv,,Hoover Reservoir,USA
-1999-05-22,1999-05-22,Bristol Spring,,7,6,"Bristol, RI",Bristol Yacht Club,,,,,,1999/country/usa/1999-05-22.bristol-spring.bristol-ri.USA.csv,,,USA
+1999-05-22,1999-05-23,Bristol Spring,,7,6,"Bristol, RI",Bristol Yacht Club,,,,,,1999/country/usa/1999-05-23.bristol-spring.bristol-ri.USA.csv,,,USA
 1999-05-31,1999-06-04,North American Championship,,7,14,"Corpus Christi, TX",Corpus Christi Yacht Club,,Steve Tupper,,,,1999/continental/1999-06-04.north-american-championship.corpus-christi-tx.USA.csv,"Continental,North America",,USA
 1999-06-04,1999-06-06,Scandinavian Championship & Euro Cup,,6,20,Køge,,,,,,,1999/country/denmark/1999-06-06.euro-cup.scandinavian-championship.koge.DEN.csv,Euro Cup,,DEN
 1999-06-05,1999-06-06,Québec Championship,,7,9,"Vaudreuil-sur-le-Lac, QC",Club Nautique Deux-Montagnes,,,,,,1999/country/canada/1999-06-06.quebec-championship.vaudreuil-sur-le-lac-qc.CAN.csv,,,CAN
 1999-06-06,1999-06-06,One Day Open Meeting,,4,11,Ashford,Queen Mary Sailing Club,,,,,,1999/country/uk/1999-06-06.one-day-open-meeting.ashford.GBR.csv,,,GBR
-1999-06-12,1999-06-13,Canadian Championship,,5,18,"Kingston,ON",Kingston Yacht Club,,,,,,1999/country/canada/1999-06-13.canadian-championship.kingston.CAN.csv,National,English Bay,CAN
+1999-06-11,1999-06-13,Canadian Championship,,5,18,"Kingston,ON",Kingston Yacht Club,,,,,,1999/country/canada/1999-06-13.canadian-championship.kingston.CAN.csv,National,English Bay,CAN
 1999-06-12,1999-06-13,Short Course Championship,,6,20,Weymouth,Weymouth Sailing Centre,,,,,,1999/country/uk/1999-06-13.short-course-championship.weymouth.GBR.csv,,,GBR
 1999-06-19,1999-06-20,Nepean One Design,,7,8,"Ottawa, ON",Nepean Sailing Club,,,,,,1999/country/canada/1999-06-20.nepean-one-design.ottawa.CAN.csv,,,CAN
 1999-06-25,1999-06-27,Nieuwpoort,,9,16,Nieuwpoort,,,,,,,1999/country/belgium/1999-06-27.europa-cup.nieuwpoort.BEL.csv,Euro Cup,,BEL
@@ -738,10 +738,10 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2020-09-05,2020-09-06,Puchar Pucka,Puck Cup,7,10,"Puck,POL",,,,,,,2020/country/poland/2020-09-06.puchar-polski.puck.POL.csv,Polish Cup,Zatoka Pucka,POL
 2020-09-05,2020-09-13,Kieler Woche,Kiel Week,11,27,"Olympia Zentrum,Kiel-Schilksee",Kieler Yacht-Club e.V.,Fabian Bach,Timo Haß,,,,2020/country/germany/2020-09-13.kieler-woche.kiel.GER.csv,Euro Cup,,GER
 2008-03-15,2008-03-15,Ventimiglia,,,7,Ventimiglia,Circolo Velico Ventimigliese,,,,,,2008/country/italy/2008-03-15.ventimiglia.ITA.csv,,,ITA
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
+2008-10-30,2008-11-02,Grand Prix de l'Armistice,Grand Prix of the Armistice,8,21,Carcans,Cercle de la Voile de Bordeaux,,,,,39’ Grand Prix de l'Armistice,2008/country/france/2008-11-02.grand-prix-de-l-armistice.carcans.FRA.csv,,,FRA
+2009-10-29,2009-11-01,Grand Prix de l'Armistice,Grand Prix of the Armistice,4,35,Carcans,Cercle de la Voile de Bordeaux,,,,,40’ Grand Prix de l'Armistice,2009/country/france/2009-11-01.grand-prix-de-l-armistice.carcans.FRA.csv,,,FRA
+2014-10-30,2014-11-02,Grand Prix de l'Armistice,Grand Prix of the Armistice,7,15,Carcans,Cercle de la Voile de Bordeaux,,,,,45’ Grand Prix de l'Armistice,2014/country/france/2014-11-02.grand-prix-de-l-armistice.carcans.FRA.csv,,,FRA
+2010-10-29,2010-11-01,Grand Prix de l'Armistice,Grand Prix of the Armistice,7,27,Carcans,Cercle de la Voile de Bordeaux,,,,,41’ Grand Prix de l'Armistice,2010/country/france/2010-11-01.grand-prix-de-l-armistice.carcans.FRA.csv,,,FRA
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,

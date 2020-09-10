@@ -179,8 +179,8 @@ if ( $import_registry && ( $handle = fopen( $import_file_name, 'r' ) ) !== false
 	$counter = 0;
 	while ( ( $data = fgetcsv( $handle, 0, ',' ) ) !== false ) {
 		if ( 1 > intval( $data[0] ) ) {
-            int505_echo_dot( $counter, 'fail' );
-            $counter++;
+			int505_echo_dot( $counter, 'fail' );
+			$counter++;
 			continue;
 		}
 		$post = get_page_by_title( $data[0], OBJECT, $boat_post_type_name );
@@ -632,6 +632,7 @@ if ( $import_results && ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false 
 				$test = preg_replace( '/&#8211;/', '-', get_the_title( $post_ID ) );
 				$test = preg_replace( '/&amp;/', '&', $test );
 				$test = preg_replace( '/&nbsp;/', ' ', $test );
+				$test = preg_replace( '/&#8217;/', '\'', $test );
 				if ( $test === $post_title ) {
 					if ( $debug ) {
 						echo 'SKIP: ',date( 'y-m-d', $iworks_fleet_result_date_start ), ' ',$post_title,PHP_EOL;

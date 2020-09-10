@@ -1,5 +1,4 @@
 Nation,Name,Club,Description,Birth Date,email
-FRA,Virginie Laurent
 AUS,A. Martin,,,,
 AUS,Adam Brenz-Verca,,,,
 AUS,Adam Wyatt,,,,
@@ -261,13 +260,14 @@ AUT,Martin Schmidt
 AUT,Michael Mayrhofer
 BEL,Alain Mineur,,,,
 BEL,Alain Tosello
+BEL,Alban Viaud
 BEL,Bas Van Assche,,,,
 BEL,Casper Martens,,,,
 BEL,Cédric Crets,,,,
 BEL,Eric Defroimont
 BEL,Fabienne Boucau,,,,
 BEL,Frédéric Decocq,,,,
-BEL,Geert De Pauw,,,,
+BEL,Geert de Pauw,,,,
 BEL,Harald Van Exem
 BEL,Hemeldonck Van Emiel
 BEL,Jan Van Emiel
@@ -529,7 +529,7 @@ FRA,Anaelle Couvreux,,,,
 FRA,Anais Dechauffour,,,,
 FRA,Anais Pain,,,,
 FRA,Anna Marie de Kergariou,,,,
-FRA,Antoine De Nijs,,,,
+FRA,Antoine de Nijs,,,,
 FRA,Antoine Delagrange,,,,
 FRA,Antoine Lafortune,,,,
 FRA,Antoine Ratouis
@@ -588,7 +588,7 @@ FRA,D Doufier,,,,
 FRA,Damien Trouillet,,,,
 FRA,Damien Zucconi,,,,
 FRA,Daniel Wagner
-FRA,David De Monteil,,,,
+FRA,David de Monteil,,,,
 FRA,David Denis
 FRA.David Denis
 FRA,Delphine Markt
@@ -624,7 +624,7 @@ FRA,Franck Agrapart,,,,
 FRA,Franck Tudal
 FRA,Francois Caminade,,,,
 FRA,Francois Cuny
-FRA,Francois De Lisle,,,,
+FRA,Francois de Lisle,,,,
 FRA,François de Lisle,,,,
 FRA,Francois Fischer
 FRA,Francois Lafortune,,,,
@@ -645,7 +645,7 @@ FRA,Geoffroy Riot
 FRA,Gerard Daugey
 FRA,Gerard Tilly,,,,
 FRA,Geraud Lafortune,,,,
-FRA,Ghislain De Lafforest,,,,
+FRA,Ghislain de Lafforest,,,,
 FRA,Gilbert Vinches
 FRA,Gildas Sever
 FRA,Gilles Bernon,,,,
@@ -741,6 +741,7 @@ FRA,Marcel Buffet,,,,
 FRA,Marcel Troupel,,,,
 FRA,Marc-Henri Guitteny,,,,
 FRA,Marc-Martin Titouan
+FRA,Marie Agnes Catrix
 FRA,Marie Nowak,,,,
 FRA,Marine Delagrange,,,,
 FRA,Marion Michel,,,,
@@ -861,6 +862,7 @@ FRA,Véronique Dousselin
 FRA,Vincent le Morvan,,,,
 FRA,Vincent Sorel
 FRA,Virginie Auger
+FRA,Virginie Laurent
 FRA,Vivien Lucienne,,,,
 FRA,Wenceslas Dieuzy,,,,
 FRA,Will Froux
@@ -1543,6 +1545,7 @@ GER,Meike Schomäker,,,,
 GER,Melanie Kohlhoff-Horstmann
 GER,Melanie Oestergaard,,,,
 GER,Michael Daisenberger
+GER,Michael Daisenberger,,
 GER,Michael Eller,,,,
 GER,Michael Freitag,,,,
 GER,Michael Heyder,,,,
@@ -1558,7 +1561,6 @@ GER,Michael Schöefer,,,,
 GER,Michael Seeger,,,,
 GER,Michael Troch,,,,
 GER,Michaela Melzwig,,,,
-GER,Michael Daisenberger,,
 GER,Mitja Hettwer,,,,
 GER,Moritz Bohnenberger,,,,
 GER,Moritz Bruhns,,,,
@@ -1980,7 +1982,7 @@ RSA,Anthony Parker,,,,
 RSA,Anton Ellens,KZN,,,ellensa@pmburg.co.za
 RSA,Barry Hundley,,,,yestin@iafrica.com
 RSA,Belinda Fraser,,,,
-RSA,Ben De Klerk,,,,ben@rih.co.za
+RSA,Ben de Klerk,,,,ben@rih.co.za
 RSA,Bob Crisp,International Liaison,,,xanadu@icon.co.za
 RSA,Bobby Dutton,,,,duttons@lantic.co.za
 RSA,Brennan Robinson
