@@ -7,11 +7,19 @@ class iworks_5o5_upload_fixer {
 	private $sailors = array(
 		array(
 			'Achterberg' => 'Frieder Achterberg',
+			'Lanatowitz' => 'Arne Lanatowitz',
+		),
+		array(
+			'Achterberg' => 'Frieder Achterberg',
 			'Stückl'     => 'Wolfgang Stückl',
 		),
 		array(
 			'Achterberg' => 'Frieder Achterberg',
 			'Stueckl'    => 'Wolfgang Stückl',
+		),
+		array(
+			'Daisen' => 'Micki Daisenberger',
+			'Stückl' => 'Wolfgang Stückl',
 		),
 		array(
 			'Alexander' => 'Earle Alexander',
@@ -180,6 +188,10 @@ class iworks_5o5_upload_fixer {
 		array(
 			'Hamlin'  => 'Howard Hamlin',
 			'Rosenb.' => 'Steve Rosenberg',
+		),
+		array(
+			'Hamström'  => 'Jari Hamström',
+			'Miettinen' => 'Tatu Miettinen',
 		),
 		array(
 			'Hamström' => 'Jari Hamström',
@@ -2402,6 +2414,10 @@ class iworks_5o5_upload_fixer {
 			'Elovirta'   => 'Tapani Elovirta',
 		),
 		array(
+			'Peltoniemi' => 'Ari Peltoniemi',
+			'Kuosa'      => 'Jussi Kuosa',
+		),
+		array(
 			'Held'     => 'Thomas Held',
 			'Vennonen' => 'Timo Vennonen',
 		),
@@ -2424,6 +2440,26 @@ class iworks_5o5_upload_fixer {
 		array(
 			'Martonen' => 'Olle Martonen',
 			'Nylund'   => 'Mikael Nylund',
+		),
+		array(
+			'Ciferri' => 'Enrico Ciferri',
+			'Natali'  => 'Gabriele Natali',
+		),
+		array(
+			'Loce'     => 'Roberto Loce',
+			'Binacchi' => 'Antonio Binacchi',
+		),
+		array(
+			'Bohnenberge' => 'Moritz Bohnenberger',
+			'Bohringer'   => 'Bohringer',
+		),
+		array(
+			'Bohnenberger' => 'Moritz Bohnenberger',
+			'Wolffram'     => 'Wolffram',
+		),
+		array(
+			'Wilfried'            => 'Wilfried',
+			'Mascheroth-Brodwurm' => 'Pia Matscheroth-Brodwurm',
 		),
 		/*
 		array(
