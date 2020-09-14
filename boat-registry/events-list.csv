@@ -196,7 +196,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 1999-05-08,1999-05-08,Southern Areas,,6,35,Gosport,Stokes Bay Sailing Club,,,,,,1999/country/uk/1999-05-08.southern-areas.gosport.GBR.csv,,,GBR
 1999-05-08,1999-05-09,No Gas,,5,5,"Annapolis,MD",Severn Sailing Association,,,,,,1999/country/usa/1999-05-09.no-gas.annapolis-md.USA.csv,,,USA
 1999-05-08,1999-05-09,Richmond YC Spring Small Boat Invite,,6,10,"Richmond,CA",Richmond Yacht Club,,,,,,1999/country/usa/1999-05-09.richmond-yc-spring-small-boat-invite.richmond-ca.USA.csv,,,USA
-1999-05-13,1999-05-16,Grand Prix des Vins de Bordeaux,Grand Prix of Bordeaux Wines,10,32,Maubuisson,,,,,,,1999/country/france/1999-05-16.grand-prix-des-vins-de-bordeaux.maubuisson.FRA.csv,,,FRA
+1999-05-13,1999-05-16,Grand Prix des Vins de Bordeaux,Grand Prix of Bordeaux Wines,10,32,Carcans Maubuisson,Cercle de la Voile de Bordeaux,,,,,,1999/country/france/1999-05-16.grand-prix-des-vins-de-bordeaux.maubuisson.FRA.csv,,,FRA
 1999-05-13,1999-05-16,Riva Cup,,5,49,Riva del Garda,Fraglia Vela Riva,,,,,,1999/country/italy/1999-05-16.riva-cup.riva-del-garda.ITA.csv,Euro Cup,Riva Del Garda,ITA
 1999-05-15,1999-05-16,Hampton Trapeze,,5,6,"Hampton,VA",Hampton Yacht Club,,,,,,1999/country/usa/1999-05-16.hampton-trapeze.hampton-va.USA.csv,,,USA
 1999-05-15,1999-05-16,Hoover Spring Regatta,,10,7,"Westerville, OH",Hoover Reservoir,,,,,,1999/country/usa/1999-05-16.hoover-spring-regatta.columbus-oh.USA.csv,,Hoover Reservoir,USA
@@ -398,7 +398,6 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2008-09-13,2008-09-14,Régionale/HN,,6,13,Strasbourg,Aquatic Club d'Alsace Lorraine,,,,,,2008/country/france/2008-09-14.regionale-505-hn.strasbourg.FRA.csv,,,FRA
 2008-10-04,2008-10-09,European Championship,,6,69,Palermo,,,,,,,2008/continental/2008-10-09.european-championship.palermo.ITA.csv,"Continental,Europe,Euro Cup",,ITA
 2008-10-18,2008-10-19,Challenge Jacques Lebrun,,5,9,Les Mureaux,Cercle de la Voile de Paris,,,,,,2008/country/france/2008-10-19.challenge-jacques-lebrun.les-mureaux.FRA.csv,,,FRA
-2008-10-30,2008-11-02,Grand Prix de l'Armistice,Grand Prix of the Armistice,8,21,Carcans,Cercle de la Voile de Bordeaux,,,,,39’ Grand Prix de l'Armistice,2008/country/france/2008-11-02.grand-prix-de-l-armistice.carcans.FRA.csv,,,FRA
 2009-01-01,2009-12-31,EuroCup Ranking,,4,161,Europe,,,,,,"St Raphael • Riva del Garda • Aarhus • Europeans, Kiel",2009/continental/2009.euro-cup.csv,Euro Cup,,
 2009-01-23,2009-01-23,Ski Voile International,,3,27, Juan les Pins,Club Nautique d'Antibes,,,,,,2009/country/france/2009-01-23.skivoile-international.juan-les-pins.FRA.csv,,,FRA
 2009-01-24,2009-01-25,Charity Regatta,,5,10,Rietvlei,Pretoria Sailing Club,,,,,,2009/country/south-africa/2009-01-24.charity-regatta.rietvlei.RSA.csv,,,RSA
@@ -421,8 +420,9 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2009-09-18,2009-09-20,Mistrzostwa Polski,Polish Championship,8,10,Gdynia,,,,,,,2009/country/poland/2009-09-20.polish-championship.gdynia.POL.csv,"National, Polish Cup",Zatoka Gdańska,POL
 2009-09-19,2009-09-20,Dale Jepsen One-Design Regatta,,7,13,"Bellingham,WA,USA",Bellingham Yacht Club,Jamie Ashton,Michele Bodtke,,,,2009/country/usa/2009-09-20.dale-jepsen-one-design-regatta.bellingham-wa.USA.csv,,,USA
 2009-10-10,2009-10-11,Heineken High Performance Dinghy Open,,9,16,"Rye, NY",American Yacht Club,,,,,,2009/country/usa/2009-10-11.heineken-high-performance-dinghy-open.rye-ny.USA.csv,,,USA
-2009-10-29,2009-11-01,Grand Prix de l'Armistice,Grand Prix of the Armistice,4,35,Carcans,Cercle de la Voile de Bordeaux,,,,,40’ Grand Prix de l'Armistice,2009/country/france/2009-11-01.grand-prix-de-l-armistice.carcans.FRA.csv,,,FRA
+2009-10-29,2009-11-01,Grand Prix de l'Armistice,Grand Prix of the Armistice,4,35,Carcans Maubuisson,Cercle de la Voile de Bordeaux,,,,,40° Grand Prix de l'Armistice,2009/country/france/2009-11-01.grand-prix-de-l-armistice.carcans.FRA.csv,,,FRA
 2009-11-26,2009-11-27,Seattle One-design Centerboard and Keelboat Series,,8,10,"Seattle, WA",Seattle Yacht Club,,,,,,2009/country/usa/2009-11-27.seattle-one-design-centerboard-and-keelboat-series.seattle-wa.USA.csv,,,USA
+2010-01-01,2010-01-01,Andora,,4,,Andora,,,,,,,2010/country/italy/2010.andora.ITA.csv,,,ITA
 2010-01-01,2010-01-01,Charity Regatta,,6,9,Rietvlei,Pretoria Sailing Club,,,,,,2010/country/south-africa/2010.charity-regatta.rietvlei.RSA.csv,,,RSA
 2010-01-01,2010-01-01,North Vaal Championship,,9,9,Vaal Dam,Aeolians Club,,,,,,2010/country/south-africa/2010.north-vaal-championship.vaal-dam.RSA.csv,,,RSA
 2010-01-01,2010-01-01,South African National Championship,,12,14,Sterkfontein Dam,,,,,,,2010/country/south-africa/2010.south-african-national-championship.RSA.csv,National,,RSA
@@ -450,7 +450,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2010-09-04,2010-09-05,Klassmästerskap,,7,18,Torslanda,Björlanda Kile SS,,,,,,2010/country/sweden/2010-09-05.klm.SWE.csv,,,SWE
 2010-09-18,2010-09-19,Dale Jepsen One-Design Regatta,,6,11,"Bellingham,WA,USA",Bellingham Yacht Club,Jamie Ashton,Mick Corcoran,,,,2010/country/usa/2010-09-19.dale-jepsen-one-design-regatta.bellingham-wa.USA.csv,,,USA
 2010-10-09,2010-10-10,Heineken High Performance Dinghy Open,,8,17,"Rye, NY",American Yacht Club,,,,,,2010/country/usa/2010-10-10.heineken-high-performance-dinghy-open.rye-ny.USA.csv,,,USA
-2010-10-29,2010-11-01,Grand Prix de l'Armistice,Grand Prix of the Armistice,7,27,Carcans,Cercle de la Voile de Bordeaux,,,,,41’ Grand Prix de l'Armistice,2010/country/france/2010-11-01.grand-prix-de-l-armistice.carcans.FRA.csv,,,FRA
+2010-10-29,2010-11-01,Grand Prix de l'Armistice,Grand Prix of the Armistice,7,27,Carcans Maubuisson,Cercle de la Voile de Bordeaux,,,,,41° Grand Prix de l'Armistice,2010/country/france/2010-11-01.grand-prix-de-l-armistice.carcans.FRA.csv,,,FRA
 2011-01-01,2011-01-01,South African National Championship,,10,10,Richards Bay,Zululand Yacht Club,,,,,,2011/country/south-africa/2011.south-african-national-championship.RSA.csv,National,,RSA
 2011-01-31,2011-02-01,Charity Regatta,,4,6,Rietvlei,Pretoria Sailing Club,,,,,,2011/country/south-africa/2011-02-01.charity-regatta.rietvlei.RSA.csv,,,RSA
 2011-03-12,2011-03-13,Spring Dinghy,,5,4,"San Francisco, CA",St. Francis Yacht Club,,,,,,2011/country/usa/2011-03-13.spring-dinghy.san-francisco-ca.USA.csv,,,USA
@@ -468,6 +468,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2011-09-24,2011-09-25,Ontario Championship,,9,4,"Toronto,ON",Outer Harbour Centreboard Club,,,,,,2011/country/canada/2011-09-24.ontario-championship.toronto.CAN.csv,,,CAN
 2011-10-07,2011-10-09,Heineken High Performance Dinghy Open,,7,25,"Rye, NY",American Yacht Club,,,,,,2011/country/usa/2011-10-09.heineken-high-performance-dinghy-open.rye-ny.USA.csv,,,USA
 2011-10-12,2011-10-16,North American Championship,,10,32,"Rye, NY",American Yacht Club,,,,,,2011/continental/2011-10-16.north-american-championship.rye.USA.csv,"Continental,North America",,USA
+2011-10-29,2011-11-01,Grand Prix de l'Armistice,Grand Prix of the Armistice,6,38,Carcans Maubuisson,Cercle de la Voile de Bordeaux,,,,,42° Grand Prix de l'Armistice,2011/country/france/2011-11-01.grand-prix-de-l-armistice.carcans.FRA.csv,,,FRA
 2011-11-04,2011-11-05,Inlands,,5,20,,Northampton Sailing Club,,,,,,2011/country/uk/2011-11-05.inlands.GBR.csv,,,GBR
 2012-01-01,2012-01-01,South African National Championship,,9,16,Vaal Dam,Aeolians Club,,,,,,2012/country/south-africa/2012.south-african-national-championship.vaal-dam.RSA.csv,National,,RSA
 2012-01-01,2012-12-31,EuroCup Ranking,,4,112,Europe,,,,,,Cannes • Riva del Garda • Kiel • La Rochelle,2012/continental/2012.euro-cup.csv,Euro Cup,,
@@ -495,6 +496,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2013-02-22,2013-02-24,Midwinter Championship,,10,,,,,,,,,2013/country/usa/2013-02-24.midwinter-championship.USA.csv,,,USA
 2013-03-23,2013-03-24,Coupe Chassenay d’Arce des Vrais Bateaux,,6,23,,,Jean Pierre Salou,Jacques Terrasson,,,,2013/country/france/2013-03-24.coupe-chassenay-d-arce-des-vrais-bateaux.FRA.csv,,,FRA
 2013-04-22,2013-05-03,World Championship,,9,77,"Barbados,Bridgetown",,,,,,,2013/world/2013-05-03-world-championships-barbados.csv,World,,BAR
+2013-05-08,2013-05-11,Grand Prix des Vins de Bordeaux,Grand Prix of Bordeaux Wines,10,11,Carcans Maubuisson,Cercle de la Voile de Bordeaux,,,,,,2013/country/france/2013-05-11.grand-prix-des-vins-de-bordeaux.maubuisson.FRA.csv,,,FRA
 2013-05-18,2013-05-18,Young Europeans Sailing,,3,21,"Olympia Zentrum,Kiel-Schilksee",Kieler Yacht-Club e.V.,,,,,,2013/country/germany/2013-05-18-young-europeans-sailing.kiel-schilksee.GER.csv,,,GER
 2013-05-25,2013-05-25,Otwarcie sezony,Season opening regatta,7,10,Gdynia,Yacht Klub Stal Gdynia,,,,,,2013/country/poland/2013-05-26-regaty-otwarcia-sezonu.csv,Polish Cup,Zatoka Gdańska,POL
 2013-06-08,2013-06-09,Culix Cup,,5,19,Glücksburg,Flensburger Segel-Club e.V.,,,,,XII. Culix Cup,2013/country/germany/2013-06-09-xii-culix-cup.flensburg-fjord-baltic-sea.GER.csv,,"Flensburg Fjord,Baltic Sea",GER
@@ -518,6 +520,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2013-09-14,2013-09-15,Dale Jepsen One-Design Regatta,,8,12,"Bellingham,WA,USA",Bellingham Yacht Club,,Mick Corcoran,,,,2013/country/usa/2013-09-15.dale-jepsen-one-design-regatta.bellingham-wa.USA.csv,,,USA
 2013-10-12,2013-10-13,Heineken High Performance Dinghy Open,,5,14,"Rye, NY",American Yacht Club,,,,,,2013/country/usa/2013-10-13.heineken-high-performance-dinghy-open.rye-ny.USA.csv,,,USA
 2013-10-12,2013-10-13,Karvalakki,,12,7,Lohja,,,,,,,2013/country/finland/2013-10-13.karvalakki.lohja.FIN.csv,,,FIN
+2013-10-31,2013-11-03,Grand Prix de l'Armistice,Grand Prix of the Armistice,8,25,Carcans Maubuisson,Cercle de la Voile de Bordeaux,,,,,44° Grand Prix de l'Armistice,2013/country/france/2013-11-03.grand-prix-de-l-armistice.carcans.FRA.csv,,,FRA
 2014-01-01,2014-01-01,Southern Charter Grand Slam 1,,7,4,Mossel Bay,Mossel Bay Yacht & Boat Club,,,,,,2014/country/south-africa/2014.southern-charter-grand-slam-1.RSA.csv,,,RSA
 2014-02-21,2014-02-23,Midwinter Championship,,3,18,"St. Petersburg, FL",St. Petersburg Yacht Club,,,,,,2014/country/usa/2014-02-23.midwinter-championship.st-petersburg.USA.csv,,,USA
 2014-04-18,2014-04-21,South African National Championship,,8,8,Durban,Point Yacht Club,,,,,,2014/country/south-africa/2014-04-18.south-african-national-championship.durban.RSA.csv,National,,RSA
@@ -545,7 +548,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2014-09-19,2014-09-20,Dale Jepsen One-Design Regatta,,5,19,"Bellingham,WA",Bellingham Yacht Club,,Mick Corcoran,,,,2014/country/usa/2014-09-20.dale-jepsen-one-design-regatta.bellingham-wa.USA.csv,,,USA
 2014-10-11,2014-10-12,Heineken High Performance Dinghy Open,,8,14,"Rye, NY",American Yacht Club,,,,,,2014/country/usa/2014-10-12.heineken-high-performance-dinghy-open.rye-ny.USA.csv,,,USA
 2014-10-18,2014-10-19,Memoriał Macieja Szosta,Maciej Szost Memorial,6,16,Warszawa,Spójnia Warszawa,,,,,,2014/country/poland/2014-10-19-memorial-macieja-szosta-zegrze.csv,Polish Cup,Zalew Zegrzyński,POL
-2014-10-30,2014-11-02,Grand Prix de l'Armistice,Grand Prix of the Armistice,7,15,Carcans,Cercle de la Voile de Bordeaux,,,,,45’ Grand Prix de l'Armistice,2014/country/france/2014-11-02.grand-prix-de-l-armistice.carcans.FRA.csv,,,FRA
+2014-10-30,2014-11-02,Grand Prix de l'Armistice,Grand Prix of the Armistice,7,15,Carcans Maubuisson,Cercle de la Voile de Bordeaux,,,,,45° Grand Prix de l'Armistice,2014/country/france/2014-11-02.grand-prix-de-l-armistice.carcans.FRA.csv,,,FRA
 2014-12-06,2014-12-07,Southern Charter Grand Slam 2,,5,11,Villiersdorp,Theewater Sports Club,,,,,,2014/country/south-africa/2014-12-07.southern-charter-grand-slam.villiersdorp.RSA.csv,,,RSA
 2015-02-20,2015-02-22,Midwinter Championship,,6,14,"St. Petersburg, FL",St. Petersburg Yacht Club,,,,,,2015/country/usa/2015-02-22.midwinter-championship.st-petersburg.USA.csv,,,USA
 2015-03-07,2015-03-08,Spring Dinghy,,6,12,"San Francisco, USA",St. Francis Yacht Club,,,,,,2015/country/usa/2015-03-07.spring-dinghy-regatta.san-francisco.USA.csv,,,USA
@@ -580,6 +583,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2015-10-09,2015-10-10,KKKK Höstregatta,,3,6,Kullavik,,,,,,,2015/country/sweden/2015-10-10.kkkk-hostregatta.kullavik.SWE.csv,,,SWE
 2015-10-10,2015-10-11,Heineken High Performance Dinghy Open,,7,14,"Rye, NY",American Yacht Club,,,,,,2015/country/usa/2015-10-11.heineken-high-performance-dinghy-open.rye-ny.USA.csv,,,USA
 2015-10-17,2015-10-18,Regaty Zakończenia Sezonu,Season ending regatta,3,9,"Warszawa,POL",,,,,,,2015/country/poland/2015-10-18-zegrze.csv,Polish Cup,Zalew Zegrzyński,POL
+2015-10-22,2015-10-25,Grand Prix de l'Armistice,Grand Prix of the Armistice,7,19,Carcans Maubuisson,Cercle de la Voile de Bordeaux,,,,,46° Grand Prix de l'Armistice,2015/country/france/2015-10-25.grand-prix-de-l-armistice.carcans.FRA.csv,,,FRA
 2015-10-31,2015-11-01,505 Open,,2,9,Slough,Datchet Water Sailing Club,,,,,,2015/country/uk/2015-11-01.505-open.slough.GBR.csv,,,GBR
 2015-12-07,2015-12-08,Southern Charter Grand Slam 2,,6,5,Villiersdorp,Theewater Sports Club,,,,,,2015/country/south-africa/2015-12-08.southern-charter-grand-slam-2.villiersdorp.RSA.csv,,,RSA
 2016-02-25,2016-02-28,Florida Midwinter,,10,12,"Clearwater, FL, USA",Clearwater Community Sailing Center,,,,,,2016/country/usa/2016-02-28.florida-midwinter.clearwater.USA.csv,,,USA
@@ -643,6 +647,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2017-09-20,2017-09-29,World Championship,,8,87,"Annapolis,MD",Severn Sailing Association / Eastport Yacht Club,,Walter Mielke (Ger),,,,2017/world/2017-09-29-world-championship-annapolis.csv,World,,USA
 2017-10-13,2017-10-14,KKKK Höstregatta,,4,8,Kullavik,,,,,,,2017/country/sweden/2017-10-14.kkkk-hostregatta.kullavik.SWE.csv,,,SWE
 2017-10-21,2017-10-22,Joachim Hunger Gedächtnispreis,,4,20,"Berlin,GER",Berliner Yacht-Club e.V.,Robert Niemczewski,Gernot Schreiber,,,,2017/country/germany/2017-10-22-joachim-hunger-gedachtnis-preis-berlin-GER.csv,,,GER
+2017-10-28,2017-10-31,Grand Prix de l'Armistice,Grand Prix of the Armistice,7,15,Carcans Maubuisson,Cercle de la Voile de Bordeaux,,,,,48° Grand Prix de l'Armistice,2017/country/france/2017-10-31.grand-prix-de-l-armistice.carcans.FRA.csv,,,FRA
 2017-11-10,2017-11-11,North Vaal Championship,,6,10,Deneysville,Lake Deneys Yacht Club,,,,,,2017/country/south-africa/2017-11-11.northvaal-championship.deneysville.RSA.csv,,,RSA
 2017-11-17,2017-11-18,Inlands,,8,14,Huntingdon,Grafham Water Sailing Club Limited,,,,,,2017/country/uk/2017-11-18.inlands.huntingdon.GBR.csv,,,GBR
 2018-01-13,2018-01-19,Australian Championship,,9,40,,Work'N'Store / Ronstan Australian Titles,,,,,,2018/country/australia/2018-01-19.australian-championship.AUS.csv,National,,AUS
@@ -736,6 +741,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2019-10-19,2019-10-20,Berliner Meisterschaft,,4,20,"Berlin,GER",Verein Seglerhaus am Wannsee Berliner Segler-Verband e.V.,,,,,,2019/country/germany/2019-10-20-berlin-meistershaft.csv,,,GER
 2019-10-19,2019-10-20,Region Two Championship,,5,14,"West River,USA",West River Sailing Club and the Bay family,,,,,,2019/country/usa/2019-10-20-region-ii-championships.west-river.USA.csv,,,USA
 2019-10-26,2019-10-27,Sauncacup,,6,13,"Markkleeberg, GER",Cospudener Yacht Club Markkleeberg e.V.,,,,,,2019/country/germany/2019-10-27.sauncacup.markkleeberg.GER.csv,,,GER
+2019-11-01,2019-11-03,Grand Prix de l'Armistice,Grand Prix of the Armistice,4,18,Carcans Maubuisson,Cercle de la Voile de Bordeaux,,,,,50° Grand Prix de l'Armistice,2019/country/france/2019-11-03.grand-prix-de-l-armistice.carcans.FRA.csv,,,FRA
 2019-11-17,2020-03-22,SA State Heats 2019/2020,,10,16,,,,,,,,2020/country/australia/2020-03-22.sa-state-heats.AUS.csv,,,AUS
 2020-01-16,2020-01-21,Australian Championship,,8,33,Melbourne,Royal Brighton Yacht Club,,,,,,2020/country/australia/2020-01-21-australian-championship.melbourne.AUS.csv,National,,AUS
 2020-02-07,2020-02-09,Midwinter Championship,,8,16,"Clearwater,USA",Clearwater Community Sailing Center,,,,,,2020/country/usa/2020-02-09-midwinters.clearwater.USA.csv,,,USA
@@ -748,14 +754,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2020-08-22,2020-08-23,Svenskt Mästerskap,Swedish Championship,5,30,Vejbystrand,,,,,,,2020/country/sweden/2020-08-23-sweden-championship.vejbystrand.SWE.csv,National,,SWE
 2020-09-05,2020-09-06,Puchar Pucka,Puck Cup,7,10,"Puck,POL",,,,,,,2020/country/poland/2020-09-06.puchar-polski.puck.POL.csv,Polish Cup,Zatoka Pucka,POL
 2020-09-05,2020-09-13,Kieler Woche,Kiel Week,11,27,"Olympia Zentrum,Kiel-Schilksee",Kieler Yacht-Club e.V.,Fabian Bach,Timo Haß,,,,2020/country/germany/2020-09-13.kieler-woche.kiel.GER.csv,Euro Cup,,GER
-2010-01-01,2010-01-01,Andora,,4,,Andora,,,,,,,2010/country/italy/2010.andora.ITA.csv,,,ITA
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
+2020-09-12,2020-09-13,SWE CUP 2,,7,17,Torslanda,Björlanda Kile SS,,,,,,2020/country/sweden/2020-09-13.swe-cup-2.torslanda.SWE.csv,,,SWE
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
@@ -763,9 +762,9 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 ,,,,,,,,,,,,,,,,
 1900-01-01,,exit,exit,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
+2008-10-30,2008-11-02,Grand Prix de l'Armistice,Grand Prix of the Armistice,,,Carcans Maubuisson,Cercle de la Voile de Bordeaux,,,,,39° Grand Prix de l'Armistice,2008/country/france/2008-11-02.grand-prix-de-l-armistice.carcans.FRA.csv,,,FRA
 ,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
+2018-10-31,2018-11-03,Grand Prix de l'Armistice,Grand Prix of the Armistice,,,Carcans Maubuisson,Cercle de la Voile de Bordeaux,,,,,49° Grand Prix de l'Armistice,2018/country/france/2018-11-03.grand-prix-de-l-armistice.carcans.FRA.csv,,,FRA
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
@@ -946,3 +945,33 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2020-01-17,2020-01-21,Sail Melbourne,,,,Melbourne (AUS),,,,,,,,,,
 2020-08-13,2020-08-22,International 505 World Championship,,,,Torekov (SWE),,,,,,,,,,
 2020-09-18,2020-09-20,Canadian Championship,,,,"Kingston, Ontario (CAN)",,,,,,,,,,
+2020,28/10 - 01/11, Grand Prix de l'Armistice / Chpt de France, C V BORDEAUX C M, LAC DE CARCANS MAUBUISSON,,Carcans Maubuisson,Cercle de la Voile de Bordeaux,,,,,,,,,
+2018,31/10 - 04/11, 49° Grand Prix de l'Armistice, C V BORDEAUX C M, LAC DE CARCANS MAUBUISSON,,Carcans Maubuisson,Cercle de la Voile de Bordeaux,,,,,,,,,
+2017,28 - 31/10, 48 ième Grand Prix de l'Armistice, C V BORDEAUX C M, LAC DE CARCANS MAUBUISSON,,Carcans Maubuisson,Cercle de la Voile de Bordeaux,,,,,,,,,
+2014,08 - 11/05, Grand Prix des Vins de Bordeaux, C V BORDEAUX C M, LAC DE CARCANS MAUBUISSON,,Carcans Maubuisson,Cercle de la Voile de Bordeaux,,,,,,,,,
+2013,08 - 11/05, Grand Prix des Vins de Bordeaux, C V BORDEAUX C M, LAC DE CARCANS MAUBUISSON,,Carcans Maubuisson,Cercle de la Voile de Bordeaux,,,,,,,,,
+2012,01 - 04/11, 43 Gd Prix de l'Armistice - CF Class Tour Finn Et2, C V BORDEAUX C M, LAC DE CARCANS MAUBUISSON,,Carcans Maubuisson,Cercle de la Voile de Bordeaux,,,,,,,,,
+2011,20/11/11, Sélective de Ligue - Régate du Chateau, C N MIMIZAN VOILE, lac,,,,,,,,,,,,
+2011,29/10 - 01/11, 42° Grand Prix de l'Armistice, C V BORDEAUX C M, LAC DE CARCANS MAUBUISSON,,Carcans Maubuisson,Cercle de la Voile de Bordeaux,,,,,,,,,
+2010,05/12/10, Régate de Ligue au Château, C N MIMIZAN VOILE, LAC DE MIMIZAN AUREILHAN (340ha),,,,,,,,,,,,
+2009,29/10 - 01/11, 40è Grand Prix de l'Armistice, C V BORDEAUX C M, LAC DE CARCANS MAUBUISSON,,Carcans Maubuisson,Cercle de la Voile de Bordeaux,,,,,,,,,
+2008,30/10 - 02/11, 39° grand prix de l'armistice, C V BORDEAUX C M, LAC DE CARCANS MAUBUISSON,,Carcans Maubuisson,Cercle de la Voile de Bordeaux,,,,,,,,,
+2008,01 - 04/05, Championnats de France Dériveurs Quillards Sport, C V BORDEAUX C M, LAC DE CARCANS MAUBUISSON,,Carcans Maubuisson,Cercle de la Voile de Bordeaux,,,,,,,,,
+2007,01 - 04/11, 38° GRAND PRIX DE L'ARMISTICE, C V BORDEAUX C M, LAC DE CARCANS MAUBUISSON,,Carcans Maubuisson,Cercle de la Voile de Bordeaux,,,,,,,,,
+2007,17 - 20/05, CHAMPIONNAT DE FRANCE SENIOR DERIVEURS-QUILLARDS, C V BORDEAUX C M, LAC DE CARCANS MAUBUISSON,,Carcans Maubuisson,Cercle de la Voile de Bordeaux,,,,,,,,,
+2006,01 - 04/11, 37° GRAND PRIX DE L'ARMISTICE, C V BORDEAUX C M, LAC DE CARCANS MAUBUISSON,,Carcans Maubuisson,Cercle de la Voile de Bordeaux,,,,,,,,,
+2006,04 - 06/08, OPEN DE FRANCE, C N LOCTUDY, Baie de LOCTUDY,,,,,,,,,,,,
+2006,25 - 28/05, CHAMPIONNAT DE FRANCE SENIOR, C V BORDEAUX C M, LAC DE CARCANS MAUBUISSON,,Carcans Maubuisson,Cercle de la Voile de Bordeaux,,,,,,,,,
+2005,29/10 - 01/11, 36° grand prix de l'armistice, C V BORDEAUX C M, LAC DE CARCANS MAUBUISSON,,Carcans Maubuisson,Cercle de la Voile de Bordeaux,,,,,,,,,
+2005,09 - 11/09, national 505 inland, C N VASSIVIERE, VASSIVIERE EN LIMOUSIN,,,,,,,,,,,,
+2005,29 - 31/07, 10 ème OPEN de FRANCE, C N BISCARROSSE OLYM, LAC SUD BISCARROSSE,,,,,,,,,,,,
+2005,18 - 19/06, INTERLIGUE 505, C Y V PARELOUP, PLAN D,,,,,,,,,,,,
+2005,05 - 08/05, Championnat de France Séniors de Voile Légère, C V BORDEAUX C M, LAC DE CARCANS MAUBUISSON,,Carcans Maubuisson,Cercle de la Voile de Bordeaux,,,,,,,,,
+2004,11 - 14/11, 35° GRAND PRIX DE L'ARMISTICE, C V BORDEAUX C M, LAC DE CARCANS MAUBUISSON,,Carcans Maubuisson,Cercle de la Voile de Bordeaux,,,,,,,,,
+2004,30/07 - 01/08, OPEN DE FRANCE, YACHT CLUB BASQUE, BAIE DE SAINT JEAN DE LUZ,,,,,,,,,,,,
+2004,20 - 23/05, Chpt de France Voile Olympique et Sportive, YC La Grande Motte, BAIE D'AIGUES MORTES,,,,,,,,,,,,
+2003,08 - 11/11, GRAND PRIX DE L'ARMISTICE, C V BORDEAUX C M, LAC DE CARCANS MAUBUISSON,,Carcans Maubuisson,Cercle de la Voile de Bordeaux,,,,,,,,,
+2002,09 - 11/11, 33ième GRAND PRIX DE L'ARMISTICE, C V BORDEAUX C M, LAC DE CARCANS MAUBUISSON,,Carcans Maubuisson,Cercle de la Voile de Bordeaux,,,,,,,,,
+2002,08 - 11/05, COUPE CHATEAU CHARMAIL, C V BORDEAUX C M, LAC DE CARCANS MAUBUISSON,,Carcans Maubuisson,Cercle de la Voile de Bordeaux,,,,,,,,,
+2001,10 - 11/11, 32ème GRAND PRIX DE L'ARMISTICE, C V BORDEAUX C M, LAC DE CARCANS MAUBUISSON,,Carcans Maubuisson,Cercle de la Voile de Bordeaux,,,,,,,,,
+2001,11 - 14/07, COUPE INTERNATIONALE 505, C V BORDEAUX C M, MAUBUISSON,,Carcans Maubuisson,Cercle de la Voile de Bordeaux,,,,,,,,,
