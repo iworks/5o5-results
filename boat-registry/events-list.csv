@@ -755,14 +755,14 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2020-09-05,2020-09-06,Puchar Pucka,Puck Cup,7,10,"Puck,POL",,,,,,,2020/country/poland/2020-09-06.puchar-polski.puck.POL.csv,Polish Cup,Zatoka Pucka,POL
 2020-09-05,2020-09-13,Kieler Woche,Kiel Week,11,27,"Olympia Zentrum,Kiel-Schilksee",Kieler Yacht-Club e.V.,Fabian Bach,Timo Haß,,,,2020/country/germany/2020-09-13.kieler-woche.kiel.GER.csv,Euro Cup,,GER
 2020-09-12,2020-09-13,SWE CUP 2,,7,17,Torslanda,Björlanda Kile SS,,,,,,2020/country/sweden/2020-09-13.swe-cup-2.torslanda.SWE.csv,,,SWE
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
+2008-10-30,2008-11-02,Grand Prix de l'Armistice,Grand Prix of the Armistice,8,21,Carcans Maubuisson,Cercle de la Voile de Bordeaux,,,,,39° Grand Prix de l'Armistice,2008/country/france/2008-11-02.grand-prix-de-l-armistice.carcans.FRA.csv,,,FRA
+2007-11-01,2007-11-04,Grand Prix de l'Armistice,Grand Prix of the Armistice,10,31,Carcans Maubuisson,Cercle de la Voile de Bordeaux,,,,,38° Grand Prix de l'Armistice,2007/country/france/2007-11-04.grand-prix-de-l-armistice.carcans.FRA.csv,,,FRA
+2009-09-12,2009-09-13,Régate Interligue 505,,5,25,Le Havre,Sport Nautique et Plaisance du Havre,,,,,,2009/country/france/2009-09-13.regate-interligue-505.le-havre.FRA.csv,,,FRA
 ,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
 1900-01-01,,exit,exit,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
-2008-10-30,2008-11-02,Grand Prix de l'Armistice,Grand Prix of the Armistice,,,Carcans Maubuisson,Cercle de la Voile de Bordeaux,,,,,39° Grand Prix de l'Armistice,2008/country/france/2008-11-02.grand-prix-de-l-armistice.carcans.FRA.csv,,,FRA
+,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,
 2018-10-31,2018-11-03,Grand Prix de l'Armistice,Grand Prix of the Armistice,,,Carcans Maubuisson,Cercle de la Voile de Bordeaux,,,,,49° Grand Prix de l'Armistice,2018/country/france/2018-11-03.grand-prix-de-l-armistice.carcans.FRA.csv,,,FRA
 2020-09-19,2020-09-20,Epreuve 5O5,http://www.ffvoile.fr/ffv/sportif/CalendrierFiche.asp?id=105409,,,,,,,,,,,,,BEL
