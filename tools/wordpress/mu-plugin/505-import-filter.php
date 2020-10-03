@@ -874,7 +874,7 @@ class iworks_5o5_upload_fixer {
 			'Buttner' => 'Andrew Buttner',
 		),
 		array(
-			'Loveshin-Moss' => 'Shona Loveshin-Moss',
+			'Loveshin-Moss' => 'Shona Lovshin-Moss',
 			'Loveshin'      => 'Devlin Lovshin',
 		),
 		array(
@@ -978,7 +978,7 @@ class iworks_5o5_upload_fixer {
 			'Hoffman' => 'Michael Hoffman',
 		),
 		array(
-			'Moss Lovshin' => 'Shona Loveshin-Moss',
+			'Moss Lovshin' => 'Shona Lovshin-Moss',
 			'Lovshin'      => 'Devlin Lovshin',
 		),
 		array(
@@ -1278,7 +1278,7 @@ class iworks_5o5_upload_fixer {
 			'Alarie' => 'Peter Alarie',
 		),
 		array(
-			'S.Moss'    => 'Shona Loveshin-Moss',
+			'S.Moss'    => 'Shona Lovshin-Moss',
 			'S.Lovshin' => 'Stephen Lovshin',
 		),
 		array(
@@ -1478,7 +1478,7 @@ class iworks_5o5_upload_fixer {
 			'TenHove' => 'Martin ten Hove',
 		),
 		array(
-			'Moss Loveshin' => 'Shona Loveshin-Moss',
+			'Moss Loveshin' => 'Shona Lovshin-Moss',
 			'Loveshin'      => 'Stephen Lovshin',
 		),
 		array(
@@ -1770,7 +1770,7 @@ class iworks_5o5_upload_fixer {
 			'Chartier'      => 'Alain Chartier',
 		),
 		array(
-			'MossLovshin' => 'Shona Loveshin-Moss',
+			'MossLovshin' => 'Shona Lovshin-Moss',
 			'Lovshin'     => 'Stephen Lovshin',
 		),
 		array(
@@ -4911,9 +4911,9 @@ class iworks_5o5_upload_fixer {
 		'Sheltnon Dave'               => 'David Shelton',
 		'Sherwood Roger'              => 'Roger Sherwood',
 		'S.Higgins'                   => 'Sandy Higgins',
-		'Shona Lovshin-Moss'          => 'Shona Loveshin-Moss',
-		'Shona Moss Lovshin'          => 'Shona Loveshin-Moss',
-		'Shona Moss-Lovshin'          => 'Shona Loveshin-Moss',
+		'Shona Loveshin-Moss'         => 'Shona Lovshin-Moss',
+		'Shona Moss Lovshin'          => 'Shona Lovshin-Moss',
+		'Shona Moss-Lovshin'          => 'Shona Lovshin-Moss',
 		'Short Andrew'                => 'Andrew Short',
 		'Short Andy'                  => 'Andy Short',
 		'Short Russe'                 => 'Russell Short',
