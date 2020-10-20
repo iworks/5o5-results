@@ -2461,6 +2461,14 @@ class iworks_5o5_upload_fixer {
 			'Wilfried'            => 'Wilfried',
 			'Mascheroth-Brodwurm' => 'Pia Matscheroth-Brodwurm',
 		),
+		array(
+			'Jennifer Glass' => 'Jennifer Morgan Glass',
+			'Benjamin Glass' => 'Benjamin Glass',
+		),
+		array(
+			'Jen Glass' => 'Jennifer Morgan Glass',
+			'Benjamin Glass' => 'Benjamin Glass',
+		),
 		/*
 		array(
 			'' => '',
@@ -2472,7 +2480,8 @@ class iworks_5o5_upload_fixer {
 	/**
 	 * foo
 	 */
-	private $person = array(
+    private $person = array(
+        'Anthony Devita' => 'Tony DeVita',
 		'?'                           => '',
 		'011e Wenrup'                 => 'Olle Wenrup',
 		'A Burger'                    => 'Alex Burger',
