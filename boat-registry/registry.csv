@@ -940,6 +940,8 @@ Sail No,Year Built,Builder,Name,Hull,Description,First Owner,Subsequent Owners,L
 4267,,Rondar,,,,Chris Locke,Dave Friberg('97),,,Ottawa ONT,CAN,,,,,,
 4271,,,,,,Keith Jerkins/ B. Jones '71,,,,,GBR,,,,,,
 4276,1976,Lanaverre,,,"wooden deck, hull dark blue",Juan le Pins,,Louis Gilbert '04,,Antibes,FRA,,,,,,
+4283
+4289
 4294,,Rondar,,,,Craig Wallace & Judy Wallace,,,,Edmonton,CAN,,,,,,
 4305,,,,,,,,Tim Hill '71,,,GBR,,,,,,
 4310,1972,Parker,,,,G. F. Coles,,Piotr Nowicki '12,,Stenstorp,SWE,12,,,,,
@@ -951,6 +953,7 @@ Sail No,Year Built,Builder,Name,Hull,Description,First Owner,Subsequent Owners,L
 4328,,Rondar,,,,,,Dave Moore,,Sudbury ONT,CAN,,,,,,
 4331,,,,,,,,Mike Armstrong,,,Can,,,,,,
 4335,,,,,,Wilen twins,,,,,FIN,,,,,,
+4345
 4357,1972,,,,,,,Jacob '06,,Anneville sur Seine,FRA,,,,,,
 4361,,,,,,Web Institute,Solomon Marini,Norman Watkins '05,,Baltimore MD,USA,,,,,,
 4379,1972,Parker,,,launcher,Fred Byergo,Indiana University Yacht Club '96,,,,USA,,,,,,
@@ -968,6 +971,7 @@ Sail No,Year Built,Builder,Name,Hull,Description,First Owner,Subsequent Owners,L
 43,,,,,,V. Hildebrandt,,,,NSW,AUS,,,,,,
 4416,,,,,,,,,,,GBR,,,,,,
 4420,,Parker,,,,,,,,,GBR,,,,,,
+4421
 4423,,Parker,,,,,,,,Summerland BC,CAN,,,,,,
 4424,,,,,,,,Tibor Kamon,Kitsilano YC,Vancouver,CAN,,,,,,
 4437,1971,Rondar,,Composite,,,Grant Ballantyne,,,,RSA,,,,,,
@@ -979,6 +983,7 @@ Sail No,Year Built,Builder,Name,Hull,Description,First Owner,Subsequent Owners,L
 4475,,Parker,,,,,,Craig Parker '06,,Pretoria,RSA,,,,,,
 4479,,,,,,,,,,,FRA,,,,,,
 4480,,,,,,,,,,,GBR,,,,,,
+4483
 4493,1972,Parker,,,launcher,,,Kenny Weisscopf & Gino Weisscopf,,Solomons,USA,,,,,,
 4504,,,,,,,,,,,RSA,,,,,,
 4506,1972,Parker,,,rebuild '82,Mikael Ehnroot,Jari Eloranta,George Gebhard '82,Helsinki,,FIN,,,,,,
@@ -1014,6 +1019,7 @@ Sail No,Year Built,Builder,Name,Hull,Description,First Owner,Subsequent Owners,L
 4593,1973,Rondar,,all glass,,,ME Woods,Graham Alexander '96,,OH,USA,,,,,,
 4596,,,,,,,,,,,USA,,,,,,
 4598,1972,,,fibreglass,,G. Dennis,,,,VIC,AUS,,,,,,
+4599
 4600,1972,self-made,,fibreglass,,D.R. Glanville,,,,NSW,AUS,,,,,,
 4601,1972,Parker,,fibreglass,,,,B. Dehais '07,,Munich,GER,,,,,,
 4602,1972,self-made,,fibreglass,,B. Staples,,,,,AUS,,,,,,
@@ -1035,10 +1041,12 @@ Sail No,Year Built,Builder,Name,Hull,Description,First Owner,Subsequent Owners,L
 4648,1972,Glenn Dennis,,fibreglass,,Frank M. Bethwaite,,,,VIC,AUS,,,,,,
 4649,,,,,,,,,,,CAN,,,,,,
 4650,1972,Barclay,,fibreglass,,R.N. Hayden,,,,VIC,AUS,,,,,,
+4654
 4660,,,,,,,,,,,FIN,,,,,,
 4664,,,,,,,,,,,FRA,,,,,,
 4665,,,,,,,,,,,,,,,,,
 4677,,Parker,,Composite,,,,,,,GBR,,,,,,
+4679
 4685,1973,Rondar,Brontasauras,,,Paul Wilson,,,,,HKG,,,,,,
 4689,1973,Parker,Paralytic,,,Miss Grace Ma,,,,,HKG,,,,,,
 4693,1973,Parker,,,,Richard Emigh,Chris Sargent, Andrew Goodman,D. Gilmer '04,,,,,,,,
@@ -1048,20 +1056,31 @@ Sail No,Year Built,Builder,Name,Hull,Description,First Owner,Subsequent Owners,L
 4702,,,,,,,,,,,FRA,,,,,,
 4707,1973,Parker,,Composite,,,,Pierre-Jérôme Coulmin,,,FRA,,,,,,
 4717,,Rondar,,,,Wilmar Treffers,Toon Roosen,,,Sint-Gillis-Waas,BEL,,,,,,
+4721
+4725
 4732,1973,Glenn Dennis,,fibreglass,,Dennis Travis,,,,SA,AUS,,,,,,
 4734,,Parker,,,,Rumen Deyanov,Kevin Williams,Los Osos '03,,CA,USA,,,,,,
+4737
+4739
 4747,,Parker,,carbon fibre reinforced,,Larry Marks,,Yves Pajot/Marc Pajot,,,,,,,,,
 4748,,Parker,,,,,,,,,,,,,,,
+4750
 4752,,,,,,,,,,,POL,,,,,,
+4760
 4767,,,,,,,,,,,GBR,,,,,,
 4768,1973,Parker,,,,Stewart Smith,Gregg Strickland '99,,,Washington,USA,,,,,,
 4769,1973,Parker,Bits & Pieces ,, ZAM,,Tony Cheung & Hudson Lee,,,,HKG,,,,,,
+4772
+4777
+4780
 4788,,Parker,,,,,,,,,GBR,,,,,,
+4792
 4795,1973,Glenn Dennis,,fibreglass,,Russell Smith,,,,VIC,AUS,,,,,,
 4797,1973,Glenn Dennis,,fibreglass,,Greg Mellody,,,,VIC,AUS,,,,,,
 4805,1973,Glenn Dennis,,fibreglass,,Peter Harvey,,,,ACT,AUS,,,,,,
 4808,,,,,,,,,,,FRA,,,,,,
 4809,,,,,,,,,,,FRA,,,,,,
+4810
 4814,,,,,,,Robin Gosman '94,Glenn Halstead '05,,Scotland,GBR,,,,,,
 4815,1973,Parker,,,,,,Philippe Blanchard,,Strasbourg,FRA,,,,,,
 4843,1974,Holt Allen West,,,Boat won '74 NAs at Presque Isle,Hank Jotz,,Dave Cahn,,,USA,,,,,,
@@ -1069,7 +1088,9 @@ Sail No,Year Built,Builder,Name,Hull,Description,First Owner,Subsequent Owners,L
 4851,1973,Parker,,,,,,Steven Lewis '05,,Port Townsend,USA,,,,,,
 4857,1974,Parker,,,,Barry Kuehl,,,,,,,,,,,
 4867,1973,Glenn Dennis,,fibreglass,,Rudi Klug,,,,ACT,AUS,,,,,,
+4870
 4871,1973,Glenn Dennis,,fibreglass,,William Batt,,,,ACT,AUS,,,,,,
+4872
 4879,1973,self-made,,fibreglass,,P. McBratney,,,,SA,AUS,,,,,,
 8791,,,,,,,,,,,GBR,,,,,,
 4893,,,,,,,,,,,JPN,,,,,,
@@ -1095,19 +1116,29 @@ Sail No,Year Built,Builder,Name,Hull,Description,First Owner,Subsequent Owners,L
 4949,,,,,,,,,,,SWE,,,,,,
 4952,,Parker,,,,Ralph Knight ,,Elkington Brothers '78,,,UK,2010,,,,,
 4961,,,,,,,,,,,SUI,,,,,,
+4962
 4963,,Parker,,,,,Dave Emigh,Chris Sargent '99,,Folsom CA,USA,,,,,,
 4964,,,,,,,Vic Numbers,Sam Hadley '04,,Bainbridge Island WA,USA,,,,,,
 4970,1975,Morin,,,,Franz Torresm,,Maurizio Ingoglia '03,,,ITA,,,,,,
 4976,,Parker,,,,Mark Freedman,Kerry Brandt,Jeff Wightman '96,,Medford Lakes NJ,USA,,,,,,
 4994,,Parker,,,,Alan Hamerstrom & Helen Hamerstrom,,,,Annapolis MD,USA,,,,,,
+5002
+5005
 5016,,,,,,,,,,Orlando FL,USA,,,,,,
 5017,1973,Rondar,,,,Egon Stuermer,,Til Stuermer '04,,Basel,SUI,,,,,,
 5021,1974,Parker,Rough Justice,,,Rob Napier,Reg Woodyer '76,,West Cheshire SC,,GBR,,,,,,
+5025,,,,,,,,,,,GBR,,,,,,
 5031,1974,,,,,Hernbert Lönnfors, Kari Wilén / Mikko Brummer;Ebbe Rosén / Olle Wenrup '74 / Stefan Svennson '98,Lina Tengblad /12,,,SWE,12,,,,,
+5032
 5038,1973,Rondar,,,,John Moss & Shirley Moss,Jan Rasmussen,,,,CAN,,,,,,
+5040
 5045,,Parker,,,,,,Sören Dretzko,,,GER,,,,,,
+5046
+5051
+5056
 5058,,Parker,Overdraft,,,,,Andy,,Tynemouth,GBR,9,,,,,
 5059,,,,,,,,,,,USA,,,,,,
+5060
 5064,,,Poseidon,,,Tom Carr '71,,,,,GBR,,,,,,
 5080,,Parker,,,,,,Michael Agrell,,Oakville ONT,CAN,,,,,,
 5089,,,,,,,,,,,GBR,,,,,,
@@ -1118,15 +1149,18 @@ Sail No,Year Built,Builder,Name,Hull,Description,First Owner,Subsequent Owners,L
 5137,1974,Moore,Selfish Beast,,,Jason Spiller CA,,,,UT,USA,,,,,,
 5140,1974,Parker,,,,,George Railton,Christophe Bonnard (6/99),,Vancouver,CAN,,,,,,
 5147,,self-made,,,,John Dickson,,J. Gilder,,SA,AUS,,,,,,
+5150
 5155,1974,Bara,,,,,,Richard Gaudry '03,,Arcueil,FRA,,,,,,
 5157,1974,Parker,,,rebuilt '80,,Gunilla Berg & Erik Kallin,,,,SWE,,,,,,
 5167,1976,Parker,,,Bag boat,Chris Cornett,,,,BC,CAN,,,,,,
 5169,1975,Rondar,,,,Dave Johnson,Bill Green; Chad Price,Bob Karolyi '01,,Ann Arbor MI,USA,,,,,,
 5183,1976,Parker,Koonge,,,,,Paddy Hill & Malcolm White '80,,,RSA,,,,,,
+5190
 5191,,,,,,Robert S. Haselgrove,,,,SA,AUS,,,,,,
 5194,,Rondar,,,Rebuilt '97,,,Jim Redpath,,,RSA,,,,,,
 5197,1976,Parker,,,,,Chris Cornett,Jean Baillargeon & Helen Roberts '98,,Vancouver,CAN,,,,,,
 5198,1976,Parker,,,,Britta McNeil & Don McNeil,Ralph Nolting,,,Kingston ONT,CAN,,,,,,
+5203
 5208,1976,Parker,,,"converted to bag, extensive rebuild",,,Jim Ferguson,Kitsilano Yacht Club,Vancouver,CAN,,,,,,
 5209,1976,Parker,,,,,,Drew Anwyll,,Red Lake ONT,CAN,,,,,,
 5215,1976,Parker,,,,,,Jim Yabsley,,Santa Barbara CA,USA,,,,,,
@@ -1273,6 +1307,7 @@ Sail No,Year Built,Builder,Name,Hull,Description,First Owner,Subsequent Owners,L
 5962,,,,,,,,,,,DEN,,,,,,
 5968,1978,Parker,,,,Jean Pagliano,Marc Dousselin,,,Strasbourg,FRA,,,,,,
 5969,,,,,,,,,,,FRA,,,,,,
+5984
 5990,,Parker,,,,,Alison Janidlo / Tom Janidlo 02,John Kuntz,,Ottawa,CAN,9,,,,,
 5992,1977,Parker,,all glass,,Peter Wood,Bruce Wiggins,,,,CAN,,,,,,
 5993,1977,Parker,,all glass,,Margaret Hurley,,,,,CAN,,,,,,
@@ -1297,6 +1332,7 @@ Sail No,Year Built,Builder,Name,Hull,Description,First Owner,Subsequent Owners,L
 6126,,,,,,,,,,,FRA,,,,,,
 6133,,,,,,,,,,,FIN,,,,,,
 6136,,Parker-hulled Lindsay,,,,Larry Tuttle,Rob Kalnitsky; John Beach,Eric Cockburn '98,,Boulder CO,USA,,,,,,
+6137,,,,,,,,,,,USA,,,,,,
 6142,1978,Parker,,composite,,,,Christian Mautin '07,,Bordeaux,FRA,,,,,,
 6143,,Parker,,,,,,,,,SWE,,,,,,
 6155,,,,,,,,,,,GBR,,,,,,
@@ -1320,6 +1356,7 @@ Sail No,Year Built,Builder,Name,Hull,Description,First Owner,Subsequent Owners,L
 6212,,Kyrwood,,fibreglass,,A. Wangel & Malcolm 'Pip' Pearson,,,,SA,AUS,,,,,,
 6213,,Kyrwood,,fibreglass,,Terrence S. Kyrwood,,,,NSW,AUS,,,,,,
 6217,,Rondar,,,,,,,,,GBR,,,,,,
+6222,,,,,,,,,,,FRA,,,,,,
 6227,,Rondar,,,,Bart Hackworth,Alex Mehran; Chris Goodenough,Grant Murray (1/2000),,San Diego,USA,,,,,,
 6228,,Rondar,,fibreglass,,,Stefan Maxfield,Cristian Radu,,Chicago,USA,9,,,,,
 6230,1977,Rondar,,launcher,,Jurgen Hoeck,Paul von Grey; Dean Karrigan,JB Turney/Craig Thompson '03,,Chicago,USA,,,,,,
@@ -1404,11 +1441,13 @@ Sail No,Year Built,Builder,Name,Hull,Description,First Owner,Subsequent Owners,L
 6531,1978,Rondar,,GRP,launcher,Jean Paul Lapointe,,Pierre Ferland,,"Saquenay, Quebec",CAN,,,,,,
 6535,,Rondar,,,,,,,,,DEN,,,,,,
 6536,1978,Parker,,,,Patrick Andreasen,,Andre Kabel '96,,CA,USA,,,,,,
+6539,,,,,,,,,,,GBR,,,,,,
 6540,,Parker,,,,,,,,,USA,,,,,,
 6542,1978,Parker,,,,Ogston SC,,Graeme Busby,Prestwick,Scotland,GBR,,,,,,
 6544,,,,,,,,,,,GBR,,,,,,
 6551,1978,Parker,,,,Colin Greer,,Colin Frier,Helensburgh,Scotland,GBR,,,,,,
 6552,1978,,,,,Kaj Kronström,,,,Helsinki,FIN,,,,,,
+6553,,,,,,,,,,,GBR,,,,,,
 6559,,,,,,,,,,,GER,,,,,,
 6562,1978,Parker,,composite,,Darren Booth/ Michael Lees,,,Helensburgh,Scotland,GBR,,,,,,
 6563,,,,,,,,,,,GBR,,,,,,
@@ -1426,6 +1465,7 @@ Sail No,Year Built,Builder,Name,Hull,Description,First Owner,Subsequent Owners,L
 6592,1978,Ballenger,,,,,Eric Steinrick '02,,,,USA,,,,,,
 6593,1978,Parker,,,,Robert Lehmann,,Philippe Blanchard,,Strasbourg,FRA,,,,,,
 6594,1978,Parker,,,,Phil Milanes,,,,,GBR,,,,,,
+6595,,,,,,,,,,,GBR,,,,,,
 6600,,,,,,,,,,,FRA,,,,,,
 6601,1979,Parker,,composite,,,Gary Chaloner; Russ Taylor,Tom Mitchell '01,,"Oakland, CA",USA,,,,,,
 6604,,,,,,,,,,,IRL,,,,,,
@@ -1442,6 +1482,7 @@ Sail No,Year Built,Builder,Name,Hull,Description,First Owner,Subsequent Owners,L
 6630,,Parker,,,,,,,,,SWE,,,,,,
 6635,1979,Rondar,,,,,,Gordon Stout '04,,Calgary Alberta,CAN,,,,,,
 6641,,,,,,,,,,,RSA,,,,,,
+6642,,,,,,,,,,,GBR,,,,,,
 6643,,,,,,,,,,,SUI,,,,,,
 6650,,,,,,,,,,,SUI,,,,,,
 6653,1979,Parker,,,,,,Axel Clauberg,,Bever Lake (SVWu),GER,,,,,,

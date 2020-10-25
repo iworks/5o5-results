@@ -1222,6 +1222,10 @@ class iworks_5o5_upload_fixer {
 			''           => '',
 		),
 		array(
+			'D. Treloar' => 'David Treloar',
+			'N. Treloar' => 'Nigel Treloar',
+		),
+		array(
 			'I. Henry' => 'Ian Henry',
 			'M. Henry' => 'Mike Henry',
 		),
@@ -2466,7 +2470,7 @@ class iworks_5o5_upload_fixer {
 			'Benjamin Glass' => 'Benjamin Glass',
 		),
 		array(
-			'Jen Glass' => 'Jennifer Morgan Glass',
+			'Jen Glass'      => 'Jennifer Morgan Glass',
 			'Benjamin Glass' => 'Benjamin Glass',
 		),
 		/*
@@ -2480,8 +2484,11 @@ class iworks_5o5_upload_fixer {
 	/**
 	 * foo
 	 */
-    private $person = array(
-        'Anthony Devita' => 'Tony DeVita',
+	private $person = array(
+		'Georges Le Troquer'          => 'Georges le Troquer',
+		'Karl Erik Nilsson'           => 'Karl-Erik Nilsson',
+		'K.E. Nilsson'                => 'Karl-Erik Nilsson',
+		'Anthony Devita'              => 'Tony DeVita',
 		'?'                           => '',
 		'011e Wenrup'                 => 'Olle Wenrup',
 		'A Burger'                    => 'Alex Burger',
