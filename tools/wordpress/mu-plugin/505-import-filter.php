@@ -1195,7 +1195,7 @@ class iworks_5o5_upload_fixer {
 		),
 		array(
 			'Hattemore' => 'Mike Hattemore',
-			'Payne'      => 'Mike Payne',
+			'Payne'     => 'Mike Payne',
 		),
 		array(
 			'D. White'   => 'David White',
@@ -1594,6 +1594,10 @@ class iworks_5o5_upload_fixer {
 			'A Doerenbecher' => 'Aubin Doerenbecher',
 		),
 		array(
+			'Doerenbecher' => 'Francis Doerenbecher',
+			'Bottlaender'  => 'Gay Bottlaender',
+		),
+		array(
 			'R Roos'      => 'Ronald Roos',
 			'G Linnemann' => 'Gerd Linnemann',
 		),
@@ -1696,6 +1700,14 @@ class iworks_5o5_upload_fixer {
 		array(
 			'A. Kluck'   => 'Adalbert Kluck',
 			'G. Schmidt' => 'Gerhard Schmidt',
+		),
+		array(
+			'Kluck'   => 'Adalbert Kluck',
+			'Schmidt' => 'Gerhard Schmidt',
+		),
+		array(
+			'Klinck'  => 'Adalbert Kluck',
+			'Schmidt' => 'Gerhard Schmidt',
 		),
 		array(
 			'M Sims' => 'Michael Sims',
@@ -2234,6 +2246,10 @@ class iworks_5o5_upload_fixer {
 			'Barne'   => 'Johan Barne',
 		),
 		array(
+			'Nilsson' => 'Kalle Nilsson',
+			'Aven'    => 'Anders Avén',
+		),
+		array(
 			'Lovsey'   => 'Paul Lovesy',
 			'Williams' => 'Andy Williams',
 		),
@@ -2252,6 +2268,10 @@ class iworks_5o5_upload_fixer {
 		array(
 			'Schonherr'     => 'Jørgen Schönherr',
 			'Bojsen-Moller' => 'Jacob Bojsen-Møller',
+		),
+		array(
+			'Schonherr' => 'Jørgen Schönherr',
+			'Kempe'     => 'Anders Kæmpe',
 		),
 		array(
 			'Natorp' => 'Klaus Natorp',
@@ -2487,19 +2507,23 @@ class iworks_5o5_upload_fixer {
 		),
 		array(
 			'Stocker' => 'Bruce Stocker',
-			'Sharpe' => 'David Sharpe',
+			'Sharpe'  => 'David Sharpe',
 		),
 		array(
 			'Cardwell' => 'Peter Cardwell',
-			'Warner' => 'Roger Warner',
+			'Warner'   => 'Roger Warner',
 		),
 		array(
 			'Lindsay' => 'Sally Lindsay',
-			'Honey' => 'Stanley Honey',
+			'Honey'   => 'Stanley Honey',
 		),
 		array(
 			'Fryer' => 'L. Fryer',
-			'Cox' => 'M. Cox',
+			'Cox'   => 'M. Cox',
+		),
+		array(
+			'Scherrer' => 'Urs Scherrer',
+			'Walser'   => 'Reto Walser',
 		),
 		/*
 		array(
@@ -2513,10 +2537,6 @@ class iworks_5o5_upload_fixer {
 	 * foo
 	 */
 	private $person = array(
-		'Georges Le Troquer'          => 'Georges le Troquer',
-		'Karl Erik Nilsson'           => 'Karl-Erik Nilsson',
-		'K.E. Nilsson'                => 'Karl-Erik Nilsson',
-		'Anthony Devita'              => 'Tony DeVita',
 		'?'                           => '',
 		'011e Wenrup'                 => 'Olle Wenrup',
 		'A Burger'                    => 'Alex Burger',
@@ -2646,6 +2666,7 @@ class iworks_5o5_upload_fixer {
 		'Annese Alfredo'              => 'Alfredo Annese',
 		'Annti Jore'                  => 'Antti Jore',
 		'A.N.Other'                   => '',
+		'Anthony Devita'              => 'Tony DeVita',
 		'Anthony Murray'              => 'Tony Murray',
 		'Anton Jürgen'                => 'Jürgen Anton',
 		'Antonina Zaltowska'          => 'Antonina Żółtowska',
@@ -3414,6 +3435,7 @@ class iworks_5o5_upload_fixer {
 		'Geoff lane'                  => 'Geoff Lane',
 		'Geoff Schaffer'              => 'Geoff Schaefer',
 		'Georg Dr. Geyer'             => 'Georg Geyer',
+		'Georges Le Troquer'          => 'Georges le Troquer',
 		'Gerad Roos'                  => 'Gerald Roos',
 		'Gerdes Rainer'               => 'Rainer Gerdes',
 		'Gerdes Reiner'               => 'Reiner Gerdes',
@@ -3451,6 +3473,7 @@ class iworks_5o5_upload_fixer {
 		'Gogacki Wo'                  => 'Wolfgang Bogacki',
 		'Goggel Andreas'              => 'Andreas Goggel',
 		'Göggelmann Sonja'            => 'Sonja Göggelmann',
+		'Goran Eckestrom'             => 'Göran Eckeström',
 		'Gordon Mcgeorge'             => 'Gordon McGeorge',
 		'Gordon Russel'               => 'Gordon Russell',
 		'Gorge Martin'                => 'Martin Görge',
@@ -3931,6 +3954,7 @@ class iworks_5o5_upload_fixer {
 		'Kalle Nisson'                => 'Kalle Nilsson',
 		'Kandzia Lutz'                => 'Lutz Kandzia',
 		'Karadjian Alain'             => 'Alain Karadjian',
+		'Karl Erik Nilsson'           => 'Karl-Erik Nilsson',
 		'Karl Heinz Hilgers'          => 'Karl-Heinz Hilgers',
 		'Karl Kuehn'                  => 'Karl Kuhn',
 		'Karlsson Andreas'            => 'Andreas Carlsson',
@@ -3943,6 +3967,7 @@ class iworks_5o5_upload_fixer {
 		'Kauppinen Kaarle'            => 'Kaarle Kauppinen',
 		'K.Briggs'                    => 'Keith Briggs',
 		'KDY Mark Pedersen'           => 'Mark Pedersen',
+		'K.E. Nilsson'                => 'Karl-Erik Nilsson',
 		'Keding Markus'               => 'Markus Keding',
 		'Keith Boarders'              => 'Kieth Borders',
 		'Kellner Christian'           => 'Christian Kellner',

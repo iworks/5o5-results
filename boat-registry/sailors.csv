@@ -1,19 +1,5 @@
 Nation,Name,Club,Description,Birth Date,Website,Facebook,Death Date
-GBR,Ricky Willows
-GBR,John Maddocks
-GBR,K. Brackwell
-GBR,S. Lambourne
-GBR,G. Lowrey
 AUS,A. Martin,,,,,,
-GBR,S. France
-GBR,J. Murphy
-GBR,T. Marlow
-GBR,S. Cook
-GBR,Julian Hereward
-GBR,John Langley
-GBR,J. Hope
-GBR,P. Hope
-GBR,G. Thomas
 AUS,Adam Brenz-Verca,,,,,,
 AUS,Adam Wyatt,,,,,,
 AUS,Adrian Finglas,,,,,,
@@ -232,6 +218,7 @@ AUS,Robert Fleming,,,,,,
 AUS,Robert Franks,,,,,,
 AUS,Robert Gichrist,,,,,,
 AUS,Robert Gilchrist,,,,,,
+AUS,Robert Jones
 AUS,Robin Bath,,,,,,
 AUS,Robin Cross,,,,,,
 AUS,Rod Badgery,,,,,,
@@ -673,6 +660,7 @@ FRA,Gaël Conversy,,,,,,
 FRA,Gael le Mauguen,,,,,,
 FRA,Gaetan Finet,,,,,,
 FRA,Gautier Destombes,,,,,,
+FRA,Gay Bottlaender
 FRA,Geoffroy Riot,,,,,,
 FRA,Georges le Troquer
 FRA,Gerard Daugey,,,,,,
@@ -1009,6 +997,8 @@ GBR,Elliott Wells,,,,,,
 GBR,Eric Ironmonger,,,,,,
 GBR,Fra Rainsborough,,,,,,
 GBR,Frank Rainsborough,,,,,,
+GBR,G. Lowrey
+GBR,G. Thomas
 GBR,Gareth Kelly,,,,,,
 GBR,Gary Cawthorne,,,,,,
 GBR,Gary Fowler,,,,,,
@@ -1039,6 +1029,8 @@ GBR,Ian Pinnell,,,,,,
 GBR,Ian Stowe,,,,,,
 GBR,Ian Swainston,,,,,,
 GBR,Ian Walters,,,,,,
+GBR,J. Hope
+GBR,J. Murphy
 GBR,Jack Kilburn,,,,,,
 GBR,James Cole,,,,,,
 GBR,James King,,,,,,
@@ -1058,7 +1050,9 @@ GBR,John Driscoll,,,,,,
 GBR,John Howlett,,,,,,
 GBR,John Ironmonger,,,,,,
 GBR,John Labbett,,,,,,
+GBR,John Langley
 GBR,John Loveday,,,,,,
+GBR,John Maddocks
 GBR,John Mildred,,,,,,
 GBR,John Peats,,,,,,
 GBR,John Wilson,,,,,,
@@ -1067,6 +1061,8 @@ GBR,Jonathan Carter,,,,,,
 GBR,Jonathan Rennie,,,,,,
 GBR,Jonathan Ward,,,,,,
 GBR,Jude Beamers,,,,,,
+GBR,Julian Hereward
+GBR,K. Brackwell
 GBR,Keith Norris,,,,,,
 GBR,Keith Paul,,,,,,
 GBR,Ken Norris,,,,,,
@@ -1143,6 +1139,7 @@ GBR,Nigel Vooght,,,,,,
 GBR,Nolan Forward,,,,,,
 GBR,Ollie Boyes,,,,,,
 GBR,Ozzie Stewart,,,,,,
+GBR,P. Hope
 GBR,Patrick Mcgale,,,,,,
 GBR,Patrick Moore,,,,,,
 GBR,Paul Barnbridge,,,,,,
@@ -1173,6 +1170,7 @@ GBR,Richard Rowe,,,,,,
 GBR,Richard Tew,,,,,,
 GBR,Richard Tucker,,,,,,
 GBR,Richard Williams,,,,,,
+GBR,Ricky Willows
 GBR,Robert Ahlheid,,,,,,
 GBR,Robert Burdekin,,,,,,
 GBR,Robert Napier,,,,,,
@@ -1188,6 +1186,9 @@ GBR,Russ Hopkins,,,,,,
 GBR,Russell Clark,,,,,,
 GBR,Russell Short,,,,,,
 GBR,Russell Wheeler,,,,,,
+GBR,S. Cook
+GBR,S. France
+GBR,S. Lambourne
 GBR,S Lawrence,,,,,,
 GBR,Sam Pascoe,,,,,,
 GBR,Scott Allen,,,,,,
@@ -1212,6 +1213,7 @@ GBR,Stewart Mears,,,,,,
 GBR,Stuart Ashton,,,,,,
 GBR,Stuart Curtis,,,,,,
 GBR,Suzanne Mcdermott,,,,,,
+GBR,T. Marlow
 GBR,T.A. Mehew,,,,,,
 GBR,Terry Lawton,,,,,,
 GBR,Terry Scutcher,,,,,,
@@ -1568,6 +1570,7 @@ GER,Mathias Jetschke,,,,,,
 GER,Mathias Kaiser,,,,,,
 GER,Matthias Brühl,,,,,,
 GER,Matthias Dachs,,,,,,
+GER,Matthias Dietz
 GER,Matthias Fedde,,,,,,
 GER,Matthias Himmel,,,,,,
 GER,Matthias Konrad-Schmolke,,,,,,
@@ -1752,6 +1755,7 @@ GER,Volker Bohringer,,,,,,
 GER,Volker Böhringer,,,,,,
 GER,Volker Görge,,,,,,
 GER,Volker Weiß,,,,,,
+GER,Waldemar Strohmayer
 GER,Walter Steding,,,,,,
 GER,Welf Rehberg,,,,,,
 GER,Wiebke Gewinn,,,,,,
@@ -2178,6 +2182,7 @@ SUI,Peter Schweizer,,,,,,
 SUI,Philippe Jacot,,,,,,
 SUI,Phillip Grob,,,,,,
 SUI,Res Schürch,,,,,,
+SUI,Reto Walser
 SUI,Sacha Wirth,,,,,,
 SUI,Samuel Bacher,,,,,,
 SUI,Stéphane Burri,,,,,,
@@ -2209,6 +2214,7 @@ SWE,Bengt Zachrisson,,,,,,
 SWE,Björn Thews,,,,,,
 SWE,Bo Ringdahl,,,,,,
 SWE,Caroline Lexén,,,,,,
+SWE,Christen Ruedi
 SWE,Christer Båth,,,,,,
 SWE,Christian Harding,,,,,,
 SWE,Christian Madsen,,,,,,
@@ -2258,6 +2264,7 @@ SWE,Johan Strömdahl,,,,,,
 SWE,Johann Arvedson,,,,,,
 SWE,Johannes Prison,,,,,,
 SWE,Jonas Palmkvist,,,,,,
+SWE,Josef Zuppiger
 SWE,Julia Wännerdahl,,,,,,
 SWE,Kalle Nilsson,,,,,,
 SWE,Karin Storm,,,,,,
@@ -2289,6 +2296,7 @@ SWE,Marcus Haas,,,,,,
 SWE,Martin Bergström
 SWE,Martin Persson,,,,,,
 SWE,Martin Westerdahl,,,,,,
+SWE,Mathis Ruedi
 SWE,Mats Bylander,,,,,,
 SWE,Mats Lindgren,,,,,,
 SWE,Mattias Stenqvist,,,,,,
