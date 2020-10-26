@@ -862,6 +862,10 @@ class iworks_5o5_upload_fixer {
 			'Allen'  => 'Paul Allen',
 		),
 		array(
+			'Miller' => 'Jeff Miller',
+			'Poore'  => 'Thomas Poore',
+		),
+		array(
 			'Meller'  => 'Alexander "Ali" Meller',
 			'Falsone' => 'Jesse Falsone',
 		),
@@ -1188,6 +1192,10 @@ class iworks_5o5_upload_fixer {
 		array(
 			'M. Hattermore' => 'Mike Hattemore',
 			'M. Payne'      => 'Mike Payne',
+		),
+		array(
+			'Hattemore' => 'Mike Hattemore',
+			'Payne'      => 'Mike Payne',
 		),
 		array(
 			'D. White'   => 'David White',
@@ -2472,6 +2480,26 @@ class iworks_5o5_upload_fixer {
 		array(
 			'Jen Glass'      => 'Jennifer Morgan Glass',
 			'Benjamin Glass' => 'Benjamin Glass',
+		),
+		array(
+			'Harrison' => 'Neil Harrison',
+			'Paterson' => 'Nick Paterson',
+		),
+		array(
+			'Stocker' => 'Bruce Stocker',
+			'Sharpe' => 'David Sharpe',
+		),
+		array(
+			'Cardwell' => 'Peter Cardwell',
+			'Warner' => 'Roger Warner',
+		),
+		array(
+			'Lindsay' => 'Sally Lindsay',
+			'Honey' => 'Stanley Honey',
+		),
+		array(
+			'Fryer' => 'L. Fryer',
+			'Cox' => 'M. Cox',
 		),
 		/*
 		array(
