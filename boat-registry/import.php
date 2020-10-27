@@ -553,6 +553,7 @@ if ( $import_results && ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false 
 		[14] => iworks_fleet_serie
 		[15] => iworks_fleet_result_location
 		[16] => country
+		[17] => iworks_fleet_result_columns
 		 */
 		$fields = array(
 			0  => 'iworks_fleet_result_date_start',
@@ -572,6 +573,7 @@ if ( $import_results && ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false 
 			14 => 'iworks_fleet_serie',
 			15 => 'iworks_fleet_result_location',
 			16 => 'country',
+			17 => 'iworks_fleet_result_columns',
 		);
 		foreach ( $fields as $index => $key ) {
 			$value = '';
