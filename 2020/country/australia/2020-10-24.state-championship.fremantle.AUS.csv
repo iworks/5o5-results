@@ -1,11 +1,11 @@
-Booat Name,Boat NO,Club,Helm,Crew,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Race 7,Race 8,Total,Netto
-FrankenJess,9059,Fremantle Sailing Club,Christopher Paterson,Thor Schoenhoff,2,1,1,1,2,-4,-4,1,16,8
-prawnbroker,9192,Fremantle Sailing Club,Mark Stowell,Jake Bessen,3,3,2,2,-5,1,-5,3,24,14
-Epileptic Octopus,8855,Fremantle Sailing Club,Nicholas Mariani,Alex Thomson,1,6,6,3,3,-8,-9,5,41,24
-tensing norway,8817,Fremantle Sailing Club,Michael Duffield,Adam Brenz-Verca,4,2,3,4,(11 OCS),9,2,(11 DNC),46,24
-Crimson Autograph,8811,Fremantle Sailing Club,Christopher Charlwood,Amelia Catt,(11 DNC),(11 DNC),11 DNC,11 DNC,1,2,1,2,50,28
-Shore Thing,9048,Fremantle Sailing Club,Robert Fleming,Shain Attwell,-8,4,4,5,7,7,3,(11 DNC),49,30
-Swing Stiff,8667,"Fremantle Sailing Club, Club Mandurah Offshore",Grant Abbott,Matthew Till,6,5,-7,7,4,3,-8,6,46,31
-the wolf,9226,Fremantle Sailing Club,Matthew Hansen,Chris White,5,(7),5,6,(11 OCS),5,7,4,50,32
-Lego,8973,Fremantle Sailing Club,Riley Skipworth,John Goodchild,7,-8,-8,8,6,6,6,7,56,40
-String Theory,9017,Fremantle Sailing Club,Roger Pell,Ed Repsevious,9,9,9,(11 DNC),8,(10),10,8,74,53
+Nation,Boat NO,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Race 7,Race 8,Booat Name,Total,Netto,Pace
+AUS,9059,Christopher Paterson,Thor Schoenhoff,Fremantle Sailing Club,2,1,1,1,2,-4,-4,1,FrankenJess,16,8,1
+AUS,9192,Mark Stowell,Jake Bessen,Fremantle Sailing Club,3,3,2,2,-5,1,-5,3,prawnbroker,24,14,2
+AUS,8855,Nicholas Mariani,Alex Thomson,Fremantle Sailing Club,1,6,6,3,3,-8,-9,5,Epileptic Octopus,41,24,3
+AUS,8817,Michael Duffield,Adam Brenz-Verca,Fremantle Sailing Club,4,2,3,4,(11 OCS),9,2,(11 DNC),tensing norway,46,24,4
+AUS,8811,Christopher Charlwood,Amelia Catt,Fremantle Sailing Club,(11 DNC),(11 DNC),11 DNC,11 DNC,1,2,1,2,Crimson Autograph,50,28,5
+AUS,9048,Robert Fleming,Shain Attwell,Fremantle Sailing Club,-8,4,4,5,7,7,3,(11 DNC),Shore Thing,49,30,6
+AUS,8667,Grant Abbott,Matthew Till,"Fremantle Sailing Club, Club Mandurah Offshore",6,5,-7,7,4,3,-8,6,Swing Stiff,46,31,7
+AUS,9226,Matthew Hansen,Chris White,Fremantle Sailing Club,5,(7),5,6,(11 OCS),5,7,4,the wolf,50,32,8
+AUS,8973,Riley Skipworth,John Goodchild,Fremantle Sailing Club,7,-8,-8,8,6,6,6,7,Lego,56,40,9
+AUS,9017,Roger Pell,Ed Repsevious,Fremantle Sailing Club,9,9,9,(11 DNC),8,(10),10,8,String Theory,74,53,10
