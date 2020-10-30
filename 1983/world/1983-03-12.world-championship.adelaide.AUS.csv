@@ -1,64 +1,85 @@
-Nation,Number,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Total,Place
-AUS,7517,Terry Kyrwood,Reg Crick,,27,3,1,9,4,1,28.7p,1
-AUS,0,Gary Bruniges,Greg Gardiner,,1,7,8,4,1,6,32.7p,2
-AUS,0,Geoff Kyrwood,Bob Kyrwood,,4,2,4,3,6,8,36.4p,3
-AUS,0,Peter Hewson,Alyn Ovenden,,10,4,2,1,11,10,43.0p,4
-USA,0,Jeff Miller,Thomas Poore,,20,9,12,2,2,4,47.0p,5
-AUS,0,Neil Harrison,Nick Paterson,,11,1,33,20,3,3,54.4p,6
-AUS,0,Mark Soulsby,Anthony Hansen,,3,12,22,5,9,7,61.7p,7
-AUS,0,Shane Duessen,Craig Watkins,,18,16,5,17,8,5,79.0p,8
-SWE,0,Krister Bergström,Olle Wenrup,,47,6,17,7,13,17,89.7p,9
-AUS,0,Grahame Engert Jr,Paul Campbell,,19,19,3,13,12,ret,92.7p,10
-,,,,,,,,,,,,11
-,,,,,,,,,,,,12
-,,,,,,,,,,,,13
-,,,,,,,,,,,,14
-,,,,,,,,,,,,15
-,,,,,,,,,,,,16
-,,,,,,,,,,,,17
-,,,,,,,,,,,,18
-,,,,,,,,,,,,19
-,,,,,,,,,,,,20
-,,,,,,,,,,,,21
-,,,,,,,,,,,,22
-,,,,,,,,,,,,23
-,,,,,,,,,,,,24
-,,,,,,,,,,,,25
-,,,,,,,,,,,,26
-,,,,,,,,,,,,27
-,,,,,,,,,,,,28
-,,,,,,,,,,,,29
-,,,,,,,,,,,,30
-,,,,,,,,,,,,31
-,,,,,,,,,,,,32
-,,,,,,,,,,,,33
-,,,,,,,,,,,,34
-,,,,,,,,,,,,35
-,,,,,,,,,,,,36
-,,,,,,,,,,,,37
-,,,,,,,,,,,,38
-,,,,,,,,,,,,39
-,,,,,,,,,,,,40
-,,,,,,,,,,,,41
-,,,,,,,,,,,,42
-,,,,,,,,,,,,43
-,,,,,,,,,,,,44
-,,,,,,,,,,,,45
-,,,,,,,,,,,,46
-,,,,,,,,,,,,47
-,,,,,,,,,,,,48
-,,,,,,,,,,,,49
-,,,,,,,,,,,,50
-,,,,,,,,,,,,51
-,,,,,,,,,,,,52
-,,,,,,,,,,,,53
-,,,,,,,,,,,,54
-,,,,,,,,,,,,55
-,,,,,,,,,,,,56
-,,,,,,,,,,,,57
-,,,,,,,,,,,,58
-,,,,,,,,,,,,59
-,,,,,,,,,,,,60
-,,,,,,,,,,,,61
-,,,,,,,,,,,,62
-,,,,,,,,,,,,63
+Nation,Number,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Total,Netto,Place
+AUS,7517,Terry Kyrwood,Reg Crick,,27,3,1,9,4,1,62,28.7p,1
+AUS,7331,Gary Bruniges,Greg Gardiner,,1,7,8,4,1,6,47,32.7p,2
+AUS,7529,Geoff Kyrwood,Bob Kyrwood,,4,2,4,3,6,8,50,36.4p,3
+AUS,7509,Peter Hewson,Alyn Ovenden,,10,4,2,1,11,10,60,43.0p,4
+USA,6992,Jeff Miller,Thomas Poore,,20,9,12,2,2,4,73,47.0p,5
+AUS,7532,Neil Harrison,Nick Paterson,,11,1,33,20,3,3,93,54.4p,6
+AUS,7477,Mark Soulsby,Anthony Hansen,,3,12,22,5,9,7,90,61.7p,7
+AUS,7406,Shane Duessen,Craig Watkins,,18,16,5,17,8,5,103,79.0p,8
+SWE,7542,Krister Bergström,Olle Wenrup,,47,6,17,7,13,17,143,89.7p,9
+AUS,7508,Grahame Engert Jr,Paul Campbell,,19,19,3,13,12,ret,184,92.7p,10
+USA,6982,Jim Wondolleck,,,5,10,13,40,RET,2,185,94,11
+AUS,7333,Ian Brown,,,6,24,37,23,5,11,141,97.7,12
+AUS,7515,Ron Naughton,,,21,5,15,14,14,44,148,98,13
+AUS,7330,Philip Henty,,,9,22,6,30,33,13,149,109.7,14
+USA,6932,Sally Lindsay,,,31,11,11,16,24,18,147,110,15
+AUS,6211,Greg Gilmour,,,54,18,21,6,16,25,176,115.7,16
+USA,7359,Dennis Surtees,,,29,15,26,11,10,48,175,121,17
+AUS,7476,Ingrid Wangel,,,33,23,10,12,28,19,161,122,18
+AUS,6818,Paul Elvstrom,,,23,40,9,15,22,26,171,125,19
+AUS,7479,David O'Dowd,,,36,8,19,10,31,27,167,125,20
+AUS,5908,P. Remington,,,16,13,39,21,25,21,171,126,21
+AUS,7329,Darryl Emery,,,2,20,61,44,23,36,217,150,22
+AUS,7401,Geoff Lange,,,7,35,69,36,29,16,228,153,23
+GBR,6933,Ozzie Stewart,,,49,36,23,8,RET,9,246,155,24
+HNG,7186,A. W. Olding,,,45,25,16,47,12,,209,156,25
+JPN,6999,Aiko Inoue,,,26,27,14,29,38,37,207,163,26
+AUS,6705,V. W. Gratton,,,64,38,7,18,20,55,238,168,27
+GBR,7277,Dave White,,,39,45,38,37,15,14,224,173,28
+AUS,7407,Peter Wilson,,,15,39,45,22,RET,28,270,179,29
+AUS,7042,Robert Curtis,,,59,14,30,48,17,41,245,180,30
+AUS,7510,Robert Jones,,,40,42,34,25,19,32,228,180,31
+AUS,7338,Bob Fussell,,,8,47,36,43,41,29,240,187,32
+JPN,7003,Nobuo Miyamoto,,,37,41,32,46,32,20,244,192,33
+AUS,6221,Anders Wangel,,,55,30,20,26,RET,31,283,192,34
+AUS,196,Ian Dixon,,,50,48,48,39,7,22,250,194,35
+AUS,7481,Dean Blatchford,,,25,28,47,60,35,43,274,208,36
+HNG,7218,Malcolm Pearson,,,30,46,31,41,50,30,264,208,37
+AUS,6706,Alan Bessell,,,12,64,63,38,46,23,282,212,38
+AUS,5839,Chris O'Keefe,,,57,17,29,51,RET,45,320,229,39
+AUS,7400,Derek Milligan,,,13,31,RET,55,RET,15,320,229,40
+AUS,6467,Peter Volkmer,,,35,34,67,32,34,68,306,232,41
+JPN,6917,Tetsuo Sekiguchi,,,46,51,27,49,48,34,291,234,42
+GBR,7272,Colin Fry,,,51,75,43,33,27,52,317,236,43
+AUS,7070,W. McK. Carey,,,42,50,57,19,42,63,309,240,44
+AUS,7405,Greg Mellody,,,38,32,DSQ,42,18,DNS,336,245,45
+AUS,7487,Dennis Evans,,,58,52,51,61,26,38,322,255,46
+AUS,7233,Peter Pisters,,,73,65,42,45,21,53,335,256,47
+AUS,7484,Julian Golding,,,48,44,41,47,RET,46,347,256,48
+AUS,7195,Richard Souk,,,34,55,40,50,DSQ,49,349,258,49
+AUS,7285,Chris Redmond,,,41,59,18,58,56,61,329,262,50
+GBR,7387,R. B. Bennett,,,62,66,49,70,36,24,343,267,51
+AUS,7486,Dianne Jackson,,,61,62,54,31,RET,33,362,271,52
+AUS,7251,F. Smith,,,24,58,52,63,RET,50,368,277,53
+AUS,7485,Kerry Anderson,,,67,71,35,34,DNS,40,368,277,54
+AUS,7478,A. A. Hayter,,,44,61,56,62,YMP,35,346,277.6,55
+AUS,7516,Mark Philips,,,63,26,25,52,RET,DNS,372,281,56
+HNG,7180,David Yourieff,,,28,57,RET,35,RET,51,377,286,57
+AUS,7232,William Summerside,,,79,43,65,53,43,60,379,294,58
+IRL,7011,Mark Mansfield,,,43,es,59,65,40,62,373,299,59
+AUS,7016,Bruce Burford,,,69,56,24,56,RET,65,391,300,60
+AUS,5837,I. J. Townsend,,,52,76,66,59,30,64,383,301,61
+AUS,7332,D. Porter,,,32,21,50,DNS,DNS,DNS,394,303,62
+AUS,7157,Robert Hook,,,53,49,64,27,RET,DNS,393,308,63
+AUS,7511,Bruce Blatchford,,,17,29,62,DNS,DNS,DNS,399,308,64
+IRL,7440,Denis O'Sullivan,,,77,79,70,57,39,39,397,312,65
+AUS,6764,Philip Wise,,,66,78,44,68,49,58,399,315,66
+GBR,7504,Ian Andrew,,,22,77,58,DSO,45,RET,408,371,67
+HNG,6755,Mark Houghton,,,75,60,68,66,37,56,398,317,68
+AUS,6344,P. Willoughby,,,70,70,60,DNS,53,42,416,325,69
+AUS,7281,Robert Pendleton,,,65,63,46,89,52,DNS,416,325,70
+AUS,5911,J. Brown,,,68,74,28,67,DNS,59,417,326,71
+AUS,7531,Gary Smith,,,71,33,RET,24,DNS,DNS,419,328,72
+HNG,7236,Russ Canning,,,72,67,55,71,RET,47,433,342,73
+AUS,7530,B. A. Bowden,,,81,69,RET,64,51,54,440,349,74
+AUS,7250,Richard Gallimore,,,14,54,DNS,DNS,DNS,DNS,444,353,75
+AUS,6820,Steven Stenta,,,56,53,53,DNS,DNS,DNS,453,362,76
+AUS,7282,Phil Bowden,,,74,YMP,72,73,55,66,444,364,77
+AUS,5583,John Rushton,,,76,72,74,72,54,67,451,369,78
+AUS,5591,Ken Lockwood,,,82,93,71,74,44,DNF,472,381,79
+AUS,7513,John Greenless,,,60,37,DNS,DNS,DNS,DNS,473,382,80
+AUS,7409,R. McCrossin,,,78,73,73,76,RET,57,478,387,81
+AUS,5253,David Young,,,60,81,75,75,RET,69,501,410,82
+AUS,7408,D. Ketteridge,,,DNC,DNC,DNC,DNC,DNC,DNC,546,455,83
+AUS,7514,Roger Down,,,RET,DNS,DNS,DNS,DNS,DNS,546,455,84

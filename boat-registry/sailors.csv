@@ -1,4 +1,24 @@
 Nation,Name,Club,Description,Birth Date,Website,Facebook,Death Date
+GER,Dieter Cordes
+GER,Peter Heck
+GER,Hanno Barth
+JPN,Tatsuki Kabeya
+GBR,Dave Clarke
+FRA,Patrick Solatges
+AUS,Anthony Hansen
+USA,J. B. Braun
+AUS,D. Ketteridge
+AUS,Phil Bowden
+AUS,B. A. Bowden
+AUS,Robert Hook
+IRL,Mark Mansfield
+AUS,Derek Milligan
+JPN,Kiyoshi Uzawa
+JPM,Hirokazu Morimoto
+AUS,Peter Wilson
+AUS,Darryl Emery
+AUS,Ron Naughton
+AUS,Shane Duessen
 GBR,Murray Dorfman
 AUS,A. Martin,,,,,,
 AUS,Adam Brenz-Verca,,,,,,
@@ -809,7 +829,6 @@ FRA,Pascal Coquelet,,,,,,
 FRA,Pascal Jullian,,,,,,
 FRA,Pascal Rossignol,,,,,,
 FRA,Patrice Hue,,,,,,
-FRA,Patrick Solatges
 FRA,Patrick Wolff,,,,,,
 FRA,Paul Alric,,,,,,
 FRA,Paul Cousin,,,,,,

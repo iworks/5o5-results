@@ -866,6 +866,10 @@ class iworks_5o5_upload_fixer {
 			'Poore'  => 'Thomas Poore',
 		),
 		array(
+			'J. Miller' => 'Jeff Miller',
+			'B. Heckmann'  => 'B. Heckmann',
+		),
+		array(
 			'Meller'  => 'Alexander "Ali" Meller',
 			'Falsone' => 'Jesse Falsone',
 		),
@@ -1478,6 +1482,10 @@ class iworks_5o5_upload_fixer {
 			'Trouillet' => 'Damien Trouillet',
 		),
 		array(
+			'M. Buffet'    => 'Marcel Buffet',
+			'J. Muzellec' => 'Jean-Luc Muzellec',
+		),
+		array(
 			'Zaugg'     => 'Adrian Zaugg',
 			'Reinacher' => 'Yves Reinacher',
 		),
@@ -1536,6 +1544,10 @@ class iworks_5o5_upload_fixer {
 		array(
 			'R Willcox' => 'Rob Willcox',
 			'A Haylett' => 'Alan Haylett',
+		),
+		array(
+			'R. Willcox' => 'Rob Willcox',
+			'D. Herrmann' => 'Ditmar Herrmann',
 		),
 		array(
 			'Phil' => 'Phillip Bennett',
@@ -2529,6 +2541,26 @@ class iworks_5o5_upload_fixer {
 			'Wattine' => 'Hervé Wattine',
 			'Solages' => 'Patrick Solatges',
 		),
+		array(
+			'H. Wattine' => 'Hervé Wattine',
+			'P. Solages' => 'Patrick Solatges',
+		),
+		array(
+			'Uzawa' => 'Kiyoshi Uzawa',
+			'Morimoto' => 'Hirokazu Morimoto',
+		),
+		array(
+			'M. Soulsby' => 'Mark Soulsby',
+			'A. Hansen' => 'Anthony Hansen',
+		),
+		array(
+            'P. Leksis' => 'Petri Leksis',
+            'K. Lautanen' => 'Kimmo Lautanen',
+		),
+		array(
+			'E. Brzoska' => 'Ewald Brzoska',
+			'H. Barth' => 'Hanno Barth',
+		),
 		/*
 		array(
 			'' => '',
@@ -2540,7 +2572,14 @@ class iworks_5o5_upload_fixer {
 	/**
 	 * foo
 	 */
-	private $person = array(
+    private $person = array(
+
+        'A. Ovenden' => 'Alyn Ovenden',
+        'J.B Braun' => 'J. B. Braun',
+        'Mike Breault' => 'Michael Breault',
+        'D. Emery' => 'Darryl Emery',
+        'Ron Naughten'=> 'Ron Naughton',
+        'S. Deusson' => 'Shane Duessen',
 		'?'                           => '',
 		'011e Wenrup'                 => 'Olle Wenrup',
 		'A Burger'                    => 'Alex Burger',
