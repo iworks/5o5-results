@@ -1,25 +1,4 @@
 Nation,Name,Club,Description,Birth Date,Website,Facebook,Death Date
-GER,Dieter Cordes
-GER,Peter Heck
-GER,Hanno Barth
-JPN,Tatsuki Kabeya
-GBR,Dave Clarke
-FRA,Patrick Solatges
-AUS,Anthony Hansen
-USA,J. B. Braun
-AUS,D. Ketteridge
-AUS,Phil Bowden
-AUS,B. A. Bowden
-AUS,Robert Hook
-IRL,Mark Mansfield
-AUS,Derek Milligan
-JPN,Kiyoshi Uzawa
-JPM,Hirokazu Morimoto
-AUS,Peter Wilson
-AUS,Darryl Emery
-AUS,Ron Naughton
-AUS,Shane Duessen
-GBR,Murray Dorfman
 AUS,A. Martin,,,,,,
 AUS,Adam Brenz-Verca,,,,,,
 AUS,Adam Wyatt,,,,,,
@@ -36,9 +15,11 @@ AUS,Andrew McConaghy,,,,,,
 AUS,Andrew Petch,,,,,,
 AUS,Angus Higgins,,,,,,
 AUS,Annabel Jones,,,,,,
+AUS,Anthony Hansen
 AUS,Anthony King,,,,,,
 AUS,Arne Lanatowitz,,,,,,
 AUS,Ayden Menzies,,,,,,
+AUS,B. A. Bowden
 AUS,Ben Greenhough,,,,,,
 AUS,Ben Schulz,,,,,,
 AUS,Bradley Clarke,,,,,,
@@ -66,6 +47,7 @@ AUS,Clint Bowen,,,,,,
 AUS,Conall Hansford,,,,,,
 AUS,Cullen Hughes,,,,,,
 AUS,Curtis Hartmann,,,,,,
+AUS,D. Ketteridge
 AUS,Damian Carey,,,,,,
 AUS,Dan Cowan,,,,,,
 AUS,Daniel Keys,,,,,,
@@ -73,6 +55,7 @@ AUS,Daniel Yaffey,,,,,,
 AUS,Darren Cooney,,,,,,
 AUS,Darren Gilbert,,,,,,
 AUS,Darren Nicholson,,,,,,
+AUS,Darryl Emery
 AUS,Darryl Roos,,,,,,
 AUS,Daryl Roos,,,,,,
 AUS,Dave Atwell,,,,,,
@@ -89,6 +72,7 @@ AUS,David Porter,,,,,,
 AUS,David Thompson,,,,,,
 AUS,Dean Williams,,,,,,
 AUS,Dennis Evans,,,,,,
+AUS,Derek Milligan
 AUS,Dustin Carlsson,,,,,,
 AUS,Ed Cox,,,,,,
 AUS,Ed Repsevious,,,,,,
@@ -225,6 +209,8 @@ AUS,Peter Holden,,,,,,
 AUS,Peter McDonald,,,,,,
 AUS,Peter Nicholas,,,,,,
 AUS,Peter Nicolas,,,,,,
+AUS,Peter Wilson
+AUS,Phil Bowden
 AUS,Phil Edney,,,,,,
 AUS,Phil Gray,,,,,,
 AUS,Philip Scapens,,,,,,
@@ -244,12 +230,14 @@ AUS,Robert Fleming,,,,,,
 AUS,Robert Franks,,,,,,
 AUS,Robert Gichrist,,,,,,
 AUS,Robert Gilchrist,,,,,,
+AUS,Robert Hook
 AUS,Robert Jones,,,,,,
 AUS,Robin Bath,,,,,,
 AUS,Robin Cross,,,,,,
 AUS,Rod Badgery,,,,,,
 AUS,Rod Dalgleish,,,,,,
 AUS,Roger Pell,,,,,,
+AUS,Ron Naughton
 AUS,Ryan Menzies,,,,,,
 AUS,Sam Byass,,,,,,
 AUS,Sam Haines,,,,,,
@@ -263,6 +251,7 @@ AUS,Scott Lidgett,,,,,,
 AUS,Scott Olsen,,,,,,
 AUS,Shain Attwell,,,,,,
 AUS,Shane Attwell,,,,,,
+AUS,Shane Duessen
 AUS,Shane Guanaria,,,,,,
 AUS,Simon Gorman,,,,,,
 AUS,Simon Reffold,,,,,,
@@ -829,6 +818,7 @@ FRA,Pascal Coquelet,,,,,,
 FRA,Pascal Jullian,,,,,,
 FRA,Pascal Rossignol,,,,,,
 FRA,Patrice Hue,,,,,,
+FRA,Patrick Solatges
 FRA,Patrick Wolff,,,,,,
 FRA,Paul Alric,,,,,,
 FRA,Paul Cousin,,,,,,
@@ -997,6 +987,7 @@ GBR,Daniel Hart,,,,,,
 GBR,Daniel Samanjoul,,,,,,
 GBR,Darrel Samanjoul,,,,,,
 GBR,Dave Chalkley,,,,,,
+GBR,Dave Clarke
 GBR,Dave Hughes,,,,,,
 GBR,Dave Poston,,,,,,
 GBR,David Banks,,,,,,
@@ -1146,6 +1137,7 @@ GBR,Mike Male,,,,,,
 GBR,Mike Moore,,,,,,
 GBR,Mike Payne,,,,,,
 GBR,Miles Odell,,,,,,
+GBR,Murray Dorfman
 GBR,Neil Fulcher,,,,,,
 GBR,Neil Huwell,,,,,,
 GBR,Neil Rabbitts,,,,,,
@@ -1375,6 +1367,7 @@ GER,Daniel Wehden,,,,,,
 GER,Dave Farmer,,,,,,
 GER,David Thiemann,,,,,,
 GER,Davina Schlesiger,,,,,,
+GER,Dieter Cordes
 GER,Diethardt Freye,,,,,,
 GER,Dietrich Scheder,,,,,,
 GER,Dietrich Scheder-Bieschin,,,,,,
@@ -1450,6 +1443,7 @@ GER,Günter Peters,,,,,,
 GER,Hannes Kindermann,,,,,,
 GER,Hannes Lehning,,,,,,
 GER,Hannes Wagner,,,,,,
+GER,Hanno Barth
 GER,Hans Nöldeke,,,,,,
 GER,Hans-Christian Schwieger,,,,,,
 GER,Hansjörg Ehlers,,,,,,
@@ -1659,6 +1653,7 @@ GER,Patrick Eberwein,,,,,,
 GER,Paul Meyer,,,,,,
 GER,Pedro Bohnenberger,,,,,,
 GER,Peter Gerdts,,,,,,
+GER,Peter Heck
 GER,Peter Hobusch,,,,,,
 GER,Peter Kohlhoff,,,,,,
 GER,Peter Kruse,,,,,,
@@ -1810,6 +1805,7 @@ IRL,James McNicholl,,,,,,
 IRL,John Bourke,,,,,,
 IRL,John Dunlea,,https://www.youtube.com/channel/UCTOXVv_53aQqzpktecluPAg,,,,
 IRL,John O'Gorman,,,,,,
+IRL,Mark Mansfield
 IRL,Matthew McNicholl,,,,,,
 IRL,Michael Ennis,,,,,,
 IRL,Pal O'Sullivan,,,,,,
@@ -1831,8 +1827,11 @@ ITA,Paolo Corbellini,,,,,,
 ITA,Roberto Candela,,,,,,
 ITA,Roberto Loce,,,,,,
 ITA,Urs Vetter,,,,,,
+JPM,Hirokazu Morimoto
 JPN,Aiko Saito,,,,,,
+JPN,Kiyoshi Uzawa
 JPN,Shiro Noguchi,,,,,,
+JPN,Tatsuki Kabeya
 LUX,Jean-Paul Tousch,,,,,,
 LUX,Liz Speyer,,,,,,
 NZL,Chris Ryan,,,,,,
@@ -2566,6 +2565,7 @@ USA,Ian Conners,,,,,,
 USA,Ian Goofrey,,,,,,
 USA,Ian McKeige,,,,,,
 USA,Ian O'Leary,,,,,,
+USA,J. B. Braun
 USA,Jackson McCoy,,,,,,
 USA,Jackson Montague,,,,,,
 USA,James Barry,,,,,,
