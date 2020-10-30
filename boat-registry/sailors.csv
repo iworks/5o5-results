@@ -1,16 +1,4 @@
 Nation,Name,Club,Description,Birth Date,Website,Facebook,Death Date
-SIN,Yuen Loke Kong
-SIN,Jeffrey Leow
-SIN,Alan Barnes
-SIN,Sally Barnes
-FIN,Esko Aho
-USA,Anthony Cockayne
-SWE,Daniel Brun
-GBR,Mike Platts
-FRA,Serge Ehrhart
-SUI,Stephan Rueger
-USA,Jeff Braun
-DEN,Finn Jensen
 AUS,A. Martin,,,,,,
 AUS,Adam Brenz-Verca,,,,,,
 AUS,Adam Wyatt,,,,,,
@@ -450,6 +438,7 @@ DEN,Erik Ørsted,,,,,,
 DEN,Etienne Bourbeau,,,,,,
 DEN,Fabiola Wonterghem,,,,,,
 DEN,Finn Angelo,,,,,,
+DEN,Finn Jensen
 DEN,Flemming Sand,,,,,,
 DEN,Hans Jørgen Riber,,,,,,
 DEN,Helge Rasmussen,,,,,,
@@ -470,6 +459,7 @@ DEN,Johan Pedersen,,,,,,
 DEN,Johnny Rodholm,,,,,,
 DEN,Jon Andersen,,,,,,
 DEN,Jörg Hansen,,,,,,
+DEN,Jørgen Holm,,,,,,
 DEN,Jørgen Schönherr,,,,,,
 DEN,Kalle Thews,,,,,,
 DEN,Kenneth Eriksen,,,,,,
@@ -524,6 +514,7 @@ FIN,Ari Peltoniemi,,,,,,
 FIN,Atte Piiroinen,,,,,,
 FIN,Björn Pundars,,,,,,
 FIN,Eino Laitinen,,,,,,
+FIN,Esko Aho
 FIN,Hanno Narjus,,,,,,
 FIN,Hannu Pöyry,,,,,,
 FIN,Henri Räty,,,,,,
@@ -883,6 +874,7 @@ FRA,Samuel Carvallo,,,,,,
 FRA,Sebastien Huet,,,,,,
 FRA,Sebastien le Bouteiller,,,,,,
 FRA,Sebastien Rauly,,,,,,
+FRA,Serge Ehrhart
 FRA,Serge Gubri,,,,,,
 FRA,Simon Chartier,,,,,,
 FRA,Sophie Biecheler-Fiocconi,,,,,,
@@ -1148,6 +1140,7 @@ GBR,Mike Leaver,,,,,,
 GBR,Mike Male,,,,,,
 GBR,Mike Moore,,,,,,
 GBR,Mike Payne,,,,,,
+GBR,Mike Platts
 GBR,Miles Odell,,,,,,
 GBR,Murray Dorfman
 GBR,Neil Fulcher,,,,,,
@@ -1516,7 +1509,6 @@ GER,Jonas Royla,,,,,,
 GER,Jonas Vogt,,,,,,
 GER,Jörg Gosche,,,,,,
 GER,Jörg Häger,,,,,,
-DEN,Jørgen Holm,,,,,,
 GER,Jörgen Thumann,,,,,,
 GER,Jörn Alberts,,,,,,
 GER,Jörn Wille,,,,,,
@@ -2189,6 +2181,10 @@ RSA,Warren von Budenbrock,,,,,,
 RSA,Warwick Ham,PSC,,,,,
 RSA,Willem Buhrmann,,,,,,
 RSA,Wouter Langhout,,,,,,
+SIN,Alan Barnes
+SIN,Jeffrey Leow
+SIN,Sally Barnes
+SIN,Yuen Loke Kong
 SUI,Adrian Iten,,,,,,
 SUI,Alain Brasey,,,,,,
 SUI,Ammann Walter,,,,,,
@@ -2229,6 +2225,7 @@ SUI,Res Schürch,,,,,,
 SUI,Reto Walser,,,,,,
 SUI,Sacha Wirth,,,,,,
 SUI,Samuel Bacher,,,,,,
+SUI,Stephan Rueger
 SUI,Stéphane Burri,,,,,,
 SUI,Toni Utiger,CVE Cercle de la Voile Estavayer,,1965,,toni.utiger,
 SUI,Valéry Jacot,,,,,,
@@ -2266,6 +2263,7 @@ SWE,Claes Boman,,,,,,
 SWE,Claes Gustavsson,,,,,,
 SWE,Claes Thurell,,,,,,
 SWE,Colin Treseler,,,,,,
+SWE,Daniel Brun
 SWE,Daniel Lundahl,,,,,,
 SWE,Daniel Rodhe,,,,,,
 SWE,David Lawenius,,,,,,
@@ -2432,6 +2430,7 @@ USA,Angela Thompson,,,,,,
 USA,Anna Patterson,,,,,,
 USA,Anne Fitzpatrick,,,,,,
 USA,Annie Fitzpatrick,,,,,,
+USA,Anthony Cockayne
 USA,Antoine Laussu,,,,,,
 USA,Ashley Lyon,,,,,,
 USA,Augie Diaz,,,,,,
@@ -2592,6 +2591,7 @@ USA,Jason Bright,,,,,,
 USA,Jay Glaser,,,,,,
 USA,Jay Smith,,,,,,
 USA,Jeff Brauch,,,,,,
+USA,Jeff Braun
 USA,Jeffrey Krusniak,,,,,,
 USA,Jeffrey Nelson,,,,,,
 USA,Jennifer Morgan Glass,,,,,,
