@@ -350,6 +350,10 @@ class iworks_5o5_upload_fixer {
 			'K Summersgill' => 'Keith Summersgill',
 		),
 		array(
+			'R. Napier'      => 'Robert Napier',
+			'G. Mee' => 'G. Mee',
+		),
+		array(
 			'Neidhart' => 'Elisabeth Neidhart',
 			'Gougeon'  => 'Matthieu Gougeon',
 		),
@@ -1210,8 +1214,20 @@ class iworks_5o5_upload_fixer {
 			'A. Gilmour' => 'Andrew Gilmore',
 		),
 		array(
+			'P. White'   => 'Peter White',
+			'S. Wakeford' => 'S. Wakeford',
+		),
+		array(
 			'M. Hattermore' => 'Mike Hattemore',
 			'M. Payne'      => 'Mike Payne',
+		),
+		array(
+			'M. Hattemore' => 'Mike Hattemore',
+			'M. Payne'      => 'Mike Payne',
+		),
+		array(
+			'M Hattemore' => 'Mike Hattemore',
+			'M Payne'      => 'Mike Payne',
 		),
 		array(
 			'Hattemore' => 'Mike Hattemore',
@@ -1504,6 +1520,10 @@ class iworks_5o5_upload_fixer {
 		array(
 			'M. Buffet'   => 'Marcel Buffet',
 			'J. Muzellec' => 'Jean-Luc Muzellec',
+		),
+		array(
+			'M. Buffet'   => 'Marcel Buffet',
+			'J.Kergreis' => 'J. Kergreis',
 		),
 		array(
 			'Zaugg'     => 'Adrian Zaugg',
@@ -2633,6 +2653,30 @@ class iworks_5o5_upload_fixer {
 			'A Thomsen' => 'Andi Thomsen',
 			'P Schultz' => 'Paule Schultz',
 		),
+		array(
+			'P. Drinkwater' => 'Peter Drinkwater',
+			'D. O\'Dowd' => 'David O\'Dowd',
+		),
+        array(
+            'P. Colclough'                => 'Peter Colclough',
+			'P. Brown' => 'Peter Brown',
+		),
+        array(
+            'P Colclough'                => 'Peter Colclough',
+			'P Brown' => 'Peter Brown',
+		),
+		array(
+            'P. Bainbridge' => 'Peter Bainbridge',
+            'J. Campbell' => 'Jamie Campbell',
+		),
+		array(
+			'D. Bowles' => 'Don Bowles',
+			'M. Bryant' => 'M. Bryant',
+		),
+		array(
+			'N Wilmott' => 'Neil Willmott',
+			'P Wilmott' => 'Paul Willmott',
+		),
 		/*
 		array(
 			'' => '',
@@ -2644,7 +2688,8 @@ class iworks_5o5_upload_fixer {
 	/**
 	 * foo
 	 */
-	private $person = array(
+    private $person = array(
+        'J. Labbett' => 'John Labbett',
 		'?'                           => '',
 		'011e Wenrup'                 => 'Olle Wenrup',
 		'011i Karlsson'               => 'Olli Karlsson',
@@ -3290,6 +3335,7 @@ class iworks_5o5_upload_fixer {
 		'Dewaele Kevin'               => 'Kevin Dewaele',
 		'Dewaele Vincent'             => 'Vincent Dewaele',
 		'D.Farrant'                   => 'Derek Farrant',
+		'D. Farrant'                   => 'Derek Farrant',
 		'Di Pede Thibault'            => 'Thibault Di Pède',
 		'Di Pède Thibault'            => 'Thibault Di Pède',
 		'Diebitsch Christian'         => 'Christian Diebitsch',
@@ -4575,7 +4621,8 @@ class iworks_5o5_upload_fixer {
 		'N. Klatsmanyi'               => 'Nandor Klatsmanyi',
 		'N Milln'                     => 'Nigel Milln',
 		'N. Rydge'                    => 'Norman Rydge',
-		'N Willmott'                  => 'Neil Willmot',
+		'N Willmott'                  => 'Neil Willmott',
+		'N. Willmott'                  => 'Neil Willmott',
 		'Naich Schomaher'             => 'Naich Schomäher',
 		'Napier Rob'                  => 'Robert Napier',
 		'Natali Gabriele'             => 'Gabriele Natali',
@@ -4715,6 +4762,7 @@ class iworks_5o5_upload_fixer {
 		'P Roos'                      => 'Peter Roos',
 		'P Vinnicombe'                => 'Peter Vinnicombe',
 		'P Willmott'                  => 'Paul Willmott',
+		'P. Willmott'                  => 'Paul Willmott',
 		'Pa Hallberg'                 => 'Per-Anders Hallberg',
 		'PA Hallberg'                 => 'Per-Anders Hallberg',
 		'P-A Hallberg'                => 'Per-Anders Hallberg',
@@ -4963,6 +5011,7 @@ class iworks_5o5_upload_fixer {
 		'Rob Burdekin'                => 'Robert Burdekin',
 		'Rob Gilchrist'               => 'Robert Gichrist',
 		'Rob Lark'                    => 'Robert Larke',
+		'R. Naiper'                  => 'Robert Napier',
 		'Rob Naiper'                  => 'Robert Napier',
 		'Rob Napier'                  => 'Robert Napier',
 		'Rob O\'reilly'               => 'Rob O\'Reilly',
