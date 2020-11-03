@@ -1,9 +1,4 @@
 Nation,Name,Club,Description,Birth Date,Website,Facebook,Death Date
-USA,Carlos Linares
-USA,James Appel
-USA,Ben Komar
-USA,RJ Bay
-SWE,Camilla Jönsson
 AUS,A. Martin,,,,,,
 AUS,Adam Brenz-Verca,,,,,,
 AUS,Adam Wyatt,,,,,,
@@ -936,6 +931,7 @@ FRA,Yves Coltier,,,,,,
 FRA,Yves Niddam,,,,,,
 FRA,Yves Pajot,,,,,,
 FRA,Yves Treboz,,,,,,
+GBR,A. Draper
 GBR,A. Palmer,,,,,,
 GBR,Adrian Howe,,,,,,
 GBR,Adrian Lane,,,,,,
@@ -997,6 +993,8 @@ GBR,Christopher Dando,,,,,,
 GBR,Clive Robinson,,,,,,
 GBR,Colin Jarvis
 GBR,Colin Rawlings,,,,,,
+GBR,D. Pendleton
+GBR,D. Wansborough
 GBR,Damon Smith,,,,,,
 GBR,Dan Johnson,,,,,,
 GBR,Dan Parsons,,,,,,
@@ -1041,6 +1039,7 @@ GBR,Fra Rainsborough,,,,,,
 GBR,Frank Rainsborough,,,,,,
 GBR,G. Lowrey,,,,,,
 GBR,G. Thomas,,,,,,
+GBR,G. Trout
 GBR,Gareth Kelly,,,,,,
 GBR,Gary Cawthorne,,,,,,
 GBR,Gary Fowler,,,,,,
@@ -1080,6 +1079,7 @@ GBR,James Read,,,,,,
 GBR,Jamie Campbell
 GBR,Jarrod Simpson,,,,,,
 GBR,Jason Lunn,,,,,,
+GBR,J.E. Kobylanski
 GBR,Jeff Powell,,,,,,
 GBR,Jeremy Entwhistle,,,,,,
 GBR,Jeremy White,,,,,,
@@ -1104,6 +1104,7 @@ GBR,Jonathan Carter,,,,,,
 GBR,Jonathan Rennie,,,,,,
 GBR,Jonathan Ward,,,,,,
 GBR,Jude Beamers,,,,,,
+GBR,Judith French
 GBR,Julian Hereward,,,,,,
 GBR,K. Brackwell,,,,,,
 GBR,Keith Norris,,,,,,
@@ -1154,6 +1155,7 @@ GBR,Mike Hattemore,,,,,,
 GBR,Mike Henry,,,,,,
 GBR,Mike Holmes,,,,,,
 GBR,Mike Langefeld,,,,,,
+GBR,Mike Lawton
 GBR,Mike Leaver,,,,,,
 GBR,Mike Male,,,,,,
 GBR,Mike Moore,,,,,,
@@ -1205,6 +1207,7 @@ GBR,Peter Willmott,,,,,,2020-10-25
 GBR,Phil Brown,,,,,,
 GBR,Philip Baxter,,,,,,
 GBR,Philip Gladman,,,,,,
+GBR,R. Cooper
 GBR,Reeve Dunn,,,,,,
 GBR,Rich Berry,,,,,,
 GBR,Richard Anderton,,,,,,
@@ -2281,6 +2284,7 @@ SWE,Bengt Sareyko,,,,,,
 SWE,Bengt Zachrisson,,,,,,
 SWE,Björn Thews,,,,,,
 SWE,Bo Ringdahl,,,,,,
+SWE,Camilla Jönsson
 SWE,Caroline Lexén,,,,,,
 SWE,Christen Ruedi,,,,,,
 SWE,Christer Båth,,,,,,
@@ -2470,6 +2474,7 @@ USA,Barret Rhodes,,,,,,
 USA,Barry Kuehl,,,,,,
 USA,Bart Hackworth,,,,,,
 USA,Ben Benjamin,,,,,,
+USA,Ben Komar
 USA,Ben Moon,,,,,,
 USA,Bill Gross,,,,,,
 USA,Bill Jenkins,,,,,,
@@ -2495,6 +2500,7 @@ USA,Bruce Heckman,,,,,,
 USA,Bryan Largay,,,,,,
 USA,Cameron Lewis,,,,,,
 USA,Carl Smit,Eastport Yacht Club,,1971,,,
+USA,Carlos Linares
 USA,Carrisa Harris,,,,,,
 USA,Catherine Brady,,,,,,
 USA,Catherine Guiader,,,,,,
@@ -2611,6 +2617,7 @@ USA,Ian O'Leary,,,,,,
 USA,J. B. Braun
 USA,Jackson McCoy,,,,,,
 USA,Jackson Montague,,,,,,
+USA,James Appel
 USA,James Barry,,,,,,
 USA,James Englert,,,,,,
 USA,James Holstine,,,,,,
@@ -2759,6 +2766,7 @@ USA,Richard Elstrom,,,,,,
 USA,Richard Peck,,,,,,
 USA,Rick Blase,,,,,,
 USA,Rick Blase Jr.,,,,,,
+USA,RJ Bay
 USA,R.Latene Montgue,,,,,,
 USA,Rob Woelfel,,,,,,
 USA,Robbie van Landingham,,,,,,
