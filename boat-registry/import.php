@@ -69,7 +69,9 @@ if ( in_array( 'all', $argv ) ) {
 		$import_sailors = true;
 	}
 	if (
-		in_array( 'e', $argv )
+		false
+		|| in_array( 'r', $argv )
+		|| in_array( 'e', $argv )
 		|| in_array( 'events', $argv )
 		|| in_array( 'results', $argv )
 	) {
@@ -124,7 +126,6 @@ if ( $import_sailors && ( $handle = fopen( 'sailors.csv', 'r' ) ) !== false ) {
 				$counter++;
 				continue;
 			}
-			int505_echo_dot( $counter );
 			$post_array = array(
 				'post_title'  => $p,
 				'post_type'   => $person_post_type_name,
@@ -159,7 +160,12 @@ if ( $import_sailors && ( $handle = fopen( 'sailors.csv', 'r' ) ) !== false ) {
 				}
 				$post_array['meta_input'][ $meta_key ] = $value;
 			}
-			wp_insert_post( $post_array );
+			$result = wp_insert_post( $post_array );
+			if ( $result ) {
+				int505_echo_dot( $counter );
+			} else {
+				int505_echo_dot( $counter, 'fail' );
+			}
 		} else {
 			int505_echo_dot( $counter, 'fail' );
 		}
