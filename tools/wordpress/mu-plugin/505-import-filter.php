@@ -102,6 +102,10 @@ class iworks_5o5_upload_fixer {
 			'Muzelec' => 'Jean-Luc Muzellec',
 		),
 		array(
+			'Philipe Boite'   => 'Philippe Boite',
+			'J. L. Muzeilec' => 'Jean-Luc Muzellec',
+		),
+		array(
 			'P Boite'    => 'Philippe Boite',
 			'J Nusellec' => 'Jean-Luc Muzellec',
 		),
@@ -3029,6 +3033,14 @@ class iworks_5o5_upload_fixer {
 			'Fossard'    => 'Robert Fossard',
 			'Barthelemy' => 'Barthelemy',
 		),
+		array(
+			'Philip Inscoe' => 'Phillip Inscoe',
+			'M. Greernaert' => 'Michael Geernaert',
+		),
+		array(
+			'Philip lnscoe' => 'Phillip Inscoe',
+			'Mike Geernaet' => 'Michael Geernaert',
+		),
 		/*
 		array(
 			'' => '',
@@ -3040,7 +3052,9 @@ class iworks_5o5_upload_fixer {
 	/**
 	 * foo
 	 */
-	private $person = array(
+    private $person = array(
+        'Steve Drakeford' => 'Stephen Drakeford',
+        'Ian Jewrey' => 'Ian Jewry',
 		'?'                           => '',
 		'011e Wenrup'                 => 'Olle Wenrup',
 		'011i Karlsson'               => 'Olli Karlsson',
@@ -3588,8 +3602,10 @@ class iworks_5o5_upload_fixer {
 		'D Smithwhite'                => 'David Smithwhite',
 		'D. Surtees'                  => 'Dennis Surtees',
 		'D. Vinnicombe'               => 'David Vinnicombe',
-		'D Wansborough'               => 'D. Wansborough',
-		'D. Wansbrough'               => 'David Wansbrough',
+		'D Wansborough'               => 'David Wansborough',
+		'D. Wansbrough'               => 'David Wansborough',
+        'David Wansbrough'               => 'David Wansborough',
+        'Guy Wansbrough' => 'Guy Wansborough',
 		'D. White'                    => 'Dave White',
 		'D. Wood'                     => 'David Wood',
 		'Daisenberger Micael'         => 'Michael Daisenberger',
