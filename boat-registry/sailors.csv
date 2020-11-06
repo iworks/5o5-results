@@ -1,26 +1,4 @@
 Nation,Name,Club,Description,Birth Date,Website,Facebook,Death Date
-IRL,Patrick Maharg
-GBR,Robert Wilkes
-GBR,Stephen Drakeford
-GBR,Bob Coles
-GBR,Ian Jewry
-GBR,Neil Turner
-GBR,Diana Hewitt
-GBR,Adrian Hewitt
-POL,Magdalena Baczyńska
-GBR,Bill Barker
-GBR,Dave Barnes
-GBR,Mark Owen
-GBR,Nick Peters
-GBR,Ian McGaw
-GBR,Martin Gotrel
-GBR,Tim Symons
-GBR,Gary Langdown
-GBR,Geoff Bettle
-GBR,David Booth
-GBR,Peter Milburn
-GBR,Graham Bailey
-GBR,Chris Stodel
 AUS,Adam Brenz-Verca,,,,,,
 AUS,Adam Wyatt,,,,,,
 AUS,Adrian Finglas,,,,,,
@@ -488,6 +466,7 @@ DEN,Kim Riis Pedersen,,,,,,
 DEN,Kim Sørensen,,,,,,
 DEN,Klaus Natorp,,,,,,
 DEN,Kristoffer Møllevang,,,,,,
+DEN,Lars Bojvad
 DEN,Lars Christensen,,,,,,
 DEN,Lars Espersen,,,,,,
 DEN,Lars Henrik Andersen,,,,,,
@@ -956,9 +935,11 @@ FRA,Yves Pajot,,,,,,
 FRA,Yves Pottier
 FRA,Yves Treboz,,,,,,
 GBR,Adrian Gibbons
+GBR,Adrian Hewitt
 GBR,Adrian Howe,,,,,,
 GBR,Adrian Lane,,,,,,
 GBR,Adrian Mullis,,,,,,
+GBR,Alan Bailey
 GBR,Alan Draper
 GBR,Alan Montague,,,,,,
 GBR,Alan Vanner
@@ -991,6 +972,7 @@ GBR,Andy Edmonds,,,,,,
 GBR,Andy Gilmour
 GBR,Andy Gray,,,,,,
 GBR,Andy Harrop,,,,,,
+GBR,Andy Hill
 GBR,Andy Parkinson,,,,,,
 GBR,Andy Phillips,,,,,,
 GBR,Andy Tyas,,,,,,
@@ -1006,12 +988,14 @@ GBR,Ben Farren-Price,,,,,,
 GBR,Ben Greenfield,,,,,,
 GBR,Ben McGrane,,,,,,
 GBR,Ben Tucker
+GBR,Bill Barker
 GBR,Bill Goodacre
 GBR,Bill Hooton,,,,,,
 GBR,Bill Masterman,,,,,,
 GBR,Bill Moakes,,,,,,
 GBR,Bill Munnery,,,,,,
 GBR,Bill Oliver,,,,,,
+GBR,Bob Coles
 GBR,Bobbie Johnson,,,,,,
 GBR,Brenda Romans,,,,,,
 GBR,Brett Mattews,,,,,,
@@ -1027,11 +1011,13 @@ GBR,Chris Lewns,,,1962,,,
 GBR,Chris Ritchie,,,,,,
 GBR,Chris Robinson,,,,,,
 GBR,Chris Romans,,,,,,
+GBR,Chris Stodel
 GBR,Chris Thorne,,,,,,
 GBR,Chris Timmins
 GBR,Christian Diebitsch,,,,,,
 GBR,Christopher Dando,,,,,,
 GBR,Clive Robinson,,,,,,
+GBR,Cohn Hamlet
 GBR,Colin Chamberlain
 GBR,Colin Fry
 GBR,Colin Jarvis
@@ -1049,8 +1035,10 @@ GBR,Daniel Hart,,,,,,
 GBR,Daniel Samanjoul,,,,,,
 GBR,Darrel Samanjoul,,,,,,
 GBR,Dave Barnes
+GBR,Dave Barnes
 GBR,Dave Chalkley,,,,,,
 GBR,Dave Clarke
+GBR,Dave Fawcett
 GBR,Dave Hughes,,,,,,
 GBR,Dave Parker
 GBR,Dave Poston,,,,,,
@@ -1060,9 +1048,11 @@ GBR,David Allinson
 GBR,David Banks,,,,,,
 GBR,David Barnes,,,,,,
 GBR,David Bell,,,,,,
+GBR,David Booth
 GBR,David Clark,,,,,,
 GBR,David Gibbons
 GBR,David Hitcock,,,,,,
+GBR,David Lucas
 GBR,David Pitman,,,,,,
 GBR,David Revill,,,,,,
 GBR,David Rose
@@ -1073,7 +1063,6 @@ GBR,David Sturrock
 GBR,David Thorpe,,,,,,
 GBR,David Treloar,,,,,,
 GBR,David Wansborough
-GBR,Guy Wansborough
 GBR,David Williams,,,,,,
 GBR,David Williamson
 GBR,David Wood,,,,,,
@@ -1082,6 +1071,7 @@ GBR,Dennis Cartwright,,,,,,
 GBR,Dennis Hyatt,,,,,,
 GBR,Derek Farrant,,,,,,
 GBR,Derek Jarvis
+GBR,Diana Hewitt
 GBR,Dick Howl
 GBR,Dick Rowe,,,,,,
 GBR,Dick Vivers
@@ -1101,19 +1091,24 @@ GBR,Frank Rainsborough,,,,,,
 GBR,Gareth Kelly,,,,,,
 GBR,Gary Cawthorne,,,,,,
 GBR,Gary Fowler,,,,,,
+GBR,Gary Langdown
+GBR,Geoff Bettle
 GBR,Geoff Carveth,,,,,,
 GBR,Geoff Edwards,,,,,,
 GBR,Geoff Kimber,,,,,,
 GBR,Geoff Lane,,,,,,
 GBR,Gerry Bullard
+GBR,Gordon Jewell
 GBR,Gordon Kingston
 GBR,Gordon McGeorge,,,,,,
 GBR,Gordon Russell,,,,,,
 GBR,Gordon Russen,,,,,,
 GBR,Graeme Russell,,,,,,
+GBR,Graham Bailey
 GBR,Grant Anderson
 GBR,Greg Brown,,,,,,
 GBR,Guy Humphrey
+GBR,Guy Wansborough
 GBR,Harold Barnes,,,,,,
 GBR,Howard Breckell,,,,,,
 GBR,Hubertus Ritter,,,,,,
@@ -1124,6 +1119,8 @@ GBR,Ian Godfrey,,,,,,
 GBR,Ian Gould,,,,,,
 GBR,Ian Henry,,,,,,
 GBR,Ian Jewry
+GBR,Ian Jewry
+GBR,Ian McGaw
 GBR,Ian McGillivray,,,,,,
 GBR,Ian McKnight
 GBR,Ian Merryfield,,,,,,
@@ -1176,6 +1173,7 @@ GBR,John Peats,,,,,,
 GBR,John Pipe
 GBR,John Ready
 GBR,John Showell
+GBR,John Walpole
 GBR,John Wilson,,,,,,
 GBR,John Woodhouse
 GBR,Jonat Mildred,,,,,,
@@ -1208,6 +1206,7 @@ GBR,Les Everitt
 GBR,Les Rant
 GBR,Lewis Dann,,,,,,
 GBR,Luke Molloy,,,,,,
+GBR,Luke South
 GBR,Magnus Groth,,,,,,
 GBR,Magnus Leask,,,,,,
 GBR,Malcolm Goodwin
@@ -1218,8 +1217,10 @@ GBR,Mark Fowler,,,,,,
 GBR,Mark Longstaff,,,,,,
 GBR,Mark Nicholson,,,,,,
 GBR,Mark Owen
+GBR,Mark Owen
 GBR,Mark Simpson
 GBR,Mark Upton-Brown,,,,,,
+GBR,Martin Gotrel
 GBR,Martin Goult,,,,,,
 GBR,Martin Grady,,,,,,
 GBR,Martin Hodgson,,,,,,
@@ -1273,6 +1274,7 @@ GBR,Neil Martin
 GBR,Neil Rabbitts,,,,,,
 GBR,Neil Thomas,,,,,,
 GBR,Neil Turner
+GBR,Neil Turner
 GBR,Neil Willmott,,,,,,
 GBR,Nell Rabbitts,,,,,,
 GBR,Niall Ferguson,,,,,,
@@ -1282,6 +1284,7 @@ GBR,Nicholas Smith
 GBR,Nick Beloe,,,,,,
 GBR,Nick Faulkener
 GBR,Nick Martin
+GBR,Nick Peters
 GBR,Nick Powell,,,,,,
 GBR,Nick Thorp,,,,,,
 GBR,Nick Willis,,,,,,
@@ -1297,6 +1300,7 @@ GBR,Nigel Statham,,,,,,
 GBR,Nigel Summers
 GBR,Nigel Theodon
 GBR,Nigel Treloar,,,,,,
+GBR,Nigel Voght
 GBR,Nigel Vooght,,,,,,
 GBR,Noel Ensoll
 GBR,Nolan Forward,,,,,,
@@ -1315,6 +1319,7 @@ GBR,Paul Lovesy,,,,,,
 GBR,Paul Oakey
 GBR,Paul Walker
 GBR,Paul Whitworth
+GBR,Paul Wills
 GBR,Paul Young,,,,,,
 GBR,Penny Clark,,,,,,
 GBR,Pete Brooke Houghton,,,,,,
@@ -1327,6 +1332,7 @@ GBR,Peter Fordham
 GBR,Peter Greenwood
 GBR,Peter Halliwell,,,,,,
 GBR,Peter Kyne
+GBR,Peter Milburn
 GBR,Peter Sherwin
 GBR,Peter Siddall
 GBR,Peter Smithin,,,,,,
@@ -1337,6 +1343,7 @@ GBR,Phil Milanes
 GBR,Phil Ramming
 GBR,Philip Baxter,,,,,,
 GBR,Philip Brown,,,,,,
+GBR,Philip Gibbons
 GBR,Philip Gibbons
 GBR,Philip Gladman,,,,,,
 GBR,Phillip Inscoe
@@ -1355,6 +1362,7 @@ GBR,Richard Tew,,,,,,
 GBR,Richard Tucker,,,,,,
 GBR,Richard Williams,,,,,,
 GBR,Ricky Willows,,,,,,
+GBR,Rob Martin
 GBR,Rob Palmerone
 GBR,Robbie Roberton
 GBR,Robert Ahlheid,,,,,,
@@ -1363,6 +1371,7 @@ GBR,Robert Longworth
 GBR,Robert Napier,,,,,,
 GBR,Robert Stallard,,,,,,
 GBR,Robert Trickett
+GBR,Robert Wilkes
 GBR,Robin Annett,,,,,,
 GBR,Robin Farrant,,,,,,
 GBR,Robin Moss
@@ -1383,6 +1392,7 @@ GBR,S Lawrence,,,,,,
 GBR,Sam Pascoe,,,,,,
 GBR,Scott Allen,,,,,,
 GBR,Sean Rankins,,,,,,
+GBR,Shaun Moyler
 GBR,Simon Briddon,,,,,,
 GBR,Simon Dabson,,,,,,
 GBR,Simon Hiscook,,,,,,
@@ -1399,7 +1409,9 @@ GBR,Simon Wood,,,,,,
 GBR,Staffan Stromberg,,,,,,
 GBR,Stephen Bowen
 GBR,Stephen Cottrell
+GBR,Stephen Drakeford
 GBR,Stephen Hunt,,,,
+GBR,Stephen Northeast
 GBR,Stephen Northeast
 GBR,Stephen Tew
 GBR,Steve Adams,,,,,,
@@ -1427,6 +1439,7 @@ GBR,Tim Hancock,,,,,,
 GBR,Tim Marlow
 GBR,Tim Needham,,,,,,
 GBR,Tim Octon,,,,,,
+GBR,Tim Symons
 GBR,Tim Williams,,,,,,
 GBR,Timothy Whittle
 GBR,Toby Winchester,,,,,,
@@ -1444,6 +1457,7 @@ GBR,Victor Deschamps,,,,,,
 GBR,Victor Stopp,,,,,,
 GBR,Vincent Horey,,,,,,
 GBR,Walter Doule,,,,,,
+GBR,Wayne Adams
 GBR,Will Waddington,,,,,,
 GBR,William Garnier,,,,,,
 GBR,William Ingram
@@ -1999,6 +2013,7 @@ IRL,Matthew McNicholl,,,,,,
 IRL,Michael Ennis,,,,,,
 IRL,Neil Davison
 IRL,Pal O'Sullivan,,,,,,
+IRL,Patrick Maharg
 IRL,Patrick Meharg
 IRL,Sandy Rimmington,,,,,,
 ITA,Airoldi Massimiliano,,,,,,
@@ -2139,6 +2154,7 @@ POL,Maciej Kasprzyk,,,,,,
 POL,Maciej Kondolewski,,,,,,
 POL,Maciej Kropidłowski,,,,,,
 POL,Maciej Piasecki,,,,,,
+POL,Magdalena Baczyńska
 POL,Marcin Jaskółka,,,,,,
 POL,Marcin Józefowski,,,,,,
 POL,Marcin Matla,,,,,,
@@ -2154,6 +2170,7 @@ POL,Marek Milewski,,,,,,
 POL,Mariusz Ambroziak,,,,,,
 POL,Mariusz Michalski,Yacht Klub Stal Gdynia,,,,,
 POL,Mariusz Świstelnicki,,,,,,
+POL,Mateusz Byrski
 POL,Mateusz Grużewski,,,,,,
 POL,Mateusz Jura,AZS SGH Warszawa,,,,,
 POL,Mateusz Wolszczak,,,,,,
