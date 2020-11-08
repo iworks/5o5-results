@@ -4426,6 +4426,7 @@ class iworks_5o5_upload_fixer {
 		'Gregg Brown'                 => 'Greg Brown',
 		'Gregg Ian'                   => 'Ian Gregg',
 		'Grerad Tilly'                => 'Gerard Tilly',
+		'Gresle Thierri'              => 'Thierry Gresle',
 		'Gresle Thierry'              => 'Thierry Gresle',
 		'Grob Laurent'                => 'Laurent Grob',
 		'Grosskurth Benjamin'         => 'Benjamin Großkurth',
