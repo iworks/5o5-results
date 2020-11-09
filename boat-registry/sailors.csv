@@ -1,19 +1,4 @@
 Nation,Name,Club,Description,Birth Date,Website,Facebook,Death Date
-GER,Dierk Möller
-GER,Britta Knaller
-CRO,Ratko Stibric
-ITA,Giuseppe Viaroni
-GER,Bastian Henning
-GER,Alexander Mertens
-GER,Henry Stoffers
-GER,Henning Oberbeck
-GER,Simon Blessing
-GER,Dietrich Kirchner
-GER,Catrin Janssen
-GER,Maximiliane Kempermann
-GER,Jana Hiller
-GER,Christian Janßen
-GER,Robert Neumann
 AUS,Adam Brenz-Verca,,,,,,
 AUS,Adam Wyatt,,,,,,
 AUS,Adrian Finglas,,,,,,
@@ -298,6 +283,7 @@ BEL,Bas Van Assche,,,,,,
 BEL,Casper Martens,,,,,,
 BEL,Cédric Crets,,,,,,
 BEL,Chris Lehouck,,,1968,,,
+BEL,Claude Collette
 BEL,Eric Defroimont,,,,,,
 BEL,Fabienne Boucau,,,,,,
 BEL,Frédéric Decocq,,,,,,
@@ -320,6 +306,7 @@ BEl,Sander Smeets,,,,,,
 BEL,Stijn Oyen,,,,,,
 BEL,Théo Geeraerts,,,,,,
 BEL,Toon Van Assche,,,,,,
+BEL,Xavier Dobbelstein
 BEL,Yannick Maheux,,,,,,
 BER,Brett Wright,,,,,,
 CAN,Adam Bookman,,,,,,
@@ -431,6 +418,7 @@ CRO,Miro Cvitkovic,,,,,,
 CRO,Nikola Fabijanic,,,,,,
 CRO,Nikola Fabijanić,,,,,,
 CRO,Nina Popovac,,,,,,
+CRO,Ratko Stibric
 CRO,Ratko Štibrić,,,,,,
 CRO,Slobodan Velikic,,,,,,
 CRO,Slobodan Velikić,,,,,,
@@ -589,7 +577,7 @@ FRA,Alexis Preel,,,,,,
 FRA,Aline Martin,,,,,,
 FRA,Amaury Louin,,,,,,
 FRA,Anaelle Couvreux,,,,,,
-FRA,Anais Dechauffour,,,,,,
+FRA,Anaïs Dechauffour,,,,,,
 FRA,Anais Pain,,,,,,
 FRA,Anna-Marie de Kergariou,,,,,,
 FRA,Antoine de Nijs,,,,,,
@@ -646,6 +634,7 @@ FRA,Ciret-Lecosquer Madeg,,,,,,
 FRA,Clair Carvallo,,,,,,
 FRA,Claire Carvallo,,,,,,
 FRA,Claude Got,,,,,,
+FRA,Claudel Phillips
 FRA,Clement Card,,,,,,
 FRA,D Doufier,,,,,,
 FRA,Damien Trouillet,,,,,,
@@ -654,6 +643,7 @@ FRA,Daniel Wagner,,,,,,
 FRA,David de Monteil,,,,,,
 FRA,David Denis,,,,,,
 FRA,Delphine Markt,,,,,,
+FRA,Denis Oudard
 FRA,Denis Vanier
 FRA,Dominique Keraudrenv,,,,,,
 FRA,Dominique Lambard,,,,,,
@@ -728,6 +718,7 @@ FRA,Guillaume Faugier,,,,,,
 FRA,Guillaume Got,,,,,,
 FRA,Guillaume Regnier,,,,,,
 FRA,Guillaume Thery,,,,,,
+FRA,Gwenola Tristan
 FRA,Henry Chevet,,,,,,
 FRA,Her Lecharpentier,,,,,,
 FRA,Hervé Brillaud,,,,,,
@@ -865,6 +856,7 @@ FRA,Philippe Claraz,,,,,,
 FRA,Philippe Claude,,,,,,
 FRA,Philippe Dubuc,,,,,,
 FRA,Philippe Duquesne,,,,,,
+FRA,Philippe Lecrite
 FRA,Philippe Leroy,,,,,,
 FRA,Philippe Lucienne,,,,,,
 FRA,Philippe Markt,,,,,,
@@ -889,6 +881,7 @@ FRA,Pierre Williot,,,,,,
 FRA,Pierre-Jerome Coulmin,,,,,,
 FRA,Pierre-Yves Partant,,,,,,
 FRA,Regis Viateur,,,,,,
+FRA,Remi Tristan
 FRA,Remi Tristan
 FRA,Riwanon le Roy,,,,,,
 FRA,Robert Fossard,,,,,,
@@ -1486,6 +1479,7 @@ GER,Ailyn Hofmann,,,,,,
 GER,Alex Cross,,,,,,
 GER,Alexander Kodisch,,,,,,
 GER,Alexander Lampert,,,,,,
+GER,Alexander Mertens
 GER,Alexander Neddermeier,,,,,,
 GER,Alexander von Mertens,,,,,,
 GER,Alexander Wilhelm,,,,,,
@@ -1529,6 +1523,7 @@ GER,Axel Isler,,,,,,
 GER,Axel Oetken,,,,,,
 GER,Axel Schult,,,,,,
 GER,Basti Henning,,,,,,
+GER,Bastian Henning
 GER,Benedict Pearson,,,,,,
 GER,Benedikt Brüggemann,,,,,,
 GER,Benedikt Northoff,,,,,,
@@ -1544,6 +1539,7 @@ GER,Birgit Hartmann,,,,,,
 GER,Bjorn Schaar,,,,,,
 GER,Braun Falico,,,,,,
 GER,Brigitte Preuss,,,,,,
+GER,Britta Knaller
 GER,Bruno Laudage,,,,,,
 GER,Carl Uwe Böttner,,,,,,
 GER,Caroline Szesny,,,,,,
@@ -1551,9 +1547,11 @@ GER,Carsten Engel,,,,,,
 GER,Carsten Hammer,,,,,,
 GER,Carsten Hehl,,,,,,
 GER,Carsten Seeger,,,,,,
+GER,Catrin Janssen
 GER,Christian Bühring-Uhle,,,,,,
 GER,Christian Dörr,,,,,,
 GER,Christian Henge,,,,,,
+GER,Christian Janßen
 GER,Christian Labenz,,,,,,
 GER,Christian Lempp,,,,,,
 GER,Christian Lindemann,,,,,,
@@ -1585,8 +1583,10 @@ GER,Daniel Wehden,,,,,,
 GER,Dave Farmer,,,,,,
 GER,David Thiemann,,,,,,
 GER,Davina Schlesiger,,,,,,
+GER,Dierk Möller
 GER,Dieter Cordes
 GER,Diethardt Freye,,,,,,
+GER,Dietrich Kirchner
 GER,Dietrich Scheder,,,,,,
 GER,Dietrich Scheder-Bieschin,,,,,,
 GER,Dirk Barteldt,,,,,,
@@ -1677,11 +1677,13 @@ GER,Heinz Balters,,,,,,
 GER,Helmut Madeheim,,,,,,
 GER,Hendrik Annighöfer,,,,,,
 GER,Hendrik Reinhardt,,,,,,
+GER,Henning Oberbeck
 GER,Henning Ries,,,,,,
 GER,Henning Steffen,,,,,,
 GER,Henrik Masekowitz,,,,,,
 GER,Henrik Schade,,,,,,
 GER,Henry Köthe,,,,,,
+GER,Henry Stoffers
 GER,Hermann Wollenbecker,,,,,,
 GER,Hilmer Goedeking,,,,,,
 GER,Horst Sjuts,,,,,,
@@ -1697,6 +1699,7 @@ GER,Jan Reifferscheidt,,,,,,
 GER,Jan Stölken,,,,,,
 GER,Jan Stremlow,,,,,,
 GER,Jan Wiechmann,,,,,,
+GER,Jana Hiller
 GER,Jana Weißbach,,,,,,
 GER,Jan-Hendrik Lenz,,,,,,
 GER,Jan-Philipp Hofmann,,,,,,
@@ -1825,6 +1828,7 @@ GER,Max Rauner,,,,,,
 GER,Maximilian Mayrshofer,,,,,,
 GER,Maximilian Roller,,,,,,
 GER,Maximilian Weiß,,,,,,
+GER,Maximiliane Kempermann
 GER,Meike Schomäker,,,,,,
 GER,Melanie Kohlhoff-Horstmann,,,,,,
 GER,Melanie Oestergaard,,,,,,
@@ -1873,6 +1877,7 @@ GER,Patrick Eberwein,,,,,,
 GER,Paul Meyer,,,,,,
 GER,Paule Schultz
 GER,Pedro Bohnenberger,,,,,,
+GER,Peter Forster
 GER,Peter Gerdts,,,,,,
 GER,Peter Heck
 GER,Peter Hobusch,,,,,,
@@ -1907,6 +1912,7 @@ GER,Robert Bautz,,,,,,
 GER,Robert Brand,,,,,,
 GER,Robert Bussenius,,,,,,
 GER,Robert Hanke,,,,,,
+GER,Robert Neumann
 GER,Robert Steinke,,,,,,
 GER,Robert Wisolek,,,,,,
 GER,Roger Bussenius,,,,,,
@@ -1921,6 +1927,7 @@ GER,Sebastian Munck,,,,,,
 GER,Sebastian Schröder,,,,,,
 GER,Sebastian Wiemer,,,,,,
 GER,Siegfried Labenz,,,,,,
+GER,Simon Blessing
 GER,Sophie Söllner,,,,,,
 GER,Stefan Brückner,,,,,,
 GER,Stefan Kempf,,,,,,
@@ -2048,6 +2055,7 @@ ITA,Gabriele Cortegiani,,,,,,
 ITA,Gabriele Natali,,,,,,
 ITA,Giacinto Piacquadio,,,,,,
 ITA,Giovanni Giacometti,,,,,,
+ITA,Giuseppe Viaroni
 ITA,Luca Manzi,,,,,,
 ITA,Paolo Corbellini,,,,,,
 ITA,Roberto Candela,,,,,,
@@ -2300,6 +2308,7 @@ RSA,Craig Parker,,,,,,
 RSA,Dale Kushner,,,,,,
 RSA,Danie Ungerer,,,,,,
 RSA,Daniel Eigelaar,,,,,,
+RSA,Daniel Snyman
 RSA,Dave Grieve,,,,,,
 RSA,David Vinnicombe,,,,,,
 RSA,Dennis Lapham,,,,,,
@@ -2433,6 +2442,7 @@ SUI,Lorenz Nydegger,,,,,,
 SUI,Luc Schultheiss,,,,,,
 SUI,Lucien Keller
 SUI,Marc Froidevaux,,,,,,
+SUI,Marc H. Collomb
 SUI,Marcell Plüss,,,,,,
 SUI,Markus Gericke,,,,,,
 SUI,Markus Heilig,,,,,,
@@ -2458,6 +2468,7 @@ SUI,Stéphane Burri,,,,,,
 SUI,Toni Utiger,CVE Cercle de la Voile Estavayer,,1965,,toni.utiger,
 SUI,Valéry Jacot,,,,,,
 SUI,Walter Ammann,,,,,,
+SUI,Yvan de Rham
 SUI,Yves Reinacher,,,,,,
 SUI,Yvo Dürr,,,,,,
 SWE,Åkesson Fredrik,,,,,,
@@ -2471,6 +2482,7 @@ SWE,Anders Eklund,,,,,,
 SWE,Anders Hellekant,,,,,,
 SWE,Anders Johansson,,,,,,
 SWE,Anders Karoliussen,,,,,,
+SWE,Anders Malmström
 SWE,Anders Nilsson,,,,,,
 SWE,Andreas Carlsson,,,,,,
 SWE,Andreas Karoliussen,,,,,,
@@ -2609,6 +2621,7 @@ SWE,Robert Larsson,,,,,,
 SWE,Robin Eliasson,,,,,,
 SWE,Roy Wedin,,,,,,
 SWE,Staffan Eklund,,,,,,
+SWE,Stefan Blidner
 SWE,Stefan Eriksson,,,,,,
 SWE,Stefan Lundqvist,,,,,,
 SWE,Stefan Sjöström,,,,,,
