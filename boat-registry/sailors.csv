@@ -1,4 +1,8 @@
 Nation,Name,Club,Description,Birth Date,Website,Facebook,Death Date
+GER,Markus Paulke
+GER,Malte Fiedler
+GER,Rebecca Snedker
+GER,Stefan Rausch
 AUS,Adam Brenz-Verca,,,,,,
 AUS,Adam Wyatt,,,,,,
 AUS,Adrian Finglas,,,,,,
@@ -472,7 +476,6 @@ DEN,Kim Sørensen,,,,,,
 DEN,Klaus Natorp,,,,,,
 DEN,Kristoffer Møllevang,,,,,,
 DEN,Lars Bojvad
-DEN,Lars Bojvad
 DEN,Lars Christensen,,,,,,
 DEN,Lars Espersen,,,,,,
 DEN,Lars Henrik Andersen,,,,,,
@@ -882,7 +885,6 @@ FRA,Pierre-Jerome Coulmin,,,,,,
 FRA,Pierre-Yves Partant,,,,,,
 FRA,Regis Viateur,,,,,,
 FRA,Remi Tristan
-FRA,Remi Tristan
 FRA,Riwanon le Roy,,,,,,
 FRA,Robert Fossard,,,,,,
 FRA,Robert Lehmann,,,,,,
@@ -1047,7 +1049,6 @@ GBR,Daniel Hart,,,,,,
 GBR,Daniel Samanjoul,,,,,,
 GBR,Darrel Samanjoul,,,,,,
 GBR,Dave Barnes
-GBR,Dave Barnes
 GBR,Dave Chalkley,,,,,,
 GBR,Dave Clarke
 GBR,Dave Fawcett
@@ -1130,7 +1131,6 @@ GBR,Ian Barker,,,,,,
 GBR,Ian Godfrey,,,,,,
 GBR,Ian Gould,,,,,,
 GBR,Ian Henry,,,,,,
-GBR,Ian Jewry
 GBR,Ian Jewry
 GBR,Ian McGaw
 GBR,Ian McGillivray,,,,,,
@@ -1229,7 +1229,6 @@ GBR,Mark Fowler,,,,,,
 GBR,Mark Longstaff,,,,,,
 GBR,Mark Nicholson,,,,,,
 GBR,Mark Owen
-GBR,Mark Owen
 GBR,Mark Simpson
 GBR,Mark Upton-Brown,,,,,,
 GBR,Martin Gotrel
@@ -1285,7 +1284,6 @@ GBR,Neil Huwell,,,,,,
 GBR,Neil Martin
 GBR,Neil Rabbitts,,,,,,
 GBR,Neil Thomas,,,,,,
-GBR,Neil Turner
 GBR,Neil Turner
 GBR,Neil Willmott,,,,,,
 GBR,Nell Rabbitts,,,,,,
@@ -1356,7 +1354,6 @@ GBR,Phil Ramming
 GBR,Philip Baxter,,,,,,
 GBR,Philip Brown,,,,,,
 GBR,Philip Gibbons
-GBR,Philip Gibbons
 GBR,Philip Gladman,,,,,,
 GBR,Phillip Inscoe
 GBR,Ray Selling
@@ -1423,7 +1420,6 @@ GBR,Stephen Bowen
 GBR,Stephen Cottrell
 GBR,Stephen Drakeford
 GBR,Stephen Hunt,,,,
-GBR,Stephen Northeast
 GBR,Stephen Northeast
 GBR,Stephen Tew
 GBR,Steve Adams,,,,,,
@@ -1524,6 +1520,7 @@ GER,Axel Oetken,,,,,,
 GER,Axel Schult,,,,,,
 GER,Basti Henning,,,,,,
 GER,Bastian Henning
+GER,Bastian Horstmann
 GER,Benedict Pearson,,,,,,
 GER,Benedikt Brüggemann,,,,,,
 GER,Benedikt Northoff,,,,,,
@@ -1672,6 +1669,7 @@ GER,Harald Hundt,,,,,,
 GER,Harald König,,,,,,
 GER,Hartmut Weiß,,,,,,
 GER,Hartwig Friedrichs,,,,,,
+GER,Hein Peters
 GER,Heiner Hirthe,,,,,,
 GER,Heinz Balters,,,,,,
 GER,Helmut Madeheim,,,,,,
@@ -1690,6 +1688,7 @@ GER,Horst Sjuts,,,,,,
 GER,Ingo Schneider,,,,,,
 GER,Iris Anton,,,,,,
 GER,Iris Feldmann,,,,,,
+GER,Iris Ruhnau
 GER,Ivonne Seifert,,,,,,
 GER,Jakob Achterberg,,,,,,
 GER,Jan Behrendt,,,,,,
@@ -1832,6 +1831,7 @@ GER,Maximiliane Kempermann
 GER,Meike Schomäker,,,,,,
 GER,Melanie Kohlhoff-Horstmann,,,,,,
 GER,Melanie Oestergaard,,,,,,
+GER,Michael Baumann
 GER,Michael Daisenberger,,,,,,
 GER,Michael Eller,,,,,,
 GER,Michael Freitag,,,,,,
@@ -1884,6 +1884,7 @@ GER,Peter Hobusch,,,,,,
 GER,Peter Kohlhoff,,,,,,
 GER,Peter Kruse,,,,,,
 GER,Peter Wackerbauer,,,,,,
+GER,Peter Wichtrup
 GER,Peter Wilbert,,,,,,
 GER,Peter Wolffram,,,,,,
 GER,Petra Kliba-Schmidt,,,,,,
@@ -1919,6 +1920,7 @@ GER,Roger Bussenius,,,,,,
 GER,Roland Herrmann,,,,,,
 GER,Roland Wiedemann,,,,,,
 GER,Rolf Bertenrath,,,,,,
+GER,Rolf Henrike
 GER,Rolf Meyer,,,,,,
 GER,Sascha Spors,,,,,,
 GER,Sebastian Dörr,,,,,,
@@ -1968,6 +1970,7 @@ GER,Thore von Puttkamer,,,,,,
 GER,Thorge Holm,,,,,,
 GER,Thorsten Drewes,,,,,,
 GER,Thorsten Pieper,,,,,,
+GER,Thorsten Pösch
 GER,Thorsten Pösch,,,,,,
 GER,Thorsten Spötter,,,,,,
 GER,Thure Gnadeberg,,,,,,
