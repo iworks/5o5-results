@@ -3553,6 +3553,10 @@ class iworks_5o5_upload_fixer {
 			'Matscheroth-Brodwurm' => 'Pia Matscheroth-Brodwurm',
 			'Pia'                  => '',
 		),
+		array(
+            'Gilbert Vinches' => 'Gilbert Vinches',
+            'Briffoteaux' => 'Charles Briffoteaux',
+		),
 		/*
 		array(
 			'' => '',
@@ -3564,7 +3568,13 @@ class iworks_5o5_upload_fixer {
 	/**
 	 * foo
 	 */
-	private $person = array(
+    private $person = array(
+        'Brun Eric' => 'Eric Brun',
+        'Lionel Lessol' => 'Lionel Lesoil',
+        'Lesoil Lionel' => 'Lionel Lesoil',
+        'Duquesne Ph' => 'Philippe Duquesne',
+        'Gallardo Bruno' => 'Bruno Gallardo',
+        'Briffoteaux Charles' => 'Charles Briffoteaux',
 		'?'                           => '',
 		'011e Wenrup'                 => 'Olle Wenrup',
 		'011i Karlsson'               => 'Olli Karlsson',
@@ -5955,6 +5965,7 @@ class iworks_5o5_upload_fixer {
 		'Phillippe Blanchard'         => 'Philippe Blanchard',
 		'Phillippe Chevelier'         => 'Philippe Chevalier',
 		'Phillippe Jacot'             => 'Philippe Jacot',
+		'Partant Pierre-Yves'                  => 'Pierre-Yves Partant',
 		'Pi Partant'                  => 'Pierre-Yves Partant',
 		'Pia Matscheroth Brodwu'      => 'Pia Matscheroth-Brodwurm',
 		'Pia Matscheroth Brodwurm'    => 'Pia Matscheroth-Brodwurm',
