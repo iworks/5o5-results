@@ -640,6 +640,8 @@ if ( $import_results && ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false 
 				$test = preg_replace( '/&amp;/', '&', $test );
 				$test = preg_replace( '/&nbsp;/', ' ', $test );
 				$test = preg_replace( '/&#8217;/', '\'', $test );
+				$test = preg_replace( '/&#8222;/', '"', $test );
+				$test = preg_replace( '/&#8221;/', '"', $test );
 				if ( $test === $post_title ) {
 					if ( $debug ) {
 						echo 'SKIP: ',date( 'y-m-d', $iworks_fleet_result_date_start ), ' ',$post_title,PHP_EOL;
