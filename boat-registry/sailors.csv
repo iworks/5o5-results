@@ -1,8 +1,4 @@
 Nation,Name,Club,Description,Birth Date,Website,Facebook,Death Date
-FRA,Lionel Lesoil
-GER,Adrien Lasnier
-FRA,Bruno Gallardo
-FRA,Charles Briffoteaux
 AUS,Adam Brenz-Verca,,,,,,
 AUS,Adam Wyatt,,,,,,
 AUS,Adrian Finglas,,,,,,
@@ -61,6 +57,7 @@ AUS,Darryl Roos,,,,,,
 AUS,Daryl Roos,,,,,,
 AUS,Dave Atwell,,,,,,
 AUS,Dave Christie,,,,,,
+AUS,Dave Perlman
 AUS,David Alexander,,,,,,
 AUS,David Castles,,,,,,
 AUS,David Christie,,,,,,
@@ -623,6 +620,7 @@ FRA,Bertrand Molinier,,,,,,
 FRA,Bev Moss,,,,,,
 FRA,Biche Olivier
 FRA,Bruno Bonnet,,,,,,
+FRA,Bruno Gallardo
 FRA,Bruno Levesque,,,,,,
 FRA,Bruno Vaniekaut,,,,,,
 FRA,Camille Payrou
@@ -631,6 +629,7 @@ FRA,Carole Blattner,,,,,,
 FRA,Cedric Faucheux,,,,,,
 FRA,Celine Chevet,,,,,,
 FRA,Champenois Matthieu
+FRA,Charles Briffoteaux
 FRA,Charles Briffotevaux,,,,,,
 FRA,Charles Courbonne,,,,,,
 FRA,Charles de Kergariou,,,,,,
@@ -800,6 +799,7 @@ FRA,Laurent Lasnier,,,,,,
 FRA,Laurent Michel,,,,,,
 FRA,Lawrence Banahan,,,,,,
 FRA,Lecorgne Pierre
+FRA,Lionel Lesoil
 FRA,Loïc Bleuez,,,,,,
 FRA,Loic Brillaud,,,,,,
 FRA,Louis Claude,,,,,,
@@ -823,6 +823,7 @@ FRA,Marc-Martin Titouan,,,,,,
 FRA,Marie Agnes Catrix,,,,,,
 FRA,Marie Lafortune
 FRA,Marie Nowak,,,,,,
+FRA,Marin Carnot
 FRA,Marine Delagrange,,,,,,
 FRA,Marion Michel,,,,,,
 FRA,Martin Peculier,,,,,,
@@ -1142,7 +1143,6 @@ GBR,Guy Humphrey
 GBR,Guy Wansborough
 GBR,Harold Barnes,,,,,,
 GBR,Howard Breckell,,,,,,
-GBR,Hubertus Ritter,,,,,,
 GBR,Hugh Bourn,,,,,,
 GBR,Hugh Myers
 GBR,Ian Barker,,,,,,
@@ -1464,6 +1464,7 @@ GBR,Tim Brooks
 GBR,Tim Fells
 GBR,Tim Hancock,,,,,,
 GBR,Tim Marlow
+GBR,Tim Merry
 GBR,Tim Needham,,,,,,
 GBR,Tim Octon,,,,,,
 GBR,Tim Symons
@@ -1489,7 +1490,9 @@ GBR,Will Waddington,,,,,,
 GBR,William Garnier,,,,,,
 GBR,William Ingram
 GER,Adalbert Kluck,,,,,,
+GER,Adrien Lasnier
 GER,Ailyn Hofmann,,,,,,
+GER,Alena-Larissa Wilkens
 GER,Alex Cross,,,,,,
 GER,Alexander Kodisch,,,,,,
 GER,Alexander Lampert,,,,,,
@@ -1512,6 +1515,7 @@ GER,Andreas Porth,,,,,,
 GER,Andreas Roller,,,,,,
 GER,Andreas Schmidt,,,,,,
 GER,Andreas Schulter,,,,,,
+GER,Andreas Stickel
 GER,Andreas Thomsen,,,,,,
 GER,Andrew Moakes,,,,,,
 GER,Angela Stenger,,,,,,
@@ -1524,6 +1528,7 @@ GER,Anna Hauschild,,,,,,
 GER,Anna Heinisch,,,,,,
 GER,Anna Hoell,,,,,,
 GER,Anna Lang,,,,,,
+GER,Anna Lienau
 GER,Anne Nehrenberg,,,,,,
 GER,Annette Thiel,,,,,,
 GER,Antje Gosch,,,,,,
@@ -1641,6 +1646,7 @@ GER,Florian Kemper,,,,,,
 GER,Florian Lautenschlager,,,,,,
 GER,Florian Rheinheimer,,,,,,
 GER,Franco Weichel,,,,,,
+GER,Frank Beier
 GER,Frank Böhm,,,,,,
 GER,Frank Dieckmann
 GER,Frank Feller,,,,,,
@@ -1703,13 +1709,16 @@ GER,Henry Stoffers
 GER,Hermann Wollenbecker,,,,,,
 GER,Hilmer Goedeking,,,,,,
 GER,Horst Sjuts,,,,,,
+GER,Hubertus Ritter,,,,,,
 GER,Ingo Schneider,,,,,,
 GER,Iris Anton,,,,,,
 GER,Iris Feldmann,,,,,,
 GER,Iris Ruhnau
+GER,Ivo Vollering
 GER,Ivonne Seifert,,,,,,
 GER,Jakob Achterberg,,,,,,
 GER,Jan Behrendt,,,,,,
+GER,Jan Jürgens
 GER,Jan Lürkens,,,,,,
 GER,Jan Mares,,,,,,
 GER,Jan Reifferscheidt,,,,,,
@@ -1810,6 +1819,7 @@ GER,Maren Roos,,,,,,
 GER,Margit Falk
 GER,Mario Tirre,,,,,,
 GER,Marius Knippscheer,,,,,,
+GER,Marius Wolff
 GER,Mark Dieckmann
 GER,Mark Felling,,,,,,
 GER,Markus Hintz,,,,,,
@@ -1880,6 +1890,7 @@ GER,Nicholas Melzwig,,,,,,
 GER,Nick Heuwinkel,,,,,,
 GER,Nicola Birkner,,,,,,
 GER,Nicolai Völckner,,,,,,
+GER,Nikolas Jägersberg
 GER,Nikolaus Jägersberg,,,,,,
 GER,Nils-Henning Hofmann,,,,,,
 GER,Norbert Becker,,,,,,
@@ -1919,6 +1930,7 @@ GER,Pia Matscheroth-Brodwurm,,,,,,
 GER,Pia Wiesbauer,,,,,,
 GER,Raik Wollenbecker,,,,,,
 GER,Rainer Gerdes,,,,,,
+GER,Rainer Gieseler
 GER,Rainer Görge,,,,,,
 GER,Rainer Kremkow,,,,,,
 GER,Rainer Lühr,,,,,,
@@ -1998,6 +2010,7 @@ GER,Thorsten Pösch,,,,,,
 GER,Thorsten Spötter,,,,,,
 GER,Thure Gnadeberg,,,,,,
 GER,Till Supan,,,,,,
+GER,Tillmann Baier
 GER,Tilman Giesen,,,,,,
 GER,Tim Boger,,,,,,
 GER,Tim Böger,Hamburger Segel Club,"Started as crew 1983, changed to helm 1990",1963,https://www.fletec.io,,
