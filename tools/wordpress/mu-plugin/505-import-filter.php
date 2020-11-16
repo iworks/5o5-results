@@ -1362,6 +1362,10 @@ class iworks_5o5_upload_fixer {
 			'B. Moss'  => 'Bev Moss',
 		),
 		array(
+			'Farrant' => 'Derek Farrant',
+			'B. Moss'  => 'Bev Moss',
+		),
+		array(
 			'P. White' => 'Peter White',
 			'J. Davis' => 'John Davis',
 		),
@@ -1688,6 +1692,14 @@ class iworks_5o5_upload_fixer {
 		array(
 			'Sogard'  => 'Birgitte Søgård',
 			'Barlebo' => 'Carsten Barlebo',
+		),
+		array(
+			'Buffet'    => 'Marcel Buffet',
+			'Moreau D.' => 'Thierry Moreau-Defarges',
+		),
+		array(
+			'Buffet'    => 'Marcel Buffet',
+			'Fleury' => 'Fleury',
 		),
 		array(
 			'Buffet'    => 'Marcel Buffet',
@@ -2950,6 +2962,10 @@ class iworks_5o5_upload_fixer {
 			'White'     => 'White',
 		),
 		array(
+			'White'     => 'Peter White',
+			'Davies' => 'John Davies',
+		),
+		array(
 			'P. Towers' => 'Paul Towers',
 			'S. Todd'   => 'Steve Todd',
 		),
@@ -3418,6 +3434,10 @@ class iworks_5o5_upload_fixer {
 			'J. Ward'    => 'John Ward',
 		),
 		array(
+			'Loveday' => 'John Loveday',
+			'Terry'    => 'Terry',
+		),
+		array(
 			'Wills' => 'Paul Wills',
 			'Amis'  => 'Amis',
 		),
@@ -3625,6 +3645,38 @@ class iworks_5o5_upload_fixer {
 			'Grabowski' => 'Grabowski',
 			'Jore'      => 'Antti Jore',
 		),
+		array(
+			'Guillaume' => 'Serge Guillaume',
+			'Richard' => 'Richard',
+		),
+		array(
+            'Loday'                     => 'Nicholas Loday',
+			'Fedorenko' => 'Fedorenko',
+		),
+		array(
+			'Bourn' => 'Hugh Bourn',
+			'Bryant' => 'Michael Bryant',
+		),
+		array(
+			'Eckerstrom' => 'Göran Eckeström',
+			'Calvert' => 'Jan Calvert',
+		),
+		array(
+			'Pajot' => 'Yves Pajot',
+			'Kergreis' => 'Yvon Kergreis',
+		),
+		array(
+			'Christensen' => 'Jens Christensen',
+			'Thomsen' => 'Thomsen',
+		),
+		array(
+			'Wedin' => 'Roy Wedin',
+			'Sandsjo' => 'Sandsjo',
+		),
+		array(
+			'Bowles' => 'Don Bowles',
+			'Pyecroft' => 'Pyecroft',
+		),
 		/*
 		array(
 			'' => '',
@@ -3637,6 +3689,7 @@ class iworks_5o5_upload_fixer {
 	 * foo
 	 */
 	private $person = array(
+        'Houg Bourn' => 'Hugh Bourn',
 		'?'                           => '',
 		'011e Wenrup'                 => 'Olle Wenrup',
 		'011i Karlsson'               => 'Olli Karlsson',

@@ -1,4 +1,8 @@
 Nation,Name,Club,Description,Birth Date,Website,Facebook,Death Date
+DEN,Jens Christensen
+FRA,Yvon Kergreis
+FRA,Thierry Moreau-Defarges
+GBR,Michael Bryant
 AUS,Adam Brenz-Verca,,,,,,
 AUS,Adam Wyatt,,,,,,
 AUS,Adrian Finglas,,,,,,
@@ -773,6 +777,7 @@ FRA,Jean-Charles Cadoret,,,,,,
 FRA,Jean-Claude Ancelot,,,,,,
 FRA,Jean-Claude Cornu,,,,,,
 FRA,Jean-Guy Puissant,,,,,,
+FRA,Jean-Luc Bapst
 FRA,Jean-Luc Baptiste,,,,,,
 FRA,Jean-Luc Muzellec,,,,,,
 FRA,Jean-Marc Jungmann,,,,,,
@@ -932,6 +937,7 @@ FRA,Sebastien le Bouteiller,,,,,,
 FRA,Sebastien Rauly,,,,,,
 FRA,Serge Ehrhart
 FRA,Serge Gubri,,,,,,
+FRA,Serge Guillaume
 FRA,Simon Chartier,,,,,,
 FRA,Sophie Biecheler-Fiocconi,,,,,,
 FRA,Stephane Aggeri,,,,,,
