@@ -1709,6 +1709,10 @@ class iworks_5o5_upload_fixer {
 			'M. Buffet'   => 'Marcel Buffet',
 			'J. Muzellec' => 'Jean-Luc Muzellec',
 		),
+        array(
+            'P. Wolff' => 'Patrick Wolff',
+			'M. Buffet'   => 'Marcel Buffet',
+		),
 		array(
 			'M. Buffet' => 'Marcel Buffet',
 			'L. Marc'   => 'Marc Laurent',
@@ -3651,7 +3655,7 @@ class iworks_5o5_upload_fixer {
 		),
 		array(
             'Loday'                     => 'Nicholas Loday',
-			'Fedorenko' => 'Fedorenko',
+			'Fedorenko' => 'Nicolas Fedorenko',
 		),
 		array(
 			'Bourn' => 'Hugh Bourn',
@@ -3676,6 +3680,10 @@ class iworks_5o5_upload_fixer {
 		array(
 			'Bowles' => 'Don Bowles',
 			'Pyecroft' => 'Pyecroft',
+		),
+		array(
+            'J. C. Cornu' => 'Jean-Claude Cornu',
+			'D. Gouffier' => 'D. Gouffier',
 		),
 		/*
 		array(
