@@ -1,8 +1,7 @@
 Nation,Name,Club,Description,Birth Date,Website,Facebook,Death Date
-DEN,Jens Christensen
-FRA,Yvon Kergreis
-FRA,Thierry Moreau-Defarges
-GBR,Michael Bryant
+USA,Brian Jones
+AUS,Brian Jones
+USA,Alexander Young
 AUS,Adam Brenz-Verca,,,,,,
 AUS,Adam Wyatt,,,,,,
 AUS,Adrian Finglas,,,,,,
@@ -461,6 +460,7 @@ DEN,Jan Feddersen,,,,,,
 DEN,Jan Møller,,,,,,
 DEN,Jan Saugmann,,,,,,
 DEN,Jan Thews,,,,,,
+DEN,Jens Christensen
 DEN,Jesper Bülow,,,,,,
 DEN,Jesper Ernst,,,,,,
 DEN,Jesper Høeg,,,,,,
@@ -952,6 +952,7 @@ FRA,Thibault Vincent,,,,,,
 FRA,Thibaut Vincent,,,,,,
 FRA,Thierry Fassio,,,,,,
 FRA,Thierry Gresle,,,,,,
+FRA,Thierry Moreau-Defarges
 FRA,Thierry Rattier,,,,,,
 FRA,Thomas Chartier,,,,,,
 FRA,Thomas Denis,,,,,,
@@ -986,6 +987,7 @@ FRA,Yves Niddam,,,,,,
 FRA,Yves Pajot,,,,,,
 FRA,Yves Pottier
 FRA,Yves Treboz,,,,,,
+FRA,Yvon Kergreis
 GBR,Adrian Gibbons
 GBR,Adrian Hewitt
 GBR,Adrian Howe,,,,,,
@@ -1292,6 +1294,7 @@ GBR,Matthew Brittin,,,,,,
 GBR,Matthew McCloughlin
 GBR,Melvyn Newman,,,,,,
 GBR,Michael Anderson
+GBR,Michael Bryant
 GBR,Michael Geernaert
 GBR,Michael Lawton,,,,,,
 GBR,Michael Nolan,,,,,,
@@ -2722,6 +2725,7 @@ USA,Andrew Chadwick,,,,,,
 USA,Andrew Cole,,,,,,
 USA,Andrew Estcourt
 USA,Andrew Gassman,,,,,,
+USA,Andrew Schoene
 USA,Andrew Sutton,,,,,,
 USA,Andrew Zinn,,,,,,
 USA,Andy Beckman,,,,,,
