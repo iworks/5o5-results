@@ -2367,7 +2367,7 @@ class iworks_5o5_upload_fixer {
 		),
 		array(
 			'Kenneally' => 'Ronan Kenneally',
-			'Dunlea'    => 'Dunlea',
+			'Dunlea'    => 'John Dunlea',
 		),
 		array(
 			'Zagorski'   => 'Przemek Zagórski',
@@ -3684,6 +3684,38 @@ class iworks_5o5_upload_fixer {
 		array(
             'J. C. Cornu' => 'Jean-Claude Cornu',
 			'D. Gouffier' => 'D. Gouffier',
+		),
+		array(
+			'W Cuppage' => 'Wade Cuppage',
+			'D O\'Connell' => 'D O\'Connell',
+		),
+		array(
+			'R Dumphy' => 'R Dumphy',
+			'Richie Harrington' => 'Richie Harrington',
+		),
+		array(
+			'R Kenneally' => 'Ronan Kenneally',
+			'C Kenneally' => 'Cathal Kenneally',
+		),
+		array(
+			'P Scannell' => 'Peter Scannell',
+			'M O\'Donavan' => 'Mark O\'Donovan',
+		),
+		array(
+			'E Barry' => 'Ewen Barry',
+			'S O\'Connell' => 'Shane O\'Connell',
+		),
+		array(
+			'G Radley' => 'George Radley',
+			'B Joyce' => 'B Joyce',
+		),
+		array(
+			'R Bateman' => 'Rob Bateman',
+			'M D\'Alton' => 'Marcia D\'Alton',
+		),
+		array(
+			'S Kennedy' => 'S Kennedy',
+			'S Remmington' => 'Sandy Remmington',
 		),
 		/*
 		array(
@@ -5115,7 +5147,7 @@ class iworks_5o5_upload_fixer {
 		'James Mcallister'            => 'James McAllister',
 		'James Mcgillivray'           => 'James McGillivray',
 		'James Mcnicholl'             => 'James McNicholl',
-		'James O\'brien'              => 'James O\’Brien',
+		'James O\'brien'              => 'James O\'Brien',
 		'James Spikersley'            => 'James Spikesly',
 		'James Spikesley'             => 'James Spikesly',
 		'Jamonieres Bertrand Des'     => 'Bernard des Jamonières',
@@ -5608,7 +5640,6 @@ class iworks_5o5_upload_fixer {
 		'M McCrystal'                 => 'Matthew McCrystal',
 		'M. McHattie'                 => 'Malcolm McHattie',
 		'M. Mendelblatt'              => 'Mark Mendelblatt',
-		'M O\'Donavan'                => 'Michael M\'Donnell',
 		'M. Page'                     => 'Malcolm Page',
 		'M. Platts'                   => 'Mike Platts',
 		'M. Quirk'                    => 'Mike Quirk',
