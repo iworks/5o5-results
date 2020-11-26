@@ -3717,6 +3717,10 @@ class iworks_5o5_upload_fixer {
 			'S Kennedy' => 'S Kennedy',
 			'S Remmington' => 'Sandy Remmington',
 		),
+		array(
+			'Rentelmann' => 'Hans-Jürgen Rentelmann',
+			'Hintz' => 'Markus Hintz',
+		),
 		/*
 		array(
 			'' => '',
@@ -3728,7 +3732,9 @@ class iworks_5o5_upload_fixer {
 	/**
 	 * foo
 	 */
-	private $person = array(
+    private $person = array(
+        'Hintz Marcus' => 'Markus Hintz',
+        'Rentelmann Hans-Jurgen' => 'Hans-Jürgen Rentelmann',
         'Houg Bourn' => 'Hugh Bourn',
 		'?'                           => '',
 		'011e Wenrup'                 => 'Olle Wenrup',
