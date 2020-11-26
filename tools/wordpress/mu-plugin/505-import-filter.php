@@ -1363,7 +1363,7 @@ class iworks_5o5_upload_fixer {
 		),
 		array(
 			'Farrant' => 'Derek Farrant',
-			'B. Moss'  => 'Bev Moss',
+			'B. Moss' => 'Bev Moss',
 		),
 		array(
 			'P. White' => 'Peter White',
@@ -1698,7 +1698,7 @@ class iworks_5o5_upload_fixer {
 			'Moreau D.' => 'Thierry Moreau-Defarges',
 		),
 		array(
-			'Buffet'    => 'Marcel Buffet',
+			'Buffet' => 'Marcel Buffet',
 			'Fleury' => 'Fleury',
 		),
 		array(
@@ -1709,9 +1709,9 @@ class iworks_5o5_upload_fixer {
 			'M. Buffet'   => 'Marcel Buffet',
 			'J. Muzellec' => 'Jean-Luc Muzellec',
 		),
-        array(
-            'P. Wolff' => 'Patrick Wolff',
-			'M. Buffet'   => 'Marcel Buffet',
+		array(
+			'P. Wolff'  => 'Patrick Wolff',
+			'M. Buffet' => 'Marcel Buffet',
 		),
 		array(
 			'M. Buffet' => 'Marcel Buffet',
@@ -2966,7 +2966,7 @@ class iworks_5o5_upload_fixer {
 			'White'     => 'White',
 		),
 		array(
-			'White'     => 'Peter White',
+			'White'  => 'Peter White',
 			'Davies' => 'John Davies',
 		),
 		array(
@@ -3439,7 +3439,7 @@ class iworks_5o5_upload_fixer {
 		),
 		array(
 			'Loveday' => 'John Loveday',
-			'Terry'    => 'Terry',
+			'Terry'   => 'Terry',
 		),
 		array(
 			'Wills' => 'Paul Wills',
@@ -3651,46 +3651,46 @@ class iworks_5o5_upload_fixer {
 		),
 		array(
 			'Guillaume' => 'Serge Guillaume',
-			'Richard' => 'Richard',
+			'Richard'   => 'Richard',
 		),
 		array(
-            'Loday'                     => 'Nicholas Loday',
+			'Loday'     => 'Nicholas Loday',
 			'Fedorenko' => 'Nicolas Fedorenko',
 		),
 		array(
-			'Bourn' => 'Hugh Bourn',
+			'Bourn'  => 'Hugh Bourn',
 			'Bryant' => 'Michael Bryant',
 		),
 		array(
 			'Eckerstrom' => 'Göran Eckeström',
-			'Calvert' => 'Jan Calvert',
+			'Calvert'    => 'Jan Calvert',
 		),
 		array(
-			'Pajot' => 'Yves Pajot',
+			'Pajot'    => 'Yves Pajot',
 			'Kergreis' => 'Yvon Kergreis',
 		),
 		array(
 			'Christensen' => 'Jens Christensen',
-			'Thomsen' => 'Thomsen',
+			'Thomsen'     => 'Thomsen',
 		),
 		array(
-			'Wedin' => 'Roy Wedin',
+			'Wedin'   => 'Roy Wedin',
 			'Sandsjo' => 'Sandsjo',
 		),
 		array(
-			'Bowles' => 'Don Bowles',
+			'Bowles'   => 'Don Bowles',
 			'Pyecroft' => 'Pyecroft',
 		),
 		array(
-            'J. C. Cornu' => 'Jean-Claude Cornu',
+			'J. C. Cornu' => 'Jean-Claude Cornu',
 			'D. Gouffier' => 'D. Gouffier',
 		),
 		array(
-			'W Cuppage' => 'Wade Cuppage',
+			'W Cuppage'    => 'Wade Cuppage',
 			'D O\'Connell' => 'D O\'Connell',
 		),
 		array(
-			'R Dumphy' => 'R Dumphy',
+			'R Dumphy'          => 'R Dumphy',
 			'Richie Harrington' => 'Richie Harrington',
 		),
 		array(
@@ -3698,28 +3698,28 @@ class iworks_5o5_upload_fixer {
 			'C Kenneally' => 'Cathal Kenneally',
 		),
 		array(
-			'P Scannell' => 'Peter Scannell',
+			'P Scannell'   => 'Peter Scannell',
 			'M O\'Donavan' => 'Mark O\'Donovan',
 		),
 		array(
-			'E Barry' => 'Ewen Barry',
+			'E Barry'      => 'Ewen Barry',
 			'S O\'Connell' => 'Shane O\'Connell',
 		),
 		array(
 			'G Radley' => 'George Radley',
-			'B Joyce' => 'B Joyce',
+			'B Joyce'  => 'B Joyce',
 		),
 		array(
-			'R Bateman' => 'Rob Bateman',
+			'R Bateman'  => 'Rob Bateman',
 			'M D\'Alton' => 'Marcia D\'Alton',
 		),
 		array(
-			'S Kennedy' => 'S Kennedy',
+			'S Kennedy'    => 'S Kennedy',
 			'S Remmington' => 'Sandy Remmington',
 		),
 		array(
 			'Rentelmann' => 'Hans-Jürgen Rentelmann',
-			'Hintz' => 'Markus Hintz',
+			'Hintz'      => 'Markus Hintz',
 		),
 		/*
 		array(
@@ -3732,10 +3732,15 @@ class iworks_5o5_upload_fixer {
 	/**
 	 * foo
 	 */
-    private $person = array(
-        'Hintz Marcus' => 'Markus Hintz',
-        'Rentelmann Hans-Jurgen' => 'Hans-Jürgen Rentelmann',
-        'Houg Bourn' => 'Hugh Bourn',
+	private $person = array(
+		'Delagrange Antoine'          => 'Antoine Delagrange',
+		'Feuerhawe Jurgen'            => 'Jürgen Feuerhake',
+		'Lozouet Jean-Paul'           => 'Jean-Paul Lozouet',
+		'Kopecky Jean-Baptiste'       => 'Jean-Baptiste Kopecky',
+		'Muniglia Thierry'            => 'Thierry Muniglia',
+		'Hintz Marcus'                => 'Markus Hintz',
+		'Rentelmann Hans-Jurgen'      => 'Hans-Jürgen Rentelmann',
+		'Houg Bourn'                  => 'Hugh Bourn',
 		'?'                           => '',
 		'011e Wenrup'                 => 'Olle Wenrup',
 		'011i Karlsson'               => 'Olli Karlsson',
