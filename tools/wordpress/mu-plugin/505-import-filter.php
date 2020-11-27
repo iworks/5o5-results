@@ -2890,8 +2890,12 @@ class iworks_5o5_upload_fixer {
 			'Honey'   => 'Stanley Honey',
 		),
 		array(
-			'Fryer' => 'L. Fryer',
-			'Cox'   => 'M. Cox',
+			'Fryer' => 'Lloyd Fryer',
+			'Cox'   => 'Mike Cox',,
+		),
+		array(
+			'L. Fryer' => 'Lloyd Fryer',
+			'M. Cox'   => 'Mike Cox',
 		),
 		array(
 			'Scherrer' => 'Urs Scherrer',
@@ -3232,10 +3236,6 @@ class iworks_5o5_upload_fixer {
 		array(
 			'R. Lord' => 'Richard Lord',
 			'L. Rant' => 'Les Rant',
-		),
-		array(
-			'L. Fryer' => 'Lloyd Fryer',
-			'M. Cox'   => 'Mike Cox',
 		),
 		array(
 			'N. A. Summers' => 'Nigel Summers',

@@ -1,14 +1,4 @@
 Nation,Name,Club,Description,Birth Date,Website,Facebook,Death Date
-IRL,Lisa O'Brien
-FRA,Stanislas Rault
-IRL,Tim O'Connor
-GBR,Andrew Lane
-IRL,Dale Spoonley
-IRL,Stan Reynolds
-IRL,Kieran O'Leary
-USA,Brian Jones
-AUS,Brian Jones
-USA,Alexander Young
 AUS,Adam Brenz-Verca,,,,,,
 AUS,Adam Wyatt,,,,,,
 AUS,Adrian Finglas,,,,,,
@@ -37,6 +27,7 @@ AUS,Brett Boulton,,,,,,
 AUS,Brett Bowden,,,,,,
 AUS,Brett Sharpe,,,,,,
 AUS,Brett van Munster,,,,,,
+AUS,Brian Jones
 AUS,Brian Pike,,,,,,
 AUS,Brian Price,,,,,,
 AUS,Brooke Jones,,,,,,
@@ -947,6 +938,7 @@ FRA,Serge Gubri,,,,,,
 FRA,Serge Guillaume
 FRA,Simon Chartier,,,,,,
 FRA,Sophie Biecheler-Fiocconi,,,,,,
+FRA,Stanislas Rault
 FRA,Stephane Aggeri,,,,,,
 FRA,Stephane Boudier,,,,,,
 FRA,Stephane Maisse,,,,,,
@@ -1021,6 +1013,7 @@ GBR,Andrew Draper,,,,,,
 GBR,Andrew George,,,,,,
 GBR,Andrew Gilmore,,,,,,
 GBR,Andrew Gilmour
+GBR,Andrew Lane
 GBR,Andrew Nolan,,,,,,
 GBR,Andrew Short,,,,,,
 GBR,Andrew Smith,,,,,,
@@ -2096,6 +2089,7 @@ HKG,Neil Pryde,,,,,,
 IRL,Andrew Morris
 IRL,Brendan Dwyer,,,,,,
 IRL,Colin McErvel
+IRL,Dale Spoonley
 IRL,Denis O'Sullivan,,,,,,
 IRL,Dion Barrett,,,,,,
 IRL,James McNicholl,,,,,,
@@ -2103,6 +2097,8 @@ IRL,John Bourke,,,,,,
 IRL,John Dunlea,,https://www.youtube.com/channel/UCTOXVv_53aQqzpktecluPAg,,,,
 IRL,John O'Gorman,,,,,,
 IRL,Julian Cooke
+IRL,Kieran O'Leary
+IRL,Lisa O'Brien
 IRL,Mark Mansfield
 IRL,Matthew McNicholl,,,,,,
 IRL,Michael Ennis,,,,,,
@@ -2111,6 +2107,8 @@ IRL,Pal O'Sullivan,,,,,,
 IRL,Patrick Maharg
 IRL,Patrick Meharg
 IRL,Sandy Rimmington,,,,,,
+IRL,Stan Reynolds
+IRL,Tim O'Connor
 ITA,Airoldi Massimiliano,,,,,,
 ITA,Alfredo Annese,,,,,,
 ITA,Andrea Greco,,,,,,
@@ -2118,6 +2116,7 @@ ITA,Andrea Messina,,,,,,
 ITA,Antonio Binacchi,,,,,,
 ITA,Cesare Giorgetti,,,,,,
 ITA,Claus Quarz,,,,,,
+ITA,Erica Giraldi
 ITA,Filippo Cucasso,,,,,,
 ITA,Gabriele Cortegiani,,,,,,
 ITA,Gabriele Natali,,,,,,
@@ -2125,6 +2124,7 @@ ITA,Giacinto Piacquadio,,,,,,
 ITA,Giovanni Giacometti,,,,,,
 ITA,Giuseppe Viaroni
 ITA,Luca Manzi,,,,,,
+ITA,Marco Giraldi
 ITA,Paolo Corbellini,,,,,,
 ITA,Roberto Candela,,,,,,
 ITA,Roberto Loce,,,,,,
@@ -2723,6 +2723,7 @@ USA,Alex Simanis,,,,,,
 USA,"Alexander ""Ali"" Meller",,,,,,
 USA,Alexander Mehran,,,,,,
 USA,Alexander Tong,,,,,,
+USA,Alexander Young
 USA,Alexandre Laussu,,,,,,
 USA,Alexia Fischer,,,,,,
 USA,Allan Johnson,,,,,,
@@ -2772,6 +2773,7 @@ USA,Brandon Charif,,,,,,
 USA,Brendan Heussler,,,,,,
 USA,Brent Campbell,,,,,,
 USA,Brian Haines,,,,,,
+USA,Brian Jones
 USA,Brian Richmond,,,,,,
 USA,Brian Smart,,,,,,
 USA,Bruce Ayres,,,,,,
