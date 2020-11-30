@@ -3658,6 +3658,10 @@ class iworks_5o5_upload_fixer {
 			'Fedorenko' => 'Nicolas Fedorenko',
 		),
 		array(
+			'Loday'  => 'Nicholas Loday',
+			'Guezou' => 'Guezou',
+		),
+		array(
 			'Bourn'  => 'Hugh Bourn',
 			'Bryant' => 'Michael Bryant',
 		),
@@ -3720,6 +3724,10 @@ class iworks_5o5_upload_fixer {
 		array(
 			'Rentelmann' => 'Hans-Jürgen Rentelmann',
 			'Hintz'      => 'Markus Hintz',
+		),
+		array(
+			'Levesque' => 'Bruno Levesque',
+			'Bapst'    => 'Jean-Luc Bapst',
 		),
 		/*
 		array(
@@ -6333,6 +6341,7 @@ class iworks_5o5_upload_fixer {
 		'Rayner Goerge'               => 'Rainer Görge',
 		'Re Gesing'                   => 'Renka Gesing',
 		'Reffold Simon'               => 'Simon Reffold',
+		'Regis Vjateur'               => 'Regis Viateur',
 		'Rehberg Welf'                => 'Welf Rehberg',
 		'Reincke Kurt'                => 'Kurt Reincke',
 		'Reiner Görge'                => 'Rainer Görge',
