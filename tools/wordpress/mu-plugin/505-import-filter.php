@@ -3729,6 +3729,10 @@ class iworks_5o5_upload_fixer {
 			'Levesque' => 'Bruno Levesque',
 			'Bapst'    => 'Jean-Luc Bapst',
 		),
+		array(
+			'Siostrom' => 'Stefan Sjöström',
+			'Andersson' => 'Reine Andersson',
+		),
 		/*
 		array(
 			'' => '',
