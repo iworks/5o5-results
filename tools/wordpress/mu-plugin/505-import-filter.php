@@ -2394,6 +2394,10 @@ class iworks_5o5_upload_fixer {
 			'O\' Sullivan' => 'Pal O\'Sullivan',
 		),
 		array(
+			'Peter Scannell'     => 'Peter Scannell',
+			'Paul O\'Sullivan' => 'Pal O\'Sullivan',
+		),
+		array(
 			'Croft'   => 'Peter Croft',
 			'Rushton' => 'Gary Rushton',
 		),
