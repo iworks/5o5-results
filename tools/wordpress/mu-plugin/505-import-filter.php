@@ -78,15 +78,15 @@ class iworks_5o5_upload_fixer {
 			'Boothe' => 'Erik Boothe',
 		),
 		array(
-			'Ethan Bixby'  => 'Ethan Bixby',
-			'Erik Booth' => 'Erik Boothe',
+			'Ethan Bixby' => 'Ethan Bixby',
+			'Erik Booth'  => 'Erik Boothe',
 		),
 		array(
 			'Bixby'  => 'Ethan Bixby',
 			'Meller' => 'Alexander "Ali" Meller',
 		),
 		array(
-			'Ben Moon'  => 'Ben Moon',
+			'Ben Moon'   => 'Ben Moon',
 			'Erik Booth' => 'Erik Boothe',
 		),
 		array(
@@ -300,6 +300,18 @@ class iworks_5o5_upload_fixer {
 		array(
 			'Key'     => 'Ramsay Key',
 			'Buttner' => 'Andrew Buttner',
+		),
+		array(
+			'Mark Zagol'   => 'Mark Zagol',
+			'Drew Buttner' => 'Andrew Buttner',
+		),
+		array(
+			'Ramsay Key'   => 'Ramsay Key',
+			'Drew Buttner' => 'Andrew Buttner',
+		),
+		array(
+			'Augie Diaz'   => 'Augie Diaz',
+			'Drew Buttner' => 'Andrew Buttner',
 		),
 		array(
 			'Klaas'           => 'Kyle Klaas',
@@ -1751,7 +1763,7 @@ class iworks_5o5_upload_fixer {
 		),
 		array(
 			'Alexander Graham' => 'Graham Alexander',
-			'Richmond Brian'    => 'Brian Richmond',
+			'Richmond Brian'   => 'Brian Richmond',
 		),
 		array(
 			'Alexander' => 'Graham Alexander',
@@ -2394,7 +2406,7 @@ class iworks_5o5_upload_fixer {
 			'O\' Sullivan' => 'Pal O\'Sullivan',
 		),
 		array(
-			'Peter Scannell'     => 'Peter Scannell',
+			'Peter Scannell'   => 'Peter Scannell',
 			'Paul O\'Sullivan' => 'Pal O\'Sullivan',
 		),
 		array(
@@ -3746,16 +3758,16 @@ class iworks_5o5_upload_fixer {
 			'Bapst'    => 'Jean-Luc Bapst',
 		),
 		array(
-			'Siostrom' => 'Stefan Sjöström',
+			'Siostrom'  => 'Stefan Sjöström',
 			'Andersson' => 'Reine Andersson',
 		),
 		array(
 			'Augie Diaz' => 'Augie Diaz',
-			'Nelson' => 'Jeffrey Nelson',
+			'Nelson'     => 'Jeffrey Nelson',
 		),
 		array(
 			'Evert Meyer' => 'Evert Meyer',
-			'Matt' => 'Matt Kennerknecht',
+			'Matt'        => 'Matt Kennerknecht',
 		),
 		/*
 		array(
@@ -3768,10 +3780,7 @@ class iworks_5o5_upload_fixer {
 	/**
 	 * foo
 	 */
-    private $person = array(
-        'P Colantuono' => 'Parker Colantuono',
-        'Parry Barklay' => 'Parry Barclay',
-        'Angie Daiz' => 'Augie Diaz',
+	private $person = array(
 		'?'                           => '',
 		'011e Wenrup'                 => 'Olle Wenrup',
 		'011i Karlsson'               => 'Olli Karlsson',
@@ -3837,6 +3846,7 @@ class iworks_5o5_upload_fixer {
 		'Alex Davis'                  => 'Alex Davies',
 		'Alex Ham'                    => 'Alexander Ham',
 		'Alex Thomson'                => 'Alexander Thomson',
+		'Alexander “Ali” Meller'      => 'Alexander "Ali" Meller',
 		'Alexander Earle'             => 'Earle Alexander',
 		'Alexander Eavle'             => 'Earle Alexander',
 		'Alexander Holzapefel'        => 'Alexander Holzapfel',
@@ -3847,7 +3857,6 @@ class iworks_5o5_upload_fixer {
 		'Alexander von Mertes'        => 'Alexander von Mertens',
 		'Alexander Von Mertes'        => 'Alexander von Mertens',
 		'Alexandre Holzapfel'         => 'Alexander Holzapfel',
-		'Alexander “Ali” Meller'                  => 'Alexander "Ali" Meller',
 		'Ali Meller'                  => 'Alexander "Ali" Meller',
 		'Alistair Milton'             => 'Alastair Milton',
 		'Alitalo Lauri'               => 'Lauri Alitalo',
@@ -3907,6 +3916,7 @@ class iworks_5o5_upload_fixer {
 		'Angela Breedon'              => 'Angela Breeden',
 		'Angela Stegner'              => 'Angela Stenger',
 		'Angelo Finn'                 => 'Finn Angelo',
+		'Angie Daiz'                  => 'Augie Diaz',
 		'Anika Kebreau'               => 'Anika Kébreau',
 		'Anna Hauschildt'             => 'Anna Hauschild',
 		'Anna Jablonska'              => 'Anna Jabłońska',
@@ -6116,6 +6126,7 @@ class iworks_5o5_upload_fixer {
 		'P. Campbell'                 => 'Paul Campbell',
 		'P Chervet'                   => 'Philip Chervet',
 		'P. Chritiani'                => 'Philip Christiani',
+		'P Colantuono'                => 'Parker Colantuono',
 		'P Colclough'                 => 'Peter Colclough',
 		'P. Colclough'                => 'Peter Colclough',
 		'P. Craig'                    => 'Peter Craig',
@@ -6151,6 +6162,7 @@ class iworks_5o5_upload_fixer {
 		'Papadakis'                   => 'Stergios Papadakis',
 		'Paquotte Jean-Marc'          => 'Jean-Marc Paquotte',
 		'Parker Shinn'                => 'Parker Shin',
+		'Parry Barklay'               => 'Parry Barclay',
 		'Parry BBarclay'              => 'Parry Barclay',
 		'Partant Pierre-Yves'         => 'Pierre-Yves Partant',
 		'Parviainen Arno'             => 'Arno Parviainen',
@@ -7159,6 +7171,9 @@ class iworks_5o5_upload_fixer {
 		'6878' => array(
 			'L. Fryer' => 'Lloyd Fryer',
 		),
+		'8830' => array(
+			'Drew Buttner' => 'Andrew Buttner',
+		),
 	);
 
 	public function __construct() {
@@ -7172,6 +7187,12 @@ class iworks_5o5_upload_fixer {
 	}
 
 	public function person_with_boat_id( $person, $boat_id ) {
+		if (
+			isset( $this->by_boat_no[ $boat_id ] )
+			&& isset( $this->by_boat_no[ $boat_id ][ $person ] )
+		) {
+			return $this->by_boat_no[ $boat_id ][ $person ];
+		}
 		return $person;
 	}
 
