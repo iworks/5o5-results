@@ -1,16 +1,16 @@
-Nation,Sail  ,Skipper,,Yacht Club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Race 7,Race 8,Race 9,Total,Pos
-USA,8951,Mike Holt   ,,Eastport Yacht Club  ,1,[6]  ,2,2,1,1,2,2,3,14,1
-USA,9007,Matthew Barry   ,,YCYC  ,3,2,3,3,3,[6]  ,4,1,1,20,2
-USA,9173,Tyler Moore   ,,Hampton YC  ,2,1,7,1,2,4,1,[8]  ,4,22,3
-IRL,8987,Peter Scannell   ,,Monkstown Bay Sailing Club  ,4,3,1,7,9,3,[11]  ,3,6,36,4
-USA,9095,G. Nelson   ,,West River Sailing Club  ,9,7,4,6,5,7,3,7,[11]  ,48,5
-USA,1*,Eric Anderson   ,,YCYC  ,5,8,5,5,6,[15]  ,5,4,12,50,6
-CAN,9005,Thomas Kivney   ,,Hingham Yacht Club  ,6,4,6,8,8,13,[17]  ,6,8,59,7
-USA,8643,Barney Harris   ,,PRSA  ,10,[12]  ,10,9,11,9,6,5,2,62,8
-USA,8930,Duane Delfosse   ,,LSYC  ,8,13,9,4,4,5,15,[18]  ,7,65,9
+Nation,Sail  ,Skipper,Crew,Yacht Club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Race 7,Race 8,Race 9,Total,Pos
+USA,8951,Mike Holt   ,Carl Smit,Eastport Yacht Club  ,1,[6]  ,2,2,1,1,2,2,3,14,1
+USA,9007,Matthew Barry   ,Chris Brady,YCYC  ,3,2,3,3,3,[6]  ,4,1,1,20,2
+USA,9173,Tyler Moore   ,Drew Buttner,Hampton YC  ,2,1,7,1,2,4,1,[8]  ,4,22,3
+IRL,8987,Peter Scannell   ,John Dunlea,Monkstown Bay Sailing Club  ,4,3,1,7,9,3,[11]  ,3,6,36,4
+USA,9095,Macy Nelson,Russell Miller,West River Sailing Club  ,9,7,4,6,5,7,3,7,[11]  ,48,5
+USA,8830,,Eric Anderson   ,YCYC  ,5,8,5,5,6,[15]  ,5,4,12,50,6
+CAN,9005,Thomas Kivney   ,Gordon Russell,Hingham Yacht Club  ,6,4,6,8,8,13,[17]  ,6,8,59,7
+USA,8643,Barney Harris   ,RJ Bay,PRSA  ,10,[12]  ,10,9,11,9,6,5,2,62,8
+USA,8930,Duane Delfosse   ,Sol Marini,LSYC  ,8,13,9,4,4,5,15,[18]  ,7,65,9
 USA,9003,Jesse Falsone   ,,SSA  ,11,5,12,11,10,10,[16]  ,14,5,78,10
 USA,9041,Henry Amthor   ,,HYC  ,7,9,8,[17]  ,7,14,8,12,17,82,11
-USA,8883,Brendan Connell   ,,West River Sailing Club  ,13,15,11,10,[25/DNS]  ,16,12,17,9,103,12
+USA,8883,Brendan Connell   ,Michael Renda,West River Sailing Club  ,13,15,11,10,[25/DNS]  ,16,12,17,9,103,12
 USA,7200,Ali Meller   ,,Severn Sailing Association  ,15,10,[25/DNS]  ,25/DNS  ,25/DNS  ,2,7,13,10,107,13
 USA,8083,Martin Tipton   ,,Yale Corinthian Yacht Club  ,[16]  ,16,15,12,15,11,14,9,16,108,14
 USA,9139,Jackson Montague   ,,FBYC  ,17,11,14,13,13,[19]  ,10,16,15,109,15
@@ -19,7 +19,7 @@ USA,8819,Christopher Pfrang   ,,Hampton Yacht Club  ,20,18,13,14,14,12,[22]�
 CAN,9138,Marek Balinski   ,,OHCC  ,19,19,18,16,16,18,13,15,[20]  ,134,18
 USA,9183,Michael Breton   ,,Sail Newport  ,12,14,17,15,12,[25/DNS]  ,25/DNS  ,25/DNS  ,25/DNS  ,145,19
 USA,8261,Alexander Tong,,YCYC  ,[25/DNS]  ,25/DNS  ,25/DNS  ,25/DNS  ,25/DNS  ,17,9,11,13,150,20
-USA,8081,Mark Linker   ,,Sail Newport  ,21,20,19,18,[25/DNS]  ,20,21,20,22,161,21
+USA,8081,Mark Linker   ,Andrew Forman,Sail Newport  ,21,20,19,18,[25/DNS]  ,20,21,20,22,161,21
 USA,8822,David Burchfiel   ,,Carolina Sailing Club  ,18,21,[25/DNS]  ,25/DNS  ,25/DNS  ,21,18,25/DSQ  ,21,174,22
 USA,8766,Ian Conners   ,,SSA  ,[25/DNS]  ,25/DNS  ,25/DNS  ,25/DNS  ,25/DNS  ,22,19,21,18,180,23
 USA,90951*,Kelsey Averill   ,,Wrsc  ,[25/DNS]  ,25/DNS  ,25/DNS  ,25/DNS  ,25/DNS  ,25/DNS  ,25/DNS  ,25/DNS  ,25/DNS  ,200,24

@@ -78,8 +78,16 @@ class iworks_5o5_upload_fixer {
 			'Boothe' => 'Erik Boothe',
 		),
 		array(
+			'Ethan Bixby'  => 'Ethan Bixby',
+			'Erik Booth' => 'Erik Boothe',
+		),
+		array(
 			'Bixby'  => 'Ethan Bixby',
 			'Meller' => 'Alexander "Ali" Meller',
+		),
+		array(
+			'Ben Moon'  => 'Ben Moon',
+			'Erik Booth' => 'Erik Boothe',
 		),
 		array(
 			'Boehm' => 'Stefan Böhm',
@@ -1740,6 +1748,10 @@ class iworks_5o5_upload_fixer {
 		array(
 			'Alexander' => 'Graham Alexander',
 			'Koneig'    => 'Mark Koenig',
+		),
+		array(
+			'Alexander Graham' => 'Graham Alexander',
+			'Richmond Brian'    => 'Brian Richmond',
 		),
 		array(
 			'Alexander' => 'Graham Alexander',
@@ -3733,6 +3745,14 @@ class iworks_5o5_upload_fixer {
 			'Siostrom' => 'Stefan Sjöström',
 			'Andersson' => 'Reine Andersson',
 		),
+		array(
+			'Augie Diaz' => 'Augie Diaz',
+			'Nelson' => 'Jeffrey Nelson',
+		),
+		array(
+			'Evert Meyer' => 'Evert Meyer',
+			'Matt' => 'Matt Kennerknecht',
+		),
 		/*
 		array(
 			'' => '',
@@ -3744,7 +3764,10 @@ class iworks_5o5_upload_fixer {
 	/**
 	 * foo
 	 */
-	private $person = array(
+    private $person = array(
+        'P Colantuono' => 'Parker Colantuono',
+        'Parry Barklay' => 'Parry Barclay',
+        'Angie Daiz' => 'Augie Diaz',
 		'?'                           => '',
 		'011e Wenrup'                 => 'Olle Wenrup',
 		'011i Karlsson'               => 'Olli Karlsson',
@@ -3820,6 +3843,7 @@ class iworks_5o5_upload_fixer {
 		'Alexander von Mertes'        => 'Alexander von Mertens',
 		'Alexander Von Mertes'        => 'Alexander von Mertens',
 		'Alexandre Holzapfel'         => 'Alexander Holzapfel',
+		'Alexander “Ali” Meller'                  => 'Alexander "Ali" Meller',
 		'Ali Meller'                  => 'Alexander "Ali" Meller',
 		'Alistair Milton'             => 'Alastair Milton',
 		'Alitalo Lauri'               => 'Lauri Alitalo',
