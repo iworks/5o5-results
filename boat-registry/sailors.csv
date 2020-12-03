@@ -1,9 +1,4 @@
 Nation,Name,Club,Description,Birth Date,Website,Facebook,Death Date
-USA,Ervin Grove
-USA,Gretchen Esbensen
-USA,Andrew Jones
-USA,Carson Turowski
-USA,Matt Kennerknecht
 AUS,Adam Brenz-Verca,,,,,,
 AUS,Adam Wyatt,,,,,,
 AUS,Adrian Finglas,,,,,,
@@ -128,6 +123,7 @@ AUS,John Macarthur‑King,,,,,,
 AUS,John McLean,,,,,,
 AUS,John Parrington,,,,,,
 AUS,John Paterson,,,,,,
+AUS,John Rayner
 AUS,John Tunney,,,,,,
 AUS,Jonathan Ross,,,,,,
 AUS,Jonno Bannister,,,,,,
@@ -245,6 +241,7 @@ AUS,Sam Byass,,,,,,
 AUS,Sam Haines,,,,,,
 AUS,Sam Heritage,,,,,,
 AUS,Samuel Hyde,,,,,,
+AUS,Sandra Barber
 AUS,Sarah Cooper,,,,,,
 AUS,Sarah Macarthur‑King,,,,,,
 AUS,Sarah Withall,,,,,,
@@ -2074,7 +2071,6 @@ GER,Uwe Küntzel,,,,,,
 GER,Uwe Lätzsch,,,,,,
 GER,Verena Achterberg,,,,,,
 GER,Viktoria Warminski,,,,,,
-GER,Volker Bohringer,,,,,,
 GER,Volker Böhringer,,,,,,
 GER,Volker Görge,,,,,,
 GER,Volker Weiß,,,,,,
@@ -2558,6 +2554,7 @@ SWE,Anders Johansson,,,,,,
 SWE,Anders Karoliussen,,,,,,
 SWE,Anders Malmström
 SWE,Anders Nilsson,,,,,,
+SWE,Anders Nordström
 SWE,Andreas Carlsson,,,,,,
 SWE,Andreas Karoliussen,,,,,,
 SWE,Axel Danielsson,,,,,,
@@ -2739,6 +2736,7 @@ USA,Andrew Chadwick,,,,,,
 USA,Andrew Cole,,,,,,
 USA,Andrew Estcourt
 USA,Andrew Gassman,,,,,,
+USA,Andrew Jones
 USA,Andrew Schoene
 USA,Andrew Sutton,,,,,,
 USA,Andrew Zinn,,,,,,
@@ -2792,6 +2790,7 @@ USA.Carisa Harris
 USA,Carl Smit,Eastport Yacht Club,,1971,,,
 USA,Carlos Linares
 USA,Carrisa Harris,,,,,,
+USA,Carson Turowski
 USA,Catherine Brady,,,,,,
 USA,Catherine Guiader,,,,,,
 USA,Chad Atkins,,,,,,
@@ -2869,6 +2868,7 @@ USA,Eric Gunderson,,,,,,
 USA,Eric Knight,,,,,,
 USA,Erik Boothe,,,,,,
 USA,Erik Coburn,,,,,,
+USA,Ervin Grove
 USA,Ethan Bixby,,,,,,
 USA,Euan McNicol,,,,,,
 USA,Evan Diola,,,,,,
@@ -2893,6 +2893,7 @@ USA,Graham Shelter,,,,,,
 USA,Greg Davis,,,,,,
 USA,Greg Gump,,,,,,
 USA,Greg Schuster,,,,,,
+USA,Gretchen Esbensen
 USA,Gris Bettle,,,,,,
 USA,Hans Gode,,,,,,
 USA,Harry Mattison,,,,,,
@@ -2937,6 +2938,7 @@ USA,John Badtke,,,,,,
 USA,John Henderson,,,,,,
 USA,John Ingalls
 USA,John Loe
+USA,John Meade
 USA,John Smith,,,,,,
 USA,John Wyles,,,,,,
 USA,John Zakaib,,,,,,
@@ -2990,6 +2992,7 @@ USA,Mark Zagol,,,,,,
 USA,Martin Tipton,,,,,,
 USA,Mathias Kennerknecht,,,,,,
 USA,Matt Gardiner,,,,,,
+USA,Matt Kennerknecht
 USA,Matt Mcqueen,,,,,,
 USA,Matt Sanders,,,,,,
 USA,Matthew Barry,,,,,,
@@ -3038,6 +3041,7 @@ USA,Paul Andron,,,,,,
 USA,Paul Kerner,,,,,,
 USA,Paul Muus,,,,,,
 USA,Paul Von,,,,,,
+USA,Pete Conway
 USA,Pete Melvin,,,,,,
 USA,Pete Spaulding,,,,,,
 USA,Peter Alarie,,,,,,

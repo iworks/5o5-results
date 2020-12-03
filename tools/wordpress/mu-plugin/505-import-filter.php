@@ -3873,6 +3873,7 @@ class iworks_5o5_upload_fixer {
 		'Amie Heubner'                => 'Amie Huebner',
 		'Amie Hueber'                 => 'Amie Huebner',
 		'Amthor Henry'                => 'Henry Amthor',
+		'AN Other'                    => '',
 		'Anais Dechauffour'           => 'Anaïs Dechauffour',
 		'Ancelot Jean Claude'         => 'Jean-Claude Ancelot',
 		'Ancelot Jean-Claude'         => 'Jean-Claude Ancelot',
@@ -3881,6 +3882,7 @@ class iworks_5o5_upload_fixer {
 		'Anders Kampe'                => 'Anders Kæmpe',
 		'Anders Kempe'                => 'Anders Kæmpe',
 		'Anders Malmstron'            => 'Anders Malmström',
+		'Anders Nordstrom'            => 'Anders Nordström',
 		'Andersen Henrik'             => 'Henrik Andersen',
 		'Andersen Jon'                => 'Jon Andersen',
 		'Andersen Uffe'               => 'Uffe Andersen',
@@ -3997,6 +3999,7 @@ class iworks_5o5_upload_fixer {
 		'Belly Jim'                   => 'Jim Berry',
 		'Beltzung Alain'              => 'Alain Beltzung',
 		'Beltzung Julien'             => 'Julien Beltzung',
+		'Bem Benjamin'                => 'Ben Benjamin',
 		'Ben Glass'                   => 'Benjamin Glass',
 		'Ben Ififfe'                  => 'Benjamin Iliffe',
 		'Ben Ilffe'                   => 'Benjamin Iliffe',
@@ -5643,6 +5646,7 @@ class iworks_5o5_upload_fixer {
 		'Leslaw Świstelnicki'         => 'Leszek Świstelnicki',
 		'Lesoil Lionel'               => 'Lionel Lesoil',
 		'Leszek Nowozielski'          => 'Leszek Nowosielski',
+		'Letsche Frank'               => 'Frank Letsche',
 		'Lewis Cam'                   => 'Cam Lewis',
 		'Lewis Paddy'                 => 'Paddy Lewis',
 		'Lewns Chris'                 => 'Chris Lewns',
@@ -6826,6 +6830,7 @@ class iworks_5o5_upload_fixer {
 		'Thibault Di Pade'            => 'Thibault Di Pède',
 		'Thibault di Pede'            => 'Thibault Di Pède',
 		'Thibault Di Pede'            => 'Thibault Di Pède',
+		'Thibault Di Péde'            => 'Thibault Di Pède',
 		'Thibault Dipede'             => 'Thibault Di Pède',
 		'Thibault Vincent'            => 'Thibaut Vincent',
 		'Thiberge Olivier'            => 'Olivier Thiberge',
@@ -7173,6 +7178,15 @@ class iworks_5o5_upload_fixer {
 		),
 		'8830' => array(
 			'Drew Buttner' => 'Andrew Buttner',
+		),
+		'8930' => array(
+			'Solomon Marini' => 'Soloman Marini',
+		),
+		'8018' => array(
+			'Solomon Marini' => 'Soloman Marini',
+		),
+		'8261' => array(
+			'Heintz' => 'Bill Heintz',
 		),
 	);
 
