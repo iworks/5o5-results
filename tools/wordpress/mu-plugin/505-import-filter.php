@@ -506,6 +506,10 @@ class iworks_5o5_upload_fixer {
 			'Waterman' => 'Rob Waterman',
 		),
 		array(
+			'Andreeson' => 'Andreeson',
+			'Waterman'  => 'Rob Waterman',
+		),
+		array(
 			'Schlomka'  => 'Jens-Peter Schlomka',
 			'Wihlfahrt' => 'Urs Wihlfahrt',
 		),
@@ -1138,6 +1142,10 @@ class iworks_5o5_upload_fixer {
 			'Hoffman' => 'Michael Hoffman',
 		),
 		array(
+			'Morrin'   => 'Hugh Morrin',
+			'Rzucidlo' => 'Marius Rzucidlo',
+		),
+		array(
 			'Moss Lovshin' => 'Shona Lovshin-Moss',
 			'Lovshin'      => 'Devlin Lovshin',
 		),
@@ -1466,6 +1474,22 @@ class iworks_5o5_upload_fixer {
 			'Dan'    => 'Dan Merino',
 		),
 		array(
+			'Nelson' => 'Geoff Nelson',
+			'Wood'   => 'Ben Wood',
+		),
+		array(
+			'Jenkins' => 'Bill Jenkins',
+			'Merino'  => 'Dan Merino',
+		),
+		array(
+			'B. Jenkins' => 'Bill Jenkins',
+			'D. Merino'  => 'Dan Merino',
+		),
+		array(
+			'Bill Jenkins' => 'Bill Jenkins',
+			'Dan Marino'   => 'Dan Merino',
+		),
+		array(
 			'Bart' => 'Cédric Bart',
 			'Grob' => 'Laurent Grob',
 		),
@@ -1768,6 +1792,10 @@ class iworks_5o5_upload_fixer {
 		array(
 			'Alexander' => 'Graham Alexander',
 			'Richmond'  => 'Brian Richmond',
+		),
+		array(
+			'Alexander' => 'Graham Alexander',
+			'Koenig'    => 'Mark Koenig',
 		),
 		array(
 			'Harris' => 'Barney Harris',
@@ -2318,6 +2346,10 @@ class iworks_5o5_upload_fixer {
 			'Romey' => 'Dustin Romey',
 		),
 		array(
+			'Dustin Romey' => 'Dustin Romey',
+			'Mehaffey'     => 'Kevin Mehaffey',
+		),
+		array(
 			'Kébreau'      => 'Anika Kébreau',
 			'Wollenbecker' => 'Raik Wollenbecker',
 		),
@@ -2494,6 +2526,10 @@ class iworks_5o5_upload_fixer {
 			'Byron'     => 'David Byron',
 		),
 		array(
+			'Byron' => 'David Byron',
+			'Wells' => 'Wells',
+		),
+		array(
 			'Poore' => 'Thomas Poore',
 			'Park'  => 'Stuart Park',
 		),
@@ -2504,6 +2540,10 @@ class iworks_5o5_upload_fixer {
 		array(
 			'Beeckman' => 'Andy Beeckman',
 			'Benjamin' => 'Ben Benjamin',
+		),
+		array(
+			'A. Beeckman' => 'Andy Beeckman',
+			'B. Benjamin' => 'Ben Benjamin',
 		),
 		array(
 			'Meyer' => 'Evert Meyer',
@@ -2558,6 +2598,10 @@ class iworks_5o5_upload_fixer {
 			'D. Thompson' => 'David Thompson',
 		),
 		array(
+			'D. Thompson' => 'Daniel Thompson',
+			'A. Zinn'     => 'Andrew Zinn',
+		),
+		array(
 			'Meyendonck' => 'Bart Meynendonckx',
 			'Lehouck'    => 'Chris Lehouck',
 		),
@@ -2587,11 +2631,19 @@ class iworks_5o5_upload_fixer {
 		),
 		array(
 			'Terman' => 'Phil Terman',
-			'Gill'   => 'Gill',
+			'Gill'   => 'Susan Gille',
+		),
+		array(
+			'Terman' => 'Phil Terman',
+			'Gille'  => 'Susan Gille',
 		),
 		array(
 			'Hagan' => 'Douglas Hagan',
 			'Woos'  => 'Woos',
+		),
+		array(
+			'Hagan' => 'Douglas Hagan',
+			'Park'  => 'Stuart Park',
 		),
 		array(
 			'Hamilton' => 'Brook Hamilton',
@@ -3769,6 +3821,74 @@ class iworks_5o5_upload_fixer {
 			'Evert Meyer' => 'Evert Meyer',
 			'Matt'        => 'Matt Kennerknecht',
 		),
+		array(
+			'Adamson' => 'Nick Adamson',
+			'Norman'  => 'Alan Norman',
+		),
+		array(
+			'N. Adamson' => 'Nick Adamson',
+			'A. Norman'  => 'Alan Norman',
+		),
+		array(
+			'Chatman' => 'David Chatham',
+			'McQueen' => 'Matt McQueen',
+		),
+		array(
+			'Lieb'   => 'Thad Lieb',
+			'Kerner' => 'Paul Kerner',
+		),
+		array(
+			'T. Lieb'   => 'Thad Lieb',
+			'P. Kerner' => 'Paul Kerner',
+		),
+		array(
+			'Hayley'  => 'John Hayley',
+			'Vongrey' => 'Vongrey',
+		),
+		array(
+			'Tuck' => 'Peter Tuck',
+			'Poe'  => 'Poe',
+		),
+		array(
+			'White'      => 'Bailey White',
+			'Rodgriguez' => 'Rodgriguez',
+		),
+		array(
+			'Schnelker' => 'Steve Schnelker',
+			'Sargent'   => 'Chris Sargent',
+		),
+		array(
+			'S. Schnelker' => 'Steve Schnelker',
+			'G. Nelson'    => 'Macy Nelson',
+		),
+		array(
+			'Stergios Papadakis' => 'Stergios Papadakis',
+			'Broberg'            => 'Stephen Broberg',
+		),
+		array(
+			'Stergios Papadakis' => 'Stergios Papadakis',
+			'Marini'             => 'Soloman Marini',
+		),
+		array(
+			'J. Meade' => 'John Meade',
+			'D. Byron' => 'David Byron',
+		),
+		array(
+			'M. Fialas'   => 'Michel Fialas',
+			'C. Stomberg' => 'Chris Stomberg',
+		),
+		array(
+			'R. Woodcock' => 'Bob Woodcock',
+			'M. Kurzava'  => 'Mark Kurzava',
+		),
+		array(
+			'M. Jue'    => 'Mike Jue',
+			'M. Winger' => 'Marc Winger',
+		),
+		array(
+			'Samson'    => 'Louis Samson',
+			'Dumouchel' => 'Eric Dumouchel',
+		),
 		/*
 		array(
 			'' => '',
@@ -4122,6 +4242,7 @@ class iworks_5o5_upload_fixer {
 		'Bourgoin Jerome'             => 'Jérôme Bourgoin',
 		'Bourgoin Jérôme'             => 'Jérôme Bourgoin',
 		'Bouton Fabrice'              => 'Fabrice Bouton',
+		'Jeff "Boyder"Boyd'           => 'Jeff Boyd',
 		'Boyd Jeff'                   => 'Jeff Boyd',
 		'Boyer Emmanuel'              => 'Emmanuel Boyer',
 		'Boyer Etienne'               => 'Etienne Boyer',
@@ -5244,6 +5365,7 @@ class iworks_5o5_upload_fixer {
 		'Jay Kunel'                   => 'Jay Kuncl',
 		'JayD\'Engle'                 => 'Jay D\'Engle',
 		'J.B Braun'                   => 'Jeff Braun',
+		'JB Ferrarone'                => 'J.B. Ferrarone',
 		'JB Ferraone'                 => 'J.B. Ferrarone',
 		'J.B. Ferraone'               => 'J.B. Ferrarone',
 		'Jb Turney'                   => 'JB Turney',
@@ -5795,6 +5917,7 @@ class iworks_5o5_upload_fixer {
 		'Martin Pyke'                 => 'Martin Pike',
 		'Martin Schoeler'             => 'Martin Schöler',
 		'Martin Scholer'              => 'Martin Schöler',
+		'Martin "Marty"tenHove'       => 'Martin ten Hove',
 		'Martin Ten Hove'             => 'Martin ten Hove',
 		'Martin Tenhov'               => 'Martin ten Hove',
 		'Martin tenHove'              => 'Martin ten Hove',
@@ -7167,26 +7290,65 @@ class iworks_5o5_upload_fixer {
 		'Zschieschang Frank'          => 'Frank Zschieschang',
 		'Zucconi Damien'              => 'Damien Zucconi',
 		'Zund Simone'                 => 'Simone Zünd',
+		'Tim "Bucky" Collins'         => 'Tim Collins',
+		'Bill "Swoop" Smith'          => 'Bill Smith',
+		'Clayton "Red Neck" James'    => 'Clayton James',
+		'Geoff Shaeffer'              => 'Geoff Schaefer',
 	);
 
 	/**
 	 * baz
 	 */
 	private $by_boat_no = array(
+		'6201' => array(
+			'Tabardel' => 'Eric Tabardel',
+			'Péro'     => 'Bernard Péro',
+		),
+		'6660' => array(
+			'Cashman' => 'Geoff Cashman',
+		),
 		'6878' => array(
 			'L. Fryer' => 'Lloyd Fryer',
+		),
+		'6931' => array(
+			'B. McKinney' => 'Bill McKinney',
+		),
+		'6987' => array(
+			'Kirby' => 'Chris Kirby',
+		),
+		'6991' => array(
+			'Marino' => 'Dan Merino',
+		),
+		'7793' => array(
+			'Seiple' => 'Dave Seiple',
+		),
+		'7950' => array(
+			'Samson' => 'Louis Samson',
+		),
+		'8012' => array(
+			'Henry "Hank" Amthor' => 'Henry Amthor',
+		),
+		'8018' => array(
+			'Solomon Marini' => 'Soloman Marini',
+		),
+		'8261' => array(
+			'Heintz'   => 'Bill Heintz',
+			'Seuschek' => 'Laura Seuschek',
+		),
+		'8548' => array(
+			'Peter' => 'Peter Tuck',
+		),
+		'8627' => array(
+			'Collins' => 'Tim Collins',
+		),
+		'8629' => array(
+			'Moore' => 'Tyler Moore',
 		),
 		'8830' => array(
 			'Drew Buttner' => 'Andrew Buttner',
 		),
 		'8930' => array(
 			'Solomon Marini' => 'Soloman Marini',
-		),
-		'8018' => array(
-			'Solomon Marini' => 'Soloman Marini',
-		),
-		'8261' => array(
-			'Heintz' => 'Bill Heintz',
 		),
 	);
 
