@@ -7304,6 +7304,9 @@ class iworks_5o5_upload_fixer {
 			'Tabardel' => 'Eric Tabardel',
 			'Péro'     => 'Bernard Péro',
 		),
+		'6603' => array(
+			'J. O\'Connor' => 'Jeremy Sean O\'Connor',
+		),
 		'6660' => array(
 			'Cashman' => 'Geoff Cashman',
 		),
