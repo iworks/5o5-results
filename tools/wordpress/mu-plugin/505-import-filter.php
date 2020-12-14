@@ -3889,6 +3889,10 @@ class iworks_5o5_upload_fixer {
 			'Samson'    => 'Louis Samson',
 			'Dumouchel' => 'Eric Dumouchel',
 		),
+		array(
+			'Hauvette' => 'Christian Hauvette',
+			'Vasseur' => 'Nicolas Vasseur',
+		),
 		/*
 		array(
 			'' => '',
@@ -5855,6 +5859,7 @@ class iworks_5o5_upload_fixer {
 		'Mäkelä Jari'                 => 'Jari Mäkelä',
 		'Malcolm Moller'              => 'Malcom Möller',
 		'Malcolm Muller'              => 'Malcom Möller',
+		'Malcolm ‘Pip’ Pearson'       => 'Malcolm \'Pip\' Pearson',
 		'Malcolm ‚Pip’ Pearson'       => 'Malcolm \'Pip\' Pearson',
 		'Malcom Higgins'              => 'Malcolm Higgins',
 		'Mallet Francoise'            => 'Francoise Mallet',
@@ -7300,7 +7305,10 @@ class iworks_5o5_upload_fixer {
 	/**
 	 * baz
 	 */
-	private $by_boat_no = array(
+    private $by_boat_no = array(
+        '4122' => array(
+            'Guillaume' => 'Serge Guillaume',
+        ),
 		'6201' => array(
 			'Tabardel' => 'Eric Tabardel',
 			'Péro'     => 'Bernard Péro',
@@ -7336,9 +7344,15 @@ class iworks_5o5_upload_fixer {
 		'8018' => array(
 			'Solomon Marini' => 'Soloman Marini',
 		),
+		'8104' => array(
+			'Bourdon' => 'Marc Bourdon',
+		),
 		'8261' => array(
 			'Heintz'   => 'Bill Heintz',
 			'Seuschek' => 'Laura Seuschek',
+		),
+		'8455' => array(
+			'Viateur' => 'Regis Viateur',
 		),
 		'8548' => array(
 			'Peter' => 'Peter Tuck',
