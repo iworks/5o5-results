@@ -1742,6 +1742,10 @@ class iworks_5o5_upload_fixer {
 			'Moreau D.' => 'Thierry Moreau-Defarges',
 		),
 		array(
+			'Buffet'          => 'Marcel Buffet',
+			'Moreau-Defarges' => 'Thierry Moreau-Defarges',
+		),
+		array(
 			'Buffet' => 'Marcel Buffet',
 			'Fleury' => 'Fleury',
 		),
@@ -3810,6 +3814,14 @@ class iworks_5o5_upload_fixer {
 			'Bapst'    => 'Jean-Luc Bapst',
 		),
 		array(
+			'Levesque' => 'Bruno Levesque',
+			'Guezou'   => 'Michel Guezou',
+		),
+		array(
+			'Lesvesque' => 'Bruno Levesque',
+			'Guezou'    => 'Michel Guezou',
+		),
+		array(
 			'Siostrom'  => 'Stefan Sjöström',
 			'Andersson' => 'Reine Andersson',
 		),
@@ -3891,7 +3903,7 @@ class iworks_5o5_upload_fixer {
 		),
 		array(
 			'Hauvette' => 'Christian Hauvette',
-			'Vasseur' => 'Nicolas Vasseur',
+			'Vasseur'  => 'Nicolas Vasseur',
 		),
 		/*
 		array(
@@ -7305,10 +7317,16 @@ class iworks_5o5_upload_fixer {
 	/**
 	 * baz
 	 */
-    private $by_boat_no = array(
-        '4122' => array(
-            'Guillaume' => 'Serge Guillaume',
-        ),
+	private $by_boat_no = array(
+		'4004' => array(
+			'Laplassotte' => 'Jean-Claude Laplassotte',
+		),
+		'4122' => array(
+			'Guillaume' => 'Serge Guillaume',
+		),
+		'4815' => array(
+			'Blanchard' => 'Philippe Blanchard',
+		),
 		'6201' => array(
 			'Tabardel' => 'Eric Tabardel',
 			'Péro'     => 'Bernard Péro',
