@@ -1,0 +1,35 @@
+Nat,SailNo,Name,Crew,Club,R1,R2,R3,R4,R5,R6,R7,R8,R9,R10,Score,Rank
+GER,9152,Agnieszka Skrzypulec,Holger Jess,SEJK”Pogoń”Szczecin,1,1,1,1,1,1,1,1,1,35.0 DNC*,9,1
+GER,8806,Anna Hauschild,Axel Priegann,Segel-Club-Seddin E.V./SGJ Niendorf,7.8 DPI1*,5,2,2,3,2,2,2,2,6,26,2
+POL,9119,Mateusz Jura,Bartosz Chroł,AZS SGH Warszawa,4.8 DPI1,2,4,4,5,4,5,4,10.0*,10,42.8,3
+GER,9135,Jens Biederer,Johannes Kindermann,HSC/YC Warnow E.V.,5,4,5,8.0*,4,5,4,7,4,8,46,4
+SWE,8873,Thomas Lundberg,Oskar Lundberg,KSSS,10.8 DPI1*,7,7,3,7,8,6,9,8,3,58,5
+POL,9132,Przemek Zagórski,Michał Olko,YK”Stal”Gdynia,7,3,3,10,11.0*,7,9,8,5,11,63,6
+SUI,9060,Catherine Houriet,Gil Donzé,YC De Geneve/Club De Régate De La Gruyer,4,10,35.0 DNC*,11,8,10,14,6,3,1,67,7
+POL,8802,Dominik Ostrowski,Jakub Folczak,SWOS Warszawa,11.8 DPI1,6,6,5,14,15.0*,11,12,6,9,80.8,8
+AUS,9071,Richard Hyde,Lindsay Gilbert,Sandgate Sailing Club,35.0 DNC*,8,8,14,10,9,7,3,15,12,86,9
+POL,8769,Paweł Nawrocki,Patryk Płotka,Mipro AKM Gdańsk,35.0 DNS*,15.8 DPI1,9,15.6 DPI2,12,14,10,13.6 DPI2,12.6 DPI2,13,115.6,10
+POL,8736,Adam Kuczyński,Andrzej Borowiak,ŻMKS Poznań,35.0 DNC*,35.0 DNC,35.0 DNC,6,6,6,3,13,14,5,123,11
+AUS,9028,Earle Alexander,John Mclean,Darling Point Ss,35.0 DNC*,35.0 DNC,35.0 DNC,35.0 DNS,2,3,8,5,7,2,132,12
+POL,8909,Jan Domański,Maciej Goździk,KPMG Sailing Team,13.8 DPI1,35.0 DNC*,35.0 DNC,17,9,12,17,15,12,7,137.8,13
+POL,8483,Mariusz Michalski,Piotr Duma,YK”Stal”Gdynia/PSK 505,12.8 DPI1,35.0 DNF*,14,21,20,13,13,17,13,16,139.8,14
+POL,8582,Jakub Kozanko,Michał Wdówka,Łódź,14,35.0 DNC*,13,9,15,18,16,18,26,14,143,15
+POL,8145,Paweł Kluczyński,Władysław Kondej,AZS Poznań,16.8 DPI1,13,11,35.0 DSQ*,18,21,18,19,23,19,158.8,16
+POL,8212,Dariusz Konopczak,Piotr Kosobucki,“Dobra Marina”Szczecin,17.8 DPI1,11,10,21.6 DPI2,19,16,35.0 DNC*,26.6 DPI2,25.6 DPI2,15,162.6,17
+POL,8493,Mieczysław Szwed,Jacek Szwed,CŻ Szczecin,35.0 DNC*,35.0 DNC,35.0 DNC,13,13,11,15,14,17,17,170,18
+POL,8665,Ewa Pawlaczyk,Jan Walczak,JKW Poznan/OKŻ Olsztyn,35.0 DNC*,35.0 DNC,35.0 DNC,7,16,23,35.0 DNC,11,11,4,177,19
+POL,8437,Dominik Pawłowski,Kacper Kaczmarek,AZS Poznań,35.0 DNC*,12,35.0 DNC,22,21,17,12,21,19,18,177,20
+POL,8028,Anna Zabłocka,Bartosz Kowalczyk,ŻLKS Poznań,18,16,15,21.8 DPI1,25.0*,20,19,24,24,22,179.8,21
+POL,8497,Aleksandra Kachlicka,Michał Prończuk,AZS Poznań/ŻLKS Poznań,13,17,35.0 DNC*,16.8 DPI1,24,19,35.0 DNC,20,21,21,186.8,22
+POL,8217,Wojciech Denderski,Norbert Kiderys,PSK 505,35.0 DNF*,16.8 DPI1,12,23,17,35.0 DNC,35.0 DNC,16,16,25,195.8,23
+POL,8129,Jakub Kusiorski,Robert Korybut-Daszkiewicz,AZS Olsztyn,17,35.0 DNF*,35.0 DNC,17.8 DPI1,23,35.0 DNS,20,22,20,23,212.8,24
+POL,9015,Igor Graczyk,Maciej Graczyk,MŻKS Poznań,35.0 DNS*,35.0 DNF,35.0 DNC,19,22,22,35.0 DNC,35.0 DNF,18,20,241,25
+POL,8751,Wojciech Kasprzyk,Paweł Henszke,CŻ Szczecin,35.0 DNC*,35.0 DNF,35.0 DNC,25.8 DPI1,26,24,35.0 DNC,25,25,24,254.8,26
+POL,8812,Sławomir Plichta,Paweł Prus,YK”Stal”Gdynia,9.8 DPI1,9,35.0 DNC*,35.0 DNC,35.0 DNC,35.0 DNC,35.0 DNC,35.0 DNC,35.0 DNC,35.0 DNC,263.8,27
+GER,9070,Michael Quirk,Łukasz Skrzycki,RPEYC/YK”Stal”Gdynia,3.8 DPI1,35.0 DNF*,35.0 DNC,35.0 DNC,35.0 DNC,35.0 DNC,35.0 DNC,35.0 DNC,35.0 DNC,35.0 DNC,283.8,28
+POL,8398,Krzysztof Huptyś,Tomasz Korda,JK Pszczyna,35.0 DNC*,35.0 DNC,35.0 DNC,28.8 DPI1,28,25,35.0 DNC,27,35.0 DNC,35.0 DNC,283.8,29
+POL,8359,Tomasz Polikowski,Adam Najmowicz,Eurobank Sailing Team,35.0 DNC*,35.0 DNC,35.0 DNC,25,27,35.0 DNC,35.0 DNC,35.0 DNF,35.0 DNC,26,288,30
+POL,7020,Marcin Pietrzak,Marcin O. Pietrzak,WTW Warszawa,35.0 DNC*,35.0 DNC,35.0 DNC,26,35.0 DNC,35.0 DNC,35.0 DNC,26,27,35.0 DNC,289,31
+POL,9118,Jakub Pawluk,Marcin Józefowski,“Legia”Warszawa/”Spójnia”Warszawa,35.0 DSQ*,35.0 DSQ,35.0 DSQ,35.0 DSQ,35.0 DSQ,35.0 DSQ,35.0 DSQ,35.0 DSQ,35.0 DSQ,35.0 DSQ,315,32
+POL,8656,Emanuela Bartkowiak,Mateusz Wolszczak,YK”Stal”Gdynia,35.0 DNC*,35.0 DNC,35.0 DNC,35.0 DNC,35.0 DNC,35.0 DNC,35.0 DNC,35.0 DNC,35.0 DNC,35.0 DNC,315,32
+POL,8770,Jakub Gąsiorowski,Karolina Gąsiorowska,YK”Stal”Gdynia,35.0 DNF*,35.0 DNC,35.0 DNC,35.0 DNC,35.0 DNC,35.0 DNC,35.0 DNC,35.0 DNC,35.0 DNC,35.0 DNC,315,32
