@@ -1394,6 +1394,10 @@ class iworks_5o5_upload_fixer {
 			'B. Moss' => 'Bev Moss',
 		),
 		array(
+			'Farrant' => 'Derek Farrant',
+            'Moss' => 'Bev Moss',
+		),
+		array(
 			'P. White' => 'Peter White',
 			'J. Davis' => 'John Davis',
 		),
@@ -2510,6 +2514,10 @@ class iworks_5o5_upload_fixer {
 			'K.Lidman'   => 'Kjell Lidman',
 		),
 		array(
+			'Eriksson' => 'Stefan Eriksson',
+			'Karlsson'   => 'Sven Karlsson',
+		),
+		array(
 			'P.Oskarsson' => 'Per Oskarsson',
 			'L.Edström  ' => 'Lars Edström',
 		),
@@ -2668,6 +2676,10 @@ class iworks_5o5_upload_fixer {
 		array(
 			'Nilsson' => 'Karl-Erik Nilsson',
 			'Aven'    => 'Anders Avén',
+		),
+		array(
+			'Nilsson' => 'Karl-Erik Nilsson',
+			'Larssen'    => 'Lars Larsson',
 		),
 		array(
 			'Lovsey'   => 'Paul Lovesy',
@@ -2984,6 +2996,10 @@ class iworks_5o5_upload_fixer {
 		array(
 			'Scherrer' => 'Urs Scherrer',
 			'Walser'   => 'Reto Walser',
+		),
+		array(
+			'Scherrer' => 'Urs Scherrer',
+			'Eisold'   => 'Eisold',
 		),
 		array(
 			'Wattine' => 'Hervé Wattine',
@@ -3523,7 +3539,7 @@ class iworks_5o5_upload_fixer {
 		),
 		array(
 			'Loveday' => 'John Loveday',
-			'Terry'   => 'Terry',
+			'Terry'   => 'Alan Terry',
 		),
 		array(
 			'Wills' => 'Paul Wills',
@@ -3759,11 +3775,11 @@ class iworks_5o5_upload_fixer {
 		),
 		array(
 			'Christensen' => 'Jens Christensen',
-			'Thomsen'     => 'Thomsen',
+			'Thomsen'     => 'Jens Thomsen',
 		),
 		array(
 			'Wedin'   => 'Roy Wedin',
-			'Sandsjo' => 'Sandsjo',
+			'Sandsjo' => 'Peter Sandsjö',
 		),
 		array(
 			'Bowles'   => 'Don Bowles',
@@ -3904,6 +3920,34 @@ class iworks_5o5_upload_fixer {
 		array(
 			'Hauvette' => 'Christian Hauvette',
 			'Vasseur'  => 'Nicolas Vasseur',
+		),
+		array(
+			'Arnold' => 'Mike Arnold',
+			'Bailey' => 'Alan Bailey',
+		),
+		array(
+            'Brummer' => 'Mikko Brummer',
+			'Biaudet' => 'Rudi Biaudet',
+		),
+		array(
+			'Johansson' => 'Johansson',
+			'Weber' => 'Teddy Weber',
+		),
+		array(
+            'Danby' => 'Peter Danby',
+            'Auger' => 'Auger',
+		),
+		array(
+            'Eppers' => 'Jan Eppers',
+			'Thers' => 'Thers',
+		),
+		array(
+			'Rudewald' => 'Thomas Rudewald',
+			'Lundberg' => 'Thomas Lundberg',
+		),
+		array(
+			'Larsson' => 'Ray Larsson',
+			'Magnusson' => 'Bengt Magnusson',
 		),
 		/*
 		array(
@@ -7358,7 +7402,10 @@ class iworks_5o5_upload_fixer {
 		),
 		'4122' => array(
 			'Guillaume' => 'Serge Guillaume',
-		),
+        ),
+        '4798' => array(
+            'Colclougi' => 'Peter Colclough',
+        ),
 		'4815' => array(
 			'Blanchard' => 'Philippe Blanchard',
 		),

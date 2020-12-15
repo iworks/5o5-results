@@ -16,15 +16,15 @@ FRA,4809,Pajot,Kergreis,,21,26,28,26,7,3,143.7,109.7,14
 FIN,4626,Rouhiainen,Mustonen,,17,14,38,12,63,5,184,115,15
 DEN,4543,Christensen,Thomsen,,1,76,9,86,4,7,210,118,16
 FRA,4700,Fountaine,Fountaine,,18,76,3,10,55,9,204,121.7,17
-DEN,4489,Madsen H.,Carlberc,,38,5,16,15,20,75,206,125,18
+DEN,4489,Madsen-Mygdal H.,Carlberg,,38,5,16,15,20,75,206,125,18
 SUI,4223,Scherrer,Eisold,,14,22,7,31,24,54,188,128,19
 GBR,4739,Derry,Chapman,,54,4,18,23,31,24,188,128,19
 GER,4744,Hampe,Jenssen,,24,7,27,22,48,30,194,140,21
 FRA,4667,Langlois,Richard,,20,25,29,14,36,48,208,154,22
-DEN,4314,Westh,Jenssen,,27,20,31,18,85,29,246,155,23
+DEN,4314,H. Westh,Jensen,,27,20,31,18,85,29,246,155,23
 FRA,4944,Brejechl,Le Soudeer,,22,31,21,20,32,67,229,156,24
-GBR,4767,Locke,Fusinelli,,29,13,69,17,53,19,236,161,25
-FIN,4303,Lagerstrom,Lagerstrom,,3,30,58,35,35,32,226,161.7,26
+GBR,4767,John Locke,Pusinelli,,29,13,69,17,53,19,236,161,25
+FIN,4303,Nils Lagerström,Lars Lagerström,,3,30,58,35,35,32,226,161.7,26
 FRA,4325,Reynier,Dury,,48,38,36,40,11,10,219,165,27
 FRA,4632,Oeuvrard,Rougier,,63,9,11,33,43,39,234,165,27
 FRA,4646,Savelli,Savelli,,39,27,10,32,39,31,214,169,29
@@ -32,13 +32,13 @@ FIN,4660,Brummer,Biaudet,,37,19,20,54,45,20,231,171,30
 FRA,4611,Cheret,Drubay,,43,21,42,86,17,21,266,114,31
 GER,4733,Bremenkamp,Petersen,,44,63,1,40,12,53,244,175,32
 FRA,4680,Callamand,Legre,,47,17,62,39,15,33,249,181,33
-FIN,4835,Wilen,Wilen,,46,23,86,45,16,22,274,182,34
+FIN,4835,Kari Wilén,Jyri Wilén,,46,23,86,45,16,22,274,182,34
 FRA,4881,Nesseler,Nesseler,,31,76,22,25,40,38,268,186,35
 SWE,3106,Wedin,Sandsjo,,45,50,17,21,51,27,247,190,36
 GER,4455,Heck,Hotzen,,25,34,35,46,27,55,258,197,37
 FRA,4279,Doloy,Lazennec,,12,43,55,60,14,44,264,198,38
 SWE,3924,Eriksson,Karlson,,26,42,66,41,33,28,272,200,39
-SWE,3956,Hansson,Hansson,,33,47,24,29,41,45,255,202,40
+SWE,3956,Åke Hansson,Bengt Hansson,,33,47,24,29,41,45,255,202,40
 GBR,4450,Loveday,Terry,,7,56,52,19,19,84,293,203,41
 HKG,4177,Snatter,Knox,,52,15,12,86,61,34,296,204,42
 FRA,4701,Sadoc,Follenfant,,35,49,54,37,18,37,266,206,43
@@ -67,7 +67,7 @@ GER,4729,Zander,Muth,,51,60,57,49,64,62,379,309,65
 FRA,4440,Leger,Leibovitch,,85,76,74,44,46,47,408,317,66
 SUI,4357,Nordeide,Nordeide,,69,59,40,61,69,63,397,322,67
 SUI,4449,Reymond,Frei,,61,76,51,77,56,51,408,325,68
-SUI,4011,Focelholm,Lampenius,,56,53,72,64,66,57,404,326,69
+SUI,4011,C.J. Fogelholm,H. Lampenius,,56,53,72,64,66,57,404,326,69
 GBR,4467,Quellmalz,Stahl,,71,56,73,47,65,59,407,326,70
 GER,3032,Bower,,,68,62,41,65,62,70,404,328,70
 GBR,4369,Crocker,Woodhead,,28,76,77,62,72,65,416,333,72
@@ -76,4 +76,4 @@ GBR,4772,Brown,Michael J.,,66,60,64,59,68,75,428,347,74
 SUI,4285,Ickart,Himelsbagh,,72,64,68,66,70,78,454,370,75
 GBR,3788,Farman,Morton,,85,57,65,DSQ,67,68,464,372,76
 GER,4320,Nedelko,Niel,,57,78,56,77,78,78,460,376,77
-SWE,4718,Olsson,Hoglund,,DNS,DNS,DNS,DNS,DNS,78,504,420,78
+SWE,4718,Jörgen Ohlson,Hoglund,the team had to cancel their trip to France due to Jörgen was not allowed to take time off from his mandatory military service,DNS,DNS,DNS,DNS,DNS,78,504,420,78
