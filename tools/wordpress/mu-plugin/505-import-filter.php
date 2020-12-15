@@ -1395,7 +1395,7 @@ class iworks_5o5_upload_fixer {
 		),
 		array(
 			'Farrant' => 'Derek Farrant',
-            'Moss' => 'Bev Moss',
+			'Moss'    => 'Bev Moss',
 		),
 		array(
 			'P. White' => 'Peter White',
@@ -2515,7 +2515,7 @@ class iworks_5o5_upload_fixer {
 		),
 		array(
 			'Eriksson' => 'Stefan Eriksson',
-			'Karlsson'   => 'Sven Karlsson',
+			'Karlsson' => 'Sven Karlsson',
 		),
 		array(
 			'P.Oskarsson' => 'Per Oskarsson',
@@ -2679,7 +2679,7 @@ class iworks_5o5_upload_fixer {
 		),
 		array(
 			'Nilsson' => 'Karl-Erik Nilsson',
-			'Larssen'    => 'Lars Larsson',
+			'Larssen' => 'Lars Larsson',
 		),
 		array(
 			'Lovsey'   => 'Paul Lovesy',
@@ -3926,27 +3926,27 @@ class iworks_5o5_upload_fixer {
 			'Bailey' => 'Alan Bailey',
 		),
 		array(
-            'Brummer' => 'Mikko Brummer',
+			'Brummer' => 'Mikko Brummer',
 			'Biaudet' => 'Rudi Biaudet',
 		),
 		array(
 			'Johansson' => 'Johansson',
-			'Weber' => 'Teddy Weber',
+			'Weber'     => 'Teddy Weber',
 		),
 		array(
-            'Danby' => 'Peter Danby',
-            'Auger' => 'Auger',
+			'Danby' => 'Peter Danby',
+			'Auger' => 'Auger',
 		),
 		array(
-            'Eppers' => 'Jan Eppers',
-			'Thers' => 'Thers',
+			'Eppers' => 'Jan Eppers',
+			'Thers'  => 'Thers',
 		),
 		array(
 			'Rudewald' => 'Thomas Rudewald',
 			'Lundberg' => 'Thomas Lundberg',
 		),
 		array(
-			'Larsson' => 'Ray Larsson',
+			'Larsson'   => 'Ray Larsson',
 			'Magnusson' => 'Bengt Magnusson',
 		),
 		/*
@@ -7402,10 +7402,10 @@ class iworks_5o5_upload_fixer {
 		),
 		'4122' => array(
 			'Guillaume' => 'Serge Guillaume',
-        ),
-        '4798' => array(
-            'Colclougi' => 'Peter Colclough',
-        ),
+		),
+		'4798' => array(
+			'Colclougi' => 'Peter Colclough',
+		),
 		'4815' => array(
 			'Blanchard' => 'Philippe Blanchard',
 		),
@@ -7465,6 +7465,12 @@ class iworks_5o5_upload_fixer {
 		),
 		'8830' => array(
 			'Drew Buttner' => 'Andrew Buttner',
+		),
+		'8873' => array(
+			'Thomas Lundberg' => 'Thomas K. Lundberg',
+		),
+		'9143' => array(
+			'Thomas Lundberg' => 'Thomas K. Lundberg',
 		),
 	);
 
