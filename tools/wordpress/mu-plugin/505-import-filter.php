@@ -2519,7 +2519,7 @@ class iworks_5o5_upload_fixer {
 		),
 		array(
 			'Eriksson' => 'Stefan Eriksson',
-			'Karlson' => 'Sven Karlsson',
+			'Karlson'  => 'Sven Karlsson',
 		),
 		array(
 			'P.Oskarsson' => 'Per Oskarsson',
@@ -3954,16 +3954,16 @@ class iworks_5o5_upload_fixer {
 			'Magnusson' => 'Bengt Magnusson',
 		),
 		array(
-			'Mee' => 'Peter Mee',
+			'Mee'    => 'Peter Mee',
 			'Taylor' => 'Gary Taylor',
 		),
 		array(
 			'Greenland' => 'Mick Greenland',
-			'Dixon' => 'Jerry Dixon',
+			'Dixon'     => 'Jerry Dixon',
 		),
 		array(
 			'Tindale' => 'Jason Tindale',
-			'Povey' => 'Robert Povey',
+			'Povey'   => 'Robert Povey',
 		),
 		array(
 			'Hansson' => 'Marten Hansson',
@@ -3971,7 +3971,7 @@ class iworks_5o5_upload_fixer {
 		),
 		array(
 			'Holt Condon' => 'John Holt Condon',
-			'Dunnes' => 'Reeve Dunnes',
+			'Dunnes'      => 'Reeve Dunnes',
 		),
 		/*
 		array(
@@ -3984,8 +3984,8 @@ class iworks_5o5_upload_fixer {
 	/**
 	 * foo
 	 */
-    private $person = array(
-        'Hultgren Lars' => 'Lars Hultgren',
+	private $person = array(
+		'Hultgren Lars'               => 'Lars Hultgren',
 		'?'                           => '',
 		'011e Wenrup'                 => 'Olle Wenrup',
 		'011i Karlsson'               => 'Olli Karlsson',
@@ -6354,8 +6354,8 @@ class iworks_5o5_upload_fixer {
 		'Olko Michal'                 => 'Michał Olko',
 		'Olle Wendrup'                => 'Olle Wenrup',
 		'Ollie Boyers'                => 'Ollie Boyes',
-        'Oscar Ångervall'             => 'Oscar Ångervall',
-        'Oscar Angervall' => 'Oscar Ångervall',
+		'Oscar Ångervall'             => 'Oscar Ångervall',
+		'Oscar Angervall'             => 'Oscar Ångervall',
 		'Oscar Angerwall'             => 'Oscar Ångervall',
 		'Ossie Stewart'               => 'Ozzie Stewart',
 		'O\'sullivan Pal'             => 'Pal O\'Sullivan',
