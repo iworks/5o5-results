@@ -11,4 +11,5 @@ I will thanks to hose persons (order by time)
 * Ebbe Rosén - he provide first batch of results and help me when I need something more.
 * Mike Hattemore - provide a lot of WC and UK Nationals.
 * Peter Scannell - help with manual fixing Irish results.
+* Olivier Barat - provide French Bulletin scans 1972-1979 and few more till 2003.
 
