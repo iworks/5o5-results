@@ -2518,6 +2518,10 @@ class iworks_5o5_upload_fixer {
 			'Karlsson' => 'Sven Karlsson',
 		),
 		array(
+			'Eriksson' => 'Stefan Eriksson',
+			'Karlson' => 'Sven Karlsson',
+		),
+		array(
 			'P.Oskarsson' => 'Per Oskarsson',
 			'L.Edström  ' => 'Lars Edström',
 		),
