@@ -4609,7 +4609,7 @@ class iworks_5o5_upload_fixer {
 		'D. Vinnicombe'               => 'David Vinnicombe',
 		'D Wansborough'               => 'David Wansborough',
 		'D. Wansbrough'               => 'David Wansborough',
-		'D. White'                    => 'Dave White',
+		'D. White'                    => 'David White',
 		'D. Wood'                     => 'David Wood',
 		'Da Bell'                     => 'Dave Bell',
 		'Da Porter'                   => 'David Porter',
@@ -7429,15 +7429,27 @@ class iworks_5o5_upload_fixer {
 		'4122' => array(
 			'Guillaume' => 'Serge Guillaume',
 		),
+		'4131' => array(
+			'Dave White' => 'David White',
+		),
 		'4798' => array(
 			'Colclougi' => 'Peter Colclough',
 		),
 		'4815' => array(
 			'Blanchard' => 'Philippe Blanchard',
 		),
+		'5669' => array(
+			'Dave White' => 'David White',
+		),
+		'5875' => array(
+			'Dave White' => 'David White',
+		),
 		'6201' => array(
 			'Tabardel' => 'Eric Tabardel',
 			'Péro'     => 'Bernard Péro',
+		),
+		'6447' => array(
+			'Dave White' => 'David White',
 		),
 		'6603' => array(
 			'J. O\'Connor' => 'Jeremy Sean O\'Connor',
@@ -7458,8 +7470,20 @@ class iworks_5o5_upload_fixer {
 		'6991' => array(
 			'Marino' => 'Dan Merino',
 		),
+		'7088' => array(
+			'Dave White' => 'David White',
+		),
+		'7277' => array(
+			'Dave White' => 'David White',
+		),
+		'7667' => array(
+			'Dave White' => 'David White',
+		),
 		'7793' => array(
 			'Seiple' => 'Dave Seiple',
+		),
+		'7837' => array(
+			'Dave White' => 'David White',
 		),
 		'7950' => array(
 			'Samson' => 'Louis Samson',
@@ -7469,6 +7493,9 @@ class iworks_5o5_upload_fixer {
 		),
 		'8033' => array(
 			'Carl Thews' => 'Kalle Thews',
+		),
+		'8071' => array(
+			'Dave White' => 'David White',
 		),
 		'8104' => array(
 			'Bourdon' => 'Marc Bourdon',
