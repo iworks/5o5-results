@@ -1758,6 +1758,10 @@ class iworks_5o5_upload_fixer {
 			'Trouillet' => 'Damien Trouillet',
 		),
 		array(
+			'Buffet'    => 'Marcel Buffet',
+			'Lallement' => 'Alain Lallement',
+		),
+		array(
 			'M. Buffet'   => 'Marcel Buffet',
 			'J. Muzellec' => 'Jean-Luc Muzellec',
 		),
@@ -3985,6 +3989,7 @@ class iworks_5o5_upload_fixer {
 	 * foo
 	 */
 	private $person = array(
+        'Alain Lallemend' => 'Alain Lallement',
 		'Hultgren Lars'               => 'Lars Hultgren',
 		'?'                           => '',
 		'011e Wenrup'                 => 'Olle Wenrup',
