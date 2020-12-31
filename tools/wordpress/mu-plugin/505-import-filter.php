@@ -1742,6 +1742,10 @@ class iworks_5o5_upload_fixer {
 			'Barlebo' => 'Carsten Barlebo',
 		),
 		array(
+			'B. Sorgard' => 'Birgitte Søgård',
+			'C. Barlebo' => 'Carsten Barlebo',
+		),
+		array(
 			'Buffet'    => 'Marcel Buffet',
 			'Moreau D.' => 'Thierry Moreau-Defarges',
 		),
@@ -3989,7 +3993,7 @@ class iworks_5o5_upload_fixer {
 	 * foo
 	 */
 	private $person = array(
-        'Alain Lallemend' => 'Alain Lallement',
+		'Alain Lallemend'             => 'Alain Lallement',
 		'Hultgren Lars'               => 'Lars Hultgren',
 		'?'                           => '',
 		'011e Wenrup'                 => 'Olle Wenrup',
@@ -7514,6 +7518,9 @@ class iworks_5o5_upload_fixer {
 		),
 		'8548' => array(
 			'Peter' => 'Peter Tuck',
+		),
+		'8600' => array(
+			'Rob Larke' => 'Robert Larke',
 		),
 		'8627' => array(
 			'Collins' => 'Tim Collins',
