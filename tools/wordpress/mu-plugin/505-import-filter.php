@@ -7520,7 +7520,8 @@ class iworks_5o5_upload_fixer {
 			'Peter' => 'Peter Tuck',
 		),
 		'8600' => array(
-			'Rob Larke' => 'Robert Larke',
+			'Rob Larke'  => 'Robert Larke',
+			'T Scutcher' => 'Terry Scutcher',
 		),
 		'8627' => array(
 			'Collins' => 'Tim Collins',
@@ -7546,7 +7547,7 @@ class iworks_5o5_upload_fixer {
 		add_filter( 'iworks_fleet_result_upload_crew', array( $this, 'person' ), 11, 1 );
 		add_filter( 'iworks_fleet_result_clear_person_name', array( $this, 'person' ), 11, 1 );
 		add_filter( 'wp_insert_post_data', array( $this, 'person_before_insert' ), PHP_INT_MAX, 2 );
-		add_filter( 'iworks_fleet_result_upload_person_with_boat', [ $this, 'person_with_boat_id' ], 10, 2 );
+		add_filter( 'iworks_fleet_result_upload_person_with_boat', array( $this, 'person_with_boat_id' ), 10, 2 );
 	}
 
 	public function person_with_boat_id( $person, $boat_id ) {
