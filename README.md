@@ -12,4 +12,6 @@ I will thanks to hose persons (order by time)
 * Mike Hattemore - provide a lot of WC and UK Nationals.
 * Peter Scannell - help with manual fixing Irish results.
 * Olivier Barat - provide French Bulletin scans 1972-1979 and few more till 2003.
+* Jonathan Gibbons - provide "505 Great Britain" 1975-1987
+
 

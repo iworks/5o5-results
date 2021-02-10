@@ -7479,11 +7479,26 @@ class iworks_5o5_upload_fixer {
 		'6991' => array(
 			'Marino' => 'Dan Merino',
 		),
+		'7070' => array(
+			'W. Carey' => 'Warren Carey',
+		),
 		'7088' => array(
 			'Dave White' => 'David White',
 		),
+		'7233' => array(
+			'P. Pisters' => 'Peter Pisters',
+		),
 		'7277' => array(
 			'Dave White' => 'David White',
+		),
+		'7336' => array(
+			'L. Winter' => 'Leigh Winter',
+		),
+		'7406' => array(
+			'A. Bessell' => 'Alan Bessell',
+		),
+		'7515' => array(
+			'G. Gilmour' => 'Greg Gilmour',
 		),
 		'7667' => array(
 			'Dave White' => 'David White',
@@ -7491,11 +7506,32 @@ class iworks_5o5_upload_fixer {
 		'7793' => array(
 			'Seiple' => 'Dave Seiple',
 		),
+		'7828' => array(
+			'R. Gallimore' => 'Richard Gallimore',
+		),
+		'7831' => array(
+			'S. McConaghy' => 'Stephen McConaghy',
+		),
 		'7837' => array(
 			'Dave White' => 'David White',
 		),
+		'7901' => array(
+			'M. Engert' => 'Mark Engert',
+		),
+		'7903' => array(
+			'K. Williams' => 'Kim Williams',
+		),
+		'7934' => array(
+			'M. Soulsby' => 'Mark Soulsby',
+		),
+		'7936' => array(
+			'G. Bruniges' => 'Gary Bruniges',
+		),
 		'7950' => array(
 			'Samson' => 'Louis Samson',
+		),
+		'7978' => array(
+			'G. Kyrwood' => 'Geoff Kyrwood',
 		),
 		'8012' => array(
 			'Henry "Hank" Amthor' => 'Henry Amthor',
