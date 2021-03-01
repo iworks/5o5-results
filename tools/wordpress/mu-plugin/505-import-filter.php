@@ -7503,6 +7503,12 @@ class iworks_5o5_upload_fixer {
 		'7667' => array(
 			'Dave White' => 'David White',
 		),
+        '7700' => array(
+            'Peter Sidell' => 'Peter Siddall',
+            'Pete Siddall' => 'Peter Siddall',
+            'Peter Sidall' => 'Peter Siddall',
+            'P. Siddal' => 'Peter Siddall',
+        ),
 		'7793' => array(
 			'Seiple' => 'Dave Seiple',
 		),
