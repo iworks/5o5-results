@@ -1643,7 +1643,7 @@ class iworks_5o5_upload_fixer {
 		),
 		array(
 			'Bohren'  => 'Markus Bohren',
-			'Fischer' => 'R. Fischer',
+			'Fischer' => 'Roger Fischer',
 		),
 		array(
 			'Damsgaard' => 'Rasmus Damsgaard',
@@ -7435,6 +7435,9 @@ class iworks_5o5_upload_fixer {
 		'4004' => array(
 			'Laplassotte' => 'Jean-Claude Laplassotte',
 		),
+		'4101' => array(
+			'I. Shape' => 'Ivan Sharpe',
+		),
 		'4122' => array(
 			'Guillaume' => 'Serge Guillaume',
 		),
@@ -7500,15 +7503,24 @@ class iworks_5o5_upload_fixer {
 		'7515' => array(
 			'G. Gilmour' => 'Greg Gilmour',
 		),
+		'7547' => array(
+			'N. Squirell' => 'Nigel Squirrell',
+		),
+		'7580' => array(
+			'Michael Platts' => 'Mike Platts',
+		),
 		'7667' => array(
 			'Dave White' => 'David White',
 		),
-        '7700' => array(
-            'Peter Sidell' => 'Peter Siddall',
-            'Pete Siddall' => 'Peter Siddall',
-            'Peter Sidall' => 'Peter Siddall',
-            'P. Siddal' => 'Peter Siddall',
-        ),
+		'7700' => array(
+			'Peter Sidell' => 'Peter Siddall',
+			'Pete Siddall' => 'Peter Siddall',
+			'Peter Sidall' => 'Peter Siddall',
+			'P. Siddal'    => 'Peter Siddall',
+		),
+		'7713' => array(
+			'Phillip Gibbons' => 'Philip Gibbons',
+		),
 		'7793' => array(
 			'Seiple' => 'Dave Seiple',
 		),
