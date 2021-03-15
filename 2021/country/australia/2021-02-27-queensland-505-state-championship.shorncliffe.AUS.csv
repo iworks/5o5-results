@@ -1,9 +1,23 @@
-country,,,,,Race 1,Points,Place
-AUS,,Nigel Lott,Bob Franks,,,,1
-AUS,,Mike Quirk,John Warlow,,,,2
-AUS,,Chris Gregg,Ian Gregg,,,,3
-AUS,,Earle Alexander,Josh Mortensen,,,,4
-AUS,,Kevin Cameron,Evert Meyer,,,,5
-AUS,,Richard Hyde,Lindsay Gilbert,,,,6
-AUS,,John McLean,Andrew Ringwood,,,,7
-AUS,,Peter Croft,Rilke De Vos,,,,7
+Country,SailNo,HelmName,CrewName,Club,R1,R2,Boat,Total,Nett,Place
+,,Nigel Lott,Bob Franks,,,,,,,1
+AUS,9134,Mike Quirk,John Warlow,,,,,,,2
+AUS,8781,Chris Gregg,Ian Gregg,DPSS,,,,,,3
+AUS,9074,Earle Alexander,Josh Moretenson,DPSS,,,,,,4
+,,Kevin Cameron,Evert Meyer,,,,,,,5
+AUS,9071,Richard Hyde,Lindsey Gilbert,SYC,,,,,,7
+,,John McLean,Andrew Ringwood,,,,,,,7
+AUS,8682,Peter Croft,Rilke De Vos,SYC,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,1,2,Tram Primate,3,3,
+AUS,9037,,,DPSS,3,1,Soaked,4,4,
+,,,,,2,5,Earle Grey 1,7,7,
+AUS,9210,,,,5,3,Fukcovid,8,8,
+AUS,9061,,,,4,4,Four Walls,8,8,
+,,,,,6,6,L&R,12,12,
+,,Peter Croft Rulka,,,7,7,Mickey Ochi Blue,14,14,
+AUS,8781A*,John Olson,,DPSS,8,OCS 9,Earle Grey 2,17,17,
+,,,,,DNS 9,DNS 9,Captian Quirkles,18,18,
