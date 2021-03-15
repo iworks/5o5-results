@@ -1,9 +1,4 @@
 Nation,Name,Club,Description,Birth Date,Website,Facebook,Death Date,Full Name,Height
-GER,Patrick Ziegelmueller
-GBR,Mark Wincer
-GBR,David Bayfield
-GBR,Simon Clover
-GBR,Kate Buie
 AUS,Adam Brenz-Verca,,,,,,,,
 AUS,Adam Wyatt,,,,,,,,
 AUS,Adrian Finglas,,,,,,,,
@@ -1124,6 +1119,7 @@ GBR,Dave Sherwin,,,,,,,,
 GBR,David Allinson,,,,,,,,
 GBR,David Banks,,,,,,,,
 GBR,David Barnes,,,,,,,,
+GBR,David Bayfield
 GBR,David Bell,,,,,,,,
 GBR,David Booth,,,,,,,,
 GBR,David Clark,,,,,,,,
@@ -1259,6 +1255,7 @@ GBR,Jude Beamers,,,,,,,,
 GBR,Judith French,,,,,,,,
 GBR,Julian Hereward,,,,,,,,
 GBR,Julian Lord,,,,,,,,
+GBR,Kate Buie
 GBR,Keith Norris,,,,,,,,
 GBR,Keith Paul,,,,,,,,
 GBR,Keith Pins,,,,,,,,
@@ -1292,6 +1289,7 @@ GBR,Mark Nicholson,,,,,,,,
 GBR,Mark Owen,,,,,,,,
 GBR,Mark Simpson,,,,,,,,
 GBR,Mark Upton-Brown,,,,,,,,
+GBR,Mark Wincer
 GBR,Martin Gotrel,,,,,,,,
 GBR,Martin Goult,,,,,,,,
 GBR,Martin Grady,,,,,,,,
@@ -1464,6 +1462,7 @@ GBR,Scott Allen,,,,,,,,
 GBR,Sean Rankins,,,,,,,,
 GBR,Shaun Moyler,,,,,,,,
 GBR,Simon Briddon,,,,,,,,
+GBR,Simon Clover
 GBR,Simon Dabson,,,,,,,,
 GBR,Simon Hiscook,,,,,,,,
 GBR,Simon Johnson,,,,,,,,
@@ -1946,6 +1945,7 @@ GER,Oliver Ziems,,,,,,,,
 GER,Olivier Koch,,,,,,,,
 GER,Olivier Kraft,,,,,,,,
 GER,Patrick Eberwein,,,,,,,,
+GER,Patrick Ziegelmueller
 GER,Paul Meyer,,,,,,,,
 GER,Paule Schultz,,,,,,,,
 GER,Pedro Bohnenberger,,,,,,,,
