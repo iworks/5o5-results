@@ -3992,9 +3992,7 @@ class iworks_5o5_upload_fixer {
 	/**
 	 * foo
 	 */
-    private $person = array(
-        'Jean Marc Paquoette' => 'Jean Marc Paquotte'.
-        'Marc J. Paquotte' => 'Jean Marc Paquotte'.
+	private $person = array(
 		'?'                           => '',
 		'011e Wenrup'                 => 'Olle Wenrup',
 		'011i Karlsson'               => 'Olli Karlsson',
@@ -5501,6 +5499,7 @@ class iworks_5o5_upload_fixer {
 		'Jean LucMuzellec'            => 'Jean-Luc Muzellec',
 		'Jean M Tournier'             => 'Jean Marie Tournier',
 		'Jean Marc Noclain'           => 'Jean-Marc Noclain',
+		'Jean Marc Paquoette'         => 'Jean Marc Paquotte',
 		'Jean Marie Tinembart'        => 'Jean-Marie Tinembart',
 		'Jean Muzellec'               => 'Jean-Luc Muzellec',
 		'Jean Paul Tousch'            => 'Jean-Paul Tousch',
@@ -5988,6 +5987,7 @@ class iworks_5o5_upload_fixer {
 		'Manti Luca'                  => 'Luca Manzi',
 		'Manuelle Adam'               => 'Adam Manuelle',
 		'Manzi Luca'                  => 'Luca Manzi',
+		'Marc J. Paquotte'            => 'Jean Marc Paquotte',
 		'Marc Koster'                 => 'Marc Köster',
 		'Marc Upton-Brown'            => 'Mark Upton-Brown',
 		'Marcel Pluess'               => 'Marcell Plüss',
