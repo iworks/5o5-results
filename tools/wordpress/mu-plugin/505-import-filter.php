@@ -4900,6 +4900,7 @@ class iworks_5o5_upload_fixer {
 		'Eti Seguelas'                => 'Etienne Seguelas',
 		'Etienne Des Jamonieres'      => 'Etienne des Jamonières',
 		'Euan Mcnicol'                => 'Euan McNnicol',
+		'Euan McNnicol'               => 'Euan McNicol',
 		'E.W. Owen'                   => 'Eddie Warden-Owen',
 		'Ewald Bizoska'               => 'Ewald Brzoska',
 		'Ewan Barry'                  => 'Ewen Barry',
@@ -7562,6 +7563,9 @@ class iworks_5o5_upload_fixer {
 		),
 		'8012' => array(
 			'Henry "Hank" Amthor' => 'Henry Amthor',
+		),
+		'8013' => array(
+			'Jon Wenderoth' => 'Jonathan Wenderoth',
 		),
 		'8033' => array(
 			'Carl Thews' => 'Kalle Thews',
