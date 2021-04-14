@@ -1,8 +1,4 @@
 Nation,Name,Club,Description,Birth Date,Website,Facebook,Death Date,Full Name,Height
-USA,John Storck III
-FRA,Gael Le Mauguen
-FRA,Jean Marc Paquotte
-USA,Alexia Fisher
 AUS,Adam Brenz-Verca,,,,,,,,
 AUS,Adam Wyatt,,,,,,,,
 AUS,Adrian Finglas,,,,,,,,
@@ -104,6 +100,7 @@ AUS,Ian Davidson,,,,,,,,
 AUS,Ian Dunn,Harbour Yacht Club,,,,,,,
 AUS,Ian Gregg,,,,,,,,
 AUS,Ian McGillivray,,,,,,,,
+AUS,Ian Pinder
 AUS,Ian Scholes,,,,,,,,
 AUS,Ian Taylor,,,,,,,,
 AUS,Jake Bessen,,,,,,,,
@@ -176,6 +173,7 @@ AUS,Matthew Till,,,,,,,,
 AUS,Max Hayman,,,,,,,,
 AUS,Max Whitnall,,,,,,,,
 AUS,Michael Cook,,,,,,,,
+AUS,Michael Duffeild
 AUS,Michael Gallagher,,,,,,,,
 AUS,Michael Lawrence,,,,,,,,
 AUS,Michael Navarro,,,,,,,,
@@ -269,6 +267,7 @@ AUS,Steve Howden,,,,,,,,
 AUS,Steve Liney,,,,,,,,
 AUS,Steve McConaghy,,,,,,,,
 AUS,Steve Sievewright,,,,,,,,
+AUS,Stuart Campbell
 AUS,Thor Schoenhoff,,,,,,,,
 AUS,Tim Jeans,,,,,,,,
 AUS,Tim Walker,,,,,,,,
@@ -739,6 +738,7 @@ FRA,Gabin Micoulot,,,,,,,,
 FRA,Gabriel le Duc,,,,,,,,
 FRA,Gaël Conversy,,,,,,,,
 FRA,Gael le Mauguen,,,,,,,,
+FRA,Gael Le Mauguen
 FRA,Gaetan Finet,,,,,,,,
 FRA,Gautier Destombes,,,,,,,,
 FRA,Gay Bottlaender,,,,,,,,
@@ -778,6 +778,7 @@ FRA,Jean Blache,,,,,,,,
 FRA,Jean Charles Zimmowitch,,,,,,,,
 FRA,Jean Claude Ancelot,,,,,,,,
 FRA,Jean Jacques Veroul,,,,,,,,
+FRA,Jean Marc Paquotte
 FRA,Jean Marie Tournier,,,,,,,,
 FRA,Jean Philippe Ducros,,,,,,,,
 FRA,Jean Philippe Gastaud,,,,,,,,
@@ -2766,6 +2767,7 @@ USA,Alexander Tong,,,,,,,,
 USA,Alexander Young,,,,,,,,
 USA,Alexandre Laussu,,,,,,,,
 USA,Alexia Fischer,,,,,,,,
+USA,Alexia Fisher
 USA,Allan Johnson,,,,,,,,
 USA,Alyce Flanagan,,,,,,,,
 USA,Amie Huebner,,,,,,,,
@@ -2982,6 +2984,7 @@ USA,John Ingalls,,,,,,,,
 USA,John Loe,,,,,,,,
 USA,John Meade,,,,,,,,
 USA,John Smith,,,,,,,,
+USA,John Storck III
 USA,John Wyles,,,,,,,,
 USA,John Zakaib,,,,,,,,
 USA,Jon Bell,,,,,,,,
