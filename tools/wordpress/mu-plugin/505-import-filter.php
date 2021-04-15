@@ -5340,7 +5340,7 @@ class iworks_5o5_upload_fixer {
 		'Hunger Dr.Wolfgang'          => 'Wolfgang Hunger',
 		'Hunger Wolfgang'             => 'Wolfgang Hunger',
 		'Hunt Jim'                    => 'Jim Hunt',
-		'Hunt Stene'                  => 'Stephen nHunt',
+		'Hunt Stene'                  => 'Stephen Hunt',
 		'Hunt Steve'                  => 'Stephen Hunt',
 		'Hütten Dirk'                 => 'Dirk Hütten',
 		'Hyde Richard'                => 'Richard Hyde',
