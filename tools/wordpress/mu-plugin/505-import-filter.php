@@ -3981,6 +3981,10 @@ class iworks_5o5_upload_fixer {
 			'Holt Condon' => 'John Holt Condon',
 			'Dunnes'      => 'Reeve Dunnes',
 		),
+		array(
+			'Dunn'  => 'Ian Dunn',
+			'Shulz' => 'Paul Schulz',
+		),
 		/*
 		array(
 			'' => '',
@@ -4355,6 +4359,8 @@ class iworks_5o5_upload_fixer {
 		'Braun Falko'                 => 'Falko Braun',
 		'Brechbueheer'                => 'Brechbuhler',
 		'Breitenfeldt Ralf'           => 'Ralf Breitenfeldt',
+		'Brendan Heusler'             => 'Brendan Heussler',
+		'Brendan Huessler'            => 'Brendan Heussler',
 		'Brendan O\'rielly'           => 'Brendan O\'Rielly',
 		'Brendon Connell'             => 'Brendan Connell',
 		'Brenet Veronique'            => 'Veronique Brenet',
@@ -5340,7 +5346,7 @@ class iworks_5o5_upload_fixer {
 		'Hunger Dr.Wolfgang'          => 'Wolfgang Hunger',
 		'Hunger Wolfgang'             => 'Wolfgang Hunger',
 		'Hunt Jim'                    => 'Jim Hunt',
-		'Hunt Stene'                  => 'Stephen Hunt',
+		'Hunt Stene'                  => 'Stephen nHunt',
 		'Hunt Steve'                  => 'Stephen Hunt',
 		'Hütten Dirk'                 => 'Dirk Hütten',
 		'Hyde Richard'                => 'Richard Hyde',
