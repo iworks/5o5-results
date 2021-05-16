@@ -1,14 +1,41 @@
-Nat,Båtnr,Rorsman,Gast,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Points,#
-FRA,4747,Yves Pajot,Marc Pajot,,,,,,,,17.7,1
-USA,5059,Dennis Surtees,Stephen Owens,,,,,,,,35.4,2
-SWE,3316,Björn Arnesson,Göran Andersson,,,,,,,,64.7,3
-SWE,5101,Christer Båth,Pelle Båth,,,,,,,,65.4,4
-GBR,5157,John Loveday,Lewis Dann,,,,,,,,69.7,5
-GBR,5089,Peter White,John Davies,,,,,,,,81,6
-FRA,4639,Marcel Buffet,Thierry Moreau-Defarges,,,,,,,,82,7
-SWE,4315,Karl-Erik Nilsson,Flemming Nilausen,,,,,,,,82,8
-GBR,5099,Peter Colclough,Stephen Jones,,,,,,,,84,9
-GBR,4079,Hugh Bourn,Michael Bryant,,,,,,,,87,10
-GBR,4480,,,,,,,,,,89,11
-SWE,3991,Ulf Andersson,Jan Andersson,,,,,,,,99,12
-SWE,4949,Magnus Olsson,Göran Olsson,,,,,,,,107.7,13
+Nationality,Boat Number,Rorsman,Gast,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Points,Place
+FRA,4747,Yves Pajot,Marc Pajot,,1,9,2,1,6,2,17.7,1
+USA,5059,Dennis Surtees,Stephen Owens,,3,4,1,21,5,6,35.4,2
+SWE,3316,Björn Arnesson,Göran Andersson,,5,13,14,60,3,5,64.7,3
+SWE,5101,Christer Båth,Pelle Båth,,6,3,7,12,DNF,11,65.4,4
+GBR,5157,John Loveday,Lewis Dann,,13,5,3,DNF,8,15,69.7,5
+GBR,5089,Peter White,John Davies,,2,7,13,13,21,DNF,81,6
+FRA,4639,Marcel Buffet,Thierry Moreau-Defarges,,26,36,9,26,2,1,82,7
+SWE,4315,Karl-Erik Nilsson,Flemming Nilausen,,8,11,15,DNF,4,16,82,8
+GBR,5099,Peter Colclough,Stephen Jones,,17,2,14,7,17,51,84,9
+GBR,4079,Hugh Bourn,Michael Bryant,,20,8,12,20,10,7,87,10
+GBR,4480,,,,14,19,4,15,DNF,9,89,11
+SWE,3991,Ulf Andersson,Jan Andersson,,33,12,18,4,20,17,99,12
+SWE,4949,Magnus Olsson,Göran Olsson,,78,24,DNF,6,1,20,107.7,13
+GBR,4289,,,,7,21,6,16,32,22,101.7,14
+FIN,5133,,,,18,6,11,31,23,14,101.7,15
+GBR,5082,,,,DNF,31,8,2,16,21,103,16
+AUS,4795,,,,38,1,DSQ,28,18,4,110,17
+DEN,4543,,,,29,14,5,14,DNF,36,127,18
+DEN,4314,,,,33,33,38,8,31,3,132,19
+GBR,5021,,,,9,49,39,49,11,8,146,20
+HKG,4580,,,,24,39,DSQ,46,7,10,155,21
+FIN,4309,,,,25,59,25,9,25,48,162,22
+USA,5167,,,,32,15,37,17,DNF,31,162,23
+GBR,4750,,,,15,10,21,DNF,13,DNF,165,24
+FRA,4915,,,,DNF,27,35,47,14,23,176,25
+SWE,3993,,,,11,44,17,3,DNF,DNF,177.7,26
+FRA,5032,,,,4,75,28,52,27,39,178,27
+FIN,5135,,,,49,23,29,35,28,40,180,28
+RSA,5185,,,,DNF,50,23,19,26,35,183,29
+FRA,4822,,,,23,25,43,25,DNF,38,184,30
+FRA,4459,,,,DNF,20,34,57,19,27,187,31
+SWE,4316,,,,36,26,29,37,DNF,29,187,32
+FIN,4660,,,,40,DSQ,32,33,24,33,192,33
+GBR,4870,,,,52,46,38,32,34,13,193,34
+USA,5190,,,,19,47,47,27,DNF,26,196,35
+GBR,5231,,,,DNF,34,22,10,DNF,29,199,36
+SIN,4797,,,,30,59,27,23,DNF,30,199,37
+FRA,4815,,,,16,53,45,63,35,25,204,38
+RSA,5186,,,,21,29,26,DNF,DNF,19,204,39
+FRA,4913,,,,DNF,41,30,65,15,28,209,40
