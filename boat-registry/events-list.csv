@@ -51,7 +51,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 1976-01-01,1976-01-01,UK National Championship,,5,81,Pevensey,Pevensey Bay Sailing Club,,,,,,1976/country/uk/1976.uk-championship.pevensey.GBR.csv,National,Pevensey Bay,GBR,,,,,,
 1976-01-01,1976-01-01,World Championship,,,,"Lake Macquarie, New South Wales, AUS",,,,,,,1976/world/1976.world-championship.lake-macquarie-new-south-wales.AUS.csv,World,,AUS,,,,,,
 1977-01-01,1977-01-01,UK National Championship,,6,126,,,,,,,,1977/country/uk/1977.uk-national-championship.GBR.csv,National,,GBR,,,,,,
-1977-01-01,1977-01-01,World Championship,,,,"La Rochelle, FRA",,,,,,,1977/world/1977.world-championship.la-rochelle.FRA.csv,World,,FRA,,,,,,
+1977-01-01,1977-01-01,World Championship,,6,87,"La Rochelle, FRA",,,,,,,1977/world/1977.world-championship.la-rochelle.FRA.csv,World,,FRA,,,,,,
 1978-01-01,1978-01-01,Australian Championship,,6,,,,,,,,,1978/country/australia/1978.australia-championship.AUS.csv,National,,AUS,,,,,,
 1978-01-01,1978-01-01,UK National Championship,,6,118,Weymouth,,,,,,,1978/country/uk/1978.uk-national-championship.weymouth.GBR.csv,National,,GBR,,,,,,
 1978-08-18,1978-08-27,World Championship,,5,86,"Copenhagen, DEN","Skovshoved Sejlklub,",,,,,,1978/world/1978-08-27.world-championship.copenhagen.DEN.csv,World,,DEN,,,,,,
