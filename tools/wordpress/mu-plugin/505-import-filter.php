@@ -1338,6 +1338,10 @@ class iworks_5o5_upload_fixer {
 			'Melton'  => 'Thad Melton',
 		),
 		array(
+			'Englert'  => 'Jim Englert',
+			'Huntsman' => 'Brian Huntsman',
+		),
+		array(
 			'Phillips'  => 'Jonathan Phillips',
 			'Schumpert' => 'Monty Schumpert',
 		),
