@@ -74,7 +74,7 @@ foreach ( $regattas as $regatta ) {
 	$query   = $wpdb->prepare( "SELECT * FROM {$table_name_regatta} where post_regata_id = %d order by place limit 3", $regatta['ID'] );
 	$results = $wpdb->get_results( $query );
 	echo '|-' . PHP_EOL;
-	printf( '| %d%s', $regatta['year'], PHP_EOL );
+	printf( '| %d%s%s', $regatta['year'], make_citation( $regatta ), PHP_EOL );
 	echo '| ';
 	$add_break = false;
 	if ( is_array( $regatta['location'] ) && isset( $regatta['location'][0] ) ) {
@@ -133,6 +133,17 @@ foreach ( $regattas as $regatta ) {
 		'| align = right | %d%s',
 		( 0 < $count_countries ) ? $count_countries : '&ndash;',
 		PHP_EOL
+	);
+}
+
+function make_citation( $one ) {
+	return sprintf(
+		'<ref>{{Cytuj | url = %s | tytuł = %s | data = %s | opublikowany = %s | język = en | data dostępu = %s}}</ref>',
+		esc_url( $one['permalink'] ),
+		esc_attr( $one['title'] ),
+		get_the_date( 'Y-m-d', $one['ID'] ),
+		get_bloginfo( 'name' ),
+		date( 'Y-m-d' )
 	);
 }
 
