@@ -16,7 +16,6 @@
  */
 
 require 'functions.php';
-
 global $wpdb;
 
 $category   = 0;
@@ -78,7 +77,7 @@ foreach ( $regattas as $regatta ) {
 	echo '| ';
 	$add_break = false;
 	if ( is_array( $regatta['location'] ) && isset( $regatta['location'][0] ) ) {
-		printf( '{{Państwo|%s}}', $regatta['location'][0]->name );
+		printf( '{{Państwo|%s}}', get_mna_country_code( $regatta['location'][0]->name ) );
 		$add_break = true;
 	}
 	if ( ! empty( $regatta['organizer'] ) && '&ndash;' !== $regatta['organizer'] ) {
@@ -93,12 +92,12 @@ foreach ( $regattas as $regatta ) {
 		echo '| ';
 		if ( is_array( $results ) && isset( $results[ $i ] ) ) {
 			$add_break = false;
-			if ( ! empty( $result[ $i ]['country'] ) ) {
-				printf( '{{Flaga|%s}} ', $result[ $i ]['country'] );
+			if ( ! empty( $results[ $i ]->country ) ) {
+				printf( '{{Flaga|%s}} ', $results[ $i ]->country );
 				$add_break = true;
 			}
-			if ( ! empty( $result[ $i ]['boat_id'] ) ) {
-				echo $result[ $i ]['boat_id'];
+			if ( ! empty( $results[ $i ]->boat_id ) ) {
+				echo $results[ $i ]->boat_id;
 				$add_break = true;
 			}
 			if ( $add_break ) {
@@ -137,6 +136,7 @@ foreach ( $regattas as $regatta ) {
 }
 
 function make_citation( $one ) {
+	return '';
 	return sprintf(
 		'<ref>{{Cytuj | url = %s | tytuł = %s | data = %s | opublikowany = %s | język = en | data dostępu = %s}}</ref>',
 		esc_url( $one['permalink'] ),
@@ -146,4 +146,16 @@ function make_citation( $one ) {
 		date( 'Y-m-d' )
 	);
 }
+
+function get_mna_country_code( $country ) {
+	$countries = iworks_fleet_get_contries();
+	foreach ( $countries as $one ) {
+		if ( $one['en'] === $country ) {
+			return $one['code'];
+		}
+	}
+	return $country;
+}
+
+
 
