@@ -3989,6 +3989,14 @@ class iworks_5o5_upload_fixer {
 			'Dunn'  => 'Ian Dunn',
 			'Shulz' => 'Paul Schulz',
 		),
+		array(
+			'J. Langlois' => 'Jerome Langlois',
+			'P. Serame'   => 'Philippe Serane',
+		),
+		array(
+			'Langlois' => 'Jerome Langlois',
+			'Serame'   => 'Philippe Serane',
+		),
 		/*
 		array(
 			'' => '',
@@ -4876,7 +4884,7 @@ class iworks_5o5_upload_fixer {
 		'E Van Hemeldonck'            => 'Hemeldonck Van Emiel',
 		'Earl Alexander'              => 'Earle Alexander',
 		'Eb Rosen'                    => 'Ebbe Rosén',
-		'Eb Russell'                  => 'Eben Russel',
+		'Eb Russell'                  => 'Eben Russell',
 		'Ebbe Rosen'                  => 'Ebbe Rosén',
 		'Ebeling Petri'               => 'Petri Ebeling',
 		'Eckart Kiinig'               => 'Eckart König',
