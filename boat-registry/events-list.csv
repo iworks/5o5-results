@@ -13,7 +13,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 1967-01-01,1967-01-01,World Championship,,,,La Baule,,,,,,,1967/world/1967.world-championship.la-baule.FRA.csv,World,,FRA,,,,,,
 1968-08-06,1968-08-10,Svenskt Mästerskap,Swedish Championship,7,36,Sandhamn,,,,,"5-7,5-7,3-7,3-4,4,1-2,5",,1968/country/sweden/1968-08-10.svenskt-masterskap.sandhamn.SWE.csv,National,,SWE,,,,,,
 1968-08-25,1968-09-01,World Championship,,6,75,"Kiel,GER",,,,,,,1968/world/1968-09-01.world-championship.kiel.GER.csv,World,,GER,,,,,,
-1969-01-01,1969-01-01,World Championship,,,,Buenos Aires,,,,,,,1969/world/1969.world-championship.buenos-aires.ARG.csv,World,,ARG,,,,,,
+1969-01-01,1969-01-01,World Championship,,7,,Buenos Aires,,,,,,,1969/world/1969.world-championship.buenos-aires.ARG.csv,World,,ARG,,,,,,
 1969-08-15,1969-08-23,European Championship,,,,Dun Laoghaire,National and Royal St. George Yacht Clubs,,,,,,1969/continental/1969-08-23.european-championship.dun-laoghaire.IRL.csv,"Continental,Europe",,IRL,,,,,,
 1970-01-02,1970-01-02,Championnat de France,French Championship,,,Carnac,,,,,,,1970/country/france/1970.championnat-de-france.carnac.FRA.csv,National,,FRA,,,,,,
 1970-05-16,1970-05-18,DM,,3,23,Rastaholm,,,,,,,1970/country/sweden/1970-05-18.dm.rastaholm.SWE.csv,,,SWE,,,,,,
