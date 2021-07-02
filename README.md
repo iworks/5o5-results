@@ -13,5 +13,6 @@ I will thanks to hose persons (order by time)
 * Peter Scannell - help with manual fixing Irish results.
 * Olivier Barat - provide French Bulletin scans 1972-1979 and few more till 2003.
 * Jonathan Gibbons - provide "505 Great Britain" 1975-1987
+* Nicolas Ktz - entry list and first 6 places on WC 1969
 
 
