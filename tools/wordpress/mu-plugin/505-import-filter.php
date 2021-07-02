@@ -6599,6 +6599,7 @@ class iworks_5o5_upload_fixer {
 		'Pip Pearson'                 => 'Malcolm \'Pip\' Pearson',
 		'Pirker Clemens'              => 'Clemens Pirker',
 		'Pittack Christian'           => 'Christian Pittack',
+		'Philippe Lanaverre'          => 'Phillipe Lanaverre',
 		'P.Lanaverre'                 => 'Phillipe Lanaverre',
 		'Plathier Yann'               => 'Yann Plathier',
 		'Plattner Hasso'              => 'Hasso Plattner',
