@@ -4009,8 +4009,6 @@ class iworks_5o5_upload_fixer {
 	 * foo
 	 */
 	private $person = array(
-		'Bart Meyndonck'              => 'Bart Meynendonckx',
-		'Stephan Oetken'              => 'Stefan Oetken',
 		'?'                           => '',
 		'011e Wenrup'                 => 'Olle Wenrup',
 		'011i Karlsson'               => 'Olli Karlsson',
@@ -4220,6 +4218,7 @@ class iworks_5o5_upload_fixer {
 		'Bart Cederic'                => 'Bart Cédric',
 		'Bart Cedric'                 => 'Bart Cédric',
 		'Bart Hakworth'               => 'Bart Hackworth',
+		'Bart Meyndonck'              => 'Bart Meynendonckx',
 		'Barteldt Dirk'               => 'Dirk Barteldt',
 		'Bartosz Chrol'               => 'Bartosz Chroł',
 		'Basile Geron'                => 'Basile Géron',
@@ -4371,6 +4370,7 @@ class iworks_5o5_upload_fixer {
 		'Bradfer Philippe'            => 'Philippe Bradfer',
 		'Brandt Robert'               => 'Robert Brand',
 		'Branes David'                => 'David Barnes',
+		'Brann Falko'                 => 'Falko Braun',
 		'Brau Jeremie'                => 'Jeremie Brau',
 		'Braun Falico'                => 'Falico Braun',
 		'Braun Falko'                 => 'Falko Braun',
@@ -6997,6 +6997,7 @@ class iworks_5o5_upload_fixer {
 		'Stenger Falk'                => 'Falk Stenger',
 		'Stephan Boudier'             => 'Stephane Boudier',
 		'Stephan Hegerstrom'          => 'Steve Hegerström',
+		'Stephan Oetken'              => 'Stefan Oetken',
 		'Stephen lanna'               => 'Stephen Ianna',
 		'Stephen Yates'               => 'Steve Yates',
 		'Sterg.   Papadakis'          => 'Stergios Papadakis',
