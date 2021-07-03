@@ -4009,6 +4009,8 @@ class iworks_5o5_upload_fixer {
 	 * foo
 	 */
 	private $person = array(
+		'Bart Meyndonck'              => 'Bart Meynendonckx',
+		'Stephan Oetken'              => 'Stefan Oetken',
 		'?'                           => '',
 		'011e Wenrup'                 => 'Olle Wenrup',
 		'011i Karlsson'               => 'Olli Karlsson',
