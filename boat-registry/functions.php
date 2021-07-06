@@ -15,6 +15,20 @@ if ( ! is_file( 'config.php' ) ) {
 require 'config.php';
 
 require $wordpress_path . '/wp-load.php';
+require_once( ABSPATH . 'wp-admin/includes/image.php' );
+
+global $import_config;
+
+$import_config = array();
+
+$config_file = 'local.config.json';
+if ( is_file( $config_file ) ) {
+	$import_config = json_decode( file_get_contents( $config_file ), true );
+}
+$import_config = wp_parse_args(
+	$import_config,
+	json_decode( file_get_contents( 'config.json' ), true )
+);
 
 function show_debug() {
 	return false;
@@ -42,7 +56,7 @@ function get_person_by_name( $name ) {
 			'post_title'  => $post_title,
 		);
 		if ( preg_match( '/\d/', $post_title ) ) {
-			print_r( [ $name, $args ] );
+			print_r( array( $name, $args ) );
 			die;
 		}
 		$post_ID                = wp_insert_post( $args );
@@ -215,7 +229,7 @@ function handle_serie_taxonomy( $serie, &$series, &$post_array, $parent = 0 ) {
 				$post_array['tax_input'][ $field ][] = $series[ $serie ]->term_id;
 				return $series[ $serie ]->term_id;
 			} else {
-				print_r( [ $serie, $series ] );
+				print_r( array( $serie, $series ) );
 				die;
 			}
 		}
@@ -276,14 +290,14 @@ function int505_person_get_date( $name, $type = 'from' ) {
 	$date_from = $date_to = null;
 	if ( show_debug() && preg_match( '/\d/', $name ) ) {
 		print_r(
-			[
+			array(
 				$name,
 				'/(\d{4}-\d{2}-\d{2})[^\d]+(\d{4}-\d{2}-\d{2})$/' => preg_match( '/(\d{4}-\d{2}-\d{2})[^\d]+(\d{4}-\d{2}-\d{2})$/', $name ),
 				'/(\d{2})[^\d]+(\d{2})$/' => preg_match( '/(\d{2})[^\d]+(\d{2})$/', $name ),
 				'/(\d{4})[^\d]+(\d{2})$/' => preg_match( '/(\d{4})[^\d]+(\d{2})$/', $name ),
 				'/(\d{4})[^\d]+(\d{4})$/' => preg_match( '/(\d{4})[^\d]+(\d{4})$/', $name ),
 				'/[^\d]+(\d{2})$/'        => preg_match( '/[^\d]+(\d{2})$/', $name ),
-			]
+			)
 		);
 	}
 
@@ -326,7 +340,7 @@ function int505_person_get_date_to( $name ) {
 }
 
 function int505_translate_color( $color ) {
-	$colors = [
+	$colors = array(
 		'aliceblue'            => '#f0f8ff',
 		'antiquewhite'         => '#faebd7',
 		'antiquewhite1'        => '#ffefdb',
@@ -833,7 +847,7 @@ function int505_translate_color( $color ) {
 		'yellow3'              => '#cdcd00',
 		'yellow4'              => '#8b8b00',
 		'yellowgreen'          => '#9acd32',
-	];
+	);
 	$c      = strtolower( trim( $color ) );
 	$c      = preg_replace( '/[ \t\r\n]+/', '', $c );
 	if ( isset( $colors[ $c ] ) ) {

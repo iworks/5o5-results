@@ -1,3 +1,5 @@
-.~lock.*
 boat-registry/config.php
+boat-registry/local.config.json
+boat-registry/test.csv
 _data
+.~lock.*

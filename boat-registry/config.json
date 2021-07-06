@@ -1,0 +1,5 @@
+{
+    "events": "events-list.csv",
+    "sailors": "sailors.csv",
+    "boats": "registry.csv"
+}

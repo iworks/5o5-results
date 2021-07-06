@@ -17,6 +17,8 @@
 
 require 'functions.php';
 
+global $import_config;
+
 global $wpdb;
 $boat_post_type_name        = 'iworks_fleet_boat';
 $taxonomy_name_manufacturer = 'iworks_fleet_boat_manufacturer';
@@ -82,9 +84,9 @@ if ( in_array( 'all', $argv ) ) {
 /**
  * import sailors
  */
-if ( $import_sailors && ( $handle = fopen( 'sailors.csv', 'r' ) ) !== false ) {
+if ( $import_sailors && ( $handle = fopen( $import_config['sailors'], 'r' ) ) !== false ) {
 	$counter = 0;
-	echo PHP_EOL,'IMPORT: sailors.csv',PHP_EOL;
+	echo PHP_EOL,'IMPORT: ' . $import_config['sailors'],PHP_EOL;
 		/**
 		 * Fields:
 		 *
@@ -176,12 +178,10 @@ if ( $import_sailors && ( $handle = fopen( 'sailors.csv', 'r' ) ) !== false ) {
 /**
  * registry
  */
-$counter          = 0;
-$rows             = array();
-$import_file_name = 'registry.csv';
-// $import_file_name = 'test-registry.csv';
-if ( $import_registry && ( $handle = fopen( $import_file_name, 'r' ) ) !== false ) {
-	echo PHP_EOL,'IMPORT: ',$import_file_name,PHP_EOL;
+$counter = 0;
+$rows    = array();
+if ( $import_registry && ( $handle = fopen( $import_config['boats'], 'r' ) ) !== false ) {
+	echo PHP_EOL,'IMPORT: ',$import_config['boats'],PHP_EOL;
 	$counter = 0;
 	while ( ( $data = fgetcsv( $handle, 0, ',' ) ) !== false ) {
 		if ( 1 > intval( $data[0] ) ) {
@@ -538,9 +538,9 @@ if ( $import_registry && ( $handle = fopen( $import_file_name, 'r' ) ) !== false
 /**
  * Import events
  */
-if ( $import_results && ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false ) {
+if ( $import_results && ( $handle = fopen( $import_config['events'], 'r' ) ) !== false ) {
 	$series = array();
-	echo PHP_EOL,'IMPORT: events-list.csv',PHP_EOL;
+	echo PHP_EOL,'IMPORT: ' . $import_config['events'],PHP_EOL;
 	while ( ( $data = fgetcsv( $handle, 0, ',' ) ) !== false ) {
 		if ( 1 > intval( $data[0] ) ) {
 			continue;
@@ -658,6 +658,9 @@ if ( $import_results && ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false 
 		}
 		echo $post_title,PHP_EOL;
 		echo 'FILE: ' . $file_name,PHP_EOL;
+
+
+
 		$post_array = array(
 			'post_name'   => sanitize_title(
 				sprintf(
@@ -710,6 +713,54 @@ if ( $import_results && ( $handle = fopen( 'events-list.csv', 'r' ) ) !== false 
 		foreach ( $post_array['tax_input'] as $taxonomy => $terms ) {
 			wp_set_object_terms( $post_ID, $terms, $taxonomy );
 		}
+		/**
+		 * try to set thumbnail
+		 */
+		foreach ( array( 'jpg', 'png', 'gif' ) as $extenstion ) {
+			$thumbnail_file = preg_replace( '/csv$/', $extenstion, $file );
+			if ( is_file( $thumbnail_file ) ) {
+				$attach_id = 0;
+				$filename  = basename( $thumbnail_file );
+				$args      = array(
+					'post_type'      => 'attachment',
+					'post_status'    => 'inherit',
+					'meta_key'       => '_import_name',
+					'meta_value'     => $filename,
+					'posts_per_page' => 1,
+					'fields'         => 'ids',
+				);
+				$img_query = new WP_Query( $args );
+				if ( ! empty( $img_query->posts ) ) {
+					$attach_id = $img_query->posts[0];
+				}
+				/**
+				 * file not exists, import it
+				 */
+				if ( 1 > $attach_id ) {
+					$image_data = file_get_contents( $thumbnail_file );
+					$upload_dir = wp_upload_dir( date( 'Y/m', $iworks_fleet_result_date_end ) );
+					$thumbnail  = $upload_dir['basedir'] . '/' . $filename;
+					if ( wp_mkdir_p( $upload_dir['path'] ) ) {
+						$thumbnail = $upload_dir['path'] . '/' . $filename;
+					}
+					file_put_contents( $thumbnail, $image_data );
+					$filetype   = wp_check_filetype( $thumbnail, null );
+					$attachment = array(
+						'guid'           => basename( $thumbnail ),
+						'post_mime_type' => $filetype['type'],
+						'post_title'     => $post_title,
+						'post_content'   => '',
+						'post_status'    => 'inherit',
+					);
+					$attach_id  = wp_insert_attachment( $attachment, $thumbnail, $post_ID );
+					add_post_meta( $attach_id, '_import_name', basename( $thumbnail ), true );
+					$attach_data = wp_generate_attachment_metadata( $attach_id, $thumbnail );
+					wp_update_attachment_metadata( $attach_id, $attach_data );
+				}
+				set_post_thumbnail( $post_ID, $attach_id );
+			}
+		}
+
 		/**
 		 * import results
 		 */
