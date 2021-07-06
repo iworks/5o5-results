@@ -6947,6 +6947,7 @@ class iworks_5o5_upload_fixer {
 		'Simonnot Christian'          => 'Christian Simonnot',
 		'Sims, M'                     => 'Michael Sims',
 		'Sims Richard'                => 'Richard Sims',
+		'Sjuts Horst'                 => 'Horst Sjuts',
 		'Slobodan Velikic'            => 'Slobodan Velikić',
 		'Slochmann Lars'              => 'Lars Stöckmann',
 		'Smit Carl'                   => 'Carl Smit',
