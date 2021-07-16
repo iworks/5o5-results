@@ -1198,11 +1198,11 @@ class iworks_5o5_upload_fixer {
 			'A.R. B. Gray' => 'A.R. B. Gray',
 		),
 		array(
-			'Petersen' => 'Bo Petersen',
+			'Petersen' => 'Bö Pedersen',
 			'Storm'    => 'Søren Storm',
 		),
 		array(
-			'B. Petersen' => 'Bo Petersen',
+			'B. Petersen' => 'Bö Pedersen',
 			'S. Storm'    => 'Søren Storm',
 		),
 		array(
@@ -4307,6 +4307,7 @@ class iworks_5o5_upload_fixer {
 		'Blevez Loic'                 => 'Loïc Bleuez',
 		'Blevez Loïc'                 => 'Loïc Bleuez',
 		'Blondy Bernard'              => 'Bernard Blondy',
+		'Bo Petersen'                 => 'Bö Pedersen',
 		'Boardman Robin'              => 'Robin Boardman',
 		'Bob Crisp'                   => 'Robert Crisp',
 		'Bob Franks'                  => 'Robert Franks',
@@ -6552,7 +6553,7 @@ class iworks_5o5_upload_fixer {
 		'Petermann Gilles'            => 'Gilles Petermann',
 		'Peters Gunter'               => 'Günter Peters',
 		'Peters Hein'                 => 'Hein Peters',
-		'Petersen Bo'                 => 'Bo Petersen',
+		'Petersen Bo'                 => 'Bö Pedersen',
 		'Petit Eric'                  => 'Eric Petit',
 		'Peury Hannu'                 => 'Hannu Pöyry',
 		'Pfeiffer Wolf'               => 'Wolfdietrich Pfeiffer',
@@ -7363,6 +7364,7 @@ class iworks_5o5_upload_fixer {
 		'Wackerbauer Peter'           => 'Peter Wackerbauer',
 		'Wagner Steffi'               => 'Stefanie Wagner',
 		'Wahler Alexandra'            => 'Alexandra Wahler',
+		'Waldemar Schoenebeck'        => 'Waldemar Schönebeck',
 		'Waldheim Juergen'            => 'Jürgen Waldheim',
 		'Waldheim Jurgen'             => 'Jürgen Waldheim',
 		'Waldheim Jürgen'             => 'Jürgen Waldheim',
