@@ -1,8 +1,8 @@
 Nation,Name,Club,Description,Birth Date,Website,Facebook,Death Date,Full Name,Height,Wikipedia,Sailor ID
-USA,Michele Loewen
-SWE,Urban Lagnéus
-SWE,Malin Malmberg
-SWE,Martin Fridh
+USA,Michele Loewen,,,,,,,,,,
+SWE,Urban Lagnéus,,,,,,,,,,
+SWE,Malin Malmberg,,,,,,,,,,
+SWE,Martin Fridh,,,,,,,,,,
 ARG,Hector Domato,,,,,,,,,,
 AUS,Adam Brenz-Verca,,,,,,,,,,
 AUS,Adam Wyatt,,,,,,,,,,
@@ -1159,7 +1159,7 @@ GBR,Cohn Hamlet,,,,,,,,,,
 GBR,Colin Chamberlain,,,,,,,,,,
 GBR,Colin Fry,,,,,,,,,,
 GBR,Colin Jarvis,,,,,,,,,,
-GBR,Colin Merrett,,,,,,,,,,
+GBR,Colin Merrett,,,,,colinferret,,,,,
 GBR,Colin Rawlings,,,,,,,,,,
 GBR,Colin Smith,,,,,,,,,,
 GBR,Crispin Ensoll,,,,,,,,,,
@@ -3234,7 +3234,7 @@ USA,Matthew Woodworth,,,,,,,,,,
 USA,Matthias Kennernecht,,,,,,,,,,
 USA,Mead Hopkins,,,,,,,,,,
 USA,Merv Richards,,,,,,,,,,
-USA,Michael Agrell,,,,,,,,,,
+USA,Michael Agrell,,,,,agrellm,,,,,
 USA,Michael Breault,,,,,,,,,,
 USA,Michael Coe,,,,,,,,,,
 USA,Michael Curtin,,,,,,,,,,
