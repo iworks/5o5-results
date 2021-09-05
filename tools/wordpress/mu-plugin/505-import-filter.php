@@ -4009,7 +4009,6 @@ class iworks_5o5_upload_fixer {
 	 * foo
 	 */
 	private $person = array(
-		'Joseph Schuette'             => 'Joseph Schütte',
 		'?'                           => '',
 		'011e Wenrup'                 => 'Olle Wenrup',
 		'011i Karlsson'               => 'Olli Karlsson',
@@ -4224,6 +4223,7 @@ class iworks_5o5_upload_fixer {
 		'Bart Cedric'                 => 'Bart Cédric',
 		'Bart Hakworth'               => 'Bart Hackworth',
 		'Bart Meyndonck'              => 'Bart Meynendonckx',
+		'Bartek Chroł'                => 'Bartosz Chroł',
 		'Barteldt Dirk'               => 'Dirk Barteldt',
 		'Bartosz Chrol'               => 'Bartosz Chroł',
 		'Basile Geron'                => 'Basile Géron',
@@ -5654,6 +5654,7 @@ class iworks_5o5_upload_fixer {
 		'Jörgen Schönherr'            => 'Jørgen Schönherr',
 		'Jörgen Shönherr'             => 'Jørgen Schönherr',
 		'Jory Hager'                  => 'Jörg Häger',
+		'Joseph Schuette'             => 'Joseph Schütte',
 		'Joseph Schutte'              => 'Joseph Schütte',
 		'Josh Lieberman'              => 'Joshua Lieberman',
 		'Joshua Leiberman'            => 'Joshua Lieberman',
