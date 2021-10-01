@@ -4059,6 +4059,7 @@ class iworks_5o5_upload_fixer {
 		'Agrell Michael'              => 'Michael Agrell',
 		'Ahrbom Mikael'               => 'Mikael Ahrbom',
 		'AIan Montague'               => 'Alan Montague',
+		'A.J. Conrads'                => 'AJ Conrads',
 		'Åkesson Fredrik'             => 'Fredrik Åkesson',
 		'Al Meller'                   => 'Alexander "Ali" Meller',
 		'Alain Beltzung'              => 'Alain Beltzung',
