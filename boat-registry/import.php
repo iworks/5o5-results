@@ -613,7 +613,7 @@ if ( $import_results && ( $handle = fopen( $import_config['events'], 'r' ) ) !==
 		 * check file
 		 */
 		$file_name = $file;
-		$file      = '../results/' . $file;
+		$file      = '../' . $file;
 		if ( ! is_file( $file ) ) {
 			printf( 'NO FILE: %s - %s%s', $post_title, $file_name, PHP_EOL );
 			continue;
@@ -658,6 +658,9 @@ if ( $import_results && ( $handle = fopen( $import_config['events'], 'r' ) ) !==
 		}
 		echo $post_title,PHP_EOL;
 		echo 'FILE: ' . $file_name,PHP_EOL;
+
+
+
 		$post_array = array(
 			'post_name'   => sanitize_title(
 				sprintf(

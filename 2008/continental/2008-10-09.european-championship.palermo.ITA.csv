@@ -1,0 +1,72 @@
+Nation,Boat No,Helm,Crew,class,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Points,Place
+USA,8715,Bixby,Boothe,Male,-12,2,1,1,2,1,7,1
+GER,8875,Findel,Tellen,Male,1,1,3,2,3,-11,10,2
+USA,8762,Hamlin,Zinn,Male,5,9,-10,6,1,2,23,3
+DEN,8964,Saugmann,Ramsbaek,Male,4,15,4,4,5,-31,32,4
+GBR,8960,Pinnell,Gibbon,Male,2,3,-15,12,11,5,33,5
+USA,8830,Key,Buttner,Male,8,7,8,-15,4,7,34,6
+DEN,8826,Bojland,Friis,Male,13,4,9,7,-17,8,41,7
+GER,8927,Gorge,Rix,Male,11,(dsq),11,3,14,6,45,8
+GER,8693,Daisenberger,Lautenschlager,Male/under 25,(DNS),8,2,16,8,12,46,9
+IRL,8961,Barry,Dwyer,Male,9,13,-25,14,10,4,50,10
+AUS,8817,Davis,Duffield,Male,-17,10,16,13,13,3,55,11
+USA,8937,Taugher,Bell,Male,10,-29,5,9,19,16,59,12
+GER,8720,Lennart Tasche,Frederik Tasche,Male/under 25,6,18,7,26,6,-32,63,13
+USA,7875,Miller,Smith,Male,3,12,12,18,-24,22,67,14
+GER,8651,Kellner,Scholer,Male,18,14,13,-19,16,10,71,15
+GBR,8935,Russell Short,Andrew Short,Male,-30,16,22,10,9,17,74,16
+AUS,8801,Peter Chappell,Gill,Male,-34,19,30,5,18,14,86,17
+USA,8883,Moore,Falsone,Male,(DNS),17,27,11,12,21,88,18
+AUS,8922,Cuneo,Warlow,Male,33,-38,20,8,7,27,95,19
+AUS,8920,Quirk,Reffold,Male,-26,21,23,22,25,18,109,20
+DEN,8828,Jon Andersen,Lasse Andersen,Male,16,31,18,27,30,-33,122,21
+GBR,8905,Turnbull,Lunn,Male,24,25,17,-45,36,20,122,22
+AUS,8781,Alexander,Gregg,Male,23,27,26,24,-29,24,124,23
+USA,8831,Jeangirard,Von Grey,Male,21,28,28,-46,23,26,126,24
+GER,8672,Contag,Von Walter,Male,14,23,14,(DNS),DNS,9,132,25
+FIN,8057,Lindfors,Halonen,Male,15,36,19,-38,32,36,138,26
+FIN,8768,Nieminen,Lehtonen,Male,37,5,42,37,-48,23,144,27
+FIN,8924,Raita,Nurmela,Male,40,26,24,29,37,-43,156,28
+AUS,8855,Stowell,Bailey,Male,-52,33,29,21,31,47,161,29
+AUS,8840,Cameron,Bowden,Male,19,43,6,(dsq),22,DNS,162,30
+AUS,8968,Hansen-Knarhoi,Patrick Atwell,Male,(DNS),32,34,43,34,19,162,31
+AUS,8588,Smith,Smith,Mixed,20,35,35,20,52,(DNS),162,32
+AUS,8893,Robinson,Penfold,Male,-45,20,43,33,28,39,163,33
+ITA,8097,Bosio,Superina,Male,25,41,-45,35,35,28,164,34
+FRA,8270,Gachet,Valery,Male,39,39,36,-52,26,35,175,35
+GBR,8701,Napier,Pearson,Male,(DNS),11,32,25,38,DNS,178,36
+FIN,8053,Ebeling,Heimsch,Male,36,-49,31,41,46,25,179,37
+FRA,8748,Agrapart,Agrapart,Mixed,7,37,62,39,39,(DNS),184,38
+SUI,8543,Bart,Marti,Male,(DNS),6,21,DNS,DNS,15,186,39
+ITA,8127,Gambardella,Candela,Male,22,46,41,36,42,-48,187,40
+USA,8904,Guy,Toth,Male,(DNS),30,49,17,56,38,190,41
+ITA,8743,Giraldi,Corbellini,Male,43,56,47,30,15,(DNS),191,42
+POL,8358,Jozefowski,Barankiewicz,Male,38,47,39,(DNS),43,37,204,43
+GBR,8955,Lake,Iliffe,Male,(DNS),24,50,42,44,45,205,44
+FRA,8949,Faucheux,Duquesne,Male,29,44,58,47,27,(DNS),205,45
+AUS,8501,Finch,Shiner,Male/under 25,44,42,-55,53,40,29,208,46
+IRL,8542,Kenneally,Dunlea,Male,31,(raf),40,34,DNS,41,218,47
+FRA,8847,Boiry,Gougeon,Male,27,52,51,48,41,(DNS),219,48
+AUS,8682,Hyde,Edney,Male,50,45,46,28,50,(DNS),219,49
+GER,8775,Holzapfel,Engel,Male,(DNS),DNS,DNS,23,21,34,222,50
+USA,8939,Wyles,Renda,Male,28,57,37,-58,49,52,223,51
+POL,8416,Zagorski,Juckiewicz,Male,32,-51,48,50,47,46,223,52
+GER,8599,Florian Duwe,Marc Helms,Male,(DNS),40,DNS,32,DNS,13,229,53
+POL,8130,Grabowski,Olko,Male,(DNF),55,44,59,33,40,231,54
+AUS,8177,Payne,Edmonston - Fearn,Male,42,54,57,49,(DNS),30,232,55
+ITA,8916,Di Feo,Gabriele Natali,Male,35,48,33,44,(DNS),DNS,232,56
+IRL,8514,Scannell,O' Sullivan,Male,(DNS),DNS,DNS,31,20,44,239,57
+GER,8370,Stumpel,Stumpel,Mixed,48,-58,54,54,45,49,250,58
+GBR,8907,Berry,Barnes,Male,49,50,59,40,(DNS),55,253,59
+GER,8712,Siegfried Labenz,Christian Labenz,Male,53,34,56,(DNS),DNS,53,268,60
+GER,8730,Wilts,Holm,Male,51,-60,52,57,55,54,269,61
+GER,8500,Henge,Fedde,Male,(DNF),53,53,62,51,51,270,62
+AUS,8628,Croft,Rushton,Male,41,(raf),DNS,55,54,50,272,63
+AUS,8498,Warne,Ian Scholes,Male,47,(DNS),61,51,DNS,42,273,64
+USA,8245,Dore,Pittack,Male,46,61,-64,60,57,56,280,65
+AUS,8185,Ridgway,Ross,Male,(DNS),22,DNS,56,DNS,DNS,294,66
+GER,7732,Feldmann,Hartmann,Female,(DNS),59,63,DNS,53,DNS,319,67
+GER,8433,Anton,Denecke,Male,(DNS),DNS,38,DNS,DNS,DNS,326,68
+CAN,8910,Alison Janidlo,Tom Janidlo,Mixed,(DNF),DNS,60,61,DNS,DNS,337,69
+ITA,8944,Manzi,Annese,Male,(DNS),DNS,DNS,DNS,DNS,DNS,360,70
+SUI,8613,Petermann,Grob,Male,(DNS),DNS,DNS,DNS,DNS,DNS,360,70

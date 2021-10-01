@@ -1,0 +1,31 @@
+Nat SailNo,Name,Crew,club,R1,R2,R3,R4,R5,R6,R7,R8,R9,R10,Score,Rank
+POL 9118,Jakub Pawluk,Marcin Józefowski,,27,45*,24,43*,43,40,33,21,32,41,261,1
+POL 9170,Karol Milewski,Bartosz Milewski,,47,37,61*,46,47,53,50,65*,48,31,359,2
+POL 9119,Mateusz Jura,Bartosz Chroł,,82*,60,26,47,48,28,47,79*,79,46,381,3
+POL 9020,Tomasz Brzozowski,Paweł Choroba,,65,87,56,69,111*,104*,78,69,60,71,555,4
+POL 8909,Jan Domański,Michał Wdówka,,128.0 RET*,81,101*,80,75,92,73,54,65,57,577,5
+POL 8358,Tobiasz Zajączkowski,Maciej Goździk,,92,98*,69,94,87,94,55,55,58,128.0 RET*,604,6
+POL 8812,Sławomir Plichta,Paweł Prus,,93*,79,92,128.0 RET*,89,61,83,85,51,70,610,7
+POL 8802,Dominik Ostrowski,Jakub Folczak,,80,71,86,95,128.0 RET*,66,69,80,108*,78,625,8
+POL 8437,Szymon Kabała,Kacper Kaczmarek,,63,64,107,73,80,105,128.0 RET*,101,61,128.0 RET*,654,9
+POL 8665,Marcin Panek,Jan Walczak,,95,99*,70,74,98,86,76,84,85,128.0 RET*,668,10
+POL 8736,Adam Kuczyński,Andrzej Borowiak,,83,128.0 DNC*,57,116*,114,85,96,66,89,100,690,11
+POL 9132,Przemek Zagórski,Michał Olko,,74,70,128.0 RET*,79,128.0 RET*,88,75,74,128.0 DNC,128.0 DNC,716,12
+POL 8416,Bogna Płachecka,Roman Główka,,101,103,80,97,104*,110*,98,99,71,93,742,13
+POL 8463,Jacek Ludwiczak,Artur Piernicki,,113*,113*,91,100,97,103,90,89,92,89,751,14
+POL 8493,Mieczysław Szwed,Konrad Plewa,,98,89,106*,107*,102,106,89,96,106,97,783,15
+POL 8769,Michał Ruciński,Patryk Płotka,,104,97,94,96,96,114*,99,103,107*,95,784,16
+POL 8751,Ewa Pawlaczyk,Wojciech Kasprzyk,,109,118.0 TLE*,85,101,92,113,108,128.0 DSQ*,94,101,803,17
+POL 7942,Aleksandra Kachlicka,Michał Prończuk,,128.0 RET*,109,97,106,99,109,103,95,104,128.0 DNF*,822,18
+POL 8483,Mariusz Michalski,Piotr Duma,,108,106,111,114*,105,111,100,105,112*,86,832,19
+POL 8028,Anna Zabłocka,Bartosz Kowalczyk,,114*,111,110,112,106,116*,112,108,100,109.9 RDGb,868.9,20
+POL 8145,Paweł Kluczyński,Władysław Kondej,,115,105,116,118,110,119*,118,119*,110,91,883,21
+POL 8582,Szymon Szymik,Adam Kominek,,106,128.0 DSQ*,114,105,93,112,113,114,128.0 DNF*,128.0 DNF,885,22
+POL 8656,Emanuela Bartkowiak,Mateusz Wolszczak,,111,108,113,117,109,123*,122,128.0 DNC*,114,96,890,23
+POL 8129,Jakub Kusiorski,Robert Korybut-Daszkiewicz,,117,110,115,115,116,118*,114,112,116,128.0 RET*,915,24
+POL 8490,Marcin Pfeiffer,Ryszard Pfeiffer,,116,128.0 DNF*,119,123*,112,120,116,116,115,105.0 TLE,919,25
+POL 8212,Michał Tracz,Andrzej Zdrojek,,122.0 TLE,112,128.0 RET*,122,115,125.0 TLE*,123,123,113,105.0 TLE,935,26
+POL 8286,Paweł Rzepecki,Szymon Swosiński,,119,114,121,113,117,121,125*,121,120,128.0 RET*,946,27
+POL 8422,Marcin Pietrzak,Marcin O. Pietrzak,,118,128.0 RET*,118,120,121.0 TLE,122,121,115,119,128.0 RET*,954,28
+POL 8359,Tomasz Polikowski,Adam Najmowicz,,122.0 TLE,128.0 DNF*,122,124,128.0 RET*,125.0 TLE,124,122,121,105.0 TLE,965,29
+POL 8770,Jakub Gąsiorowski,Karolina Gąsiorowska,,122.0 TLE,118.0 TLE,124,126.0 TLE,121.0 TLE,128.0 OCS*,120,120,118,128.0 RET*,969,30

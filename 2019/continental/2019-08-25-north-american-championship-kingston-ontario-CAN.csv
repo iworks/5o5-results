@@ -1,0 +1,40 @@
+SailNo,HelmName,CrewName,Club,R1,R2,R3,R4,R5,R6,R7,R8,R9,R10,Total,Nett,Rank
+USA 9106,Mike Martin,Adam Lowry,StFYC / NHYC,3.0,3.0,1.0,1.0,(21.0),1.0,3.0,(9.0),6.0,1.0,49.0,19.0,1st
+USA 9160,Howard Hamlin,Russell Clark,ABYC/NHYC,1.0,1.0,3.0,2.0,9.0,2.0,4.0,(23.0),(17.0),5.0,67.0,27.0,2nd
+USA 9202,Mike Holt,Carl Smit,Santa Cruz YC,(7.0),2.0,(13.0),5.0,1.0,6.0,2.0,7.0,4.0,3.0,50.0,30.0,3rd
+USA 9004,Eric Anderson,Parker Shinn,YCYC / SDYC,8.0,4.0,4.0,10.0,(40.0 RET),(18.0),1.0,2.0,5.0,2.0,94.0,36.0,4th
+USA 8714,Reeve Dunne,Michael Quirk, ,2.0,6.0,2.0,8.0,4.0,(15.0),(13.0),13.0,2.0,9.0,74.0,46.0,5th
+USA 8715,Ethan Bixby,Chris Brady,SPYC,(14.0),7.0,(16.0),6.0,5.0,4.0,6.0,3.0,13.0,4.0,78.0,48.0,6th
+USA 9173,Tyler Moore,Rob Woelfel,Hampton Yacht Club,10.0,10.0,9.0,(13.0),3.0,(12.0),9.0,8.0,3.0,6.0,83.0,58.0,7th
+CAN 9216,Robert Tennant,Steve Bourdow,RVicYC,11.0,9.0,5.0,4.0,10.0,9.0,(22.0),15.0,1.0,(20.0),106.0,64.0,8th
+USA 90,Ted Conrads,Jeff Nelson,N/A,13.0,17.0,6.0,3.0,(19.0),11.0,5.0,(18.0),9.0,7.0,108.0,71.0,9th
+USA 8831,Jackson McCoy,Alex Tong,Port Madison YC,4.0,8.0,(21.0),19.0,2.0,13.0,19.0,4.0,(24.0),14.0,128.0,83.0,10th
+USA 9095,Macy Nelson,Eric Schwab,West River Sailing Club,5.0,12.0,15.0,14.0,(24.0),8.0,(25.0),5.0,10.0,18.0,136.0,87.0,11th
+?5,Luke Ingalls,John Ingalls,Sakonnet Yacht Club,6.0,5.0,(25.0),16.0,13.0,14.0,14.0,12.0,7.0,(21.0),133.0,87.0,12th
+USA 8786,Pierre Jeangirard,Langdon Foley,PVG yacht club,15.0,13.0,7.0,11.0,(40.0 RET),5.0,10.0,(17.0),12.0,15.0,145.0,88.0,13th
+CAN 8821,Jeff Boyd,Martin ten Hove,KYC,16.0,15.0,17.0,18.0,8.0,(19.0),(23.0),1.0,15.0,10.0,142.0,100.0,14th
+CAN 8192,Philip Cragg,Reto Corfu,royal vancouver yacht club,20.0,22.0,10.0,9.0,6.0,(23.0),7.0,(25.0),11.0,19.0,152.0,104.0,15th
+USA 9190,Douglas Hagan,Paul Von Grey,PB,19.0,(21.0),12.0,15.0,7.0,10.0,11.0,(26.0),19.0,16.0,156.0,109.0,16th
+IRL 8987,Peter Scannell,John Dunlea,Monkstown Bay Sailing Club,9.0,19.0,14.0,12.0,(25.0),3.0,(30.0),21.0,22.0,13.0,168.0,113.0,17th
+USA 9041,Henry Amthor,Dustin Romey,Hampton YC,12.0,11.0,(24.0),24.0,17.0,(26.0),8.0,19.0,14.0,8.0,163.0,113.0,18th
+USA 9005,Thomas Kivney,Gordon Russell,Hingham Yacht Club,17.0,14.0,19.0,7.0,11.0,17.0,(20.0),(30.0),18.0,11.0,164.0,114.0,19th
+USA 8930,Duane Delfosse,Sol Marini,LSYC,18.0,16.0,11.0,17.0,(29.0),(24.0),18.0,11.0,16.0,12.0,172.0,119.0,20th
+USA 8857,Brendan Connell,Chase Hillyer,West River Sailing Club,22.0,(28.0),8.0,20.0,(31.0),20.0,17.0,20.0,8.0,22.0,196.0,137.0,21st
+CAN 8866,Cynthia Des Brisay,Charles Hansen,Kitsilano Yacht Club,26.0,(29.0),22.0,21.0,22.0,7.0,21.0,10.0,(27.0),23.0,208.0,152.0,22nd
+CAN 900,Shona Moss Lovshin,Steve Lovshin,Nepean Sailing Club,24.0,18.0,18.0,22.0,15.0,(31.0),(37.0),16.0,26.0,17.0,224.0,156.0,23rd
+CAN 8288,Robert Bartlewski,Nicolas Tosi,OHCC,(28.0),20.0,(29.0),23.0,14.0,22.0,16.0,22.0,28.0,28.0,230.0,173.0,24th
+USA 8083,Martin Tipton,Adam Wolnikowski,Yale Corinthian Yacht club,(31.0),(31.0),20.0,31.0,28.0,21.0,27.0,6.0,25.0,26.0,246.0,184.0,25th
+CAN 8735,Brent Beninger,Martin Hicks,NSC,21.0,32.5,23.0,28.0,16.0,(33.0),(40.0 DNC),14.0,20.0,32.0,259.5,186.5,26th
+CAN 8696,Debbie Ashby,Dave Adams,Nepean Sailing Club,23.0,(30.0),27.0,29.0,12.0,27.0,15.0,29.0,(33.0),27.0,252.0,189.0,27th
+USA 8850,Douglas Watson,Peter Hale,Outer Harbour Centreboard Club,25.0,25.0,28.0,25.0,26.0,30.0,(31.0),(39.0),23.0,24.0,276.0,206.0,28th
+USA 8819,Kyle Pfrang,Christopher Pfrang,Hampton Yacht Club,30.0,26.0,26.0,27.0,18.0,32.0,26.0,28.0,(34.0),(40.0 DSQ),287.0,213.0,29th
+USA 8439,Anne Fitzpatrick,Christian Pittack,CYC Seattle,(33.0),23.0,30.0,26.0,23.0,(34.0),24.0,31.0,30.0,29.0,283.0,216.0,30th
+CAN 8410,Clarissa Bush,Chris Gillies,Nepean Sailing Club,29.0,24.0,32.0,(40.0 DNC),36.0,28.0,29.0,27.0,21.0,(40.0 DNC),306.0,226.0,31st
+USA 9084,Kaila Pfrang,Anna Patterson,Hampton Yacht Club,36.0,(39.0),36.0,35.0,35.0,16.0,12.0,24.0,(39.0),36.0,308.0,230.0,32nd
+CAN 920,Marie Gendron,Dave Brown,Nepean Sailing Club,(40.0 DSQ),27.0,37.0,(40.0 DNF),30.0,25.0,35.0,32.0,29.0,25.0,320.0,240.0,33rd
+USA 8838,Sterling Spruill,Steve Taylor,Hampton YC,34.0,32.5,31.0,33.0,20.0,(36.0),32.0,(38.0),35.0,34.0,325.5,251.5,34th
+CAN 8587,Paul Place,Samuel Place,Nepean Sailing Club,35.0,(38.0),34.0,(40.0 DNF),27.0,29.0,28.0,33.0,36.0,31.0,331.0,253.0,35th
+CAN 8610,Shona Weldon,Michael Wonnacott,Nepean Sailing Club,27.0,(35.0),33.0,30.0,33.0,(38.0),33.0,35.0,31.0,33.0,328.0,255.0,36th
+CAN 9028,Kyber Lovshin,Devlin Lovshin,Nepean Sailing Club,32.0,34.0,(40.0 DNF),(40.0 DNC),37.0,35.0,36.0,34.0,32.0,30.0,350.0,270.0,37th
+USA 7773,Michele Loewen,Imbaw Storer,Britannia Yacht Club,(38.0),36.0,35.0,34.0,34.0,37.0,34.0,37.0,(38.0),35.0,358.0,282.0,38th
+USA 8018,Grace Olsen,Mike Hull,Cottage Park Yacht Club,37.0,37.0,(38.0),32.0,32.0,(39.0),38.0,36.0,37.0,37.0,363.0,286,39th
