@@ -1,9 +1,4 @@
-Nat,Sail Number,Helm Name,Crew Name,Club,"R1
-1 Oct","R2
-1 Oct","R3
-1 Oct","R4
-3 Oct","R5
-3 Oct",Total,Nett,Rank
+Nat,Sail Number,Helm Name,Crew Name,Club,R1 1 Oct,R2 1 Oct,R3 1 Oct,R4 3 Oct,R5 3 Oct,Total,Nett,Rank
 GBR,9215,Roger Gilbert,Ben McGrane,Netley,1,2,-5,2,1,11,6,1st
 GBR,903*,Nathan Batchelor,Sam Pascoe,Tynemouth SC,2,-6,1,3,6,18,12,2nd
 GBR,9238,Ian Pinnell,Tom Pickles,Hayling Island SC,7,4,3,(16.0 DNF),2,32,16,3rd
