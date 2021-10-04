@@ -472,8 +472,6 @@ if ( $import_registry && ( $handle = fopen( $import_config['boats'], 'r' ) ) !==
 					 * check is more than one
 					 */
 					$persons = preg_split( '/[\&\/]/', $persons );
-
-
 					if ( 1 < sizeof( $persons ) ) {
 						$users_ids = array();
 						foreach ( $persons as $name ) {
@@ -613,7 +611,7 @@ if ( $import_results && ( $handle = fopen( $import_config['events'], 'r' ) ) !==
 		 * check file
 		 */
 		$file_name = $file;
-		$file      = '../' . $file;
+		$file      = '../results/' . $file;
 		if ( ! is_file( $file ) ) {
 			printf( 'NO FILE: %s - %s%s', $post_title, $file_name, PHP_EOL );
 			continue;
