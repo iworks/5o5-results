@@ -14,4 +14,6 @@ I will thanks to those persons (order by time)
 * Olivier Barat - provide French Bulletin scans 1972-1979 and few more till 2003.
 * Jonathan Gibbons - provide "505 Great Britain" 1975-1987
 * Nicolas Ktz - entry list and first 6 places on WC 1969 (Argentina)
+* Philippe Blanchard - provide French Bulletin scans 1960-2009.
+
 
