@@ -6769,6 +6769,7 @@ class iworks_5o5_upload_fixer {
 		'Robby Duessen'               => 'Robin Deussen',
 		'Robert Buidenkin'            => 'Robert Burdekin',
 		'Robert Lark'                 => 'Robert Larke',
+		'Robert v Gruenewaldt'        => 'Robert von Gruenewaldt',
 		'Robert van Greunewaldt'      => 'Robert von Gruenewaldt',
 		'Robert van Groenewaldt'      => 'Robert von Gruenewaldt',
 		'Robert Van Grunewald'        => 'Robert von Gruenewaldt',
