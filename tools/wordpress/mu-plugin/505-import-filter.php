@@ -4671,6 +4671,7 @@ class iworks_5o5_upload_fixer {
 		'Dan Herliehy'                => 'Dan Herlihy',
 		'Dan Thompson'                => 'Daniel Thompson',
 		'Daniel Czeniga'              => 'Daniel Czeninga',
+		'Daniel Van Bonn'             => 'Daniel van Bonn',
 		'Danny Thompson'              => 'Daniel Thompson',
 		'Darryl Roos'                 => 'Daryl Roos',
 		'Dasenbrock Norbert'          => 'Norbert Dasenbrook',
