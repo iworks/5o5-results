@@ -1,5 +1,4 @@
-Nation,Sail No.,Skipper,Crew,Boat Name,Heat 1,Heat 2,Heat 3,Heat 4,Heat 5,Heat 6,"Points
-(1 discard)",Place
+Nation,Sail No.,Skipper,Crew,Boat Name,Heat 1,Heat 2,Heat 3,Heat 4,Heat 5,Heat 6,"Points (1 discard)",Place
 AUS,,C. Nicholson,G. Boyd,Slow Boat,1,1,1,1,2,DNS,5.7,1
 AUS,8524,L. Nathanson,S. Gorman,Maroon Magic,3,2,3,4,1,DNS,22.4,2
 AUS,8342,T. Kyrwood,C. Spence,Rack 'Em Up,6,6,4,17,2,2,37.4,3
@@ -12,7 +11,7 @@ AUS,8627,D. Porter,P. Holden,The Pump,12,12,15,12,12,5,82,9
 AUS,8639,M. Page,W. McDonald,Transit Lane,4,7,12,7,26,25,83,10
 AUS,8557,D. Nicholson,D. Williams,Not Much Chop,7,14,14,6,30,14,84.7,11
 AUS,8498,P. Drinkwater,D. O'Dowd,The Wedge,22,11,7,11,19,12,90,12
-AUS,8617,B. Whitbread,J McDonald,Swallow My Wake,10,8,20,8,18,16,90,13
+AUS,8617,B. Whitbread,Joel McDonald,Swallow My Wake,10,8,20,8,18,16,90,13
 AUS,8523,P. Hewson,G. Gardner,Forever Aboard,15,10,23,14,15,18,101,14
 AUS,8042,G. Engert,M. O'Donnell,Overflow,16,13,11,20,23,15,105,15
 AUS,8395,B. Kelly,L. Parker,Burdens of Being Upright,11,18,13,16,21,17,105,16
@@ -48,5 +47,5 @@ AUS,7937,N. Klatsmanyi,B. Szabo,Balaton,41,40,42,40,40,38,229,45
 AUS,7830,C. Hughes,A. King,The Falcon,DNS,35,37,DNF,DNF,31,235,46
 AUS,7740,M. Barber,S. Jones,No Canoe,DNF,41,43,46,43,40,243,47
 AUS,7334,M. Lynch,J. Keegan,Body Surfer,DNF,DNF,DNS,42,41,DNS,266,48
-AUS,8221,A. Bale,P. Bale,Grey Ghost,DNS,34,DNS,DNS,DNS,DNS,268,49=
+AUS,8221,Antony Bale,Peter Bale,Grey Ghost,DNS,34,DNS,DNS,DNS,DNS,268,49=
 AUS,1*,B. Van Munster,D. Clar,Boat,DNS,DNS,DNS,34,DNS,DNS,268,49=
