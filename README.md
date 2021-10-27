@@ -12,8 +12,9 @@ I will thanks to those persons (order by time)
 * Mike Hattemore - provide a lot of WC and UK Nationals.
 * Peter Scannell - help with manual fixing Irish results.
 * Olivier Barat - provide French Bulletin scans 1972-1979 and few more till 2003.
-* Jonathan Gibbons - provide "505 Great Britain" 1975-1987
+* Jonathan Gibbons - provide "505 Great Britain" 1975-1987.
 * Nicolas Ktz - entry list and first 6 places on WC 1969 (Argentina)
 * Philippe Blanchard - provide French Bulletin scans 1960-2009.
-
+* Simon Gorman - provide Australian Championchip 1998.
+* Ian Gregg - provide Australian Championchip 2016.
 
