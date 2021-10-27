@@ -1,0 +1,31 @@
+Nation,SailNo,HelmName,CrewName,Boat,Heat 1,Heat 2,Heat 3,Heat 4,Heat 5,Heat 6,Heat 7,Heat 8,Heat 9,Total,Nett,Rank
+AUS,9036,Michael Quirk,Luke Payne,Dont Blush Baby,1,3,1,2,1,1,1,(7),(4),21,10,1st
+USA,9115,Mike Holt,Rob Woelfel,IO Integration,3,(5),3,1,2,2,3,2,(6),27,16,2nd
+AUS,8946,Sandy Higgins,Paul Marsh,Hawai Five O,(7),2,2,4,(6),5,2,1,1,30,17,3rd
+AUS,9061,Kevin Cameron,Sam Heritage,Alarm Innovations,2,1,4,3,4,(6),6,(11),3,40,23,4th
+AUS,8644,Josh Franklin,Darren Gilbert,www.kelsowconsulting.com,4,4,(7),7,3,4,4,4,(8),45,30,5th
+AUS,8794,Michael Babbage,James McAllister,Alvin Rides Again,(8),8,8,8,(12),3,5,3,2,57,37,6th
+AUS,9037,Nigel Lott,Bob Franks,Sweaty Betty,5,(7),5,5,5,(8),7,5,5,52,37,7th
+AUS,9074,Earle Alexander,Matthew Bowden,Earle Grey 2,9,(10),6,6,(30 DNF),7,8,8,10,94,54,8th
+AUS,8957,Peter Woolman,Phil Scapens,More Noodles,(13),6,(15),12,9,9,9,9,9,91,63,9th
+AUS,8783,Kane Sinclair,Marcus Cooper,Lucyfurr,11,11,10,11,8,(15),11,10,(28 DNF),115,72,10th
+AUS,8920,Jeffrey Robinson,Bryce Penfold,ASAP,6,(14),(16),9,14,13,12,12,7,103,73,11th
+AUS,8809,Richard Gallimore,Lacchlan Hornsby,Holidays,10,9,13,13,7,12,13,(18),(16),111,77,12th
+AUS,8817,Douglas Hagan,Michael Duffield,Alexander and Associates,12,13,12,(15),13,(14),14,6,12,111,82,13th
+AUS,9022,Ian Burford,David Christie,Hit The Jackpot,15,(28 DNF),11,10,10,18,17,(21),14,144,95,14th
+AUS,8626,Edward Cox,Cameron McDonald,"Steer, Swing and Swear",16,12,17.5,14,(21),10,10,16,(18),134.5,95.5,15th
+AUS,8877,Amy Lee,Justin Mulkearns,General Lee,14,16,9,16,11,(21),16,(19),17,139,99,16th
+AUS,9018,Brett Bowden,Josh Mortenson,Eighteen,17,15,(19),(27),17,16,15,13,11,150,104,17th
+AUS,8781,Christina Bowden,Ian Gregg,Beauty and the Beast,18,18,17.5,(20),(24),11,19,15,13,155.5,111.5,18th
+AUS,8638,Claus Ejlertsen,John Croston,Baa House,20,17,20,(25),22,20,(26),14,15,179,128,19th
+AUS,8637,George Cronin,Kevin Whitbread,Blowflies,19,21,22,(23),18,19,18,22,(27),189,139,20th
+AUS,8922,Colin Turner,Dan Blight,Carpe Jugular,21,(26),(27),19,20,17,24,17,22,193,140,21st
+AUS,8795,John Campbell,Giulian DiVento,Sleek,24,23,(28),17,19,(27),21,23,21,203,148,22nd
+AUS,8760,Brady Lowe,Angus Barker,SportSystem,22,19,23,(26),15,24,(25),24,23,201,150,23rd
+AUS,8739,Steve Howden,Sean Managh,Dance Don't Walk,27,20,14,21,16,26,(30 DNS),(28 DNS),28 DNS,210,152,24th
+AUS,8803,Michael Whitmore,John Hillcoat,Mistress Says Faster,25,24,24,18,(28),(29),20,26,20,214,157,25th
+AUS,8628,Peter Croft,Gary Rushton,Grumpy Old Men,23,22,(26),24,(25),23,22,20,24,209,158,26th
+AUS,8639,Mark Matthews,David Johnson,S&M,(29 DNF),(27),21,22,23,25,23,27,19,216,160,27th
+AUS,8682,Richard Hyde,Lindsay Gilbert,Go to Red,26,25,25,(28),27,22,27,(28 DNF),25,233,177,28th
+AUS,8738,Sarah Macarthur-King,John Macarthur-King,A Salt Weapon,29 DNF,28 DNS,(30),(30),29,30,28,25,26,255,195,29th
+AUS,7479,Andrew Cawley,Josh Mewburn,Mickey Occhi Blu,28,28 DNF,(29),29,26,28,(30 DSQ),28 DNS,28 DNF,254,195,30th
