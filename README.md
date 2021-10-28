@@ -15,6 +15,6 @@ I will thanks to those persons (order by time)
 * Jonathan Gibbons - provide "505 Great Britain" 1975-1987.
 * Nicolas Ktz - entry list and first 6 places on WC 1969 (Argentina)
 * Philippe Blanchard - provide French Bulletin scans 1960-2009.
-* Simon Gorman - provide Australian Championchip 1998.
-* Ian Gregg - provide Australian Championchip 2016.
+* Simon Gorman - provide Australian Championship 1998.
+* Ian Gregg - provide Australian Championship 2016.
 
