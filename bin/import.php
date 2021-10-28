@@ -17,6 +17,8 @@
 
 require 'functions.php';
 
+$data_root = $root . '/data';
+
 global $import_config;
 
 global $wpdb;
@@ -84,7 +86,7 @@ if ( in_array( 'all', $argv ) ) {
 /**
  * import sailors
  */
-if ( $import_sailors && ( $handle = fopen( $import_config['sailors'], 'r' ) ) !== false ) {
+if ( $import_sailors && ( $handle = fopen( $data_root . '/' . $import_config['sailors'], 'r' ) ) !== false ) {
 	$counter = 0;
 	echo PHP_EOL,'IMPORT: ' . $import_config['sailors'],PHP_EOL;
 		/**
@@ -180,7 +182,7 @@ if ( $import_sailors && ( $handle = fopen( $import_config['sailors'], 'r' ) ) !=
  */
 $counter = 0;
 $rows    = array();
-if ( $import_registry && ( $handle = fopen( $import_config['boats'], 'r' ) ) !== false ) {
+if ( $import_registry && ( $handle = fopen( $data_root . '/' . $import_config['boats'], 'r' ) ) !== false ) {
 	echo PHP_EOL,'IMPORT: ',$import_config['boats'],PHP_EOL;
 	$counter = 0;
 	while ( ( $data = fgetcsv( $handle, 0, ',' ) ) !== false ) {
@@ -536,7 +538,7 @@ if ( $import_registry && ( $handle = fopen( $import_config['boats'], 'r' ) ) !==
 /**
  * Import events
  */
-if ( $import_results && ( $handle = fopen( $import_config['events'], 'r' ) ) !== false ) {
+if ( $import_results && ( $handle = fopen( $data_root . '/' . $import_config['events'], 'r' ) ) !== false ) {
 	$series = array();
 	echo PHP_EOL,'IMPORT: ' . $import_config['events'],PHP_EOL;
 	while ( ( $data = fgetcsv( $handle, 0, ',' ) ) !== false ) {
@@ -611,7 +613,7 @@ if ( $import_results && ( $handle = fopen( $import_config['events'], 'r' ) ) !==
 		 * check file
 		 */
 		$file_name = $file;
-		$file      = '../results/' . $file;
+		$file      = $data_root . '/results/' . $file;
 		if ( ! is_file( $file ) ) {
 			printf( 'NO FILE: %s - %s%s', $post_title, $file_name, PHP_EOL );
 			continue;
@@ -656,9 +658,6 @@ if ( $import_results && ( $handle = fopen( $import_config['events'], 'r' ) ) !==
 		}
 		echo $post_title,PHP_EOL;
 		echo 'FILE: ' . $file_name,PHP_EOL;
-
-
-
 		$post_array = array(
 			'post_name'   => sanitize_title(
 				sprintf(

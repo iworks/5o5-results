@@ -1,18 +1,20 @@
 <?php
 error_reporting( E_ALL );
 
+$root = dirname( dirname( __FILE__ ) );
+
 if ( isset( $_SERVER['SERVER_NAME'] ) ) {
 	die( 'not allow with www' );
 }
 
-if ( ! is_file( 'config.php' ) ) {
+if ( ! is_file( $root . '/etc/config.php' ) ) {
 	echo 'ERROR!', PHP_EOL;
 	echo 'Please create `config.php` file with WordPress location!',PHP_EOL;
 	echo 'You can copy `config.example.php`.',PHP_EOL,PHP_EOL;
 	die;
 }
 
-require 'config.php';
+require $root . '/etc/config.php';
 
 require $wordpress_path . '/wp-load.php';
 require_once( ABSPATH . 'wp-admin/includes/image.php' );
@@ -21,13 +23,19 @@ global $import_config;
 
 $import_config = array();
 
-$config_file = 'local.config.json';
+$config_file = $root . '/etc/local.config.json';
 if ( is_file( $config_file ) ) {
 	$import_config = json_decode( file_get_contents( $config_file ), true );
 }
+if ( ! is_file( $root . '/etc/config.json' ) ) {
+	echo 'ERROR!', PHP_EOL;
+	echo 'Please create `config.json` file with files location!',PHP_EOL;
+	die;
+}
+
 $import_config = wp_parse_args(
 	$import_config,
-	json_decode( file_get_contents( 'config.json' ), true )
+	json_decode( file_get_contents( $root . '/etc/config.json' ), true )
 );
 
 function show_debug() {

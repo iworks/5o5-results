@@ -1,5 +1,5 @@
-boat-registry/config.php
-boat-registry/local.config.json
-boat-registry/test.csv
+etc/config.php
+etc/local.config.json
+data/test.csv
 _data
 .~lock.*
