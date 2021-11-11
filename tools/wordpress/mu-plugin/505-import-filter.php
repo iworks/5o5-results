@@ -3474,11 +3474,11 @@ class iworks_5o5_upload_fixer {
 			'T. Hancock' => 'T. Hancock',
 		),
 		array(
-			'L. Bojvad'    => 'Lars Bojvad',
+			'L. Bojvad'    => 'Lars Bøjvad',
 			'J. Feddersen' => 'J. Feddersen',
 		),
 		array(
-			'L. Bujvad' => 'Lars Bojvad',
+			'L. Bujvad' => 'Lars Bøjvad',
 			'S. Storm'  => 'Søren Storm',
 		),
 		array(
@@ -5872,6 +5872,7 @@ class iworks_5o5_upload_fixer {
 		'Lankenau Lars'               => 'Lars Lankenau',
 		'Lapeyre Bertrand'            => 'Bertrand Lapeyre',
 		'Larry Rosenfeld'             => 'Larry Rosenfield',
+		'Lars Bojvad'                 => 'Lars Bøjvad',
 		'Lars Dehne'                  => 'Lars Derschotte Dehne',
 		'Lars Edstrom'                => 'Lars Edström',
 		'Lars Stockmann'              => 'Lars Stöckmann',
@@ -6984,6 +6985,7 @@ class iworks_5o5_upload_fixer {
 		'Soren Overbeck'              => 'Søren Overbeck',
 		'Soren Rohde'                 => 'Søren Rohde',
 		'Soren Storm'                 => 'Søren Storm',
+		'Sören Storm'                 => 'Søren Storm',
 		'Sørensen Kim'                => 'Kim Sørensen',
 		'Soulier Pierre'              => 'Pierre Soulier',
 		'Sourice Jean Marc'           => 'Jean Marc Sourice',
