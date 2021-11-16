@@ -1,0 +1,52 @@
+Nation,BoatNO,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Boat Name,Total,Points,Place
+SWE,3956,Bennett Thörner,,MSS,1,1,3,14,1,3,Mirage,,"11,4",1
+FIN,4008,Kari Wilén,Jyri Wilén,NJK,3,12,1,4,2,1,Loco Vi,,"16,7",2
+SWE,4130,S. Pettersson,,LSS,5,2,4,1,3,18,Harmonie IV,,"26,7",3
+SWE,3323,M. Olsson,,,6,4,10,3,,DSQ,,,"53,1",4
+SWE,3858,Karl-Erik Nilsson,,TKK,9,5,5,11,10,2,Knmåblås III,,54,5
+DEN,3695,O. Schmidt,,,2,DSQ,11,6,9,7,Pilar,,"59,7",6
+SWE,3420,A. Heuman,,GYC,11,9,8,24,4,10,Topsannah,,70,7
+SWE,3993,O. Necander,,GKSS,4,6,14,DNF,15,5,Pueblo,,"70,7",8
+SWE,3661,L. Flood,,TKK,8,10,16,33,5,9,Costa Klöver,,77,9
+FIN,3983,L. J. Fellman,,ESF,13,7,9,7,11,15,Älmi,,77,10
+FIN,3982,K. Weber,,ESF,23,11,12,2,21,20,Pelle,,91,11
+FIN,4011,C. J. Fogelholm,,NJK,17,16,22,8,20,4,Charloys Tant,,93,12
+SWE,3856,L. Westerlund,,KSSS,14,8,47,17,12,12,Sir Urban Ollon,,93,13
+SWE,3817,C. Hagman,,TKK,7,DNF,13,19,17,14,Classe III,,100,14
+FIN,4015,J. Boman,,LPS,10,17,32,DNF,7,6,Munatoti,,"101,7",15
+SWE,4185,G. Lindström,,SSS,25,,23,18,14,,Rosa,,107,16
+FIN,3719,J. Niiniranta,,TPS,24,21,17,DNF,8,11,Mira,,111,17
+SWE,3702,G. Eckeström,,HABK,20,19,31,10,19,13,,,111,18
+SWE,4055,J. Andersson,,KSSS,12,15,35,9,24,22,Chiquita,,112,19
+FIN,4115,T. Jokinen,,TPS,21,DNF,7,13,22,21,,,114,20
+FIN,3711,S. Nordblad,,HSS,DNS,32,6,5,27,16,UFO,,"114,7",21
+SWE,4132,G. Källfelt,,GKSS,15,3,42,DNF,13,17,Mme Pompadour,,"116,7",22
+FIN,3678,G. Lindberg,,NJK,18,23,20,12,18,23,Cash Flow,,121,23
+FIN,3643,N. Lagerström,,ESF,33,30,21,16,23,24,Blådåren,,122,24
+SWE,3205,L. Noren,,KSSS,31,20,2,26,28,28,Darling,,129,25
+SWE,3723,K. E. Kihlmark,,HKK,16,18,26,23,DNS,26,Koskenkorva,,139,26
+SWE,3657,Ebbe Rosen,,MKS,36,22,24,15,30,19,Käkbernet,,140,27
+DEN,2828,E. Terkilsen,,,22,DSQ,19,31,16,30,Don Camillo,,148,28
+SWE,2788,A. Boman,,,19,29,25,DNF,25,29,,,157,29
+FIN,3981,P. V. Laxell,,TPS,29,13,38,34,31,25,Olivia,,162,30
+FIN,4111,T. Frankenhäuser,,HSS,39,27,28,22,26,32,Chiquita,,165,31
+SWE,3857,C. Wincrantz,,,28,26,41,27,42,37,Baron Samedi,,189,32
+SWE,3466,H. Thambert,,MKS,34,28,43,28,38,31,Bella Donna IV,,189,33
+FIN,3985,H. v. Knorring,,ASS,43,36,27,30,32,34,Cuecuruili,,189,34
+SWE,3538,B. Hägglund,,VSS,32,24,DNF,35,36,33,Helmer Viking,,190,35
+FIN,3718,R. Siljander,,IPS,DNF,33,34,25,33,35,Särppä,,190,36
+FIN,3679,J. Törneblom,,SPS,30,DNF,45,20,29,DNS,Napollo,,201,37
+SWE,3831,C. WahIander,,St.505 fl.,DNF,25,37,36,40,36,Vilda Matilda,,204,38
+SWE,3698,T. Nordström,,St.505 fl.,27,31,48,32,45,39,Parbleu,,204,39
+FIN,4128,M. Ehrnrooth,,NJK,26,35,33,DNF,37,DNS,Maruf III,,210,40
+SWE,3683,E. Johansson,,,41,DNF,29,DNF,41,38,Rabalder,,226,41
+SWE,2962,J. E. Levy,,KSSS,DNS,DNS,40,21,34,DNS,Mashwa,,227,42
+FIN,3377,M. Weiste,,SPS,35,34,46,DNF,44,40,Mata Hari,,229,43
+FIN,3721,T. Utter,,LPS,DNS,DNS,15,DNS,39,DNF,Punkku,,231,44
+FIN,3380,H. Kaskinen,,HSK,40,DNF,49,29,49,48,Loco,,231,45
+SWE,2276,B. Akerman,,,DNF,DNS,39,DNF,35,27,Interna Skämtet,,231,46
+FIN,3733,M. A. Jokinen,,HSK,38,DNF,18,DNF,DNS,DNS,Toka Mari,,233,47
+FIN,3274,K. Kahila,,HSK,42,DNF,44,37,46,41,Astarte,,240,48
+SWE,3503,L. Bertin,,GKSS,37,DNF,30,DNF,DNF,DNS,Eskapad,,241,49
+FIN,2729,H. Grönroos,,TPS,44,DNS,36,DNF,47,43,Däsch,,249,50
+SWE,1933,T. Arnborg,,SFOFP,DNF,DNF,DNF,DNS,DNS,DNS,Urakaipa,,279,51

@@ -4001,6 +4001,10 @@ class iworks_5o5_upload_fixer {
 			'Paternault' => 'Bernard Paternault',
 			'Guiomard'   => 'Denis Guiomard',
 		),
+		array(
+			'K. Wilén' => 'Kari Wilén',
+			'J. Wilén' => 'Jyri Wilén',
+		),
 		/*
 		array(
 			'' => '',
