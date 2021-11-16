@@ -3997,6 +3997,10 @@ class iworks_5o5_upload_fixer {
 			'Langlois' => 'Jerome Langlois',
 			'Serame'   => 'Philippe Serane',
 		),
+		array(
+			'Paternault' => 'Bernard Paternault',
+			'Guiomard'   => 'Denis Guiomard',
+		),
 		/*
 		array(
 			'' => '',
