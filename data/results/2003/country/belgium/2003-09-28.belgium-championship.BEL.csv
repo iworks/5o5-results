@@ -1,23 +1,23 @@
-Nation,N° Voile,Helm,Crew,Race 1,Race 2,Race 3,Race 4,Brutto,Points,Place
-GER,8750,Michael Rössler,Holger Neuhaus,[1],1,1,1,4,3,1
-BEL,8649,Bart Meynendonckx,Chris Lehouck,[7],2,2,5,16,9,2
-FRA,8676,Marcel Buffet,Antoine Victor,4,3,3,[DNF 23],33,10,3
-FRA,8716,Christian Silvestre,Gaël le Mauguen,2,5,[10],4,21,11,4
-GER,8539,Hendrik Schultz,Etienne Portelance,3,4,6,[9],22,13,5
-BEL,8463,Emiel Van Hemeldonck,Jan Van Hemeldonck,9,[11],4,2,26,15,6
-GER,8711,Carsten Engel,Tobias Neumeyer,12,[BFD 23],7,3,45,22,7
-FRA,8705,Dupont Jean-Baptiste,Christian Vallaud,[11],10,5,7,33,22,8
-GER,8609,Alexander Holzappel,Dirk Ipach,[8],8,8,6,30,22,9
-FRA,8509,Pierre Muh,Dominique Keraudren,5,[11],11,8,38,24,10
-FRA,7941,Véronique Brenet,Jean-Pierre Peter,10,6,9,[DNC 23],48,25,11
-FRA,8819,Marc Jouany,Erik Nigon,6,7,[DNC 23],DNC 23,59,36,12
-FRA,8820,Robert Lehmann,Bernard Edel,13,13,[14],11,51,37,13
-BEL,8352,Benoît Raucent,Philippe Chevalier,[18],12,12,13,55,37,14
-FRA,8688,Bernard Blondy,Alain Conotte,14,[20],14,10,58,38,15
-FRA,8742,Philippe Noclain,Jean-Pierre Noclain,15,[20],16,10,57,41,16
-BEL,7649,Marco Colombo,Bjorn Wittlaus,[21],16,15,14,66,45,17
-BEL,7979,Luc Crets,Cédric Crets,19,17,[20],12,68,48,18
-BEL,8130,Luc Moentack,Cédric Moentack,17,15,[19],17,68,49,19
-BEL,7695,Didier Trine,Philippe Vandersteen,[22],19,17,15,73,51,20
-BEL,7015,Pierre Van de Poel,Vincent Zimmermann,[20],18,18,18,74,54,21
-GER,8772,Ronald Roos,Michael Roos,14,[DNC 23],DNC,DNC 23,83,60,22
+Nation,N° Voile,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Brutto,Points,Place
+GER,8750,Michael Rössler,Holger Neuhaus,,[1],1,1,1,4,3,1
+BEL,8649,Bart Meynendonckx,Chris Lehouck,,[7],2,2,5,16,9,2
+FRA,8676,Marcel Buffet,Antoine Victor,,4,3,3,[DNF 23],33,10,3
+FRA,8716,Christian Silvestre,Gaël le Mauguen,,2,5,[10],4,21,11,4
+GER,8539,Hendrik Schultz,Etienne Portelance,,3,4,6,[9],22,13,5
+BEL,8463,Emiel Van Hemeldonck,Jan Van Hemeldonck,,9,[11],4,2,26,15,6
+GER,8711,Carsten Engel,Tobias Neumeyer,,12,[BFD 23],7,3,45,22,7
+FRA,8705,Dupont Jean-Baptiste,Christian Vallaud,,[11],10,5,7,33,22,8
+GER,8609,Alexander Holzappel,Dirk Ipach,,[8],8,8,6,30,22,9
+FRA,8509,Pierre Muh,Dominique Keraudren,,5,[11],11,8,38,24,10
+FRA,7941,Véronique Brenet,Jean-Pierre Peter,,10,6,9,[DNC 23],48,25,11
+FRA,8819,Marc Jouany,Erik Nigon,,6,7,[DNC 23],DNC 23,59,36,12
+FRA,8820,Robert Lehmann,Bernard Edel,,13,13,[14],11,51,37,13
+BEL,8352,Benoît Raucent,Philippe Chevalier,,[18],12,12,13,55,37,14
+FRA,8688,Bernard Blondy,Alain Conotte,,14,[20],14,10,58,38,15
+FRA,8742,Philippe Noclain,Jean-Pierre Noclain,,15,[20],16,10,57,41,16
+BEL,7649,Marco Colombo,Bjorn Wittlaus,,[21],16,15,14,66,45,17
+BEL,7979,Luc Crets,Cédric Crets,,19,17,[20],12,68,48,18
+BEL,8130,Luc Moentack,Cédric Moentack,,17,15,[19],17,68,49,19
+BEL,7695,Didier Trine,Philippe Vandersteen,,[22],19,17,15,73,51,20
+BEL,7015,Pierre Van de Poel,Vincent Zimmermann,,[20],18,18,18,74,54,21
+GER,8772,Ronald Roos,Michael Roos,,14,[DNC 23],DNC,DNC 23,83,60,22
