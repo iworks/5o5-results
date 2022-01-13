@@ -1,19 +1,19 @@
 Nation,Name,Club,Description,Birth Date,Website,Facebook,Death Date,Full Name,Height,Wikipedia,Sailor ID,email,domain
-FRA,Laurent Baril
-FRA,Charles Commeil
-FRA,Mathieu Chartier
-BEL,Benoît Raucent
-BEL,Pierre Van de Poel
-BEL,Vincent Zimmermann
-BEL,Cédric Moentack
-GER,Etienne Portelance
-USA,Andrea Reiter
-USA,Lena Captain
-FRA,Dominique Picou
-GBR,Dave Turner
-FRA,Benjamin Thomas
-FRA,Mathieu Bataille
-SWE,Bennett Thörner
+FRA,Laurent Baril,,,,,,,,,,,,
+FRA,Charles Commeil,,,,,,,,,,,,
+FRA,Mathieu Chartier,,,,,,,,,,,,
+BEL,Benoît Raucent,,,,,,,,,,,,
+BEL,Pierre Van de Poel,,,,,,,,,,,,
+BEL,Vincent Zimmermann,,,,,,,,,,,,
+BEL,Cédric Moentack,,,,,,,,,,,,
+GER,Etienne Portelance,,,,,,,,,,,,
+USA,Andrea Reiter,,,,,,,,,,,,
+USA,Lena Captain,,,,,,,,,,,,
+FRA,Dominique Picou,,,,,,,,,,,,
+GBR,Dave Turner,,,,,,,,,,,,
+FRA,Benjamin Thomas,,,,,,,,,,,,
+FRA,Mathieu Bataille,,,,,,,,,,,,
+SWE,Bennett Thörner,,,,,,,,,,,,
 ARG,Hector Domato,,,,,,,,,,,,
 AUS,Adam Brenz-Verca,,,,,,,,,,,,
 AUS,Adam Wyatt,,,,,,,,,,,,
@@ -926,7 +926,7 @@ FRA,Marc Desjuzeur,,,,,,,,,,,,
 FRA,Marc Jouany,,,,,,,,,,,,
 FRA,Marc Laurent,,,,,,,,,,,,
 FRA,Marc Pajot,,,,,,,,,,,,
-FRA,Marc Riot,,,,,,,,,,,,
+FRA,Marc Riot,,,,,100073020060504,,,,,,,
 FRA,Marc Vibert,,,,,,,,,,,,
 FRA,Marcel Buffet,,,,,,,,,,,,
 FRA,Marcel Troupel,,,,,,,,,,,,
