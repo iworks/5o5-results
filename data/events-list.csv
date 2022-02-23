@@ -1121,7 +1121,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2021-11-20,2021-11-21,Turkey Bowl,,4,12,"Seattle, WA",Corinthian Yacht Club of Seattle,,,,,,2021/country/usa/2021-11-21.turkey-bowl.seattle-wa.USA.csv,,,USA,,,,,,
 2022-01-09,2022-01-12,QLD Not the Nationals,,14,6,Manly,Darling Point Sailing Squadron,,,,,,2022/country/australia/2021-01-12.qld-not-the-nationals-series.manly.AUS.csv,,,AUS,,,,,,
 2022-02-12,2022-02-13,Midwinters,,4,26,"Clearwater, FL",Clearwater Community Sailing Center,,,,,,2022/country/usa/2022-02-13.midwinter.clearwater.USA.csv,,,USA,,,,,,
-2022-02-17,2022-02-20,North American Championship,,12,33,"Clearwater, FL",Clearwater Community Sailing Center,,,,,,2022/country/usa/2022-02-13.north-american-championship.clearwater.USA.csv,"Continental,North America",,USA,,,,,,
+2022-02-17,2022-02-20,North American Championship,,12,33,"Clearwater, FL",Clearwater Community Sailing Center,,,,,,2022/continental/2022-02-20.north-american-championship.clearwater.USA.csv,"Continental,North America",,USA,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,
