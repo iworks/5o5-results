@@ -1,12 +1,6 @@
 Nation,Name,Club,Description,Birth Date,Website,Facebook,Death Date,Full Name,Height,Wikipedia,Sailor ID,email,domain
-GER,Barbara Wand
-GER,Andreas Linhart
-GER,Ernst Meyer
-GER,Insa Oldigs
-FRA,Eric Gubourge
-FRA,Bernard Coffin
-SUI,Raphael Vogel
-SUI,Roland Ledergerber
+BEL,Pierre van der Poel
+BEL,Vincent Ziommermann
 ARG,Hector Domato,,,,,,,,,,,,
 AUS,Adam Brenz-Verca,,,,,,,,,,,,
 AUS,Adam Wyatt,,,,,,,,,,,,
@@ -344,6 +338,7 @@ BEL,Eric Defroimont,,,,,,,,,,,,
 BEL,Eric Froidmont,,,,,,,,,,,,
 BEL,Fabienne Boucau,,,,,,,,,,,,
 BEL,Frédéric Decocq,,,,,,,,,,,,
+BEL,Frederic Dignef
 BEL,Fredrik Wigelius,,,,,,,,,,,,
 BEL,Geert de Pauw,,,,,,,,,,,,
 BEL,Harald Van Exem,,,,,,,,,,,,
@@ -357,6 +352,7 @@ BEL,Lien Van Assche,,,,,,,,,,,,
 BEL,Lionel Lambert,,,,,,,,,,,,
 BEL,Lionel Lampert,,,,,,,,,,,,
 BEL,Luc Crets,,,,,,,,,,,,
+BEL,Luc D'Herde
 BEL,Luc Moentack,,,,,,,,,,,,
 BEL,Marie-Pierre Gorremans,,,,,,,,,,,,
 BEL,Pascal Viaud,,,,,,,,,,,,
@@ -701,6 +697,7 @@ FRA,Benoit Morane,,,,,,,,,,,,
 FRA,Benoît Valleteau de Moulliac,,,,,,,,,,,,
 FRA,Bernard Blondy,,,,,,,,,,,,
 FRA,Bernard Claudel,,,,,,,,,,,,
+FRA,Bernard Coffin
 FRA,Bernard des Jamonières,,,,,,,,,,,,
 FRA,Bernard Dugrip,,,,,,,,,,,,
 FRA,Bernard Edel,,,,,,,,,,,,
@@ -709,6 +706,7 @@ FRA,Bernard Oudard,,,,,,,,,,,,
 FRA,Bernard Paternault,,,,,,,,,,,,
 FRA,Bernard Peuch,,,,,,,,,,,,
 FRA,Bertrand Commeil,,,,,,,,,,,,
+FRA,Bertrand Grosheny
 FRA,Bertrand Lapeyre,,,,,,,,,,,,
 FRA,Bertrand Molinier,,,,,,,,,,,,
 FRA,Biche Olivier,,,,,,,,,,,,
@@ -774,6 +772,7 @@ FRA,Eric Basset,,,,,,,,,,,,
 FRA,Eric Brun,,,,,,,,,,,,
 FRA,Eric Cuny,,,,,,,,,,,,
 FRA,Eric Defroimont,,,,,,,,,,,,
+FRA,Eric Gubourge
 FRA,Eric Jacta,,,,,,,,,,,,
 FRA,Eric le Morvan,,,,,,,,,,,,
 FRA,Eric Petit,,,,,,,,,,,,
@@ -1647,6 +1646,7 @@ GER,Adrien Lasnier,,,,,,,,,,,,
 GER,Ailyn Hofmann,,,,,,,,,,,,
 GER,Alena-Larissa Wilkens,,,,,,,,,,,,
 GER,Alex Cross,,,,,,,,,,,,
+GER,Alexander Kirchmann
 GER,Alexander Kodisch,,,,,,,,,,,,
 GER,Alexander Lampert,,,,,,,,,,,,
 GER,Alexander Mertens,,,,,,,,,,,,
@@ -1668,6 +1668,7 @@ GER,Andreas Happich,,,,,,,,,,,,
 GER,Andréas Jungclaus,,,,,,,,,,,,
 GER,Andreas Klein,,,,,,,,,,,,
 GER,Andreas Lehmann,,,,,,,,,,,,
+GER,Andreas Linhart
 GER,Andreas Porth,,,,,,,,,,,,
 GER,Andreas Roller,,,,,,,,,,,,
 GER,Andreas Schmidt,,,,,,,,,,,,
@@ -1703,6 +1704,7 @@ GER,Axel Oberemm,,,,,,,,,,,,
 GER,Axel Oetken,,,,,,,,,,,,
 GER,Axel Schult,,,,,,,,,,,,
 GER,Barbara Jesse,,,,,,,,,,,,
+GER,Barbara Wand
 GER,Basti Henning,,,,,,,,,,,,
 GER,Bastian Henning,,,,,,,,,,,,
 GER,Bastian Horstmann,,,,,,,,,,,,
@@ -1804,6 +1806,7 @@ GER,Elke Schott,,,,,,,,,,,,
 GER,Engel Christoph,,,,,,,,,,,,
 GER,Enno Thaeter,,,,,,,,,,,,
 GER,Eric Bellstedt,,,,,,,,,,,,
+GER,Ernst Meyer
 GER,Etienne Portelance,,,,,,,,,,,,
 GER,Ewald Brzoska,,,,,,,,,,,,
 GER,Fabian Vergil,,,,,,,,,,,,
@@ -1904,6 +1907,7 @@ GER,Horst Sjuts,,,,,,,,,,,,
 GER,Hubertus Ritter,,,,,,,,,,,,
 GER,Imke Brockerhoff,,,,,,,,,,,,
 GER,Ingo Schneider,,,,,,,,,,,,
+GER,Insa Oldigs
 GER,Iris Anton,,,,,,,,,,,,
 GER,Iris Feldmann,,,,,,,,,,,,
 GER,Iris Ruhnau,,,,,,,,,,,,
@@ -2090,6 +2094,7 @@ GER,Michael Eller,,,,,,,,,,,,
 GER,Michael Freitag,,,,,,,,,,,,
 GER,Michael Heyder,,,,,,,,,,,,
 GER,Michael Kärgel,,,,,,,,,,,,
+GER,Michael Kieselow
 GER,Michael Klügel,,,,,,,,,,,,
 GER,Michael Köritz,,,,,,,,,,,,
 GER,Michael Kramer,,,,,,,,,,,,
@@ -2275,11 +2280,12 @@ GER,Torsten Koch,,,,,,,,,,,,
 GER,Torsten Simon,,,,,,,,,,,,
 GER,Torsten Trümper,,,,,,,,,,,,
 GER,Ulf Denecke,,,,,,,,,,,,
-GER,Ulf Geisler,,,,,,,,,,,,
+GER,Ulf Geißler,,,,,,,,,,,,
 GER,Ulf Pleßmann,,,,,,,,,,,,
 GER,Ulli Heerdegen,,,,,,,,,,,,
 GER,Ulrich Ellerbeck,,,,,,,,,,,,
 GER,Ulrich Meyer,,,,,,,,,,,,
+GER,Ulrich Müller-Menzel
 GER,Urs Wihlfahrt,,,,,,,,,,,,
 GER,Ursula Tetzlaff,,,,,,,,,,,,
 GER,Ute Oberländer,,,,,,,,,,,,
@@ -2291,6 +2297,7 @@ GER,Uwe Krumm,,,,,,,,,,,,
 GER,Uwe Küntzel,,,,,,,,,,,,
 GER,Uwe Lätzsch,,,,,,,,,,,,
 GER,Verena Achterberg,,,,,,,,,,,,
+GER,Verena Hoffmann
 GER,Viktoria Warminski,,,,,,,,,,,,
 GER,Volker Böhringer,,,,,,,,,,,,
 GER,Volker Görge,,,,,,,,,,,,
@@ -2773,8 +2780,10 @@ SUI,Pawel Studler,,,,,,,,,,,,
 SUI,Peter Schweizer,,,,,,,,,,,,
 SUI,Philippe Jacot,,,,,,,,,,,,
 SUI,Phillip Grob,,,,,,,,,,,,
+SUI,Raphael Vogel
 SUI,Res Schürch,,,,,,,,,,,,
 SUI,Reto Walser,,,,,,,,,,,,
+SUI,Roland Ledergerber
 SUI,Ruedi Christen,,,,,,,,,,,,
 SUI,Sacha Wirth,,,,,,,,,,,,
 SUI,Samuel Bacher,,,,,,,,,,,,
