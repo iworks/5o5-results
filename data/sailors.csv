@@ -1,16 +1,4 @@
 Nation,Name,Club,Description,Birth Date,Website,Facebook,Death Date,Full Name,Height,Wikipedia,Sailor ID,email,domain
-GER,Thomas Löwen
-SUI,Peter Schmidle
-GER,Holger Buhl
-GER,Claus Tiedemann
-GER,Jockel Oetken
-GER,Jürgen Eigenbrod
-GER,Klaus Duncker
-GER,Micky Todd
-GER,Detlef Stock
-GER,Jürgen Puschmann
-BEL,Pierre van der Poel
-BEL,Vincent Ziommermann
 ARG,Hector Domato,,,,,,,,,,,,
 AUS,Adam Brenz-Verca,,,,,,,,,,,,
 AUS,Adam Wyatt,,,,,,,,,,,,
@@ -369,12 +357,14 @@ BEL,Pascal Viaud,,,,,,,,,,,,
 BEL,Philippe Vandersteen,,,,,,,,,,,,
 BEL,Pierre Gorremans,,,,,,,,,,,,
 BEL,Pierre Van de Poel,,,,,,,,,,,,
+BEL,Pierre van der Poel
 BEL,Pietr Van Loer,,,,,,,,,,,,
 BEl,Sander Smeets,,,,,,,,,,,,
 BEL,Stijn Oyen,,,,,,,,,,,,
 BEL,Théo Geeraerts,,,,,,,,,,,,
 BEL,Toon Van Assche,,,,,,,,,,,,
 BEL,Vincent Zimmermann,,,,,,,,,,,,
+BEL,Vincent Ziommermann
 BEL,Xavier Dobbelstein,,,,,,,,,,,,
 BEL,Yannick Maheux,,,,,,,,,,,,
 BER,Brett Wright,,,,,,,,,,,,
@@ -1779,6 +1769,7 @@ GER,Christoph Klein,,,,,,,,,,,,
 GER,Claas Lehmann,,,,,,,,,,,,
 GER,Claudia Conrads,,,,,,,,,,,,
 GER,Claudius Zeiler,,,,,,,,,,,,
+GER,Claus Tiedemann
 GER,Claus-Michael Lehr,,,,,,,,,,,,
 GER,Cord-Henrich Lefhalm,,,,,,,,,,,,
 GER,Cornelius Heeschen,,,,,,,,,,,,
@@ -1790,6 +1781,7 @@ GER,Daniel Wehden,,,,,,,,,,,,
 GER,Dave Farmer,,,,,,,,,,,,
 GER,David Thiemann,,,,,,,,,,,,
 GER,Davina Schlesiger,,,,,,,,,,,,
+GER,Detlef Stock
 GER,Dierk Möller,,,,,,,,,,,,
 GER,Dieter Cordes,,,,,,,,,,,,
 GER,Diethardt Freye,,,,,,,,,,,,
@@ -1804,6 +1796,7 @@ GER,Dirk Hütten,,,,,,,,,,,,
 GER,Dirk Ipach,,,,,,,,,,,,
 GER,Dirk Kaiser,,,,,,,,,,,,
 GER,Dirk Lübbers,,,,,,,,,,,,
+GER,Dirk Schrage
 GER,Dominik Hafner,,,,,,,,,,,,
 GER,Dorothea Gebert,,,,,,,,,,,,
 GER,Eberhard Schockenhoff,,,,,,,,,,,,
@@ -1816,6 +1809,7 @@ GER,Elke Schott,,,,,,,,,,,,
 GER,Engel Christoph,,,,,,,,,,,,
 GER,Enno Thaeter,,,,,,,,,,,,
 GER,Eric Bellstedt,,,,,,,,,,,,
+GER,Eric Wolf
 GER,Ernst Meyer
 GER,Etienne Portelance,,,,,,,,,,,,
 GER,Ewald Brzoska,,,,,,,,,,,,
@@ -1913,6 +1907,7 @@ GER,Henry Köthe,,,,,,,,,,,,
 GER,Henry Stoffers,,,,,,,,,,,,
 GER,Hermann Wollenbecker,,,,,,,,,,,,
 GER,Hilmer Goedeking,,,,,,,,,,,,
+GER,Holger Buhl
 GER,Horst Sjuts,,,,,,,,,,,,
 GER,Hubertus Ritter,,,,,,,,,,,,
 GER,Imke Brockerhoff,,,,,,,,,,,,
@@ -1955,6 +1950,7 @@ GER,Jerome Gaudin,,,,,,,,,,,,
 GER,Joachim Hellmich,,,,,,,,,,,,
 GER,Joachim Oetken,,,,,,,,,,,,
 GER,Jochen Heydolph,,,,,,,,,,,,
+GER,Jockel Oetken
 GER,Johan Backsin,,,,,,,,,,,,
 GER,Johannes Ganzer,,,,,,,,,,,,
 GER,Johannes Keil,,,,,,,,,,,,
@@ -1981,9 +1977,11 @@ GER,Julian Stückl,,,,,,,,,,,,
 GER,Juliane Kohl,,,,,,,,,,,,
 GER,Julien Kleiner,,,,,,,,,,,,
 GER,Julius Jacoby,,,,,,,,,,,,
+GER,Jürgen Eigenbrod
 GER,Jürgen Feuerhake,,,,,,,,,,,,
 GER,Jürgen Hatje,,,,,,,,,,,,
 GER,Jürgen Joseph,,,,,,,,,,,,
+GER,Jürgen Puschmann
 GER,Justus Rauno,,,,,,,,,,,,
 GER,Kai Bertallot,,,,,,,,,,,,
 GER,Kai Erhardt,,,,,,,,,,,,
@@ -2011,6 +2009,7 @@ GER,Kirsten Roos,,,,,,,,,,,,
 GER,Kirstin Schirrmacher,,,,,,,,,,,,
 GER,Klaudia Opitz,,,,,,,,,,,,
 GER,Klaus Brinkbäumer,,,,,,,,,,,,
+GER,Klaus Duncker
 GER,Klaus Heeschen,,,,,,,,,,,,
 GER,Klaus Rieck,,,,,,,,,,,,
 GER,Klaus Riedl,,,,,,,,,,,,
@@ -2119,6 +2118,7 @@ GER,Michael Schütte,,,,,,,,,,,,
 GER,Michael Seeger,,,,,,,,,,,,
 GER,Michael Troch,,,,,,,,,,,,
 GER,Michaela Melzwig,,,,,,,,,,,,
+GER,Micky Todd
 GER,Mirko Oestergaard,,,,,,,,,,,,
 GER,Mitja Hettwer,,,,,,,,,,,,
 GER,Moritz Bohnenberger,,,,,,,,,,,,
@@ -2245,12 +2245,14 @@ GER,Sven Friedrich,,,,,,,,,,,,
 GER,Sven Hollenbeck,,,,,,,,,,,,
 GER,Sven Meding,,,,,,,,,,,,
 GER,Sven Meier,,,,,,,,,,,,
+GER,Sven Werenbrecht
 GER,Thilo König,,,,,,,,,,,,
 GER,Thomas Afken,,,,,,,,,,,,
 GER,Thomas Gosch,,,,,,,,,,,,
 GER,Thomas Heimbeck,,,,,,,,,,,,
 GER,Thomas Jung,,,,,,,,,,,,
 GER,Thomas Klug,,,,,,,,,,,,
+GER,Thomas Löwen
 GER,Thomas Osterholz,,,,,,,,,,,,
 GER,Thomas Sobott,,,,,,,,,,,,
 GER,Thomas Tschentscher,,,,,,,,,,,,
@@ -2787,6 +2789,7 @@ SUI,Michel Rotache,,,,,,,,,,,,
 SUI,Othmar Zoller,,,,,,,,,,,,
 SUI,Patrick Ducommun,,,,,,,,,,,,
 SUI,Pawel Studler,,,,,,,,,,,,
+SUI,Peter Schmidle
 SUI,Peter Schweizer,,,,,,,,,,,,
 SUI,Philippe Jacot,,,,,,,,,,,,
 SUI,Phillip Grob,,,,,,,,,,,,
