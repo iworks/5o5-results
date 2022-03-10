@@ -1,65 +1,65 @@
-Nation,Sail No.,Helm,Crew,,,,Points,Position
-SUI,8569,Betschen,Jacot,,,,5.5,1
-SWE,7343,Nilsson,Barne,,,,6.5,2
-SUI,8016,De Cerjat,Hollinger,,,,17.75,3
-GBR,8635,Scutcher,Lake,,,,22,4
-GER,8623,Boehm,Roos,,,,26,5
-GER,8570,Rix,Achenbach,,,,30,6
-,,,,,,,,7
-,,,,,,,,8
-,,,,,,,,9
-GBR,8592,Lovsey,Williams,,,,37,10
-,,,,,,,,11
-,,,,,,,,12
-,,,,,,,,13
-,,,,,,,,14
-,,,,,,,,15
-GBR,8568,Diebitsch,Groth,,,,66,16
-,,,,,,,,17
-,,,,,,,,18
-,,,,,,,,19
-,,,,,,,,20
-,,,,,,,,21
-,,,,,,,,22
-,,,,,,,,23
-GBR,8095,Walters,Buewood,,,,102,24
-,,,,,,,,25
-,,,,,,,,26
-GBR,8555,Smithwhite,Sutherland,,,,108,27
-,,,,,,,,28
-,,,,,,,,29
-,,,,,,,,30
-,,,,,,,,31
-,,,,,,,,32
-,,,,,,,,33
-,,,,,,,,34
-,,,,,,,,35
-,,,,,,,,36
-,,,,,,,,37
-,,,,,,,,38
-,,,,,,,,39
-,,,,,,,,40
-,,,,,,,,41
-,,,,,,,,42
-,,,,,,,,43
-,,,,,,,,44
-GBR,8640,Ralston,Young,,,,176,45
-,,,,,,,,46
-,,,,,,,,47
-,,,,,,,,48
-,,,,,,,,49
-,,,,,,,,50
-,,,,,,,,51
-,,,,,,,,52
-,,,,,,,,53
-,,,,,,,,54
-,,,,,,,,55
-,,,,,,,,56
-,,,,,,,,57
-,,,,,,,,58
-,,,,,,,,59
-,,,,,,,,60
-,,,,,,,,61
-,,,,,,,,62
-,,,,,,,,63
-,,,,,,,,64
+Nation,Sail No.,Helm,Crew,Club,,,Points,Position
+SUI,8569,René Betschen,Philippe Jacot,CNB (SUI),,,5.5,1
+SWE,7343,Kalle Nilsson,Johan Barne,GKSS (SWE),,,6.5,2
+SUI,8016,Jean-Francois de Cerjat,L. Hollinger,CVN (SUI),,,17.75,3
+GBR,8635,Terry Scutcher,Simon Lake,SSC (GBR),,,22,4
+GER,8623,Stefan Böhm,Gerald Roos,SCVK,,,26,5
+GER,8570,Hans-Heinrich Rix,Steffen Achenbach,RSVW,,,30,6
+SUI,,Markus Bohren,Roger Foscher,YCZ (SUI),,,,7
+GER,,Ulf Pleßmann,Sven Kurka,SVST,,,,8
+GER,8590,Stefan Köchlin,Axel Priegann,SKF,,,,9
+GBR,8592,Paul Lovesy,Andrew Williams,DWSC (GBR),,,37,10
+GER,,Ronald Roos,Gerd Linnemann,SVWu,,,,11
+SUI,8543,Cedric Bart,Jean-Philippe Senn,CNB (SUI),,,,12
+GER,8633,Jens Hartwig,Wolfi Stückl,TSC,,,,13
+SUI,,Caroline Stolz,Ueli Marti,CNB (SUI),,,,14
+SWE,,Eriksson,Byrenius,NSS (SWE),,,,15
+GBR,8568,Christian Diebitsch,Magnus Groth,GWSC (GBR),,,66,16
+GER,,Tom Swift, , ,,,,17
+GER,8335,Roger Rachuba,Andre Müller,HS,,,,18
+GER,8505,Adalbert Kluck,Gerhard Schmidt,TSVS,,,,19
+GER,,Stefan Schollmayer,Francesco Sanguino,SCMSP,,,,20
+SUI,8486,Simone Zund,Michel Rotach,CNV (SUI),,,,21
+GER,,Nicolai Völckner,Lars Dehne,SVHB,,,,22
+SUI,,Samuel Zubler,Reto Zubler,SCH (SUI),,,,23
+GER,8095,Dominik Haitz,Luc Schultheiss, ,,,102,24
+GBR,8095,Charles Walters,Pete Burwood,DWSC (GBR),,,,25
+GER,,Jörg Detmold,Holger Neuhaus,SCH,,,,26
+GBR,8555,David Smithwhite,Rob Sutherland,FPSC (GBR),,,108,27
+GER,,Mathias Jetschke,Jens Weishaupt,WSCW,,,,28
+SUI,,Raphael Naef,Erich Fischlin,YCZ (SUI),,,,29
+GER,,Markus Mühlbauer,Angela Stenger,DTYC,,,,30
+GER,,Norbert Dasenbrook,Sven Meier,KSV,,,,31
+SUI,8440,Urs Scherrer,Peter Schmidle,YCZ (SUI),,,,32
+SUI,,Hans-Jörg Spiess,Daniel Roth,YCZ (SUI),,,,33
+BEL,,Emiel Van Hemeldonck,Jan Van Hemeldonck,VVW )BEL),,,,34
+GER,,Kai Löblein,Roland Wiedemann,DTYC,,,,35
+GER,8571,Karl Heinz Hilgers,Wolfgang Bogacki,DSCU,,,,36
+GER,,Thore Michels,Mark Kammer,ZSK,,,,37
+SUI,,Roni Hunziker,Roli Stierli,SCH (SUI),,,,38
+GER,8473,Oliver Kraft,Andreas Gäggel,SSCM,,,,39
+GER,8392,Martin Seikel,Norbert Becker,YCRM,,,,40
+GER,,Sebastian Dörr,Christian Dörr,TSVM,,,,41
+SUI,,Othmar Zoller,Daniela Unternaehrer,SNC (SUI),,,,42
+GER,,Ernst Meyer,Uwe Lätsch,SpYC,,,,43
+SUI,,Florent Chapatte,Marc Froidevaux,CNB (SUI),,,,44
+GBR,8640,Vernon Ralston,Paul Young,TBYC (GBR),,,176,45
+GER,,Wolfgang Seifert,Christian Voggeser,SGR,,,,46
+GER,,Robert Wisolek,Thomas Löwen,SVM,,,,47
+GER,8563,Heinz Balters,Oliver Tessloff,WSCW,,,,48
+GER,,Bernd Kowalzig,Uli Ellerbeck,SCB,,,,49
+GER,,Oliver Ziems,Ute Ziems,TSVS,,,,50
+GER,8478,Volker Görge,Karsten Morf,TSVS,,,,51
+GER,,Martin Eckel,Erik Holz,HSC,,,,52
+GER,,Günther Böckle,Frank Heimburger,SSCM,,,,53
+GER,,Carsten Engel,Tobias Neumeyer,PSVK,,,,54
+SWE,,Berggren,Andreas Jakob,SCLW (SWE),,,,55
+GER,,Detlef Ihmels,Barbara Wand,SVPb,,,,56
+GER,,Jens Meinert,Jens Wilke,BCN,,,,57
+SUI,,Markus Gericke,Beat Waser,YCZ (SUI),,,,58
+GER,,Andreas Müller,Christoph Müller,YCSS,,,,59
+GER,,Michael Klein,M. Kern, ,,,,60
+GER,,Christian Meissner,Jörn Leuckel,YCSS,,,,61
+GER,,Ulli Stegbauer,Robert Plecher,HSC,,,,62
+GER,,Jürgen Feuerhake,Margit Falk,YCSB,,,,63
+GER,,Klaus Riedl,Peter Bohland,MBSC,,,,64
