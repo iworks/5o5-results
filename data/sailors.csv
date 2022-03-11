@@ -1,24 +1,4 @@
 Nation,Name,Club,Description,Birth Date,Website,Facebook,Death Date,Full Name,Height,Wikipedia,Sailor ID,email,domain
-GER,Karsten Steinbach
-GER,Michael Schindler
-DEN,Niels Alslev
-DEN,Anders Pjetorsson
-GER,Helmut Mannsbarth
-GER,Norbert Lins
-DEN,Erik Orsted
-GER,Alexandra Schulz
-GER,Heiko Behrens
-GER,Ulli Riegger
-GER,Jens Pohl
-GER,Martin Klawon
-GER,Rod Simpson
-GER,Dagmar Jans
-GER,Antje Sauter
-GER,Annegret Rieck
-GER,Merle Roßdeutscher
-GER,Matthias Retzlaff
-GER,Andreas Poppe
-GER,Tortsen Pieper
 ARG,Hector Domato,,,,,,,,,,,,
 AUS,Adam Brenz-Verca,,,,,,,,,,,,
 AUS,Adam Wyatt,,,,,,,,,,,,
@@ -508,6 +488,7 @@ DEN,Allan Andreasen,,,,,,,,,,,,
 DEN,Anders Friis,,,,,,,,,,,,
 DEN,Anders Frimodtmoller,,,,,,,,,,,,
 DEN,Anders Kaempe,,,,,,,,,,,,
+DEN,Anders Pjetorsson
 DEN,Anna Garver,,,,,,,,,,,,
 DEN,Anne-Sophie Olesen,,,,,,,,,,,,
 DEN,Bent Lundsager,,,,,,,,,,,,
@@ -517,6 +498,7 @@ DEN,Carsten Petersen,,,,,,,,,,,,
 DEN,Christian Limbrecht Mogensen,,,,,,,,,,,,
 DEN,Claus Jacobsen,,,,,,,,,,,,
 DEN,Dines Pontoppidan,,,,,,,,,,,,
+DEN,Erik Orsted
 DEN,Erik Ørsted,,,,,,,,,,,,
 DEN,Etienne Bourbeau,,,,,,,,,,,,
 DEN,Fabiola Wonterghem,,,,,,,,,,,,
@@ -578,6 +560,7 @@ DEN,Mikkel Storgaard,,,,,,,,,,,,
 DEN,Morten Andersen,,,,,,,,,,,,
 DEN,Morten Ramsbæk,,,,,,,,,,,,
 DEN,Morten S. Andersen,,,,,,,,,,,,
+DEN,Niels Alslev
 DEN,Niels Flohr,,,,,,,,,,,,
 DEN,Nikolaj Hoffmann Buhl,,,,,,,,,,,,
 DEN,Ole Høyer,,,,,,,,,,,,
@@ -1674,6 +1657,7 @@ GER,Alexander Neddermeier,,,,,,,,,,,,
 GER,Alexander Schulte,,,,,,,,,,,,
 GER,Alexander von Mertens,,,,,,,,,,,,
 GER,Alexander Wilhelm,,,,,,,,,,,,
+GER,Alexandra Schulz
 GER,Alexandra Wahler,,,,,,,,,,,,
 GER,Andi Thomsen,,,,,,,,,,,,
 GER,André Müller,,,,,,,,,,,,
@@ -1689,6 +1673,7 @@ GER,Andréas Jungclaus,,,,,,,,,,,,
 GER,Andreas Klein,,,,,,,,,,,,
 GER,Andreas Lehmann,,,,,,,,,,,,
 GER,Andreas Linhart
+GER,Andreas Poppe
 GER,Andreas Porth,,,,,,,,,,,,
 GER,Andreas Roller,,,,,,,,,,,,
 GER,Andreas Schmidt,,,,,,,,,,,,
@@ -1709,9 +1694,11 @@ GER,Anna Höll,,,,,,,,,,,,
 GER,Anna Lang,,,,,,,,,,,,
 GER,Anna Lienau,,,,,,,,,,,,
 GER,Anne Nehrenberg,,,,,,,,,,,,
+GER,Annegret Rieck
 GER,Annette Thiel,,,,,,,,,,,,
 GER,Antje Gosch,,,,,,,,,,,,
 GER,Antje Paulsen,,,,,,,,,,,,
+GER,Antje Sauter
 GER,Antje Schneidewind,,,,,,,,,,,,
 GER,Armin Splisteaser,,,,,,,,,,,,
 GER,Arnd Hover,,,,,,,,,,,,
@@ -1741,6 +1728,7 @@ GER,Bernd Heinisch,,,,,,,,,,,,
 GER,Bernd Kowalzig,,,,,,,,,,,,
 GER,Bernd Lenz,,,,,,,,,,,,
 GER,Bernd Rasenack,,,,,,,,,,,,
+GER,Birgit Deters
 GER,Birgit Hartmann,,,,,,,,,,,,
 GER,Björn Hollenbeck,,,,,,,,,,,,
 GER,Bjorn Schaar,,,,,,,,,,,,
@@ -1793,6 +1781,7 @@ GER,Claus Tiedemann
 GER,Claus-Michael Lehr,,,,,,,,,,,,
 GER,Cord-Henrich Lefhalm,,,,,,,,,,,,
 GER,Cornelius Heeschen,,,,,,,,,,,,
+GER,Dagmar Jans
 GER,Daniel Czeninga,,,,,,,,,,,,
 GER,Daniel Schnorrenberg,,,,,,,,,,,,
 GER,Daniel van Bonn,,,,,,,,,,,,
@@ -1815,6 +1804,7 @@ GER,Dirk Hänsgen,,,,,,,,,,,,
 GER,Dirk Hütten,,,,,,,,,,,,
 GER,Dirk Ipach,,,,,,,,,,,,
 GER,Dirk Kaiser,,,,,,,,,,,,
+GER,Dirk Kindler
 GER,Dirk Lübbers,,,,,,,,,,,,
 GER,Dirk Schrage
 GER,Dominik Hafner,,,,,,,,,,,,
@@ -1910,11 +1900,13 @@ GER,Harald Schott,,,,,,,,,,,,
 GER,Hartmut Weiß,,,,,,,,,,,,
 GER,Hartwig Friedrichs,,,,,,,,,,,,
 GER,Hauke Sievers,,,,,,,,,,,,
+GER,Heiko Behrens
 GER,Hein Peters,,,,,,,,,,,,
 GER,Heiner Hirthe,,,,,,,,,,,,
 GER,Heino Sahling,,,,,,,,,,,,
 GER,Heinz Balters,,,,,,,,,,,,
 GER,Helmut Madeheim,,,,,,,,,,,,
+GER,Helmut Mannsbarth
 GER,Hendrik Annighöfer,,,,,,,,,,,,
 GER,Hendrik Reinhardt,,,,,,,,,,,,
 GER,Henning Oberbeck,,,,,,,,,,,,
@@ -1945,6 +1937,7 @@ GER,Jan Jürgens,,,,,,,,,,,,
 GER,Jan Lürkens,,,,,,,,,,,,
 GER,Jan Mares,,,,,,,,,,,,
 GER,Jan Reifferscheidt,,,,,,,,,,,,
+GER,Jan Schulte-Rahde
 GER,Jan Stölken,,,,,,,,,,,,
 GER,Jan Stremlow,,,,,,,,,,,,
 GER,Jan Wiechmann,,,,,,,,,,,,
@@ -1961,6 +1954,7 @@ GER,Jens Kühne,,,,,,,,,,,,
 GER,Jens Lücke,,,,,,,,,,,,
 GER,Jens Meinert,,,,,,,,,,,,
 GER,Jens Olbrysch,,,,,,,,,,,,
+GER,Jens Pohl
 GER,Jens Schlomka,,,,,,,,,,,,
 GER,Jens Steinborn,,,,,,,,,,,,
 GER,Jens Steinert,,,,,,,,,,,,
@@ -2004,6 +1998,7 @@ GER,Jürgen Joseph,,,,,,,,,,,,
 GER,Jürgen Puschmann
 GER,Justus Rauno,,,,,,,,,,,,
 GER,Kai Bertallot,,,,,,,,,,,,
+GER,Kai Blekker
 GER,Kai Erhardt,,,,,,,,,,,,
 GER,Kai Löblein,,,,,,,,,,,,
 GER,Kai Mares,,,,,,,,,,,,
@@ -2011,6 +2006,7 @@ GER,Kai-Uwe Weiß,,,,,,,,,,,,
 GER,Karl-Heinz Hilgers,,,,,,,,,,,,
 GER,Karsten Contag,,,,,,,,,,,,
 GER,Karsten Lahrs,,,,,,,,,,,,
+GER,Karsten Steinbach
 GER,Karsten Stümpel,,,,,,,,,,,,
 GER,Katharina Menge,,,,,,,,,,,,
 GER,Kathrin Konrad-Schmolke,,,,,,,,,,,,
@@ -2088,6 +2084,7 @@ GER,Martin Eckel,,,,,,,,,,,,
 GER,Martin Görge,,,,,,,,,,,,
 GER,Martin Handel,,,,,,,,,,,,
 GER,Martin Kittsteiner,,,,,,,,,,,,
+GER,Martin Klawon
 GER,Martin Lietz,,,,,,,,,,,,
 GER,Martin Maal,,,,,,,,,,,,
 GER,Martin Meyerhoff,,,,,,,,,,,,
@@ -2105,6 +2102,7 @@ GER,Matthias Dietz,,,,,,,,,,,,
 GER,Matthias Fedde,,,,,,,,,,,,
 GER,Matthias Himmel,,,,,,,,,,,,
 GER,Matthias Konrad-Schmolke,,,,,,,,,,,,
+GER,Matthias Retzlaff
 GER,Matthias Struck,,,,,,,,,,,,
 GER,Matthias Tellen,,,,,,,,,,,,
 GER,Max Eisenrieder,,,,,,,,,,,,
@@ -2117,6 +2115,7 @@ GER,Maximiliane Kempermann,,,,,,,,,,,,
 GER,Meike Schomäker,,,,,,,,,,,,
 GER,Melanie Kohlhoff-Horstmann,,,,,,,,,,,,
 GER,Melanie Oestergaard,,,,,,,,,,,,
+GER,Merle Roßdeutscher
 GER,Michael Baumann,,,,,,,,,,,,
 GER,Michael Daisenberger,,,,,,,,,,,,
 GER,Michael Eller,,,,,,,,,,,,
@@ -2133,6 +2132,7 @@ GER,Michael Marker,,,,,,,,,,,,
 GER,Michael Müller,,,,,,,,,,,,
 GER,Michael Rehberg,,,,,,,,,,,,
 GER,Michael Rössler,,,,,,,,,,,,
+GER,Michael Schindler
 GER,Michael Schöefer,,,,,,,,,,,,
 GER,Michael Schütte,,,,,,,,,,,,
 GER,Michael Seeger,,,,,,,,,,,,
@@ -2158,6 +2158,8 @@ GER,Nikolaus Jägersberg,,,,,,,,,,,,
 GER,Nils Holm,,,,,,,,,,,,
 GER,Nils-Henning Hofmann,,,,,,,,,,,,
 GER,Norbert Becker,,,,,,,,,,,,
+GER,Norbert Lins
+GER,Norman Hüper
 GER,Norman Schlomka,,,,,,,,,,,,
 GER,Olaf Oberländer,,,,,,,,,,,,
 GER,Ole Günther,,,,,,,,,,,,
@@ -2222,6 +2224,7 @@ GER,Robert Hanke,,,,,,,,,,,,
 GER,Robert Neumann,,,,,,,,,,,,
 GER,Robert Steinke,,,,,,,,,,,,
 GER,Robert Wisolek,,,,,,,,,,,,
+GER,Rod Simpson
 GER,Roger Bussenius,,,,,,,,,,,,
 GER,Roland Boettcher,,,,,,,,,,,,
 GER,Roland Herrmann,,,,,,,,,,,,
@@ -2261,6 +2264,7 @@ GER,Stephan Ottenschläger,,,,,,,,,,,,
 GER,Stephan Schweiger,,,,,,,,,,,,
 GER,Sven Bräcker,,,,,,,,,,,,
 GER,Sven Dömges,,,,,,,,,,,,
+GER,Sven Friederich
 GER,Sven Friedrich,,,,,,,,,,,,
 GER,Sven Hollenbeck,,,,,,,,,,,,
 GER,Sven Meding,,,,,,,,,,,,
@@ -2311,10 +2315,13 @@ GER,Torsten Haverland,,,,,,,,,,,,
 GER,Torsten Koch,,,,,,,,,,,,
 GER,Torsten Simon,,,,,,,,,,,,
 GER,Torsten Trümper,,,,,,,,,,,,
+GER,Tortsen Pieper
 GER,Ulf Denecke,,,,,,,,,,,,
 GER,Ulf Geißler,,,,,,,,,,,,
+GER,Ulf Gosejacob
 GER,Ulf Pleßmann,,,,,,,,,,,,
 GER,Ulli Heerdegen,,,,,,,,,,,,
+GER,Ulli Riegger
 GER,Ulrich Ellerbeck,,,,,,,,,,,,
 GER,Ulrich Meyer,,,,,,,,,,,,
 GER,Ulrich Müller-Menzel
