@@ -4005,6 +4005,10 @@ class iworks_5o5_upload_fixer {
 			'K. Wilén' => 'Kari Wilén',
 			'J. Wilén' => 'Jyri Wilén',
 		),
+		array(
+			'Roland Boetcher' => 'Roland Boettcher',
+			'Gabi Boetcher'   => 'Gabi Boettcher',
+		),
 		/*
 		array(
 			'' => '',

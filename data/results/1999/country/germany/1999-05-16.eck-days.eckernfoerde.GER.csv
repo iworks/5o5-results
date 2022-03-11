@@ -1,34 +1,34 @@
-Nation Segel-Nr.,Steuermann/-frau ,Vorschoter/-in ,Club/Land ,Laufwertungen ,Pl.
-GER 87*,"Hunger, Wolfgang","Jess, Holger",PYC,"1,1,1,2,DNS",1
-GER 8700,"Häger, Jörg","Drewes, Thorsten",SCB,"2,2,4,DNS,4",2
-GER 8539,"Oberländer, Olaf","Ziems, Ute",ROYC,"7,5,5,1,5",3
-GER 8609,"Müllejans, Christian","Engel, Carsten",PSVK,"4,4,12,9,2",4
-GER 8478,"Görge, Volker","Morf, Karsten",TSVS,"9,8,3,15,1",5
-GER 8127,"Eigenbrod, Jürgen","Jung, Thomas",RSVW,"8,3,11,7,6",6
-GER 8560,"Michels, Thore","Schmidt, Andreas",ZSK,"3,9,9,4,10",7
-GER 7708,"Tanner, Michael","Dietrich, Eike",TSVH,"12,10,6,10,3",8
-GER 8686,"Völckner, Nicolai","Dehne, Lars",HSC,"6,6,2,17,DNS",9
-GER 8507,"Eismann, Armin","Käcks, Tino",SCA,"14,14,14,5,8",10
-GER 8567,"Detmold, Jörg","Neuhaus, Holger",SCH,"15,12,10,6,16",11
-GER 8539,"Klein, Andreas","Knippscheer, Marius",?,"16,19,15,3,12",12
-GER 8385,"Bernauer, Martin","Geisler, Ulf",CNFT,"5,18,17,13,11",13
-GER 8657,"Neulen, Georg","Deutschbein, Oliver",WYCA,"17,11,20,8,15",14
-GER 8500,"Rieck, Klaus","Friedrich, Sven",BSV,"21,7,7,30,17",15
-GER 8465,"Hufnagel, Jens","Schöler, Martin",SCStM,"DNS,15,16,23,7",16
-GER 8674,"Kremkow, Rainer","Kowalski, Carsten",SCO,"22,13,8,29,18",17
-GER 6786,"Reinhardt, Hendrik","Schult, Axel",SVSF,"18,25,25,11,9",18
-GER 8424,"Gerdts, Peter","Lahrs, Karsten",SVC,"19,22,13,25,13",19
-GER 8222,"Koch, Christian","Rauno, Justus",KYC,"13,16,19,26,20",20
-GER 7548,"König, Thilo","Förster, Kristine",OSVE,"25,21,21,12,19",21
-GER 7878,"Steinbach, Karsten","Schindler, Michael",?,"11,23,23,18,24",22
-GER 8421,"Blecken, Christoph","Becker, Hannes",BSV,"23,17,18,DNS,23",23
-GER 8005,"Stock, Detlef","Puschmann, Jürgen",SGW,"20,24,27,19,22",24
-GER 8279,"Miechelsen, Maike","Brink, Kai-Enno",?,"27,29,24,14,28",25
-GER 7856,"Weiss, Kai-Uwe","Wolf, Eric",?,"26,20,26,28,21",26
-GER 8412,"Paulsen, Antje","Schaar, Björn",BSV,"24,26,22,21,27",27
-GER 7908,"Hoffmann, Uwe","Hoffmann, Verena",WSVR,"29,30,DNS,16,25",28
-GER 8166,"Boetcher, Roland","Boetcher, Gabi",SVGA,"28,27,DNS,20,26",29
-GER 7861,"Rieck, Annegret","Roßdeutscher, Merle",BSV,"30,28,28,24,29",30
-GER 8317,"Tetzlaff, Ursula","Sauter, Antje",WSCW,"SNS,DNS,DNS,22,14",31
-GER 8047,"Therkorn, Grietje","Jans, Dagmar",SVK,"10,DNS,DNS,27,DNF",32
-GER 8071,"Petzke, E.","Schott, Thomas",?,"31,DNS,DNS,DNS,DNS",33
+Nation,Segel-Nr.,Steuermann/-frau ,Vorschoter/-in ,Club/Land ,Laufwertung 1,Laufwertung 2,Laufwertung 3,Laufwertung 4,Laufwertung 5,Points,Netto,Place
+GER,87*,Wolfgang Hunger,Holger Jess,PYC,1,1,1,2,34 DNS*,39,5,1
+GER,8700,Jörg Häger,Thorsten Drewes,SCB,2,2,4,34 DNS*,4,46,12,2
+GER,8539,Olaf Oberländer,Ute Ziems,ROYC,7*,5,5,1,5,23,16,3
+GER,8609,Christian Müllejans,Carsten Engel,PSVK,4,4,12*,9,2,31,19,4
+GER,8478,Volker Görge,Karsten Morf,TSVS,9,8,3,15*,1,36,21,5
+GER,8127,Jürgen Eigenbrod,Thomas Jung,RSVW,8,3,11*,7,6,35,24,6
+GER,8560,Thore Michels,Andreas Schmidt,ZSK,3,9,9,4,10*,35,25,7
+GER,7708,Michael Tanner,Eike Dietrich,TSVH,12*,10,6,10,3,41,29,8
+GER,8686,Nicolai Völckner,Lars Dehne,HSC,6,6,2,17,34 DNS*,65,31,9
+GER,8507,Armin Eismann,Tino Käcks,SCA,14*,14,14,5,8,55,41,10
+GER,8567,Jörg Detmold,Holger Neuhaus,SCH,15,12,10,6,16*,59,43,11
+GER,8539,Andreas Klein,Marius Knippscheer,?,16,19*,15,3,12,65,46,12
+GER,8385,Martin Bernauer,Ulf Geißler,CNFT,5,18*,17,13,11,64,46,13
+GER,8657,Georg Neulen,Oliver Deutschbein,WYCA,17,11,20*,8,15,71,51,14
+GER,8500,Klaus Rieck,Sven Friedrich,BSV,21,7,7,30*,17,82,52,15
+GER,8465,Jens Hufnagel,Martin Schöler,SCStM,34 DNS*,15,16,23,7,95,61,16
+GER,8674,Rainer Kremkow,Carsten Kowalski,SCO,22,13,8,29*,18,90,61,17
+GER,6786,Hendrik Reinhardt,Axel Schult,SVSF,18,25*,25,11,9,88,63,18
+GER,8424,Peter Gerdts,Karsten Lahrs,SVC,19,22,13,25*,13,92,67,19
+GER,8222,Christian Koch,Justus Rauno,KYC,13,16,19,26*,20,94,68,20
+GER,7548,Thilo König,Kristine Förster,OSVE,25*,21,21,12,19,98,73,21
+GER,7878,Karsten Steinbach,Michael Schindler,?,11,23,23,18,24*,99,75,22
+GER,8421,Christoph Blecken,Hannes Becker,BSV,23,17,18,34 DNS*,23,115,81,23
+GER,8005,Detlef Stock,Jürgen Puschmann,SGW,20,24*,27,19,22,112,88,24
+GER,8279,Maike Miechelsen,Kay-Enno Brink,?,27,29*,24,14,28,122,93,25
+GER,7856,Kai-Uwe Weiss,Eric Wolf,?,26,20,26,28*,21,121,93,26
+GER,8412,Antje Paulsen,Björn Schaar,BSV,24,26,22,21,27*,120,93,27
+GER,7908,Uwe Hoffmann,Verena Hoffmann,WSVR,29,30,34 DNS*,16,25,134,100,28
+GER,8166,Roland Boetcher,Gabi Boetcher,SVGA,28,27,34 DNS*,20,26,135,101,29
+GER,7861,Annegret Rieck,Merle Roßdeutscher,BSV,30*,28,28,24,29,139,109,30
+GER,8317,Ursula Tetzlaff,Antje Sauter,WSCW,34 SNS*,DNS,DNS,22,14,138,104,31
+GER,8047,Grietje Therkorn,Dagmar Jans,SVK,10,34 DNS*,DNS,27,DNF,139,105,32
+GER,8071,E. Petzke,Thomas Schott,?,31,34 DNS*,DNS,DNS,DNS,133,133,33
