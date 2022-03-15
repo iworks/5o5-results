@@ -1,43 +1,43 @@
-Nation,Boat NO,Helm,Crew,Race 1,Race 2,Race 3,Race 4,Race 5,Points,Place,
-FRA,8402,Boite,Muzelec,,,,,,,7,1
-GBR,8624,Ian Pinnell,Gorremans,,,,,,,9,2
-BEL,8536,Meyendonck,Lehouck,,,,,,,12,3
-FRA,8447,Jean-Guy Puissant,Seguelas,,,,,,,13,4
-BEL,8488,de Froidmont,Maertens,,,,,,,21,5
-BEL,8463,Van Hemeldonck,?,,,,,,,33,6
-FRA,6593,Philippe Blanchard,Blattner,,,,,,,36,7
-GBR,8510,Wedge,Gordon,,,,,,,38,8
-FRA,8400,Jouany,Nigon,,,,,,,38,9
-FRA,8509,Muh,Kerauchren,,,,,,,41,10
-FRA,8455,Buffet,Trouillet,,,,,,,41,11
-,,,,,,,,,,,12
-,,,,,,,,,,,13
-,,,,,,,,,,,14
-,,,,,,,,,,,15
-,,,,,,,,,,,16
-,,,,,,,,,,,17
-,,,,,,,,,,,18
-,,,,,,,,,,,19
-,,,,,,,,,,,20
-,,,,,,,,,,,21
-,,,,,,,,,,,22
-,,,,,,,,,,,23
-,,,,,,,,,,,24
-,,,,,,,,,,,25
-,,,,,,,,,,,26
-,,,,,,,,,,,27
-,,,,,,,,,,,28
-,,,,,,,,,,,29
-,,,,,,,,,,,30
-,,,,,,,,,,,31
-,,,,,,,,,,,32
-,,,,,,,,,,,33
-,,,,,,,,,,,34
-,,,,,,,,,,,35
-,,,,,,,,,,,36
-,,,,,,,,,,,37
-,,,,,,,,,,,38
-,,,,,,,,,,,39
-,,,,,,,,,,,40
-,,,,,,,,,,,41
-,,,,,,,,,,,42
+Nation,Boat NO,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Points,Place,
+FRA,8402,Boite,Muzelec,CVN ,,,,,,,7,1
+GBR,8624,Ian Pinnell,Gorremans,VVW ,,,,,,,9,2
+BEL,8536,Meyendonck,Lehouck,VVW ,,,,,,,12,3
+FRA,8447,Jean-Guy Puissant,Seguelas,CVT-CVS ,,,,,,,13,4
+BEL,8488,de Froidmont,Maertens,CVN ,,,,,,,21,5
+BEL,8463,Van Hemeldonck,?,VVW ,,,,,,,33,6
+FRA,6593,Philippe Blanchard,Blattner,ACAL ,,,,,,,36,7
+GBR,8510,Wedge,Gordon,BRYC ,,,,,,,38,8
+FRA,8400,Jouany,Nigon,,,,,,,,38,9
+FRA,8509,Muh,Kerauchren,CNVIRY ,,,,,,,41,10
+FRA,8455,Buffet,Trouillet,CVParis ,,,,,,,41,11
+FRA,,Michel Rimbert,Antoine Rimbert,CAEN ,,,,,,,,12
+FRA,,Croiset,Février,CNVIRY ,,,,,,,,13
+FRA,,Noclain,Noclain,CV VALENC ,,,,,,,,14
+FRA,7941,Véronique Dousselin,Jean-Pierre Peter,ACAL ,,,,,,,,15
+FRA,,Brunfaut,Brunfaut,CNVIRY ,,,,,,,,16
+FRA,,Thiberge,Corremans,CVP ,,,,,,,,17
+FRA,,Carvallo,Carvallo,CNHS ,,,,,,,,18
+BEL,,Terrasson,Briffoteux,CCHN ,,,,,,,,19
+BEL,,Bouts,Piron,CVHC ,,,,,,,,20
+FRA,,Lenorment,Salaün,TREGOR ,,,,,,,,21
+FRA,,Lehmann,Bollert,ACAL ,,,,,,,,22
+FRA,,Blondy,Chabaud,CNVIRY ,,,,,,,,23
+BEL,,Trine,Vandersteen,SNEH ,,,,,,,,24
+FRA,8002,Rouanne,Blache,YCC ,,,,,,,,25
+BEL,,Dignef,D'herde,BRYC ,,,,,,,,26
+BEL,,De Bie,Woutters,VVW ,,,,,,,,27
+BEL,,Vaniekaut,Vandenpoel,VVW ,,,,,,,,28
+FRA,,Riot,Dervieux,CNVIRY ,,,,,,,,29
+GER,,"Kraft, Oliver","Goggel, Andreas",SSCM ,,,,,,,,30
+BEL,,Raucent,Chevalier,VVW ,,,,,,,,31
+BEL,,Laugerotte,Dambret,YCD ,,,,,,,,32
+BEL,,De Bruycker,Zwaenepoel,VVW ,,,,,,,,33
+BEL,,De Wolf,Van Hout,VVW ,,,,,,,,34
+FRA,,Petters,Dowvs,VVW ,,,,,,,,35
+FRA,,Mille,Mille,CVV ,,,,,,,,36
+FRA,,Dupont,Ancelot,CVP ,,,,,,,,37
+BEL,,Moens,Moens,VVW ,,,,,,,,38
+FRA,,Carvallo,Chateau,CNHS ,,,,,,,,39
+BEL,,Van Houte,Bauffé,VVW ,,,,,,,,40
+BEL,,Zimermann,Allee,VVW ,,,,,,,,41
+BEL,,Dieddens,Heeremans,VVW ,,,,,,,,42
