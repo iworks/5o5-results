@@ -225,7 +225,7 @@ if ( $import_registry && ( $handle = fopen( $data_root . '/' . $import_config['b
 			$iworks_fleet_social_website     = trim( $data[17] );
 			$post_content                    = trim( $data[5] );
 			$iworks_fleet_boat_nation        = trim( $data[11] );
-			$iworks_fleet_boat_colors        = explode( ';', trim( $data[13] ) );
+			$iworks_fleet_boat_colors        = preg_split( '/[;\|]/', trim( $data[13] ) );
 			if ( ! empty( $iworks_fleet_boat_colors ) ) {
 				foreach ( $iworks_fleet_boat_colors as $index => $color ) {
 					$iworks_fleet_boat_colors[ $index ] = int505_translate_color( $color );
@@ -450,7 +450,7 @@ if ( $import_registry && ( $handle = fopen( $data_root . '/' . $import_config['b
 				if ( empty( $data[ $index ] ) ) {
 					continue;
 				}
-				foreach ( preg_split( '/[;\t\,]/', $data[ $index ] ) as $persons ) {
+				foreach ( preg_split( '/[;\t\,\|]/', $data[ $index ] ) as $persons ) {
 					$persons = trim( $persons );
 					if ( empty( $persons ) ) {
 						continue;
