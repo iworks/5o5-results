@@ -7069,6 +7069,8 @@ class iworks_5o5_upload_fixer {
 		'Sterg.   Papadakis'          => 'Stergios Papadakis',
 		'Sterg Papadakis'             => 'Stergios Papadakis',
 		'Sterg Papdakis'              => 'Stergios Papadakis',
+		'Stergias Papadakis'          => 'Stergios Papadakis',
+		'Stergios Papdakis'           => 'Stergios Papadakis',
 		'Stetson David'               => 'David Stetson',
 		'Steve Adolph'                => 'Stephen Adolph',
 		'Steve Anders'                => 'Steve Anderes',
