@@ -5595,6 +5595,7 @@ class iworks_5o5_upload_fixer {
 		'Jeanne Muriel'               => 'Muriel Jeanne',
 		'Jean-Philipp Chartier'       => 'Jean-Philippe Chartier',
 		'Jean-Phillippe Chartier'     => 'Jean-Philippe Chartier',
+		'Jedrzej Bering'              => 'Jędrzej Bering',
 		'Jeff "Boyder"Boyd'           => 'Jeff Boyd',
 		'Jeff Kimber'                 => 'Geoff Kimber',
 		'Jeff Krusniak'               => 'Jeffrey Krusniak',
