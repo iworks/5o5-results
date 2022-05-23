@@ -6689,6 +6689,7 @@ class iworks_5o5_upload_fixer {
 		'Priegann Axel'               => 'Axel Priegann',
 		'Przemek Zagorski'            => 'Przemek Zagórski',
 		'Przemyslaw Zagorski'         => 'Przemek Zagórski',
+		'Przemysław Zagórski'         => 'Przemek Zagórski',
 		'Puissant Jean-guy'           => 'Jean-Guy Puissant',
 		'Puissant Jean-Guy'           => 'Jean-Guy Puissant',
 		'Puttkamer Thore Von'         => 'Thore von Puttkamer',
