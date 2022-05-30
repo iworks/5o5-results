@@ -7285,8 +7285,6 @@ class iworks_5o5_upload_fixer {
 		'Tom Woods Jnr'               => 'Tom Woods Jr',
 		'Tomas Franzen'               => 'Tomas Franzén',
 		'Tomas Gustafsson'            => 'Tomas Gustavsson',
-		'Tomas Gustafsson'            => 'Tomas Gustavsson',
-		'Tomas Gustavsson'            => 'Tomas Gustafsson',
 		'Tomas Jaxing'                => 'Thomas Jaxing',
 		'Tomas Jaxing-'               => 'Tomas Jaxing',
 		'Tomas Jonsson'               => 'Thomas Jönsson',
