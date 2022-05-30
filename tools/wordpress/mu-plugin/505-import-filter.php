@@ -3978,7 +3978,7 @@ class iworks_5o5_upload_fixer {
 			'Povey'   => 'Robert Povey',
 		),
 		array(
-			'Hansson' => 'Marten Hansson',
+			'Hansson' => 'Mårten Hansson',
 			'Nilsson' => 'Ronald Nilsson',
 		),
 		array(
@@ -6108,6 +6108,7 @@ class iworks_5o5_upload_fixer {
 		'Marquis Vincent'             => 'Vincent Marquis',
 		'Martenot Christian'          => 'Christian Martenot',
 		'Martenot Marie'              => 'Marie Martenot',
+		'Marten Hansson'              => 'Mårten Hansson',
 		'Marti Nydegger'              => 'Martin Nydegger',
 		'Marti Usie'                  => 'Marti Ueli',
 		'Marti Veli'                  => 'Marti Ueli',
@@ -7283,6 +7284,7 @@ class iworks_5o5_upload_fixer {
 		'Tom Swiff'                   => 'Tom Swift',
 		'Tom Woods Jnr'               => 'Tom Woods Jr',
 		'Tomas Franzen'               => 'Tomas Franzén',
+		'Tomas Gustafsson'            => 'Tomas Gustavsson',
 		'Tomas Gustafsson'            => 'Tomas Gustavsson',
 		'Tomas Gustavsson'            => 'Tomas Gustafsson',
 		'Tomas Jaxing'                => 'Thomas Jaxing',
