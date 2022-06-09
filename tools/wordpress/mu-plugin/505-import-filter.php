@@ -4312,7 +4312,6 @@ class iworks_5o5_upload_fixer {
 		'Bjorn Fagerstrom'            => 'Björn Fagerström',
 		'Björn Gustafsson'            => 'Björn Gustavsson',
 		'Bjorn Gustavsson'            => 'Björn Gustavsson',
-		'Björn Gustavsson'            => 'Björn Gustavsson',
 		'Bjorn Schaar'                => 'Björn Schaar',
 		'Blache Jean'                 => 'Jean Blache',
 		'Blache Jean Pierr'           => 'Jean Pierre Blache',
