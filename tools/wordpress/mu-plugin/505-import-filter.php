@@ -3106,14 +3106,6 @@ class iworks_5o5_upload_fixer {
 			'D. O\'Dowd'    => 'David O\'Dowd',
 		),
 		array(
-			'P. Colclough' => 'Peter Colclough',
-			'P. Brown'     => 'Peter Brown',
-		),
-		array(
-			'P Colclough' => 'Peter Colclough',
-			'P Brown'     => 'Peter Brown',
-		),
-		array(
 			'P. Bainbridge' => 'Peter Bainbridge',
 			'J. Campbell'   => 'Jamie Campbell',
 		),
