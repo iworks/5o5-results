@@ -1,86 +1,79 @@
-Nation,Boat,Helmsman,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,,Pts.  ,Pos
-AUS,8405,Chris Nicholson,Darren Nicholson,,9,1,1,1,1,DNF,,15,1
-DEN,8433,Jorgen Schonherr,Michael Paulsen,,1,12,3,6,2,8,,34.4,2
-USA,8266,Bruce Edwards,David Shelton,,4,11,4,3,8,1,,35.7,3
-AUS,8406,Neil Long,Les Evans,,11,2,5,2,21,5,,43,4
-GBR,8050,Peter Colclough,Ian Godfrey,,4,5,2,8,6,13,,57.7,5
-USA,7875,Jeff Miller,Bruce Heckman,,21,7,9,4,12,9,,69,6
-GBR,8379,Mike Holt,Neil Fulcher,,8,4,8,22,26,4,,72,7
-USA,7201,Howard Hamlin,Cam Lewis,,2,DNF,16,10,24,2,,74,8
-GBR,8095,Ian Pinnell,Mark Darling,,25,23,6,9,3,11,,78.4,9
-CAN,8264,Jeff Boyd,Martin Ten Hove,,5,13,14,18,17,7,,85,10
-DEN,8082,Jakob Thomasen,Michael Bang,,10,6,25,7,13,25,,90.7,11
-GBR,8242,Mark Upton-Brown,John Ironmonger,,7,33,10,5,9,46,,93,12
-AUS,8342,Terry Kyrwood,Charles Spence,,3,9,43,11,22,28,,99.7,13
-FRA,8402,Philippe Boite,Jean Luc Muzellec,,6,8,19,23,15,DNF,,100.7,14
-USA,8191,Macy Nelson,John Fry,,13,22,37,33,7,3,,104.7,15
-USA,8013,Mike Punnett,Scott Ikle,,33,17,21,12,11,16,,107.7,16
-SWE,8232,Ebbe Rosen,Olle Wenrup,,23,26,17,35,10,6,,111.7,17
-,,,,,,,,,,,,,18
-,,,,,,,,,,,,,19
-,,,,,,,,,,,,,20
-,,,,,,,,,,,,,21
-,,,,,,,,,,,,,22
-,,,,,,,,,,,,,23
-,,,,,,,,,,,,,24
-,,,,,,,,,,,,,25
-,,,,,,,,,,,,,26
-,,,,,,,,,,,,,27
-,,,,,,,,,,,,,28
-,,,,,,,,,,,,,29
-,,,,,,,,,,,,,30
-SWE,7343,Kalle Nilsson,Bengt Zachrisson,,28,28,34,42,19,22,,161,31
-,,,,,,,,,,,,,32
-,,,,,,,,,,,,,33
-SWE,8335,Niklas Beckvid,Bengt Sareyko,,39,24,23,21,44,53,,181,34
-,,,,,,,,,,,,,35
-,,,,,,,,,,,,,36
-,,,,,,,,,,,,,37
-,,,,,,,,,,,,,38
-,,,,,,,,,,,,,39
-,,,,,,,,,,,,,40
-,,,,,,,,,,,,,41
-,,,,,,,,,,,,,42
-,,,,,,,,,,,,,43
-,,,,,,,,,,,,,44
-,,,,,,,,,,,,,45
-,,,,,,,,,,,,,46
-,,,,,,,,,,,,,47
-,,,,,,,,,,,,,48
-,,,,,,,,,,,,,49
-,,,,,,,,,,,,,50
-,,,,,,,,,,,,,51
-,,,,,,,,,,,,,52
-,,,,,,,,,,,,,53
-,,,,,,,,,,,,,54
-,,,,,,,,,,,,,55
-,,,,,,,,,,,,,56
-,,,,,,,,,,,,,57
-,,,,,,,,,,,,,58
-,,,,,,,,,,,,,59
-,,,,,,,,,,,,,60
-SWE,8228,Gunilla Berg,Erik Kallin,,67,59,64,72,50,52,,322,61
-,,,,,,,,,,,,,62
-,,,,,,,,,,,,,63
-,,,,,,,,,,,,,64
-,,,,,,,,,,,,,65
-,,,,,,,,,,,,,66
-,,,,,,,,,,,,,67
-,,,,,,,,,,,,,68
-,,,,,,,,,,,,,69
-,,,,,,,,,,,,,70
-,,,,,,,,,,,,,71
-,,,,,,,,,,,,,72
-,,,,,,,,,,,,,73
-,,,,,,,,,,,,,74
-SWE,8222,Johan Arvedson,Michael Brostedt,,74,63,67,75,DNC,64,,373,75
-,,,,,,,,,,,,,76
-,,,,,,,,,,,,,77
-,,,,,,,,,,,,,78
-,,,,,,,,,,,,,79
-,,,,,,,,,,,,,80
-,,,,,,,,,,,,,81
-,,,,,,,,,,,,,82
-,,,,,,,,,,,,,83
-,,,,,,,,,,,,,84
-,,,,,,,,,,,,,85
+Nation,Boat,Helmsman,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Total brutto,Total out,Points,Position
+AUS,8405,Chris Nicholson,Darren Nicholson,,9,1,1,1,1,[DNF 85],100,85,15,1
+DEN,8433,Jorgen Schonherr,Michael Paulsen,,1,[12],3,6,2,8,"52,4",18,"34,4",2
+USA,8266,Bruce Edwards,David Shelton,,4,[11],4,3,8,1,"52,7",17,"35,7",3
+AUS,8406,Neil Long,Les Evans,,11,2,5,2,[21],5,70,27,43,4
+GBR,8050,Peter Colclough,Ian Godfrey,,4,5,2,8,6,[13],"77,7",20,"57,7",5
+USA,7875,Jeff Miller,Bruce Heckman,,[21],7,9,4,12,9,96,27,69,6
+GBR,8379,Mike Holt,Neil Fulcher,,8,4,8,22,[26],4,104,32,72,7
+USA,7201,Howard Hamlin,Cam Lewis,,2,[DNF 85],16,10,24,2,159,85,74,8
+GBR,8095,Ian Pinnell,Mark Darling,,[25],23,6,9,3,11,"109,4",31,"78,4",9
+CAN,8264,Jeff Boyd,Martin Ten Hove,,5,13,14,[18],17,7,109,24,85,10
+DEN,8082,Jakob Thomasen,Michael Bang,,10,6,25,7,13,[25],"121,7",31,"90,7",11
+GBR,8242,Mark Upton-Brown,John Ironmonger,,7,[33],10,5,9,46,145,52,93,12
+AUS,8342,Terry Kyrwood,Charles Spence,,3,9,[43],11,22,28,"148,7",49,"99,7",13
+FRA,8402,Philippe Boite,Jean Luc Muzellec,,6,8,19,23,15,[DNF 85],"185,7",85,"100,7",14
+USA,8191,Macy Nelson,John Fry,,13,22,37,[33],7,3,"147,7",43,"104,7",15
+USA,8013,Mike Punnett,Scott Ikle,,[33],17,21,12,11,16,146,39,"107,7",16
+SWE,8232,Ebbe Rosen,Olle Wenrup,,23,26,17,[35],10,6,"152,7",41,"111,7",17
+AUS,7936,Carey,Madsen,,20,10,12,19,[DNC 85],24,200,85,115,18
+USA,8265,Patrick Andreasen,Mead Hopkins,,35,15,13,13,16,[36],164,42,122,19
+USA,7153,Bill Jager,Park,,16,16,30,14,20,[33],165,39,126,20
+USA,8083,Dave Dyson,Rob Erda,,30,36,7,20,5,[51],184,57,127,21
+USA,8034,Maloney,Sutton,,27,19,22,[36],18,17,175,42,133,22
+CAN,8263,Meller,Smith,,24,25,[31],28,14,18,176,37,139,23
+GER,8279,Martin Görge,Rainer Görge,,15,20,28,32,[36],14,181,42,139,23
+USA,7349,Jim Wondolleck,Jay Kuncl,,32,3,26,[47],28,26,"194,7",53,"141,7",25
+AUS,8219,Soulsby,Marsh,,19,[43],18,34,4,39,191,49,142,26
+GBR,8384,David Smithwhite,Colin Merrett,,18,39,20,26,[49],12,200,55,145,27
+GER,8333,Andi Thomsen,Paule Schultz,,[40],27,24,15,30,20,192,46,146,28
+USA,8017,Poore,Park,,12,[40],11,38,23,40,200,46,154,29
+USA,7318,Trotman,Mills,,[41],21,15,40,31,23,207,47,160,30
+SWE,7343,Kalle Nilsson,Bengt Zachrisson,,28,28,34,[42],19,22,209,48,161,31
+FRA,8347,Duclier,Laurent,,36,[DNF 85],29,24,32,15,251,85,166,32
+GER,8320,Jens-Peter Schlomka,Norman Schlomka,,31,14,52,[DNC 85],37,10,259,85,174,33
+SWE,8335,Niklas Beckvid,Bengt Sareyko,,39,24,23,21,44,[53],240,59,181,34
+AUS,8277,Bull,Machin,,26,[DNF 85],38,17,53,21,270,85,185,35
+CAN,7039,Robin Brown,Smith,,45,29,33,27,[DNC 85],29,278,85,193,36
+GBR,8420,David Peacock,Nigel Voght,,17,35,40,30,43,[54],255,60,195,37
+GBR,8423,John Loveday,John Ward,,29,30,[DNC 85],43,25,43,285,85,200,38
+GER,8330,Tim Böger,Klaus Stammerjohann,,22,18,[DNC 85],16,DNC 85,41,291,85,206,39
+GBR,8051,Cooper,Cooper,,37,31,[DNS 85],51,45,19,298,85,213,40
+DEN,8325,Tom Bøjland,Jan Saugmann,,[49],37,36,41,33,37,269,55,214,41
+SUI,8441,Bohyren,Wasser,,34,38,32,44,[DNC 85],38,301,85,216,42
+USA,7774,Paul Tara,Phil Vandenburg,,42,50,44,25,27,[DNF 85],303,85,218,43
+GBR,8021,Napier,Summersgill,,38,34,35,37,[52],44,276,58,218,43
+USA,7874,Wondolleck,Gilmour,,43,41,39,[45],42,27,273,51,222,45
+FRA,7771,Camilli,Chauvet,,[57],32,48,31,51,34,289,63,226,46
+FRA,8372,Vinches,Toupet,,50,[DNF 85],41,39,34,50,329,85,244,47
+SUI,8440,Scherrer,Eugster,,[54],53,47,46,39,31,306,60,246,48
+GBR,8358,Whittle,Whittle,,47,44,[49],49,41,45,311,55,256,49
+GER,8427,Friederichs,Meyer,,[DNS 85],45,27,29,46,DNF 85,341,85,256,49
+USA,7611,Smith,Perez,,44,46,45,55,[57],42,325,63,262,51
+GER,8430,Kohlhoff,Achenbach,,46,49,42,53,54,[DNF 85],359,85,274,52
+CAN,8192,Hamilton,Rinne,,48,42,[57],52,48,57,340,63,277,53
+USA,7095,Winberg,Johnson,,59,58,53,48,38,[DSQ 85],371,85,286,54
+FRA,8352,Preel,Laugerotte,,51,64,55,58,35,[59],358,70,288,55
+USA,7877,Anderes,Steinbroner,,53,[DNF 85],61,56,29,61,375,85,290,56
+USA,6311,Guck,Pike,,[DNS 85],DNF 85,51,65,40,32,382,85,297,57
+USA,7199,Gleason,Smit,,52,51,[DNS 85],50,56,65,389,85,304,58
+FRA,8063,Buffet,Perrin,,[60],54,56,57,60,48,371,66,305,59
+USA,7096,Largay,Sanders,,58,61,63,54,47,[DNF 85],398,85,313,60
+SWE,8228,Gunilla Berg,Erik Kallin,,67,59,64,[72],50,52,396,74,322,61
+USA,8439,Dohan,Beardslee,,[68],55,59,61,68,49,396,78,322,61
+FRA,8133,Nigon,Jovany,,71,67,65,[73],61,30,403,79,324,63
+USA,8411,Rankin,Bruce Tilley,,56,[DNS 85],46,59,55,DNF 85,410,85,325,64
+USA,7202,Watts,Bassano,,64,48,58,[68],65,60,399,74,325,64
+CAN,7111,Thomas,Reynolds,,65,[DNS 85],50,64,63,55,412,85,327,66
+USA,8446,Anne Henderson,Kris Henderson,,[DNS 85],62,60,74,67,35,413,85,328,67
+USA,7795,Park,MacLean,,63,57,62,[71],62,56,407,77,330,68
+CAN,7605,Renka Gesing,Adam Gesing,,62,52,66,[67],59,63,405,73,332,69
+USA,8012,Thirmalai,Cole,,61,56,[DNS 85],63,DNS 85,47,421,85,336,70
+CAN,8360,Pierre Saint-Cyr,Norman Saint-Cyr,,66,[DNF 85],54,62,66,58,471,85,336,70
+FRA,8436,Carvallo,Carvallo,,69,47,[DNS 85],66,58,68,423,85,338,72
+FRA,8294,Dast,Dast,,72,60,68,70,64,[DNF 85],449,85,364,73
+GER,8187,Karl-Heinz Hilgers,Wolfgang Bogacki,,70,66,[DNS 85],69,69,62,451,85,366,74
+SWE,8222,Johan Arvedson,Michael Brostedt,,74,63,67,75,[DNC 85],64,458,85,373,75
+USA,6934,MacBeth,McIntire,,73,65,[DNF 85],76,70,66,465,85,380,76
+USA,8262,Henderson,Johnson,,55,[DNF 85],DNS 85,60,DNC 85,DNF 85,467,85,382,77
+CAN,6910,Bird,Bird,,[DNS 85],DNS 85,DNS 85,DNS 85,DNC 85,67,498,85,413,78

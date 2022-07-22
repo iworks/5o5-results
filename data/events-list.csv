@@ -103,7 +103,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 1991-08-01,1991-08-08,World Championship,,6,83,Marstrand,Göteborgs Kungliga Segel Sällskap,,,,,,1991/world/1991-08-08.world-championship.marstrand.SWE.csv,World,,SWE,,,,,,
 1992-01-01,1992-01-01,UK National Championship,,5,95,Lyme Regis,,,,,,,1992/country/uk/1992.uk-national-championship.lyme-regis.GBR.csv,National,,GBR,,,,,,
 1992-06-10,1992-06-18,European Championship,,5,44,Hellerup,Hellerup Sejlklub,,,,,,1992/continental/1992-06-18.european-championship.hellerup.DEN.csv,"Continental,Europe",,DEN,,,,,,
-1992-08-08,1992-08-20,World Championship,,6,85,"Santa Cruz, CA",,,,,,,1992/worlds/1992-08-20.world-championship.santa-cruz.USA.csv,World,,USA,,,,,,
+1992-08-14,1992-08-20,World Championship,,6,78,"Santa Cruz, CA",,,,,,,1992/worlds/1992-08-20.world-championship.santa-cruz.USA.csv,World,,USA,,,,,,
 1993-08-30,1993-09-03,North American Championship,,5,31,"Grosse Pointe Farms, MI",Crescent Sail Yacht Club,,Steve Tupper,,,,1993/continental/1993-09-03.north-american-championship.grosse-pointe-farms-mi.USA.csv,"Continental,North America",Lake St. Claire,USA,,,,,,
 1993-08-30,1993-09-07,World Championship,,6,90,Travemünde,,,,,,,1993/world/1993-09-07.world-chamipionship.travemunde.GER.csv,World,,GER,,,,,,
 1994-01-01,1994-01-01,North American Championship,,6,35,"South Dartmouth, MA",New Bedford Yacht Club,,Steve Tupper,,,,1994/continental/1994.north-american-championship.south-dartmouth-ma.USA.csv,"Continental,North America","Buzzards Bay, MA",USA,,,,,,
