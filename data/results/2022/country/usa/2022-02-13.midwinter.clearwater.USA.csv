@@ -1,27 +1,27 @@
-Pos,Sail  ,Skipper,crew,Yacht Club,1,2,3,4,Total,Pos
-USA,89*,Stuart McNAY   ,Caleb Paine,"New York Yc, Beverly yc  ",1,6,1,2,10,1
-USA,9106,Mike Martin   ,Adam Lowry,StFYC NHYC  ,4,1,7,3,15,2
-USA,8576,Mike Punnett   ,Rich Mundell,SISA  ,2,5,4,6,17,3
-USA,9072,Mike Holt   ,,Santa Cruz YC  ,8,7,2,1,18T  ,4
-USA,9160,Howard Hamlin   ,,NHYC/ABYC  ,5,2,3,8,18T  ,5
-USA,9004,Eric Anderson   ,,YCYC/StFYC  ,13,3,6,4,26,6
-USA,8856,Ethan Bixby   ,Ted Huebner,SPSC  ,3,8,14,9,34T  ,7
-USA,8965,Mike Zani   ,,Common Fence Point Dinghy Club  ,6,4,12,12,34T  ,8
-IRL,8987,Peter Scannell   ,,Monkstown Bay Sailing Club  ,10,10,8,10,38,9
-GER,9169,Tim Böger   ,,Hamburg Sail Club  ,17,11,5,7,40T  ,10
-CAN,9009,Peter Katcha   ,,Santa Cruz yc  ,9,17,9,5,40T  ,11
-USA,8786,Luke Ingalls   ,,Sakonnet YC  ,7,14,11,13,45,12
-USA,9142,Douglas Hagan   ,,PCYC  ,16,12,10,14,52,13
-USA,9186,David Kirkpatrick   ,,Sail Newport  ,11,16,15,11,53,14
-USA,8841,Alexander Meller   ,,International 505 Class Association  ,14,9,17,16,56,15
-USA,8937,Tim Murphy   ,,None  ,18,15,13,15,61,16
-USA,8814,Lin Robson   ,,SPSC  ,12,18,16,17,63,17
-USA,7346,Andrew Jones   ,,SPYC  ,19,13,18,18,68,18
-USA,8830,Nathaniel Plant,,SPSC  ,20,19,19,20,78,19
-USA,8593,TJ O'Brien   ,,Lake Norman Yacht Club/Sailing Club at UCF  ,21,21,21,22,85,20
-USA,9138,Marek Balinski   ,,OHCC  ,27/DNS  ,20,20,19,86,21
-USA,8808,Ted Bjerregaard   ,,Bristol Yacht Club  ,15,27/DNS  ,27/DNS  ,23,92,22
-USA,9095,G Nelson   ,,West River  ,27/DNS  ,27/DNS  ,27/DNS  ,21,102,23
-USA,8854,Craig Thompson   ,,Unaffiliated  ,27/DNS  ,27/DNS  ,27/DNS  ,24,105,24
-USA,9091,Reeve Dunne   ,,None  ,27/DNS  ,27/DNS  ,27/DNS  ,25,106,25
-USA,9172,Paul Scoffin   ,,MBYC  ,27/DNS  ,27/DNS  ,27/DNS  ,26,107,26
+Pos,Sail,Skipper,crew,Yacht Club,1,2,3,4,Total,Pos
+USA,89*,Stuart McNay,Caleb Paine,"New York Yc, Beverly yc",1,6,1,2,10,1
+USA,9106,Mike Martin,Adam Lowry,StFYC NHYC,4,1,7,3,15,2
+USA,8576,Mike Punnett,Rich Mundell,SISA,2,5,4,6,17,3
+USA,9072,Mike Holt,,Santa Cruz YC,8,7,2,1,18T,4
+USA,9160,Howard Hamlin,,NHYC/ABYC,5,2,3,8,18T,5
+USA,9004,Eric Anderson,,YCYC/StFYC,13,3,6,4,26,6
+USA,8856,Ethan Bixby,Ted Huebner,SPSC,3,8,14,9,34T,7
+USA,8965,Mike Zani,,Common Fence Point Dinghy Club,6,4,12,12,34T,8
+IRL,8987,Peter Scannell,,Monkstown Bay Sailing Club,10,10,8,10,38,9
+GER,9169,Tim Böger,,Hamburg Sail Club,17,11,5,7,40T,10
+CAN,9009,Peter Katcha,,Santa Cruz yc,9,17,9,5,40T,11
+USA,8786,Luke Ingalls,,Sakonnet YC,7,14,11,13,45,12
+USA,9142,Douglas Hagan,,PCYC,16,12,10,14,52,13
+USA,9186,David Kirkpatrick,,Sail Newport,11,16,15,11,53,14
+USA,8841,Alexander Meller,,International 505 Class Association,14,9,17,16,56,15
+USA,8937,Tim Murphy,,None,18,15,13,15,61,16
+USA,8814,Lin Robson,,SPSC,12,18,16,17,63,17
+USA,7346,Andrew Jones,,SPYC,19,13,18,18,68,18
+USA,8830,Nathaniel Plant,,SPSC,20,19,19,20,78,19
+USA,8593,TJ O'Brien,,Lake Norman Yacht Club/Sailing Club at UCF,21,21,21,22,85,20
+USA,9138,Marek Balinski,,OHCC,27/DNS,20,20,19,86,21
+USA,8808,Ted Bjerregaard,,Bristol Yacht Club,15,27/DNS,27/DNS,23,92,22
+USA,9095,Macy Nelson,,West River,27/DNS,27/DNS,27/DNS,21,102,23
+USA,8854,Craig Thompson,,Unaffiliated,27/DNS,27/DNS,27/DNS,24,105,24
+USA,9091,Reeve Dunne,,None,27/DNS,27/DNS,27/DNS,25,106,25
+USA,9172,Paul Scoffin,,MBYC,27/DNS,27/DNS,27/DNS,26,107,26
