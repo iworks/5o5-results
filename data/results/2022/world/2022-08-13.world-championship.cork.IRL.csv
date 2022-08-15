@@ -1,0 +1,79 @@
+Nation,Boat NO,Helm,Crew,,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Race 7,Helm Nation,Crew Nation,Brutto,Netto,Place
+USA,9245,Stuart Mcnay,Caleb Paine,,1.0,1.0,2.0,1.0,(7.0),1.0,1.0,USA,USA,14.0,7.0,1st
+GBR,9240,Nathan Batchelor,Sam Pascoe,,4.0,3.0,1.0,2.0,3.0,(7.0),2.0,GBR,GBR,22.0,15.0,2nd
+AUS,8801,Peter Nicholas,Luke Payne,,(8.0),4.0,3.0,7.0,6.0,2.0,5.0,AUS,AUS,35.0,27.0,3rd
+GER,9121,Jan-Philipp Hofmann,Felix Brockerhoff,,6.0,10.0,6.0,5.0,1.0,8.0,(12.0),GER,GER,48.0,36.0,4th
+USA,9106,Mike Martin,Adam Lowry,,(22.0),2.0,11.0,9.0,5.0,17.0,3.0,USA,USA,69.0,47.0,5th
+USA,9080,Morgan Pinckney,Garrett Brown,,3.0,19.0,12.0,4.0,10.0,9.0,(42.0),USA,USA,99.0,57.0,6th
+GBR,9238,Ian Pinnell,Carl Smit,,5.0,18.0,7.0,13.0,8.0,6.0,(79.0 DNC),GBR,USA,136.0,57.0,7th
+USA,9091,Andy Beeckman,Reeve Dunne,,21.0,5.0,5.0,(31.0),17.0,5.0,6.0,USA,USA,90.0,59.0,8th
+USA,9153,Howard Hamlin,Jeff Nelson,,(18.0),17.0,8.0,10.0,9.0,16.0,4.0,USA,USA,82.0,64.0,9th
+GBR,9215,Roger Gilbert,Ben McGrane,,2.0,12.0,15.0,(34.0),2.0,18.0,22.0,GBR,GBR,105.0,71.0,10th
+GER,9241,Wolfgang Hunger,Holger Jess,,23.0,15.0,23.0,(24.0),4.0,4.0,7.0,GER,GER,100.0,76.0,11th
+IRL,9039,Ewen Barry,Charles Dwyer,,17.0,8.0,28.0,6.0,20.0,(47.0),11.0,IRL,IRL,137.0,90.0,12th
+AUS,9191,Malcolm Higgins,Nick Johnston,,(41.0),11.0,40.0,3.0,19.0,12.0,10.0,AUS,AUS,136.0,95.0,13th
+USA,9004,Nic Baird,Eric Anderson,,12.0,20.0,20.0,(22.0),21.0,10.0,19.0,USA,USA,124.0,102.0,14th
+RSA,9063,James Largier,Richard Hutton-Squire,,16.0,6.0,(41.0),16.0,31.0,15.0,29.0,RSA,RSA,154.0,113.0,15th
+GER,9198,Lena Stückl,Johannes Tellen,,(52.0),7.0,39.0,14.0,23.0,20.0,16.0,GER,GER,171.0,119.0,16th
+GBR,9232,Steve Irish,Norman Byrd,,9.0,46.0,13.0,18.0,12.0,21.0,(49.0),GBR,GBR,168.0,119.0,17th
+GER,9070,Stefan Koechlin,Andreas Achterberg,,20.0,34.0,27.0,(35.0),14.0,13.0,14.0,GER,GER,157.0,122.0,18th
+USA,9102,Douglas Hagan,Paul VonGrey,,15.0,26.0,(34.0),15.0,16.0,29.0,21.0,USA,USA,156.0,122.0,19th
+SWE,9181,Malin Broberg,Johan Röök,,7.0,30.0,4.0,12.0,(50.0),37.0,33.0,SWE,SWE,173.0,123.0,20th
+FRA,9220,Philippe Boite,Marin Carnot,,13.0,(50.0),16.0,17.0,24.0,30.0,23.0,FRA,FRA,173.0,123.0,21st
+USA,9072,Mike Holt,Rob Woelfel,,45.0,(48.0),18.0,32.0,18.0,3.0,15.0,USA,USA,179.0,131.0,22nd
+DEN,9055,Fabiola Wonterghem,Michael Wonterghem,,32.0,(55.0),9.0,42.0,13.0,19.0,17.0,DEN,DEN,187.0,132.0,23rd
+GBR,8935,Michael Sims,Carl Gibbon,,28.0,23.0,22.0,(54.0),22.0,23.0,25.0,GBR,GBR,197.0,143.0,24th
+CAN,9200,Alexander Meller,Fiona Collins,,10.0,38.0,25.0,23.0,26.0,(39.0),30.0,CAN,GBR,191.0,152.0,25th
+GBR,9214,Andy Smith,Stewart Mears,,25.0,14.0,17.0,40.0,36.0,(55.0),20.0,GBR,GBR,207.0,152.0,26th
+USA,9208,A.J. Conrads,Blaine Pedlow,,34.0,(36.0),29.0,26.0,11.0,36.0,18.0,USA,USA,190.0,154.0,27th
+FRA,9147,Hervé de Kergariou,Tristan Le Jeune,,(31.0),31.0,26.0,11.0,27.0,31.0,28.0,FRA,FRA,185.0,154.0,28th
+GER,9169,Tim Böger,Finn Böger,,35.0,29.0,(48.0),25.0,38.0,22.0,13.0,GER,GER,210.0,162.0,29th
+GER,9182,Alexander Holzapfel,Arne Wittemer,,11.0,24.0,33.0,30.0,(43.0),28.0,39.0,GER,GER,208.0,165.0,30th
+CAN,9210,Michael Quirk,Tim Needham,,(56.0),32.0,45.0,55.0,15.0,11.0,8.0,AUS,GBR,222.0,166.0,31st
+IRL,8857,Chris Bateman,Paul O'Sullivan,,14.0,(56.0),46.0,20.0,35.0,24.0,31.0,IRL,IRL,226.0,170.0,32nd
+GBR,8991,Nicholas Meadow,James Read,,(37.0),21.0,36.0,28.0,37.0,32.0,27.0,GBR,GBR,218.0,181.0,33rd
+GER,9185,Stefan Boehm,Gerald Roos,,36.0,22.0,(54.0),49.0,42.0,26.0,9.0,GER,GER,238.0,184.0,34th
+GBR,9180,Mark Upton-Brown,Ian Mitchell,,26.0,13.0,38.0,(46.0),28.0,35.0,44.0,GBR,GBR,230.0,184.0,35th
+GBR,9178,Chris Lewns,Jack Kilburn,,24.0,(45.0),30.0,21.0,40.0,33.0,37.0,GBR,GBR,230.0,185.0,36th
+USA,8786,Luke Ingalls,John Ingalls,,33.0,25.0,32.0,27.0,39.0,(69.0),40.0,USA,USA,265.0,196.0,37th
+AUS,9204,Chris Gregg,Ian Gregg,,(70.0),41.0,37.0,29.0,33.0,14.0,46.0,AUS,AUS,270.0,200.0,38th
+IRL,8987,Peter Scannell,John Dunlea,,44.0,(49.0),44.0,19.0,25.0,34.0,36.0,IRL,IRL,251.0,202.0,39th
+AUS,9225,Earle Alexander,Angus Higgins,,(49.0),39.0,47.0,8.0,45.0,27.0,38.0,AUS,AUS,253.0,204.0,40th
+RSA,8955,Peter Funke,Thomas Funke,,30.0,33.0,24.0,(48.0),44.0,40.0,34.0,RSA,RSA,253.0,205.0,41st
+GBR,8963,Martin Hodgson,Adrian Miles,,39.0,28.0,42.0,39.0,29.0,41.0,(54.0),GBR,GBR,272.0,218.0,42nd
+USA,8864,Miles Johannessen,Paul Pihl,,42.0,47.0,19.0,44.0,41.0,(50.0),26.0,USA,USA,269.0,219.0,43rd
+USA,9237,Bruce Edwards,Richard Mundell,,40.0,16.0,(55.0),41.0,34.0,43.0,53.0,USA,CAN,282.0,227.0,44th
+AUS,9110,Mark Stowell,Jake Bessen,,47.0,43.0,21.0,(51.0),49.0,38.0,35.0,AUS,AUS,284.0,233.0,45th
+GER,9231,Stefan Giesler,Frank Böhm,,48.0,37.0,35.0,53.0,(55.0),44.0,24.0,GER,GER,296.0,241.0,46th
+IRL,9011,John Downey,Sandy Rimmington,,29.0,35.0,43.0,38.0,48.0,(57.0),52.0,IRL,IRL,302.0,245.0,47th
+GBR,9093,Alex Barry,Harry Briddon,,19.0,9.0,53.0,59.0,32.0,(79.0 DNS),79.0 DNC,IRL,GBR,330.0,251.0,48th
+IRL,8929,Colin Barry,Ronan O'Driscoll,,(59.0),51.0,10.0,45.0,52.0,52.0,41.0,IRL,IRL,310.0,251.0,49th
+USA,9228,Craig Thompson,Paddy Lewis,,51.0,27.0,58.0,60.0,30.0,25.0,(62.0),USA,GBR,313.0,251.0,50th
+USA,8930,Duane Delfosse,Mike Hull,,(68.0),53.0,49.0,33.0,59.0,49.0,32.0,USA,USA,343.0,275.0,51st
+SUI,9060,Catherine Houriet,Gil Donzé,,57.0,54.0,14.0,52.0,56.0,(62.0),43.0,SUI,SUI,338.0,276.0,52nd
+GBR,9105,James McGillivray,Matthew George,,(65.0),40.0,31.0,36.0,47.0,61.0,65.0,GBR,GBR,345.0,280.0,53rd
+USA,9142,Mike Punnett,Keahi Ho,,38.0,57.0,61.0,43.0,46.0,42.0,(79.0 DNS),USA,USA,366.0,287.0,54th
+GBR,9229,Michael Wilson,Phil Hardisty,,43.0,44.0,52.0,37.0,53.0,60.0,(61.0),GBR,GBR,350.0,289.0,55th
+FRA,9218,Bertrand Commeil,Pierre Gorremans,,27.0,42.0,57.0,61.0,(69.0),67.0,47.0,FRA,FRA,370.0,301.0,56th
+SWE,9187,Jonas Berntsson,Magnus Lundberg,,50.0,(62.0),50.0,47.0,58.0,45.0,51.0,SWE,SWE,363.0,301.0,57th
+FRA,9219,Elisabeth Neidhart,Pierre Jean Gallo,,(60.0),58.0,56.0,50.0,54.0,51.0,48.0,FRA,FRA,377.0,317.0,58th
+AUS,9134,Jeffrey Robinson,Adam Wyatt,,(62.0),52.0,62.0,57.0,57.0,46.0,59.0,AUS,AUS,395.0,333.0,59th
+USA,9083,Aaron Ross,Rob Waterman,,61.0,(71.0),63.0,56.0,61.0,53.0,45.0,USA,USA,410.0,339.0,60th
+USA,8753,Ryan Nelson,Michael Bishop,,54.0,63.0,(67.0),66.0,66.0,54.0,50.0,USA,USA,420.0,353.0,61st
+FRA,8895,Nicolas Michel,Laurent Michel,,46.0,65.0,59.0,(71.0),64.0,56.0,64.0,FRA,FRA,425.0,354.0,62nd
+GBR,8510,Dylan Wells,Harry Clarke,,(71.0),61.0,51.0,65.0,60.0,66.0,56.0,GBR,GBR,430.0,359.0,63rd
+AUS,9071,Richard Hyde,Lindsay Gilbert,,58.0,64.0,60.0,62.0,62.0,58.0,(66.0),AUS,AUS,430.0,364.0,64th
+AUS,9221,Ian Brown,Tom Olsen,,53.0,(79.0 RET),79.0 DNS,67.0,51.0,48.0,79.0 DNS,AUS,USA,456.0,377.0,65th
+GBR,8306,David Batchelor,Ben Batchelor,,55.0,(69.0),65.0,69.0,65.0,63.0,60.0,GBR,GBR,446.0,377.0,66th
+FRA,9164,Jacques Dechauffour,Sabine Dechauffour,,66.0,(68.0),64.0,58.0,63.0,68.0,58.0,FRA,FRA,445.0,377.0,67th
+FRA,9150,Valentin Dechauffour,Pierre Gendry,,(76.0 TLE),60.0,71.0,70.0,68.0,59.0,55.0,FRA,FRA,459.0,383.0,68th
+IRL,8905,Charles McCarthy,Barry OConnor,,64.0,(70.0),70.0,64.0,70.0,70.0,63.0,IRL,IRL,471.0,401.0,69th
+IRL,7771,Brian Jones,Gary Frost,,63.0,(79.0 DNC),79.0 DNC,79.0 DNC,67.0,65.0,57.0,IRL,IRL,489.0,410.0,70th
+IRL,7875,Ian O'Leary,Matt Merchant,,76.0 TLE,66.0,66.0,72.0,(79.0 DNS),64.0,68.0 TLE,IRL,USA,491.0,412.0,71st
+GBR,8708,Martin Goult,Tim Octon,,76.0 TLE,59.0,68.0,63.0,(79.0 DNC),79.0 DNC,79.0 DNC,GBR,GBR,503.0,424.0,72nd
+GBR,9036,Martin Wedge,Graham Elliot,,67.0,67.0,69.0,68.0,(79.0 DNC),79.0 DNC,79.0 DNC,GBR,GBR,508.0,429.0,73rd
+GER,9123,Enno Wilts,Martin Leitner,,76.0 TLE,73.0 TLE,72.0,73.0,(79.0 DNC),71.0,67.0,GER,Swi,511.0,432.0,74th
+IRL,8552,Michael O’Brien,Sandy O’Brien,,69.0,(79.0 DNC),79.0 DNC,79.0 DNC,79.0 DNC,79.0 DNC,79.0 DNC,IRL,IRL,543.0,464.0,75th
+GBR,8867,Patrick McGale,Sam Bird,,76.0 TLE,72.0,(79.0 DNC),79.0 DNC,79.0 DNC,79.0 DNC,79.0 DNC,GBR,GBR,543.0,464.0,76th
+IRL,7440,Denis O'Sullivan,Jan Van De Puil,,(79.0 DNC),79.0 DNC,79.0 DNC,79.0 DNC,79.0 DNC,79.0 DNC,79.0 DNC,IRL,IRL,553.0,474.0,77th
+GER,9197,Nicola Birkner,Angela Stenger,,(79.0 DNC),79.0 DNC,79.0 DNC,79.0 DNC,79.0 DNC,79.0 DNC,79.0 DNC,GER,GER,553.0,474.0,77th
