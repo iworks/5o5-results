@@ -4012,7 +4012,8 @@ class iworks_5o5_upload_fixer {
 	/**
 	 * foo
 	 */
-	private $person = array(
+    private $person = array(
+        'Tomek Brzozowski' => 'Tomasz Brzozowski',
 		'?'                           => '',
 		'011e Wenrup'                 => 'Olle Wenrup',
 		'011i Karlsson'               => 'Olli Karlsson',
