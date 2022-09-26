@@ -583,7 +583,8 @@ if ( $import_results && ( $handle = fopen( $data_root . '/' . $import_config['ev
 			14 => 'iworks_fleet_serie',
 			15 => 'iworks_fleet_result_location',
 			16 => 'country',
-			17 => 'iworks_fleet_result_columns',
+			17 => 'iworks_fleet_result_date_added',
+			18 => 'iworks_fleet_result_columns',
 		);
 		foreach ( $fields as $index => $key ) {
 			$value = '';
@@ -592,6 +593,7 @@ if ( $import_results && ( $handle = fopen( $data_root . '/' . $import_config['ev
 				switch ( $key ) {
 					case 'iworks_fleet_result_date_start':
 					case 'iworks_fleet_result_date_end':
+					case 'iworks_fleet_result_date_added':
 						$value = strtotime( $value );
 						break;
 					case 'iworks_fleet_result_number_of_races':
