@@ -1,20 +1,19 @@
 # Results of International 5o5 regatta
 
-The repository contains regata results of International 5o5 class.
+The repository contains regatta results of the International 5o5 class.
 
 Feel free to create PR if you can fill something or add something.
 
 ## Contributors
 
-I will thanks to those persons (order by time)
+I will thank those people (order by time)
 
-* Ebbe Rosén - he provide first batch of results and help me when I need something more.
-* Mike Hattemore - provide a lot of WC and UK Nationals.
-* Peter Scannell - help with manual fixing Irish results.
-* Olivier Barat - provide French Bulletin scans 1972-1979 and few more till 2003.
-* Jonathan Gibbons - provide "505 Great Britain" 1975-1987.
-* Nicolas Ktz - entry list and first 6 places on WC 1969 (Argentina)
-* Philippe Blanchard - provide French Bulletin scans 1960-2009.
-* Simon Gorman - provide Australian Championship 1998.
-* Ian Gregg - provide Australian Championship 2016.
-
+* Ebbe Rosén - he provided the first batch of results and help me when I need something more.
+* Mike Hattemore - he provided a lot of WC and UK Nationals.
+* Peter Scannell - he helped with manual fixing Irish results.
+* Olivier Barat - he provided French Bulletin scans from 1972-1979 and a few more till 2003.
+* Jonathan Gibbons - he provided "505 Great Britain" 1975-1987.
+* Nicolas Ktz - he provider entry list and first 6 places on WC 1969 (Argentina)
+* Philippe Blanchard - he provided French Bulletin scans from 1960-2009.
+* Simon Gorman - he provided the Australian Championship 1998.
+* Ian Gregg - he provided the Australian Championship 2016.
