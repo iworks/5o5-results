@@ -219,12 +219,13 @@ if ( $import_registry && ( $handle = fopen( $data_root . '/' . $import_config['b
 			$iworks_fleet_hull_manufacturer  = trim( $data[2] );
 			$iworks_fleet_boat_name          = trim( $data[3] );
 			$iworks_fleet_boat_hull_material = trim( $data[4] );
+			$post_content                    = trim( $data[5] );
+			$iworks_fleet_boat_nation        = trim( $data[11] );
+			$iworks_fleet_boat_last_update   = trim( $data[12] );
 			$iworks_fleet_social_facebook    = trim( $data[14] );
 			$iworks_fleet_social_instagram   = trim( $data[15] );
 			$iworks_fleet_social_twitter     = trim( $data[16] );
 			$iworks_fleet_social_website     = trim( $data[17] );
-			$post_content                    = trim( $data[5] );
-			$iworks_fleet_boat_nation        = trim( $data[11] );
 			$iworks_fleet_boat_colors        = preg_split( '/[;\|]/', trim( $data[13] ) );
 			if ( ! empty( $iworks_fleet_boat_colors ) ) {
 				foreach ( $iworks_fleet_boat_colors as $index => $color ) {
@@ -255,6 +256,7 @@ if ( $import_registry && ( $handle = fopen( $data_root . '/' . $import_config['b
 					'iworks_fleet_boat_hull_material',
 					'iworks_fleet_boat_name',
 					'iworks_fleet_boat_nation',
+					'iworks_fleet_boat_last_update',
 					'iworks_fleet_social_facebook',
 					'iworks_fleet_social_instagram',
 					'iworks_fleet_social_twitter',
@@ -262,6 +264,9 @@ if ( $import_registry && ( $handle = fopen( $data_root . '/' . $import_config['b
 				) as $key ) {
 				if ( empty( $$key ) ) {
 					continue;
+				}
+				if ( 'iworks_fleet_boat_last_update' === $key ) {
+					$$key = strtotime( $$key );
 				}
 				$post['meta_input'][ $key ] = $$key;
 			}
@@ -440,52 +445,47 @@ if ( $import_registry && ( $handle = fopen( $data_root . '/' . $import_config['b
 			/**
 			 * owners
 			 */
-			$owners = array();
-			foreach ( array( 6, 7, 8 ) as $index ) {
-				if ( empty( $data[ $index ] ) ) {
-					continue;
+			$owners      = array();
+			$owners_file = sprintf(
+				'%s/owners/%05d.csv',
+				$data_root,
+				$iworks_fleet_boat_hull_number
+			);
+			if ( ( $handle_owner_file = fopen( $owners_file, 'r' ) ) !== false ) {
+				if ( $debug ) {
+					echo PHP_EOL,'IMPORT: ',$owners_file,PHP_EOL;
+				} else {
+					int505_echo_dot( $counter, 'file' );
 				}
-				$data[ $index ] = trim( $data[ $index ] );
-				$data[ $index ] = preg_replace( '/\-$/', '', $data[ $index ] );
-				if ( empty( $data[ $index ] ) ) {
-					continue;
-				}
-				foreach ( preg_split( '/[;\t\,\|]/', $data[ $index ] ) as $persons ) {
-					$persons = trim( $persons );
-					if ( empty( $persons ) ) {
+				while ( ( $owner_data = fgetcsv( $handle_owner_file, 0, ',' ) ) !== false ) {
+					$names = trim( $owner_data[0] );
+					if ( empty( $names ) ) {
 						continue;
 					}
 					/**
-					 * set info
+					 * type
 					 */
-					$date_from = null;
-					$type      = null;
-					switch ( $index ) {
-						case 6:
-							$type = 'first';
-							break;
-						case 7:
-							break;
-						case 8:
-							$type = 'current';
-							break;
+					$type = $date_from = $date_to = null;
+					if ( isset( $owner_data[1] ) ) {
+						$type = trim( $owner_data[1] );
 					}
 					/**
-					 * check is more than one
+					 * dates
 					 */
-					$persons = preg_split( '/[\&\/]/', $persons );
+					if ( isset( $owner_data[2] ) ) {
+						$date_from = int505_import_fix_year( trim( $owner_data[2] ) );
+					}
+					if ( isset( $owner_data[3] ) ) {
+						$date_to = int505_import_fix_year( trim( $owner_data[3] ) );
+					}
+					/**
+					 * owners
+					 */
+					$persons = preg_split( '/[;\t\,\|]/', $names );
 					if ( 1 < sizeof( $persons ) ) {
 						$users_ids = array();
-						foreach ( $persons as $name ) {
-							$name = trim( $name );
-							$name = preg_replace( '/[\-\'`\t ]+$/', '', $name );
-							$name = preg_replace( '/^[\-\'`\t ]/', '', $name );
-							if ( empty( $name ) ) {
-								continue;
-							}
-							$date_from = int505_person_get_date_from( $name );
-							$date_to   = int505_person_get_date_to( $name );
-							$person    = get_person_by_name( $name );
+						foreach ( $persons  as $name ) {
+							$person = get_person_by_name( $name );
 							if ( is_object( $person ) ) {
 								add_post_meta( $post_ID, $owners_index_field_name, $person->ID );
 								$users_ids[] = $person->ID;
@@ -501,14 +501,87 @@ if ( $import_registry && ( $handle = fopen( $data_root . '/' . $import_config['b
 							if ( empty( $name ) ) {
 								continue;
 							}
-							$date_from = int505_person_get_date_from( $name );
-							$date_to   = int505_person_get_date_to( $name );
-							$person    = get_person_by_name( $name );
+							$person = get_person_by_name( $name );
 							if ( is_object( $person ) ) {
 								add_post_meta( $post_ID, $owners_index_field_name, $person->ID );
-								$owners[] = person( $name, $person, $date_from, $type );
+								$owners[]    = person( $name, $person, $date_from, $type );
+								$users_ids[] = $person->ID;
 							} else {
 								$owners[] = add_organization( $name, $person, $date_from, $type );
+							}
+						}
+					}
+				}
+			} else {
+				foreach ( array( 6, 7, 8 ) as $index ) {
+					if ( empty( $data[ $index ] ) ) {
+						continue;
+					}
+					$data[ $index ] = trim( $data[ $index ] );
+					$data[ $index ] = preg_replace( '/\-$/', '', $data[ $index ] );
+					if ( empty( $data[ $index ] ) ) {
+						continue;
+					}
+					foreach ( preg_split( '/[;\t\,\|]/', $data[ $index ] ) as $persons ) {
+						$persons = trim( $persons );
+						if ( empty( $persons ) ) {
+							continue;
+						}
+						/**
+						 * set info
+						 */
+						$date_from = null;
+						$type      = null;
+						switch ( $index ) {
+							case 6:
+								$type = 'first';
+								break;
+							case 7:
+								break;
+							case 8:
+								$type = 'current';
+								break;
+						}
+						/**
+						 * check is more than one
+						 */
+						$persons = preg_split( '/[\&\/]/', $persons );
+						if ( 1 < sizeof( $persons ) ) {
+							$users_ids = array();
+							foreach ( $persons as $name ) {
+								$name = trim( $name );
+								$name = preg_replace( '/[\-\'`\t ]+$/', '', $name );
+								$name = preg_replace( '/^[\-\'`\t ]/', '', $name );
+								if ( empty( $name ) ) {
+									continue;
+								}
+								$date_from = int505_person_get_date_from( $name );
+								$date_to   = int505_person_get_date_to( $name );
+								$person    = get_person_by_name( $name );
+								if ( is_object( $person ) ) {
+									add_post_meta( $post_ID, $owners_index_field_name, $person->ID );
+									$users_ids[] = $person->ID;
+								}
+							}
+							$o = add_more_owners( $users_ids, $date_from, $date_to, $type );
+							if ( ! empty( $o ) ) {
+								$owners[] = $o;
+							}
+						} else {
+							foreach ( $persons as $name ) {
+								$name = trim( $name );
+								if ( empty( $name ) ) {
+									continue;
+								}
+								$date_from = int505_person_get_date_from( $name );
+								$date_to   = int505_person_get_date_to( $name );
+								$person    = get_person_by_name( $name );
+								if ( is_object( $person ) ) {
+									add_post_meta( $post_ID, $owners_index_field_name, $person->ID );
+									$owners[] = person( $name, $person, $date_from, $type );
+								} else {
+									$owners[] = add_organization( $name, $person, $date_from, $type );
+								}
 							}
 						}
 					}

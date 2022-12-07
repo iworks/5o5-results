@@ -257,6 +257,12 @@ function get_country_from_code( $code ) {
 }
 
 function int505_import_fix_year( $year, $pointer = 'begin' ) {
+	if ( empty( $year ) ) {
+		return $year;
+	}
+	if ( preg_match( '/^\d{4}\-\d{2}\-\d{2}$/', $year ) ) {
+		return $year;
+	}
 	if ( preg_match( '/^\d+$/', $year ) ) {
 		$year = intval( $year );
 	}
@@ -276,11 +282,8 @@ function int505_echo_dot( $counter, $type = 'success' ) {
 	if ( 0 === $counter % 10 ) {
 		echo ' ';
 	}
-	if ( 0 === $counter % 100 ) {
-		echo PHP_EOL;
-		if ( 0 === $counter % 1000 ) {
-			echo '------------------',PHP_EOL;
-		}
+	if ( 0 === $counter % 1000 ) {
+		echo PHP_EOL,'------------------',PHP_EOL;
 	}
 	switch ( $type ) {
 		case 'success':
@@ -288,6 +291,9 @@ function int505_echo_dot( $counter, $type = 'success' ) {
 			break;
 		case 'fail':
 			echo 'x';
+			break;
+		case 'file':
+			echo 'f';
 			break;
 		default:
 			echo '-';
@@ -301,6 +307,7 @@ function int505_person_get_date( $name, $type = 'from' ) {
 			array(
 				$name,
 				'/(\d{4}-\d{2}-\d{2})[^\d]+(\d{4}-\d{2}-\d{2})$/' => preg_match( '/(\d{4}-\d{2}-\d{2})[^\d]+(\d{4}-\d{2}-\d{2})$/', $name ),
+				'/ \d{4}\-\d{2}\-\d{2}$/' => preg_match( '/ \d{4}-\d{2}-\d{2}$/', $name ),
 				'/(\d{2})[^\d]+(\d{2})$/' => preg_match( '/(\d{2})[^\d]+(\d{2})$/', $name ),
 				'/(\d{4})[^\d]+(\d{2})$/' => preg_match( '/(\d{4})[^\d]+(\d{2})$/', $name ),
 				'/(\d{4})[^\d]+(\d{4})$/' => preg_match( '/(\d{4})[^\d]+(\d{4})$/', $name ),
@@ -309,7 +316,9 @@ function int505_person_get_date( $name, $type = 'from' ) {
 		);
 	}
 
-	if ( preg_match( '/(\d{4}-\d{2}-\d{2})[^\d]+(\d{4}-\d{2}-\d{2})$/', $name, $matches ) ) {
+	if ( preg_match( '/ (\d{4}\-\d{2}\-\d{2})$/', $name, $matches ) ) {
+		$date_from = $matches[1];
+	} elseif ( preg_match( '/(\d{4}-\d{2}-\d{2})[^\d]+(\d{4}-\d{2}-\d{2})$/', $name, $matches ) ) {
 		$date_from = $matches[1];
 		$date_to   = $matches[2];
 	} elseif ( preg_match( '/(\d{2})[^\d]+(\d{2})$/', $name, $matches ) ) {
@@ -861,7 +870,9 @@ function int505_translate_color( $color ) {
 	if ( isset( $colors[ $c ] ) ) {
 		return $colors[ $c ];
 	}
-	echo $color,PHP_EOL;
+	if ( show_debug() ) {
+		echo $color,PHP_EOL;
+	}
 	return $color;
 }
 
