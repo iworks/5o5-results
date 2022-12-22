@@ -6959,6 +6959,8 @@ class iworks_5o5_upload_fixer {
 		'Scott Weliler'               => 'Scott Weiler',
 		'Scutcher Terry'              => 'Terry Scutcher',
 		'Sean Ballentyne'             => 'Sean Ballantyne',
+		'Sean v Rensburg'             => 'Sean van Rensburg',
+		'Sean Van Rensburg'           => 'Sean van Rensburg',
 		'Seeger Carsten'              => 'Carsten Seeger',
 		'Seeger Micael'               => 'Michael Seeger',
 		'Seeger Michael'              => 'Michael Seeger',
