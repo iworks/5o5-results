@@ -1,85 +1,84 @@
 Country,Boat no,Helm,Crew,,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Points,Position
 GBR,8552,Mark Upton-Brown,Ian Mitchell,,,,,,,,11,1
 GER,8670,Wolfgang Hunger,Holger Jess,,,,,,,,22,2
-FRA,8402,Philippe Boite,Jean-Paul Muzellec,,,,,,,,23.4,3
-DEN,8476,Jan Saugmann,Morten Ramsbeck,,,,,,,,54.4,4
-SUI,8569,Rene Betschen,Phillippe Jacot,,,,,,,,74.7,5
+FRA,8402,Philippe Boite,Jean-Luc Muzellec,,,,,,,,"23,4",3
+DEN,8476,Jan Saugmann,Morten Ramsbeck,,,,,,,,"54,4",4
+SUI,8569,Rene Betschen,Phillippe Jacot,,,,,,,,"74,7",5
 GBR,8624,Ian Pinnell,Ian Godfrey,,,,,,,,78,6
-GER,0,Ronald Roos,Gerd Linnemann,SVWu,,,,,,,79,7
-GER,0,Tom Gosch,Rolf Meyer,,,,,,,,83,8
-SUI,0,J. Francois De Cergeat,Hollinger,,,,,,,,83.7,9
-DEN,8405,Klaus Natorp,Erik Ørsted,,,,,,,,85.4,10
-GER,0,Stefan Böhm,Gerald Roos,SCV,,,,,,,89,11
-GER,0,Hans-Heinrich Rix,Insa Oldigs,RSVW,,,,,,,90,12
-DEN,0,Tom Bojland,Anders Friss,,,,,,,,92.7,13
-FRA,0,Fransic Doerenbecher,Doerenbecher,,,,,,,,96.7,14
-GER,0,Gunther Peters,Hauke Drengenberg,EnSFr,,,,,,,99,15
-GER,0,Ernst Meyer,Uwe Lätsch,SpYC,,,,,,,104,16
-FRA,0,Eric Petit,Richard Lefevre,FRA,,,,,,,109,17
+GER,8649,Ronald Roos,Gerd Linnemann,SVWu,,,,,,,79,7
+GER,8575,Tom Gosch,Rolf Meyer,,,,,,,,83,8
+SUI,8016,Jean-Francois de Cerjat,L. Hollinger,,,,,,,,"83,7",9
+DEN,8405,Klaus Natorp,Erik Ørsted,,,,,,,,"85,4",10
+GER,8623,Stefan Böhm,Gerald Roos,SCV,,,,,,,89,11
+GER,8570,Hans-Heinrich Rix,Insa Oldigs,RSVW,,,,,,,90,12
+DEN,8622,Tom Bojland,Anders Friss,,,,,,,,"92,7",13
+FRA,8541,Francis Doerenbecher,Aubin Doerenbecher,,,,,,,,"96,7",14
+GER,8608,Günter Peters,Hauke Drengenberg,EnSFr,,,,,,,99,15
+GER,8580,Ernst Meyer,Uwe Lätsch,SpYC,,,,,,,104,16
+FRA,8382,Eric Petit,Richard Lefevre,FRA,,,,,,,109,17
 SUI,8543,Cedric Bart,Jean-Philippe Senn,SUI,,,,,,,114,18
-SUI,0,Caroline Stolz,Ueli Marti,SUI,,,,,,,122.7,19
-GER,0,Heinz Balters,Oliver Tessloff,WSCW,,,,,,,131,20
+SUI,8459,Caroline Stolz,Ueli Marti,SUI,,,,,,,"122,7",19
+GER,8563,Heinz Balters,Oliver Tessloff,WSCW,,,,,,,131,20
 GBR,8592,Paul Lovesy,Andrew Williams,GBR,,,,,,,,21
-GER,0,Sebastian Dörr,Wolfi Stückl,TSVM,,,,,,,,22
-GER,0,Christian Kellner,Andreas Achterberg,HSC,,,,,,,,23
-BEL,0,Paul Corremans,Frede Roucayrol,BEL,,,,,,,,24
-GER,0,Jörg Thumann,Franco Weichel,TuSY,,,,,,,,25
-FRA,0,Gilbert Vinches,Fabrice Toupet,FRA,,,,,,,,26
-FRA,0,Herve Druart,Thomas Boudier,FRA,,,,,,,,27
-GER,0,Martin Seikel,Norbert Becker,YCRM,,,,,,,,28
-SUI,0,Markus Bohren,Rogher Fischer,SUI,,,,,,,,29
-FRA,0,Marcel Buffet,Damien Trouillet,FRA,,,,,,,,30
-GBR,0,Simon Ralston,Simon Spartt,GBR,,,,,,,,31
-GBR,0,Martin Goult,Gordon Russell,GBR,,,,,,,,32
- ,0,Tom Swift,Micky Todd, ,,,,,,,,33
-SUI,0,Frederic Duvoisin,Francois Moechli,SUI,,,,,,,,34
-GER,0,Thore Michels,Andreas Schmidt,ZSK,,,,,,,,35
- ,0,Stefan Schollmayer,Francesco Sanguino, ,,,,,,,,36
-SUI,0,Simone Zund,Michel Rotach,SUI,,,,,,,,37
-GER,0,Jörg Detmold,Holger Neuhaus,SCH,,,,,,,,38
+GER,8633,Sebastian Dörr,Wolfi Stückl,TSVM,,,,,,,,22
+GER,8388,Christian Kellner,Andreas Achterberg,HSC,,,,,,,,23
+BEL,8553,Paul Gorremans,Frede Roucayrol,BEL,,,,,,,,24
+GER,8634,Jörg Thumann,Franco Weichel,TuSY,,,,,,,,25
+FRA,8372,Gilbert Vinches,Fabrice Toupet,FRA,,,,,,,,26
+FRA,8431,Herve Druart,Thomas Boudier,FRA,,,,,,,,27
+GER,8392,Martin Seikel,Norbert Becker,YCRM,,,,,,,,28
+SUI,8441,Markus Bohren,Rogher Fischer,SUI,,,,,,,,29
+FRA,8455,Marcel Buffet,Damien Trouillet,FRA,,,,,,,,30
+GBR,8640,Vernon Ralston,Simon Spratt,GBR,,,,,,,,31
+GBR,8460,Martin Goult,Gordon Russell,GBR,,,,,,,,32
+GER,8542,Tom Swift,Micky Todd, ,,,,,,,,33
+SUI,8586,Frederic Duvoisin,Francois Moechli,SUI,,,,,,,,34
+GER,8054,Thore Michels,Andreas Schmidt,ZSK,,,,,,,,35
+GER,8642,Stefan Schollmayer,Francesco Sanguino, ,,,,,,,,36
+SUI,8486,Simone Zund,Michel Rotach,SUI,,,,,,,,37
+GER,8567,Jörg Detmold,Holger Neuhaus,SCH,,,,,,,,38
 SUI,8440,Urs Scherrer,Peter Schmidle,SUI,,,,,,,,39
 SUI,8346,Jürg Weber,Philip Grob,SUI,,,,,,,,40
-GER,0,Nicolai Völckner,Lars Dehne,SVHB,,,,,,,,41
-GER,0,Falko Braun,Andreas Linhart,SCR,,,,,,,,42
-GER,0,Hans Nöldecke,Kai Löblein,SVE,,,,,,,,43
-GBR,0,Robert Larke,Neil Fulcher,GBR,,,,,,,,44
-FRA,0,Pierre Muh,Dominique Keraudren,FRA,,,,,,,,45
-GER,0,Markus Mühlbauer,Angela Stenger,DTYC,,,,,,,,46
-FRA,0,Guy De Restrepo,De Restrepo,FRA,,,,,,,,47
- ,0,Jörg Häger,Chris Hartkopf, ,,,,,,,,48
-GER,0,Carsten Engel,Tobias Neumeyer,PSVK,,,,,,,,49
-GER,0,Siegfried Labenz,Christian Labenz,SVWu,,,,,,,,50
-FRA,0,Jaques Bochu,Cristophe Bochu,FRA,,,,,,,,51
-GER,0,Detlef Ihmels,Barbara Wand,SVPb,,,,,,,,52
-FRA,0,Veronique Dousselin,Jean Peter,FRA,,,,,,,,53
-GER,0,Carsten Hammer,Karsten Hitz,TSVS,,,,,,,,54
-FRA,0,Dominique Rouanne,Jean Blache,FRA,,,,,,,,55
-GBR,0,Martin Wedge,Simon Lake,GBR,,,,,,,,56
- ,0,Norbert Dasenbrook,Sven Meier, ,,,,,,,,57
-GER,0,Jürgen Hatje,Holger Buhl,SYC,,,,,,,,58
-GER,0,David Thiemann,Mathias Haase,YCO,,,,,,,,59
-,0,,,,,,,,,,,60
-,0,,,,,,,,,,,61
-,0,,,,,,,,,,,62
-,0,,,,,,,,,,,63
-,0,,,,,,,,,,,64
-,0,,,,,,,,,,,65
-,0,,,,,,,,,,,66
-GER,0,Ditmar Kreutzmann,Arnd Howar,,,,,,,,,67
-SUI,0,Christian Mosli,Michi Osann,,,,,,,,,68
-GER,0,Felix Ordemann,Nora Schiessler,,,,,,,,,69
-,0,,,,,,,,,,,70
-,0,,,,,,,,,,,71
-,0,,,,,,,,,,,72
-,0,,,,,,,,,,,73
-,0,,,,,,,,,,,74
-GER,0,Volker Görge,Marlies Endjer,DYC,,,,,,,,75
-,0,,,,,,,,,,,76
-GER,0,Dirk Frank,Helge Weiler,SCS,,,,,,,,77
-GER,0,Oliver Kraft,Frank Heimburger,SSCM,,,,,,,,78
-,0,,,,,,,,,,,79
-,0,,,,,,,,,,,80
-,0,,,,,,,,,,,81
-,0,,,,,,,,,,,82
-,0,,,,,,,,,,,83
-,0,,,,,,,,,,,84
+GER,8517,Nicolai Völckner,Lars Dehne,SVHB,,,,,,,,41
+GER,8528,Falko Braun,Andreas Linhart,SCR,,,,,,,,42
+GER,8472,Hans Nöldecke,Kai Löblein,SVE,,,,,,,,43
+GBR,8600,Robert Larke,Neil Fulcher,GBR,,,,,,,,44
+FRA,8509,Pierre Muh,Dominique Keraudren,FRA,,,,,,,,45
+GER,8579,Markus Mühlbauer,Angela Stenger,DTYC,,,,,,,,46
+FRA,7940,Guy De Restrepo,Eric De Restrepo,FRA,,,,,,,,47
+GER,8500,Jörg Häger,Chris Hartkopf, ,,,,,,,,48
+GER,8469,Carsten Engel,Tobias Neumeyer,PSVK,,,,,,,,49
+GER,8373,Siegfried Labenz,Christian Labenz,SVWu,,,,,,,,50
+FRA,8348,Jacques Bochu,Christophe Bochu,FRA,,,,,,,,51
+GER,8582,Detlef Ihmels,Barbara Wand,SVPb,,,,,,,,52
+FRA,7941,Veronique Dousselin,Jean Peter,FRA,,,,,,,,53
+GER,8550,Carsten Hammer,Karsten Hitz,TSVS,,,,,,,,54
+FRA,8002,Dominique Rouanne,Jean Blache,FRA,,,,,,,,55
+GBR,8494,Martin Wedge,Simon Lake,GBR,,,,,,,,56
+GER,8470,Norbert Dasenbrook,Sven Meier, ,,,,,,,,57
+GER,8531,Jürgen Hatje,Holger Buhl,SYC,,,,,,,,58
+GER,8630,David Thiemann,Mathias Haase,YCO,,,,,,,,59
+SUI,8426,Marcel Pluss,,,,,,,,,,60
+FRA,8046,Jean-Philippe Chartier,,,,,,,,,,61
+FRA,8447,Jean-Guy Puissant,,,,,,,,,,62
+FRA,8140,Michel Leveque,,,,,,,,,,63
+FRA,5295,Phillipe le Norment,,,,,,,,,,64
+FRA,8037,Jean-Pierre le Roux,,,,,,,,,,65
+FRA,8363,Olivier Thiberge,,,,,,,,,,66
+GER,8052,Ditmar Kreutzmann,Arnd Howar,,,,,,,,,67
+SUI,8003,Christian Mösli,Michi Osann,,,,,,,,,68
+GER,8229,Felix Ordemann,Nora Schiessler,,,,,,,,,69
+FRA,8353,Robert Fossard,,,,,,,,,,70
+FRA,8090,Loic Bleuez,,,,,,,,,,71
+FRA,8484,Robert Lehmann,,,,,,,,,,72
+SUI,8196,Florent Chapatte,,,,,,,,,,73
+FRA,8007,Yann Brotschi,,,,,,,,,,74
+GER,8478,Volker Görge,Marlies Endjer,DYC,,,,,,,,75
+FRA,6593,Philippe Blanchard,,,,,,,,,,76
+FRA,8461,Patrice Feuerstein,,,,,,,,,,77
+GER,8461,Dirk Frank,Helge Weiler,SCS,,,,,,,,78
+GER,7778,Oliver Kraft,Frank Heimburger,SSCM,,,,,,,,79
+FRA,8157,Bernard Dugrip,,,,,,,,,,80
+FRA,4664,Denis David,,,,,,,,,,81
+FRA,8337,Michel Vanderstraeten,,,,,,,,,,82
+FRA,2105,Pierre Azalbert,,,,,,,,,,83

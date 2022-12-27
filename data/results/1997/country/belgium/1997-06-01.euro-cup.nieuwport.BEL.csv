@@ -1,24 +1,32 @@
-Nation,Boat NO,Steuermann/-frau,Vorschoter/-in,Club,,,Platz
-FRA,8402,Bolte Philippe,,,,,1
-GER,8623,Stefan Böhm,Gerald Roos,SCV,,,2
--,-,,,,,,3
--,-,,,,,,4
-GBR,8624,Pinell Ian,,,,,5
-GER,8388,Christian Kellner,Andreas Achterberg,HSC,,,6
-GER,8665,Nicolai Völckner,Lars Dehne,SVHB,,,7
-GER,8392,Martin Seikel,Norbert Becker,YCRM,,,8
-GER,8279,Jörg Thumann,Franco Weichel,TuSY,,,9
-SWE,8593,Baecksin Johan,,,,,10
-GER,,Stefan Schollmayer,Francesco Sanguino,SCMSP,,,11
--,-,,,,,,12
--,-,,,,,,13
-GER,8054,Thore Michels,Andreas Schmidt,ZSK,,,14
-GBR,8511,Boardman Robin,,,,,15
-GER,,Jörg Detmold,Holger Neuhaus,SCH,,,16
--,-,,,,,,17
--,-,,,,,,18
-GER,8075,Falko Braun,Peter Hobusch,SCR,,,19
-GER,8609,Christian Müllejans,Andre Müller,SVWu,,,20
--,-,,,,,,21
-GER,,Markus Mühlbauer,Angela Stenger,DTYC,,,22
-GER,,R. Barthel,U. Barthel, ,,,23
+Nation,Boat NO,Helm,Crew,Club,,,,Platz
+GBR,8552,Mark Upton-Brown,Ian Mitchell,,,,,1
+GER,8623,Stefan Böhm,Gerald Roos,SCV,,,,2
+GBR,8592,Paul Lovesy,,,,,,3
+DEN,8330,Lars Espersen,Søren Rohde,,,,,4
+FRA,8402,Boite Philippe,,,,,,5
+GBR,8624,Scutcher Terry,,,,,,6
+GER,8388,Christian Kellner,Andreas Achterberg,HSC,,,,7
+GER,8665,Nicolai Völckner,Lars Dehne,SVHB,,,,8
+GER,8392,Martin Seikel,Norbert Becker,YCRM,,,,9
+GER,8634,Jörg Thumann,Franco Weichel,TuSY,,,,10
+BEL,8536,Bart Meynendonckx,,,,,,11
+GER,8642,Stefan Schollmayer,Francesco Sanguino,SCMSP,,,,12
+FRA,8455,Marcel Buffet,,,,,,13
+BEL,8463,Emiel Van Hemeldonck,,,,,,14
+GER,8054,Thore Michels,Andreas Schmidt,ZSK,,,,15
+BEL,8553,Paul Gorremans,,,,,,16
+GER,8567,Jörg Detmold,Holger Neuhaus,SCH,,,,17
+GBR,8532,Jim Berry,,,,,,18
+FRA,8372,Gilbert Vinches,,,,,,19
+GER,8528,Falko Braun,Peter Hobusch,SCR,,,,20
+GER,8608,Christian Müllejans,Andre Müller,SVWu,,,,21
+FRA,8352,Philippe Noclain,,,,,,22
+GER,8579,Markus Mühlbauer,Angela Stenger,DTYC,,,,23
+GER,8668,Rainer Barthel,Uwe Barthel,, ,,,24
+FRA,8363,Olivier Thiberge,,,,,,25
+BEL,8106,Benoît Raucent,,,,,,26
+BEL,7984,Eric,,,,,,27
+GBR,8460,Martin Goult,,,,,,28
+FRA,8367, F. Croibet,,,,,,29
+BEL,8488, F. Beddegenoots,,,,,,30
+BEL,7878, T. De Wolf,,,,,,31
