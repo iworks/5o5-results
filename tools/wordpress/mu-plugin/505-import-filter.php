@@ -7465,6 +7465,7 @@ class iworks_5o5_upload_fixer {
 		'Werner Ivonne'               => 'Ivonne Werner',
 		'West Lewis'                  => 'Ian West-Lewis',
 		'Westerlund Joakim'           => 'Joakim Westerlund',
+		'Westholm Mats'               => 'Mats Westholm',
 		'White Jez'                   => 'Jez White',
 		'Wi Pevear'                   => 'William Pevear',
 		'Wichtrup Peter'              => 'Peter Wichtrup',
