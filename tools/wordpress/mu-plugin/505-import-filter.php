@@ -5878,7 +5878,7 @@ class iworks_5o5_upload_fixer {
 		'L Porcher'                   => 'Lauren Porcher',
 		'L. Samson'                   => 'Louis Samson',
 		'La Duquesne'                 => 'Laurent Duquesne',
-		'Labenz Chris'                => 'Chris Labenz',
+		'Labenz Chris'                => 'Christian Labenz',
 		'Labenz Christian'            => 'Christian Labenz',
 		'Labenz Siegfried'            => 'Siegfried Labenz',
 		'Laetsch Uwe'                 => 'Uwe Lätzsch',
