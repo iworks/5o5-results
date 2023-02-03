@@ -1,28 +1,28 @@
 boat,Helm,Crew,,R,R1,R2,R3,R4,R5,R6,N,place
-GER 8988,Jens Olbrysch,Oliver Thies,HSC,16,2,2,2,2,(6),2,10,1
-DEN 9062,Stefan Köchlin,Andreas Achterberg,SVS,22,3,1,1,(11),2,4,11,2
-GER 8720,Lennart Tasche,Frederik Tasche,WSVG 09,20,5,4,3,1,1,(6),14,3
-GER 9040,Norbert Dasenbrook,Sven Meier,KSW,32,6,(11),6,5,3,1,21,4
-GER 9111,Andreas Jungclaus,Thomas Tschentscher,HSC,31,4,3,5,(9),7,3,22,5
-GER 87,Jürgen Anton,Ulf Denecke,HSC,39,1,6,8,8,5,(11),28,6
+GER 8988,Jens Olbrysch,Oliver Thies,HSC,16,2,2,2,2,-6,2,10,1
+DEN 9062,Stefan Köchlin,Andreas Achterberg,SVS,22,3,1,1,-11,2,4,11,2
+GER 8720,Lennart Tasche,Frederik Tasche,WSVG 09,20,5,4,3,1,1,-6,14,3
+GER 9040,Norbert Dasenbrook,Sven Meier,KSW,32,6,-11,6,5,3,1,21,4
+GER 9111,Andreas Jungclaus,Thomas Tschentscher,HSC,31,4,3,5,-9,7,3,22,5
+GER 87,Jürgen Anton,Ulf Denecke,HSC,39,1,6,8,8,5,-11,28,6
 GER 8519,Thure Gnadeberg,Aron Tellen,BSV,62,11,(28) OCS,4,3,11,5,34,7
-GER 8947,Ralf Schneidewind,Oliver Schürmann,SLRV,53,9,7,9,4,(15),9,38,8
-GER 8825,Michael Troch,Birgit Hartmann,SGJ,55,(14),9,7,13,4,8,41,9
-RSA 8719,Alexander Ham,John Smith,,56,10,10,(13),6,10,7,43,10
-GER 9102,Walter Steding,Hans-Werner Steding,HSC,60,7,(12),10,12,9,10,48,11
-GER 8874,Henning Steffen,Tilman Giesen,SLRV,66,8,5,(16),10,13,14,50,12
+GER 8947,Ralf Schneidewind,Oliver Schürmann,SLRV,53,9,7,9,4,-15,9,38,8
+GER 8825,Michael Troch,Birgit Hartmann,SGJ,55,-14,9,7,13,4,8,41,9
+RSA 8719,Alexander Ham,John Smith,,56,10,10,-13,6,10,7,43,10
+GER 9102,Walter Steding,Hans-Werner Steding,HSC,60,7,-12,10,12,9,10,48,11
+GER 8874,Henning Steffen,Tilman Giesen,SLRV,66,8,5,-16,10,13,14,50,12
 GER 8480,Marc Köster,Kai Homes,BSV-AT,82,13,8,12,(28) OCS,8,13,54,13
-DEN 8828,Fabiola Wonterghem,Michael Wonterghem,Sorø Sejlforening,74,(16),14,11,7,14,12,58,14
-GER 8500,Katharina Menge,Jens Kuehne,,97,17,13,14,15,(23),15,74,15
-GER 8730,Iris Anton,Bruno Laudage,HSC,103,12,15,20,17,(22),17,81,16
-GER 8656,Carsten Hehl,Christian Buehring-Uhle,NRV,109,(21),21,19,18,12,18,88,17
-GER 8550,Martha Hauschild,Alena Wilkins,SCS,114,(24),23,18,14,19,16,90,18
-GBR 8694,Frank Beier,Mike Langefeld,SCLM,110,(20),20,17,16,18,19,90,19
-GER 8463,Friedrich Schropsdorff,Florian Rheinheimer,VSAW,114,15,19,21,21,16,(22),92,20
-GER 8317,Christina Burger,Sebastian Munck,ZSK,115,22,18,15,(23),17,20,92,21
-GER 8495,Iris Ruhnau,Hein Peters,SGJ,132,18,16,(27),25,25,21,105,22
-GER 9000,Enno Wilts,Armin Splissteaser,,132,19,24,(26),19,21,23,106,23
-GER 8999,Karsten Stümpel,Ole Stümpel,HSC,139,23,17,22,24,(27),26,112,24
-GER 8570,Helmut Bruns,Dirk Lübbers,,141,25,(26),25,20,20,25,115,25
-GER 8392,Dirk Barteldt,Georg Mittermayer,,141,(26),22,23,22,24,24,115,26
-GER 7764,Meike Hermanns,Rainer Gieseler,,155,(27),25,24,26,26,27,128,27
+DEN 8828,Fabiola Wonterghem,Michael Wonterghem,Sorø Sejlforening,74,-16,14,11,7,14,12,58,14
+GER 8500,Katharina Menge,Jens Kuehne,,97,17,13,14,15,-23,15,74,15
+GER 8730,Iris Anton,Bruno Laudage,HSC,103,12,15,20,17,-22,17,81,16
+GER 8656,Carsten Hehl,Christian Buehring-Uhle,NRV,109,-21,21,19,18,12,18,88,17
+GER 8550,Martha Hauschild,Alena Wilkins,SCS,114,-24,23,18,14,19,16,90,18
+GBR 8694,Frank Beier,Mike Langefeld,SCLM,110,-20,20,17,16,18,19,90,19
+GER 8463,Friedrich Schropsdorff,Florian Rheinheimer,VSAW,114,15,19,21,21,16,-22,92,20
+GER 8317,Christina Burger,Sebastian Munck,ZSK,115,22,18,15,-23,17,20,92,21
+GER 8495,Iris Ruhnau,Hein Peters,SGJ,132,18,16,-27,25,25,21,105,22
+GER 9000,Enno Wilts,Armin Splissteaser,,132,19,24,-26,19,21,23,106,23
+GER 8999,Karsten Stümpel,Ute Stümpel,HSC,139,23,17,22,24,-27,26,112,24
+GER 8570,Helmut Bruns,Dirk Lübbers,,141,25,-26,25,20,20,25,115,25
+GER 8392,Dirk Barteldt,Georg Mittermayer,,141,-26,22,23,22,24,24,115,26
+GER 7764,Meike Hermanns,Rainer Gieseler,,155,-27,25,24,26,26,27,128,27
