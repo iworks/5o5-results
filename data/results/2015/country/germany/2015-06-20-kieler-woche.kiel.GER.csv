@@ -1,40 +1,40 @@
 Nr,Nr Na Żaglu,Team,Klub,R1,R2,R3,R4,R5,R6,R7,R8,R9,R10,R,N,
-GER 9152,Meike Schomäker,Holger Jess,ZSK,2,(21),1,4,3,(9),4,3,4,1,52,22,1
-GER 9071,Wolfgang Dr Hunger,Julien Kleiner,PYC,1,3,5,(7),4,(17),6,1,2,2,48,24,2
-DEN 9121,Jørgen Bojsen-Møller,Jacob Bojsen-Møller,Hellerup,(7),5,(8),5,1,6,1,5,3,3,44,29,3
-GER 9112,Morten Bogacki,Lars Dehne,DYC,(8),2,7,2,6,(21),3,4,8,7,68,39,4
-GBR 9088,Andy Smith,Tim Needham,Ncsc,(12),9,4,8,2,12,2,2,1,(40) DNF,92,40,5
-DEN 9118,Jan Saugmann,Jakob Karbo,Hellerup,10,1,2,1,(16),7,10,(18),9,10,84,50,6
-GER 9110,Tim Böger,Markus Schöner,HSC,6,7,(32),16,(23),14,9,9 DPI,6 DPI,7 DPI,129,74,7
-GER 9146,Jens Findel,Johannes Tellen,KYC,5,(30),20,9,9,(32),11,6,11,4,137,75,8
-GER 9127,Ulf Pleßmann,Hans-Heinrich Rix,AYC,4,14,12,6,(20),13,(17),10 DPI,11 DPI,6 DPI,113,76,9
-GER 9135,Stefan Böhm,Gerald Roos,SCV,(17),(16),6,14,8,4,15,7,7,15,109,76,10
-FRA 9075,Philippe Boite,Florian Corbel,CVSQ,9,10,14,3,12,(18),8,10,(16),13,113,79,11
-GER 9149,Paul Meyer,Rolf Meyer,SCED,11,13,(18),17,11,1,5,(22),14,8,120,80,12
-GER 8929,Kai Bertallot,Nils-Henning Hofmann,FSC,3,(26),9,11,5,(35),21,12,17,12,151,90,13
-GER 9062,Jens Olbrysch,Oliver Thies,HSC,14,(35),17,10,14,(23),12,14,6,9,154,96,14
-GER 8720,Lennart Tasche,Frederik Tasche,WSVG 09,(28),6,3,26,(40) DNF,16,7,15,13,16,170,102,15
-GBR 9117,Thomas Gillard,Andy Couch,SVSC,13,(24),15,24,24,10,13,11,12,(40) DNC,186,122,16
-GER 8975,Alexander Holzapfel,Michael Freitag,PSVK,18,(23),19,12,13,2,(24),18 DPI,19 DPI,23 DPI,171,124,17
-GER 9101,Stefan Giesler,Frank Böhm,VSAW,(35),4,(26),19,15,19,19,20,26,11,194,133,18
-GER 8669,Reiner Brockerhoff,Felix Brockerhoff,DUYC,(26),(31),22,22,18,5,22,19,19,14,198,141,19
-SWE 8912,Tom Hastenpflug,Toni Hastenpflug,SSÅV,22,19,(27),15,(25),3,18,25,25,20,199,147,20
-GER 9040,Norbert Dasenbrook,Sven Meier,SKBUe,19,(28),10,21,21,20,16,24 DPI,16 DPI,(25) DPI,200,147,21
-GER 8958,Nicholas Melzwig,Axel Priegann,LRV,(32),17,(37),23,10,15,26,21,20,23,224,155,22
+GER 9152,Meike Schomäker,Holger Jess,ZSK,2,-21,1,4,3,-9,4,3,4,1,52,22,1
+GER 9071,Wolfgang Dr Hunger,Julien Kleiner,PYC,1,3,5,-7,4,-17,6,1,2,2,48,24,2
+DEN 9121,Jørgen Bojsen-Møller,Jacob Bojsen-Møller,Hellerup,-7,5,-8,5,1,6,1,5,3,3,44,29,3
+GER 9112,Morten Bogacki,Lars Dehne,DYC,-8,2,7,2,6,-21,3,4,8,7,68,39,4
+GBR 9088,Andy Smith,Tim Needham,Ncsc,-12,9,4,8,2,12,2,2,1,(40) DNF,92,40,5
+DEN 9118,Jan Saugmann,Jakob Karbo,Hellerup,10,1,2,1,-16,7,10,-18,9,10,84,50,6
+GER 9110,Tim Böger,Markus Schöner,HSC,6,7,-32,16,-23,14,9,9 DPI,6 DPI,7 DPI,129,74,7
+GER 9146,Jens Findel,Johannes Tellen,KYC,5,-30,20,9,9,-32,11,6,11,4,137,75,8
+GER 9127,Ulf Pleßmann,Hans-Heinrich Rix,AYC,4,14,12,6,-20,13,-17,10 DPI,11 DPI,6 DPI,113,76,9
+GER 9135,Stefan Böhm,Gerald Roos,SCV,-17,-16,6,14,8,4,15,7,7,15,109,76,10
+FRA 9075,Philippe Boite,Florian Corbel,CVSQ,9,10,14,3,12,-18,8,10,-16,13,113,79,11
+GER 9149,Paul Meyer,Rolf Meyer,SCED,11,13,-18,17,11,1,5,-22,14,8,120,80,12
+GER 8929,Kai Bertallot,Nils-Henning Hofmann,FSC,3,-26,9,11,5,-35,21,12,17,12,151,90,13
+GER 9062,Jens Olbrysch,Oliver Thies,HSC,14,-35,17,10,14,-23,12,14,6,9,154,96,14
+GER 8720,Lennart Tasche,Frederik Tasche,WSVG 09,-28,6,3,26,(40) DNF,16,7,15,13,16,170,102,15
+GBR 9117,Thomas Gillard,Andy Couch,SVSC,13,-24,15,24,24,10,13,11,12,(40) DNC,186,122,16
+GER 8975,Alexander Holzapfel,Michael Freitag,PSVK,18,-23,19,12,13,2,-24,18 DPI,19 DPI,23 DPI,171,124,17
+GER 9101,Stefan Giesler,Frank Böhm,VSAW,-35,4,-26,19,15,19,19,20,26,11,194,133,18
+GER 8669,Reiner Brockerhoff,Felix Brockerhoff,DUYC,-26,-31,22,22,18,5,22,19,19,14,198,141,19
+SWE 8912,Tom Hastenpflug,Toni Hastenpflug,SSÅV,22,19,-27,15,-25,3,18,25,25,20,199,147,20
+GER 9040,Norbert Dasenbrook,Sven Meier,SKBUe,19,-28,10,21,21,20,16,24 DPI,16 DPI,(25) DPI,200,147,21
+GER 8958,Nicholas Melzwig,Axel Priegann,LRV,-32,17,-37,23,10,15,26,21,20,23,224,155,22
 GER 9122,Benedikt Northoff,Kilian Northoff,BYC,16,11,13,13,22,24,20,(40) DNC,(40) DNC,40 DNC,239,159,23
-GER 9151,Walter Steding,Hans-Werner Steding,HSC,21,8,16,20,(30),22,(32),30,28,18,225,163,24
-AUS 9028,Earle Alexander,Paul Ridgway,Darling Point SS,20,20,21,(30),(29),11,25,24,24,21,225,166,25
-SUI 8569,René Betschen,Lionel Hollinger,CNB,31,(32),25,25,17,(34),23,13,21,17,238,172,26
-GER 8972,Timon Treichel,Morten Roos,DYC,(29),(34),23,28,19,28,14,16,23,28,242,179,27
-GER 8874,Henning Steffen,Tilman Giesen,SLRV,(40) DSQ,12,29,29,(33),8,29,27,22,25,254,181,28
-GER 8875,Torsten Simon,Alexander Neddermeier,SCA,23,22,31,27,(35),29,27,26,(35),19,274,204,29
-GER 8915,Davina Schlesiger,Marvin Schlesiger,MSC,24,15,(33),33,26,26,(34),28,27,26,272,205,30
-DEN 9128,Nikolaj Hoffmann Buhl,,Hellerup Sejlklub,15,29,11,(40) DSQ,7,31,(40) DNC,40 DNC,40 DNC,40 DNC,293,213,31
-SWE 9092,Knut Hastenpflug,Jana Hastenpflug,SSAV,30,18,28,(35),31,25,28,(36),33,29,293,222,32
+GER 9151,Walter Steding,Hans-Werner Steding,HSC,21,8,16,20,-30,22,-32,30,28,18,225,163,24
+AUS 9028,Earle Alexander,Paul Ridgway,Darling Point SS,20,20,21,-30,-29,11,25,24,24,21,225,166,25
+SUI 8569,René Betschen,Lionel Hollinger,CNB,31,-32,25,25,17,-34,23,13,21,17,238,172,26
+GER 8972,Timon Treichel,Morten Roos,DYC,-29,-34,23,28,19,28,14,16,23,28,242,179,27
+GER 8874,Henning Steffen,Tilman Giesen,SLRV,(40) DSQ,12,29,29,-33,8,29,27,22,25,254,181,28
+GER 8875,Torsten Simon,Alexander Neddermeier,SCA,23,22,31,27,-35,29,27,26,-35,19,274,204,29
+GER 8915,Davina Schlesiger,Marvin Schlesiger,MSC,24,15,-33,33,26,26,-34,28,27,26,272,205,30
+DEN 9128,Nikolaj Hoffmann Buhl,Henrik Buhl,Hellerup Sejlklub,15,29,11,(40) DSQ,7,31,(40) DNC,40 DNC,40 DNC,40 DNC,293,213,31
+SWE 9092,Knut Hastenpflug,Jana Hastenpflug,SSAV,30,18,28,-35,31,25,28,-36,33,29,293,222,32
 GER 9057,Johannes Ganzer,Florian Ganzer,SVH,25,25,30,18,(40) DNC,(40) DNC,38,32,29,27,304,224,33
-FRA 9086,Elisabeth Neidhart,David De Monteil,YCIF,27,(39),(38),31,28,37,35,33,30,31,329,252,34
-GER 9123,Martin Bernauer,Enno Wilts,OSG,33,(37),36,(38),36,27,31,32 DPI,32 DPI,31 DPI,333,258,35
+FRA 9086,Elisabeth Neidhart,David De Monteil,YCIF,27,-39,-38,31,28,37,35,33,30,31,329,252,34
+GER 9123,Martin Bernauer,Enno Wilts,OSG,33,-37,36,-38,36,27,31,32 DPI,32 DPI,31 DPI,333,258,35
 GER 8694,Frank Beier,Mauritz Heeg,SCLM,36,36,24,32,34,30,30,(40) DNF,(40) DNC,40 DNC,342,262,36
-GER 8988,Georg Mittermayer,Dirk Barteldt,SCLL,(38),(38),34,37,27,33,37,29,32,33,338,262,37
-GER 8932,Christian Henge,Katja Henge,WSCW,34,27,35,(36),(37),36,33,35,34,32,339,266,38
-GER 9139,Dirk Penno,Jonas Nissen,DTYC,37,33,(39),34,32,38,36,34,36,(40) DNC,359,280,39
+GER 8988,Georg Mittermayer,Dirk Barteldt,SCLL,-38,-38,34,37,27,33,37,29,32,33,338,262,37
+GER 8932,Christian Henge,Katja Henge,WSCW,34,27,35,-36,-37,36,33,35,34,32,339,266,38
+GER 9139,Dirk Penno,Jonas Nissen,DTYC,37,33,-39,34,32,38,36,34,36,(40) DNC,359,280,39
