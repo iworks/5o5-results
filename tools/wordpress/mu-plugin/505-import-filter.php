@@ -6897,6 +6897,7 @@ class iworks_5o5_upload_fixer {
 		'S. Sjöström'                 => 'Stefan Sjöström',
 		'Sabatier Alexandre'          => 'Alexandre Sabatier',
 		'Sabine Dechaffour'           => 'Sabine Dechauffour',
+		'Sabrina Bartlewski'          => 'Sabina Bartlewska',
 		'Salein Sebastian'            => 'Sebastian Salein',
 		'Salonen Antti'               => 'Antti Salonen',
 		'Salonen Anzzi'               => 'Antti Salonen',
