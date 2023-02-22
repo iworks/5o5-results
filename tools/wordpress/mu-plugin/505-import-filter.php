@@ -711,7 +711,7 @@ class iworks_5o5_upload_fixer {
 		),
 		array(
 			'T. Boger'         => 'Tim Böger',
-			'K. Stammerjohann' => 'K. Stammerjohann',
+			'K. Stammerjohann' => 'Klaus Stammerjohann',
 		),
 		array(
 			'Boeger' => 'Tim Böger',
@@ -5734,6 +5734,7 @@ class iworks_5o5_upload_fixer {
 		'K Kuhn'                      => 'Karl Kuhn',
 		'K. Leckenby'                 => 'Ken Leckenby',
 		'K. Pins'                     => 'Keith Pins',
+		'K. Stammerjohann'            => 'Klaus Stammerjohann',
 		'K Willems'                   => 'Koen Willems',
 		'Käcks Tino'                  => 'Tino Käcks',
 		'Kaempe Anders'               => 'Anders Kæmpe',
