@@ -25,18 +25,18 @@ USA,7874,Wondolleck,Gilmour,,42,[45],11,10,132,81,23
 AUS,8040,M Soulsby,Wayne Soulsby,,[44],44,10,11,133,83,24
 GBR,8023,Russell Peters,Bill Masterman,,[57],13,39,14,147,84,25
 GBR,8001,Spence,Ward,,[70],5,41,23,162,86,26
-DEN,8108,Jorgen Nielsen,Finn Jensen,,[49],15,36,19,141,88,27
+DEN,8108,Jørgen Holm,Finn Jensen,,[49],15,36,19,141,88,27
 USA,7776,Dickey,George Iverson,,2,38,35,[47],143,88,28
-AUS,8036,D Evans,L Evans,,14,18,42,[43],150,92,29
+AUS,8036,D Evans,Les Evans,,14,18,42,[43],150,92,29
 AUS,7982,Abbott,Craig Smith,,32,[52],20,22,141,92,30
 AUS,7828,Richard Gallimore,Jackson,,28,[41],29,20,142,95,31
 AUS,7479,Mark Robertshaw,David O’Dowd,,34,19,[58],25,160,96,32
-SUI,8101,Scherrer,Fischer,,29,43,8,[57],161,98,33
-AUS,8043,Remington,Tony Outteridge,,[62],48,21,12,167,99,34
+SUI,8101,Urs Scherrer,Roger Fischer,,29,43,8,[57],161,98,33
+AUS,8043,Paul Remington,Tony Outteridge,,[62],48,21,12,167,99,34
 AUS,7904,David Page,Quinlan,,21,36,25,[39],145,100,35
 DEN,8031,Christensen,Fedderse,,[51],29,24,29,157,100,36
 AUS,7739,Graham Engert,Stephen Ianna,,35,[58],32,16,165,101,37
-GBR,80,McLaren,G Edwards,,27,11,[57],46,165,102,38
+GBR,8080,John McLaren,Jack Edwards,,27,11,[57],46,165,102,38
 AUS,7985,Mark Engert,Spence,,26,23,[44],37,154,104,39
 USA,8015,Nelson,Fry,,[76],28,7,53,188,106,40
 DEN,8030,Petersen,Storm,,8,50,33,[91],206,109,41
@@ -49,20 +49,20 @@ DEN,8020,Molleby,Anders Kaempe,,[56],27,37,45,189,127,47
 SWE,7922,Ebbe Rosen,Lars Stugemo,MKS,38,33,[47],42,184,131,48
 GBR,8051,Peacock,Stewart,,37,30,[56],55,202,140,49
 SUI,8099,Oswald,Wiskemann,,46,39,40,[50],199,143,50
-AUS,7829,Dean Blatchford,Sullivan,,36,56,[61],36,213,146,51
+AUS,7829,Todd Blatchford,Sullivan,,36,56,[61],36,213,146,51
 GER,7860,Becker,Timon Böger,,[76],35,54,40,229,147,52
-SUI,8102,Rueger,Seitz,,[52],42,49,41,208,150,53
-AUS,7511,Gallagher,Blatchford,,[64],61,30,48,227,157,54
+SUI,8102,Stephan Rueger,Peter Seitz,,[52],42,49,41,208,150,53
+AUS,7511,Gallagher,Bruce Blatchford,,[64],61,30,48,227,157,54
 AUS,7903,Kim Williams,Bentley,,48,54,[59],38,223,158,55
 SUI,8097,Bonjour,Bertherat,,40,26,74,[91],255,158,55
 AUS,7983,John Greenlees,James,,[76],57,52,34,247,161,57
-SUI,8100,Zuppiger,Brun,,47,32,[80],64,243,161,57
+SUI,8100,Josef Zuppiger,Daniel Brun,,47,32,[80],64,243,161,57
 FRA,7872,Fischer,Serane,,45,[69],69,30,237,162,59
 AUS,7938,Neil Long,Delaney,,[69],49,48,54,244,169,60
 GBR,8025,Clive Robinson,Malcolm Swallow,,31,60,62,[91],268,171,61
-AUS,7332,Taylor,Wilson,,50,[70],51,60,255,179,62
+AUS,7332,I. Taylor,Wilson,,50,[70],51,60,255,179,62
 FRA,8111,Gilbert Vinches,Ehrardt,,75,[79],34,52,264,179,62
-AUS,6374,A Murray,I Murray,,[76],53,50,59,253,180,64
+AUS,6374,A Murray,Iain Murray,,[76],53,50,59,253,180,64
 GBR,7744,Fells,Kyte,,51,62,[67],49,262,180,64
 AUS,7486,Garlick,Peter Jackson,,41,65,[91],58,279,182,66
 FRA,8104,Marcel Buffet,Bourdon,,33,[81],70,65,273,186,67
@@ -71,7 +71,7 @@ GER,7622,Carsten,Ralf,,63,59,65,[68],279,205,69
 AUS,7252,Gray,Lenton,,71,66,55,[72],288,210,70
 AUS,8038,Rod Badgery,Haskew,,[73],64,68,63,292,213,71
 FRA,8000,Pelissier,Ces,,76,[83],46,73,302,213,71
-AUS,7517,G. Holden,Hincks,,54,76,71,[78],303,219,73
+AUS,7517,G. Holden,Phil Hincks,,54,76,71,[78],303,219,73
 GER,8109,Bernd Kowalzig,Claus Tiedemann,,67,68,[91],67,317,220,74
 JPN,7003,Uzawa,Morimoto,,58,[82],64,81,309,221,75
 USA,7199,David Penfield,Anderson,,60,71,73,[91],319,222,76
@@ -81,7 +81,7 @@ GER,7893,Lenderoth,Ellerbeck,,72,72,[91],71,330,233,79
 JPN,7987,Miyamoto,Sato,,[76],74,72,69,315,233,79
 GER,7589,Kluck,Schmidt,,76,[87],75,66,328,235,81
 CAN,7959,Robin Brown,Per Jacobsen,,76,63,[91],79,333,236,82
-AUS,6376,Alexander,Hughes,,65,[77],77,77,320,237,83
+AUS,6376,Earle Alexander,Hughes,,65,[77],77,77,320,237,83
 USA,8012,Chris Woods,Berg,,66,80,[83],55,308,239,84
 SUI,8096,Muller,Huck,,75,78,[82],74,333,245,85
 JPN,8089,Hotta,Miyazawa,,76,[84],76,80,340,250,86
