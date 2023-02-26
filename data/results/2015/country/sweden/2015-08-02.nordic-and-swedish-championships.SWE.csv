@@ -1,0 +1,45 @@
+Nation,Sail no.,Helsman,Crew,Club,R1,R2,R3,R4,R5,R6,R7,Total,Nett,Rank
+DEN,9121,Jørgen Bojsen-Møller,Jacob Bojsen-Møller,Hellerup,2.0,1.0,5.0,(12.0),2.0,4.0,1.0,27.0,15.0,1st
+DEN,9118,Jan Saugmann,Jakob Karbo,Hellerup,3.0,2.0,1.0,3.0,1.0,(8.0),7.0,25.0,17.0,2nd
+GER,8669,Jan-Philipp Hofmann,Felix Brockerhoff,DYC and DUYC,1.0,8.0,3.0,(45.0 DSQ),5.0,1.0,3.0,66.0,21.0,3rd
+DEN,9128,Nikolaj Hoffmann Buhl,Henrik Buhl,Hellerup Sejlklub,7.0,3.0,2.0,5.0,6.0,(12.0),4.0,39.0,27.0,4th
+USA,9153,Howie Hamlin,Jon Bell,NHYC / ABYC,8.0,4.0,(10.0),2.0,10.0,5.0,2.0,41.0,31.0,5th
+SUI,9096,Cédric Bart,Laurent Grob,CNB/CVN,(10.0),5.0,6.0,8.0,3.0,10.0,5.0,47.0,37.0,6th
+GER,9110,Tim Böger,Finn Böger,HSC,4.0,6.0,4.0,11.0,7.0,7.0,(32.0),71.0,39.0,7th
+AUS,9134,Michael Quirk,Nathan Quirk,RPEYC,5.0,10.0,(13.0),4.0,9.0,3.0,9.0,53.0,40.0,8th
+GER,8929,Kai Bertallot,Jan Reifferscheidt,Flensburger Segel-Club,11.0,7.0,12.0,6.0,4.0,2.0,(18.0),60.0,42.0,9th
+GER,9112,Morten Bogacki,Lars Dehne,DYC/ZSK,(45.0 DNC),18.0,8.0,1.0,11.0,14.0,6.0,103.0,58.0,10th
+SWE,8926,Ebbe Rosen,Olle Wenrup,MKS,6.0,15.0,9.0,13.0,13.0,6.0,(19.0),81.0,62.0,11th
+SWE,8923,Lars Hultgren,Axel Hultgren,Råå Jolleklubb,16.0,14.0,7.0,18.0,8.0,(23.0),14.0,100.0,77.0,12th
+SWE,8586,Galen Mack,Wilhelm Johanisson,KSSS,18.0,16.0,14.0,9.0,14.0,(20.0),11.0,102.0,82.0,13th
+GER,8975,Alexander Holzapfel,Antoine Godet,Post-Sportverein Koblenz,(22.0),17.0,20.0,17.0,12.0,9.0,12.0,109.0,87.0,14th
+GER,9101,Stefan Giesler,Frank Böhm,VSAW,(45.0 DSQ),9.0,18.0,16.0,22.0,17.0,8.0,135.0,90.0,15th
+FIN,9069,Jari Hamström,Tuomas Laurila,KuoPs,14.0,12.0,(25.0),23.0,20.0,16.0,10.0,120.0,95.0,16th
+DEN,8828,Fabiola Wonterghem,Michael Wonterghem,Sorø Sejlforening,19.0,19.0,15.0,10.0,15.0,19.0,(30.0),127.0,97.0,17th
+SWE,8651,Peter Andersson,Per-Eric Thörnström,SS Viken-Ägir,15.0,11.0,16.0,(45.0 DNF),17.0,27.0,13.0,144.0,99.0,18th
+GER,8519,Thure Gnadeberg,Aron Tellen,Baltische Segler-Vereinigung,17.0,13.0,(27.0),15.0,16.0,18.0,20.0,126.0,99.0,19th
+SWE,8848,Marcus Haas,Johan Calvert,Björlanda Kile SS,13.0,(45.0 DSQ),11.0,21.0,18.0,26.0,16.0,150.0,105.0,20th
+DEN,8440,Martin Friderichsen,Mads Christiansen,AS,21.0,21.0,(24.0),7.0,21.0,24.0,15.0,133.0,109.0,21st
+AUS,9028,Earle Alexander,Adam Kenney,Darling Point SS,9.0,22.0,17.0,25.0,(27.0),13.0,24.0,137.0,110.0,22nd
+SWE,8666,Anders Dahlén,Magnus Nilsson,TBS,20.0,24.0,23.0,14.0,(30.0),15.0,27.0,153.0,123.0,23rd
+SWE,9092,Knut Hastenpflug,Toni Hastenpflug,SS Åmålsviken,12.0,23.0,29.0,19.0,25.0,22.0,(34.0),164.0,130.0,24th
+RSA,8725,Jonathan Ham,Warwick Ham,Pretoria Sailing Club,25.0,27.0,26.0,22.0,24.0,(37.0),21.0,182.0,145.0,25th
+SWE,8655,Kalle Nilsson,Christian Madsen,SS Kaparen,24.0,20.0,30.0,28.0,(35.0),11.0,33.0,181.0,146.0,26th
+GER,9141,Konrad Otto,Lietz Martin,Segelsportgemeinschaft Seeburg eV,31.0,34.0,(39.0),26.0,19.0,25.0,17.0,191.0,152.0,27th
+SWE,8581,Per-Anders Hallberg,Frank Bach,LjSS/SNN,27.0,31.0,(32.0),30.0,23.0,21.0,25.0,189.0,157.0,28th
+SWE,8835,Tomas Franzen,Lars Wester,RJK,29.0,25.0,31.0,20.0,28.0,29.0,(35.0),197.0,162.0,29th
+SWE,9038,Lars Bjerke,Tore Reinhold,BKSS,33.0,30.0,19.0,24.0,(34.0),31.0,29.0,200.0,166.0,30th
+GER,8915,Davina Schlesiger,Marvin Schlesiger,Mühlenberger Segel Club,30.0,26.0,28.0,35.0,26.0,(38.0),23.0,206.0,168.0,31st
+DEN,8472,Lotte Meldgaard Pedersen,Jens Vestergaard,Sorø Sejlforening,26.0,29.0,21.0,29.0,(38.0),28.0,37.0,208.0,170.0,32nd
+SWE,8412,David Lawenius,Albert Lawenius,BKSS,23.0,33.0,22.0,32.0,40.0,32.0,(41.0),223.0,182.0,33rd
+GER,8964,Iris Anton,Raik Wollenbecker,HSC Hamburg,34.0,32.0,(37.0),33.0,32.0,34.0,26.0,228.0,191.0,34th
+SWE,8873,Thomas Lundberg,Oskar Lundberg,S606K,32.0,38.0,36.0,(45.0 DNC),29.0,30.0,28.0,238.0,193.0,35th
+SWE,8917,Jesper Fowelin,Ton Törm,ÖLSS/KSSS,36.0,28.0,(41.0),37.0,37.0,35.0,22.0,236.0,195.0,36th
+GER,9144,Jürgen Anton,Arne Lanatowitz,HSC,28.0,36.0,34.0,31.0,33.0,33.0,(40.0),235.0,195.0,37th
+SWE,8585,Malin Vångfors,Daniel Lundahl,VäSS,37.0,37.0,(40.0),27.0,31.0,39.0,36.0,247.0,207.0,38th
+SWE,8257,Fredrik Molander,Tomas Jaxing,LDss/Bmss,35.0,35.0,35.0,(36.0),36.0,36.0,31.0,244.0,208.0,39th
+SWE,9107,Sven Flood,Katarina Engström,BKSS,(45.0 DSQ),45.0 DNC,33.0,34.0,41.0,41.0,39.0,278.0,233.0,40th
+DEN,9109,Hans Genefke,Finn Angelo,Hellerup,(45.0 DNC),40.0,38.0,38.0,39.0,43.0,43.0,286.0,241.0,41st
+SWE,8945,Caroline Lexén,Mattias Stenqvist,Baxvike SS,38.0,39.0,42.0,39.0,43.0,42.0,(44.0),287.0,243.0,42nd
+GBR,8867,Patrick McGale,Paul VonGrey,Queen Mary Sailing club,(45.0 DNC),45.0 DNC,45.0 DNC,45.0 DNC,42.0,40.0,38.0,300.0,255.0,43rd
+SWE,7343,Gustav Franzén,Andreas Karoliussen,Råå,39.0,(45.0 DNC),45.0 DNC,45.0 DNC,45.0 DNF,45.0 DNF,42.0,306.0,261.0,44th
