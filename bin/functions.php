@@ -15,7 +15,6 @@ if ( ! is_file( $root . '/etc/config.php' ) ) {
 }
 
 require $root . '/etc/config.php';
-
 require $wordpress_path . '/wp-load.php';
 require_once( ABSPATH . 'wp-admin/includes/image.php' );
 
@@ -41,7 +40,6 @@ $import_config = wp_parse_args(
 function show_debug() {
 	return false;
 }
-
 
 function get_person_by_name( $name ) {
 	global $persons, $person_post_type_name;
@@ -278,11 +276,11 @@ function int505_import_fix_year( $year, $pointer = 'begin' ) {
 	return sprintf( '%d-01-01', $year );
 }
 
-function int505_echo_dot( $counter, $type = 'success' ) {
-	if ( 0 === $counter % 10 ) {
+function int505_echo_dot( $counter, $type = 'success', $mode = 'simple' ) {
+	if ( 'detailed' === $mode && 0 === $counter % 10 ) {
 		echo ' ';
 	}
-	if ( 0 === $counter % 1000 ) {
+	if ( 'detailed' === $mode && 0 === $counter % 1000 ) {
 		echo PHP_EOL,'------------------',PHP_EOL;
 	}
 	switch ( $type ) {
