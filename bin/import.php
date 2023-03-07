@@ -328,12 +328,15 @@ if ( $import_registry && ( $handle = fopen( $data_root . '/' . $import_config['b
 					case 'Krywood':
 						$iworks_fleet_hull_manufacturer = 'Kyrwood';
 						break;
+					case 'Fisher':
+					case 'Bob Fischer':
+						$iworks_fleet_hull_manufacturer = 'Fisher';
+						break;
 					case 'Sydney mould':
 					case 'N.S.W. mould':
 					case 'Winwood':
 					case 'Davies':
 					case 'Glenn Dennis':
-					case 'self-made (Barclay)':
 					case 'Morin':
 					case 'Bara':
 					case 'R. Haselgrove':
@@ -344,14 +347,13 @@ if ( $import_registry && ( $handle = fopen( $data_root . '/' . $import_config['b
 					case 'Mayberry':
 					case 'Nectec Racing Boats':
 					case 'Ziegelmayer':
-					case 'Fisher':
-					case 'Bob Fischer':
 					case 'Ovi/Paris Voile':
 						$iworks_fleet_hull_manufacturer = 'home built';
 						$post['post_content']          .= sprintf( '<p>builder: %s</p>', $iworks_fleet_hull_manufacturer );
 						break;
 					case 'Barklay':
 					case 'Barclay / Winwood':
+					case 'self-made (Barclay)':
 						$iworks_fleet_hull_manufacturer = 'Barclay';
 						break;
 					case 'Clark (Seattle)':
