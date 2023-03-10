@@ -6171,6 +6171,7 @@ class iworks_5o5_upload_fixer {
 		'Mattias Stenqvistt'          => 'Mattias Stenqvist',
 		'Mattihieu Guibbal'           => 'Matthieu Guibbal',
 		'Maupay Jerome'               => 'Jerome Maupay',
+		'Max Weiß'                    => 'Maximilian Weiß',
 		'Maxi Kempermann'             => 'Maximiliane Kempermann',
 		'Maxi Mayrshofer'             => 'Maximilian Mayrshofer',
 		'Maxi. Mayrshofer'            => 'Maximilian Mayrshofer',
