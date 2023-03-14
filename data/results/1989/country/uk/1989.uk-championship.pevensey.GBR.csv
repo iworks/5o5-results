@@ -1,11 +1,11 @@
 Nation,Boat NO,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Total,Position 
-DEN,8030,B. Petersen,S. Storm,s,3,6,0.75,12,3,0.75,13.5,1
-GBR,8050,Peter Colclough,Phil Brown,,2,2,2,4,5,4,14,2
-GBR,8159,C. Robinson,K. Richardson,,0.75,4,15,5,2,8,20,3
+DEN,8030,B. Petersen,S. Storm,s,3,6,"0,75",12,3,"0,75","13,5",1
+GBR,8050,Peter Colclough,Philip Brown,,2,2,2,4,5,4,14,2
+GBR,8159,C. Robinson,K. Richardson,,"0,75",4,15,5,2,8,20,3
 GBR,7852,C. Haworth,N. Appleton,,17,5,3,2,8,3,21,4
-GBR,8240,I. Barker,M. Flint,,5,7,5,0.75,7,5,22,5
-GBR,8167,G. Bailey,B. Masterman,,11,8,7,8,0.75,2,26,6
-GBR,8249,N. Buckley,T. Hancock,,4,0.75,10,7,10,10,32,7
+GBR,8240,I. Barker,M. Flint,,5,7,5,"0,75",7,5,22,5
+GBR,8167,G. Bailey,B. Masterman,,11,8,7,8,"0,75",2,26,6
+GBR,8249,N. Buckley,T. Hancock,,4,"0,75",10,7,10,10,32,7
 GBR,8001,M. Spence,A. R. B. Gray,,14,10,6,6,11,9,42,8
 GBR,8209,I. A. Fryett,G. N. Fryett,,10,3,21,14,6,11,44,9
 DEN,8144,L. Bojvad,J. Feddersen,,16,16,4,9,9,7,45,10

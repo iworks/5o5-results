@@ -1,31 +1,31 @@
 Nation,Boat,Helmsman,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Pts.,Pos
-GBR,6589,Peter Colclough,Phil Brown,,15,2,1,5,3,18.7,1
-DEN,6208,Jørgen Bojsen-Møller,Jacob Bojsen-Møller,,26,3,2,1,8,22.7,2
-AUS,6213,Terry Kyrwood,Reg Crick,,3,1,19,11,4,30.7,3
-USA,6292,Steve Taylor,David Penfield,,9,,3,7,1,33.7,4
-USA,6540,Jim Warfield,John Gilmour,,1,12,6,8,5,35.7,5
-GBR,6673,Edward Wardern-Owen,Andy Gray,,4,9,7,6,2,35.7,6
+GBR,6589,Peter Colclough,Phil Brown,,15,2,1,5,3,"18,7",1
+DEN,6208,Jørgen Bojsen-Møller,Jacob Bojsen-Møller,,26,3,2,1,8,"22,7",2
+AUS,6213,Terry Kyrwood,Reg Crick,,3,1,19,11,4,"30,7",3
+USA,6292,Steve Taylor,David Penfield,,9,,3,7,1,"33,7",4
+USA,6540,Jim Warfield,John Gilmour,,1,12,6,8,5,"35,7",5
+GBR,6673,Edward Wardern-Owen,Andy Gray,,4,9,7,6,2,"35,7",6
 USA,6291,Jeff Brauch,G. Beck,,2,16,12,4,,51,7
-SWE,6630,Staffan Eklund,Anders Eklund,,8,38,13,3,12,56.7,8
+SWE,6630,Staffan Eklund,Anders Eklund,,8,38,13,3,12,"56,7",8
 SWE,6143,Stefan Eriksson,Kjell Lidman,,10,4,14,24,11,61,9
-USA,6136,Jon Andron,Howard Hamlin,,5,8,38,,15,67.7,10
+USA,6136,Jon Andron,Howard Hamlin,,5,8,38,,15,"67,7",10
 GBR,6539,M. Linawood,J. Labbett,,,,,,,69,11
 GBR,6594,Phil Milanes,C. Lippi,,,,,,,72,12
-USA,6311,E. Bixby,Larry Rosenfield,,,,,,,75,13
+USA,6311,Ethan Bixby,Larry Rosenfield,,,,,,,75,13
 AUS,6211,J. D. Gilder,S. Sievewright,,,,,,,76,14
 GBR,6595,Mike Hattemore,M. Payne,,,,,,,78,15
-GBR,6642,D. Farrant,B. Moss,,,,,,,79.7,16
+GBR,6642,D. Farrant,Bev Moss,,,,,,,"79,7",16
 USA,6137,Sally Lindsay,Mark Lindsay,,,,,,,80,17
 GBR,6553,P. White,W. Hartje,,,,,,,92,18
 FRA,6222,J. Langlois,P. Serame,,,,,,,104,19
 USA,6495,Thomas Kivney,S. Honey,,,,,,,105,20
-SWE,6621,K. E. Nilsson,J. Calvert,,,,,,,108,21
-GBR,6525,P. Bainbridge,J. Campell,,,,,,,110,22
+SWE,6621,Karl-Erik Nilsson,Johan Calvert,,,,,,,108,21
+GBR,6525,Peter Bainbridge,Jamie Campbell,,,,,,,110,22
 DEN,6550,J. Eppers,S. Løppenthin,,,,,,,118,23
 SWE,6144,K. Bergstrom,M. Bergstrom,,,,,,,124,24
 USA,6693,Tim Pape,C. Mckee,,,,,,,124,25
 GBR,6447,D. White,J. Davies,,,,,,,126,26
-DEN,6343,J. Schonherr,Anders Kæmpe,,,,,,,130,27
+DEN,6343,Jørgen Schönherr,Anders Kæmpe,,,,,,,130,27
 SUI,6386,U. Scherrer,J. Himmelsbach,,,,,,,132,28
 GBR,6021,Robert Napier,J. Gray,,,,,,,133,29
 DEN,6354,H. West,N. Thielsen,,,,,,,140,30
@@ -38,8 +38,8 @@ FRA,6347,M. Loday,Y. Kergreis,,,,,,,151,36
 FRA,6250,Y. Potter,Y. Breurec,,,,,,,151,37
 GER,6618,H. Petersen,A. Mussbach,,,,,,,154,38
 FRA,6411,R. Tristan,P. Foumtaime,,,,,,,171,39
-AUS,5952,I. Brown,Martin F. Burke,,,,,,,173.7,40
-FIN,5335,K. Wildn,J. Wildn,,,,,,,177,41
+AUS,5952,Ian Brown,Martin F. Burke,,,,,,,"173,7",40
+FIN,5335,Kari Wilén,Jyri Wilén,,,,,,,177,41
 GBR,6517,S. France,R. Roberton,,,,,,,186,42
 GBR,6583,M. Wilson,J. Donaldson,,,,,,,187,43
 DEN,5915,D. Holm,J. Thielsen,,,,,,,189,44

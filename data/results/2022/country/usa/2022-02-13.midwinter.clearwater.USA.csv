@@ -1,27 +1,27 @@
-Pos,Sail,Skipper,crew,Yacht Club,1,2,3,4,Total,Pos
-USA,89*,Stuart McNay,Caleb Paine,"New York Yc, Beverly yc",1,6,1,2,10,1
-USA,9106,Mike Martin,Adam Lowry,StFYC NHYC,4,1,7,3,15,2
-USA,8576,Mike Punnett,Rich Mundell,SISA,2,5,4,6,17,3
-USA,9072,Mike Holt,,Santa Cruz YC,8,7,2,1,18T,4
-USA,9160,Howard Hamlin,,NHYC/ABYC,5,2,3,8,18T,5
-USA,9004,Eric Anderson,,YCYC/StFYC,13,3,6,4,26,6
-USA,8856,Ethan Bixby,Ted Huebner,SPSC,3,8,14,9,34T,7
-USA,8965,Mike Zani,,Common Fence Point Dinghy Club,6,4,12,12,34T,8
-IRL,8987,Peter Scannell,,Monkstown Bay Sailing Club,10,10,8,10,38,9
-GER,9169,Tim Böger,,Hamburg Sail Club,17,11,5,7,40T,10
-CAN,9009,Peter Katcha,,Santa Cruz yc,9,17,9,5,40T,11
-USA,8786,Luke Ingalls,,Sakonnet YC,7,14,11,13,45,12
-USA,9142,Douglas Hagan,,PCYC,16,12,10,14,52,13
-USA,9186,David Kirkpatrick,,Sail Newport,11,16,15,11,53,14
-USA,8841,Alexander Meller,,International 505 Class Association,14,9,17,16,56,15
-USA,8937,Tim Murphy,,None,18,15,13,15,61,16
-USA,8814,Lin Robson,,SPSC,12,18,16,17,63,17
-USA,7346,Andrew Jones,,SPYC,19,13,18,18,68,18
-USA,8830,Nathaniel Plant,,SPSC,20,19,19,20,78,19
-USA,8593,TJ O'Brien,,Lake Norman Yacht Club/Sailing Club at UCF,21,21,21,22,85,20
-USA,9138,Marek Balinski,,OHCC,27/DNS,20,20,19,86,21
-USA,8808,Ted Bjerregaard,,Bristol Yacht Club,15,27/DNS,27/DNS,23,92,22
-USA,9095,Macy Nelson,,West River,27/DNS,27/DNS,27/DNS,21,102,23
-USA,8854,Craig Thompson,,Unaffiliated,27/DNS,27/DNS,27/DNS,24,105,24
-USA,9091,Reeve Dunne,,None,27/DNS,27/DNS,27/DNS,25,106,25
-USA,9172,Paul Scoffin,,MBYC,27/DNS,27/DNS,27/DNS,26,107,26
+Pos,Sail,Skipper,crew,Yacht Club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Race 7,Race 8,Race 9,Race 10,Race 11,Race 12,Total,Pos
+USA,89,Stuart McNay,Caleb Paine,,1,6,1,2,10,3,2,1,1,5,1,3,,1
+USA,9106,Mike Martin,Adam Lowry,,4,1,7,3,15,2,4,3,4,1,2,1,,2
+USA,8576,Mike Punnett,Rich Mundell,,2,5,4,6,17,1,1,5,2,6,4,4,,3
+USA,9003,Mike Holt,Rob Woelfel,,8,7,2,1,18,5,6,4,6,9,5,5,,4
+USA,9160,Howard Hamlin,Jesse Falsone,NHYC,5,2,3,8,18,9,5,7,11,4,3,7,,5
+USA,9004,Nic Baird,Eric Anderson,,13,3,6,4,26,12,15,11,7,2,9,9,,6
+USA,8856,Ethan Bixby,Ted Huebner,,3,8,14,9,34,10,8,10,10,8,16,11,,7
+GER,8965,Mike Zani,Mike Mills,,6,4,12,12,34,6,12,9,9,13,11,6,,8
+IRL,8987,Peter Scannell,John Dunlea,,10,10,8,10,38,4,20,DNC,3,12,13,8,,9
+GER,8714,Tim Böger,Finn Böger,HSC,17,11,5,7,40,16,13,12,18,15,10,2,,10
+CAN,9009,Peter Katcha,Steve Bourdow,,9,17,9,5,40,7,3,2,DNC,DNC,DNC,DNC,,11
+USA,8786,Luke Ingalls,John Ingalls,,7,14,11,13,45,DNF,7,6,8,3,17,22,,12
+USA,9142,Doug Hagan,Paul von Grey,,16,12,10,14,52,8,10,8,5,14,6,19,,13
+USA,9186,Keith Longson,David Kirkpatrick,,11,16,15,11,53,13,17,15,12,20,7,10,,14
+USA,8841,Ashley Love,Ali Meller,,14,9,17,16,56,15,9,14,14,10,8,13,,15
+USA,8937,Tim Murphy,Paul Pihl,,18,15,13,15,61,11,11,16,16,16,14,16,,16
+USA,8814,Lin Robson,,,12,18,16,17,63,DNF,16,13,17,7,DNF,DNC,,17
+USA,7346,Andrew Jones,,,19,13,18,18,68,14,19,19,13,11,12,12,,18
+USA,8830,Nathaniel Plant,Eric Mann,,20,19,19,20,78,18,18,21,15,18,18,21,,19
+USA,8593,TJ O`Brien,Peter Hale,,21,21,21,22,85,17,14,17,DNF,17,15,DNC,,20
+USA,9138,Marek Balinski,,,DNC,20,20,19,59,19,21,18,19,DNC,19,17,,21
+USA,8808,Ted Bjerregaard,Matt Hersey,,15,DNC,DNC,23,38,22,23,20,DNF,DNC,22,14,,22
+USA,9095,Ami Nelson,,,DNC,DNC,DNC,21,21,20,DNF,DNC,20,21,20,15,,23
+USA,8854,Craig Thompson,JB Turney,,DNC,DNC,DNC,DNC,0,24,24,24,DNC,19,24,18,,24
+USA,9091,Ted Conrads,Reeve Dunne,,DNC,DNC,DNC,DNC,0,23,25,24,DNC,22,23,23,,25
+USA,9172,Paul Scoffin,,,DNC,DNC,DNC,DNC,0,25,22,22,21,DNC,21,20,,26

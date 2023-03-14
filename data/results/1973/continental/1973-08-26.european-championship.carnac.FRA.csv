@@ -1,21 +1,21 @@
-e,Helm,Crew,,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Total,Netto,Place
-FRA,4808,Loday,Fedorenko,,6,1,23,2,2,1,47,17.7,1
-FRA,4702,Danielou,Chouraki,,8,10,6,30,1,2,83,46.7,2
-GBR,4689,White,Davies,,11,3,5,1,29,15,89,53.7,3
-GBR,4079,Bourn,Bryant,,9,2,61,9,3,12,124,56.7,4
+Country,Sail NO,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Total,Netto,Place
+FRA,4808,Loday,Fedorenko,,6,1,23,2,2,1,47,"17,7",1
+FRA,4702,Danielou,Chouraki,,8,10,6,30,1,2,83,"46,7",2
+GBR,4689,White,Davies,,11,3,5,1,29,15,89,"53,7",3
+GBR,4079,Bourn,Bryant,,9,2,61,9,3,12,124,"56,7",4
 GBR,4830,Arnold,Bailey,,5,8,2,11,34,14,104,64,5
-GBR,4798,Colclougi,,,2,33,13,5,13,18,114,75,6
-SWE,3858,Nilsson,Larssen,,15,6,19,3,8,17,100,75.4,7
+GBR,4798,Peter Colclough,Stephen Jones,,2,33,13,5,13,18,114,75,6
+SWE,3858,Nilsson,Larssen,,15,6,19,3,8,17,100,"75,4",7
 SWE,4316,Eckerstrom,Calvert,,41,32,8,8,5,8,137,90,8
-FRA,4571,Lesvesque,Guezou,,77,11,4,16,6,26,174,90.7,9
-FRA,4639,Buffet,Moreau D.,,85,18,15,6,21,4,183,91.7,10
+FRA,4571,Lesvesque,Guezou,,77,11,4,16,6,26,174,"90,7",9
+FRA,4639,Buffet,Moreau D.,,85,18,15,6,21,4,183,"91,7",10
 GBR,4741,West,Williams,,13,10,49,7,30,13,158,103,11
-GER,4333,Meyer,Jenssen,,10,36,45,13,10,6,156,104.7,12
+GER,4333,Meyer,Jenssen,,10,36,45,13,10,6,156,"104,7",12
 GBR,4382,Farrant,Moss,,16,29,47,4,9,23,162,109,13
-FRA,4809,Pajot,Kergreis,,21,26,28,26,7,3,143.7,109.7,14
+FRA,4809,Pajot,Kergreis,,21,26,28,26,7,3,"143,7","109,7",14
 FIN,4626,Rouhiainen,Mustonen,,17,14,38,12,63,5,184,115,15
 DEN,4543,Christensen,Thomsen,,1,76,9,86,4,7,210,118,16
-FRA,4700,Fountaine,Fountaine,,18,76,3,10,55,9,204,121.7,17
+FRA,4700,Fountaine,Fountaine,,18,76,3,10,55,9,204,"121,7",17
 DEN,4489,Madsen-Mygdal H.,Carlberg,,38,5,16,15,20,75,206,125,18
 SUI,4223,Scherrer,Eisold,,14,22,7,31,24,54,188,128,19
 GBR,4739,Derry,Chapman,,54,4,18,23,31,24,188,128,19
@@ -24,7 +24,7 @@ FRA,4667,Jerome Langlois,Richard,,20,25,29,14,36,48,208,154,22
 DEN,4314,Hans Westh,Jensen,,27,20,31,18,85,29,246,155,23
 FRA,4914,Breteche,Le Soudeer,,22,31,21,20,32,67,229,156,24
 GBR,4767,John Locke,Antony Pusinelli,,29,13,69,17,53,19,236,161,25
-FIN,4303,Nils Lagerström,Lars Lagerström,,3,30,58,35,35,32,226,161.7,26
+FIN,4303,Nils Lagerström,Lars Lagerström,,3,30,58,35,35,32,226,"161,7",26
 FRA,4325,Reynier,Dury,,48,38,36,40,11,10,219,165,27
 FRA,4632,Oeuvrard,Rougier,,63,9,11,33,43,39,234,165,27
 FRA,4646,Savelli,Savelli,,39,27,10,32,39,31,214,169,29

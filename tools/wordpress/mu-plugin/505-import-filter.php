@@ -6633,6 +6633,7 @@ class iworks_5o5_upload_fixer {
 		'Philip Cristiani'            => 'Philip Christiani',
 		'Philip Grob'                 => 'Phillip Grob',
 		'Philip lnscoe'               => 'Phillip Inscoe',
+		'Philip Milanes'              => 'Phil Milanes',
 		'Philipp Sudbrac'             => 'Philipp Sudbrack',
 		'Philippe Artielle Jean'      => 'Jean-Philippe Artielle',
 		'Philippe Lanaverre'          => 'Phillipe Lanaverre',
