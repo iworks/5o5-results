@@ -1,7 +1,7 @@
 Nation,Boat NO,Helm,Crew,Club,Race 1,Points,Place
 GBR,7589,P. Colclough,H. Barnes,,,3,1
-SWE,7591,E. Rosen,O. Wenrup,,,8.75,2
-SWE,7542,K. Bergstrom,D. Goransson,,,20,3
+SWE,7591,Ebbe Rosén,Olle Wenrup,,,"8,75",2
+SWE,7542,Krister Bergström,Dan Göransson,,,20,3
 GBR,7524,P. Milanes,J. Labett,,,22,4
 GBR,7018,J. Patterson,J. Showell,,,23,5
 GBR,7491,E. W. Owen,J. Richards,,,32,6
@@ -22,7 +22,7 @@ GBR,7555,M. Lawton,H. Myers,,,77,20
 GBR,7446,R. Trickett,M. Payne,,,77,21
 GBR,7504,I. Andrew,G. Holden,,,79,22
 GBR,7461,A. Booth,K. Summergill,,,81,23
-GBR,7592,K. Nilsson,C. Gustafsson,,,81,24
+SWE,7592,Petter Nilsson,Claes Gustafsson,,,81,24
 GBR,7460,J. McLaren,J. Edwards,,,91,25
 GBR,7427,I. Stewart,P. Broom,,,98,26
 GBR,7436,S. France,M. Gotrel,,,99,27
