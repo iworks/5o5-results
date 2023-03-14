@@ -453,7 +453,9 @@ if ( $import_registry && ( $handle = fopen( $data_root . '/' . $import_config['b
 				$data_root,
 				$iworks_fleet_boat_hull_number
 			);
-			if ( ( $handle_owner_file = fopen( $owners_file, 'r' ) ) !== false ) {
+			if ( is_file( $owners_file )
+				&& ( $handle_owner_file = fopen( $owners_file, 'r' ) ) !== false
+			) {
 				if ( $debug ) {
 					echo PHP_EOL,'IMPORT: ',$owners_file,PHP_EOL;
 				} else {

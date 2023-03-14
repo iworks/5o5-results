@@ -29,8 +29,8 @@ foreach ( $argv as $arg ) {
 			break;
 	}
 	parse_str( $arg, $out );
-	foreach ( $out as $arg => $value ) {
-		switch ( $arg ) {
+	foreach ( $out as $key => $value ) {
+		switch ( $key ) {
 			case 'category':
 				$category = $value;
 				break;
@@ -46,11 +46,12 @@ if ( 1 > $category && empty( $serie_slug ) ) {
 	die;
 }
 
-$options  = array(
+$options = array(
 	'posts_per_page' => -1,
 	'output'         => 'raw',
 	'order'          => 'ASC',
 );
+
 $regattas = apply_filters( 'iworks_fleet_result_serie_regatta_list', '', $serie_slug, $options );
 
 global $wpdb, $iworks_fleet;
