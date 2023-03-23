@@ -3119,7 +3119,7 @@ class iworks_5o5_upload_fixer {
 		),
 		array(
 			'N Wilmott' => 'Neil Willmott',
-			'P Wilmott' => 'Paul Willmott',
+			'P Wilmott' => 'P Willmott',
 		),
 		array(
 			'T. Wattson' => 'Tony Wattson',
@@ -6508,8 +6508,6 @@ class iworks_5o5_upload_fixer {
 		'P Vongrey'                   => 'Paul von Grey',
 		'P White'                     => 'Peter White',
 		'P. White'                    => 'Peter White',
-		'P Willmott'                  => 'Paul Willmott',
-		'P. Willmott'                 => 'Paul Willmott',
 		'Pa Hallberg'                 => 'Per-Anders Hallberg',
 		'PA Hallberg'                 => 'Per-Anders Hallberg',
 		'P-A Hallberg'                => 'Per-Anders Hallberg',
