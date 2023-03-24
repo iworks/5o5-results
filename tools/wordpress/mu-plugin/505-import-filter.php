@@ -4853,7 +4853,7 @@ class iworks_5o5_upload_fixer {
 		'Donzé Gil'                   => 'Giles Donzé',
 		'Donze Gill'                  => 'Giles Donzé',
 		'Donze Gilles'                => 'Giles Donzé',
-		'Doreen Jaeschke'             => 'Doreen Jäschke',
+		'Doreen Jäschke'             => 'Doreen Jäschke',
 		'Dorr Christian'              => 'Christian Dörr',
 		'Dörr Christian'              => 'Christian Dörr',
 		'Dorr Sebastian'              => 'Sebastian Dörr',
