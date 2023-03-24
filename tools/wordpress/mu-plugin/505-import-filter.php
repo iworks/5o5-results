@@ -2062,7 +2062,7 @@ class iworks_5o5_upload_fixer {
 			'K Richardson' => 'Kevin Richardson',
 		),
 		array(
-			'Robson' => 'I. Robson',
+			'Robson' => 'Ian Robson',
 			'Palmer' => 'A. Palmer',
 		),
 		array(

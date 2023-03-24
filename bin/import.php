@@ -94,26 +94,33 @@ if ( $import_sailors && ( $handle = fopen( $data_root . '/' . $import_config['sa
 		 *
 		 *  0 Nation
 		 *  1 Name
-		 *  2 Birth Date - iworks_fleet_personal_birth_date
-		 *  3 Club
-		 *  4 Description
-		 *  5 Email    - iworks_fleet_contact_email
-		 *  6 Mobile   - iworks_fleet_contact_mobile
-		 *  7 Website  - iworks_fleet_social_website
-		 *  8 Facebook - iworks_fleet_social_facebook
-		 *  9 iworks_fleet_social_instagram
-		 * 10 iworks_fleet_social_twitter
-		 * 11 iworks_fleet_social_endomondo
+		 *  2 Club
+		 *  3 Description
+		 *  4 Birth Date - iworks_fleet_personal_birth_date
+		 *  5 Website  - iworks_fleet_social_website
+		 *  6 Facebook - iworks_fleet_social_facebook
+		 *  7 Death Date - iworks_fleet_personal_death_date
+		 *  8 Full Name
+		 *  9 Height
+		 * 10 Wikipedia
+		 * 11 Sailor ID
+		 * 12 Email hash - iworks_fleet_contact_gravatar
+		 * 13 LinkedIn
+		 * 14 Real Name
+		 * 15 iworks_fleet_social_instagram
+		 * 16 iworks_fleet_social_twitter
+		 * 17 iworks_fleet_social_endomondo
 		 *
 		 */
 	$fields = array(
-		5  => 'works_fleet_contact_email',
-		6  => 'works_fleet_contact_mobile',
-		7  => 'works_fleet_social_website',
-		8  => 'works_fleet_social_facebook',
-		9  => 'works_fleet_social_instagram',
-		10 => 'works_fleet_social_twitter',
-		11 => 'works_fleet_social_endomondo',
+		6  => 'iworks_fleet_social_facebook',
+		7  => 'iworks_fleet_social_website',
+		10 => 'iworks_fleet_contact_wikipedia',
+		11 => 'iworks_fleet_contact_sailor_id',
+		12 => 'iworks_fleet_contact_gravatar',
+		15 => 'iworks_fleet_social_instagram',
+		16 => 'iworks_fleet_social_twitter',
+		17 => 'iworks_fleet_social_endomondo',
 	);
 	while ( ( $data = fgetcsv( $handle, 0, ',' ) ) !== false ) {
 		if ( isset( $data[1] ) && ! empty( $data[1] ) ) {
@@ -131,10 +138,11 @@ if ( $import_sailors && ( $handle = fopen( $data_root . '/' . $import_config['sa
 				continue;
 			}
 			$post_array = array(
-				'post_title'  => $p,
-				'post_type'   => $person_post_type_name,
-				'post_status' => 'publish',
-				'meta_input'  => array(
+				'post_title'   => $p,
+				'post_type'    => $person_post_type_name,
+				'post_status'  => 'publish',
+				'post_content' => wpautop( trim( $data[3] ) ),
+				'meta_input'   => array(
 					'iworks_fleet_personal_nation' => trim( $data[0] ),
 				),
 			);
