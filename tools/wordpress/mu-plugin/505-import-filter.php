@@ -4959,7 +4959,7 @@ class iworks_5o5_upload_fixer {
 		'Et Bixby'                    => 'Ethan Bixby',
 		'Eti Seguelas'                => 'Etienne Seguelas',
 		'Etienne Des Jamonieres'      => 'Etienne des Jamonières',
-		'Euan Mcnicol'                => 'Euan McNnicol',
+		'Euan Mcnicol'                => 'Euan McNicol',
 		'Euan McNnicol'               => 'Euan McNicol',
 		'E.W. Owen'                   => 'Eddie Warden-Owen',
 		'Ewald Bizoska'               => 'Ewald Brzoska',
