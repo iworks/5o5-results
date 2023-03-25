@@ -62,6 +62,7 @@ function get_person_by_name( $name ) {
 			'post_title'  => $post_title,
 		);
 		if ( preg_match( '/\d/', $post_title ) ) {
+			echo 'DIE: get_person_by_name';
 			print_r( array( $name, $args ) );
 			die;
 		}
@@ -76,7 +77,7 @@ function get_person_by_name( $name ) {
 function person_clear_name( $name ) {
 	$name      = preg_replace( '/[  \t]+/', ' ', $name );
 	$name      = preg_replace( '/[  \t]+/', ' ', $name );
-	$name      = preg_replace( '/[\d\s\h\v\'\-`"\,\.]+$/', '', $name );
+	$name      = preg_replace( '/[\d\s\h\v\'\-`"\,\.–]+$/', '', $name );
 	$re        = '/[\d\' `\,\.\(\)\‘]+$/';
 	$name      = trim( preg_replace( $re, '', $name ) );
 	$is_person = check_is_person( $name );
@@ -122,7 +123,7 @@ function add_more_owners( $users_ids, $date_from, $date_to, $order = false ) {
 	);
 }
 
-function person( $raw, $person, $date_from = '', $order = false ) {
+function person( $raw, $person, $date_from = '', $order = false, $date_to = '' ) {
 	if ( empty( $date_from ) && preg_match( '/(\d{2})$/', $raw, $matches ) ) {
 		$year      = intval( $matches[1] );
 		$date_from = add_century_to_date( $year );
@@ -133,6 +134,7 @@ function person( $raw, $person, $date_from = '', $order = false ) {
 			'current'   => 'current' === $order,
 			'users_ids' => array( $person->ID ),
 			'date_from' => $date_from,
+			'date_to'   => $date_to,
 		),
 		array(
 			'current'   => false,
@@ -236,6 +238,7 @@ function handle_serie_taxonomy( $serie, &$series, &$post_array, $parent = 0 ) {
 				return $series[ $serie ]->term_id;
 			} else {
 				print_r( array( $serie, $series ) );
+				echo 'DIE: handle_serie_taxonomy';
 				die;
 			}
 		}
@@ -305,6 +308,7 @@ function int505_person_get_date( $name, $type = 'from' ) {
 			array(
 				$name,
 				'/(\d{4}-\d{2}-\d{2})[^\d]+(\d{4}-\d{2}-\d{2})$/' => preg_match( '/(\d{4}-\d{2}-\d{2})[^\d]+(\d{4}-\d{2}-\d{2})$/', $name ),
+				'/ \d{4} – \d{4}$/'       => preg_match( '/ \d{4} – \d{4}$/', $name ),
 				'/ \d{4}\-\d{2}\-\d{2}$/' => preg_match( '/ \d{4}-\d{2}-\d{2}$/', $name ),
 				'/(\d{2})[^\d]+(\d{2})$/' => preg_match( '/(\d{2})[^\d]+(\d{2})$/', $name ),
 				'/(\d{4})[^\d]+(\d{2})$/' => preg_match( '/(\d{4})[^\d]+(\d{2})$/', $name ),
@@ -316,6 +320,9 @@ function int505_person_get_date( $name, $type = 'from' ) {
 
 	if ( preg_match( '/ (\d{4}\-\d{2}\-\d{2})$/', $name, $matches ) ) {
 		$date_from = $matches[1];
+	} elseif ( preg_match( '/(\d{4}) – (\d{4})$/', $name, $matches ) ) {
+		$date_from = int505_import_fix_year( $matches[1] );
+		$date_to   = int505_import_fix_year( $matches[2], 'end' );
 	} elseif ( preg_match( '/(\d{4}-\d{2}-\d{2})[^\d]+(\d{4}-\d{2}-\d{2})$/', $name, $matches ) ) {
 		$date_from = $matches[1];
 		$date_to   = $matches[2];

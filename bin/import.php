@@ -241,6 +241,7 @@ if ( $import_registry && ( $handle = fopen( $data_root . '/' . $import_config['b
 				}
 			}
 			if ( ! is_string( $post_content ) ) {
+				echo 'DIE: not a string';
 				print_r( $post_content );
 				die;
 			}
@@ -590,9 +591,9 @@ if ( $import_registry && ( $handle = fopen( $data_root . '/' . $import_config['b
 								$person    = get_person_by_name( $name );
 								if ( is_object( $person ) ) {
 									add_post_meta( $post_ID, $owners_index_field_name, $person->ID );
-									$owners[] = person( $name, $person, $date_from, $type );
+									$owners[] = person( $name, $person, $date_from, $type, $date_to );
 								} else {
-									$owners[] = add_organization( $name, $person, $date_from, $type );
+									$owners[] = add_organization( $name, $person, $date_from, $type, $date_to );
 								}
 							}
 						}
