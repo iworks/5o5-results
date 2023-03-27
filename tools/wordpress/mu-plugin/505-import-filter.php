@@ -6930,7 +6930,7 @@ class iworks_5o5_upload_fixer {
 		'Schaar Bjoern'               => 'Björn Schaar',
 		'Schaar Björn'                => 'Björn Schaar',
 		'Schaedelin Eric'             => 'Eric Schaedelin',
-		'Schafer Christian'           => 'Christian Schafer',
+		'Schafer Christian'           => 'Christian Schäfer',
 		'Schatte Joseph'              => 'Joseph Schatte',
 		'Scheder Dietrich'            => 'Dietrich Scheder-Bieschin',
 		'Scheder-Bi'                  => 'Dietrich Scheder-Bieschin',
