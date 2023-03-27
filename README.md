@@ -18,3 +18,4 @@ I will thank those people (order by time)
 * Simon Gorman - he provided the Australian Championship 1998.
 * Ian Gregg - he provided the Australian Championship 2016.
 * [Deutsche 505er Klassenvereinigung - Aktuelles](http://505.3wadmin.de/) - a lot of older German (but not only) results from years 2000-2017.
+* Tim Böger - he provided results from 1986 till 1996.
