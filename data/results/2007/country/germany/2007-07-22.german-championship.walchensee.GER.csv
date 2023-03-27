@@ -1,0 +1,62 @@
+Country,Boat Number,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Race 7,Race 8,Brutto,Netto,Place
+GER,8903,Boris Herrmann,Julien Kleiner,ZSK,5,24,6,2,6,4,1,5,53,,1
+GER,8806,Lutz Stengel,Frank Feller,ROYC,4,1,11,14,2,6,3,14,55,,2
+GER,8880,Christian Kellner,Robert Rothe,HSC,7,7,9,5,3,1,9,7,48,,3
+GER,8875,Jens Findel,Johannes Tellen,KYC,4,1,11,14,2,6,3,14,55,,4
+GER,8862,Stefan Böhm,Gerald Roos,SCV,23,20,13,7,4,5,2,4,78,,5
+GER,8807,Morten Bogacki,Wolfgang Bogacki,DYC,2,8,7,11,1,11,18,13,71,,6
+GER,8916,Stefan Köchlin,Axel Priegann,SKF,16,14,1,9,12,8,4,6,70,,7
+GER,8728,Meike Schomäker,Rainer Görge,ZSK,1,12,2,10,13,7,14,9,68,,8
+GER,8651,Claas Lehmann,Andreas John,NRV,3,3,5,40,10,20,6,16,103,,9
+GER,8904,Jan Forster,Marcus Neuß,SGaM,10,6,3,16,5,12,25,21,98,,10
+AUS,8920,Michael Quirk,Peter Holden,MHYC,20,21,10,6,7,13,15,2,94,,11
+GER,8580,Michael Seeger,Andreas Achterberg,DTYC,DNC 62,13,4,19,27,3,10,8,146,,12
+GER,8915,Hasso Plattner,Peter Alarie,KYC,11,18,33,3,17,17,7,3,109,,13
+GER,8669,Tim Böger,Markus Schöner,HSC,9,25,12,1,20,9,13,OCS 62,151,,14
+GER,8901,Sophie Söllner,Wolfgang Stückl,CYC,12,10,15,18,15,16,5,23,114,,15
+GER,8874,Norbert Dasenbrook,Sven Meier,KSW,15,5,21,DNF 62,9,10,16,24,162,,16
+GER,8725,Markus Maisenbacher,Lars Kruse,WVH,6,37,38,13,11,19,20,18,162,,17
+GER,8721,Malte Christophersen,Sebastian Salein,KAR,19,17,17,8,24,23,8,22,138,,18
+GER,8642,Thoralf Greger,Christoph Klein,ASVG,38,16,20,20,19,15,11,15,154,,19
+GER,8932,Dirk Filimonow,Lars Stöckmann,BSV,31,4,18,30,8,31,28,19,169,,20
+GER,8843,Nicolai Völckner,Lars Dehne,HSC,28,26,16,22,22,26,17,10,167,,21
+GER,8777,Stefan Schollmayer,Francisco Sanguino,SCMSP,18,28,19,DNC 62,26,18,29,11,211,,22
+GER,8751,Franziska Unkelbach,Angela Stenger,KYC,13,2,28,26,25,37,31,28,190,,23
+GER,8522,Thomas Wieting,Hannes Lehning,WVH,24,30,RDG 62,57,23,36,21,17,270,,24
+GER,8621,Stephan Schweiger,Thorsten Koch,SCLW,34,11,32,12,28,40,30,20,207,,25
+GER,8463,Frieder Achterberg,Arne Lanatowitz,DTYC,48,34,24,15,41,14,24,25,225,,26
+GER,8928,Hendrik Schultz,Ute Oberländer,SCLW,29,27,20,24,16,21,26,26,189,,27
+GER,8775,Carsten Engel,Tobias Neumeyer,PSVK,32,43,36,17,44,29,19,12,232,,28
+GER,8609,Alexander Holzapfel,Stefan Worm,PSVK,17,38,22,25,30,24,27,31,214,,29
+GER,8625,Alex Cross,Falko Braun,SCR,30,41,26,23,18,32,22,27,219,,30
+GER,8693,Michael Daisenberger,Florian Lautenschläger,DTYC,27,19,25,27,21,28,38,DNC 62,247,,31
+LUX,8534,Pierre Kiefer,Jean Paul Tousch,YC LUX,26,23,14,45,31,35,39,32,245,,32
+GER,8665,Jens-Peter Schlomka,Urs Wihlfahrt,TSVS,35,36,27,21,33,22,23,DNC 62,259,,33
+GER,8672,Karsten Contag,Guido von Walter,SCLW,22,32,29,31,14,42,57,39,266,,34
+GER,8519,Robert Wisolek,Nette Jansen,SCLW,14,22,34,51,34,45,42,33,275,,35
+GER,8929,Jürgen Waldheim,Robert Bussenius,PYC,37,33,40,43,43,30,32,30,288,,36
+GER,8546,Dirk Hänsgen,Frank Rupprich,SVPB,49,54,41,29,47,25,34,34,313,,37
+GER,8702,Martin Handel,Peter Wackerbauer,SGK,45,52,43,41,35,27,35,29,307,,38
+GER,8769,Nathalie Friedrich,Claudius Zeiler,SCLW,47,35,31,32,39,43,40,37,304,,39
+GER,8720,Lennart Tasche,Frederik Tasche,WSVG09,40,42,35,35,36,33,37,DNF 62,320,,40
+BEL,8734,Geert De Pauw,Koen Jourquin,NWVN,25,53,37,39,50,41,33,47,325,,41
+GER,8873,Peter Heimbeck,Nils Burghard,SCLW,44,15,44,33,56,57,46,45,340,,42
+GER,8550,Martha Hauschild,Michael Heyder,SCS,41,31,42,47,38,34,48,41,322,,43
+GER,8712,Siegfried Labenz,Christian Labenz,SVWu,46,44,39,28,37,38,DNC 62,52,346,,44
+GER,8433,Jürgen Anton,Ulf Denecke,HSC,43,39,50,36,45,48,36,38,335,,45
+GER,8475,Johannes Berggren,Göran Berggren,SCLW,33,40,53,34,49,44,44,43,340,,46
+GER,8365,Andreas Lehmann,Robert Hanke,VsAW,42,45,51,38,29,46,49,42,342,,47
+GER,8562,Wolfgang Seifert,Ivonne Seifert,SCLW,51,29,46,49,46,47,45,44,357,,48
+GER,7661,Christina Höll,Alexander Wilhelm,HSC,54,46,52,37,52,51,41,36,369,,49
+GER,8663,Benjamin Grosskurth,Johannes Schmederer,SCLW,RAF 62,51,23,42,39,43,DNC 62,0,322,,50
+GER,7921,Jochen Heydolph,Eckhard Busch,SCLW,52,49,45,42,55,50,47,35,375,,51
+GER,8388,Peter Wolffram,Stephan Ottenschläger,,53,50,49,46,51,49,50,40,388,,52
+GER,8527,Hartmut Weiß,Volker Weiß,SCLW,39,47,47,48,54,54,51,DNF 62,402,,53
+GER,8861,Hans-Otto Frisch,Timo Klapper,SCLW,21,55,56,DNC 62,40,53,DNF 62,DNC 62,411,,54
+GER,8530,Alexander von Mertens,Pit Trommer,StSC,50,48,48,50,53,52,52,51,404,,55
+GER,8518,Klaus Eifler,Thomas Thym,SCLW,36,DNF 62,54,DNC 62,48,DNF 62,58,50,432,,56
+GER,8450,Jürgen Feuerhake,Anne Nehrenberg,YCSb,55,58,55,52,60,55,54,46,435,,57
+AUT,8482,C. Pirker,Achim Funk,SCLW,56,57,57,44,58,DNC 62,DNF 62,49,445,,58
+GER,7978,Alexandra Wahler,Michael Kramer,,60,56,59,53,57,58,56,48,447,,59
+GER,8697,Wilfried Stuis,Michael Denner,YCN,57,59,58,54,61,56,53,DNF 62,460,,60
+GER,7732,Iris Anton,Julia Tanner,HSC,59,60,60,56,59,59,55,DNF 62,470,,61
