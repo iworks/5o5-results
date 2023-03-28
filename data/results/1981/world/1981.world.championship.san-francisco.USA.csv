@@ -1,25 +1,25 @@
 Nat,Boat,Helmsman,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Tot.,Pts.,Pos
-USA,7093,Ethan Bixby,Cam Lewis,,14,2,1,1,3,11,45.7,25.7,1
-USA,6933,Steve Benjamin,Tucker Edmundson,,3,16,2,2,2,7,49.7,27.7,2
-DEN,7143,Jorgen Schonherr,Anders Kampe,,1,1,3,19,20,10,72.7,46.7,3
+USA,7093,Ethan Bixby,Cam Lewis,,14,2,1,1,3,11,"45,7","25,7",1
+USA,6933,Steve Benjamin,Tucker Edmundson,,3,16,2,2,2,7,"49,7","27,7",2
+DEN,7143,Jorgen Schonherr,Anders Kampe,,1,1,3,19,20,10,"72,7","46,7",3
 AUS,7331,Gary Bruniges,Hale,,13,5,9,4,4,9,75,56,4
-GBR,7327,Peter Colclough,Harold Barnes,,6,10,16,11,6,1,78.4,56.4,5
-USA,7200,Larry Tuttle,Trevor Baylis,,24,4,20,3,7,4,98.7,64.7,6
+GBR,7327,Peter Colclough,Harold Barnes,,6,10,16,11,6,1,"78,4","56,4",5
+USA,7200,Larry Tuttle,Trevor Baylis,,24,4,20,3,7,4,"98,7","64,7",6
 USA,7100,Neil Fowler,Duncan Skinner,,5,7,29,17,13,2,103,69,7
-USA,7152,Jon Andron,Howard Hamlin,,19,3,4,22,32,3,110.4,72.4,8
-USA,7359,Dennis Surtees,Jay Kuncl,,2,21,6,12,11,18,100.7,73.7,9
+USA,7152,Jon Andron,Howard Hamlin,,19,3,4,22,32,3,"110,4","72,4",8
+USA,7359,Dennis Surtees,Jay Kuncl,,2,21,6,12,11,18,"100,7","73,7",9
 GBR,7004,Eddie Warden-Owen,Andy Gray,,12,15,8,13,5,12,100,79,10
 AUS,7250,Richard Gallimore,Jackson,,DNF,9,17,5,22,14,189,96,11
 AUS,7018,Harrison,Patterson,,36,19,5,8,12,24,139,97,12
 USA,7069,Jeff Brauch,G. Beck,,8,13,13,DNF,10,13,190,97,13
 SWE,7351,Kalle Nilsson,Anders Avén,,27,17,7,10,17,21,135,102,14
 USA,7068,Bruce Ayres,Don Ayres,,10,8,23,24,34,19,154,114,15
-USA,6987,Vincent,Gilmore,,47,35,20,7,19,6,169.7,116.7,16
+USA,6987,Vincent,Gilmore,,47,35,20,7,19,6,"169,7","116,7",16
 GBR,7313,M. Lawton,Merrett,,18,22,11,72A,16,35,225,132,17
 GBR,7182,Paul Willmott,Neil Willmott,,43,12,15,21,18,39,184,135,18
 USA,7151,Nick Grey,Barnes,,22,32,12,23,23,26,174,136,19
 GBR,7277,D. White,Richardson,,23,50,14,14,24,32,193,137,20
-SWE,7145,Staffan Eklund,Anders Eklund,,51,6,DNF,6,9,38,232.4,139.4,21
+SWE,7145,Staffan Eklund,Anders Eklund,,51,6,DNF,6,9,38,"232,4","139,4",21
 AUS,7231,David J. Bull,Russell,,26,24,34,16,26,20,162,142,22
 ,7206,Stocker,Sharpe,,16,25,38,20,15,40,190,144,23
 SWE,7296,Ebbe Rosén,Olle Wenrup,,4,28,27,DNF,47,13,240,147,24
@@ -76,7 +76,7 @@ GER,6415,Cordes,Hotzen,,46,65,64,69,68,DNF,435,342,73
 GBR,6782,R. Trickett,Greenwood,,70,75,68,DNS,27,DNF,450,357,75
 SIN,7059,Stringer,Crossouard,,69,68,72,65,66,62,438,360,76
 CAN,6740,Brown,,,58,71,63,DNF,72,68,456,362,77
-,7297,Crisp,Halstead,,78,DNF,70,51,76,66,464,371,78
+RSA,7287,Robert Crisp,Halstead,,78,DNF,70,51,76,66,464,371,78
 USA,6797,Egan,Betts,,DNS,70,66,55,77,DNS,477,384,79
 CAN,6299,Moore,Barry,,72,DNF,76,66,74,73,484,391,80
 USA,6660,Alexander,Winters,,68,78,78,71,DNS,71,489,396,81
