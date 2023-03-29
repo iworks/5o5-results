@@ -6643,7 +6643,6 @@ class iworks_5o5_upload_fixer {
 		'Pi Partant'                  => 'Pierre-Yves Partant',
 		'Pia Matscheroth Brodwu'      => 'Pia Matscheroth-Brodwurm',
 		'Pia Matscheroth Brodwurm'    => 'Pia Matscheroth-Brodwurm',
-		'Piacquadio Messina'          => 'Messina Piacquadio',
 		'Piacquado Giacinto'          => 'Giacinto Piacquadio',
 		'Pieper Thorsten'             => 'Thorsten Pieper',
 		'Pieper Tortsen'              => 'Tortsen Pieper',
