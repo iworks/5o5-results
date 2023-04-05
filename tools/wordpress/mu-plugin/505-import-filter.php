@@ -4014,6 +4014,7 @@ class iworks_5o5_upload_fixer {
 	 */
 	private $person = array(
 		'?'                           => '',
+		'Valery Eric'                 => 'Eric Valery',
 		'011e Wenrup'                 => 'Olle Wenrup',
 		'011i Karlsson'               => 'Olli Karlsson',
 		'A Bookman'                   => 'Adam Bookman',
@@ -4872,6 +4873,7 @@ class iworks_5o5_upload_fixer {
 		'Douglas McKeige'             => 'Douglas McKeigh',
 		'Douglas Wangdahl'            => 'Douglas Wångdahl',
 		'Douglas Wangdal'             => 'Douglas Wångdahl',
+		'Doumic Augustin'             => 'Augustin Doumic',
 		'Dousselin Marc'              => 'Marc Dousselin',
 		'Dousselin Veronique'         => 'Véronique Dousselin',
 		'Dousselin Véronique'         => 'Véronique Dousselin',
@@ -5959,6 +5961,7 @@ class iworks_5o5_upload_fixer {
 		'Lawner Tord'                 => 'Tord Lawner',
 		'Lawrenc Banahan'             => 'Lawrence Banahan',
 		'Le Duc Gabriel'              => 'Gabriel le Duc',
+		'Le Goff Maxime'              => 'Maxime le Goff',
 		'Le Guen Bernard'             => 'Bernard le Guen',
 		'Le Hegarat Yann'             => 'Yann le Hegarat',
 		'Le Mauguen Gael'             => 'Gaël le Mauguen',
