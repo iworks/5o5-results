@@ -622,7 +622,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2006-06-10,2006-06-11,Alsterpokal,,5,21,Hamburg,,,,,,,2006/country/germany/2006-06-11.alsterpokal.hamburg.GER.csv,,,GER,2023-03-29,,,,,,
 2006-06-10,2006-08-12,Summer Series,,7,8,"Annapolis, MD",Severn Sailing Association,,,,,,2006/country/usa/2006-08-12.summer-series.annapolis-md.USA.csv,,Chesapeake Bay,USA,,,,,,,
 2006-06-17,2006-06-20,Euro Cup – Kiel / Kieler Woche,Kiel Week,5,52,"Olympia Zentrum,Kiel-Schilksee",Kieler Yacht-Club e.V.,,,,,,2006/country/germany/2006-06-20.euro-cup.kieler-woche.kiel.GER.csv,Euro Cup,,GER,2023-03-29,,,,,,
-2006-06-30,2006-07-02,European Championship,,7,22,Århus,,,,,,,2006/continental/2006-07-02.european-championship.aarhus.DEN.csv,"Continental,Europe,Euro Cup",,DEN,,,,,,,
+2006-06-29,2006-07-02,Euro Cup – Finals,,7,22,Århus,,,,,,,2006/country/denmark/2006-07-02.euro-cup-finals.aarhus.DEN.csv,Euro Cup,,DEN,2021-10-28,,,,,,
 2006-07-01,2006-07-02,National Espoirs,,6,18,Le Havre,Sport Nautique et Plaisance du Havre,Travert Jean Claude,Laleu Francois,,,,2006/country/france/2006-07-02.national-espoirs.le-havre.FRA.csv,,,FRA,,,,,,,
 2006-07-01,2006-07-02,Pokalregatta,,4,26,Kochel am See,Segelclub Walchensee e.V.,,,,,,2006/country/germany/2006-07-02.pokalregatta.kochel-am-see.GER.csv,,,GER,2023-03-29,,,,,,
 2006-07-07,2006-07-09,Warnemünder Woche,Warnemünder Week,7,16,Warnemünde,Warnemünder Segel-Club e. V.,,,,,69. Warnemünder Woche,2006/country/germany/2006-07-09.warnemunder-week.warnemunder.GER.csv,,,GER,2023-03-30,,,,,,
