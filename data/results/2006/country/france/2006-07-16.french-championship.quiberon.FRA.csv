@@ -1,0 +1,52 @@
+Country,Boat Number,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Race 7,Race 8,Brutto,Netto,Place
+GBR,8882,Ian Pinnell,Steven Hunt,GWSC,2,1,2,1,2,OCS 52,3,2,65,,1
+FRA,8771,Philippe Boite,Fabrice Toupet,CVM,BFD 52,2,1,3,1,4,2,1,66,,2
+FRA,8321,Bertrand Loyal,Frederic Bouillet,,9,4,3,4,4,5,6,3,38,,3
+FRA,8748,Serge Gubri,Gilles Carvallo,JMIAM,4,5,8,7,3,1,9,7,44,,4
+GER,8751,Helen Fischer,Angela Stenger,BYC,1,14,BFD 52,6,13,2,1,6,95,,5
+FRA,8895,Pierre-Jean Gallo,Regis Viateur,CNE,6,16,18,10,5,3,20,4,82,,6
+SUI,8729,Florian Stauffer,Philippe Jacot,CVN,3,3,BFD 52,2,10,9,5,OCS 52,136,,7
+FRA,7941,Veronique Brenet,Jean-Pierre Peter,ACAL,19,8,17,11,20,7,8,DNF 52,142,,8
+FRA,6367,Antoine Lafortune,Geraud Lafortune,CVSP,5,21,BFD 52,32,21,6,7,5,149,,9
+FRA,8704,Christian Marteneau,Thibault Di Pede,CVSP,10,13,11,38,29,19,17,10,147,,10
+FRA,8870,Christian Silvestre,Christian Vallaud,CVB,7,6,BFD 52,14,17,8,RAF 52,8,164,,11
+GBR,8905,Stuart Turnbull,Jason Lunn,Burton,8,18,16,17,35,13,10,DNF 52,169,,12
+FRA,845,Nicolas Martin,Nicolas Duhay,,13,24,23,22,8,11,18,DNF 52,171,,13
+FRA,8484,Philippe Blanchard,Charles Maire,ACAL,25,9,5,24,37,10,14,DNF 52,176,,14
+FRA,8541,Francis Doerenbecher,Aubin Doerenbecher,CNS,16,25,4,35,7,17,24,DNF 52,180,,15
+FRA,8400,Florian Faucheux,Cedric Faucheux,CST,23,26,13,15,22,14,16,DNF 52,181,,16
+FRA,8693,Pierre Soulier,Francis Cornu,YC Carnac,20,11,15,5,27,OCS 52,4,DNF 52,186,,17
+FRA,8687,Philippe Lucienne,Vivien Lucienne,SRDC,30,10,32,31,11,16,12,DNF 52,194,,18
+SUI,8614,M. Froideveaux,Valery Jacot,,28,20,29,18,23,12,37,12,179,,19
+GBR,8885,Simon Lake,Ben Iliffe,P.Cambs,27,23,27,19,6,18,23,DNF 52,195,,20
+FRA,8462,Gilles Lasnier,Adrien Lasnier,,24,12,25,21,38,25,15,DNF 52,212,,21
+FRA,8427,Marc Dousslin,Nicolas Des Jaminieres,,37,17,19,12,45,33,35,11,209,,22
+FRA,8717,Philippe Duquesne,Julien Fernandez,,17,19,20,27,39,20,22,DNF 52,216,,23
+FRA,8508,Mathieu Devaux,Philippe Dubuc,,21,43,7,23,16,37,19,DNF 52,218,,24
+FRA,8402,Bertrand Commeil,Thierry Buand,,34,15,10,8,15,OCS 52,36,DNF 52,222,,25
+FRA,8276,Claude Lafortune,Frederic Pathier,CVSP,12,30,9,25,36,29,29,DNF 52,222,,26
+GBR,8869,Martin Wedge,Scott Allen,RBYC,14,31,12,44,18,21,24,DNF 52,216,,27
+FRA,8565,Alain Ferec,Eric Guillot,,32,49,BFD 52,28,14,24,21,9,229,,28
+FRA,8459,Jacques Raguet,Matthieu Gougeon,,22,40,26,30,31,22,13,DNF 52,236,,29
+FRA,8635,Herve De Kageriou,Jaques Gillet,,DNC 52,32,6,9,12,OCS 52,27,DNF 52,242,,30
+FRA,8847,Michel Boiry,Xavier Finet,CVP,35,27,BFD 52,16,34,31,39,13,247,,31
+FRA,8545,Alain Preel,Alexis Preel,,26,29,24,37,28,23,28,DNF 52,247,,32
+FRA,8761,Marc Riot,Geoffroy Riot,CNVC,11,50,22,20,26,35,33,DNF 52,249,,33
+FRA,8683,Gerard Tilly,Xavier Tilly,,33,7,BFD 52,46,9,40,11,DNF 52,250,,34
+FRA,8431,Etienne Boyer,Emmanuel Boyer,CVB,29,22,37,26,19,36,32,DNF 52,253,,35
+FRA,8486,Pascal Viaud,Eric Viaud,,15,38,31,29,43,34,25,DNF 52,267,,36
+FRA,8716,Aline Martin,Marie Lafortune,,38,42,35,13,32,30,30,DNF 52,272,,37
+FRA,8640,Patrick Perrault,Collin Ludovic,,42,37,14,33,42,27,31,DNF 52,278,,38
+FRA,8688,Bernard Blondy,Roger Chabaud,CVA,36,46,21,40,33,41,26,DNF 52,295,,39
+GBR,7567,Pierre-Jerome Coulmin,Peter Vincent,Wind14,18,28,33,36,41,38,RAF 52,DNF 52,298,,40
+FRA,8449,Bernard Pfeiffert,Didier Pfeiffert,,43,35,30,41,40,15,43,DNF 52,299,,41
+FRA,84,Thierre Daguzan,Arnaud Porier,,39,45,28,34,30,32,43,DNF 52,303,,42
+FRA,8452,Guillaume Loyal,Cyril Thibaud,,BFD 52,36,BFD 52,47,24,26,38,DNF 52,327,,43
+FRA,8120,Louis Armengaud,Thomas Hoffmann,,DNC 52,34,BFD 52,39,25,42,41,DNF 52,337,,44
+FRA,8215,Xavier Condroyer,Mathieu Champenois,,40,47,38,43,46,28,44,DNF 52,338,,45
+GER,8450,Jürgen Feuerhake,Anne Nehrenberg,YCSb,41,41,34,45,50,39,45,DNF 52,347,,46
+FRA,877,Jean Phiplippe Sabatier,Julien Lafortune,,44,39,39,48,44,46,40,DNF 52,352,,47
+FRA,8302,Claude Got,Camille Payrou,,31,33,BFD 52,DNF 52,48,44,46,DNF 52,358,,48
+GBR,8907,Jim Berry,David Barnes,CVSC,BFD 52,44,40,42,47,43,47,DNF 52,367,,49
+FRA,8151,Raphae de Bourayne,Renaud Maigne,,DNC 52,48,36,DNF 52,49,45,DNF 52,DNF 52,386,,50
+FRA,9139,Olivier Tanguy,Vincent Tanguy,,DNF 52,DNF 52,41,DNF 52,51,47,48,DNF 52,395,,51
