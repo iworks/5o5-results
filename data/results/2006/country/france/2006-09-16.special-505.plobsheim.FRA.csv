@@ -1,18 +1,18 @@
-Country,"Boat Number",Helm,Crew,Club,"Race 1","Race 2","Race 3","Race 4","Race 5",Brutto,Netto,Place
-GER,8772,"Ronald Roos","Kirsten Roos",SVWu,1,7,2,3,5,18,,1
-FRA,8484,"Philippe Blanchard","Charles Maire",ACAL,5,1,1,6,13,26,,2
-FRA,8748,"Muriel Jeanne","Frank Agrapart",CNHS,6,10,3,2,2,23,,3
-FRA,7941,"Veronique Brenet","Jean-Pierre Peter",ACAL,2,5,7,7,1,22,,4
-FRA,8870,"Christian Silvestre","Julian Beltzung",CVB,14,4,4,1,8,31,,5
-FRA,8541,"Francis Doerenbecher","Philippe Wolff",CNS,3,6,10,4,3,26,,6
-FRA,4479,"Jean-Marc Paquotte","Alain Beltzung",,4,2,8,11,4,29,,7
-GER,8530,"Alexander von Mertens","Pia Wiesbauer",StSC,7,9,5,8,"OCS 18",47,,8
-FRA,8847,"Michel Boiry","Dan Beltzung",CVP,11,3,9,12,8,43,,9
-FRA,8820,"Robert Lehmann","Bernard Edel",ACAL,13,8,11,9,7,48,,10
-FRA,8742,"Thomas Pype","Jean-Pierre Noclain",,9,11,6,10,"OCS 18",54,,11
-FRA,7849,"Claude Gachet","Kleber Valery",YCG,15,14,16,5,9,59,,12
-FRA,8717,"Jean-Baptiste Dupont","Xavier Finet",AS,8,13,12,13,12,58,,13
-FRA,8301,"Benoit Blaison","Vincent Marquis",,10,12,14,14,11,61,,14
-FRA,4479,"Ruddy Richard","Canel Hodzig",AOGS,12,15,13,15,"OCS 18",73,,15
-GER,8450,"Jürgen Feuerhake","Margit Falk",YCSb,"DNC 18","DNC 18","DNC 18",16,10,80,,16
-GER,8415,"Elmar Neugart","Carola Bernecker",SZHB,"DNF 18",16,15,17,"DNC 18",84,,17
+Country,Boat Number,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Brutto,Netto,Place
+GER,8772,Ronald Roos,Kirsten Roos,SVWu,1,7,2,3,5,18,,1
+FRA,8484,Philippe Blanchard,Charles Maire,ACAL,5,1,1,6,13,26,,2
+FRA,8748,Muriel Jeanne,Frank Agrapart,CNHS,6,10,3,2,2,23,,3
+FRA,7941,Veronique Brenet,Jean-Pierre Peter,ACAL,2,5,7,7,1,22,,4
+FRA,8870,Christian Silvestre,Julien Beltzung,CVB,14,4,4,1,8,31,,5
+FRA,8541,Francis Doerenbecher,Philippe Wolff,CNS,3,6,10,4,3,26,,6
+FRA,4479,Jean-Marc Paquotte,Alain Beltzung,,4,2,8,11,4,29,,7
+GER,8530,Alexander von Mertens,Pia Wiesbauer,StSC,7,9,5,8,OCS 18,47,,8
+FRA,8847,Michel Boiry,Dan Beltzung,CVP,11,3,9,12,8,43,,9
+FRA,8820,Robert Lehmann,Bernard Edel,ACAL,13,8,11,9,7,48,,10
+FRA,8742,Thomas Pype,Jean-Pierre Noclain,,9,11,6,10,OCS 18,54,,11
+FRA,7849,Claude Gachet,Kleber Valery,YCG,15,14,16,5,9,59,,12
+FRA,8717,Jean-Baptiste Dupont,Xavier Finet,AS,8,13,12,13,12,58,,13
+FRA,8301,Benoit Blaison,Vincent Marquis,,10,12,14,14,11,61,,14
+FRA,4479,Ruddy Richard,Canel Hodzig,AOGS,12,15,13,15,OCS 18,73,,15
+GER,8450,Jürgen Feuerhake,Margit Falk,YCSb,DNC 18,DNC 18,DNC 18,16,10,80,,16
+GER,8415,Elmar Neugart,Carola Bernecker,SZHB,DNF 18,16,15,17,DNC 18,84,,17
