@@ -1,0 +1,63 @@
+Country,Boat Number,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Brutto,Netto,Place
+GER,8651,Claas Lehmann,Martin Schöler,NRV,2,3,2,1,1,9,,1
+GER,8851,Wolfgang Hunger,Holger Jess,PYC,3,2,1,6,3,15,,2
+GER,8728,Dietrich Scheder-Bieschin,Rainer Görge,NRV,12,1,6,9,2,30,,3
+GER,8672,Christian Kellner,Klaus Stammerjohann,HSC,6,8,3,8,5,30,,4
+DEN,8620,Jan Saugmann,Morten Ramsbæk,HiS,7,4,4,7,9,31,,5
+FRA,8771,Philippe Boite,Fabrice Toupet,CVM,4,7,10,3,23,47,,6
+DEN,8656,Bo Petersen,Henrik Buhl,Faborg,11,18,9,5,8,51,,7
+GER,8876,Sophie Söllner,Wolfgang Stückl,CYC,5,6,19,DNC 63,7,100,,8
+GER,8850,Stefan Köchlin,Axel Priegann,SKF,17,5,5,11,DNF 63,101,,9
+GER,8875,Jens Findel,Johannes Tellen,KYC,22,20,12,4,4,62,,10
+GER,8725,Tom Gosch,Rolf Meyer,ENSFV,9,9,14,12,14,58,,11
+DEN,8849,Per Larsen,Henrik Andersen,Farum,1,12,28,DNF 63,12,116,,12
+GER,8744,Jörg Häger,Hans-Heinrich Rix,SCB,15,21,16,2,28,82,,13
+GER,8670,Martin Görge,Klaus Köhnlein,TSVS,10,19,18,19,16,82,,14
+GER,8580,Markus Mühlbauer,Andreas Achterberg,DTYC,8,15,13,19,30,85,,15
+GER,8669,Tim Böger,Thomas Jung,HSC,14,27,8,15,19,83,,16
+GER,8873,Boris Herrmann,Julien Kleiner,ZSK,23,11,7,DNF 63,18,122,,17
+GER,8720,Dirk Filimonow,Lars Stöckmann,BSV,13,22,21,26,6,88,,18
+DEN,8860,Rasmus Damsgaard,Søren Overbeck,HS,21,23,20,13,10,87,,19
+GER,8880,Helen Fischer,Robert Rothe,BYC,16,14,23,22,15,90,,20
+GER,8750,Michael Rössler,Holger Neuhaus,SKMD,24,16,22,18,17,97,,21
+GER,8843,Nicolai Völckner,Lars Dehne,HSC,29,24,15,14,24,106,,22
+GER,8878,Hasso Plattner,Peter Alarie,KYC,25,34,27,16,11,113,,23
+GER,8466,Volker Niedik,Stefan Heising,BSV,31,10,11,OCS 63,33,148,,24
+SWE,8581,Magnus Nilsson,Andreas Carlsson,GKSS,28,25,35,33,13,134,,25
+FRA,8683,Pierre-Jean Gallo,Regis Viateur,CNE,37,26,26,20,31,140,,26
+GER,8775,Carsten Engel,Tobias Neumeyer,PSVK,36,42,31,23,22,154,,27
+DEN,8664,Franziska Unkelbach,Wolfgang Bogacki,KYC,20,13,40,43,45,161,,28
+GER,8730,Jens Hufnagel,Markus Schöner,ScStM,43,29,24,21,50,167,,29
+GER,8675,Volker Görge,Karsten Morf,TSVS,45,35,25,17,41,163,,30
+DEN,8495,Jesper Legin Larsen,Allan Andreasen,Polytek,19,44,32,24,49,168,,31
+GER,8642,Thoralf Greger,Christoph Klein,ASVG,32,39,49,28,25,173,,32
+GER,8478,Malte Christophersen,Sebastian Salein,KAR,44,28,39,38,20,169,,33
+GER,8625,Alex Cross,Falko Braun,SCR,33,31,37,35,26,162,,34
+GER,8751,Melanie Horstmann,Angela Stenger,HSC,27,48,42,37,21,175,,35
+GER,8825,Armin Eismann,Tino Käcks,SCA,18,43,46,40,27,174,,36
+GER,8686,Christian Niefert,Thomas Weber,BSV,42,30,30,31,39,172,,37
+GER,8563,Klaus Heeschen,Stefan Schmidt,WSCW,46,33,33,32,32,176,,38
+DEN,8826,Tom Bøjland,Jakob Karbo,Farum,30,17,17,DNF 63,DNC 63,190,,39
+GER,8575,Oliver Korittki,Florian Reichel,SLSV,34,49,38,25,38,184,,40
+GER,8747,Jörg Thumann,Oliver Stieglitz,TuSJ,35,38,36,27,37,173,,41
+GER,8702,Martin Handel,Felix Klöpfer,SGK,26,37,DSQ 63,39,35,200,,42
+GER,8806,Jan Forster,Daniel Wehden,SGaM,39,40,34,29,47,189,,43
+GER,8788,Karsten Lahrs,Peter Gerdts,HYC,48,36,29,42,40,195,,44
+GER,8777,Stefan Schollmayer,Francisco Sanguino,SCMSP,OCS 63,32,45,30,44,214,,45
+GER,8609,Alexander Holzapfel,Stefan Worm,PSVK,41,41,41,44,29,196,,46
+GER,8657,Georg Neulen,Kai-Uwe Weiss,WYCA,47,46,48,36,36,213,,47
+GER,8522,Hannes Lehning,Christoph Fuchs,SWE,40,45,43,46,46,220,,48
+GER,8505,Adalbert Kluck,Gerhard Schmidt,TSVS,49,53,44,34,DNC 63,243,,49
+GER,8560,Christiane Giefers,Wolf Pfeiffer,SVPB,50,51,47,41,42,231,,50
+GER,8734,Jan Behrendt,Stefan Thurmann,NRV,51,52,51,47,34,235,,51
+GER,6786,Hendrik Reinhardt,Axel Schult,SVSF,56,50,52,48,43,249,,52
+GER,8632,Gunter Peters,Steffen Achenbach,,38,47,50,DNC 63,DNC 63,261,,53
+GER,8418,Jan Sell,Wiebke Gewinn,TUSF,52,54,53,49,48,256,,54
+GER,6500,Lutz Kandzia,Martin Deutscher,ASV,59,57,55,45,55,271,,55
+GER,8065,Jonas von Weidenberg,Christian Kusche,SCE,53,56,56,53,53,271,,56
+GER,8450,Jürgen Feuerhake,Anne Nehrenberg,YCSb,54,60,58,51,54,277,,57
+GER,8538,Lars Metzner,Enno Thaeter,SVN,58,59,57,50,DNC 63,287,,58
+GER,8392,Konrad Barop,Justus Rauno,RSV,55,58,60,DNC 63,51,287,,59
+GER,8517,Tobias Kollmann,Heike Winchenbach,KYC,57,61,59,54,56,287,,60
+GER,8674,Nick Dose,Andreas Poppe,,OCS 63,55,54,52,DNC 63,287,,61
+GER,8437,Carl-Uwe Böttner,Sebastian Schröder,WSV1921,DNF 63,62,DNC 63,DNC 63,52,303,,62
