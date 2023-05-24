@@ -1,15 +1,15 @@
-Platz,Steuermann,Vorschoter,Club,Boot,Platzierungen,Punkte
-1,Helen Fischer,Robert Rothe,BYC,GER 8880,"3,2,1",120
-2,Stefan Köchlin,Axel Priegann,SKF,GER 8850,"2,3,2","111,43"
-3,Jens Findel,Holger Jess,KYC,GER 8878,"1,4,3","102,86"
-4,Boris Herrmann,Julien Kleiner,ZSK,GER 8873,"6,1,4","94,29"
-5,Jens-Peter Schlomka,Urs Wihlfart,TSVS,GER 8665,"4,5,7","85,71"
-6,Tim Steinert,Lars Dehne,ZSK,GER 8843,"5,6,8","77,14"
-7,Jürgen Anton,Thomas Tschentscher,HSC,GER 8433,"7,7,5","68,57"
-8,Annika Lüneberg,Franziska Stolzmann,KAR,GER 8599,"8,11,9",60
-9,Jörg Thumann,Oliver Stieglitz,TuSJ,GER 8747,"DNC,8,6","51,43"
-10,Klaus Heeschen,Eva Steinjans,WSCW,GER 8563,"9,9,OCS","42,86"
-11,Karsten Stümpel,Jens Hufnagel,HSC,GER 8370,"DNF,10,10","34,29"
-12,Peter Schäftlein,Uwe Kersten,SVF,GER 8252,"10,DSQ,11","25,71"
-13,Stephan RAmm,Andreas Ramm,NRV,GER 388,"11,DNC,DNC","17,14"
-14,Heiko Wehde,Carsten Boldt,SVF,GER 7548,"12,DNC,DNC","8,57"
+Country,Boat Number,Helm,Crew,Club,Race 1,Race 2,Race 3,Brutto,Netto,Place
+GER,8880,Helen Fischer,Robert Rothe,BYC,3,2,1,6,6,1
+GER,8850,Stefan Köchlin,Axel Priegann,SKF,2,3,2,7,7,2
+GER,8878,Jens Findel,Holger Jess,KYC,1,4,3,8,8,3
+GER,8873,Boris Herrmann,Julien Kleiner,ZSK,6,1,4,11,11,4
+GER,8665,Jens-Peter Schlomka,Urs Wihlfart,TSVS,4,5,7,16,16,5
+GER,8843,Tim Steinert,Lars Dehne,ZSK,5,6,8,19,19,6
+GER,8433,Jürgen Anton,Thomas Tschentscher,HSC,7,7,5,19,19,7
+GER,8599,Annika Lüneberg,Franziska Stolzmann,KAR,8,11,9,28,28,8
+GER,8747,Jörg Thumann,Oliver Stieglitz,TuSJ,DNC 15,8,6,29,29,9
+GER,8563,Klaus Heeschen,Eva Steinjans,WSCW,9,9,OCS 15,33,33,10
+GER,8370,Karsten Stümpel,Jens Hufnagel,HSC,DNF 15,10,10,35,35,11
+GER,8252,Peter Schäftlein,Uwe Kersten,SVF,10,DSQ 15,11,36,36,12
+GER,388*,Stephan Ramm,Andreas Ramm,NRV,11,DNC 15,DNC 15,41,41,13
+GER,7548,Heiko Wehde,Carsten Boldt,SVF,12,DNC 15,DNC 15,42,42,14

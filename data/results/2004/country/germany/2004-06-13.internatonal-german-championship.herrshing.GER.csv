@@ -1,54 +1,54 @@
-Platz,Steuermann,Vorschoter,Club,Boot,Platzierungen,Punkte
-1,Lutz Stengel,Frank Feller,ROYC,GER 8622,"4,1,5,2,3",145
-2,Christian Kellner,Klaus Stammerjohann,HSC,GER 8632,"5,10,1,3,14","142,26"
-3,Dirk Filimonow,Lars Stöckmann,BSV,GER 8720,"12,3,7,8,1","139,53"
-4,Ian Pinnell,Edward Cox,GWSC,GBR 8834,"8,2,9,7,23","136,79"
-5,Morten Bogacki,Wolfgang Bogacki,DYC,GER 8807,"DNC,6,10,5,5","134,06"
-6,Volker Niedik,Stefan Heising,BSV,GER 8466,"1,12,8,47,10","131,32"
-7,Stefan Böhm,Gerald Roos,SCV,GER 8769,"DNF,5,3,15,8","128,58"
-8,Philippe Boite,Pierre-Jean Gallo,CVM,FRA 8802,"3,17,14,9,6","125,85"
-9,Tom Swift,Rainer Görge,NRV,GER 8775,"2,21,2,25,13","123,11"
-10,Hans-Heinrich Rix,Martin Schöler,TSVS,GER 8651,"6,22,17,11,4","120,38"
-11,Stefanie Wagner,Wolfgang Stückl,DTYC,GER 8633,"16,18,15,1,7","117,64"
-12,Robert Wisolek,Nette Jansen,SCLW,GER 8519,"7,8,35,13,11","114,91"
-13,Markus Mühlbauer,Andreas Achterberg,DTYC,GER 8580,"23,16,20,4,2","112,17"
-14,Michael Rössler,Holger Neuhaus,SKMD,GER 8750,"14,11,4,16,24","109,43"
-15,Alexander Holzapfel,Dirk Ipach,PSVK,GER 8609,"11,9,13,14,38","106,7"
-16,Christian Niefert,Thomas Weber,BSV,GER 8686,"9,20,19,10,26","103,96"
-17,Rainer Gerdes,Falk Stenger,SSCK,GER 8441,"18,15,30,6,25","101,23"
-18,Thoralf Greger,Thomas Jung,ASVG,GER 8642,"33,7,11,27,19","98,49"
-19,Jens Findel,Florian Reichel,KYC,GER 8619,"17,32,12,18,21","95,75"
-20,Sebastian Dörr,Christian Dörr,HSC,GER 8652,"26,13,23,23,12","93,02"
-21,Melanie Horstmann,Angela Stenger,HSC,GER 8751,"13,25,18,31,15","90,28"
-22,Karsten Lahrs,Peter Gerdts,HYC,GER 8788,"24,4,39,24,22","87,55"
-23,Volker Görge,Marlies Endjer,TSVS,GER 8675,"22,34,6,38,16","84,81"
-24,Kristine König,Thilo König,BSV,GER 8127,"19,35,16,30,18","82,08"
-25,Stefan Schollmayer,Francisco Sanguino,SCMSP,GER 8777,"10,OCS,28,33,20","79,34"
-26,Alex Cross,Falko Braun,SCR,GER 8625,"21,24,29,21,27","76,6"
-27,Stephan Krause,Michael Krause,HiSC,GER 8749,"38,28,22,20,30","73,87"
-28,Hendrik Reinhardt,Axel Schult,SVSF,GER 6786,"25,25,33,19,41","71,13"
-29,Michael Quirk,Neil Flucher,MHYC,AUS 8836,"DNC,31,BFD,12,9","68,4"
-30,Francis Cram,Simon Lake,HISC,GBR 8835,"30,30,21,29,DNC","65,66"
-31,Wolfgang Seifert,Christian Voggeser,SCLW,GER 8562,"29,43,26,22,33","62,92"
-32,Günther Böckle,Frank Heimburger,SSCM,GER 8691,"40,29,31,17,34","60,19"
-33,Alexander von Mertens,Pia Wiesbauer,StSC,GER 8530,"46,23,24,28,37","57,45"
-34,Thorsten Koch,Franziska Koch,SCLW,GER 8375,"37,14,34,42,28","54,72"
-35,Nathalie Friedrich,Claudius Zeiler,SCLW,GER 7442,"20,19,38,40,39","51,98"
-36,Christina Höll,Alexander Wilhelm,HSC,GER 7661,"31,36,27,36,29","49,25"
-37,Philippe Noclain,Jean-Marc Noclain,CVA,FRA 8742,"41,42,25,41,17","46,51"
-38,Hannes Lehning,Jens Rohn,SWE,GER 8522,"34,33,32,32,35","43,77"
-39,Martin Handel,Karsten Contag,SGK,GER 8702,"35,27,37,44,36","41,04"
-40,Stefan Worm,Christiane Giefers,RYC,GER 8458,"27,OCS,36,43,32","38,3"
-41,Dirk Hänsgen,Frank Rupprich,SVPB,GER 8546,"39,40,DNC,26,40","35,57"
-42,Jochen Heydolph,Christina Friedrich,SCLW,GER 7921,"28,38,45,48,45","32,83"
-43,Andreas Lehmann,Robert Hanke,VsAW,GER 8365,"43,47,42,34,44","30,09"
-44,Klaus Eifler,Nils Burghard,SCLW,GER 8518,"42,37,41,46,43","27,36"
-45,Bernard Blondy,Roger Chabaud,CVA,FRA 8301,"32,41,46,47,46","24,62"
-46,Antje Paulsen,Björn Schaar,BSV,GER 8412,"45,39,49,45,DNC","21,89"
-47,Guido von Walter,Wiebke Waldheim,SCLW,GER 8204,"50,49,43,39,42","19,15"
-48,Axel Fischer,Tanja Seegelke,RCTT,GER 8282,"49,48,44,35,48","16,42"
-49,Uwe Hoffmann,Verena Hoffmann,WSVR,SUI 8571,"44,46,DNC,DNC,31","13,68"
-50,Hans-Otto Frisch,Achim Funk,SCLW,GER 8697,"15,DNC,DNC,DNC,DNC","10,94"
-51,Benjamin Grosskurth,Susanne Grosskurth,SCLW,GER 7801,"47,44,47,49,47","8,21"
-52,Nicolai Völckner,Lars Dehne,HSC,GER 8843,"36,DNC,DNC,DNC,DNC","5,47"
-53,Heike Winchenbach,Christoph Klein,SKBUe,GER 8418,"48,45,DNC,DNC,DNC","2,74"
+Country,Boat Number,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Brutto,Netto,Place
+GER,8622,Lutz Stengel,Frank Feller,ROYC,4,1,5,2,3,15,,1
+GER,8632,Christian Kellner,Klaus Stammerjohann,HSC,5,10,1,3,14,33,,2
+GER,8720,Dirk Filimonow,Lars Stöckmann,BSV,12,3,7,8,1,31,,3
+GBR,8834,Ian Pinnell,Edward Cox,GWSC,8,2,9,7,23,49,,4
+GER,8807,Morten Bogacki,Wolfgang Bogacki,DYC,DNC 54,6,10,5,5,80,,5
+GER,8466,Volker Niedik,Stefan Heising,BSV,1,12,8,47,10,78,,6
+GER,8769,Stefan Böhm,Gerald Roos,SCV,DNF 54,5,3,15,8,85,,7
+FRA,8802,Philippe Boite,Pierre-Jean Gallo,CVM,3,17,14,9,6,49,,8
+GER,8775,Tom Swift,Rainer Görge,NRV,2,21,2,25,13,63,,9
+GER,8651,Hans-Heinrich Rix,Martin Schöler,TSVS,6,22,17,11,4,60,,10
+GER,8633,Stefanie Wagner,Wolfgang Stückl,DTYC,16,18,15,1,7,57,,11
+GER,8519,Robert Wisolek,Nette Jansen,SCLW,7,8,35,13,11,74,,12
+GER,8580,Markus Mühlbauer,Andreas Achterberg,DTYC,23,16,20,4,2,65,,13
+GER,8750,Michael Rössler,Holger Neuhaus,SKMD,14,11,4,16,24,69,,14
+GER,8609,Alexander Holzapfel,Dirk Ipach,PSVK,11,9,13,14,38,85,,15
+GER,8686,Christian Niefert,Thomas Weber,BSV,9,20,19,10,26,84,,16
+GER,8441,Rainer Gerdes,Falk Stenger,SSCK,18,15,30,6,25,94,,17
+GER,8642,Thoralf Greger,Thomas Jung,ASVG,33,7,11,27,19,97,,18
+GER,8619,Jens Findel,Florian Reichel,KYC,17,32,12,18,21,100,,19
+GER,8652,Sebastian Dörr,Christian Dörr,HSC,26,13,23,23,12,97,,20
+GER,8751,Melanie Horstmann,Angela Stenger,HSC,13,25,18,31,15,102,,21
+GER,8788,Karsten Lahrs,Peter Gerdts,HYC,24,4,39,24,22,113,,22
+GER,8675,Volker Görge,Marlies Endjer,TSVS,22,34,6,38,16,116,,23
+GER,8127,Kristine König,Thilo König,BSV,19,35,16,30,18,118,,24
+GER,8777,Stefan Schollmayer,Francisco Sanguino,SCMSP,10,OCS 54,28,33,20,145,,25
+GER,8625,Alex Cross,Falko Braun,SCR,21,24,29,21,27,122,,26
+GER,8749,Stephan Krause,Michael Krause,HiSC,38,28,22,20,30,138,,27
+GER,6786,Hendrik Reinhardt,Axel Schult,SVSF,25,25,33,19,41,143,,28
+AUS,8836,Michael Quirk,Neil Fulcher,MHYC,DNC 54,31,BFD 54,12,9,160,,29
+GBR,8835,Francis Cram,Simon Lake,HISC,30,30,21,29,DNC 54,164,,30
+GER,8562,Wolfgang Seifert,Christian Voggeser,SCLW,29,43,26,22,33,153,,31
+GER,8691,Günther Böckle,Frank Heimburger,SSCM,40,29,31,17,34,151,,32
+GER,8530,Alexander von Mertens,Pia Wiesbauer,StSC,46,23,24,28,37,158,,33
+GER,8375,Thorsten Koch,Franziska Koch,SCLW,37,14,34,42,28,155,,34
+GER,7442,Nathalie Friedrich,Claudius Zeiler,SCLW,20,19,38,40,39,156,,35
+GER,7661,Christina Höll,Alexander Wilhelm,HSC,31,36,27,36,29,159,,36
+FRA,8742,Philippe Noclain,Jean-Marc Noclain,CVA,41,42,25,41,17,166,,37
+GER,8522,Hannes Lehning,Jens Rohn,SWE,34,33,32,32,35,166,,38
+GER,8702,Martin Handel,Karsten Contag,SGK,35,27,37,44,36,179,,39
+GER,8458,Stefan Worm,Christiane Giefers,RYC,27,OCS 54,36,43,32,192,,40
+GER,8546,Dirk Hänsgen,Frank Rupprich,SVPB,39,40,DNC 54,26,40,199,,41
+GER,7921,Jochen Heydolph,Christina Friedrich,SCLW,28,38,45,48,45,204,,42
+GER,8365,Andreas Lehmann,Robert Hanke,VsAW,43,47,42,34,44,210,,43
+GER,8518,Klaus Eifler,Nils Burghard,SCLW,42,37,41,46,43,209,,44
+FRA,8301,Bernard Blondy,Roger Chabaud,CVA,32,41,46,47,46,212,,45
+GER,8412,Antje Paulsen,Björn Schaar,BSV,45,39,49,45,DNC 54,232,,46
+GER,8204,Guido von Walter,Wiebke Waldheim,SCLW,50,49,43,39,42,223,,47
+GER,8282,Axel Fischer,Tanja Seegelke,RCTT,49,48,44,35,48,224,,48
+SUI,8571,Uwe Hoffmann,Verena Hoffmann,WSVR,44,46,DNC 54,DNC 54,31,229,,49
+GER,8697,Hans-Otto Frisch,Achim Funk,SCLW,15,DNC 54,DNC 54,DNC 54,DNC 54,231,,50
+GER,7801,Benjamin Grosskurth,Susanne Grosskurth,SCLW,47,44,47,49,47,234,,51
+GER,8843,Nicolai Völckner,Lars Dehne,HSC,36,DNC 54,DNC 54,DNC 54,DNC 54,252,,52
+GER,8418,Heike Winchenbach,Christoph Klein,SKBUe,48,45,DNC 54,DNC 54,DNC 54,255,,53

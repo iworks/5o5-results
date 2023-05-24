@@ -1,20 +1,20 @@
-Platz,Steuermann,Vorschoter,Club,Boot,Platzierungen,Punkte
-1,Sophie Söllner,Wolfgang Stückl,CYC,GER 8876,"5,1,1,1",105
-2,Alexander Holzapfel,Stefan Worm,PSVK,GER 8609,"2,2,3,4","99,47"
-3,Michael Daisenberger,Florian Lautenschläger,DTYC,GER 8693,"3,5,2,5","93,95"
-4,Michael Seeger,Christoph Seeger,DTYC,GER 8580,"4,6,4,3","88,42"
-5,Thoralf Greger,Christina Berggren,ASVG,GER 8642,"1,4,7,7","82,89"
-6,Hendrik Schultz,Ute Oberländer,SCLW,GER 8539,"7,10,5,2","77,37"
-7,Nikolaus Jägersberg,Wolfgang Hiltscher,SCLW,GER 8654,"9,17,6,6","71,84"
-8,Stephan Schweiger,Alexander Aichele,SCLW,GER 8621,"6,7,10,8","66,32"
-9,Jochen Heydolph,Eckhard Busch,SCLW,GER 7921,"8,15,9,13","60,79"
-10,Hans-Jürgen Rentelmann,Peter Wackerbauer,BSC,GER 8579,"15,8,8,DNF","55,26"
-11,Göran Berggren,Agnes Berggren,SCLW,GER 8475,"4,11,11,9","49,74"
-12,Benjamin Grosskurth,Francisco Sanguino,SCLW,GER 8777,"18,9,12,11","44,21"
-13,Hans-Otto Frisch,Achim Funk,SCLW,GER 8861,"10,3,DNC,DNC","38,68"
-14,Timo Klapper,Christoph Demarczyk,SCLW,GER 7854,"12,12,13,10","33,16"
-15,Thorsten Koch,Franziska Koch,SCLW,GER 8507,"11,13,15,DNC","27,63"
-16,Karsten Contag,Sonja Göggelmann,SCLW,GER 8672,"13,14,14,12","22,11"
-17,Klaus Eifler,Thomas Thym,SCLW,GER 8518,"16,16,16,14","16,58"
-18,Johannes Schmederer,Dominik Hafner,DTYC,GER 8570,"17,18,DNF,DNF","11,05"
-19,Melanie Tschiche,Sebastian Hoering,SCHC,GER 8294,"19,OCS,DNF,DNC","5,53"
+Country,"Boat Number",Helm,Crew,Club,"Race 1","Race 2","Race 3","Race 4",Brutto,Netto,Place
+GER,8876,"Sophie Söllner","Wolfgang Stückl",CYC,5,1,1,1,8,,1
+GER,8609,"Alexander Holzapfel","Stefan Worm",PSVK,2,2,3,4,11,,2
+GER,8693,"Michael Daisenberger","Florian Lautenschläger",DTYC,3,5,2,5,15,,3
+GER,8580,"Michael Seeger","Christoph Seeger",DTYC,4,6,4,3,17,,4
+GER,8642,"Thoralf Greger","Christina Berggren",ASVG,1,4,7,7,19,,5
+GER,8539,"Hendrik Schultz","Ute Oberländer",SCLW,7,10,5,2,24,,6
+GER,8654,"Nikolaus Jägersberg","Wolfgang Hiltscher",SCLW,9,17,6,6,38,,7
+GER,8621,"Stephan Schweiger","Alexander Aichele",SCLW,6,7,10,8,31,,8
+GER,7921,"Jochen Heydolph","Eckhard Busch",SCLW,8,15,9,13,45,,9
+GER,8579,"Hans-Jürgen Rentelmann","Peter Wackerbauer",BSC,15,8,8,"DNF 20",51,,10
+GER,8475,"Göran Berggren","Agnes Berggren",SCLW,4,11,11,9,35,,11
+GER,8777,"Benjamin Grosskurth","Francisco Sanguino",SCLW,18,9,12,11,50,,12
+GER,8861,"Hans-Otto Frisch","Achim Funk",SCLW,10,3,"DNC 20","DNC 20",53,,13
+GER,7854,"Timo Klapper","Christoph Demarczyk",SCLW,12,12,13,10,47,,14
+GER,8507,"Thorsten Koch","Franziska Koch",SCLW,11,13,15,"DNC 20",59,,15
+GER,8672,"Karsten Contag","Sonja Göggelmann",SCLW,13,14,14,12,53,,16
+GER,8518,"Klaus Eifler","Thomas Thym",SCLW,16,16,16,14,62,,17
+GER,8570,"Johannes Schmederer","Dominik Hafner",DTYC,17,18,"DNF 20","DNF 20",75,,18
+GER,8294,"Melanie Tschiche","Sebastian Hoering",SCHC,19,"OCS 20","DNF 20","DNC 20",79,,19

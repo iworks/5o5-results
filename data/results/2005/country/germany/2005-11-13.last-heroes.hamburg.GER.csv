@@ -1,22 +1,22 @@
-Platz,Steuermann,Vorschoter,Club,Boot,Platzierungen,Punkte
-1,Felix Oehme,Julien Kleiner,,GER 8873,"4,2,2",100
-2,Morten Bogacki,Wolfgang Bogacki,DYC,GER 8807,"3,5,1","95,24"
-3,Dietrich Scheder-Bieschin,Rainer Görge,NRV,GER 8728,"1,6,3","90,48"
-4,Claas Lehmann,Martin Schöler,NRV,GER 8651,"2,1,8","85,71"
-5,Tim Böger,Andreas John,HSC,GER 8669,"5,3,4","80,95"
-6,Silke Hahlbrock,Arnd Hover,HSC,GER 8670,"6,4,6","76,19"
-7,Eva Steinjans,Holger Jess,TSVS,GER 8851,"10,7,5","71,43"
-8,Jens Hufnagel,Lars Dehne,ScStM,GER 8843,"8,9,9","66,67"
-9,Jan Stölken,Matthias Brühl,SCU,GER 8662,"9,8,10","61,9"
-10,Jens-Peter Schlomka,Urs Wihlfart,TSVS,GER 8665,"7,BFD,7","57,14"
-11,Hannes Lehning,Holger Lehning,SWE,GER 8522,"15,10,13","52,38"
-12,Andreas Jungclaus,Ulf Denecke,HSC,GER 6816,"14,13,12","47,62"
-13,Klaus Heeschen,Karsten Stümpel,WSCW,GER 8563,"12,14,15","42,86"
-14,Christiane Giefers,Stefan Worm,SVPB,GER 8874,"21,11,11","38,1"
-15,Jan Sell,Wiebke Gewinn,TUSF,GER 8418,"11,15,17","33,33"
-16,Hendrik Reinhardt,Anika Kerkow,SVSF,GER 6786,"20,12,14","28,57"
-17,Michael Köritz,Harald Hundt,USCO,GER 7035,"16,16,16","23,81"
-18,Steve Kwee,Henrik Masekowitz,HSC,GER 8619,"13,17,19","19,05"
-19,Oliver Korittki,Benjamin Bintig,SLSV,GER 8575,"17,18,20","14,29"
-20,Christian Lempp,Andre Lendi,HSC,GER 7746,"19,20,18","9,52"
-21,Markus Hintz,Andreas Frech,HSC,GER 7732,"18,91,21","4,76"
+Country,"Boat Number",Helm,Crew,Club,"Race 1","Race 2","Race 3",Brutto,Netto,Place
+GER,8873,"Felix Oehme","Julien Kleiner",,4,2,2,8,8,1
+GER,8807,"Morten Bogacki","Wolfgang Bogacki",DYC,3,5,1,9,9,2
+GER,8728,"Dietrich Scheder-Bieschin","Rainer Görge",NRV,1,6,3,10,10,3
+GER,8651,"Claas Lehmann","Martin Schöler",NRV,2,1,8,11,11,4
+GER,8669,"Tim Böger","Andreas John",HSC,5,3,4,12,12,5
+GER,8670,"Silke Hahlbrock","Arnd Hover",HSC,6,4,6,16,16,6
+GER,8851,"Eva Steinjans","Holger Jess",TSVS,10,7,5,22,22,7
+GER,8843,"Jens Hufnagel","Lars Dehne",ScStM,8,9,9,26,26,8
+GER,8662,"Jan Stölken","Matthias Brühl",SCU,9,8,10,27,27,9
+GER,8665,"Jens-Peter Schlomka","Urs Wihlfart",TSVS,7,"BFD 22",7,36,36,10
+GER,8522,"Hannes Lehning","Holger Lehning",SWE,15,10,13,38,38,11
+GER,6816,"Andreas Jungclaus","Ulf Denecke",HSC,14,13,12,39,39,12
+GER,8563,"Klaus Heeschen","Karsten Stümpel",WSCW,12,14,15,41,41,13
+GER,8874,"Christiane Giefers","Stefan Worm",SVPB,21,11,11,43,43,14
+GER,8418,"Jan Sell","Wiebke Gewinn",TUSF,11,15,17,43,43,15
+GER,6786,"Hendrik Reinhardt","Anika Kerkow",SVSF,20,12,14,46,46,16
+GER,7035,"Michael Köritz","Harald Hundt",USCO,16,16,16,48,48,17
+GER,8619,"Steve Kwee","Henrik Masekowitz",HSC,13,17,19,49,49,18
+GER,8575,"Oliver Korittki","Benjamin Bintig",SLSV,17,18,20,55,55,19
+GER,7746,"Christian Lempp","Andre Lendi",HSC,19,20,18,57,57,20
+GER,7732,"Markus Hintz","Andreas Frech",HSC,18,91,21,130,130,21
