@@ -88,7 +88,10 @@ if ( in_array( 'all', $argv ) ) {
  */
 $one_file = false;
 foreach ( $argv as $one ) {
-	if ( preg_match( '/^--file=(.+)$/', $one, $matches ) ) {
+	if (
+		preg_match( '/^--file=(.+)$/', $one, $matches )
+		|| preg_match( '/^--f=(.+)$/', $one, $matches )
+	) {
 		if ( is_file( $matches[1] ) ) {
 			$one_file = preg_replace( '@data/[^/]+/@', '', $matches[1] );
 		}
