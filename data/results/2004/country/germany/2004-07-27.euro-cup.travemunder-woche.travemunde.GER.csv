@@ -1,0 +1,43 @@
+Country,"Boat Number",Helm,Crew,Club,"Race 1","Race 2","Race 3","Race 4","Race 5","Race 6","Race 7","Race 8","Race 9",Brutto,Netto,Place
+GER,8850,"Stefan Köchlin","Axel Priegann",SKF,1,1,1,2,1,9,4,4,3,26,,1
+GER,8768,"Jörg Häger","Holger Jess",SCB,3,6,3,7,8,18,1,3,2,51,,2
+GER,8750,"Michael Rössler","Holger Neuhaus",SKMD,4,7,4,10,2,12,2,2,5,48,,3
+GER,8807,"Jens Findel","Wolfgang Bogacki",KYC,6,3,2,4,5,2,6,7,15,50,,4
+GER,8720,"Dirk Filimonow","Lars Stöckmann",BSV,2,2,7,3,13,17,3,6,8,61,,5
+GER,8622,"Lutz Stengel","Falko Braun",ROYC,9,5,10,1,16,7,7,9,1,65,,6
+GER,8580,"Markus Mühlbauer","Andreas Achterberg",DTYC,7,9,5,6,18,21,5,11,6,88,,7
+GER,8725,"Tom Gosch","Antje Gosch",ENSFV,22,13,13,13,7,11,8,1,4,92,,8
+GER,8608,"Bernd Rasenack","Jens Steinert",ZSK,13,4,16,9,6,1,23,10,22,104,,9
+GER,8633,"Sophie Söllner","Wolfgang Stückl",CYC,14,19,9,8,9,5,10,8,"DNC 43",125,,10
+GER,8675,"Volker Görge","Karsten Morf",TSVS,8,10,14,23,15,6,9,5,21,111,,11
+GER,8663,"Norbert Dasenbrook","Sven Meier",KSW,15,8,19,11,4,13,19,15,11,115,,12
+GER,8531,"Michael Troch","Eckart König",SGJ,11,14,11,21,11,10,26,16,9,129,,13
+GER,8686,"Christian Niefert","Thomas Weber",BSV,10,15,6,19,20,16,22,12,17,137,,14
+GER,8730,"Jens Hufnagel","Markus Schöner",ScStM,12,16,18,14,19,3,29,14,27,152,,15
+GER,8788,"Karsten Lahrs","Peter Gerdts",HYC,18,12,"DNC 43",16,21,8,13,13,23,167,,16
+GER,8747,"Jörg Thumann","Oliver Stieglitz",TuSJ,17,25,23,15,14,4,"DNF 43",18,12,171,,17
+GER,8471,"Daniel Van Bonn","Malte Coers",SKBUE,16,18,12,24,12,19,12,20,28,161,,18
+GER,8563,"Klaus Heeschen","Stefan Schmidt",WSCW,21,11,8,25,10,15,28,22,24,164,,19
+GER,8692,"Nicolai Völckner","Lars Dehne",HSC,5,17,15,12,27,27,20,17,"DNC 43",183,,20
+GER,8749,"Stephan Krause","Michael Krause",HiSC,19,21,17,26,17,14,30,26,10,180,,21
+GER,8550,"Helen Fischer","Robert Rothe",BYC,"DNC 43","DNC 43","DNC 43",5,3,23,24,19,14,217,,22
+GER,8127,"Kristine König","Thilo König",BSV,23,24,25,20,30,26,11,30,7,196,,23
+GER,8711,"Carsten Engel","Tobias Neumeyer",PSVK,26,28,20,31,24,22,17,23,13,204,,24
+GER,8657,"Georg Neulen","Kai-Uwe Weiss",WYCA,24,22,24,28,23,20,21,21,19,202,,25
+GER,8530,"Alexander von Mertens","Johannes Schmederer",StSC,25,26,21,18,26,24,15,32,"DNC 43",230,,26
+GER,8433,"Jürgen Anton","Wolf Pfeiffer",HSC,20,23,31,17,25,35,25,31,35,242,,27
+GER,8522,"Hannes Lehning","Lars Wötzel",SWE,29,20,26,37,35,36,31,24,16,254,,28
+GER,8607,"Antje Paulsen","Björn Schaar",BSV,31,30,33,22,22,25,32,25,34,254,,29
+GER,8712,"Siegfried Labenz","Christian Labenz",SVWu,28,31,29,27,29,33,40,29,29,275,,30
+GER,8404,"Jan Forster","Daniel Wehden",SGaM,32,29,27,30,31,37,27,27,"DNC 43",283,,31
+GER,8414,"Stefan Worm","Andreas Klein",RYC,33,"OCS 43",22,"DNC 43","DNC 43",31,16,34,26,291,,32
+GER,8599,"Henning Wehke","John Fiolka",TSV,35,34,36,36,32,34,18,28,31,284,,33
+GER,8528,"Andre Tirre","Frank Wille",YCS,27,27,34,34,28,30,35,37,32,284,,34
+GER,7764,"Jan Sell","Wiebke Gewinn",TUSF,30,33,28,29,33,29,34,38,33,287,,35
+GER,8390,"Olaf Reckers","Jens Westermann",HISC,34,35,30,32,34,28,37,40,"DNF 43",313,,36
+GER,8392,"Konrad Barop","Justus Rauno",RSV,36,36,35,39,37,32,39,39,18,311,,37
+GER,8365,"Nicole Walkowiack","Robert Hanke",VSW,39,"DNC 43","DNC 43",33,36,"DNF 43",33,36,20,326,,38
+GER,8128,"Mathias Konrad-Schmolke","Katrin Konrad-Schmolke",SV03,37,32,"DNC 43",38,"DNC 43","DNC 43",36,35,25,332,,39
+GER,8609,"Alexander Holzapfel","Dirk Ipach",PSVK,"DNF 43","DNC 43","DNC 43","DNC 43","DNC 43","DNC 43",14,33,30,335,,40
+GER,8049,"Rebecca Strahl","Thorge Holm",BOHYC,38,37,32,35,38,"DNF 43",38,41,36,338,,41
+GER,6352,"Arne Stolze","Jost Meyer",LYC,"DNF 43","DNC 43","DNC 43",40,39,"DNC 43","DNC 43","DNC 43","DNC 43",380,,42
