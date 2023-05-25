@@ -50,6 +50,7 @@ if ( sizeof( $argv ) === 1 ) {
 	echo '- registry',PHP_EOL;
 	echo '- sailors',PHP_EOL;
 	echo '- results',PHP_EOL;
+	echo '- results --file=filename',PHP_EOL;
 	exit;
 }
 
@@ -80,6 +81,17 @@ if ( in_array( 'all', $argv ) ) {
 		|| in_array( 'results', $argv )
 	) {
 		$import_results = true;
+	}
+}
+/**
+ * maybe import only one file?
+ */
+$one_file = false;
+foreach ( $argv as $one ) {
+	if ( preg_match( '/^--file=(.+)$/', $one, $matches ) ) {
+		if ( is_file( $matches[1] ) ) {
+			$one_file = preg_replace( '@data/[^/]+/@', '', $matches[1] );
+		}
 	}
 }
 
@@ -623,7 +635,49 @@ if ( $import_registry && ( $handle = fopen( $data_root . '/' . $import_config['b
 
 /**
  * Import events
+ *
+ * Fields:
+ *
+ * [0] => iworks_fleet_result_date_start
+ * [1] => iworks_fleet_result_date_end
+ * [2] => post_title
+ * [3] => iworks_fleet_result_english
+ * [4] => iworks_fleet_result_number_of_races
+ * [5] => iworks_fleet_result_number_of_competitors
+ * [6] => city
+ * [7] => iworks_fleet_result_organizer
+ * [8] => iworks_fleet_result_secretary
+ * [9] => iworks_fleet_result_arbiter
+ * [10] => iworks_fleet_result_wind_direction
+ * [11] => iworks_fleet_result_wind_power
+ * [12] => post_content
+ * [13] => file
+ * [14] => iworks_fleet_serie
+ * [15] => iworks_fleet_result_location
+ * [16] => country
+ * [17] => iworks_fleet_result_columns
  */
+$fields = array(
+	0  => 'iworks_fleet_result_date_start',
+	1  => 'iworks_fleet_result_date_end',
+	2  => 'post_title',
+	3  => 'iworks_fleet_result_english',
+	4  => 'iworks_fleet_result_number_of_races',
+	5  => 'iworks_fleet_result_number_of_competitors',
+	6  => 'city',
+	7  => 'iworks_fleet_result_organizer',
+	8  => 'iworks_fleet_result_secretary',
+	9  => 'iworks_fleet_result_arbiter',
+	10 => 'iworks_fleet_result_wind_direction',
+	11 => 'iworks_fleet_result_wind_power',
+	12 => 'post_content',
+	13 => 'file',
+	14 => 'iworks_fleet_serie',
+	15 => 'iworks_fleet_result_location',
+	16 => 'country',
+	17 => 'iworks_fleet_result_date_added',
+	18 => 'iworks_fleet_result_columns',
+);
 if ( $import_results && ( $handle = fopen( $data_root . '/' . $import_config['events'], 'r' ) ) !== false ) {
 	$series = array();
 	echo PHP_EOL,'IMPORT: ' . $import_config['events'],PHP_EOL;
@@ -631,47 +685,12 @@ if ( $import_results && ( $handle = fopen( $data_root . '/' . $import_config['ev
 		if ( 1 > intval( $data[0] ) ) {
 			continue;
 		}
-		/*
-		[0] => iworks_fleet_result_date_start
-		[1] => iworks_fleet_result_date_end
-		[2] => post_title
-		[3] => iworks_fleet_result_english
-		[4] => iworks_fleet_result_number_of_races
-		[5] => iworks_fleet_result_number_of_competitors
-		[6] => city
-		[7] => iworks_fleet_result_organizer
-		[8] => iworks_fleet_result_secretary
-		[9] => iworks_fleet_result_arbiter
-		[10] => iworks_fleet_result_wind_direction
-		[11] => iworks_fleet_result_wind_power
-		[12] => post_content
-		[13] => file
-		[14] => iworks_fleet_serie
-		[15] => iworks_fleet_result_location
-		[16] => country
-		[17] => iworks_fleet_result_columns
+		/**
+		 * maybe import one file
 		 */
-		$fields = array(
-			0  => 'iworks_fleet_result_date_start',
-			1  => 'iworks_fleet_result_date_end',
-			2  => 'post_title',
-			3  => 'iworks_fleet_result_english',
-			4  => 'iworks_fleet_result_number_of_races',
-			5  => 'iworks_fleet_result_number_of_competitors',
-			6  => 'city',
-			7  => 'iworks_fleet_result_organizer',
-			8  => 'iworks_fleet_result_secretary',
-			9  => 'iworks_fleet_result_arbiter',
-			10 => 'iworks_fleet_result_wind_direction',
-			11 => 'iworks_fleet_result_wind_power',
-			12 => 'post_content',
-			13 => 'file',
-			14 => 'iworks_fleet_serie',
-			15 => 'iworks_fleet_result_location',
-			16 => 'country',
-			17 => 'iworks_fleet_result_date_added',
-			18 => 'iworks_fleet_result_columns',
-		);
+		if ( $one_file && $one_file !== $data[13] ) {
+			continue;
+		}
 		foreach ( $fields as $index => $key ) {
 			$value = '';
 			if ( isset( $data[ $index ] ) ) {
