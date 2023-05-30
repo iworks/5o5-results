@@ -5107,6 +5107,7 @@ class iworks_5o5_upload_fixer {
 		'Gael Conversy'               => 'Gaël Conversy',
 		'Gael Le Mauguen'             => 'Gael le Mauguen',
 		'Gael le Mauguen'             => 'Gaël le Mauguen',
+		'Gael Le Mauguen'             => 'Gaël le Mauguen',
 		'Gall Pierre Jean'            => 'Pierre-Jean Gallo',
 		'Gallardo Bruno'              => 'Bruno Gallardo',
 		'Gallo Pablo'                 => 'Pablo Gallo',

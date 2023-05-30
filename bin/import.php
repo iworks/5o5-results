@@ -95,9 +95,14 @@ foreach ( $argv as $one ) {
 		if ( is_file( $matches[1] ) ) {
 			$one_file = preg_replace( '@data/[^/]+/@', '', $matches[1] );
 		}
+	} elseif (
+		2 < count( $argv )
+		&& preg_match( '/^(e|events)$/', $argv[1] )
+		&& preg_match( '/^data\/results/', $argv[2] )
+	) {
+		$one_file = $argv[2];
 	}
 }
-
 /**
  * import sailors
  */
