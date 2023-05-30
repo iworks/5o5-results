@@ -23,7 +23,7 @@ GER 8843,Voelckner,Lars Dehne,,11,27,19,30,22,37*,19,128,21
 USA 8776,Alexander Meller,Jesse Falsone,,31,45,103*,18,16,13,9,132,22
 USA 8715,Ethan Bixby,Boothe,,103*,9,30,43,6,9,36,133,23
 USA 8081,Barney Harris,Silverman,,41*,22,31,44,12,14,13,133,24
-USA 8829,Tyler Moore,Sparkman,,33,29,36,27,2,12,38*,139,25
+USA 8829,Tyler Moore,Steve Sparkman,,33,29,36,27,2,12,38*,139,25
 AUS 8853,Carter Jackson,Nicholson,,28,33*,18,22,28,19,29,144,26
 USA 8831,Kerry Poe,Paul von Grey,,27,38*,27,11,24,32,30,151,27
 GER 8619,Jens Findel,Johannes Tellen,,14,103*,17,16,34,51,22,154,28
@@ -55,8 +55,8 @@ AUS 8785,Ian Burford,Sam Cronin,,37,32,69,45,56,59,64*,293,53
 AUS 8855,Michael Duffield,Anthony Gaunt,,29,103*,53,49,69,47,47,294,54
 USA 7092,Tihansky,Dustin Romey,,57,30,64,59*,57,42,49,294,55
 USA 8084,Flam,Rob Waterman,,67,103*,20,38,52,50,68,295,56
-CAN 8192,Philip Cragg,Cross,,40,35,63*,60,43,76,55,296,57
-USA 6992,Brad Wheeler,Mais,,61*,41,70,55,41,58,42,298,58
+CAN 8192,Philip Cragg,David Cross,,40,35,63*,60,43,76,55,296,57
+USA 6992,Brad Wheeler,Bill Mais,,61*,41,70,55,41,58,42,298,58
 GER 8751,Melanie Oestergaard,Angela Stenger,,58,64,80*,64,30,43,48,307,59
 USA 8660,Sloan,Nick Nelson,,60*,55,55,65,39,45,54,308,60
 AUS 8798,Mark Stowell,Scott Bailey,,39,50,61,48,46,103*,74,318,61
@@ -71,7 +71,7 @@ CAN 8696,Deb Ashby,Dave Adams,,77*,56,75,74,47,54,61,367,69
 GBR 8745,Chris Pearson,Frank Rainsborough,,54,59,60,67,66,61,78*,367,70
 USA 6230,Craig Thompson,JB Turney,,69,103*,79,75,35,70,46,374,71
 AUS 8783,Fletcher Kennedy,Ben Greenhough,,103*,63,45,40,94,65,79,386,72
-USA 8018,Hauser,Sol Marini,,68,48,72,70,80*,79,60,397,73
+USA 8018,John Hauser,Sol Marini,,68,48,72,70,80*,79,60,397,73
 USA 8857,Mark Cristensen,Harry Dunning,,103*,103,56,71,44,74,57,405,74
 USA 7877,Steve Anderes,Kirk Twardowski,,65,54,68,73,77,82*,71,408,75
 USA 8778,Darryl Dietz,Thomas Hurwitch,,76,60,71,63,63,83*,82,415,76
@@ -85,8 +85,8 @@ FRA 8786,Hubert Guy,Pierre Jean Gallo,,70,57,103*,103,76,75,103,484,83
 USA 8593,Andy Walford,Mott,,103*,68,82,86,83,77,89,485,84
 AUS 8797,Mark Robertshaw,Morris,,78,103*,62,103,68,72,103,486,85
 USA 8821,Katherine Long,Stephen Long,,74,103*,77,79,88,87,84,489,86
-USA 7093,Reynolds,Renda,,103*,73,81,103,85,81,69,492,87
-GBR 8311,Dave Bradly,Barnes,,103*,75,84,81,89,66,103,498,88
+USA 7093,Garth Reynolds,Renda,,103*,73,81,103,85,81,69,492,87
+GBR 8311,Dave Bradly,David Barnes,,103*,75,84,81,89,66,103,498,88
 USA 7094,Jennifer Lawson,Soren Jensen,,79,71,92,80,99,89*,88,499,89
 USA 6808,Tony DeVita,Mildes,,75,69,87,82,97,99,103*,509,90
 USA 8453,Stuart Sinclair,Richard Elstrom,,80,103*,88,85,87,85,85,510,91

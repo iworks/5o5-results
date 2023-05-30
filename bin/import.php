@@ -88,20 +88,23 @@ if ( in_array( 'all', $argv ) ) {
  * maybe import only one file?
  */
 $one_file = false;
-foreach ( $argv as $one ) {
+if ( 2 < count( $argv ) ) {
 	if (
-		preg_match( '/^--file=(.+)$/', $one, $matches )
-		|| preg_match( '/^--f=(.+)$/', $one, $matches )
-	) {
-		if ( is_file( $matches[1] ) ) {
-			$one_file = preg_replace( '@data/[^/]+/@', '', $matches[1] );
-		}
-	} elseif (
-		2 < count( $argv )
-		&& preg_match( '/^(e|events)$/', $argv[1] )
+		preg_match( '/^(e|events)$/', $argv[1] )
 		&& preg_match( '/^data\/results/', $argv[2] )
 	) {
 		$one_file = preg_replace( '@data/[^/]+/@', '', $argv[2] );
+	} else {
+		foreach ( $argv as $one ) {
+			if (
+				preg_match( '/^--file=(.+)$/', $one, $matches )
+				|| preg_match( '/^--f=(.+)$/', $one, $matches )
+			) {
+				if ( is_file( $matches[1] ) ) {
+					$one_file = preg_replace( '@data/[^/]+/@', '', $matches[1] );
+				}
+			}
+		}
 	}
 }
 /**
@@ -690,6 +693,9 @@ $fields = array(
 if ( $import_results && ( $handle = fopen( $data_root . '/' . $import_config['events'], 'r' ) ) !== false ) {
 	$series = array();
 	echo PHP_EOL,'IMPORT: ' . $import_config['events'],PHP_EOL;
+	if ( $one_file ) {
+		echo 'FILE:   ' . $one_file,PHP_EOL;
+	}
 	while ( ( $data = fgetcsv( $handle, 0, ',' ) ) !== false ) {
 		if ( 1 > intval( $data[0] ) ) {
 			continue;
