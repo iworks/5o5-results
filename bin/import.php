@@ -83,6 +83,7 @@ if ( in_array( 'all', $argv ) ) {
 		$import_results = true;
 	}
 }
+
 /**
  * maybe import only one file?
  */
@@ -100,7 +101,7 @@ foreach ( $argv as $one ) {
 		&& preg_match( '/^(e|events)$/', $argv[1] )
 		&& preg_match( '/^data\/results/', $argv[2] )
 	) {
-		$one_file = $argv[2];
+		$one_file = preg_replace( '@data/[^/]+/@', '', $argv[2] );
 	}
 }
 /**

@@ -4320,6 +4320,7 @@ class iworks_5o5_upload_fixer {
 		'Blondy Bernard'              => 'Bernard Blondy',
 		'Bo Pedersen'                 => 'Bo Petersen',
 		'Bö Pedersen'                 => 'Bo Petersen',
+		'Bo Peterson'                 => 'Bo Petersen',
 		'Boardman Robin'              => 'Robin Boardman',
 		'Bob Crisp'                   => 'Robert Crisp',
 		'Bob Franks'                  => 'Robert Franks',
