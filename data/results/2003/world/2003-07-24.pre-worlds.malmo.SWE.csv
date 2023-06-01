@@ -1,0 +1,66 @@
+Country,"Boat Number",Helm,Crew,Club,"Race 1","Race 2","Race 3","Race 4","Race 5","Race 6",Brutto,Netto,Place
+USA,8714,"Howard Hamlin","Peter Alarie",NHYC,1,1,2,1,16,3,24,,1
+USA,8762,"Daniel Thompson","Andrew Zinn",NHYC,4,5,1,5,7,4,26,,2
+DEN,8620,"Jan Saugmann","Morten Ramsbæk",HiS,"DSQ 66",2,3,6,6,8,91,,3
+GER,8622,"Lutz Stengel","Frank Feller",ROYC,3,13,5,4,4,9,38,,4
+GBR,8787,"Terry Scutcher","Christian Diebitsch",Shotley,6,10,7,7,8,6,44,,5
+DEN,8440,"Per Larsen","Martin Frederichsen",Farum,7,6,8,9,9,"DNC 66",105,,6
+SWE,8812,"Krister Bergström","Johan Barne",GKSS,"DSQ 66",8,13,3,15,2,107,,7
+GBR,8774,"Ian Pinnell","Steven Hunt",GWSC,16,3,4,13,11,14,61,,8
+USA,8776,"Alexander Meller","Jesse Falsone",SEVER,5,12,21,8,27,13,86,,9
+SWE,8806,"Ebbe Rosen","Olle Wenrup","Mai Arhojd",2,7,32,"DNC 66",12,10,129,,10
+DEN,8807,"Tom Bøjland","Jakob Karbo",Farum,15,4,11,22,18,25,95,,11
+USA,8722,"Macy Nelson","Nick Nelson",WRSC,20,22,6,12,19,"DNC 66",145,,12
+AUS,7982,"Nigel Lott","Robert Franks",RQYS,18,11,14,21,36,16,116,,13
+USA,8824,"Andy Beeckman","Ben Benjamin",NHYC,11,15,20,32,14,"DNC 66",158,,14
+AUS,8696,"Carter Jackson","Peter Holden",MHYC,22,17,19,31,30,7,126,,15
+SUI,8729,"Florian Stauffer","Philippe Jacot",CVN,19,24,33,16,26,21,139,,16
+FIN,8056,"Raimo Raita","Antti Raita",V-71,8,30,17,19,34,"DNC 66",174,,17
+AUS,8280,"Michael Quirk","Angela Stenger",MHYC,9,25,41,17,37,27,156,,18
+SWE,8232,"Lars Stugemo","Bo Ringdahl",MKS,17,23,15,37,23,37,152,,19
+GER,8619,"Jens Findel","Johannes Tellen",KYC,"DNC 66","DNC 66",9,10,10,5,166,,20
+ZIM,8445,"Patrick Mccosh","Dennis Lapham",Mazoe,26,9,37,33,25,30,160,,21
+FIN,8320,"Sampsa Hyysalo","Antti Salonen",HSK,31,20,47,36,20,22,176,,22
+DEN,8581,"Jon Andersen","Lasse Andresen",Reers,14,16,34,35,35,32,166,,23
+GER,8749,"Stephan Krause","Michael Krause",HiSC,"DNC 66",14,35,23,32,35,205,,24
+GER,8769,"Stefan Böhm","Gerald Roos",SCV,10,18,12,"DNC 66",13,"DNC 66",185,,25
+SWE,8542,"Henrik Gustafsson","Robert Larsson",OeKP,23,19,48,30,31,"DNC 66",217,,26
+FIN,7922,"Olle Martonen","Björn Pundars",WSF,27,31,27,24,44,"DNC 66",219,,27
+BEL,8553,"Paul Gorremans","Marie-Pierre Gorremans",VVWA,25,29,16,40,46,44,200,,28
+AUS,8813,"Brett Van Munster","Andrew Petch",GSC-A,13,"DNC 66",25,"DNC 66",21,12,203,,29
+GER,8712,"Siegfried Labenz","Christian Labenz",SVWu,28,26,31,41,53,34,213,,30
+FIN,7833,"Tomi Laiho","Miika Perden",bsf-F,21,36,42,25,42,"DNC 66",232,,31
+AUS,8781,"Earle Alexander","Dustin Carlsson",RQYS,24,21,45,28,51,"DNC 66",235,,32
+SWE,8033,"Karl Thews","Björn Thews",NS,34,33,36,27,55,43,228,,33
+RSA,8121,"Albrecht Holm","Warwick Han",PSC,12,27,44,46,50,45,224,,34
+GER,8777,"Stefan Schollmayer","Francisco Sanguino",SCMSP,"DNC 66","DNC 66",24,11,24,28,219,,35
+SWE,8585,"Jan Eriksson","Johan Arvedson",NSS,"DNC 66","DNC 66",30,15,22,24,223,,37
+RSA,8520,"Rudolph Holm","Leon Prinsloo",PSC,33,32,39,39,40,39,222,,38
+RSA,8789,"Anthony Murray","Kobus Holtzhausen",PSC,29,35,40,44,48,41,237,,39
+GER,8672,"Christian Kellner","Klaus Stammerjohann",HSC,"DNC 66","DNC 66",10,2,1,"DNC 66",211,,40
+GER,8657,"Melanie Horstmann","Georg Neulen",HSC,"DNC 66","DNC 66",18,14,45,36,245,,41
+FIN,8180,"Kira Maisniemi","Mikko Tähtinen",HSK,30,38,49,43,57,46,263,,42
+GER,8730,"Jens Hufnagel","Markus Schöner",ScStM,"DNC 66","DNC 66",28,38,38,26,262,,43
+GER,8450,"Jürgen Feuerhake","Johnny Rodholm",YCSb,36,37,46,47,54,"DNC 66",286,,44
+GER,8654,"Nikolaus Jägersberg","Wolfgang Hiltscher",SCLW,"DSQ 66",39,38,45,60,47,295,,45
+GER,8127,"Kristine König","Thilo König",BSV,"DNC 66","DNC 66",26,26,56,40,280,,46
+GER,8609,"Alexander Holzapfel","Dirk Ipach",PSVK,"DNC 66","DNC 66",29,29,58,33,281,,47
+GER,8642,"Thoralf Greger","Tobias Quadfaß",ASVG,"DNC 66","DNC 66","DNC 66",18,28,15,259,,48
+RSA,8584,"Hans Rogotzki","Peter Roos",PSC,35,34,"DNC 66","DNC 66",47,38,286,,49
+AUS,8738,"Paul Mitchell","Sam Haines",WSC,"DSQ 66","DNC 66",23,20,"DNC 66",29,270,,50
+DEN,8656,"Jörgen Riber","Henrik Buhl",SLET,"DNC 66","DNC 66","DNC 66","DNC 66",3,1,268,,51
+GER,8826,"Wolfgang Hunger","Holger Jess",PYC,"DNC 66","DNC 66","DNC 66","DNC 66",2,11,277,,52
+SWE,7316,"Torgny Nordström","Gunnar Henriksson",KSSS,37,"DSQ 66",53,48,62,"DNC 66",332,,53
+GER,8651,"Claas Lehmann","Martin Schöler",NRV,"DNC 66","DNC 66",22,"DNC 66",5,"DNC 66",291,,54
+SUI,8569,"Rene Betschen","Patrick Ducommun",CNB,"DNC 66","DNC 66","DNC 66","DNC 66",17,19,300,,55
+SWE,8476,"Erik Strandmark","Mats Holmberg",VSS,38,"DSQ 66",51,49,"DNC 66","DNC 66",336,,56
+FIN,8746,"Hannu Merikallio","Jarkko Niemi",HSK,"DNC 66","DNC 66","DNC 66","DNC 66",33,20,317,,57
+FIN,8632,"Mikko Saarela","Jukka Lindfors",MERE,"DNC 66","DNC 66","DNC 66","DNC 66",29,31,324,,58
+GER,8567,"Edward Cox","Holger Neuhaus",SKMD,"DNC 66","DNC 66","DNC 66","DNC 66",43,18,325,,59
+GBR,8701,"Rob Napier","Matthew Bristow",HoL,"DNC 66","DNC 66","DNC 66","DNC 66",39,23,326,,60
+SWE,8655,"Karl-Otto Strömberg","Fredrik Strömberg",HAAS,"DNC 66","DSQ 66",50,42,59,"DNC 66",349,,61
+GER,8692,"Nicolai Völckner","Lars Dehne",HSC,"DNC 66","DNC 66","DNC 66","DNC 66","DNC 66",17,347,,62
+GER,8533,"Roger Bussenius","Robert Bussenius",SCOH,"DNC 66","DNC 66","DNC 66","DNC 66",61,48,373,,63
+GER,8607,"Antje Paulsen","Björn Schaar",BSV,"DNC 66","DNC 66","DNC 66","DNC 66",49,"DNC 66",379,,64
+FIN,8582,"Arno Parviainen","Antti Jore",HS,"DNC 66","DNC 66","DNC 66","DNC 66",52,"DNC 66",382,,65
+DEN,8364,"Lars Laursen","Erik Laursen",VALL,"DNC 66","DNC 66",52,"DNC 66","DNC 66","DNC 66",382,,66
