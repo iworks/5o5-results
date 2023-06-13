@@ -1,0 +1,52 @@
+Country,"Boat Number",Helm,Crew,Club,"Race 1","Race 2","Race 3","Race 4","Race 5","Race 6",Brutto,Netto,Place
+GER,8826,"Wolfgang Hunger","Holger Jess",PYC,"DNF 52",1,1,1,1,3,59,,1
+GER,8670,"Martin Görge","Rainer Görge",TSVS,2,2,7,4,2,"DNF 52",69,,2
+GER,8672,"Christian Kellner","Klaus Stammerjohann",HSC,"DNC 52",7,2,5,3,2,71,,3
+GER,8825,"Stefan Köchlin","Axel Priegann",SKF,9,6,3,9,6,5,38,,4
+GER,8725,"Ludger Huttermann","Rolf Meyer",PYC,7,12,6,2,13,11,51,,5
+GER,8720,"Dirk Filimonow","Lars Stöckmann",BSV,5,11,16,12,11,4,59,,6
+GER,8651,"Claas Lehmann","Martin Schöler",NRV,22,3,9,20,8,6,68,,7
+GER,8769,"Stefan Böhm","Gerald Roos",SCV,19,8,8,7,7,"DNC 52",101,,8
+GER,8775,"Tom Swift","Oliver Tessloff",NRV,"DNF 52",5,13,6,20,10,106,,9
+GER,8675,"Volker Görge","Karsten Morf",TSVS,6,16,10,"DNF 52",10,12,106,,10
+GER,8692,"Nicolai Völckner","Lars Dehne",HSC,8,13,12,16,25,9,83,,11
+DEN,8620,"Jan Saugmann","Morten Ramsbæk",HiS,1,"DNF 52","DNC 52",3,4,1,113,,12
+GER,8567,"Michael Rössler","Holger Neuhaus",SKMD,"DNF 52",17,14,13,15,13,124,,13
+DEN,8656,"Jörgen Riber","Henrik Buhl",SLET,4,4,5,"DNC 52",5,"DNC 52",122,,14
+GER,8527,"Tim Steinert","Jens Steinert",ZSK,15,20,18,18,16,22,109,,15
+GER,8750,"Christian Müllejans","Thomas Jung",SVWu,10,14,15,25,27,"DNC 52",143,,16
+GER,8777,"Stefan Schollmayer","Francisco Sanguino",SCMSP,12,19,21,33,18,21,124,,17
+GER,8563,"Klaus Heeschen","Stefan Schmidt",WSCW,14,18,20,22,"DNF 52",19,145,,18
+GER,8747,"Jörg Thumann","Oliver Stieglitz",TuSJ,11,22,28,"DNC 52",22,15,150,,19
+GER,8744,"Hans-Heinrich Rix","Steffen Achenbach",TSVS,16,9,4,11,"DNF 52","DNC 52",144,,20
+GER,8531,"Michael Troch","Eckart König",SGJ,20,26,22,21,23,18,130,,21
+GER,8669,"Tim Böger","Thomas Tschentscher",HSC,"DNF 52",10,25,28,29,14,158,,22
+GER,8730,"Jens Hufnagel","Markus Schöner",ScStM,18,"DNF 52",19,19,35,16,159,,23
+GER,8622,"Lutz Stengel","Frank Feller",ROYC,3,25,11,8,"DNF 52","DNC 52",151,,24
+GER,8414,"Stefan Worm","Mathias Kaiser",RYC,23,23,23,23,21,28,141,,25
+GER,8619,"Jens Findel","Eike Dietrich",KYC,"DNF 52",15,17,14,9,"DNC 52",159,,26
+GER,8749,"Stephan Krause","Michael Krause",HiSC,"DNF 52",29,29,29,26,25,190,,28
+GER,8580,"Sebastian Dörr","Andreas Achterberg",HSC,21,24,27,17,"DNC 52","DNC 52",193,,29
+GER,8674,"Christian Niefert","Thomas Weber",BSV,"DNF 52",21,26,27,17,"DNC 52",195,,30
+GER,8663,"Norbert Dasenbrook","Sven Meier",KSW,"DNF 52","DNF 52",30,24,19,23,200,,31
+DEN,8440,"Per Larsen","Uffe Andersen",Farum,34,15,33,17," 52"," 52",203
+GER,8376,"Volker Niedik","Stefan Heising",BSV,17,"DNF 52","DNC 52","DNF 52",14,8,195,,33
+GER,8625,"Alex Cross","Falko Braun",SCR,"DNF 52",28,24,30,31,"DNF 52",217,,34
+GER,8712,"Siegfried Labenz","Christian Labenz",SVWu,24,30,41,"DNC 52",28,"DNC 52",227,,35
+GER,8385,"Martin Bernauer","Ulf Geisler",CNFT,"DNF 52",33,"DNC 52",31,36,24,228,,36
+DEN,8581,"Jon Andersen","Lasse Andresen",Reers,13,27,"DNF 52",26,"DNF 52","DNC 52",222,,37
+GER,8657,"Melanie Horstmann","Georg Neulen",HSC,"DNC 52","DNC 52",40,32,30,26,232,,38
+GER,8607,"Antje Paulsen","Björn Schaar",BSV,"DNF 52","DNC 52",35,35,41,30,245,,39
+GER,8788,"Karsten Lahrs","Peter Gerdts",HYC,"DNF 52",32,"DNC 52","DNC 52",32,27,247,,40
+GER,8642,"Thoralf Greger","Christoph Klein",ASVG,"DNF 52","DNC 52",38,"DNC 52",34,20,248,,41
+GER,8702,"Martin Handel","Frank Letsche",SGK,"DNC 52",34,32,34,"DNF 52","DNC 52",256,,42
+GER,8570,"Alexander Kodisch","Knut Herbold",DTYC,"DNF 52",35,39,36,"DNC 52","DNC 52",266,,43
+GER,8530,"Alexander von Mertens","Pia Wiesbauer",StSC,"DNF 52","DNC 52",42,"DNC 52",38,32,268,,44
+GER,8108,"Thorge Holm","Rebecca Strahl",BCN,"DNC 52","DNC 52","DNC 52",38,42,33,269,,45
+GER,8654,"Nikolaus Jägersberg","Moritz Theden",SCLW,"DNC 52","DNC 52",37,37,40,"DNC 52",270,,46
+GER,8741,"Hans-Christian Schwieger","Jörg Siebert",NRV,31,36,"DNF 52","DNF 52","DNC 52"," 52",275,47
+GER,8127,"Kristine König","Thilo König",BSV,"DNF 52","DNC 52","DNC 52","DNC 52",39,29,276,,48
+GER,8441,"Rainer Gerdes","Bettina Dittemer",SSCK,"DNF 52","DNC 52","DNC 52","DNC 52",37,31,276,,49
+GER,8721,"Martin Seikel","Norbert Becker",PSVK,"DNC 52","DNC 52","DNC 52","DNC 52",24,"DNC 52",284,,50
+GER,8633,"Sophie Söllner","Wolfgang Stückl",CYC,"DNF 52","DNF 52",33,"DNF 52","DNC 52","DNC 52",293,,51
+GER,8533,"Roger Bussenius","Robert Bussenius",SCOH,"DNF 52","DNC 52","DNC 52",39,"DNC 52","DNC 52",299,,52
