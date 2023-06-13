@@ -40,8 +40,6 @@ foreach ( $data as $one ) {
 	$hull_manufacturer[ $one->name ] = $one;
 }
 
-$debug = false;
-
 $import_registry = $import_results = $import_sailors = false;
 
 if ( sizeof( $argv ) === 1 ) {
@@ -51,8 +49,17 @@ if ( sizeof( $argv ) === 1 ) {
 	echo '- sailors',PHP_EOL;
 	echo '- results',PHP_EOL;
 	echo '- results --file=filename',PHP_EOL;
+	echo PHP_EOL;
+	echo 'Options:',PHP_EOL;
+	echo '--debug - debug ON',PHP_EOL;
 	exit;
 }
+
+/**
+ * debugger
+ */
+
+$debug = in_array( '--debug', $argv );
 
 /**
  * Setup import parts
@@ -158,6 +165,11 @@ if ( $import_sailors && ( $handle = fopen( $data_root . '/' . $import_config['sa
 			$post = get_page_by_title( $p, OBJECT, $person_post_type_name );
 			if ( ! empty( $post ) ) {
 				int505_echo_dot( $counter, 'fail' );
+				if ( $debug ) {
+					echo PHP_EOL;
+					echo $p;
+					echo PHP_EOL;
+				}
 				$counter++;
 				continue;
 			}

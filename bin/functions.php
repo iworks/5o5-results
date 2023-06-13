@@ -180,9 +180,9 @@ function check_is_person( $data ) {
 		return false;
 	}
 	switch ( $data ) {
-		case 'owner in Devon':
 		case 'Alexandria Wooden Boat Society':
 		case 'Avocado Sail Training Association':
+		case 'Brothers Sparv':
 		case 'Burnham-Sharpe Co':
 		case 'Burnham-Sharpe Co.':
 		case 'Eklund Brothers':
@@ -193,8 +193,10 @@ function check_is_person( $data ) {
 		case 'Indiana University Yacht Club':
 		case 'Krywood Composites':
 		case 'Larchmont Yacht Club':
+		case 'LES 4 VE':
 		case 'Moss-Lovshin family':
 		case 'Orange Coast College':
+		case 'owner in Devon':
 		case 'Pegasus Racing':
 		case 'Pettipaug Jr. Sailing Academy':
 		case 'Redwood City':
@@ -210,9 +212,9 @@ function check_is_person( $data ) {
 		case 'Team Eskimo':
 		case 'Team Pegasus':
 		case 'US Coastguard Academy':
+		case 'WA 505 Association':
 		case 'Wansborough family':
 		case 'Web Institute':
-		case 'Brothers Sparv':
 			return false;
 	}
 	return true;
