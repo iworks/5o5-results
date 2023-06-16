@@ -1,51 +1,51 @@
-Nation,Sail No.,Skipper,Crew,Boat Name,Heat 1,Heat 2,Heat 3,Heat 4,Heat 5,Heat 6,"Points (1 discard)",Place
-AUS,,C. Nicholson,G. Boyd,Slow Boat,1,1,1,1,2,DNS,5.7,1
-AUS,8524,L. Nathanson,S. Gorman,Maroon Magic,3,2,3,4,1,DNS,22.4,2
-AUS,8342,T. Kyrwood,C. Spence,Rack 'Em Up,6,6,4,17,2,2,37.4,3
-AUS,8585,M. Page,D. Page,Fire Stopping,5,4,5,2,4,8,40. 7,4
-AUS,8618,D. Blatchford,Jayson Field,Brevetti Stendalto,8,3,5,3,13,3,41.1,5
-AUS,8638,H. Stoddart,M. Owen,Two Boys and a Boat,2,DNF,2,9,6,7,45.7,6
-AUS,8605,A. Hewson,G. Stavano,Hewburt,9,5,9,5,9,6,61.7,7
-AUS,8280,M. Quirk,G. Lange,No Strings Attached,13,16,8,10,5,4,67,8
-AUS,8627,D. Porter,P. Holden,The Pump,12,12,15,12,12,5,82,9
-AUS,8639,M. Page,W. McDonald,Transit Lane,4,7,12,7,26,25,83,10
-AUS,8557,D. Nicholson,D. Williams,Not Much Chop,7,14,14,6,30,14,84.7,11
-AUS,8498,P. Drinkwater,D. O'Dowd,The Wedge,22,11,7,11,19,12,90,12
-AUS,8617,B. Whitbread,Joel McDonald,Swallow My Wake,10,8,20,8,18,16,90,13
-AUS,8523,P. Hewson,G. Gardner,Forever Aboard,15,10,23,14,15,18,101,14
-AUS,8042,G. Engert,M. O'Donnell,Overflow,16,13,11,20,23,15,105,15
-AUS,8395,B. Kelly,L. Parker,Burdens of Being Upright,11,18,13,16,21,17,105,16
-AUS,8603,I. Dunn,M. Bickham,CMPS&F,20,20,19,27,7,13,109,17
-AUS,8398,R. Brown,B. Edwards,Filthy Florry,17,17,18,15,14,22,111,18
-AUS,8289,J. Mitchell,K. Mitchell,Busta-Moov,14,15,10,28,28,19,116,19
-AUS,8176,S. Olsen,S. Gregory,Rampage,DNF,24,28,18,8,9,117,20
-AUS,8606,N. Rydge,I. McCrossin,Pacific Surfer,29,9,16,19,17,DNS,120,21
-AUS,8628,I. Gibson,B. Gibson,Terror Byte,27,25,27,13,11,20,126,22
+Nation,Sail No.,Skipper,Crew,Boat Name,Heat 1,Heat 2,Heat 3,Heat 4,Heat 5,Heat 6,Points (1 discard),Place
+AUS,,C. Nicholson,G. Boyd,Slow Boat,1,1,1,1,2,DNS,"5,7",1
+AUS,8524,Leslie Nathonson,S. Gorman,Maroon Magic,3,2,3,4,1,DNS,"22,4",2
+AUS,8342,Terry Kyrwood,Charles Spence,Rack 'Em Up,6,6,4,17,2,2,"37,4",3
+AUS,8585,Malcolm Page,David Page,Fire Stopping,5,4,5,2,4,8,40. 7,4
+AUS,8618,Dean Blatchford,Jayson Field,Brevetti Stendalto,8,3,5,3,13,3,"41,1",5
+AUS,8638,Hugh Stoddart,Matthew Owen,Two Boys and a Boat,2,DNF,2,9,6,7,"45,7",6
+AUS,8605,Andrew Hewson,G. Stavano,Hewburt,9,5,9,5,9,6,"61,7",7
+AUS,8280,Mike Quirk,Geoff Lange,No Strings Attached,13,16,8,10,5,4,67,8
+AUS,8627,David Porter,Peter Holden,The Pump,12,12,15,12,12,5,82,9
+AUS,8639,Malcolm Page,W. McDonald,Transit Lane,4,7,12,7,26,25,83,10
+AUS,8557,Darren Nicholson,Dean Williams,Not Much Chop,7,14,14,6,30,14,"84,7",11
+AUS,8498,Peter Drinkwater,David O'Dowd,The Wedge,22,11,7,11,19,12,90,12
+AUS,8617,Brett Whitbread,Joel McDonald,Swallow My Wake,10,8,20,8,18,16,90,13
+AUS,8523,Peter Hewson,G. Gardner,Forever Aboard,15,10,23,14,15,18,101,14
+AUS,8042,Graeme Engert,M. O'Donnell,Overflow,16,13,11,20,23,15,105,15
+AUS,8395,B. Kelly,Liam Parker,Burdens of Being Upright,11,18,13,16,21,17,105,16
+AUS,8603,Ian Dunn,M. Bickham,CMPS&F,20,20,19,27,7,13,109,17
+AUS,8398,R. Brown,Bill Edwards,Filthy Florry,17,17,18,15,14,22,111,18
+AUS,8289,Justin Mitchell,K. Mitchell,Busta-Moov,14,15,10,28,28,19,116,19
+AUS,8176,Scott Olsen,Sean Gregory,Rampage,DNF,24,28,18,8,9,117,20
+AUS,8606,Norman Rydge,I. McCrossin,Pacific Surfer,29,9,16,19,17,DNS,120,21
+AUS,8628,Ian Gibson,B. Gibson,Terror Byte,27,25,27,13,11,20,126,22
 AUS,8274,G. Daniel,D. Rubin,Minus Five,23,30,25,23,25,10,136,23
-AUS,8396,R. Needham,G. Robertson,Go Ichi Go,24,28,DNS,DNS,10,1,137,24
-AUS,8407,S. Findlay,U. Kreuger,De-Stressing Purchase,21,19,26,25,27,21,142,25
+AUS,8396,Richard Needham,Guy Robertson,Go Ichi Go,24,28,DNS,DNS,10,1,137,24
+AUS,8407,Steve Finlay,U. Kreuger,De-Stressing Purchase,21,19,26,25,27,21,142,25
 AUS,8341,G. Prosser,P. Brenton,The Blues,34,21,23,22,29,24,149,26
 AUS,8577,C. Jackson,S. Ramsden,No More Handbrakes,26,29,29,26,22,23,156,27
-AUS,8182,M. Stowell,D. Bentley,Sots,19,23,22,39,33,32,159,28
-AUS,8501,D. Parkes,A. Murray,Hot Pursuit,28,27,DNF,DSQ,16,11,163,29
-AUS,8185,E. Alexander,K. Lecken,Earle Grey,35,22,24,30,32,27,165,30
-AUS,8399,J. Bagshaw,R. Gorrell,Aeolean Again,31,31,33,32,36,26,183,31
-AUS,7401,B. Robinson,P. Robinson,Ruffian,DNF,DNF,34,24,20,28,187,32
-AUS,8547,N. Stabback,J. McNally,Dangerous When Full,32,DNF,35,31,31,29,188,33
-AUS,8637,M. White,J. Ellis,Underground Surfer,18,DNF,21,21,DNS,DNS,192,34
-AUS,8175,M. Hansen,M. Vulak,Tangaroa,30,DNF,31,33,35,35,194,35
-AUS,8626,A. Murray,I. Murray,"Swing, Steer and Swear",DNS,26,DNS,29,24,DNS,211,36
-AUS,8558,R. Hyde,S. Hyde,Rage,38,39,40,41,37,30,214,37
-AUS,8038,M. Makin,S. Liney,ET,37,37,39,45,38,33,214,38
-AUS,8578,G. Holden,M. Holden,Buddah,39,DNF,38,38,34,36,215,39
-AUS,7904,S. Cronin,B. Clarke,Savage Live Worms,36,38,DNF,36,42,36,216,40
-AUS,7741,T. Smith,C. Boutas,A Matter of Energy,40,32,32,44,44,39,217,41
-AUS,8512,D. Yaffe,D. Thompson,Blind Freddy,DNF,36,41,35,39,37,218,42
-AUS,8186,T. Davies,G. Wells,Ainers,25,DNF,30,37,DNF,DNF,224,43
+AUS,8182,Mark Stowell,D. Bentley,Sots,19,23,22,39,33,32,159,28
+AUS,8501,D. Parkes,Alex Murray,Hot Pursuit,28,27,DNF,DSQ,16,11,163,29
+AUS,8185,Earle Alexander,Ken Lockenby,Earle Grey,35,22,24,30,32,27,165,30
+AUS,8399,John Bagshaw,Richard Gorrell,Aeolean Again,31,31,33,32,36,26,183,31
+AUS,7401,Brian Robinson,P. Robinson,Ruffian,DNF,DNF,34,24,20,28,187,32
+AUS,8547,Nick Stabback,Jim McNally,Dangerous When Full,32,DNF,35,31,31,29,188,33
+AUS,8637,Martin White,J. Ellis,Underground Surfer,18,DNF,21,21,DNS,DNS,192,34
+AUS,8175,Matthew Hansen,M. Vulak,Tangaroa,30,DNF,31,33,35,35,194,35
+AUS,8626,Alex Murray,Iain Murray,"Swing, Steer and Swear",DNS,26,DNS,29,24,DNS,211,36
+AUS,8558,Richard Hyde,Samuel Hyde,Rage,38,39,40,41,37,30,214,37
+AUS,8038,M. Makin,Steve Liney,ET,37,37,39,45,38,33,214,38
+AUS,8578,Geoff Holden,Matthew Holden,Buddah,39,DNF,38,38,34,36,215,39
+AUS,7904,Sam Cronin,B. Clarke,Savage Live Worms,36,38,DNF,36,42,36,216,40
+AUS,7741,Tony Smith,C. Boutas,A Matter of Energy,40,32,32,44,44,39,217,41
+AUS,8512,Daniel Yaffey,David Thompson,Blind Freddy,DNF,36,41,35,39,37,218,42
+AUS,8186,Tim Davies,G. Wells,Ainers,25,DNF,30,37,DNF,DNF,224,43
 AUS,8177,S. Campbell,P. Diggins,Chariots of Fire,33,33,36,43,DNF,DNF,226,44
-AUS,7937,N. Klatsmanyi,B. Szabo,Balaton,41,40,42,40,40,38,229,45
-AUS,7830,C. Hughes,A. King,The Falcon,DNS,35,37,DNF,DNF,31,235,46
+AUS,7937,Nandor Klatsmanyi,B. Szabo,Balaton,41,40,42,40,40,38,229,45
+AUS,7830,Cullen Hughes,A. King,The Falcon,DNS,35,37,DNF,DNF,31,235,46
 AUS,7740,M. Barber,S. Jones,No Canoe,DNF,41,43,46,43,40,243,47
-AUS,7334,M. Lynch,J. Keegan,Body Surfer,DNF,DNF,DNS,42,41,DNS,266,48
+AUS,7334,Mark Lynch,J. Keegan,Body Surfer,DNF,DNF,DNS,42,41,DNS,266,48
 AUS,8221,Antony Bale,Peter Bale,Grey Ghost,DNS,34,DNS,DNS,DNS,DNS,268,49=
 AUS,1*,B. Van Munster,D. Clar,Boat,DNS,DNS,DNS,34,DNS,DNS,268,49=
