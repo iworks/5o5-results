@@ -1,0 +1,55 @@
+Country,"Boat Number",Helm,Crew,Club,"Race 1","Race 2","Race 3","Race 4","Race 5","Race 6",Brutto,Netto,Place
+GER,8669,"Wolfgang Hunger","Holger Jess",PYC,2,1,5,1,2,"BFD 55",66,,1
+GER,8670,"Martin Görge","Rainer Görge",TSVS,1,2,9,2,3,"BFD 55",72,,2
+FRA,8802,"Philippe Boite","Fabrice Toupet",CVM,4,9,3,3,7,1,27,,3
+GER,8742,"Stefan Köchlin","Axel Priegann",SKF,6,8,1,4,1,"BFD 55",75,,4
+GER,8744,"Hans-Heinrich Rix","Steffen Achenbach",TSVS,7,4,6,8,19,4,48,,5
+GER,8769,"Stefan Böhm","Gerald Roos",SCV,15,13,2,5,5,"BFD 55",95,,6
+GER,8720,"Dirk Filimonow","Lars Stöckmann",BSV,5,7,7,7,18,"DNC 55",99,,7
+GER,8563,"Matthias Jetschke","Jens Weishaupt",WSCW,14,18,"DNC 55",14,4,2,107,,8
+GER,8632,"Christian Kellner","Klaus Stammerjohann",HSC,8,3,4,11,27,"BFD 55",108,,9
+GER,8317,"Tom Gosch","Jörg Müller",ENSFV,17,12,10,10,16,6,71,,10
+GER,8675,"Volker Görge","Karsten Morf",TSVS,21,17,19,6,10,3,76,,11
+GER,8725,"Dietrich Scheder-Bieschin","Rolf Meyer",NRV,10,22,11,26,6,9,84,,12
+GER,8730,"Jens Hufnagel","Markus Schöner",ScStM,13,6,22,16,14,11,82,,13
+DEN,8620,"Jan Saugmann","Jakob Karbo",HiS,16,5,12,17,11,"BFD 55",116,,14
+GER,8505,"Adalbert Kluck","Gerhard Schmidt",TSVS,25,32,8,9,13,8,95,,15
+GER,8750,"Christian Müllejans","Thomas Jung",SVWu,9,21,13,"DNC 55",8,13,119,,16
+GER,8665,"Jens-Peter Schlomka","Thomas Tschentscher",TSVS,19,11,"DNC 55",24,15,10,134,,17
+GER,8663,"Norbert Dasenbrook","Sven Meier",KSW,18,15,16,21,22,16,108,,18
+GER,8659,"Axel Oberemm","Gerd Linnemann",BYC-SC,12,10,"DNC 55","DNC 55",9,7,148,,19
+GER,8747,"Jörg Thumann","Oliver Stieglitz",TuSJ,35,14,15,"DNC 55",17,14,150,,20
+DEN,8581,"Jan Andresen","Lasse Andresen",REESO,23,35,23,12,21,18,132,,21
+GER,8711,"Carsten Engel","Tobias Neumeyer",PSVK,24,28,18,13,30,"DNC 55",168,,22
+GER,8749,"Stephan Krause","Michael Krause",HiSC,26,27,20,27,23,19,142,,23
+GER,8741,"Hans-Christian Schwieger","Waldemar Schönebeck",NRV,32,29,21,19,36,15,152,,24
+GER,8580,"Michael Seeger","Andreas Achterberg",DTYC,29,20,"DNC 55","DNC 55",12,5,176,,25
+GER,8777,"Stefan Schollmayer","Francisco Sanguino",SCMSP,44,24,17,18,20,"DNC 55",178,,26
+GER,8642,"Thoralf Greger","Otmar Greger",ASVG,20,30,26,20,29,"BFD 55",180,,27
+GER,8657,"Melanie Horstmann","Georg Neulen",HSC,30,40,29,23,34,21,177,,28
+GER,8633,"Frieder Achterberg","Wolfgang Stückl",DTYC,28,26,14,15,"DNC 55","DNC 55",193,,29
+GER,8430,"Klaus Heeschen","Igmar Schulz",WSCW,41,48,"DNC 55",22,28,12,206,,30
+GER,8465,"Petra Kliba-Schmidt","Jan-Rolf Schmidt",SKWB,37,37,27,"DNC 55",32,20,208,,31
+GER,8674,"Christian Niefert","Daniel Schnorrenberg",BSV,40,36,30,28,"DNC 55",25,214,,32
+GER,8691,"Günther Böckle","Frank Heimburger",SSCM,42,34,"DNC 55",29,33,22,215,,33
+GER,8210,"Nikolaus Jägersberg","Wolfgang Hiltscher",SCLW,48,44,24,30,40,24,210,,34
+DEN,8440,"Per Larsen","Henrik Andersen",Farum,11,19,"DNC 55","DNC 55",25,"DNC 55",220,,35
+GER,8478,"Kai-Uwe Weiss","Stefan Schmidt",HSV,31,31,28,25,"DNC 55","DNC 55",225,,36
+GER,8652,"Sebastian Dörr","Nicholas Brautlecht",HSC,34,41,"DNC 55","DNC 55",24,17,226,,37
+GER,8664,"Franziska Unkelbach","Kathrin Adelkofer",KYC,22,25,"DNC 55","DNC 55",26,"DNC 55",238,,38
+GER,8155,"Tobias Kirsch","Jens Kirsch",SCRR,33,39,25,"DNC 55",35,"DNC 55",242,,39
+GER,8098,"Martin Handel","Frank Letsche",SGK,"RDG 55","RDG 55","DNC 55","DNC 55",31,23,274,,40
+GER,8619,"Jens Findel","Johannes Tellen",KYC,3,23,"DNC 55","DNC 55","DNC 55","DNC 55",246,,41
+GER,8530,"Alexander von Mertens","Jochen Heydolph",StSC,"DNC 55",50,32,"DNC 55",39,26,257,,42
+GER,8470,"Bernd Lenz","Roland Herrmann",SLRV,49,51,"DNC 55","DNC 55",38,27,275,,43
+GER,7801,"Christiane Giefers","Jens Krause",SVPB,43,46,31,"DNC 55","DNC 55","DNC 55",285,,44
+GER,8324,"Benjamin Kreische","Fiete Borth",SVSS,"DNC 55",52,33,"DNC 55",41,"DNC 55",291,,45
+GER,8148,"Heike Winchenbach","Christoph Klein",SKBUe,46,43,"DNC 55","DNC 55",37,"BFD 55",291,,46
+GER,8788,"Peter Gerdts","Karsten Lahrs",HSC,38,33,"DNC 55","DNC 55","DNC 55","DNC 55",291,,47
+GER,8376,"Volker Niedik","Stefan Heising",BSV,"DNC 55",16,"DNC 55","DNC 55","DNC 55","DNC 55",291,,48
+GER,8546,"Dirk Hänsgen","Frank Rupprich",SVPB,36,38,"DNC 55","DNC 55","DNC 55","DNC 55",294,,49
+GER,8334,"Philipp Weber","Nick Thomas",SVSS,"DNC 55",45,"DNC 55",31,"DNC 55","DNC 55",296,,50
+GER,8433,"Jürgen Anton","Jürgen Wasceszio",HSC,39,42,"DNC 55","DNC 55","DNC 55","DNC 55",301,,51
+GER,8608,"Bernd Rasenack","Arne Schomöcker",ZSK,27,"DNC 55","DNC 55","DNC 55","DNC 55","DNC 55",302,,52
+GER,8450,"Jürgen Feuerhake","Robert Lemor",YCSb,45,47,"DNC 55","DNC 55","DNC 55","DNC 55",312,,53
+DEN,7934,"Johnny Rodholm","Kim Riis Pedersen",HS,47,49,"DNC 55","DNC 55","DNC 55","DNC 55",316,,54
