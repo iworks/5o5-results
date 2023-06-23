@@ -1,15 +1,15 @@
-Pl.,Steuermann,Vorschoter,Club,Boot,Platzierungen,Punkte
-1,Lena Stückl,Johannes Tellen,DTYC,GER 9198,"4,1,1,2,2,3,1",115
-2,Alexander Holzapfel,Finn Böger,PSVK,GER 9182,"1,4,2,1,5,1,2","106,79"
-3,Michael Daisenberger,Jonas Nissen,DTYC,GER 9199,"3,2,3,4,1,2,DNF","98,57"
-4,Frieder Achterberg,Wolfgang Stückl,DTYC,GER 9133,"2,5,4,3,8,5,5","90,36"
-5,Nicola Birkner,Angela Stenger,SVaW,GER 9197,"7,3,5,5,4,4,3","82,14"
-6,Hendrik Schultz,Enna OBERLÄNDER,SCLW,GER 9189,"5,9,6,DNC,3,6,4","73,93"
-7,Earle Alexander,Lindsay Gilbert,RQYS,AUS 9225,"6,6,8,8,9,9,6","65,71"
-8,Christina Höll,Alexander Wilhelm,HSC,GER 8658,"9,8,9,6,7,7,10","57,5"
-9,Nathalie Friedrich,Claudius Zeiler,SCLW,GER 9100,"10,7,11,7,6,8,9","49,29"
-10,Felix BERNHARDT,André Müller,,GER 8691,"8,10,7,9,10,10,7","41,07"
-11,Antonia ZELLNER,Erik TECHEN,,GER 9130,"13,12,DNF,10,11,11,8","32,86"
-12,Ingo Schneider,Sebastian Hoering,SCLW,GER 8998,"12,11,10,11,12,12,DNC","24,64"
-13,Andreas SEIFFERT,Kaus Michael Probst,,GER 9046,"DNF,DNC,12,12,13,13,11","16,43"
-14,Tillmann BAIER,Eckhard Busch,,GER 8590,"11,DNF,DNC,DNC,DNC,DNC","8,21"
+Country,Boat Number,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Race 7,Brutto,Netto,Place
+GER,9198,Lena Stückl,Johannes Tellen,DTYC,4,1,1,2,2,3,1,14,,1
+GER,9182,Alexander Holzapfel,Finn Böger,PSVK,1,4,2,1,5,1,2,16,,2
+GER,9199,Michael Daisenberger,Jonas Nissen,DTYC,3,2,3,4,1,2,DNF 15,30,,3
+GER,9133,Frieder Achterberg,Wolfgang Stückl,DTYC,2,5,4,3,8,5,5,32,,4
+GER,9197,Nicola Birkner,Angela Stenger,SVaW,7,3,5,5,4,4,3,31,,5
+GER,9189,Hendrik Schultz,Enna Oberländer,SCLW,5,9,6,DNC 15,3,6,4,48,,6
+AUS,9225,Earle Alexander,Lindsay Gilbert,RQYS,6,6,8,8,9,9,6,52,,7
+GER,8658,Christina Höll,Alexander Wilhelm,HSC,9,8,9,6,7,7,10,56,,8
+GER,9100,Nathalie Friedrich,Claudius Zeiler,SCLW,10,7,11,7,6,8,9,58,,9
+GER,8691,Felix Bernhardt,André Müller,,8,10,7,9,10,10,7,61,,10
+GER,9130,Antonia Zellner,Erik Techen,,13,12,DNF 15,10,11,11,8,80,,11
+GER,8998,Ingo Schneider,Sebastian Hoering,SCLW,12,11,10,11,12,12,DNC 15,83,,12
+GER,9046,Andreas Seiffert,Kaus Michael Probst,,DNF 15,DNC 15,12,12,13,13,11,91,,13
+GER,8590,Tillmann Baier,Eckhard Busch,,11,DNF 15,DNC 15,DNC 15,DNC 15,DNC 15,15,101,,14

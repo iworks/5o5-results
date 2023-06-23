@@ -1,15 +1,15 @@
-Pl.,Steuermann,Vorschoter,Club,Boot,Platzierungen,Punkte
-1,Wolfgang Hunger,Holger Jess,PYC,GER 9257,"1,1,2,1,2,DNF,1",115
-2,Lutz Stengel,Frank Feller,ROYC,GER 8992,"4,7,1,2,1,1,DNF","106,79"
-3,Ulf Pleßmann,Hans-Heinrich Rix,AYC,GER 9241,"2,2,4,3,4,2,3","98,57"
-4,Jens Biederer,Hannes KINDERMANN,HSC,GER 9256,"3,5,3,4,3,4,8","90,36"
-5,Henrik Schade,Sebastian Wiemer,WVW,GER 8849,"5,6,5,7,6,3,5","82,14"
-6,Julia Pösch,Thorsten Pösch,SCSZ,GER 9000,"6,3,12,8,5,5,4","73,93"
-7,Tom Gosch,Rolf Meyer,ENSFV,GER 9149,"8,4,9,5,10,7,2","65,71"
-8,Peter Gerdts,Christian Labenz,HSC,GER 9066,"7,11,8,6,8,6,6","57,5"
-9,Norbert Dasenbrook,Sven Meier,KSW,GER 9234,"9,12,6,11,7,8,7","49,29"
-10,Andreas PORTH,Martin Lietz,,GER 8928,"11,8,7,9,9,DNF,DNC","41,07"
-11,Joseph Schütte,Karsten Stümpel,,GER 9113,"10,9,10,10,11,DNF,9","32,86"
-12,Christian Henge,Katja Henge,OSG,GER 8932,"13,10,11,12,13,10,11","24,64"
-13,Anna Hauschild,Anja Stengel,SCS,GER 8806,"12,13,13,13,12,9,10","16,43"
-14,Harald König,Katja Frühwald-König,SRVL-S,GER 9040,"14,DNF,14,14,DNC,DNC,DNC","8,21"
+Country,Boat Number,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Race 7,Brutto,Netto,Place
+GER,9257,Wolfgang Hunger,Holger Jess,PYC,1,1,2,1,2,DNF 15,1,23,,1
+GER,8992,Lutz Stengel,Frank Feller,ROYC,4,7,1,2,1,1,DNF 15,31,,2
+GER,9241,Ulf Pleßmann,Hans-Heinrich Rix,AYC,2,2,4,3,4,2,3,20,,3
+GER,9256,Jens Biederer,Hannes Kindermann,HSC,3,5,3,4,3,4,8,30,,4
+GER,8849,Henrik Schade,Sebastian Wiemer,WVW,5,6,5,7,6,3,5,37,,5
+GER,9000,Julia Pösch,Thorsten Pösch,SCSZ,6,3,12,8,5,5,4,43,,6
+GER,9149,Tom Gosch,Rolf Meyer,ENSFV,8,4,9,5,10,7,2,45,,7
+GER,9066,Peter Gerdts,Christian Labenz,HSC,7,11,8,6,8,6,6,52,,8
+GER,9234,Norbert Dasenbrook,Sven Meier,KSW,9,12,6,11,7,8,7,60,,9
+GER,8928,Andreas Porth,Martin Lietz,,11,8,7,9,9,DNF 15,DNC 15,74,,10
+GER,9113,Joseph Schütte,Karsten Stümpel,,10,9,10,10,11,DNF 15,9,74,,11
+GER,8932,Christian Henge,Katja Henge,OSG,13,10,11,12,13,10,11,80,,12
+GER,8806,Anna Hauschild,Anja Stengel,SCS,12,13,13,13,12,9,10,82,,13
+GER,9040,Harald König,Katja Frühwald-König,SRVL-S,14,DNF 15,14,14,DNC 15,DNC 15,DNC 15,102,,14
