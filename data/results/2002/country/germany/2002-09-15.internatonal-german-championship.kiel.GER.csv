@@ -1,0 +1,62 @@
+Country,"Boat Number",Helm,Crew,Club,"Race 1","Race 2","Race 3","Race 4","Race 5",Brutto,Netto,Place
+GER,8775,"Wolfgang Hunger","Holger Jess",PYC,1,1,1,2,1,6,,1
+GER,8632,"Christian Kellner","Klaus Stammerjohann",HSC,6,9,4,1,5,25,,2
+GER,8670,"Martin Görge","Rainer Görge",TSVS,11,5,3,"DNF 62",3,84,,3
+GER,8619,"Jens Findel","Eike Dietrich",KYC,25,3,8,4,8,48,,4
+GER,8720,"Dirk Filimonow","Lars Stöckmann",BSV,7,4,11,7,6,35,,5
+DEN,8620,"Jan Saugmann","Morten Ramsbæk",HiS,3,10,2,10,10,35,,6
+GER,8744,"Ulf Pleßmann","Hans-Heinrich Rix",AYC,12,7,5,11,4,39,,7
+GER,8665,"Jens-Peter Schlomka","Martin Schöler",TSVS,15,12,9,9,2,47,,8
+GER,8622,"Lutz Stengel","Frank Feller",ROYC,5,20,10,12,9,56,,9
+GER,8769,"Stefan Böhm","Axel Priegann",SCV,20,14,6,3,14,57,,10
+GER,8580,"Michael Daisenberger","Andreas Achterberg",DTYC,13,6,"DNC 62",8,11,100,,11
+GER,8550,"Tom Gosch","Jörg Müller",ENSFV,10,15,23,5,15,68,,12
+GER,8675,"Volker Görge","Karsten Morf",TSVS,21,11,7,20,12,71,,13
+GER,8772,"Ronald Roos","Gerd Linnemann",SVWu,41,8,13,14,16,92,,14
+GER,8686,"Nicolai Völckner","Lars Dehne",HSC,48,2,28,6,24,108,,15
+GER,8730,"Jens Hufnagel","Markus Schöner",ScStM,26,17,15,15,13,86,,16
+GER,8747,"Jörg Thumann","Oliver Stieglitz",TuSJ,32,27,14,13,19,105,,17
+GER,8505,"Adalbert Kluck","Gerhard Schmidt",TSVS,36,22,12,16,27,113,,18
+GER,8531,"Michael Troch","Eckart König",SGJ,28,18,20,23,20,109,,19
+GER,8527,"Tim Steinert","Jens Steinert",ZSK,14,36,18,"DNF 62",17,147,,20
+GER,8777,"Stefan Schollmayer","Friedrich Böhnert",SCMSP,23,30,16,18,28,115,,21
+GER,8674,"Christian Niefert","Thomas Weber",BSV,29,16,22,25,25,117,,22
+GER,8741,"Hans-Christian Schwieger","Waldemar Schönebeck",NRV,18,33,19,30,"DNC 62",162,,23
+GER,8607,"Bernd Kowalzig","Achim Funk",SCBK,30,19,26,26,33,134,,24
+GER,8657,"Melanie Horstmann","Georg Neulen",HSC,22,25,34,"DNC 62",22,165,,25
+GER,8385,"Martin Bernauer","Ulf Geisler",CNFT,58,24,25,28,31,166,,26
+GER,8651,"Joachim Oetken","Stefan Oetken",FYC,2,41,"DNF 62","DNF 62",18,185,,28
+GER,8279,"Maike Miechelsen","Kay-Enno Brink",WSU,50,37,24,27,40,178,,29
+GER,8621,"Stephan Schweiger","Johannes Schmederer",SCLW,47,38,29,17,"DNC 62",193,,30
+GER,8634,"Oliver Booth","Gerrit Haaland",HSC,56,43,35,21,37,192,,31
+GER,8749,"Stephan Krause","Michael Krause",HiSC,9,39,"DNF 62","DNC 62",23,195,,32
+GER,8712,"Siegfried Labenz","Christian Labenz",SVWu,57,52,37,19,35,200,,33
+GER,8465,"Petra Kliba-Schmidt","Jan-Rolf Schmidt",SKWB,38,40,36,"DNC 62",30,206,,34
+GER,8664,"Franziska Unkelbach","Kathrin Adelkofer",KYC,39,44,32,"DNC 62",32,209,,35
+GER,8601,"Christian Koch","Angela Stenger",TSVS,43,32,38,"DNC 62",34,209,,36
+GER,8669,"Tim Böger","Jens Weishaupt",HSC,8,"DNC 62","DNF 62","DNC 62",7,201,,37
+GER,8412,"Antje Paulsen","Björn Schaar",BSV,51,50,33,24,42,200,,38
+GER,8711,"Carsten Engel","Tobias Neumeyer",PSVK,35,21,27,"DNF 62","DNC 62",207,,39
+GER,8480,"Sven Hollenbeck","Björn Hollenbeck",WYCD,45,34,30,"DNF 62",41,212,,40
+GER,8127,"Jörg Häger","Thorsten Drewes",SCB,4,13,"DNC 62","DNC 62","DNC 62",203,,41
+GER,8471,"Daniel Van Bonn","Malte Coers",SKBUE,27,31,"DNC 62","DNC 62",29,211,,42
+GER,8392,"Georg Mittermayer","Konrad Barop",LYC,"DNC 62",51,39,29,36,217,,43
+DEN,8333,"Mads Christiansen","Mikkel Christiansen",AS,42,53,41,31,46,213,,44
+GER,8633,"Oliver Lewin","Wolfgang Stückl",SCE,31,26,"DNF 62","DNC 62",38,219,,45
+GER,8441,"Rainer Gerdes","Eric Höger",SSCK,19,48,31,"DNF 62","DNC 62",222,,46
+GER,8788,"Peter Gerdts","Karsten Lahrs",HSC,34,23,"DNC 62","DNF 62",43,224,,47
+GER,8758,"Jürgen Hatje","Harald Schott",KYC,17,29,"DNC 62","DNC 62","DNC 62",232,,48
+GER,8414,"Stefan Worm","Holger Neuhaus",RYC,46,47,21,"DNF 62","DNC 62",238,,49
+GER,8530,"Alexander von Mertens","Pia Wiesbauer",StSC,49,55,40,"DNC 62",39,245,,50
+GER,8549,"Jens Meinert","Thomas Sobott",BCN,"DNC 62",35,"DNC 62","DNC 62",21,242,,51
+GER,8800,"Peter-Beck Mikkelsen","Dines Pontoppidan",SYC,33,28,"DNC 62","DNC 62","DNC 62",247,,52
+GER,8297,"Steve Kwee","Thorsten Spötter",HSC,55,56,42,"DNF 62",45,260,,53
+GER,7548,"Kristine König","Thilo König",BSV,37,57,43,"DNC 62","DNC 62",261,,54
+GER,8663,"Norbert Dasenbrook","Sven Meier",KSW,16,"DNC 62","DNC 62","DNC 62","DNC 62",264,,55
+GER,8450,"Jürgen Feuerhake","Hauke Sievers",YCSb,40,49,"DNF 62","DNC 62","DNC 62",275,,56
+GER,8108,"Thorge Holm","Jonas von Weidenberg",BCN,54,58,"DNC 62","DNC 62",44,280,,57
+GER,8751,"Markus Mühlbauer","Jens Wilke",DTYC,24,"DNC 62","DNC 62","DNC 62","DNC 62",272,,58
+FRA,8742,"Philippe Noclain","Jean-Marc Noclain",CVA,53,42,"DNC 62","DNC 62","DNC 62",281,,59
+GER,8575,"Jürgen Waldheim","Robert Bussenius",PYC,44,54,"DNF 62","DNC 62","DNC 62",284,,60
+GER,8546,"Dirk Hänsgen","Frank Rupprich",SVPB,52,46,"DNF 62","DNC 62","DNC 62",284,,61
+GER,8671,"Fritz Hollenbeck","Mark Felling",WSC,59,"DNC 62","DNF 62","DNC 62","DNC 62",307,,62
