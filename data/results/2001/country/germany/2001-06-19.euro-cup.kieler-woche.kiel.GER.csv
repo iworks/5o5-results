@@ -1,0 +1,45 @@
+Country,"Boat Number",Helm,Crew,Club,"Race 1","Race 2","Race 3","Race 4","Race 5","Race 6","Race 7","Race 8",Brutto,Netto,Place
+SWE,8655,"Krister Bergström","Thomas Moss",GKSS,1,1,1,1,3,1,"DNC 45"," 45",98,1
+GER,8775,"Wolfgang Hunger","Holger Jess",PYC,2,3,7,3,4,3,1," 45",68,2
+GER,8670,"Martin Görge","Rainer Görge",TSVS,3,2,6,2,14,6,7," 45",85,3
+GER,8725,"Dietrich Scheder-Bieschin","Rolf Meyer",NRV,5,16,3,6,2,10,5," 45",92,4
+GER,8720,"Dirk Filimonow","Lars Stöckmann",BSV,4,5,5,9,7,2,8," 45",85,5
+GER,8769,"Stefan Böhm","Gerald Roos",SCV,"RDG 45","RDG 45","RDG 45",8,9,4,4,33,193,,6
+DEN,8440,"Per Larsen","Henrik Andersen",Farum,26,7,8,4,1,13,14," 45",118,7
+GER,8376,"Volker Niedik","Stefan Heising",BSV,10,8,10,7,26,5,10," 45",121,8
+GER,8619,"Jens Findel","Johannes Tellen",KYC,6,11,2,14,8,11,15," 45",112,9
+GER,8744,"Ulf Pleßmann","Hans-Heinrich Rix",AYC,17,4,16,5,20,7,12," 45",126,10
+DEN,8622,"Tom Bøjland","Martin Frederichsen",Farum,9,9,17,13,5,17,16," 45",131,11
+GER,8632,"Claas Lehmann","Klaus Stammerjohann",NRV,14,20,"DSQ 45",10,15,8,3," 45",160,12
+GER,8669,"Tim Böger","Uwe Lätzsch",HSC,13,13,18,11,12,15,6," 45",133,13
+GER,8659,"Axel Oberemm","Gerd Linnemann",BYC-SC,12,14,15,12,10,"BFD 45",9," 45",162,14
+GER,8750,"Christian Müllejans","Thomas Jung",SVWu,8,6,24,25,32,9,11," 45",160,15
+GER,8749,"Stephan Krause","Michael Krause",HiSC,20,19,4,16,6,20,23," 45",153,16
+GER,8590,"Stefan Köchlin","Thorsten Drewes",SKF,15,12,22,15,25,"DNC 45",2," 45",181,17
+GER,8730,"Jens Hufnagel","Markus Schöner",ScStM,22,10,13,22,19,12,25," 45",168,18
+GER,8665,"Jens-Peter Schlomka","Thorsten Lehmann",TSVS,31,18,23,17,11,14,19," 45",178,19
+GER,8471,"Daniel Van Bonn","Malte Coers",SKBUE,23,17,9,18,13,29,30," 45",184,20
+GER,8675,"Volker Görge","Karsten Morf",TSVS,7,24,30,21,16,18,"DNC 45"," 45",206,21
+GER,8608,"Bernd Rasenack","Carsten Engel",ZSK,18,15,19,"BFD 45",18,25,22," 45",207,22
+GER,8229,"Robert Vincke","Björn Helmenichs",KSW,21,29,"OCS 45",23,17,19,18," 45",217,23
+GER,8570,"Till Supan","Gregor Dahlem",ETUF,28,22,11,29,23,22,27," 45",207,24
+GER,8607,"Bernd Kowalzig","Ulrich Ellerbeck",SCBK,19,25,21,33,36,24,13," 45",216,25
+GER,8505,"Adalbert Kluck","Gerhard Schmidt",TSVS,16,31,20,32,22,16,"DNC 45"," 45",227,26
+GER,8424,"Peter Gerdts","Karsten Lahrs",HSC,25,23,12,27,30,27,"DNC 45"," 45",234,27
+GER,8522,"Torsten Hessler","Klaus Hönemann",SVSE,27,27,34,19,37,23,17," 45",229,28
+GER,8404,"Hans-Christian Schwieger","Waldemar Schönebeck",NRV,24,38,32,34,21,21,21," 45",236,29
+GER,8465,"Petra Kliba-Schmidt","Jan-Rolf Schmidt",SKWB,32,26,14,26,29,36,29," 45",237,30
+GER,8601,"Christian Koch","Lars Wrentzel",TSVS,34,37,25,37,38,34,20," 45",270,31
+GER,8472,"Melanie Horstmann","Mirko Oestergaard",HSC,29,28,"DNC 45",20,31,30,"DNC 45"," 45",273,33
+GER,8546,"Dirk Hänsgen","Frank Rupprich",SVPB,39,36,35,30,28,"BFD 45",24," 45",282,34
+GER,8528,"Lukas Tanner","Andreas Tanner",RVBS,40,33,27,36,42,33,28," 45",284,35
+GER,8412,"Antje Paulsen","Björn Schaar",BSV,36,35,33,38,33,32,31," 45",283,36
+GER,8664,"Franziska Unkelbach","Mira Grättinger",KYC,37,32,29,"BFD 45",27,26,"DNC 45"," 45",286,37
+GER,8098,"Martin Handel","Frank Letsche",SGK,35,41,"OCS 45",31,34,37,26," 45",294,38
+GER,8661,"Diethardt Freye","Michael Klügel",BSV,11,21,"DNC 45",24,"DNC 45","DNC 45","DNC 45"," 45",281,39
+GER,8324,"Mira Grättinger","Holger Becker",SCW,38,34,26,39,35,"BFD 45","DNC 45"," 45",307,40
+GER,7747,"Hendrik Oberheid","Siegfried Krause",ETuF,42,"DNC 45",36,41,39,35,33," 45",316,41
+GER,8450,"Jürgen Feuerhake","Margit Falk",YCSb,41,40,"DSQ 45",40,24,31,"DNC 45"," 45",311,42
+GER,7801,"Christiane Giefers","Nils Leibitzke",SVPB,44,42,37,35,40,38,"DNC 45"," 45",326,43
+GER,8621,"Stephan Schweiger","Johannes Schmederer",SCLW,33,30,28,"DNC 45","DNC 45","DNC 45","DNC 45"," 45",316,44
+GER,8128,"Astrid Mesenbrink","Philipp Mühlenhardt",TSVS,43,43,38,42,43,"DNC 45","DNC 45"," 45",344,45
