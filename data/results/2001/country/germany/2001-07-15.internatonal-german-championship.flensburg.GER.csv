@@ -1,0 +1,57 @@
+Country,"Boat Number",Helm,Crew,Club,"Race 1","Race 2","Race 3","Race 4","Race 5",Brutto,Netto,Place
+GER,8775,"Wolfgang Hunger","Holger Jess",PYC,4,2,4,1,10,21,,1
+SWE,8655,"Krister Bergström","Johan Barne",GKSS,12,1,1,5,8,27,,2
+DEN,8656,"Jan Moller","Jørgen Bojsen-Møller",HS,2,9,2,15,4,32,,3
+SWE,8232,"Ebbe Rosen","Olle Wenrup","Mai Arhojd",11,6,3,6,13,39,,4
+DEN,8620,"Jan Saugmann","Morten Ramsbæk",HiS,1,8,13,13,5,40,,5
+GER,8670,"Martin Görge","Rainer Görge",TSVS,14,16,11,3,1,45,,6
+GER,8720,"Dirk Filimonow","Lars Stöckmann",BSV,17,11,61,2,2,93,,7
+GER,8661,"Diethardt Freye","Michael Klügel",BSV,13,7,9,21,3,53,,8
+GER,8725,"Dietrich Scheder-Bieschin","Martin Schöler",NRV,7,12,5,23,11,58,,9
+GER,8619,"Jens Findel","Johannes Tellen",KYC,25,3,7,7,21,63,,10
+GER,8744,"Hans-Heinrich Rix","Steffen Achenbach",TSVS,6,13,21,8,14,62,,11
+GER,8669,"Tim Böger","Uwe Lätzsch",HSC,8,17,8,26,9,68,,12
+GER,8563,"Matthias Jetschke","Jens Weishaupt",WSCW,3,14,14,19,12,62,,13
+GER,8769,"Stefan Böhm","Gerald Roos",SCV,61,26,6,9,6,108,,14
+GER,8750,"Christian Müllejans","Thomas Jung",SVWu,61,4,18,11,15,109,,15
+GER,8651,"Joachim Oetken","Stefan Oetken",FYC,31,19,12,4,16,82,,16
+GER,8671,"Joachim Hellmich","Christian Paschen",WYD,5,22,16,12,20,75,,17
+GER,8542,"Tom Swift","Andreas Achterberg",NRV,20,10,23,20,7,80,,18
+GER,8675,"Volker Görge","Karsten Morf",TSVS,10,50,15,16,17,108,,19
+GER,8632,"Christian Kellner","Klaus Stammerjohann",HSC,15,61,10,22,19,127,,20
+GER,8772,"Ronald Roos","Gerd Linnemann",SVWu,24,5,22,17,26,94,,21
+DEN,8622,"Tom Bøjland","Jakob Karbo",Farum,9,21,17,29,24,100,,22
+GER,8663,"Norbert Dasenbrook","Jens Wilke",KSW,21,24,26,10,44,125,,23
+GER,8730,"Jens Hufnagel","Markus Schöner",ScStM,19,28,20,27,18,112,,24
+GER,8505,"Adalbert Kluck","Gerhard Schmidt",TSVS,16,15,19,36,35,121,,25
+GER,8633,"Stefanie Wagner","Wolfgang Stückl",DTYC,28,25,25,14,23,115,,26
+GER,8665,"Jens-Peter Schlomka","Thomas Tschentscher",TSVS,30,20,29,18,22,119,,27
+GER,8747,"Jörg Thumann","Oliver Stieglitz",TuSJ,23,23,32,24,25,127,,28
+DEN,8581,"Jan Andresen","Lasse Andresen",REESO,22,27,24,35,30,138,,29
+DEN,8440,"Per Larsen","Henrik Andersen",Farum,26,31,27,28,31,143,,30
+GER,8777,"Stefan Schollmayer","Francisco Sanguino",SCMSP,27,29,30,61,27,174,,31
+GER,8539,"Hendrik Schultz","Ute Oberländer",SCLW,32,39,38,25,29,163,,32
+GER,8478,"Kai-Uwe Weiss","Axel Priegann",HSV,61,36,28,38,28,191,,33
+GER,8657,"Georg Neulen","Michael Schütte",WYCA,41,33,31,40,33,178,,34
+GER,8465,"Petra Kliba-Schmidt","Jan-Rolf Schmidt",SKWB,61,32,36,31,41,201,,35
+GER,8279,"Maike Miechelsen","Kay-Enno Brink",WSU,33,41,33,34,45,186,,36
+GER,8507,"Armin Eismann","Tino Käcks",SCA,35,34,37,48,37,191,,37
+GER,8471,"Daniel Van Bonn","Malte Coers",SKBUE,61,30,42,33,40,206,,38
+GER,8424,"Peter Gerdts","Karsten Lahrs",HSC,38,45,39,32,36,190,,39
+GER,8317,"Suzy Willim","Antje Gosch",SCB,42,38,61,39,32,212,,40
+GER,8607,"Bernd Kowalzig","Petra Beier",SCBK,34,35,41,46,52,208,,41
+GER,8590,"Stefan Köchlin","Eike Dietrich",SKF,18,18,61,61,61,219,,42
+GER,8412,"Antje Paulsen","Björn Schaar",BSV,37,37,34,50,61,219,,43
+DEN,8609,"Martin Frederichsen","Thomas Kildegård",ASK,39,42,35,45,42,203,,44
+GER,8530,"Alexander von Mertens","Angela Stenger",StSC,29,43,43,53,46,214,,45
+GER,8575,"Jürgen Waldheim","Jan Bastian Neumin",PYC,61,47,46,43,39,236,,46
+GER,8466,"Sven Friedrich","Oliver Wendt",BSV,36,40,40,61,61,238,,47
+GER,7548,"Thilo König","Kristine König",OSVE,40,49,48,44,53,234,,48
+DEN,8377,"Anders Høj Christensen","Peter J. Christensen",HVID,61,44,61,42,38,246,,49
+GER,8533,"Roger Bussenius","Robert Bussenius",SCOH,43,46,47,52,49,237,,50
+GER,8642,"Thoralf Greger","Klaus Hönemann",ASVG,61,61,61,30,34,247,,51
+GER,8601,"Christian Koch","Lars Wrentzel",TSVS,61,48,44,49,47,249,,52
+SWE,8033,"Karl Thews","Björn Thews",NS,61,51,49,47,43,251,,53
+GER,8634,"Christian Soyka","Gerrit Haaland",SVI,61,61,45,37,48,252,,54
+GER,8047,"Grietje Therkorn","Kirstin Schirrmacher",CKA,61,61,61,41,51,275,,55
+GER,8472,"Melanie Horstmann","Janne Spitzmann",HSC,61,52,61,51,50,275,,56
