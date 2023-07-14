@@ -1,0 +1,29 @@
+Country,"Boat Number",Helm,Crew,Club,"Race 1","Race 2",Brutto,Netto,Place
+GER,8632,"Tom Gosch","Jörg Müller",ENSFV,2,2,4,4,1
+GER,8531,"Michael Troch","Eckart König",SGJ,4,1,5,5,2
+GER,8775,"Tom Swift","Arnd Hover",NRV,3,3,6,6,3
+GER,8539,"Olaf Oberländer","Lutz Stengel",CKA,6,6,12,12,4
+GER,8575,"Jürgen Waldheim","Bettina Dittemer",PYC,5,9,14,14,5
+GER,8433,"Jürgen Anton","Klaus Heeschen",HSC,7,7,14,14,6
+GER,8507,"Armin Eismann","Tino Käcks",SCA,11,4,15,15,7
+GER,8500,"Jörg Rettig","Thomas Ohde",SSV,10,5,15,15,8
+GER,8385,"Martin Bernauer","Kerstin Bernauer",CNFT,9,1,10,10,9
+GER,8505,"Adalbert Kluck","Gerhard Schmidt",TSVS,12,8,20,20,10
+GER,8414,"Stefan Worm","Mathias Kaiser",RYC,8,12,20,20,11
+GER,8047,"Grietje Therkorn","Kirstin Schirrmacher",CKA,16,13,29,29,12
+GER,8675,"Volker Görge","Karsten Morf",TSVS,21,11,32,32,13
+GER,8599,"Robert Baumann","Dirk Kaiser",SSV,13,19,32,32,14
+GER,8657,"Georg Neulen","Andreas Münzebrock",WYCA,17,16,33,33,15
+GER,8758,"Jürgen Hatje","Ole Günther",KYC,1,"DSQ 29",30,30,16
+GER,8370,"Harry Brandt","Christian Barke",OSV,19,17,36,36,17
+GER,7498,"Alexander Holzapfel","Dirk Ipach",PSVK,14,24,38,38,18
+GER,8533,"Roger Bussenius","Robert Bussenius",SCOH,15,23,38,38,19
+GER,8365,"Nicole Walkowiack","Robert Hanke",VSW,18,21,39,39,20
+GER,8297,"Steve Kwee","Henrik Masekowitz",HSC,22,18,40,40,21
+GER,8071,"Elke Schott","Harald Schott",SVS,20,2,22,22,22
+GER,6786,"Hendrik Reinhardt","Axel Schult",SVSF,27,14,41,41,23
+GER,8388,"Caroline Szesny","Peter Wolffram",FYC,26,15,41,41,24
+GER,8530,"Alexander von Mertens","Maik Kaiser",StSC,23,26,49,49,25
+GER,8392,"Georg Mittermayer","Felix Mittermayer",LYC,25,25,50,50,26
+GER,8421,"Antje Paulsen","Björn Schaar",BSV,24,27,51,51,27
+GER,6805,"Andreas Jungclaus","Frank Ströbing",HSC,"DNF 29",22,51,51,28
