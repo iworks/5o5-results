@@ -1,0 +1,30 @@
+Country,"Boat Number",Helm,Crew,Club,"Race 1","Race 2","Race 3",Brutto,Netto,Place
+GER,8671,"Markus Mühlbauer","Angela Stenger",DTYC,2,1,1,4,4,1
+GER,8658,"Stefanie Wagner","Till Reckert",DTYC,1,2,3,6,6,2
+FRA,8484,"Philippe Blanchard","Carole Blattner",ACAL,4,4,2,10,10,3
+GER,8519,"Thoralf Greger","Oliver Paulzen",ASVG,3,3,7,13,13,4
+GER,8633,"Christian Kellner","Wolfgang Stückl",HSC,6,6,4,16,16,5
+GER,8562,"Wolfgang Seifert","Christian Voggeser",SCLW,5,8,10,23,23,6
+GER,8580,"Frieder Achterberg","Andreas Achterberg",DTYC,11,7,8,26,26,7
+GER,8642,"Stefan Schollmayer","Francisco Sanguino",SCMSP,17,5,6,28,28,8
+FRA,7941,"Veronique Dousselin","Jean-Pierre Peter",ACAL,8,18,5,31,31,9
+GER,7970,"Nils Burghard","Susanne Bauer",SCLW,12,10,13,35,35,10
+GER,8652,"Frank Weigelt","Christian Dörr",DTYC,19,9,9,37,37,11
+GER,7930,"Christoph Hessel","Anette Hessel",YCU,7,16,15,38,38,12
+GER,8475,"Göran Berggren","Agnes Berggren",SCLW,14,12,12,38,38,13
+GER,8473,"Oliver Kraft","Timo Böckle",SSCM,10,18,17,45,45,14
+GER,7921,"Jochen Heydolph","Eckhard Busch",SCLW,16,13,16,45,45,15
+GER,7661,"Peter Heimbeck","Magdalena Heimbeck",SCLW,13,11,22,46,46,16
+GER,8413,"Martin Eckel","Tobias Quadfaß",HSC,20,14,14,48,48,17
+GER,8697,"Hans-Otto Frisch","Achim Funk",SCLW,15,"DNF 30",18,63,63,18
+GER,7442,"Claudius Zeiler","Matthias Gotthard",SGR,23,22,19,64,64,19
+GER,8108,"Thorge Holm","Nils Holm",BCN,"DNF 30",15,20,65,65,20
+GER,8530,"Alexander von Mertens","Michaela Schrott",StSC,22,20,24,66,66,21
+GER,7891,"Ulli Stegbauer","Robert Plecher",HSC,21,23,25,69,69,22
+GER,8691,"Günther Böckle","Frank Heimburger",SSCM,"DNC 30","DNC 30",11,71,71,23
+GER,7768,"Christina Friedrich","Thorsten Koch",DHH-RG,24,26,21,71,71,24
+GER,8098,"Albrecht Maisch","Frank Letsche",SGK,26,24,23,73,73,25
+GER,8518,"Klaus Eifler","Nathalie Friedrich",SCLW,18,"DNF 30",27,75,75,26
+GER,7851,"Christoph Bökle","Sebastian Kleis",SSCM,27,21,28,76,76,27
+GER,8598,"Klaus Riedl","Franz Bachmeier",SCHC,25,25,26,76,76,28
+GER,7645,"Reinhold Winkler","Nora Winkler",HSC,28,27,29,84,84,29
