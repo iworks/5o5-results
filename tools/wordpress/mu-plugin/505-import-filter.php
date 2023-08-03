@@ -3119,7 +3119,7 @@ class iworks_5o5_upload_fixer {
 		),
 		array(
 			'N Wilmott' => 'Neil Willmott',
-			'P Wilmott' => 'P Willmott',
+			'P Wilmott' => 'Paul Willmott',
 		),
 		array(
 			'T. Wattson' => 'Tony Wattson',

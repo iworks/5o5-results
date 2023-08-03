@@ -1,0 +1,41 @@
+Country,"Boat Number",Helm,Crew,Club,"Race 1","Race 2","Race 3","Race 4","Race 5","Race 6",Brutto,Netto,Place
+GER,8750,"Wolfgang Hunger","Holger Jess",PYC,1,1,1,1,4,1,9,,1
+GER,8725,"Tom Gosch","Rolf Meyer",ENSFV,2,2,2,4,2,9,21,,2
+GER,8744,"Hans-Heinrich Rix","Steffen Achenbach",TSVS,3,14,3,9,3,3,35,,3
+GER,8720,"Dirk Filimonow","Lars Stöckmann",BSV,9,6,"OCS 41",3,5,5,69,,4
+GER,8590,"Stefan Köchlin","Peter Hobusch",SKF,12,20,4,8,12,2,58,,5
+GER,8619,"Jens Findel","Sven Bode",KYC,8,9,"OCS 41",2,7,13,80,,6
+GER,8661,"Diethardt Freye","Michael Klügel",BSV,11,8,9,20,6,10,64,,7
+GER,8670,"Martin Görge","Rainer Görge",TSVS,7,18,6,15,1,"DNC 41",88,,8
+GER,8539,"Olaf Oberländer","Ute Oberländer",CKA,4,3,14,14,15,15,65,,9
+GER,8675,"Volker Görge","Karsten Morf",TSVS,13,7,16,21,19,8,84,,10
+GER,8470,"Norbert Dasenbrook","Sven Meier",KSW,14,25,10,11,20,12,92,,11
+GER,8550,"Dietrich Scheder-Bieschin","Martin Schöler",NRV,6,5,8,"DSQ 41","OCS 41",7,108,,12
+GER,8609,"Christian Müllejans","Thomas Jung",SVWu,15,19,13,30,8,16,101,,13
+GER,8465,"Jens Hufnagel","Markus Schöner",ScStM,18,13,11,16,17,14,89,,14
+DEN,8632,"Peter-Beck Mikkelsen","Dines Pontoppidan",SYC,21,12,7,24,21,11,96,,15
+GER,8730,"Jörg Häger","Thorsten Drewes",SCB,17,4,"OCS 41",5,11,"DNC 41",119,,16
+GER,8621,"Volker Niedik","Stefan Heising",BSV,5,10,"OCS 41",6,16,"DNC 41",119,,17
+GER,8665,"Jens-Peter Schlomka","Klaus Stammerjohann",TSVS,24,27,17,30,9,6,113,,18
+GER,8414,"Stefan Worm","Mathias Kaiser",RYC,26,15,5,25,22,17,110,,19
+GER,8505,"Adalbert Kluck","Gerhard Schmidt",TSVS,19,26,31,23,13,4,116,,20
+GER,8570,"Till Supan","Gregor Dahlem",ETUF,23,22,12,7,28,24,116,,21
+GER,8664,"Franziska Unkelbach","Caroline von Dahl",KYC,16,29,18,12,30,26,131,,22
+GER,8531,"Jürgen Hatje","Iris Kunterwald",KYC,10,17,20,13,"DNC 41","DNC 41",142,,23
+GER,8466,"Klaus Rieck","Sven Friedrich",BSV,28,23,22,17,23,21,134,,24
+GER,8424,"Peter Gerdts","Karsten Lahrs",HSC,36,32,25,18,14,19,144,,25
+GER,8335,"Roger Rachuba","Jens Wilke",SCSt,20,"DNC 41",19,"DSQ 41",10,18,149,,26
+GER,8472,"Melanie Horstmann","Mirko Oestergaard",HSC,35,31,29,10,27,27,159,,27
+GER,8430,"Klaus Heeschen","Marten Christiansen",WSCW,27,28,26,32,24,20,157,,28
+GER,8404,"Hans-Christian Schwieger","Waldemar Schönebeck",NRV,25,21,28,"DNC 41",29,22,166,,29
+GER,8601,"Christian Koch","Jan Büscher",TSVS,29,30,27,19,26,25,156,,30
+GER,8567,"Jörg Detmold","Holger Neuhaus",SCH,22,16,24,26,"DNC 41","DNC 41",170,,31
+GER,8388,"Andreas Klein","Marius Knippscheer",SCN,"DNC 41",33,15,29,18,"DNC 41",177,,32
+GER,8749,"Stephan Krause","Michael Krause",HiSC,"DNC 41",11,21,"DSQ 41",25,"DNC 41",180,,33
+GER,8478,"Kai-Uwe Weiss","Steffen Henning",HSV,32,24,33,27,31,"DNF 41",188,,34
+GER,8392,"Konrad Barop","Georg Mittermayer",RSV,31,36,30,28,33,28,186,,35
+GER,8057,"Thomas Brodersen",Chris,YFS,"DNC 41",34,32,33,32,23,195,,36
+GER,7923,"Jan Schulte-Rhade","Norman Hüper",SVK,30,37,23,31,24,"DNC 41",186,,37
+GER,8166,"Roland Boettcher","Gabi Boettcher",PSVK,33,35,35,34,35,"DNC 41",213,,38
+GER,6052,"Philipp Saring","Martin Schatz",SVSS,34,"DSQ 41",34,"DSQ 41","DNF 41","OCS 41",232,,39
+GER,8210,"Nikolaus Jägersberg","Wolfgang Hiltscher",SCLW,"DNC 41","DNC 41",36,"DSQ 41","DNC 41","DNC 41",241,,40
