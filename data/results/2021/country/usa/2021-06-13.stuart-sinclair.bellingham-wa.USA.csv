@@ -1,10 +1,10 @@
-USA,,Helm,Crew,,Race 1,R2,R3,R4,R5,R6,FINAL,Place
-USA,8864,Mats Elf,Paul Pihl/Colin,,1,1,1,2,[5],2,7,1
-USA,9009,Elsa Balton,Blaine Pedlow,,2,2,2,[3],2,3,11,2
-USA,,Alice,PVG,,3,3,4,[7],1,1,12,3
-USA,8868,Piper Dunlap,Dan Ginther,,4,[8],6,4,3,4,21,4
-USA,,Courtney,Benj,,6,5,3,1,[10 DNS],10 DNS,25,5
-USA,,Darby,Sugar,,7,6,8,5,4,[10 DNF],30,6
-USA,8824,Cedric Keneipp,Jack Knowles,,5,4,5,8,[10 DNS],10 DNS,32,7
-USA,,Lee,Andrea,,10 DNS,7,7,6,[10 DNS],10 DNS,40,8
-USA,,Hubbards,,,8,9,9,9,[10 DNS],10 DNS,45,9
+Country,Boat NO,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Total,Netto,Place
+USA,8864,Mats Elf,Paul Pihl/Colin,,1,1,1,2,[5],2,12,7,1
+USA,9009,Elsa Balton,Blaine Pedlow,,2,2,2,[3],2,3,17,11,2
+USA,8559,Alice,Paul von Grey,,3,3,4,[7],1,1,19,12,3
+USA,8868,Piper Dunlap,Dan Ginther,,4,[8],6,4,3,4,29,21,4
+USA,8631,Courtney,Benj,,6,5,3,1,[10 DNS],10 DNS,35,25,5
+USA,6991,Darby,Sugar Flanagan,,7,6,8,5,4,[10 DNF],40,30,6
+USA,8824,Cedric Keneipp,Jack Knowles,,5,4,5,8,[10 DNS],10 DNS,42,32,7
+USA,8616,Lee Laney,Andrea,,10 DNS,7,7,6,[10 DNS],10 DNS,50,40,8
+USA,7610,Hubbard,Hubbard,,8,9,9,9,[10 DNS],10 DNS,55,45,9

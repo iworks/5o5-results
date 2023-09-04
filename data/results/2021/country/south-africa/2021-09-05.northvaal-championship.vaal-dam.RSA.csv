@@ -1,11 +1,11 @@
-country,SailNO,Helm,Crew,Club ,Race 1,Race 2,Points,Place
-RSA,9094,Peter Funke,Phil Bennett,Aeolians/PYC,1,1,2,1
-RSA,8719,Campbell Tiley,Jonathan Ham,TUKS,2,3,5,2
-RSA,8789,Luca Govetto,Warwick Ham,PSC,4,2,6,3
-RSA,8520,Aaron Biagio,Mark Biagio,PSC,3,4,7,4
-RSA,7682,Luke Wagner,Rudy Fokkens,PYC,5,5,10,5
-RSA,8406,Bronwen Klaas,Kyle Harvey,PSC,6,6,12,6
-RSA,4214,Tayo Scott,Drew Scott,KYC,8,7,15,7
-RSA,7722,Dudley Thomson,Allan Lewthwaite,BSC,7,8,15,8
-RSA,8537,Andrew Arthur,,ESC,9,9,18,9
-RSA,6400,Ian Campbell,Jacques Faura,BSC,11 DNF,10,21,10
+country,SailNO,Helm,Crew,Club ,Race 1,Race 2,Race 3,Race 4,Race 5,Total,Netto,Place
+RSA,9094,Peter Funke,Phil Bennett,Aeolians/PYC,1,1,1,1,(3),7,4,1
+RSA,8719,Campbell Tiley,Jonathan Ham,TUKS,2,3,(DSQ),3,1,20,9,2
+RSA,8520,Aaron Biagio,Mark Biagio,PSC,3,4,2,(5),2,16,11,3
+RSA,8789,Luca Govetto,Warwick Ham,PSC,(4),2,3,2,4,15,11,4
+RSA,7682,Luke Wagner,Rudy Fokkens,PYC,(5),5,5,4,5,24,19,5
+RSA,8406,Bronwen Klaas,Kyle Harvey,PSC,6,6,4,6,(7),29,22,6
+RSA,4214,Tayo Scott,Drew Scott,KYC,(8),7,8,7,6,36,28,7
+RSA,7722,Dudley Thomson,Allan Lewthwaite,BSC,7,8,6,(9),9,39,30,8
+RSA,8537,Andrew Arthur,,ESC,(9),9,7,8,8,41,32,9
+RSA,6400,Ian Campbell,Jacques Faura,BSC,(DNF),10,DNF,10,10,52,41,10
