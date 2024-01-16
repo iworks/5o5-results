@@ -1,5 +1,5 @@
-Nation,Boat no,Helm,Crew,Club,Race 1,Points,Place
-POL,7539,Jakub Pawluk,Piotr Żółtowski,,,,1
-POL,0,Michał Korneszczuk,Jakub Klimek,,,,2
-POL,7020,Dorota Dajkowska,Łukasz Stawski,,,,3
-POL,0,Radosław Grabicki,Piotr Juckiewicz,,,,4
+Nation,Boat no,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Points,Netto,Place
+POL,7539,Jakub Pawluk,Piotr Żółtowski,,1,[2],1,1,1,6,4,1
+POL,8622,Michał Korneszczuk,Jakub Klimek,,2,1,2,2,[3],10,7,2
+POL,7020,Dorota Dajkowska,Łukasz Stawski,,[3],3,3,3,2,14,11,3
+POL,7037,Radosław Grabicki,Piotr Juckiewicz,,[4],4,4,4,4,20,16,4
