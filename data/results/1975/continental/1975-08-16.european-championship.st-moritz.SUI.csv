@@ -3,7 +3,7 @@ GBR,0,John Loveday,Lewis Dann,,1,1,1,2,2,5,,1
 GBR,0,Hugh Bourn,Pusinelli,,3,11,11,3,3,1,,2
 FRA,0,Marcel Buffet,Thierry Moreau-Defarges,,13,12,5,4,7,2,,3
 SWE,0,Göran Eckeström,Jan Calvert,,2,6,9,21,6,8,,4
-,0,Claudel,Claudel,,,,,,,,,5
+,0,Claudel,Claudel,,,,,,,5,,5
 ,0,,,,,,,,,,,6
 ,0,,,,,,,,,,,7
 ,0,,,,,,,,,,,8
@@ -11,7 +11,7 @@ SWE,0,Göran Eckeström,Jan Calvert,,2,6,9,21,6,8,,4
 ,0,,,,,,,,,,,10
 ,0,,,,,,,,,,,11
 ,0,,,,,,,,,,,12
-,0,,,,,,,,,,,13
+FRA,0,Bernard Reynier,François Dury,,,,,,,,,13
 ,0,,,,,,,,,,,14
 ,0,,,,,,,,,,,15
 ,0,,,,,,,,,,,16
@@ -23,7 +23,7 @@ SWE,0,Göran Eckeström,Jan Calvert,,2,6,9,21,6,8,,4
 ,0,,,,,,,,,,,22
 ,0,,,,,,,,,,,23
 SWE,0,Thomas Rudewald,Martin Uulas,,,,,,,,,24
-SWE,0,Krister Bergström,Martin Bergström,,,,,,,,,25
+SWE,0,Krister Bergström,Martin Bergström,,6,,,,,,,25
 ,0,,,,,,,,,,,26
 ,0,,,,,,,,,,,27
 ,0,,,,,,,,,,,28
