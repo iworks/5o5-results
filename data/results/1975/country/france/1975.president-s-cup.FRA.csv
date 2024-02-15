@@ -1,12 +1,11 @@
-COUPE DU PRESIDENT - 2 manches courues par 10 concurrents.,
-,
-1 STOLL/BERNDT,"5,7"
-2 MULDER/BRUCKEL,"11,7"
-3 HEYMANN/HEYMANN,"13,7"
-4 SCHUTZ/SCHUTZ,"14,7"
-5 JAKOB/HESS,18
-6 BLANCHARD Frères,18
-7 VITELLI/SI MON,23
-8 MARTI N/D ES BLANC S,27
-9 PFAADT/ZIEGELMEYER,29
-10 MOREAU/HEINZ,37
+Country,Sail No,Helm Name,Crew Name,Club,Race1,Race2,Points,Rank
+FRA,,Stoll,Berndt,,,,"5,7",1
+FRA,,Mulder,Bruckel,,,,"11,7",2
+FRA,,Heymann,Heymann,,,,"13,7",3
+FRA,,Schutz,Schutz,,,,"14,7",4
+FRA,,Jakob,Hess,,,,18,5
+FRA,,Blanchard,Frères,,,,18,6
+FRA,,Vitelli,Simon,,,,23,7
+FRA,,Martin,Desblancs,,,,27,8
+FRA,,Pfaadt,Ziegelmeyer,,,,29,9
+FRA,,Thierry Moreau-Defarges,Heinz,,,,32,10
