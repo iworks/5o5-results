@@ -1,0 +1,105 @@
+Country,Boat Num,Helm,Crew,Boat Name,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Total,Discard,Points,Position
+GBR,8431,Ian Barker,Tim Hancock,,1,[5],3,2,1,4,"15,5",5,"10,5",1
+GBR,8481,Paul Brotherton,Bill Masterman,Gus,[15],7,1,1,2,1,"26,25",15,"11,25",2
+GBR,8458,Ian Pinnelt,,,3,1,4,3,4,[5],"19,75",5,"14,75",3
+GBR,8140,Ian Walters,,Cindy Bear,[19],3,6,9,7,6,50,19,31,4
+GBR,8269,Paul Towers,,,6,10,9,[21],5,8,59,21,38,5
+GBR,8384,Robin Boardman,,Isabella,4,13,10,5,8,[14],54,14,40,6
+GBR,8497,P Milanes,,,10,8,14,7,6,[19],64,19,45,7
+GBR,8242,Mark Upton-Brown,,,2,[22],5,16,10,15,70,22,48,8
+GBR,8432,Debbie Jarvis,,,21,6,[32],4,3,22,88,32,56,9
+GBR,7852,Chris Haworth,,Ethel,7,[50],13,6,13,18,107,50,57,10
+GBR,8377,Hector Cisneros,Lawrence Crispin,Yugo First,28,18,[105],10,11,2,174,105,69,11
+GBR,8306,Clive Robinson,,Assassin,25,23,2,14,[31],7,102,31,71,12
+GBR,8423,John Loveday,,Wot No Sharks,14,20,17,[20],14,12,97,20,77,13
+GBR,8484,Mike Holmes,,,17,2,21,[23],17,21,101,23,78,14
+GBR,8367,Richard Tew,,The One For Me Fatty,5,15,18,17,23,[105],183,105,78,15
+GBR,8380,Mike Holt,,California Dreamin,20,24,16,[105],12,10,187,105,82,16
+GBR,8449,D Smithwhite,,,[44],30,7,15,16,24,136,44,92,17
+GBR,8400,Geoff Carveth,,Space Cadets,30,[41],15,11,15,23,135,41,94,18
+GBR,8489,Mark Longstaff,,,32,43,8,[47],9,3,142,47,95,19
+GBR,8378,Martin Hodgson,,Gilbert,8,21,29,27,19,[32],136,32,104,20
+GBR,8457,Ian P Keely,,Bubbles,13,4,33,[38],28,27,143,38,105,21
+GBR,8416,Ian Montague,,Magic,9,25,26,[56],21,25,162,56,106,22
+GBR,8445,Vernon Ralston,,Go First,53,[57],11,8,25,9,163,57,106,23
+GBR,8383,Richard Estaugh,,Lilly,[34],14,20,18,30,26,142,34,108,24
+GBR,8414,Robert Shaw,,,16,19,[105],26,27,20,213,105,108,25
+GBR,8308,James Yearsley,,Too Beaver,27,17,24,[30],18,28,144,30,114,26
+GBR,8464,James Hunt,,,11,[38],31,12,33,31,156,38,118,27
+GBR,6493,Chris Dando,,,26,16,40,13,29,[105],229,105,124,28
+GBR,8051,Stephen Cooper,,Marshmallon,33,9,27,29,[37],30,165,37,125,29
+GBR,8494,Tim Rush,Simon Lake,Bete Noire,[43],39,12,40,26,11,171,43,128,30
+GBR,8382,Jeremy Hartley,,,31,28,22,[35],24,29,169,35,134,31
+GBR,6933,Colin Smith,,Grace,29,12,43,[60],22,33,199,60,139,32
+GBR,8429,Rob Napier,,Pink I-D,12,33,45,31,[45],37,203,45,158,33
+GBR,5467,George Simpkins,,Ruby Tuesday,[58],32,149,51,44,16,220,58,162,34
+GBR,8495,David Peacock,,,57,[64],23,49,20,13,226,64,162,35
+GBR,8139,Paul Blowers,,Kylie,56,[61],28,36,32,17,230,61,169,36
+GBR,8379,Erik Arthur,,Bosh,[55],53,25,24,42,34,233,55,178,37
+GBR,8291,Sam Neal,,Targilt?,18,31,47,41,53,[105],295,105,190,38
+GBR,8287,J Wilson,._,Mr Blobby,36,[105],34,25,48,48,296,105,191,39
+FRA,8063,Marcel Buffet,,Ya-Za,[59],11,54,37,36,54,251,59,192,40
+GBR,8129,Simon Hotchin,,Full Blown Chubby,42,[44],42,43,39,36,246,44,202,41
+GBR,8259,Peter Wolsetnholme,,,39,45,55,33,38,[105],315,105,210,42
+GBR,8366,Tim Scarisbrick,,,54,29,49,32,51,[107],322,107,215,43
+GBR,8217,A Jones,,,35,48,51,[55],40,44,273,55,218,44
+GBR,8331,Richard Lord,,,41,49,65,28,35,[105],323,105,218,45
+GBR,8295,Christian Diebitsch,,,37,47,50,[53],46,45,278,53,225,46
+GBR,8368,John Costard,,Billyrob,[106],26,41,19,34,105,331,106,225,47
+GBR,8049,Jon Gorringe,,Pom Pom,51,[62],60,22,47,47,289,62,227,48
+GBR,8482,Aislink Bowman,,Minnie the Moocher,24,36,57,59,54,[105],335,105,230,49
+GBR,8034,Roger Driver,,On Yer Bike,50,42,39,48,57,[107],343,107,236,50
+GBR,8350,Chris Thorne,,Tripple F,49,58,36,57,[105],38,343,105,238,51
+GBR,7943,Richard Smith,,,60,[66],44,45,56,42,313,66,247,52
+GBR,8460,Martin Goult,,Skippy,38,68,37,46,59,[105],353,105,248,53
+GBR,8389,Martin Lucas,David Lucas,Waterhog,40,34,30,[105],41,105,355,105,250,54
+GBR,,,,,,,,,,,,,,55
+GBR,,,,,,,,,,,,,,56
+GBR,8357,Dave Parker,,,72,[79],46,52,65,34,349,79,270,57
+GBR,8451,Mike Brooks,,,52,[80],48,77,62,40,359,80,279,58
+GBR,8415,Colin Hamlet,,Horny Molloch,73,27,35,39,[105],105,384,105,279,59
+GBR,8309,Gareth Edwards,,Inter Pocula,47,[77],59,71,58,46,358,77,281,60
+GBR,8070,Andrew Hodgson,,,[75],59,66,58,46,52,359,75,284,61
+GBR,7755,Mike Coombes,,,48,54,71,44,68,[107],392,107,285,62
+GBR,8157,Jim Berry,,,22,70,[105],79,66,53,395,105,290,63
+GBR,8074,Ernie Hatton,,,46,60,62,61,70,[105],404,105,299,64
+GBR,8234,David Lines,,April Fool,62,52,56,63,67,[107],407,107,300,65
+GBR,8490,James Baxter,,Blue Hawaii,45,76,64,54,61,[107],407,107,300,66
+GBR,7578,Carl Silver,,,61,55,61,[73],69,61,380,73,307,67
+GBR,8307,Martin Wedge,,,68,[74],53,66,71,49,381,74,307,68
+GBR,7914,Ian Nissenbaum,,Comedy Of Errors,[83],56,68,78,60,50,395,83,312,69
+GBR,8214,Dave Bell,,Eroica,81,35,[105],68,82,55,426,105,321,70
+GBR,8315,Roger Wood,,Bit On The Side,23,40,105,105,52,[107],432,107,325,71
+GBR,8283,Mark Greaves,,,85,51,[105],62,50,105,458,105,353,72
+GBR,8184,Nick Hart,,,96,[97],58,84,79,43,457,97,360,73
+GBR,6217,Hugh Williams,,Sidewinder,69,84,81,[91],74,56,455,91,364,74
+GBR,7018,Nick Turpin,,Boomerang,67,63,69,82,83,[107],471,107,364,75
+GBR,8167,Stuart Turnbull,,,63,82,52,64,[105],105,471,105,366,76
+GBR,7806,Becci Wigley,,Erogenous Zone,[88],87,72,75,80,57,459,88,371,77
+GBR,8408,Roger Sherwood,,,76,37,[107],74,77,107,478,107,371,78
+GBR,7947,David Shipstone,,Yataghan,77,85,73,76,63,[107],481,107,374,79
+GBR,8444,Peter Danby,,,66,46,105,50,[107],107,481,107,374,80
+GBR,8209,Kathryn Broatch,,Red Leader,71,[88],79,81,86,59,464,88,376,81
+GBR,8120,Clive R Davis,,Que Sara Sara,65,71,[105],65,72,105,483,105,378,82
+GBR,8435,V Stopp,,,[91],86,77,89,84,51,478,91,387,83
+GBR,7664,Lesley Hotchin,,L & L Go Sailing,70,67,80,85,87,[107],496,107,389,84
+GBR,7929,Cathy Simcock,,,89,92,70,67,73,[107],498,107,391,85
+GBR,8119,Steve Perkins,,Hot Gossip,80,81,76,80,75,[107],499,107,392,86
+GBR,7976,John W Bradly,David Bradly,Jeanne,94,99,63,70,88,[107],521,107,414,87
+GBR,7701,Martin Wright,,,92,89,[105],83,92,60,521,105,416,88
+GBR,7832,Matthew Smith,,,74,72,67,[105],105,105,522,105,423,89
+GBR,8153,T R Oliver,,,86,69,105,88,81,[107],536,107,429,90
+GBR,8310,Steve Arkley,,Miss B Haven,105,75,105,42,105,[107],537,107,429,91
+GBR,6794,Steve Leonard,,Spike,84,90,78,90,89,[105],536,105,430,92
+GBR,8052,Richard Cave-Penney,,Slapper,79,96,75,105,85,[107],547,107,440,93
+GBR,8461,Feverstein,,,90,78,[107],105,64,105,549,107,442,94
+GBR,8004,Bob Chatterton,,,97,91,74,92,91,[105],550,105,445,95
+GBR,8006,Brett Matthews,,,98,98,[107],105,93,58,559,107,452,96
+GBR,8285,Stuart Belfield,,Foxtrot Oscar,93,75,105,105,76,[107],561,107,454,97
+GBR,8123,Chris Romans,,Don’t Panic,94,94,105,86,78,[107],564,107,457,98
+GBR,7777,Nicky Griffin,,,87,83,105,87,105,[107],574,107,467,99
+GBR,7788,David Cull,,,95,95,105,93,90,[107],585,107,478,100
+GBR,8160,John Wallace,,Wallopper,106,94,105,72,105,[107],589,107,482,101
+GBR,8443,Mark Waters,,Ducksnut 2,82,105,105,105,[107],105,609,107,502,102
+GBR,8434,Andrew Walters,,,[107],107,107,107,107,107,642,107,535,103
+GBR,7541,Chris Pearson,,Oink Ploink,[107],107,107,107,107,107,642,107,535,104

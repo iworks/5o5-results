@@ -3486,7 +3486,7 @@ class iworks_5o5_upload_fixer {
 			''          => '',
 		),
 		array(
-			'M. Lucas' => 'M. Lucas',
+			'M. Lucas' => 'Martin Lucas',
 			'D. Lucas' => 'David Lucas',
 		),
 		array(
