@@ -1,11 +1,11 @@
 Country,Boat Num,Helm,Crew,Boat Name,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Total,Discard,Points,Position
 GBR,8431,Ian Barker,Tim Hancock,,1,[5],3,2,1,4,"15,5",5,"10,5",1
 GBR,8481,Paul Brotherton,Bill Masterman,Gus,[15],7,1,1,2,1,"26,25",15,"11,25",2
-GBR,8458,Ian Pinnelt,,,3,1,4,3,4,[5],"19,75",5,"14,75",3
+GBR,8458,Ian Pinnell,,,3,1,4,3,4,[5],"19,75",5,"14,75",3
 GBR,8140,Ian Walters,,Cindy Bear,[19],3,6,9,7,6,50,19,31,4
 GBR,8269,Paul Towers,,,6,10,9,[21],5,8,59,21,38,5
 GBR,8384,Robin Boardman,,Isabella,4,13,10,5,8,[14],54,14,40,6
-GBR,8497,P Milanes,,,10,8,14,7,6,[19],64,19,45,7
+GBR,8497,Phil Milanes,Neil Fulcher,,10,8,14,7,6,[19],64,19,45,7
 GBR,8242,Mark Upton-Brown,,,2,[22],5,16,10,15,70,22,48,8
 GBR,8432,Debbie Jarvis,,,21,6,[32],4,3,22,88,32,56,9
 GBR,7852,Chris Haworth,,Ethel,7,[50],13,6,13,18,107,50,57,10
@@ -15,7 +15,7 @@ GBR,8423,John Loveday,,Wot No Sharks,14,20,17,[20],14,12,97,20,77,13
 GBR,8484,Mike Holmes,,,17,2,21,[23],17,21,101,23,78,14
 GBR,8367,Richard Tew,,The One For Me Fatty,5,15,18,17,23,[105],183,105,78,15
 GBR,8380,Mike Holt,,California Dreamin,20,24,16,[105],12,10,187,105,82,16
-GBR,8449,D Smithwhite,,,[44],30,7,15,16,24,136,44,92,17
+GBR,8449,David Smithwhite,,,[44],30,7,15,16,24,136,44,92,17
 GBR,8400,Geoff Carveth,,Space Cadets,30,[41],15,11,15,23,135,41,94,18
 GBR,8489,Mark Longstaff,,,32,43,8,[47],9,3,142,47,95,19
 GBR,8378,Martin Hodgson,,Gilbert,8,21,29,27,19,[32],136,32,104,20
@@ -37,7 +37,7 @@ GBR,8495,David Peacock,,,57,[64],23,49,20,13,226,64,162,35
 GBR,8139,Paul Blowers,,Kylie,56,[61],28,36,32,17,230,61,169,36
 GBR,8379,Erik Arthur,,Bosh,[55],53,25,24,42,34,233,55,178,37
 GBR,8291,Sam Neal,,Targilt?,18,31,47,41,53,[105],295,105,190,38
-GBR,8287,J Wilson,._,Mr Blobby,36,[105],34,25,48,48,296,105,191,39
+GBR,8287,J Wilson,,Mr Blobby,36,[105],34,25,48,48,296,105,191,39
 FRA,8063,Marcel Buffet,,Ya-Za,[59],11,54,37,36,54,251,59,192,40
 GBR,8129,Simon Hotchin,,Full Blown Chubby,42,[44],42,43,39,36,246,44,202,41
 GBR,8259,Peter Wolsetnholme,,,39,45,55,33,38,[105],315,105,210,42
@@ -53,8 +53,8 @@ GBR,8350,Chris Thorne,,Tripple F,49,58,36,57,[105],38,343,105,238,51
 GBR,7943,Richard Smith,,,60,[66],44,45,56,42,313,66,247,52
 GBR,8460,Martin Goult,,Skippy,38,68,37,46,59,[105],353,105,248,53
 GBR,8389,Martin Lucas,David Lucas,Waterhog,40,34,30,[105],41,105,355,105,250,54
-GBR,,,,,,,,,,,,,,55
-GBR,,,,,,,,,,,,,,56
+GBR,7624,Charley Walters,,,64,65,[105],34,55,41,364,105,259,55
+GBR,8001,Andrew Williams,,Gonads,78,[93],38,69,43,39,360,93,267,56
 GBR,8357,Dave Parker,,,72,[79],46,52,65,34,349,79,270,57
 GBR,8451,Mike Brooks,,,52,[80],48,77,62,40,359,80,279,58
 GBR,8415,Colin Hamlet,,Horny Molloch,73,27,35,39,[105],105,384,105,279,59
