@@ -1,21 +1,21 @@
 Nation,Sail No.,Helmsman,Crew,Country,No. 1,No. 2,No. 3,No. 4,No. 5,No. 6,Points,Points,Position
-SWE,8211,Krister Bergstrom,Per Anders Hallberg,Sweden,3,0,3,8,11.7,5.7,31.4,19.7,1
-GBR,8050,Peter Colclough,Phil Brown,United Kingdom,5.7,5.7,5.7,3,8,13,41.1,28.1,2
+SWE,8211,Krister Bergstrom,Per Anders Hallberg,Sweden,3,0,3,8,"11,7","5,7","31,4","19,7",1
+GBR,8050,Peter Colclough,Phil Brown,United Kingdom,"5,7","5,7","5,7",3,8,13,"41,1","28,1",2
 USA,8016,Bruce Edwards,David Shelton,U.S.A.,8,49,22,0,10,22,111,62,3
-DEN,7956,Jorgen Schonherr,Anders Kaempe,Denmark,0,10,29,25,5.7,31,100.7,69.7,4
-USA,8013,Mike Punnett,Scot Ikle,U.S.A.,95,14,11.7,16,0,28,164.7,69.7,5
-GBR,8242,Mark Upton-Brown,Pete Bishop,United Kingdom,11.7,17,15,44,3,26,116.7,72.7,6
+DEN,7956,Jorgen Schonherr,Anders Kaempe,Denmark,0,10,29,25,"5,7",31,"100,7","69,7",4
+USA,8013,Mike Punnett,Scot Ikle,U.S.A.,95,14,"11,7",16,0,28,"164,7","69,7",5
+GBR,8242,Mark Upton-Brown,Pete Bishop,United Kingdom,"11,7",17,15,44,3,26,"116,7","72,7",6
 AUS,8094,Terry Kyrwood,Charles Spence,Australia,24,16,8,26,19,8,101,75,7
-AUS,7481,Dean Blatchford,Steve Kay,Australia,26,3,36,17,22,11.7,115.7,79.7,8
+AUS,7481,Dean Blatchford,Steve Kay,Australia,26,3,36,17,22,"11,7","115,7","79,7",8
 SWE,8232,Ebbe Rosen,Lars Stugemo,Sweden,22,13,0,32,34,15,116,82,9
-DEN,8108,Jorgen Holm,Finn Jensen,Denmark,31,11.7,10,40,15,16,123.7,83.7,10
+DEN,8108,Jorgen Holm,Finn Jensen,Denmark,31,"11,7",10,40,15,16,"123,7","83,7",10
 DEN,8030,Bo Petersen,Soren Storm,Denmark,15,53,16,39,14,0,137,84,11
-GER,8032,Jorn Erdmann,Burkhard Vierth,Germany,30,50,18,5.7,16,17,136.7,86.7,12
+GER,8032,Jorn Erdmann,Burkhard Vierth,Germany,30,50,18,"5,7",16,17,"136,7","86,7",12
 USA,7875,Jeff Miller,Bruce Heckman,U.S.A.,23,8,26,22,47,10,136,89,13
 FRA,8246,Phillipe Boite,J. L. Muzellec,France,10,18,24,13,26,24,115,89,14
 DEN,8031,Lars Christensen,Jan Feddersen,Denmark,16,22,23,14,21,4700,143,96,15
 USA,7201,Howard Hamlin,Don Smith,U.S.A.,13,25,19,24,37,20,138,101,16
-FIN,8229,Hannu Merikallio,Tom Lindstrom,Finland,27,29,13,11.7,23,27,130,101.7,17
+FIN,8229,Hannu Merikallio,Tom Lindstrom,Finland,27,29,13,"11,7",23,27,130,"101,7",17
 SWE,7343,Kalle Nilsson,Frank Bach,Sweden,14,24,21,28,95,18,200,105,18
 USA,8084,Jim Maloney,Bob Sutton,U.S.A.,18,34,17,15,23,43,150,107,19
 GBR,7852,Chris Haworth,Nigel Appleton,United Kingdom,29,26,25,18,27,14,139,110,20
@@ -60,8 +60,8 @@ GBR,8052,Alan Henderson,Alistair Barrie,United Kingdom,95,63,58,65,75,49,405,310
 GBR,8213,Mike Lawton,Bill Barker,United Kingdom,57,51,73,72,73,57,383,310,59
 KEN,8248,John Trundell,A. M. Ronsky,E. Africa/Kenya,68,61,95,57,65,60,406,311,60
 FRA,7933,Marcel Buffet,Christian Lippi,France,69,70,41,66,70,95,411,316,61
-GBR,8049,Neil Willmot,Paul Willmot,United Kingdom,95,52,95,95,39,41,417,322,62
-GBR,8269,Paul Towers,Nigel Dixon,United Kingdom,72,58,65,61,68,83,407,324,63
+GBR,8049,Neil Willmott,Paul Willmot,United Kingdom,95,52,95,95,39,41,417,322,62
+GBR,8269,Neil Willmott,Nigel Dixon,United Kingdom,72,58,65,61,68,83,407,324,63
 GER,7996,Jens Hartwig,Till Reckert,Germany,71,79,48,95,74,53,420,325,64
 FRA,7740,Thierry Rattier,Sylvie Rattier,France,63,74,66,64,77,64,408,331,65
 SWE,8022,Olle Wenrup,Pelle Ek,Sweden,62,64,57,77,95,73,428,333,66
@@ -71,3 +71,19 @@ GBR,8134,Steve Arkley,Dick Vivers,United Kingdom,67,95,82,69,53,69,435,340,69
 FRA,7492,Robert Fossard,Bernard Peuch,France,76,82,75,73,62,67,435,353,70
 GER,7778,Thomas Schmidt,Wolfgang Stuckl,Germany,75,54,79,76,85,80,449,364,71
 GER,7451,Ewald Brzoska,Thomas Crammer,Germany,82,73,74,75,63,88,455,367,72
+SUI,7899,Oliver Grenver,Jean Philippe Senn,Switzerland,66,68,64,95,76,95,464,369,73
+GBR,7995,Ian Bye,Oliver Bye,United Kingdom,74,76,67,84,78,76,455,371,74
+GBR,8131,Robin Whittle,Duncan Ross,United Kingdom,78,84,81,68,72,74,457,373,75
+FRA,7831,Franck Lefevre,Richard Lefevre,France,95,66,72,95,79,62,469,374,76
+GBR,8158,Tim O'Leary,Nigel Bultitude,United Kingdom,86,67,77,95,67,81,473,378,77
+GBR,8157,Jim Berry,Dave Barnes,United Kingdom,81,81,10,79,71,82,464,382,78
+GBR,8234,David White,Nigel Squirrel,United Kingdom,49,95,95,58,95,87,479,384,79
+GER,7354,Jorg Hinnen,Jonny Norder,Germany,95,56,95,82,81,71,480,385,80
+KEN,8051,John Wyles,Mike Wilson,E. Africa/Uganda,77,85,69,80,82,84,477,392,81
+FRA,7913,Gilles Carvallo,Samuel Carvallo,France,83,87,85,63,80,89,487,398,82
+GER,7765,Wolfgang Seifert,Peter Daferner,Germany,79,78,80,81,84,86,488,402,83
+JPN,7002,Tatsuya Noguchi,Hiroshi Suzuki,Japan,84,80,76,86,87,79,492,405,84
+GBR,8161,Les Everitt,Andrew Smith,United Kingdom,85,77,95,83,83,77,500,405,85
+FRA,8046,Daniel Linde,Marc Laurent,France,80,86,83,85,86,78,498,412,86
+GBR,8048,Chris Stodel,Colin Merrett,United Kingdom,40,95,95,95,95,95,515,420,87
+GER,7854,Franscisco Sanguino-Petersen,Frederick Falise,Germany,95,88,84,95,88,85,535,440,88
