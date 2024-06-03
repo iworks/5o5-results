@@ -1,29 +1,29 @@
 Nat,Sail Number,Helm,Crew,Club,R1 6 Sep,R2 6 Sep,R3 7 Sep,R4 7 Sep,R5 7 Sep,R6 8 Sep,R7 8 Sep,Total,Nett,Rank
-GBR,9215,Roger Gilbert,Ben McGrane,Netley SC,2,2,5,2,1,-10,3,25,15,1
-GBR,9222,Paul Brotherton,Alain Sign,Glossop SC,(29.0 DNF),11,1,1,2,2,1,47,18,2
-GBR,9196,Penny Clark,Russ Clark,RNSA/Stokes Bay,3,5,3,5,6,-16,2,40,24,3
-GER,9198,Julian Slueckl,Johannes Tellen,DTYC,4,4,6,3,5,5,-15,42,27,4
-USA,9072,Mike Holt,Carl Smit,Santa Cruz YC,1,1,9,8,4,7,-10,40,30,5
-GBR,9177,Thomas Gillard,Geoff Edwards,Sheffield Viking SC,7,6,-8,6,3,1,7,38,30,6
-FRA,9220,Philippe Boite,Pierre Jean Gallo,CVSQ,5,3,4,7,-20,3,8,50,30,7
-GBR,9180,Mark Upton-Brown,Ian Mitchell,HISC/Bosham,10,7,2,11,-18,9,5,62,44,8
-GBR,9190,Stefan Boehm,Gerald Roos,SCV,6,8,11,4,8,18,-19,74,55,9
-GBR,9214,Andy Smith,Christian Diebitsch,Notts County SC,9,10,-17,9,10,13,6,74,57,10
-GBR,9085,Charlie Walters,Dougal Cram,Datchet Water SC,11,12,12,-16,7,4,14,76,60,11
-GBR,8963,Martin Hodgson,Adrian Miles,Stone SC,15,13,7,-20,9,12,11,87,67,12
-USA,8854,Craig Thompson,Paddy Lewis,Thompson Boat Works,8,9,14,10,-24,17,16,98,74,13
-DEN,9055,Fabiola Wonterghem,Michael Wonterghem,Sorø Sejlforening,14,(29.0 DNC),10,12,12,19,9,105,76,14
-BEL,8898,Bas Van Assche,Toon Van Assche,Limburgse Zeilfederatie,18,(29.0 DNF),13,17,14,6,13,110,81,15
-GER,9169,Tim Boeger,Martin Scholer,HSC,(29.0 DNF),29.0 DNC,16,14,15,14,4,121,92,16
-BEL,8625,Casper Martens,Stijn Oyen,LZF,19,(29.0 DNF),15,18,16,23,12,132,103,17
-FRA,9045,Ancelot de Kergariou,Jean Claude Herve, ,17,18,21,-25,19,11,18,129,104,18
-GBR,8970,Dan Johnson,Ben Latham,Blithfield,(29.0 DNC),17,26,15,11,21,17,136,107,19
-GBR,9155,Neil Rabbitts,Laurence Milton,Burton SC/Dalgety Bay SC,13,15,19,23,21,22,(29.0 DNC),142,113,20
-GBR,8991,Nick Meadow,James Read,Netley SC,(29.0 DNC),29.0 DNC,18,13,23,8,29.0 DNC,149,120,21
-GBR,9104,Adam Kenney,Carl Gibbon,Burton SC,(29.0 DNF),29.0 DNF,24,19,13,15,21,150,121,22
-DEN,9128,Poul Aunsholm,Henrik Buhl,Hvidovre Sejlklub/Hellerup Sejlklub,20,(29.0 DNC),22,22,22,20,22,157,128,23
-GBR,9203,Jim Blyth,Jude Beamers,Largo Bay SC,12,14,20,(29.0 DNC),29.0 DNC,25,29.0 DNC,158,129,24
-GBR,9032,Kevin Gibb,Phil Carruthers,Largo Bay SC,16,16,27,21,25,(29.0 DNC),29.0 DNC,163,134,25
-GBR,9156,Russell Wheeler,Lee Marriott,Isle of Sheppey SC,(29.0 DNF),29.0 DNC,25,24,17,26,23,173,144,26
-FRA,9219,Elisabeth Neidhart,Matthieu Gougeon,YCIF,(29.0 DNC),29.0 DNC,23,26,26,24,20,177,148,27
-GBR,8514,Richard Nurse,Reggie Nurse,Redditch small lake YC,(29.0 DNC),29.0 DNC,29.0 DNC,29.0 DNC,29.0 DNC,29.0 DNC,29.0 DNC,203,174,28
+GBR,9215,Roger Gilbert,Ben McGrane,Netley SC,2,2,5,2,1,[10],3,25,15,1
+GBR,9222,Paul Brotherton,Alain Sign,Glossop SC,[29 DNF],11,1,1,2,2,1,47,18,2
+GBR,9196,Penny Clark,Russ Clark,RNSA/Stokes Bay,3,5,3,5,6,[16],2,40,24,3
+GER,9198,Julian Slueckl,Johannes Tellen,DTYC,4,4,6,3,5,5,[15],42,27,4
+USA,9072,Mike Holt,Carl Smit,Santa Cruz YC,1,1,9,8,4,7,[10],40,30,5
+GBR,9177,Thomas Gillard,Geoff Edwards,Sheffield Viking SC,7,6,[8],6,3,1,7,38,30,6
+FRA,9220,Philippe Boite,Pierre Jean Gallo,CVSQ,5,3,4,7,[20],3,8,50,30,7
+GBR,9180,Mark Upton-Brown,Ian Mitchell,HISC/Bosham,10,7,2,11,[18],9,5,62,44,8
+GBR,9190,Stefan Boehm,Gerald Roos,SCV,6,8,11,4,8,18,[19],74,55,9
+GBR,9214,Andy Smith,Christian Diebitsch,Notts County SC,9,10,[17],9,10,13,6,74,57,10
+GBR,9085,Charlie Walters,Dougal Cram,Datchet Water SC,11,12,12,[16],7,4,14,76,60,11
+GBR,8963,Martin Hodgson,Adrian Miles,Stone SC,15,13,7,[20],9,12,11,87,67,12
+USA,8854,Craig Thompson,Paddy Lewis,Thompson Boat Works,8,9,14,10,[24],17,16,98,74,13
+DEN,9055,Fabiola Wonterghem,Michael Wonterghem,Sorø Sejlforening,14,[29 DNC],10,12,12,19,9,105,76,14
+BEL,8898,Bas Van Assche,Toon Van Assche,Limburgse Zeilfederatie,18,[29 DNF],13,17,14,6,13,110,81,15
+GER,9169,Tim Boeger,Martin Scholer,HSC,[29 DNF],29 DNC,16,14,15,14,4,121,92,16
+BEL,8625,Casper Martens,Stijn Oyen,LZF,19,[29 DNF],15,18,16,23,12,132,103,17
+FRA,9045,Hervé de Kergariou,Jean-Claude Ancelot,,17,18,21,[25],19,11,18,129,104,18
+GBR,8970,Dan Johnson,Ben Latham,Blithfield,[29 DNC],17,26,15,11,21,17,136,107,19
+GBR,9155,Neil Rabbitts,Laurence Milton,Burton SC/Dalgety Bay SC,13,15,19,23,21,22,[29 DNC],142,113,20
+GBR,8991,Nick Meadow,James Read,Netley SC,[29 DNC],29 DNC,18,13,23,8,29 DNC,149,120,21
+GBR,9104,Adam Kenney,Carl Gibbon,Burton SC,[29 DNF],29 DNF,24,19,13,15,21,150,121,22
+DEN,9128,Poul Aunsholm,Henrik Buhl,Hvidovre Sejlklub/Hellerup Sejlklub,20,[29 DNC],22,22,22,20,22,157,128,23
+GBR,9203,Jim Blyth,Jude Beamers,Largo Bay SC,12,14,20,[29 DNC],29 DNC,25,29 DNC,158,129,24
+GBR,9032,Kevin Gibb,Phil Carruthers,Largo Bay SC,16,16,27,21,25,[29 DNC],29 DNC,163,134,25
+GBR,9156,Russell Wheeler,Lee Marriott,Isle of Sheppey SC,[29 DNF],29 DNC,25,24,17,26,23,173,144,26
+FRA,9219,Elisabeth Neidhart,Matthieu Gougeon,YCIF,[29 DNC],29 DNC,23,26,26,24,20,177,148,27
+GBR,8514,Richard Nurse,Reggie Nurse,Redditch small lake YC,[29 DNC],29 DNC,29 DNC,29 DNC,29 DNC,29 DNC,29 DNC,203,174,28
