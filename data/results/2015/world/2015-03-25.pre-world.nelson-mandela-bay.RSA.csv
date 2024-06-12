@@ -1,7 +1,7 @@
 Nation,Competitor,Helm,Crew,Club,R1,R2,Σ,Regatta
 USA,9072,Holt,Smit,,5,1,6,1
 GBR,9136,Pinnell,Tellen,,4,2,6,2
-AUS,8946,Higgins ,Marsh ,,3,4,7,3
+AUS,8946,Higgins,Marsh,,3,4,7,3
 DEN,9118,Saugmann,Karbo,,1,7,8,4
 GER,9135,Bohm,Roos,,10,3,13,5
 USA,9091,Conrads,Haines,,2,12,14,6
@@ -13,19 +13,19 @@ RSA,8719,Alexander Ham,Warwick Ham,,13,11,24,11
 RSA,8486,Ricky Robinson,Brennan Robinson,,9,18,27,12
 GER,9043,Birkner,Stenger,,8,21,29,13
 USA,8084,Ross,Waterman,,15,17,32,14
-RSA,8520,D'Engle ,Nel ,,19,14,33,15
+RSA,8520,D'Engle,Nel,,19,14,33,15
 RSA,8675,Euan Hurter,May,,18,15,33,16
 RSA,9026,Plattner,Shelton,,14,20,34,17
 AUS,8637,Cronin,Whitbread,,21,16,37,18
 GER,8988,Mittermayer,Barteldt,,25,13,38,19
 GBR,9124,Scutcher,Diebitsch,,DNC,5,39,20
-USA,9153,Hamlin ,Nelson,,12,DNF,46,21
+USA,9153,Hamlin,Nelson,,12,DNF,46,21
 RSA,8091,Snyman,Ballantyne,,24,DNC,46,22
 GBR,9125,Roger Deane,Nigel Deane,,16,DNF,50,23
 RSA,8948,Parker,Holm,,DNC,19,53,24
 RSA,8707,Holm,Fourie,,20,DNC,54,25
 RSA,7608,Bailes,Isaac,,22,DNC,56,26
-RSA,8584,Rogotzki,Roos ,,DNC,23,57,27
+RSA,8584,Rogotzki,Roos,,DNC,23,57,27
 GER,9000,Menge,Wilts,,23,DNF,57,28
 AUS,9018,Bowden,Bath,,26,DNC,60,29
 RSA,4437,Ballantyne,Groenewald,,27,DNS,61,30

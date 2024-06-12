@@ -1,4 +1,4 @@
-Nation,Number,Helm ,Crew ,club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Pts,place
+Nation,Number,Helm,Crew,club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Pts,place
 USA,9080,Howard Hamlin,Andy Zinn,NHYC USA,14,2,3,4,6,2,17,1
 DEN,8964,Jan Saugmann,Martin Gorge,HELLERUP DEN,10,5,7,8,1,7,28,2
 GER,9090,Christian Kellner,Martin Schoeler,HSC GER,17,9,4,9,4,8,34,3
@@ -57,7 +57,7 @@ FRA,8885,Jean Baptiste Dupont,Jean Claude Ancelot,CV PARIS,28,49,63,65,73,76,278
 AUS,8855,Mark Stowell,Shane Attwell,ROYAL FRESCWATER BAY,39,DNF,41,DNF,46,35,280,56
 FRA,8773,Philippe Markt,Gael Conversy,Y C BEAULIEU,47,66,72,52,54,62,281,57
 FRA,8802,Pascal Viaud,Alban Viaud,S R ROCHELAISES,66,76,57,43,DNF,46,288,58
-GBR,8432,Alistair Colvin,Alan Moss,LOCH LOMOND SAILING ,67,62,60,DNF,48,52,289,59
+GBR,8432,Alistair Colvin,Alan Moss,LOCH LOMOND SAILING,67,62,60,DNF,48,52,289,59
 FRA,8676,Valentin Dechauffour,Pierre Gendry,S N O NANTES,79,82,38,63,47,70,297,60
 FRA,8677,Nicolas Michel,Charles De Kergariou,C V A N NANTES,70,61,DNF,56,57,54,298,61
 FRA,8971,Thierry Daguzan,Arnaud Poirier,S R ROCHELAISES,77,73,OCS,48,69,37,304,62
@@ -82,7 +82,7 @@ SWE,8912,Tom Hastenpflug,Toni Hastenpflug,SSAV SWE,75,46,66,49,DNC,DNF,355,80
 RSA,8486,Thomas Funke,Peter Funke,PYC RSA,40,44,36,DNF,DNC,DNF,358,81
 FRA,8880,Jose Mendes,Emmanuel Mouclier,CVML,60,75,DNF,66,81,82,364,82
 GER,6817,Ralf Schneidewind,Oliver Schurmann,SLRV GER,81,83,95,69,74,74,381,83
-GBR,8726,Fergus Duncanson,Graham Moss,LOCH LOMOND SAILING ,86,70,83,DNF,78,72,389,84
+GBR,8726,Fergus Duncanson,Graham Moss,LOCH LOMOND SAILING,86,70,83,DNF,78,72,389,84
 FRA,8699,Jean Philippe Ducros,Stanislas Rault,CVML,83,93,81,62,87,81,394,85
 FRA,8326,David De Monteil,Aymeric Essertel,S R ROCHELAISES,95,DSQ,90,59,92,68,404,86
 FRA,8748,Samuel Carvallo,Sebastien Rauly,C N HAUTE SEINE,84,81,86,64,90,DNF,405,87

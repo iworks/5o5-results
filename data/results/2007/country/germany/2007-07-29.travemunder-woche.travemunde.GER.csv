@@ -1,17 +1,17 @@
 Nation,SEGELNR,Steuermann/-Frau,CREW,Club,Pl.(1.Wf),PL.(2.Wf),PL.(3.Wf),PL.(4.Wf),PL.(5.Wf),PL.(6.Wf),PL.(7.Wf),PL.(8.Wf),G-PKTE,G-PL
-GER,8686,Niefert Christian,Weber Thomas,"BSV`79, BSV`79",2,4,2,[5],[OCS],1,1,1,11,1
-GER,8874,Dasenbrook Norbert,Meier Sven,"KSW, SKBUe",1,1,1,3,3,[6],2,[6],11,2
-GER,8825,Hufnagel Jens,König Eckart,"SLRV, SGJ Niendo",3,3,[OCS],2,1,[4],3,4,16,3
-GER,8843,Peters Gunter,Dehne Lars,"KYC, SVH",[OCS],2,4,4,2,2,[5],2,16,4
-GER,8747,Kittsteiner Martin,Dr.Stieglitz Oliver,"HSC, HSC",4,[5],3,1,4,3,[6],3,18,5
-GER,8662,Stölken Jan,Brühl Matthias,"SCU, BSC",[6],6,5,6,6,[7],4,5,32,6
-GER,8376,Dömges Sven,Happich Andreas,"ESV86, SSGE",5,[8],6,[8],8,5,8,8,40,7
-GER,8418,Sell Jan,Gewinn Wiebke,"TuS F, SWE",[7],7,7,7,5,[8],7,7,40,8
-GER,8333,Trümper Torsten,Seeger Carsten,"SCS78, SVGS",[11],9,9,[10],7,9,10,10,54,9
-GER,8730,Stümpel Karsten,Wilts Enno,"HSC, SVBB",8,[OCS],8,[11],9,10,9,11,55,10
-GER,8392,Barop Konrad,Rauno Justus,"NSV, NSV",9,10,10,9,10,[11],[11],9,57,11
-GER,7978,Wahler Alexandra,Michael Kramer,"SCWW, SCWW",10,11,11,[13],11,12,12,[13],67,12
-GER,7764,Sven Ballandat,Sven Niemuth,"SVBB, SVBB",12,[13],[13],12,12,13,13,12,74,13
-SWE,8389,Mittermayer Felix,Gallo Pablo,"SöSS, DFSC",[DNF],12,12,[DNC],DNC,DNC,DNC,DNC,92,14
-GER,8788,Lahrs Karsten,Gerdts Peter,"HYC, SVC",[DNC],[DNC],DNC,DNC,DNC,DNC,DNC,DNC,102,15
-POL,8622,Korneszczuk Michal,Krempec Krzysztof,"YKS, YKS",[DNC],[DNC],DNC,DNC,DNC,DNC,DNC,DNC,102,15
+GER,8686,Niefert Christian,Weber Thomas,"BSV`79,BSV`79",2,4,2,[5],[OCS],1,1,1,11,1
+GER,8874,Dasenbrook Norbert,Meier Sven,"KSW,SKBUe",1,1,1,3,3,[6],2,[6],11,2
+GER,8825,Hufnagel Jens,König Eckart,"SLRV,SGJ Niendo",3,3,[OCS],2,1,[4],3,4,16,3
+GER,8843,Peters Gunter,Dehne Lars,"KYC,SVH",[OCS],2,4,4,2,2,[5],2,16,4
+GER,8747,Kittsteiner Martin,Dr.Stieglitz Oliver,"HSC,HSC",4,[5],3,1,4,3,[6],3,18,5
+GER,8662,Stölken Jan,Brühl Matthias,"SCU,BSC",[6],6,5,6,6,[7],4,5,32,6
+GER,8376,Dömges Sven,Happich Andreas,"ESV86,SSGE",5,[8],6,[8],8,5,8,8,40,7
+GER,8418,Sell Jan,Gewinn Wiebke,"TuS F,SWE",[7],7,7,7,5,[8],7,7,40,8
+GER,8333,Trümper Torsten,Seeger Carsten,"SCS78,SVGS",[11],9,9,[10],7,9,10,10,54,9
+GER,8730,Stümpel Karsten,Wilts Enno,"HSC,SVBB",8,[OCS],8,[11],9,10,9,11,55,10
+GER,8392,Barop Konrad,Rauno Justus,"NSV,NSV",9,10,10,9,10,[11],[11],9,57,11
+GER,7978,Wahler Alexandra,Michael Kramer,"SCWW,SCWW",10,11,11,[13],11,12,12,[13],67,12
+GER,7764,Sven Ballandat,Sven Niemuth,"SVBB,SVBB",12,[13],[13],12,12,13,13,12,74,13
+SWE,8389,Mittermayer Felix,Gallo Pablo,"SöSS,DFSC",[DNF],12,12,[DNC],DNC,DNC,DNC,DNC,92,14
+GER,8788,Lahrs Karsten,Gerdts Peter,"HYC,SVC",[DNC],[DNC],DNC,DNC,DNC,DNC,DNC,DNC,102,15
+POL,8622,Korneszczuk Michal,Krempec Krzysztof,"YKS,YKS",[DNC],[DNC],DNC,DNC,DNC,DNC,DNC,DNC,102,15

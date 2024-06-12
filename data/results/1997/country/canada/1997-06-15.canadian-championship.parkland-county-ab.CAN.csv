@@ -1,14 +1,14 @@
-Nation,#, Skipper,Crew, Best Finish,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Race 7,Race 8,Race 9,Total,pos.
-CAN,7039,Robin Brown,Dave Thomas, 1st,1,[4],1,1,1,1,1,2,[2],3,1
-CAN,7094,Phil Cragg,Wayne Brox, 1st,[9],1,3,2,2,2,[5],1,1,14.7,2
-CAN,8260,Shona Moss-Lovshin,Steve Lovshin, 2nd,3,[6],4,3,[7],3,2,3,3,39.5,3
-CAN,7111,Terry Thomas,Winston Cummings, 2nd,2,5,2,4,3,4,3,[DNF] 20,[5],43.4,4
-CAN,58*,Cynthia DesBrisay,Charles Hansen, 3rd,4,3,5,5,4,[6],4,4,[6],57.7,5
-CAN,7249,Trevor Owen,Terry Meade, 4th,5,[7],6,[8],5,5,6,6,4,73.1,6
-CAN,7859, Jim Campbell,Dick Degner , 2nd,6,2,7,10,8,9,[11],10,[11],88.7,7
-CAN,6498,Adrien Rootsaert,Dean Rootsaert, 6th,8,[DNC] 20,[DNC] 20,7,6,8,8,8,7,93.7,8
-CAN,4549,Marg Hurley,Michael Hoffman, 5th,12,[DNF] 20,[DNF] 20,6,10,7,10,5,8,98.7,9
-CAN,6740,Valerie Fuchshuber,Carl Fuchshuber, 7th,7,8,[DNF] 20,[11],9,10,7,9,9,101,10
-USA,7458,Gary Scott,Gina Scott, 7th,10,[DNC] 20,8,9,7,[DNC] 20,9,7,10,106,11
-CAN,3965,Bob Rose,Keith Briggs, 11th,11,DNC 20,[DNC] 20,12,12,[DNC] 20,13,11,13,128,12
-GBR,6493,James R. Brown,Wayne Rootsaert, 11th,13,DNF 20,[DNC] 20,13,[DNC] 20,11,12,12,12,129,13
+Nation,#,Skipper,Crew,Best Finish,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Race 7,Race 8,Race 9,Total,pos.
+CAN,7039,Robin Brown,Dave Thomas,1st,1,[4],1,1,1,1,1,2,[2],3,1
+CAN,7094,Phil Cragg,Wayne Brox,1st,[9],1,3,2,2,2,[5],1,1,14.7,2
+CAN,8260,Shona Moss-Lovshin,Steve Lovshin,2nd,3,[6],4,3,[7],3,2,3,3,39.5,3
+CAN,7111,Terry Thomas,Winston Cummings,2nd,2,5,2,4,3,4,3,[DNF] 20,[5],43.4,4
+CAN,58*,Cynthia DesBrisay,Charles Hansen,3rd,4,3,5,5,4,[6],4,4,[6],57.7,5
+CAN,7249,Trevor Owen,Terry Meade,4th,5,[7],6,[8],5,5,6,6,4,73.1,6
+CAN,7859,Jim Campbell,Dick Degner,2nd,6,2,7,10,8,9,[11],10,[11],88.7,7
+CAN,6498,Adrien Rootsaert,Dean Rootsaert,6th,8,[DNC] 20,[DNC] 20,7,6,8,8,8,7,93.7,8
+CAN,4549,Marg Hurley,Michael Hoffman,5th,12,[DNF] 20,[DNF] 20,6,10,7,10,5,8,98.7,9
+CAN,6740,Valerie Fuchshuber,Carl Fuchshuber,7th,7,8,[DNF] 20,[11],9,10,7,9,9,101,10
+USA,7458,Gary Scott,Gina Scott,7th,10,[DNC] 20,8,9,7,[DNC] 20,9,7,10,106,11
+CAN,3965,Bob Rose,Keith Briggs,11th,11,DNC 20,[DNC] 20,12,12,[DNC] 20,13,11,13,128,12
+GBR,6493,James R. Brown,Wayne Rootsaert,11th,13,DNF 20,[DNC] 20,13,[DNC] 20,11,12,12,12,129,13

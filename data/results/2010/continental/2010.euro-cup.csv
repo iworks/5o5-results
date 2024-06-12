@@ -1,4 +1,4 @@
-Nation,Sail no,Helm ,Crew,,Cannes,Riva del Garda,Kiel,Aarhus,Total,Nett,Rank
+Nation,Sail no,Helm,Crew,,Cannes,Riva del Garda,Kiel,Aarhus,Total,Nett,Rank
 DEN,8962,Jørgen Bojsen-Møller,Jacob Bojsen-Møller,,(205 DNC),4,3,2,214,9,1
 DEN,8964,Jan Saugmann,Morten Ramsbæk,,(205 DNC),3,2,6,216,11,2
 GBR,9032,Ian Pinnell,Ian Mitchell,,3,5,(205 DNC),3,216,11,3
@@ -82,7 +82,7 @@ GER,8927,Ulf Plessmann,Hans-Heinrich Rix,,(205 DNC),11,205 DNC,205 DNC,626,421,8
 USA,8878,Edward Conrads,Brian Haines,,(205 DNC),205 DNC,205 DNC,12,627,422,81
 GER,8927,Jörg Häger,Heini Rix,,(205 DNC),205 DNC,12,205 DNC,627,422,82
 GER,8929,Tom Gosch,Rolf Meyer,,(205 DNC),205 DNC,14,205 DNC,629,424,83
-AUS,8886,Reffold Quirk, ,,(205 DNC),205 DNC,205 DNC,15,630,425,84
+AUS,8886,Reffold Quirk,,,(205 DNC),205 DNC,205 DNC,15,630,425,84
 GBR,8906,Harry Briddon,Simon Briddon,,(205 DNC),15,205 DNC,205 DNC,630,425,85
 USA,9007,Tyler Moore,Geoff Ewenson,,(205 DNC),205 DNC,205 DNC,16,631,426,86
 GBR,8963,Martin Hodgson,Adrian Miles,,(205 DNC),16,205 DNC,205 DNC,631,426,87
@@ -128,7 +128,7 @@ FRA,8695,Jean-Guy Puissant,Bernard Le Guen,,44,(205 DNC),205 DNC,205 DNC,659,454
 GER,8598,Anna Hoell,Bernd Heinisch,,(205 DNC),45,205 DNC,205 DNC,660,455,127
 GER,8849,Pedro Bohnenberger,Volker Böhringer,,46,(205 DNC),205 DNC,205 DNC,661,456,128
 GER,8989,Daniel Esdorn,Axel Priegann,,(205 DNC),205 DNC,205 DNC,47,662,457,129
-GBR,8955,Simon Lake, ,,(205 DNC),47,205 DNC,205 DNC,662,457,130
+GBR,8955,Simon Lake,,,(205 DNC),47,205 DNC,205 DNC,662,457,130
 USA,7875,Jeff Miller,Stuart Park,,(205 DNC),205 DNC,205 DNC,48,663,458,131
 FRA,8348,Mathieu Ingrand,Gaetan Finet,,48,(205 DNC),205 DNC,205 DNC,663,458,132
 RSA,8520,Rudolph Holm,Ferdinand Holm,,(205 DNC),205 DNC,205 DNC,49,664,459,133

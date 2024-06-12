@@ -1,4 +1,4 @@
-Nation,Boat no,Helm ,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Race 7,Race 8,Points,Place
+Nation,Boat no,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Race 7,Race 8,Points,Place
 USA,9072,Mike Holt,Carl Smit,Santa Cruz Yacht Club,-13,1,2,1,2,1,12,1,20,1
 USA,9153,Howie Hamlin,Jeff Nelson,NHYC / ABYC,6,4,3,3,4,-15,2,3,25,2
 GER,9152,Dr Wolfgang Hunger,Julien Kleiner,PYC,2,2,-13,4,3,3,8,5,27,3
@@ -7,7 +7,7 @@ CAN,8970,Bob Tennant,Steve Bourdow,RVicYC,1,5,-30,6,7,2,13,6,40,5
 GER,9146,Julian Stueckl,Johannes Tellen,DTYC,3,-23,7,5,9,9,1,10,44,6
 GER,9185,Stefan Boehm,Gerald Roos,SCV,4,8,-24,8,12,4,6,2,44,7
 GER,9121,Jan-Philipp Hofmann,Brockerhoff Felix,DY e.V.,5,3,11,13,1,-19,4,12,49,8
-FRA,9175,Philippe Boite ,Erwan Grossmann,CVSQ,-16,12,8,10,8,7,3,8,56,9
+FRA,9175,Philippe Boite,Erwan Grossmann,CVSQ,-16,12,8,10,8,7,3,8,56,9
 GER,9070,Stefan Koechlin,Andreas Achterberg,SVS,(46 DSQ),7,6,12,14,5,5,9,58,10
 GER,8929,Kai Bertallot,Jan Reifferscheidt,Flensburger Segel-Club,18,6,5,-24,6,6,14,7,62,11
 GER,9169,Tim Boeger,Markus Schoener,HSC,19,10,10,7,11,16,-20,18,91,12
@@ -25,7 +25,7 @@ GBR,8963,Martin Hodgson,Adrian Miles,Stone Sailing Club,(46 DNS),30,12,27,32,23,
 GBR,9179,Tudor Owen,Tom Bruton,Whitstable yacht club,25,13,17,20,(46 DNS),46 DNS,22,16,159,24
 SUI,9096,Cédric Bart,Philippe Jagt,CNB,17,28,27,21,13,28,26,-29,160,25
 GER,9171,Stefan Giesler,Frank Boehm,VSaW,20,21,35,15,24,25,21,(46 DNS),161,26
-GER,9040,Norbert Dasenbrook ,Sven Meier,KSW / SKBUe,27,20,22,25,23,26,-35,24,167,27
+GER,9040,Norbert Dasenbrook,Sven Meier,KSW / SKBUe,27,20,22,25,23,26,-35,24,167,27
 USA,9041,Henry Amthor,Dustin Romey,Hampton YC,26,17,23,18,31,(46 DNS),28,28,171,28
 GER,9100,Hendrik Schultz,Thorsten Koch,SCLW,(46 DNS),46 DNS,21,26,20,20,18,22,173,29
 FRA,8954,Muriel Agrapart,Jeanne Agrapart,Club Nautique de la Haute Sein,33,32,20,-34,34,24,32,26,201,30
