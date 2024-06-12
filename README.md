@@ -1,6 +1,6 @@
-# Results of International 5o5 regatta
+# International 5O5 Class Archive
 
-The repository contains regatta results of the International 5o5 class.
+The [database combining boat registry, competitors and events](https://5o5.iworks.pl/). You can review the 5O5 boat register linked to which crews raced each boat and an extensive list of regattas those people and boats competed in with results.
 
 Feel free to create PR if you can fill something or add something.
 
