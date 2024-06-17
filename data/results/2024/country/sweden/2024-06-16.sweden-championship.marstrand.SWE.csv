@@ -1,0 +1,23 @@
+Nat,SailNo,HelmName,CrewName,"Club
+Shortname",R1,R2,R3,R4,R5,R6,R7,Total,Nett,Rank
+AUS,8801,Peter Nicholas,Toni Hastenpflug,GKSS,[1],1,1,1,1,1,1,7,6,1st
+SWE,9181,Malin Broberg,Johan Röök,BKSS,4,3,2,4,4,[5],2,24,19,2nd
+SWE,8962,Peter Bökmark,Martin Persson,BKSS,6,2,5,[11],6,2,3,35,24,3rd
+SWE,8859,Tomas Berg,Johan Calvert,BKSS,[7],7,3,2,5,4,6,34,27,4th
+SWE,9171,Martin Fridh,Mats Dahlander,LBSK,2,8,8,5,7,3,[22 DNC],55,33,5th
+SWE,9002,Per Wester,Lars Wester,BKSS,9,4,9,3,3,[10],5,43,33,6th
+SWE,9143,Thomas Lundberg,Johan Strömdahl,KSSS,[11],10,7,7,2,6,4,47,36,7th
+SWE,9038,Jakob Lindvall,Karl Byrenius,AASLK,5,12,10,6,9,7,[22 DNF],71,49,8th
+SWE,9013,Anders Nilsson,,ABBK,8,9,[12],9,11,8,8,65,53,9th
+SWE,9029,Mikael Olesen,,VBK,13,6,4,8,8,[22 DNC],22 DNC,83,61,10th
+SWE,8974,Thomas Widstrand,,BKSS,12,[13],13,10,10,9,7,74,61,11th
+SWE,8807,Didrik Dahlström,Joel Jelf,KSSS,3,5,6,[22 DNF],22 DNC,22 DNC,22 DNC,102,80,12th
+SWE,9128,Fritjof Suneson,Håkan Larsson,DBS,[22 DNC],11,11,12,22 DNC,22 DNC,22 DNC,122,100,13th
+SWE,9092,Knut Hastenpflug,,SSÅV,10,[22 DNS],22 DNC,22 DNC,22 DNC,22 DNC,22 DNC,142,120,14th
+SWE,8926,Ebbe Rosén,Olle Wenrup,MKS,[22 DNC],22 DNC,22 DNC,22 DNC,22 DNC,22 DNC,22 DNC,154,132,15th
+SWE,9107,Fredrik Hansson,,BKSS,[22 DNC],22 DNC,22 DNC,22 DNC,22 DNC,22 DNC,22 DNC,154,132,15th
+SWE,9222,Tomas Franzen,Lars Lindgren,RJK,[22 DNC],22 DNC,22 DNC,22 DNC,22 DNC,22 DNC,22 DNC,154,132,15th
+SWE,9259,Tore Reinhold,Mikael Gustafsson,BKSS,[22 DNC],22 DNC,22 DNC,22 DNC,22 DNC,22 DNC,22 DNC,154,132,15th
+SWE,8923,Lars Hultgren,,RJK,[22 DNC],22 DNC,22 DNC,22 DNC,22 DNC,22 DNC,22 DNC,154,132,15th
+DEN,9243,Per Larsen,,HSK,[22 DNC],22 DNC,22 DNC,22 DNC,22 DNC,22 DNC,22 DNC,154,132,15th
+DEN,9025,Christian Seilman,Henrik Kock Thomasen,MSK,[22 DNC],22 DNC,22 DNC,22 DNC,22 DNC,22 DNC,22 DNF,154,132,15th
