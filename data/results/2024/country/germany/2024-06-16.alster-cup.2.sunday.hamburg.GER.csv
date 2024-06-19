@@ -1,12 +1,12 @@
-Country,"Boat Number",Helm,Crew,Club,"Race 1","Race 2","Race 3","Race 4",Brutto,Netto,Place
-GER,9230,"Martin Kittsteiner","Oliver Stieglitz",HSC,3,1,4,1,9,,1
-GER,9161,"Walter Steding","Hans-Werner Steding",HSC,1,2,2,3,8,,2
-GER,9131,"Jörn Wille","Martin Bergmann",MSC,2,6,1,4,13,,3
-GER,9090,"Tim Böger","Martin Schöler",HSC,5,5,8,2,20,,4
-GER,9169,"Rayan Schöner","Markus Schöner",,4,4,5,9,22,,5
-GER,8774,"Nicolai Völckner","Andreas Schmidt",HSC,11,3,7,5,26,,6
-GER,8903,"Steve Kwee","Hannes Kindermann",HSC,6,8,3,6,23,,7
-GER,8686,"Markus Hintz","John Christiansen",HSC,7,7,6,7,27,,8
-GER,8433,"Patrick Ziegelmüller","Barbara Kloth",,8,9,9,"DNF 12",38,,9
-GER,9040,"Harald König","Felix Weissensteiner",SRVL-S,10,10,"DNF 12",8,40,,10
-GER,8282,"Andreas Jungclaus","Max Rauner",HSC,9,11,"DNC 12","DNC 12",44,,11
+Country,Boat Number,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Brutto,Netto,Place
+GER,9230,Martin Kittsteiner,Oliver Stieglitz,HSC,3,1,[4],1,9,5,1
+GER,9161,Walter Steding,Hans-Werner Steding,HSC,1,2,2,[3],8,5,2
+GER,9131,Jörn Wille,Martin Bergmann,MSC,2,[6],1,4,13,7,3
+GER,9090,Tim Böger,Martin Schöler,HSC,5,5,[8],2,20,12,4
+GER,9169,Rayan Schöner,Markus Schöner,,4,4,5,[9],22,13,5
+GER,8774,Nicolai Völckner,Andreas Schmidt,HSC,[11],3,7,5,26,15,6
+GER,8903,Steve Kwee,Hannes Kindermann,HSC,6,[8],3,6,23,15,7
+GER,8686,Markus Hintz,John Christiansen,HSC,[7],7,6,7,27,20,8
+GER,8433,Patrick Ziegelmüller,Barbara Kloth,,8,9,9,[DNF 12],38,26,9
+GER,9040,Harald König,Felix Weissensteiner,SRVL-S,10,10,[DNF 12],8,40,28,10
+GER,8282,Andreas Jungclaus,Max Rauner,HSC,9,11,[DNC 12],DNC 12,44,32,11
