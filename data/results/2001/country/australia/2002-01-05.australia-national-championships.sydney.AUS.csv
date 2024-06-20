@@ -1,0 +1,39 @@
+Country,Sail No,Skipper,Crew,Yacht Name,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Race 7,Total,Netto,Place
+AUS,8795,Sandy Higgins,Paul Marsh,Sleek,[4],1,1,1,1,3,3,14,10,1
+AUS,8782,Andrew Hewson,Frank Karlovecz,Ronstan,3,2,[7],6,3,2,1,24,17,2
+AUS,8280,Michael Quirk,Geoff Lange,Voyager,1,5,8,5,2,1,[DNF 39],61,22,3
+AUS,8628,Ben Austin,Shane Guanaria,Grumpy Old Men,7,[12],6,7,5,5,2,44,32,4
+AUS,8784,Hugh Stoddart,Jordan Spence,Express Post,9,4,5,10,4,4,[DNC 39],75,36,5
+AUS,8667,Scott Olsen,Sean Gregory,Swing Shift,10,[DNF 39],4,9,7,9,4,82,43,6
+AUS,8644,David Porter,Peter Holden,Go To Red,6,6,[15],15,8,6,5,61,46,7
+AUS,8523,Peter Hewson,Morgan Bax,Foreveraboard,8,[DNF 39],3,4,15,8,8,85,46,8
+AUS,8710,Justin Mitchell,Ken Mitchell,Mitchell Sails,2,3,10,3,[20],17,12,67,47,9
+AUS,8399,Bill Cuneo,Richard Machin,Spaceframe Buildings,5,[DNF 39],16,11,6,7,7,91,52,10
+AUS,8780,Brett Van Munster,Adam Linton,Van Munster Boatbuilding,11,8,2,16,[DNF 39],10,6,92,53,11
+AUS,8606,Scott Ovenden,Gary Hardman,The Missus,12,11,[17],13,10,15,9,87,70,12
+AUS,8557,Neil Long,Grahame Prosser,Whatever,16,[23],14,2,9,11,18,93,70,13
+AUS,8407,Steven Findlay,Michael Bukham,De Stressing Purchase,[14],14,12,8,13,12,13,86,72,14
+AUS,8602,Paul Mitchell,Sam Haines,Vicsail,17,7,[19],19,19,18,10,109,90,15
+AUS,8765,Bill Edwards,Brad Clarke,Csd,20,9,18,18,11,[21],14,111,90,16
+AUS,8739,Ian Dunn,Ed Cox,Show Me The Money,15,17,13,17,16,14,[22],114,92,17
+AUS,8498,Richard Gallimore,Peter Drinkwater,Storage King,13,[DNF 39],11,12,12,DNF 39,11,137,98,18
+AUS,8760,Myra Robertson,Steve Robertson,Intergalactic Two Minute Noodle Tour,[DNF 39],DNF 39,23,30,17,16,16,179,103,19
+AUS,8589,Mark Barber,Isaac Noble,The Groove,24,10,24,21,[28],13,17,137,109,20
+AUS,8783,Chris Went,Fletcher Kennedy,Lucy Furr,19,22,9,23,14,26,[27],140,113,21
+AUS,8354,Renee Dean,Anthony Dean,Earle Grey,23,18,[28],14,21,20,20,144,116,22
+AUS,8041,Ben Hunter,Ben Amos,Lunarsea,[32],19,29,20,25,22,15,162,130,23
+AUS,7985,Jeff Robinson,Mick O’Donnell,www.watchout.com.au,[DNS 39],13,20,35,22,19,23,171,132,24
+AUS,8289,Chris Quirk,Richard Gorell,Oops,28,16,21,22,23,[DNF 39],24,173,134,25
+AUS,8785,Ian Burford,Ben Greenhough,Ss Cardsharks,[33],26,26,24,18,25,25,177,144,26
+AUS,8273,Jim Sanderson,Tony Duncan,Supatoy,18,25,[RET 39],26,27,24,26,185,146,27
+AUS,8781,Earle Alexander,Ken Leckenby,Audit Services International,[34],20,31,25,31,23,19,183,149,28
+AUS,7905,Nick Dahl,Dave Martin,Bw Parts Hard Slog,[DNF 39],28,34,29,34,31,DNF 39,234,157,29
+GBR,8764,Geoff Holden,John Tyrell,Tigger Time,30,15,25,27,29,[32],31,189,157,30
+AUS,8173,Kent Penfold,Bryce Pentfold,Fuss Bus,25,21,22,36,33,27,[DNF 39],203,164,31
+AUS,8272,Jay Brown,David Delaine,Bonita J,21,[DNF 39],32,33,26,33,21,205,166,32
+AUS,7904,Sam Cronin,Adam Hanley,Savage Live Worms,29,24,30,31,[32],30,30,206,174,33
+AUS,8503,Tim Sampson,Mick Patrick,On The Job,27,[DNF 39],DNF 39,32,24,28,28,217,178,34
+AUS,8558,Richard Hyde,Samuel Hyde,Rage,31,27,33,28,30,29,[DNC 39],217,178,35
+AUS,8639,Graham Payn,Michelle Payn,Bird On A Wire,[35],29,27,34,35,34,29,223,188,36
+AUS,8648,Jeff Robinson,Mick O’Donnell,www.watchout.com.au,22,[DNS 39],DNS 39,DNS 39,DNS 39,DNS 39,DNS 39,256,217,37
+AUS,8396,Richard Needham,Mark Hewitt,Go-Ichi-Go,26,[DNF 39],DNC 39,DNC 39,DNC 39,DNC 39,DNC 39,260,221,38
