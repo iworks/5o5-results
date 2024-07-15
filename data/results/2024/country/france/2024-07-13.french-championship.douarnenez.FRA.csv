@@ -1,0 +1,36 @@
+Country,Boat Number,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Race 7,Brutto,Netto,Place
+GBR,,Roger Gilbert,Ian Mitchell,GRANDE BRETAGNE / Grande-Bretagne,3,1,1,2,1,6,4,18,12,1
+GBR,,Ian Pinnell,Charles Dwyer,GRANDE BRETAGNE / Grande-Bretagne,1,2,4,4,2,1,5,19,14,2
+FRA,9270,Philippe Boite,Marin Carnot,CVSQ / CVSQ,4,5,2,1,3,2,7,24,17,3
+GER,,Tim Böger,Markus Schöner,ALLEMAGNE / Allemagne,13,3,3,3,4,3,2,31,18,4
+FRA,9147,Hervé de Kergariou,Guillaume de Kergariou,Y C ILE DE FRANCE / Y C ILE DE FRANCE,8,6,6,8,10,5,3,46,36,5
+GBR,,Martin Wedge,Graham Elliot,GRANDE BRETAGNE / Grande-Bretagne,25,9,9,11,13,9,8,84,59.5 ,6
+FRA,8869,Etienne Boyer,Emmanuel Boyer,LA PELLE-MARSEILLE / C V BORDEAUX C M,16,8,10,DNF 36,11,7,10,98,62,7
+FRA,9218,Bertrand Commeil,Charles Commeil,Y C CARNAC / Y C CARNAC,19,16,5,7,5,16,14,82,63,8
+GBR,,Miles Odell ,Rory Odel,GRANDE BRETAGNE / Grande-Bretagne,6,10,18,13,RET 36,8,9,100,64,9
+USA,9179,Pierre Jeangirard,Alban Viaud,ILE DE FRANCE / C N CO ST TROJAN,18,7,13,10,8,18,13,87,69,10
+FRA,9219,Elisabeth Neidhart,Pierre-Jean Gallo,Y C ILE DE FRANCE / CVSQ,14,15,11,12,7,12,17,88,71,11
+FRA,9045,Nicolas Guillou,Augustin Doumic,S N P H / S N TRINITE S/MER,17,13,7,5,DNF 36,14,20,112,76,12
+FRA,[22],Ludovic Roblin,Benoit Radier,AAN PORT-BLANC / AAN PORT-BLANC,20,11,12,9,15,11,21,99,78,13
+FRA,9075,Loïc Bleuez,Guillaume Henrio,A N S MANDRIER / A N S MANDRIER,7,24,14,16,13,19,12,105,81.5 ,14
+AUS,,Michael Quirk,Cameron McDonald,AUSTRALIE / Australie,5,4,DNF 36,RET 36,RET 36,4,1,122,86,15
+FRA,9076,Serge Gubri,Bruno Gallardo,C V SEINE-PORT / Voiles de Nacre,9,17,19,17,12,23,19,116,93,16
+FRA,9150,Valentin Dechauffour,Pierre Gendry,ASNQ / S N O NANTES,28,22,8,6,6,27,25,122,94,17
+FRA,9031,Philippe Lucienne,Nicolas Auberger,S.R.C. Sud-Oise / S.R.C. Sud-Oise,10,12,21,14,16,21,30,124,94,18
+FRA,9081,Cédric Crets,Lionel Lambert,OCCITANIE,24,14,16,19,18,13,16,120,96,19
+FRA,9019,Véronique Brenet,Jean-Pierre Peter,A C D'ALSACE LORRAIN / A C D'ALSACE LORRAIN,2,23,25,21,19,17,22,129,104,20
+BEL,,Kim Van Assche,Tessa Liebens,BELGIQUE / Belgique,15,18,22,DNF 36,20,20,11,142,106,21
+FRA,9068,François de Lisle,Marc Desjuzeur,C N FERRET / C N RENNES,22,RET 36,15,15,9,25,27,149,113,22
+FRA,9164,Jacques Dechauffour,Florence le Brun,ASNQ / ASNQ,11,21,DNF 36,DNF 36,RET 36,10,6,156,120,23
+FRA,8800,Claude Lafortune,Adrien Lafortune,C V SEINE-PORT / C V SEINE-PORT,23,25,23,20,RET 36,15,18,160,124,24
+FRA,9086,Eric Quémard,Antoine Victor,Y C ILE DE FRANCE / Y C ILE DE FRANCE,21,28,24,18,17,24,DNF 36,168,132,25
+FRA,8847,Bastian le Morvan,Victor Pierre,ASPTT TROYES VOILE / Y C ILE DE FRANCE,27,19,17,DNF 36,RET 36,22,15,172,136,26
+FRA,9221,Frédéric Véroul,Verlhac Aubin Véroul,C N VASSIVIERE / C N VASSIVIERE,12,27,DNF 36,DNC 36,RET 36,28,23,198,162,27
+FRA,8729,Benjamin Di Pède,Jordane Lafortune,C V SEINE-PORT / C V SEINE-PORT,31,29,27,23,DNF 36,30,28,204,168,28
+FRA,9175,Francois Caminade,Mael Caplain,YC Grenoble Chara. / C N Saint-Raphaël,32,26,20,RET 36,DNF 36,31,26,207,171,29
+FRA,7941,Pierre Yves Chene,Julien Chazet,CNROSTIVIEC LOPERHET / YC MORLAIX,29,30,26,22,DNF 36,33,31,207,171,30
+FRA,8904,Marion Michel,Anaïs Dechauffour,ASNQ / ASNQ,26,20,DNC 36,DNC 36,DNC 36,29,29,212,176,31
+FRA,9050,Anna-Marie de Kergariou,Pierre de Kergariou,Y C ILE DE FRANCE / Y C ILE DE FRANCE,30,31,DNC 36,DNC 36,DNC 36,26,24,219,183,32
+FRA,8683,Jean-Pierre Derungs,Mathis Derungs,Y C ILE DE FRANCE / Y C ILE DE FRANCE,35,34,DNF 36,RET 36,RET 36,32,32,241,205,33
+FRA,6126,Alexandre Levet,Pierre Grave,PNVB / PNVB,33,32,DNF 36,RET 36,RET 36,35,34,242,206,34
+FRA,9188,Jean-François Dervieux,Eric le Morvan,Y C ILE DE FRANCE / ASPTT TROYES VOILE,34,33,DNC 36,DNC 36,DNC 36,34,33,242,206,35
