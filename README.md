@@ -9,6 +9,7 @@ Feel free to create a PR if you can fill out or add something.
 1. Install [WordPress](https://wordpress.org/download/).
 1. Install the [Fleet Manager](https://wordpress.org/plugins/fleet/) WordPress plugin.
 1. Get a copy of this repository.
+1. Copy `/tools/wordpress/mu-plugin/505-import-filter.php` into your WordPress `wp-content/mu-plugin/`, create this directory if it does not exist.
 1. Copy `etc/config.example.php` into `etc/config.php`.
 1. Edit `etc/config.php` and set `$wordpress_path` as the document root of your WordPress installation.
 1. Run `./bin/import.php all`.
