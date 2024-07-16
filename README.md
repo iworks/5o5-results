@@ -1,22 +1,31 @@
 # International 5O5 Class Archive
 
-The [database combining boat registry, competitors and events](https://5o5.iworks.pl/). You can review the 5O5 boat register linked to which crews raced each boat and an extensive list of regattas those people and boats competed in with results.
+The [database combining boat registry, competitors, and events](https://5o5.iworks.pl/). You can review the 5O5 boat register linked to which crews raced each boat and an extensive list of regattas those people and boats competed in with results.
 
-Feel free to create PR if you can fill something or add something.
+Feel free to create a PR if you can fill out or add something.
+
+## How to run a site and import results
+
+1. Install [WordPress](https://wordpress.org/download/).
+1. Install the [Fleet Manager](https://wordpress.org/plugins/fleet/) WordPress plugin.
+1. Get a copy of this repository.
+1. Copy `etc/config.example.php` into `etc/config.php'.
+1. Edit `etc/config.php' and set `$wordpress_path` as the document root of your WordPress installation.
+1. Run `./bin/import.php all`.
 
 ## Contributors
 
-I will thank those people (order by time)
+I will thank those people (ordered by time).
 
-* Ebbe Rosén - he provided the first batch of results and help me when I need something more.
-* Mike Hattemore - he provided a lot of WC and UK Nationals.
-* Peter Scannell - he helped with manual fixing Irish results.
-* Olivier Barat - he provided French Bulletin scans from 1972-1979 and a few more till 2003.
-* Jonathan Gibbons - he provided "505 Great Britain" 1975-1987.
-* Nicolas Ktz - he provider entry list and first 6 places on WC 1969 (Argentina)
-* Philippe Blanchard - he provided French Bulletin scans from 1960-2009.
-* Simon Gorman - he provided the Australian Championship 1998.
-* Ian Gregg - he provided the Australian Championship 2016.
-* [Deutsche 505er Klassenvereinigung - Aktuelles](http://505.3wadmin.de/) - a lot of older German (but not only) results from years 2000-2017.
-* Tim Böger - he provided results from 1986 till 1996.
-* [Adam Wolnikowski](https://github.com/AWoLnik) - the first push request contributor!
+* **Ebbe Rosén** provided the first batch of results and helped me when I needed something more.
+* **Mike Hattemore** provided a lot of WC and UK Nationals.
+* **Peter Scannell** helped with the manual fixing of Irish results.
+* **Olivier Barat** provided French Bulletin scans from 1972–1979 and a few more until 2003.
+* **Jonathan Gibbons** provided "505 Great Britain" from 1975 to 1987.
+* **Nicolas Ktz** provided entry list and first 6 places on WC 1969 (Argentina)
+* **Philippe Blanchard** provided French Bulletin scans from 1960–2009.
+* **Simon Gorman** provided the Australian Championship in 1998.
+* **Ian Gregg** provided the Australian Championship 2016.
+* [Deutsche 505er Klassenvereinigung - Aktuelles](http://505.3wadmin.de/) - a lot of older German (but not only) results from years 2000–2017.
+* **Tim Böger** provided results from 1986 until 1996.
+* **[Adam Wolnikowski](https://github.com/AWoLnik)** - the first push request contributor!
