@@ -30,3 +30,4 @@ I will thank those people (ordered by time).
 * [Deutsche 505er Klassenvereinigung - Aktuelles](http://505.3wadmin.de/) - a lot of older German (but not only) results from years 2000–2017.
 * **Tim Böger** provided results from 1986 until 1996.
 * **[Adam Wolnikowski](https://github.com/AWoLnik)** - the first push request contributor!
+* **[bartekch](https://github.com/bartekch)** - the secound push request contributor!
