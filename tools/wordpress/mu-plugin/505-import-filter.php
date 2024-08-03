@@ -6192,7 +6192,7 @@ class iworks_5o5_upload_fixer {
 		'Maxime Le Coff'              => 'Maxime le Goff',
 		'Maxime Le Goff'              => 'Maxime le Goff',
 		'Maximilian Weiss'            => 'Maximilian Weiß',
-		'Maxymilian Zaniewski'        => 'Maksymilian Zaniewski' .
+		'Maxymilian Zaniewski'        => 'Maksymilian Zaniewski',
 		'Mayrhofer Michael'           => 'Michael Mayrhofer',
 		'Mayrshofer Maximilian'       => 'Maximilian Mayrshofer',
 		'M.Buffet'                    => 'Marcel Buffet',
@@ -6253,7 +6253,7 @@ class iworks_5o5_upload_fixer {
 		'Michael Wonnac'              => 'Michael Wonnacott',
 		'Michael Wonnaco'             => 'Michael Wonnacott',
 		'Michael Wonterghem'          => 'Michael van Wonterghem',
-		'Michal Kepski'               => 'Michał Kępski'
+		'Michal Kepski'               => 'Michał Kępski',
 		'Michal Olko'                 => 'Michał Olko',
 		'Michal Pronczuk'             => 'Michał Prończuk',
 		'Michal Strusinski'           => 'Michał Strusiński',
