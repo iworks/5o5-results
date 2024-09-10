@@ -176,7 +176,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 1989-01-01,1989-01-01,UK National Championship,,6,61,Pevensey,,,,,,,1989/country/uk/1989.uk-championship.pevensey.GBR.csv,National,,GBR,2020-11-06,,,,,,
 1989-01-01,1989-01-01,World Championship,,6,90,Felixstowe,Felixstowe Ferry,,,,,,1989/world/1989.world-championship.felixstowe.GBR.csv,World,,GBR,2020-07-23,,,,,,
 1989-08-04,1989-08-06,Svenskt Mästerskap,Swedish Championship,6,24,Gottskär,SS Kaparen,,,,,,1989/country/sweden/1989-08-06.swedish-championship.gottskar.SWE.csv,National,,SWE,2022-05-24,,,,,,
-1990-01-01,1990-01-01,Australian National Championships,,,,Toronto,,,,,,,1990/country/australia/1990.australia-national-championships.toronto.AUS.csv,National,,AUS,2024-02-09,,,,,,
+1990-01-01,1990-01-01,Australian National Championships,,,,Toronto,505 Nationals Toronto NSW,,,,,,1990/country/australia/1990.australia-national-championships.toronto.AUS.csv,National,NSW Toronto Lake Macquarie RTMYC,AUS,2024-02-09,,,,,,
 1990-01-01,1990-01-01,Championnat de France,French Championship,,,Maubuisson,,,,,,,1990/country/france/1990.french-championship.maubuisson.FRA.csv,National,,FRA,2024-06-22,,,,,,
 1990-01-01,1990-01-01,UK National Championship,,5,87,Mumbles,,,,,,,1990/country/uk/1990.uk-national-championship.mumbles.GBR.csv,National,,GBR,2020-11-06,,,,,,
 1990-01-01,1990-01-01,World Championship,,6,76,"Kingston,ON",Portsmouth Olympic Harbour,,,,,,1990/world/1990.world-championship.kingston.CAN.csv,World,,CAN,2024-02-09,,,,,,
