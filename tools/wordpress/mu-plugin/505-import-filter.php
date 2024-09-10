@@ -1034,10 +1034,6 @@ class iworks_5o5_upload_fixer {
 			'Buttner' => 'Andrew Buttner',
 		),
 		array(
-			'Loveshin-Moss' => 'Shona Lovshin-Moss',
-			'Loveshin'      => 'Devlin Lovshin',
-		),
-		array(
 			'Kiaser' => 'Ki Kaiser',
 			'Badtke' => 'John Badtke',
 		),
@@ -1144,10 +1140,6 @@ class iworks_5o5_upload_fixer {
 		array(
 			'Morrin'   => 'Hugh Morrin',
 			'Rzucidlo' => 'Marius Rzucidlo',
-		),
-		array(
-			'Moss Lovshin' => 'Shona Lovshin-Moss',
-			'Lovshin'      => 'Devlin Lovshin',
 		),
 		array(
 			'MacGovern' => 'Peter MacGovern',
@@ -1546,7 +1538,7 @@ class iworks_5o5_upload_fixer {
 			'Alarie' => 'Peter Alarie',
 		),
 		array(
-			'S.Moss'    => 'Shona Lovshin-Moss',
+			'S.Moss'    => 'Shona Moss Lovshin',
 			'S.Lovshin' => 'Stephen Lovshin',
 		),
 		array(
@@ -1796,10 +1788,6 @@ class iworks_5o5_upload_fixer {
 		array(
 			'Boyd'    => 'Jeff Boyd',
 			'TenHove' => 'Martin ten Hove',
-		),
-		array(
-			'Moss Loveshin' => 'Shona Lovshin-Moss',
-			'Loveshin'      => 'Stephen Lovshin',
 		),
 		array(
 			'Alexander' => 'Graham Alexander',
@@ -2180,10 +2168,6 @@ class iworks_5o5_upload_fixer {
 		array(
 			'Jean Chartier' => 'Jean-Philippe Chartier',
 			'Chartier'      => 'Alain Chartier',
-		),
-		array(
-			'MossLovshin' => 'Shona Lovshin-Moss',
-			'Lovshin'     => 'Stephen Lovshin',
 		),
 		array(
 			'Hamilton' => 'Brook Hamilton',
@@ -6320,7 +6304,7 @@ class iworks_5o5_upload_fixer {
 		'Morten S Andersen'           => 'Morten S. Andersen',
 		'Morvan Le Bastian'           => 'Bastian le Morvan',
 		'Mosli Christian'             => 'Christian Mösli',
-		'Moss Lovshin Shona'          => 'Shona Lovshin-Moss',
+		'Moss Lovshin Shona'          => 'Shona Moss Lovshin',
 		'Mouclier Emmanuel'           => 'Emmanuel Mouclier',
 		'Mouilhade Frederic'          => 'Frederic Mouilhade',
 		'M.Pajot'                     => 'Marc Pajot',
@@ -7007,9 +6991,9 @@ class iworks_5o5_upload_fixer {
 		'Sheltnon Dave'               => 'David Shelton',
 		'Sherwood Roger'              => 'Roger Sherwood',
 		'S.Higgins'                   => 'Sandy Higgins',
-		'Shona Loveshin-Moss'         => 'Shona Lovshin-Moss',
-		'Shona Moss Lovshin'          => 'Shona Lovshin-Moss',
-		'Shona Moss-Lovshin'          => 'Shona Lovshin-Moss',
+		'Shona Loveshin-Moss'         => 'Shona Moss Lovshin',
+		'Shona Lovshin-Moss'          => 'Shona Moss Lovshin',
+		'Shona Moss-Lovshin'          => 'Shona Moss Lovshin',
 		'Short Andrew'                => 'Andrew Short',
 		'Short Andy'                  => 'Andy Short',
 		'Short Russe'                 => 'Russell Short',

@@ -1,10 +1,4 @@
-Nation,Sail #,Helm,Crew,Club,"Race 1
-Aug 14","Race 2
-Aug 14","Race 3
-Aug 14","Race 1
-Aug 15","Race 2
-Aug 15","Race 3
-Aug 15",Boat name,Total,Net,Rank
+Nation,Sail #,Helm,Crew,Club,"Race 1 Aug 14","Race 2 Aug 14","Race 3 Aug 14","Race 1 Aug 15","Race 2 Aug 15","Race 3 Aug 15",Boat name,Total,Net,Rank
 CAN,8735,Brent Beninger,,NSC,1,1,2,4,3,(9.00),Spaghetti Factory,20,11,1st
 USA,900*,Evania Lovshin,,NSC & BYC,2,(12.00 DNC),12.00 DNC,2,6,3, ,37,25,2nd
 CAN,89*,Marie Gendron,,NSC,11.00 DNF,(12.00 DNC),12.00 DNC,1,2,1,Mystery,39,27,3rd
