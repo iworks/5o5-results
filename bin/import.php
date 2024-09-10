@@ -852,6 +852,7 @@ if ( $import_results && ( $handle = fopen( $data_root . '/' . $import_config['ev
 			if ( is_file( $thumbnail_file ) ) {
 				$attach_id = 0;
 				$filename  = basename( $thumbnail_file );
+				echo PHP_EOL,'Thumbnail: ' ,$filename ,PHP_EOL;
 				$args      = array(
 					'post_type'      => 'attachment',
 					'post_status'    => 'inherit',
@@ -891,7 +892,35 @@ if ( $import_results && ( $handle = fopen( $data_root . '/' . $import_config['ev
 				set_post_thumbnail( $post_ID, $attach_id );
 			}
 		}
-
+		/**
+		 * try to adds links
+		 */
+		foreach ( array( 'links' ) as $extenstion ) {
+			$links_file = preg_replace( '/csv$/', $extenstion, $file );
+			if ( is_file( $links_file ) && $links_handle = fopen( $links_file, 'r' ) ) {
+				$links = array();
+				while ( ( $links_data = fgetcsv( $links_handle, 0, ',' ) ) !== false ) {
+					if ( isset( $links_data[0] ) ) {
+						$one = array(
+							'url' => $links_data[0],
+						);
+						if ( isset( $links_data[1] ) ) {
+							$one['title'] = $links_data[1];
+						}
+						$links[] = $one;
+					}
+				}
+				if ( ! empty( $links ) ) {
+					printf(
+						'Found Links: %s (%d)%s',
+						basename( $links_file ),
+						count( $links ),
+						PHP_EOL
+					);
+					add_post_meta( $post_ID, '_links', $links, true );
+				}
+			}
+		}
 		/**
 		 * import results
 		 */
@@ -904,7 +933,6 @@ if ( $import_results && ( $handle = fopen( $data_root . '/' . $import_config['ev
 			if ( empty( $regatta_data ) ) {
 				echo ' - EMPTY FILE!',PHP_EOL;
 			} else {
-				echo PHP_EOL;
 				echo 'Begin import, rows: ', count( $regatta_data ) ,PHP_EOL;
 				do_action( 'iworks_fleet_result_import_data', $post_ID, $regatta_data );
 			}
