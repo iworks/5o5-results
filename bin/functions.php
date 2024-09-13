@@ -263,6 +263,20 @@ function int505_import_fix_year( $year, $pointer = 'begin' ) {
 	if ( empty( $year ) ) {
 		return $year;
 	}
+	/**
+	 * date from 1900-01-01 (excel format)
+	 */
+	if ( preg_match( '/^\d{5}$/', $year ) ) {
+		return date(
+			'Y-m-d',
+			strtotime(
+				sprintf(
+					'1900-01-01 + %d days',
+					$year
+				)
+			)
+		);
+	}
 	if ( preg_match( '/^\d{4}\-\d{2}\-\d{2}$/', $year ) ) {
 		return $year;
 	}

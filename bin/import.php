@@ -222,7 +222,7 @@ if ( $import_sailors && ( $handle = fopen( $data_root . '/' . $import_config['sa
 }
 
 /**
- * registry
+ * registry - import boats
  */
 $counter = 0;
 $rows    = array();
@@ -272,6 +272,10 @@ if ( $import_registry && ( $handle = fopen( $data_root . '/' . $import_config['b
 			$iworks_fleet_social_website     = trim( $data[17] );
 			$iworks_fleet_boat_colors        = preg_split( '/[;\|]/', trim( $data[13] ) );
 			if ( ! empty( $iworks_fleet_boat_colors ) ) {
+				if ( 1 === sizeof( $iworks_fleet_boat_colors ) ) {
+					$iworks_fleet_boat_colors[] = $iworks_fleet_boat_colors[0];
+					$iworks_fleet_boat_colors[] = $iworks_fleet_boat_colors[0];
+				}
 				foreach ( $iworks_fleet_boat_colors as $index => $color ) {
 					$iworks_fleet_boat_colors[ $index ] = int505_translate_color( $color );
 				}
@@ -311,7 +315,7 @@ if ( $import_registry && ( $handle = fopen( $data_root . '/' . $import_config['b
 					continue;
 				}
 				if ( 'iworks_fleet_boat_last_update' === $key ) {
-					$$key = strtotime( $$key );
+					$$key = strtotime( int505_import_fix_year($$key) );
 				}
 				$post['meta_input'][ $key ] = $$key;
 			}
