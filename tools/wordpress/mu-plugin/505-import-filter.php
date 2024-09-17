@@ -4185,7 +4185,7 @@ class iworks_5o5_upload_fixer {
 		'B Dunnery'                   => 'Bill Munnery',
 		'B Edwards'                   => 'Bruce Edwards',
 		'B. Edwards'                  => 'Bill Edwards',
-		'B. Goodacre'                 => 'Bill Goodacre',
+		'B. Goodacre'                 => 'William Goodacre',
 		'B. Napier'                   => 'Robert Napier',
 		'B. Robinson'                 => 'Brian Robinson',
 		'B. Whitbread'                => 'Brett Whitbread',
