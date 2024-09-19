@@ -851,7 +851,7 @@ if ( $import_results && ( $handle = fopen( $data_root . '/' . $import_config['ev
 		/**
 		 * try to set thumbnail
 		 */
-		foreach ( array( 'jpg', 'png', 'gif' ) as $extenstion ) {
+		foreach ( array( 'jpg', 'png', 'gif', 'webp', 'svg' ) as $extenstion ) {
 			$thumbnail_file = preg_replace( '/csv$/', $extenstion, $file );
 			if ( is_file( $thumbnail_file ) ) {
 				$attach_id = 0;
