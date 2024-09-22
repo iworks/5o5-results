@@ -3034,8 +3034,8 @@ class iworks_5o5_upload_fixer {
 			'D. Brun'      => 'Daniel Brun',
 		),
 		array(
-			'Lenderoth' => 'A. Lenderoth',
-			'Ellerbeck' => 'J. Ellerbeck',
+			'Lenderoth' => 'Axel Lenderoth',
+			'Ellerbeck' => 'Jo Ellerbeck',
 		),
 		array(
 			'Fischer' => 'Francois Fischer',
@@ -3043,7 +3043,7 @@ class iworks_5o5_upload_fixer {
 		),
 		array(
 			'N Long' => 'Neil Long',
-			'S Kay'  => 'S Kay',
+			'S Kay'  => 'S. Kay',
 		),
 		array(
 			'N. Long' => 'Neil Long',
