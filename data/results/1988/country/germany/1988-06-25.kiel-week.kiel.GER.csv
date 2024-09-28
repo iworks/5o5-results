@@ -1,0 +1,47 @@
+Country,Boat Number,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Boat Name,Points Total,Points Netto,Place
+DEN,8031,Lars Christensen,Jan Feddersen,FS,2,2,1,1,3,12,,"29,7","11,7",1
+SWE,7343,Karl-Erik Nilsson,Christian Madsen,GKSS,1,1,7,2,5,DNS,,89,26,2
+SWE,8116,Björn Fagerström,Thomas Rahm,GKSS,3,9,13,14,7,1,,"72,7","52,7",3
+GER,8075,Hauke Rathjens,Frank Uhlemann,KYC,19,8,3,10,9,5,,"35,7","60,7",4
+GER,81*,Carsten Hammer,Holger Jess,TSVS,5,12,4,4,33,13,,102,63,5
+GER,8109,Bernd Kowalzig,Claus Tiedemann,SCS,11,6,5,7,11,23,,"97,7","69,7",6
+FIN,7948,Hannu Merikallio,Tom Lindström,HSS,4,19,2,12,13,33,,112,73,7
+SWE,8033,Per Oskarsson,Lars Edström,KSSS,10,32,12,6,8,8,,"111,7","73,7",8
+SWE,7540,Yngve Gustafsson,Mats Gransell,HKK,17,3,10,13,31,6,,"112,4","75,4",9
+GER,8002,Harald Busch,Timo Wirz,SCYS,13,4,6,9,16,19,,"100,7","75,7",10
+SUI,8101,Urs Scherrer,Roger Fischer,YCZ,9,10,15,3,14,21,,"104,7","77,7",11
+GER,8106,Torsten Roecer,Meige von der Linde,RTSW,6,23,17,23,1,9,,"107,7","78,7",12
+SWE,8146,Kent Högberg,Gerry Högberg,GKSS,14,17,14,20,6,3,,"104,4","80,4",13
+SUI,9*,Christian Wahl,Thomas Junat,CMV,12,14,32,YMP,2,22,,"122,8","84,3",14
+GER,7860,Christof Becker,Tim Böger,KYC,25,11,9,15,32,2,,125,87,15
+GER,8127,Jürgen Eigenbrod,Kai Jeschke,Rsvw,18,5,11,5,22,24,,119,89,16
+FIN,7885,Jari Mäkelä,Tero Lahti,TAPS,8,16,22,8,39,14,,143,98,17
+GER,7782,Andreas Beckmann,Wolfgang Pollex,RVE,7,21,18,16,DNS,10,,165,102,18
+GER,7597,Carl-Peter Forster,Anselm Bracht,BYC,20,30,16,17,19,7,,145,109,19
+SWE,7591,Peter Stenquist,Johan Stenquist,GKSS,53,7,8,22,26,20,,172,113,20
+SUI,8106,Urs Marti,Martin Bäbler,YCZ,23,13,30,33,18,11,,164,125,21
+SUI,8096,Alain Brasey,Christian Maegele,CMV,22,20,26,29,12,17,,162,127,22
+GER,7927,Brigitte Preuss,Rolf Bertenrath,DSCU,27,26,29,30,4,16,,166,130,23
+GER,7785,Stefan Pavel,Martin Bernauer,RSVW,15,27,21,26,27,15,,167,134,24
+GER,7855,Jens-Peter Schlomka,Norman Schlomka,TSVS,21,33,24,24,10,28,,176,137,25
+GER,7893,Axel Lenderoth,Jo Ellerbeck,SVW,16,PMS,19,28,21,38,,213,150,26
+GER,7693,Liselotte U. Lienkesen,L. Du. Stammer Johannsen,WSCWe,32,28,20,19,29,25,,189,151,27
+GER,8121,Dieter Cordes,Christian Stienen,CKA,26,31,23,11,42,32,,201,153,28
+FIN,7784,Tomi Laiho,Mike Laiho,MK,35,18,28,37,23,30,,207,164,29
+GER,7451,Ewald Brzoska,Hanno Barth,YCW,28,36,25,40,20,26,,211,165,30
+SWE,7716,Martin Dubois,Robert Dubois,KSSS,40,29,37,27,30,18,,217,171,31
+FIN,7824,Timo Lipas,Antti Vallittu,JVS,DNS,DNS,DNS,18,17,4,,244,181,32
+GER,7942,Martin Kehr,Alexander Morgenstern,HSC,24,37,44,DNS,15,31,,244,181,33
+GER,8128,Hartwig Friederichs,Jens Weishaupt,KYC,38,15,33,25,40,41,,228,181,34
+GER,7817,Heinz Balters,Dirk Dehncke,KYC,29,24,27,DNS,25,DNS,,255,192,35
+GER,8098,Franscisco Sanguino-Petersen,Robert Wisolek,SVOS,37,35,34,38,24,39,,243,198,36
+GER,8005,Berend Terveer,Ulrich Ellenbeck,ASV,30,38,36,31,35,38,,244,200,37
+FRA,7734,Francis Macheboeuf,Eric Alard,YGCC,42,22,31,36,43,43,,253,204,38
+GER,6974,Jobst von Werder,Rolf Stiefel,Toe,41,42,38,32,36,35,,260,212,39
+GER,7414,Jens Hartwig,Rainer Kremkow,TSC,34,39,46,39,38,37,,269,217,40
+GER,7275,Thomas Cramer,Michael Andersson,YCW,47,DNS,41,35,45,27,,288,225,41
+FIN,7809,George Gebhard,Timo Seppelainen,SPS,45,40,40,DNS,37,34,,289,225,42
+GER,7778,Thomas Schmidt,Wolfgang Stückl,DTYC,DNS,44,39,DSQ,28,29,,290,227,43
+GER,7732,Dirk Kuhnhenn,Frank Baiko,YCH,33,DNS,35,21,DNS,DS,,296,233,44
+SUI,7568,Blondel,J-M Fraqniere,,46,41,42,42,41,42,,290,238,45
+GER,7963,Wolfgang Wilde,Oliver Wirz,DHH,31,34,DNS,34,DNS,DNS,,"106,2","241,7",46
