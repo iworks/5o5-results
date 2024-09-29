@@ -1,0 +1,46 @@
+Country,Boat Number,Helm,Crew,Club,Race 1,Race 2,Points Netto,Place
+GER,7955,G.Froese,C.Jablonski,EStM,1,1,0,1
+GER,8032,Jörn Erdmann,Sven Harder,SVMS,2,2,3,2
+GER,8109,Bernd Kowalzig,Claus Tiedemann,SC8,4,5,9,3
+GER,7781,Andreas Thomsen,Reinhard Schultz,RVE,8,3,11,4
+GER,7597,Carl-Peter Forster,Anselm Bracht,BYC,7,7,14,5
+GER,6611,Franco Weichel,Hasso Hoffmeister,HSC,11,4,15,6
+GER,8002,Harald Busch,Peter Micke,SOMS,3,13,16,7
+GER,7855,Jens-Peter Schlomka,Norman Schlomka,T5VS,6,11,17,8
+GER,7970,Kai Löblein,Thomas Rupp,YCHo,IS,8,24,9
+GER,8128,Hartwig Friederichs,Jens Weishaupt,KYC,25,10,25,10
+GER,7927,Brigitte Preuss,Rolf Bertenrath,OSCU,21,6,27,11
+GER,7693,Heiner Lienke,Klaus Stammerjohann,WSCW,10,17,27,12
+GER,7817,Heinz Balters,Dirk Dehncke,KYC,19,9,28,13
+GER,7782,Andreas Beckmann,Wolfgang Pollex,RVE,5,24,29,14
+GER,6770,Karl-Heinz Hilgers,Wolfgang Bogacki,DSCU,13,16,31,15
+GER,7732,Dirk Kuhnhenn,W.Rosteck,VCR,17,15,32,16
+GER,7971,Stefan Schollmayer,Martin Eckel,SCMsp,12,20,32,17
+GER,7893,Axel Lenderoth,Jo Ellerbeck,SVM,14,22,36,18
+GER,8075,Hauke Rathjens,Frank Uhlemann,KYC,9,28,37,19
+GER,7451,Ewald Brzoska,Hanno Barth,YCM,29,12,41,20
+GER,7957,Ralf-Joachim Stoll,Roaan Summerling,SCSaar,31,14,45,21
+GER,7127,Joern Kinzel,Ulf Geißler,SCO,18,27,45,22
+GER,7539,Wolfgang Thieschäfer,Elke Thieschäfer,YCZ,27,19,46,23
+GER,7747,Gernot Meyer,Joachim Bobbert,EKSG.WSB,24,25,49,24
+GER,8127,Jürgen Eigenbrod,Kai Jeschke,R5VM,34,16,50,25
+GER,8005,Berend Terveer,Ulrich Ellenbeck,ASViK,22,22,51,26
+GER,7275,Thomas Cramer,Michael Andersson,YCW,20,35,55,27
+GER,8121,Dieter Cordes,Marcus Cordes,CKA,30,26,56,28
+GER,7550,André Zander,Peer Jenssen,ETuF,23,33,56,29
+GER,7659,L.Köhler,H.Busch,SKM,25,32,57,30
+GER,6685,Thomas Zager,Andreas Kleist,B5V,26,34,60,31
+GER,6974,Jobst von Werder,Rolf Stiefel,,32,30,62,32
+GER,7963,Wolfgang Wilde,Oliver Wirz,DHH,DNF,23,64,33
+NED,7676,B.Vaes,J.Vaes,WVE,33,31,64,34
+GER,7298,H.Bühring,A.Bachmann,YCZ,28,36,64,35
+DEN,8019,M.Jensen,Chr.Rasmussen,Re,DNS,21,72,36
+GER,7586,R.Jacob,T.Jacob,,35,37,72,37
+GER,7745,Fritz Sobott,Thomas Sobott,BCWN,37,32,76,38
+GER,797*,E. Theben,Annet.Kreyerhoff,BORSC,36,40,76,39
+GER,7462,D.Keller,A.Bialek,SVK,38,42,60,40
+GER,7443,A.Hölscher,F.Hölscher,BCWN,DNF,41,82,41
+GER,5632,A.Tirre,S.Bromer  ',YCZ,39,43,82,42
+GER,7327,Petra Abel,Harald Abel,DM,DNS,38,89,43
+GER,7742,F.Schaar,K.Rocholl,DKP,DNF,DNS,92,44
+GER,7037,Mechthild Bruns,C.Buhnhorst,TSVS,DNS,DNF,95,45
