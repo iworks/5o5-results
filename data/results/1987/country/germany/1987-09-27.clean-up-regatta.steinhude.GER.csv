@@ -1,0 +1,44 @@
+Country,Boat Number,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Points Netto,Place
+GER,8002,Harald Busch,Peter Micke,,2,16,1,1,18,1
+GER,7860,Christof Becker,Tim Böger,"TSVS,HSC,",19,3,5,2,29,2
+GER,7782,Andreas Beckmann,Wolfgang Pollex,RVE,14,4,4,7,29,3
+GER,7597,Carl-Peter Forster,Anselm Bracht,BYC,8,15,7,8,38,4
+GER,7584,Bernd Kowalzig,Claus Tiedemann,SCB,9,8,6,17,40,5
+GER,7781,Andreas Thomsen,Reinhard Schultz,RVE,7,9,11,16,43,6
+GER,7955,Gunter Froese,Carl Riebe,HYC,3,DSQ 43,3,3,52,7
+GER,7589,Adalbert Kluck,Gerhard Schmidt,,26,19,2,6,53,8
+GER,7451,Ewald Brzoska,Hanno Barth,YCW,15,2,22,14,53,9
+GER,7893,Axel Lenderoth,Jo Ellerbeck,SVW,13,10,16,15,54,10
+GER,7963,Wolfgang Wilde,Oliver Wirz,DHH,4,17,21,13,55,11
+GER,6995,Kai Loeblein,Thomas Rupp,YCHo,24,6,15,11,56,12
+GER,7745,Rudolf Baalmann,Ulrike Jansen,BSV,17,14,24,5,60,13
+GER,7927,Brigitte Preuss,Rolf Bertenrath,DSCU,11,20,8,DNF 22,61,14
+GER,6770,Karl-Heinz Hilgers,Wolfgang Bogacki,"DSCU,",22,18,13,9,62,15
+GER,8005,Berend Terveer,Ulrich Ellenbeck,ASVIK,31,13,9,10,63,16
+GER,7957,Ralf-Joachim Stoll,Martin Eckel,SCSaar,30,26,10,4,70,17
+GER,7855,Jens-Peter Schlomka,Norman Schlomka,"TSVS,",20,12,17,DNF 22,71,18
+GER,7539,P.Borck,W.Hackober,,18,28,14,12,72,19
+GER,7971,Stefan Schollmayer,Roman Theisen,SCMsp,23,11,19,DNF 22,75,20
+GER,7298,Heiko Bühring,Chr.Lux,YCZ,28,7,23,19,77,21
+GER,6681,Hartwig Friederichs,Jens Weishaupt,KYC,25,27,12,DNF 22,86,22
+GER,7747,Gernot Meyer,Joachim Bobbert,"EKSG,",5,21,18,DNS 52,96,23
+GER,8065,Hans-Georg Joost,Ulrich Joost,"SVSS,",12,1,DNF 34,DNS 52,98,24
+GER,6769,M.Grauduszus,Chr.Kirchner,,35,24,26,18,103,25
+GER,6974,Jobst von Werder,Rolf Stiefel,WSB,27,29,28,DNF 22,106,26
+GER,7550,André Zander,Peer Jenssen,,16,23,20,DNS 52,111,27
+GER,7732,Dirk Kuhnhenn,Till Reckert,YCH,6,22,DNF 34,DNS 52,114,28
+GER,7462,Dieter Cordes,Marcus Cordes,CKA,10,5,DNS 52,DNS 52,115,29
+GER,7693,Heiner Lienke,Klaus Stammerjohann,WSCE,1,25,DNS 52,DNS 52,129,30
+GER,7659,Lutz Pietrass,Wolfgang Rosteck,YCH,21,32,30,DNS 52,135,31
+GER,7237,Hans-Albert Noeldeke,Oliver Engelhardt,SVE,29,31,27,DNS 52,139,32
+GER,7047,T.Raabe,H.Kunkat,RSVW,34,30,25,DNS 52,141,33
+GER,5598,G.Reinhard,,,36,35,29,DNS 52,152,34
+GER,7327,Petra Abel,Harald Abel,DHH,38,DNF 41,31,DNS 52,162,35
+GER,7631,M.Zapp,E.Seinsche,SKGB,40,39,DNF 34,DNS 52,165,36
+GER,7587,W.Kolm,J.Huth,BCWN,DNS 52,37,32,DNS 52,173,37
+GER,7757,Mark Dieckmann,H.Kramer,NRV,32,38,DNS 52,DNS 52,174,38
+GER,7649,Matthias Kuchinke,D.Dehncke,TSVS,37,34,DNS 52,DNS 52,175,39
+GER,7130,F.Sobott,Th.Sobott,BCWN,39,36,DNS 52,DNS 52,179,40
+GER,7229,D.Freye,U.Joost,SVSS,33,DSQ 43,DNS 52,DNS 52,180,41
+GER,5779,J.Hinnen,J.Norder,BCWN,DNS 52,33,DNS 52,DNS 52,189,42
+GER,1537,K.Ziemer,E.Gronwald,,41,DNS 52,DNS 52,DNS 52,197,43

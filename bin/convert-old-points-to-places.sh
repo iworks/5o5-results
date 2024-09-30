@@ -6,7 +6,12 @@ if [ $# -ne 1 ]; then
 fi
 FILE=${1}
 
-echo ${FILE}
+echo File: ${FILE}
+
+TF=$(mktemp /tmp/505.XXXXXXXXX)
+echo "COPY: $TF"
+
+cp ${FILE} ${TF}
 
 perl -pi -e 's/bgcolor="#FFFF99"/bgcolor="#ff9"/g' ${FILE}
 

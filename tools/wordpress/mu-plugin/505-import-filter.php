@@ -7067,7 +7067,7 @@ class iworks_5o5_upload_fixer {
 		'Stefan Kochlin'              => 'Stefan Köchlin',
 		'Stefan Koechlin'             => 'Stefan Köchlin',
 		'Stefan Krause'               => 'Stephan Krause',
-		'Stefan Rueger'               => 'Stephan Rueger',
+		'Stefan Rueger'               => 'Stephan Rüeger',
 		'Stefan Schollhauer'          => 'Stefan Schollmayer',
 		'Stefan Schollmeyer'          => 'Stefan Schollmayer',
 		'Stefan Sjostrom'             => 'Stefan Sjöström',
