@@ -683,7 +683,9 @@ if ( $import_registry && ( $handle = fopen( $data_root . '/' . $import_config['b
  * [14] => iworks_fleet_serie
  * [15] => iworks_fleet_result_location
  * [16] => country
- * [17] => iworks_fleet_result_columns
+ * [17] => date
+ * [18] => source
+ * [19]+ => iworks_fleet_result_columns
  */
 $fields = array(
 	0  => 'iworks_fleet_result_date_start',
@@ -704,7 +706,8 @@ $fields = array(
 	15 => 'iworks_fleet_result_location',
 	16 => 'country',
 	17 => 'iworks_fleet_result_date_added',
-	18 => 'iworks_fleet_result_columns',
+	18 => 'iworks_fleet_result_date_source',
+	19 => 'iworks_fleet_result_columns',
 );
 if ( $import_results && ( $handle = fopen( $data_root . '/' . $import_config['events'], 'r' ) ) !== false ) {
 	$series = array();
