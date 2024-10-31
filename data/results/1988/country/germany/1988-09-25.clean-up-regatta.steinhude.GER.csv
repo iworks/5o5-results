@@ -1,0 +1,38 @@
+Country,Boat Number,Helm,Crew,Club,Race 1,Race 2,Race 3,Points Netto,Place
+GER,7955,Gunter Froese,Carl Riebe,EStM/HYC.,1,1,1,0,1
+GER,8075,Hauke Rathjens,Frank Uhlemann,KYC,5,3,2,"9,5",2
+GER,8002,Harald Busch,Peter Micke,SCMS,2,4,5,"10,6",3
+GER,8109,Bernd Kowalzig,Claus Tiedemann,SCB,10,6,4,20,4
+GER,7597,Carl-Peter Forster,Anselm Bracht,BYC,4,11,6,21,5
+GER,7732,Dirk Kuhnhenn,Till Reckert,YCH,7,5,12,24,6
+GER,7548,H. Heydelmann,Chr. Heydelmann,SVIe,11,7,7,25,7
+GER,8065,Hans-Georg Joost,Ulrich Joost,SVSS,DNF,2,3,26,8
+GER,8163,Stefan Pavel,Marin Bernauer,RSVW,12,9,8,29,9
+GER,8118,Stefan Schollmayer,Martin Eckel,Salsp,8,8,13,29,10
+GER,8128,Hartwig Friederichs,D. Weishaupt,KYC,9,17,18,44,11
+GER,7781,Andreas Thomsen,Reinhard Schultz,RVE,13,12,21,46,12
+GER,7957,Ralf-Joachim Stoll,Robert Wisolek,SCSaar,DNF,15,11,"47,5",13
+GER,7747,Gernot Meyer,Joachim Bobbert,"EKSG,WSB. ",DNF,19,9,"49,5",14
+GER,6*,Jens Hartwig,Rainer Kremkow,TEC,DNF,20,15,"56,5",15
+FRA,794*,Ines Rösler,J. v. Kampen,HSC,DNF,16,19,"56,5",16
+GER,8149,W. Wohlgemuth,Chr. Vcgeser,SCIM,14,25,20,59,17
+GER,7970,Kai Löblein,Stefan Waskönig,YCHu,DNF,22,17,"60,5",18
+GER,7539,Wolfgang Thieschäfer,Elke Thieschäfer,YCZ,DNS,10,10,64,19
+GER,7693,Tim Böger,Klaus Stammerjohann,HSC/WSCW.,6,14,DNS,64,20
+GER,8150,Werner Lange,Rolf Bertenrath,,DNF,21,27,"69,5",21
+GER,7298,Heiko Bühring,St. Gronewald,YCZ,DNF,23,26,"70,5",22
+GER,7674,Gerhard Meyer,L. Meier,SVSS/GSC.,DNS,13,16,73,23
+GER,7444,Achia Funk,Friedrich Funk,SVPb,DNS,24,14,82,24
+GER,7855,Jens-Peter Schlomka,Norman Schlomka,TSVS,DNS,18,23,85,25
+GER,7589,Adalbert Kluck,Gerhard Schmidt,TSVS,3,DNS,DNS,"90,9",26
+GER,7037,Mechthild Bruns,Claus Bornhorst,TSVS,DNS,27,22,93,27
+GER,7327,Petra Abel,Harald Abel,Efai,DNS,29,24,97,28
+GER,6165,O. Thedinga,R. Engelmann,YCA,DNS,28,25,97,29
+GER,6685,Thomas Zager,Andreas Kleist,ESV,DNF,DNS,DNS,"109,5",30
+GER,7443,Anton Hölscher,Frank Hölscher,BCIer,DNF,DNS,DNS,"109,5",31
+GER,7550,André Zander,Peer Jenssen,Elle*,DNF,DNS,DNS,"109,5",32
+GER,7745,Fritz Sobott,Thomas Sobott,BO*,DNF,DNS,DNS,"109,5",33
+GER,7893,Axel Lenderoth,Jo Ellerbeck,SVW,DNF,DNS,DNS,"109,5",34
+GER,8005,Berend Terveer,Ulrich Ellenbeck,ASViK,DNF,DNS,DNS,"109,5",35
+GER,7659,L. Köhler,H. Busch,SKM,DNF,26,DNS,114,36
+GER,7462,D. Keller,R. Bialek,SVK,DNF,30,DNS,118,37
