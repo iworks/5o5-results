@@ -1,0 +1,55 @@
+Country,Boat Number,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Boat Name,Points Total,Points Netto,Place
+GER,8156,Torsten Röder,Sven Ebeling,RTGW,[10],8,1,1,,,8,1
+GER,8155,Carsten Hammer,Rolf Meyer,TSVS,2,2,[9],7,,,"10,2",2
+GER,8226,Tim Böger,Klaus Stammerjohann,"HSC,WSCW",6,3,[37],2,,,"10,5",3
+GER,8227,Stefan Lange,Holger Jess,WSCW,5,1,[11],8,,,13,4
+GER,9*,Carl-Peter Forster,Anselm Bracht,BTC,1,7,7,[DNF],,,14,5
+GER,7589,Adalbert Kluck,Gerhard Schmidt,TSVS,3,6,10,[DNS],,,"18,9",6
+GER,8163,Stefan Pavel,Marin Bernauer,RSVW,[20],9,6,6,,,21,7
+GER,6611,Franco Weichel,Hasso Hoffmeister,HSC,12,[21],8,3,,,"22,9",8
+GER,8075,Hauke Rathjens,Frank Uhlemann,KYC,4,[DNS],2,19,,,"24,6",9
+GER,8109,Bernd Kowalzig,Claus Tiedemann,5C13,13,11,[16],4,,,28,10
+GER,8188,Brigitte Preuss,Rolf Bertenrath,"50,1",9,12,[15],9,,,30,11
+GER,8128,Hartwig Friederichs,Jens Weishaupt,KYC,15,4,[22],12,,,31,12
+GER,8166,Rudolf Baalmann,Ulrike Janßen,WSVB,[30],16,5,15,,,36,13
+GER,7781,Andreas Thomsen,Reinhard Schultz,RVE,8,5,24,[DNS],,,37,14
+GER,7957,Ralf-Joachim Stoll,Sebastian Dörr,SCSaar,29,[32],4,5,,,38,15
+GER,8127,Jürgen Eigenbrod,Kai Jeschke,RSVW,11,10,[20],17,,,38,16
+GER,7970,Kai Löblein,Thomas Rupp,YCHO,[24],19,3,18,,,"39,9",17
+GER,7451,Ewald Brzoska,Thomas Cramer,YCW,[17],15,17,10,,,42,18
+GER,7963,Dietrich Kirchner,Till Reckert,"SVVIU,SCM",16,[25],18,13,,,47,19
+GER,7778,Thomas Schmidt,Wolfgang Stückl,OTYC,19,18,[21],14,,,51,20
+GER,7855,Jens-Peter Schlomka,Norman Schlomka,,7,13,35,[DNS],,,55,21
+GER,8235,Axel Lenderoth,Jo Ellerbeck,SVW,14,14,29,[DNS],,,57,22
+GER,7908,J.Dähne,B.Vierth,YCS,23,23,12,[DNS],,,58,23
+GER,7860,Harald Wefers,Stefan Köchlin,SKF,33,[DNS],19,11,,,63,24
+GER,7851,Lars Wille Jensen,Lau Wogelius,H5.801,28,30,14,[DNS],,,70,25
+GER,6770,Karl-Heinz Hilgers,Wolfgang Bogacki,"50,1",22,24,25,[DNS],,,"71,3",26
+GER,7550,André Zander,Peer Jenssen,ETvF,28,17,27,[DNS],,,"72,3",27
+GER,8224,Thomas Zager,Andreas Kleist,SSV,[32],28,23,22,,,73,28
+GER,7691,Ulrich Müller-Menzel,Michael Kieselowa,wSRM,21,22,31,[DNS],,,74,29
+GER,8225,Engelbert Theben,L.Roters,BorSC,27,26,[DNS],25,,,78,30
+GER,8205,K.Klepe,Thomas Sobott,BCWN,[41],33,36,16,,,85,31
+GER,7549,Peter Gerdts,A.Gerdts,SVC,[36],36,28,24,,,88,32
+GER,794*,Ines Rösler,J.v.Kampen,HSC,37,[DNF],33,21,,,91,33
+GER,6*,Jens Hartwig,Rainer Kremkow,TSC,[40],35,34,23,,,92,34
+GER,6974,Jobst von Werder,Rolf Stiefel,TOC,35,27,30,[DNS],,,92,35
+GER,7861,R.Priegann,Axel Priegann,RSVW,18,20,[DNS],DNS,,,96,36
+GER,7462,D. Keller,R. Bialek,SVK,[42],38,39,27,,,104,37
+GER,7659,L. Köhler,H. Busch,SKM,38,DNF,28,[DNS],,,105,38
+GER,7037,Mechthild Bruns,Claus Bornhorst,,DNF,[DNS],40,20,,,"108,5",39
+GER,7942,Martin Kehr,Alexander Morgenstern,HSC,25,29,[DNS],DNS,,,112,40
+GER,6870,Georg Mittermayer,Lutz Lerche,LYC,43,[DNS],44,26,,,113,41
+GER,7955,Holger Franke,Arne Mußbach,TSVS,[DNS],DSQ,13,DNS,,,115,42
+GER,7539,Wolfgang Thieschäfer,Elke Thieschäfer,YCZ,DNF,31,38,[DNS],,,"117,5",43
+GER,8005,Berend Terveer,Ulrich Ellenbeck,ASV1K,31,[DNS],32,DNS,,,121,44
+GER,7746,A.TIrre,M.Saffenreuter,YCZ,DNF,37,43,[DNS],,,"128,5",45
+GER,7444,Achia Funk,Friedrich Funk,SVPb,39,34,[DNS],DNS,,,131,46
+GER,7443,Fank Hölscher,Th.Schön,BCWN,DNF,[DNS],41,DNS,,,"147,5",47
+GER,7893,Dietze,,,45,[DNS],45,DNS,,,148,48
+GER,7327,Petra Abel,Harald Abel,"DHH,SSGM",DNF,[DNS],42,DNS,,,"148,5",49
+GER,7354,Jörg Hinnen,Jonny Norder,BONN,34,[DNS],DNS,DNS,,,150,50
+GER,8002,Harald Busch,Peter Micke,SCMS,[DNS],DNF,DNS,DNS,,,157,51
+GER,8236,H.-A.Nöldeke,O.Engelhardt,,[DNS],DNF,DNS,DNS,,,157,52
+GER,7324,G.Webske,H.Kleine,PySC,44,[DNS],DNS,DNS,,,160,53
+GER,7782,Kai Mares,Axel Seemann,SCEI,DNF,[DNS],DNS,DNS,,,"184,5",54
