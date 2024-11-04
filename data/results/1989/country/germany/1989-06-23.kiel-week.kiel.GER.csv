@@ -2,7 +2,7 @@ Country,Boat Number,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Points Tot
 GBR,8167,Graham Bailey,Bill Masterman,NSC,8,3,1,1,4,"27,7","13,7",1
 GBR,8245,David Peacock,Steve Peters,BSC,2,4,4,2,DNF,63,22,2
 FIN,8229,Hannu Merikallio,Tom Lindström,HSS,1,5,6,5,2,"34,7",23,3
-GER,8156,Torsten Reeder,Sven Ebeling,RTGU,9,2,PMS,3,3,"70,4","29,4",4
+GER,8156,Torsten Röder,Sven Ebeling,RTGU,9,2,PMS,3,3,"70,4","29,4",4
 FIN,7935,Kimmo Lautanen,Jarkko Niemi,SPS,3,8,3,9,5,"50,4","35,4",5
 SWE,8146,Kent Högberg,Gerry Högberg,GOSS,4,7,8,8,6,"60,7","46,7",6
 GER,7781,Andreas Thomsen,Reinhard Schultz,RVE,10,10,7,6,7,"69,7","53,7",7
@@ -13,7 +13,7 @@ GER,8188,Brigitte Preuss,Rolf Bertenrath,DSCU,12,9,10,11,15,87,66,11
 FIN,8054,Matti Pentti,Otto Toivanen,HSK,6,DNS,DNS,16,1,"115,7","74,7",12
 SUI,7960,René Betschen,Nicola Bart,CN8,11,18,11,17,13,100,76,13
 GER,8252,Bernd Kowalzig,Claus Tiedemann,SCB,13,11,9,21,20,104,77,14
-SUI,1*,Bart Cédric,Philippe Jacot,CVN,18,23,14,10,12,107,78,15
+SUI,1*,Cédric Bart,Philippe Jacot,CVN,18,23,14,10,12,107,78,15
 GER,7855,Jens-Peter Schlomka,Norman Schlomka,TSVS,22,15,12,18,14,111,83,16
 FIN,8053,Petri Ebeling,Esko Aho,HSK,14,16,18,13,16,107,83,17
 SUI,7899,Olivier Greber,Jean-Philippe Senn,CN8,7,19,17,20,22,115,87,18

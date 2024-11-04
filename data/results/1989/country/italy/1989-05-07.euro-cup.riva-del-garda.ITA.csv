@@ -1,0 +1,66 @@
+Country,Boat Number,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Boat Name,Points Total,Points Netto,Place
+DEN,8030,Bo Petersen,Søren Storm,,3,2,2,3,,,,"17,4",1
+DEN,8031,Lars Christensen,Jan Feddersen,,2,3,1,19,,,,33,2
+SUI,7827,Roger Oswald,Christian Wiskemann,,10,1,8,11,,,,7,3
+DEN,7956,Jørgen Schönherr,Anders Kæmpe,,1,35,4,1,,,,47,4
+GER,8227,Stefan Lange,Holger Jess,,5,12,5,21,,,,49,5
+GER,8155,Carsten Hammer,Rolf Meyer,,9,16,10,8,,,,65,6
+SUI,8100,Josef Zuppiger,Daniel Brun,,4,11,6,25,,,,67,7
+DEN,8163,Stefan Pavel,Marin Bernauer,,13,5,16,20,,,,"67,7",8
+GER,7781,Andreas Thomsen,Reinhard Schultz,,15,9,12,23,,,,77,9
+GER,8170,Markus Bohren,Beat Waser,,12,13,19,18,,,,83,10
+SUI,8108,Jørgen Holm-Nielsen,Finn Jensen,,20,7,20,16,,,,86,11
+GER,8*,Bernd Kowalzig,Claus Tiedemann,,25,10,15,14,,,,87,12
+SUI,7855,Jens-Peter Schlomka,Norman Schlomka,,17,17,9,26,,,,88,13
+GER,8101,Urs Scherrer,Roger Fischer,,18,30,23,6,,,,93,14
+SUI,8226,Tim Böger,Klaus Stammerjohann,,7,45,14,13,,,,"100,7",15
+SUI,7330,J. M Ravonel,Thomas Jundt,,11,26,17,29,,,,103,16
+GER,8114,Gerd Engel,A.Strowitzki,,30,23,31,4,,,,107,17
+DEN,8144,Arsus,Buch,,4,32,22,28,,,,110,18
+SUI,8102,Stephan Rüeger,Peter Seitz,,24,4,DNS,7,,,,"111,7",19
+GER,7963,Dietrich Kirchner,Till Reckert,,22,27,28,22,,,,123,20
+SUI,8079,Philippe Grünig,Kappeler,,32,33,36,5,,,,123,21
+SUI,8096,Alain Brasey,Christian Maegele,,29,20,25,33,,,,129,22
+FRA,7847,Francis Doerenbecher,Yvan Doerenbecher,,33,21,42,12,,,,131,23
+GER,9*,Forsier,Brachi,,8,18,DNS,17,,,,132,24
+GER,7219,Jörn Kinzel,Jef Geisler,,27,52,21,15,,,,133,25
+SUI,81*,Bari,Jacoi,,19,37,24,35,,,,139,26
+SUI,7522,Hans Spiess,Daniel Neubomm,,35,31,43,9,,,,139,27
+GER,8032,Jörn Erdmann,Sven Harder,,16,24,13,DNS,,,,142,28
+GER,7957,Ralf-Joachim Stoll,Sebastian Dörr,,26,34,18,42,,,,143,29
+GER,8002,Harald Busch,Peter Micke,,DNS,14,11,30,,,,144,30
+SUI,8003,Werner Müller,Müller,,14,8,DNS,34,,,,145,31
+GER,8128,Hartwig Friederichs,Jens Weishaupt,,DNS,53,7,2,,,,146,32
+SUI,7899,Olivier Greber,Jean-Philippe Senn,,36,20,39,31,,,,147,33
+GBR,8213,Michael Lawton,Bill Barker,,DNS,6,29,38,,,,158,34
+GER,8235,Axel Lenderoth,Jo Ellerbeck,,23,50,30,39,,,,162,35
+SUI,8097,Bordier,Bertherat,,37,25,33,48,,,,166,36
+GER,7589,Adalbert Kluck,Gerhard Schmidt,,DNS,43,3,36,,,,167,37
+SUI,7417,Antoine Ravanel,Philippe Barraud,,DNS,36,35,10,,,,169,38
+SUI,8113,Best Wernli,Zubler,,34,40,34,41,,,,171,39
+FRA,7734,Francis Macheboeuf,Eric Alard,,DNS,19,26,40,,,,173,40
+GER,7778,Thomas Schmidt,Wolfgang Stückl,,28,38,DNS,27,,,,185,41
+SUI,7960,René Betschen,Marti Ueli,,21,29,DNS,43,,,,185,42
+GER,7930,Christoph Hessel,Hans Hessel,,39,44,41,44,,,,192,43
+GER,8156,Torsten Röder,Pinko,,RET,15,27,DNS,,,,198,44
+SUI,7568,Blondel,J-M Fraqniere,,DNS,22,RET,24,,,,202,45
+GER,7037,Mechthild Bruns,Claus Bornhorst,,38,57,48,47,,,,214,46
+SUI,7620,Fierz,Fierz,,40,42,45,DNS,,,,217,47
+GER,7764,Peter Daferner,Seifert,,DNS,49,38,46,,,,223,48
+GER,8098,Elfrer,Franscisco Sanguino-Petersen,,41,59,37,RET,,,,227,49
+GER,8236,Hans-A.Nöldeke,O.Engelhardt,,DNS,47,48,45,,,,228,50
+FRA,7940,Guy De Restrepo,Galle,,DNS,39,DNS,37,,,,232,51
+SUI,7753,Streuli,Qeering,,DNS,51,44,49,,,,234,52
+GER,7444,Achia Funk,Friedrich Funk,,RET,46,49,50,,,,235,53
+FRA,7617,Mosiettler,Tissot,,DNS,40,DNS,32,,,,236,54
+GER,8118,Jürgen Feuerhake,Margit Falk,,RET,41,40,DNS,,,,237,55
+GER,7760,Hans-Albert Noeldeke,Anette Leiser,,31,DNS,RET,51,,,,238,56
+FRA,8224,Thomas Zager,Andreas Kleist,,RET,54,32,DNS,,,,252,57
+SUI,7889,Lorenz Nydegger,Lerf,,42,60,DNS,RET,,,,258,58
+SUI,7988,Jaeggi,Warttelo,,DNS,50,47,DNS,,,,261,59
+SUI,7559,Dollpefel,Imelchem,,DNS,56,DNS,52,,,,267,60
+GER,7584,Staflbauer,Fehr,,DNS,61,RET,53,,,,270,61
+SUI,7671,Mueller,Duenzuer,,DNS,55,RET,RET,,,,277,62
+GER,7747,Gernot Meyer,Joachim Bobbert,,DNS,DNS,DNS,DNS,,,,280,63
+GER,7782,Kai Mares,Jan Mares,,DNS,DNS,DNS,DNS,,,,280,64
+GER,7962,Markus Hoppe,Leitimer,,DNS,DNS,DNS,DNS,,,,280,65

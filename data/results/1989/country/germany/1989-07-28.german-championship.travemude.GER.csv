@@ -1,0 +1,57 @@
+Country,Boat Number,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Boat Name,Points Total,Points Netto,Place
+AUS,8135,Stephen McConaghy,Andrew McConaghy,05W,1,2,1,[3],1,,,"1,6",1
+GER,8227,Stefan Lange,Holger Jess,WSCV SUSI,[10],5,6,1,8,,,19,2
+AUS,7938,Neil Long,Les Evans,NSW,2,8,7,[16],3,,,"19,5",3
+GER,8032,Jörn Erdmann,Burkhard Vierth,SVWS 611562,5,1,2,22,[31],,,"28,6",4
+GER,8189,Carl-Peter Forster,Anselm Bracht,BYC 84111,11,9,5,[PMS],5,,,30,5
+GER,8118,Stefan Schollmayer,Roman Theisen,SCNSP,8,16,[27],5,4,,,33,6
+GER,8188,Brigitte Preuss,Rolf Bertenrath,DSCU KW1175,3,[18],16,13,2,,,"33,5",7
+GER,8226,Tim Böger,Klaus Stammerjohann,HSC HA1114,6,7,[18],9,12,,,34,8
+GER,8075,Hauke Rathjens,Frank Uhlemann,KYC SH117,4,3,3,[26],25,,,35,9
+GER,8155,Heinz Balters,Urs Wihlfahrt,TSVS 611125,7,6,8,[PMS],16,,,37,18
+GER,7817,Bernd Kowalzig,Claus Tiedemann,KYC SH517,13,11,12,2,[18],,,38,11
+GER,8252,Stefan Pavel,Marc Dieckemann,SCB SH814,18,7,14,6,[DNS],,,46,12
+GER,8163,Duncan Matthew,Mike Carr,RSVW SHI18,9,[22],9,21,7,,,47,13
+AUS,8218,Andreas Thomsen,Reinhard Schultz,50,19,4,13,[PMS],10,,,46,14
+GER,7781,Jürgen Eigenbrod,Kai Jeschke,RVE HA1138,14,19,11,4,[23],,,48,15
+GER,8127,Dieter Cordes,Christian Stienen,RSVW SHII8,16,10,[21],18,13,,,58,16
+GER,8121,Carsten Hammer,Dirk Kuhnhenn,CKA 144048,[31],13,11,23,11,,,58,17
+GER,8128,Hartwig Friederichs,Jens Jensen,KYC R117,15,12,28,[PMS],15,,,63,18
+SWE,7855,Jens-Peter Schlomka,Norman Schlomka,TSVS 91825,[39],17,15,25,9,,,67,19
+GER,7942,Stefan Waskönig,Martin Eckel,ETUF NW,22,[35],28,12,6,,,69,21
+GER,8865,Hans-Georg Joost,Ulrich Joost,SVSS N1184,[35],23,17,7,21,,,69,21
+GER,7778,Thomas Schmidt,Wolfgang Stückl,DITC 01114,17,24,[32],11,19,,,72,22
+SWE,8166,Rudolf Baalmann,Ulrike Janßen,WSV8 4087,12,25,25,10,[34],,,72,23
+GER,7957,Ralf-Joachim Stoll,Sebastian Dörr,SCS 911,24,[31],23,17,14,,,78,24
+SWE,7589,Adalbert Kluck,Gerhard Schmidt,TSVS 611525,29,15,4,31,[38],,,78,25
+SUI,8196,Cédric Bart,Nicolas Bart,CNB,23,27,[30],8,26,,,84,26
+GER,7451,Ewald Brzoska,Thomas Cramer,YCI1 NW1119,[26],26,24,20,17,,,87,27
+GER,7219,Jörn Kinzel,Ulf Geissler,SCO 81122,32,14,19,[PMS],22,,,87,28
+GER,7963,Dietrich Kirchner,Till Reckert,SVWV 11145,25,21,22,27,[29],,,91,29
+GER,7996,Jens Hartwig,Hasso Hoffmeister,ISC 8882,25,28,31,14,[DNF],,,99,31
+GER,8224,Thomas Zager,Andreas Kleist,BSV 58I52,27,28,[33],29,24,,,111,31
+GER,8235,Axel Lenderoth,Jo Ellerbeck,SVV 8R111,33,[38],26,35,27,,,116,32
+GER,7354,Jörg Hinnen,Jonny Norder,RUN NI29,28,[41],35,15,39,,,117,33
+GER,8002,Harald Busch,Peter Micke,SCMS N0I57,21,[PMS],DNF,28,21,,,129,34
+GER,8005,Berend Terveer,Ulrich Ellerbeck,TSVS SH125,34,34,29,[37],28,,,126,35
+GER,7674,Gerhard Meyer,Lars Meier,SVSS 8884,[37],32,37,24,35,,,128,36
+GER,8236,Hans-A.Nöldeke,Annette Leiser,SVE 80129,41,41,[48],19,36,,,136,37
+GER,7970,Kai Löblein,Thomas Rupp,YCHO 88823,35,38,34,[PMS],33,,,142,38
+GER,8205,Knut Kiepe,Thomas Sobott,BUM N129,[42],36,39,34,38,,,147,39
+GER,8225,Engelbert Theben,Ralf Krüger,BORSC,[49],37,41,38,45,,,149,41
+GER,6974,Jobst von Werder,Rolf Stiefel,He HA,41,29,[DNF],PMS,32,,,153,41
+GER,7854,Klaus Eifler,Franscisco Sanguino-Petersen,SVP8 88153,45,39,36,41,[DNF],,,161,42
+GER,7819,Heinrich Tetzlaff,Andreas Ludwig,LYC SH838,44,43,38,38,[46],,,164,43
+GER,6838,Ernst Pöckl,Karin Pöckl,SSC BA,36,46,41,[DNS],37,,,166,44
+SWE,8150,Werner Lange,Peter Bergauer,DHH-44873,[47],44,45,36,41,,,166,45
+GER,8148,Günter Kerkloh,Oliver Huschke,SVOS BA119,43,42,43,[DNF],43,,,172,46
+GER,7443,Frank Hölscher,Thorsten Schön,BCWN 6129,[52],50,45,33,48,,,172,47
+GER,6870,Georg Mittermayer,Lutz Lerche,LYC S14138,[DNF],45,YMP,32,44,,,173,48
+GER,7037,Mechthild Bruns,Claus Bornhorst,TSVS SH125,46,47,[49],39,42,,,174,49
+GER,7587,Andre Tirre,Michael Saffenreuter,BCWN,58,49,42,[DNF],45,,,183,58
+GER,7746,Jan Peter Stölken,Lars Hidde,YCI 6151,[51],51,46,48,47,,,185,51
+GER,6681,Kai Mares,Axel Seemann,ASC,38,48,44,[DNS],DNS,,,186,52
+GER,7782,Dirk Kuhnhenn,Wolfgang Wilde,SCB 514114,[DNF],33,DNF,DNS,DNS,,,195,53
+GER,7732,Harald Wefers,Stefan Köchlin,YCH N8098,48,[DNS],DNS,DNS,DNS,,,217,54
+GER,7860,Ulrich Müller-Menzel,Michael Kieselowa,,[DNS],DNS,DNS,DNS,DNS,,,224,55
+GER,7691,Walter Kolm,Jörg Huth,WSRM SH/91,[DNS],DNS,DNS,DNS,DNS,,,224,55

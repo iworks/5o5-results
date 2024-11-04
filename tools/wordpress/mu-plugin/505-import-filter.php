@@ -50,7 +50,7 @@ class iworks_5o5_upload_fixer {
 			'Barrows' => 'Thomas Barrows',
 		),
 		array(
-			'Bart'  => 'Bart Cédric',
+			'Bart'  => 'Cédric Bart',
 			'Marti' => 'Marti Ueli',
 		),
 		array(
@@ -1710,7 +1710,7 @@ class iworks_5o5_upload_fixer {
 			'Dehne'    => 'Lars Derschotte Dehne ',
 		),
 		array(
-			'Bart' => 'Bart Cédric',
+			'Bart' => 'Cédric Bart',
 			'Senn' => 'Jean-Philippe Senn',
 		),
 		array(
@@ -1894,12 +1894,12 @@ class iworks_5o5_upload_fixer {
 			'A Achterberg' => 'Andréas Achterberg',
 		),
 		array(
-			'B. Cedric' => 'Bart Cédric',
+			'B. Cedric' => 'Cédric Bart',
 			'M. Veli'   => 'Marti Ueli',
 		),
 		array(
 			'F. Doernbecher'  => 'Francis Doerenbecher',
-			'I. Doerenbecher' => 'Ivan Doerenbecher',
+			'I. Doerenbecher' => 'Yvan Doerenbecher',
 		),
 		array(
 			'F Doerenbecher' => 'Francis Doerenbecher',
@@ -1907,11 +1907,11 @@ class iworks_5o5_upload_fixer {
 		),
 		array(
 			'F Doerenbecher' => 'Francis Doerenbecher',
-			'I Doerenbecher' => 'Ivan Doerenbecher',
+			'I Doerenbecher' => 'Yvan Doerenbecher',
 		),
 		array(
 			'F. Doerenbecher' => 'Francis Doerenbecher',
-			'I. Doerenbecher' => 'Ivan Doerenbecher',
+			'I. Doerenbecher' => 'Yvan Doerenbecher',
 		),
 		array(
 			'Doerenbecher' => 'Francis Doerenbecher',
@@ -4210,8 +4210,8 @@ class iworks_5o5_upload_fixer {
 		'Barry Alex'                  => 'Alex Barry',
 		'Barry Ewen'                  => 'Ewen Barry',
 		'Barry Keuhl'                 => 'Barry Kuehl',
-		'Bart Cederic'                => 'Bart Cédric',
-		'Bart Cedric'                 => 'Bart Cédric',
+		'Bart Cederic'                => 'Cédric Bart',
+		'Bart Cedric'                 => 'Cédric Bart',
 		'Bart Hakworth'               => 'Bart Hackworth',
 		'Bart Meyndonck'              => 'Bart Meynendonckx',
 		'Bartek Chroł'                => 'Bartosz Chroł',
@@ -4354,7 +4354,7 @@ class iworks_5o5_upload_fixer {
 		'Bonnet Michel'               => 'Michel Bonnet',
 		'Boonen Ronald Vanthoor'      => 'Ronald Vanthoor Boonen',
 		'Bories Pierre'               => 'Pierre Bories',
-		'Bort Cedric'                 => 'Bart Cédric',
+		'Bort Cedric'                 => 'Cédric Bart',
 		'Borys Herrmann'              => 'Boris Herrmann',
 		'Bos Antoine'                 => 'Antoine Bos',
 		'Bos Jerome'                  => 'Jerome Bos',
@@ -4467,7 +4467,7 @@ class iworks_5o5_upload_fixer {
 		'Catherine Viechnicki'        => 'Katherine Viechnicki',
 		'Catrix Marie Agnes'          => 'Marie Agnes Catrix',
 		'C.Bath'                      => 'Christer Båth',
-		'Cedric Bart'                 => 'Bart Cédric',
+		'Cedric Bart'                 => 'Cédric Bart',
 		'Cedric Crets'                => 'Cédric Crets',
 		'Cerjat Jeanfrancois De'      => 'Jean-Francois de Cerjat',
 		'Cesare Giogetti'             => 'Cesare Giorgetti',
@@ -4823,7 +4823,7 @@ class iworks_5o5_upload_fixer {
 		'Doerenbecher Aubin'          => 'Aubin Doerenbecher',
 		'Doerenbecher Franci'         => 'Francis Doerenbecher',
 		'Doerenbecher Francis'        => 'Francis Doerenbecher',
-		'Doerenbecher Ivan'           => 'Ivan Doerenbecher',
+		'Doerenbecher Ivan'           => 'Yvan Doerenbecher',
 		'Doerr Sebastian'             => 'Sebastian Dörr',
 		'Dogulas Hagan'               => 'Douglas Hagan',
 		'Doisenbenger Michael'        => 'Michael Daisenberger',
