@@ -15,6 +15,22 @@
  *
  */
 
+$time_start = array(
+	'total'   => microtime( true ),
+	'sailors' => array(
+		'begin' => 0,
+		'end'   => 0,
+	),
+	'boats'   => array(
+		'begin' => 0,
+		'end'   => 0,
+	),
+	'events'  => array(
+		'begin' => 0,
+		'end'   => 0,
+	),
+);
+
 require 'functions.php';
 
 $data_root = $root . '/data';
@@ -118,7 +134,8 @@ if ( 2 < count( $argv ) ) {
  * import sailors
  */
 if ( $import_sailors && ( $handle = fopen( $data_root . '/' . $import_config['sailors'], 'r' ) ) !== false ) {
-	$counter = 0;
+	$time_start['sailors']['begin'] = microtime( true );
+	$counter                        = 0;
 	echo PHP_EOL,'IMPORT: ' . $import_config['sailors'],PHP_EOL;
 		/**
 		 * Fields:
@@ -219,6 +236,7 @@ if ( $import_sailors && ( $handle = fopen( $data_root . '/' . $import_config['sa
 		}
 		$counter++;
 	}
+	$time_start['sailors']['end'] = microtime( true );
 }
 
 /**
@@ -227,6 +245,7 @@ if ( $import_sailors && ( $handle = fopen( $data_root . '/' . $import_config['sa
 $counter = 0;
 $rows    = array();
 if ( $import_registry && ( $handle = fopen( $data_root . '/' . $import_config['boats'], 'r' ) ) !== false ) {
+	$time_start['boats']['begin'] = microtime( true );
 	echo PHP_EOL,'IMPORT: ',$import_config['boats'],PHP_EOL;
 	$counter = 0;
 	while ( ( $data = fgetcsv( $handle, 0, ',' ) ) !== false ) {
@@ -315,7 +334,7 @@ if ( $import_registry && ( $handle = fopen( $data_root . '/' . $import_config['b
 					continue;
 				}
 				if ( 'iworks_fleet_boat_last_update' === $key ) {
-					$$key = strtotime( int505_import_fix_year($$key) );
+					$$key = strtotime( int505_import_fix_year( $$key ) );
 				}
 				$post['meta_input'][ $key ] = $$key;
 			}
@@ -659,6 +678,7 @@ if ( $import_registry && ( $handle = fopen( $data_root . '/' . $import_config['b
 	$update_terms   = get_terms( $get_terms_args );
 	wp_update_term_count_now( $update_terms, $taxonomy_name_manufacturer );
 	fclose( $handle );
+	$time_start['boats']['end'] = microtime( true );
 }
 
 /**
@@ -710,7 +730,8 @@ $fields = array(
 	19 => 'iworks_fleet_result_columns',
 );
 if ( $import_results && ( $handle = fopen( $data_root . '/' . $import_config['events'], 'r' ) ) !== false ) {
-	$series = array();
+	$time_start['results']['begin'] = microtime( true );
+	$series                         = array();
 	echo PHP_EOL,'IMPORT: ' . $import_config['events'],PHP_EOL;
 	if ( $one_file ) {
 		echo 'FILE:   ' . $one_file,PHP_EOL;
@@ -747,7 +768,7 @@ if ( $import_results && ( $handle = fopen( $data_root . '/' . $import_config['ev
 		 * check exit parsing
 		 */
 		if ( 'exit' === $post_title ) {
-			echo 'exit detected' . PHP_EOL;
+			echo 'Results data - the exit detected.' . PHP_EOL;
 			break;
 		}
 		/**
@@ -946,6 +967,24 @@ if ( $import_results && ( $handle = fopen( $data_root . '/' . $import_config['ev
 		}
 		echo PHP_EOL;
 	}
+	$time_start['results']['end'] = microtime( true );
+}
+//execution time of the script
+printf(
+	'Total Execution Time: %d secounds.%s',
+	microtime( true ) - $time_start['total'],
+	PHP_EOL
+);
+foreach ( $time_start as $key => $one ) {
+	if ( ! is_array( $one ) ) {
+		continue;
+	}
+	printf(
+		' - %d - %s%s',
+		$time_start[ $key ]['end'] - $time_start[ $key ]['begin'],
+		$key,
+		PHP_EOL
+	);
 }
 
 echo PHP_EOL,PHP_EOL;
