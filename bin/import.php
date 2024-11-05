@@ -970,6 +970,8 @@ if ( $import_results && ( $handle = fopen( $data_root . '/' . $import_config['ev
 	$time_start['results']['end'] = microtime( true );
 }
 //execution time of the script
+echo PHP_EOL;
+echo PHP_EOL;
 printf(
 	'Total Execution Time: %d secounds.%s',
 	microtime( true ) - $time_start['total'],
@@ -980,7 +982,7 @@ foreach ( $time_start as $key => $one ) {
 		continue;
 	}
 	printf(
-		' - %d - %s%s',
+		' - %d secounds - %s%s',
 		$time_start[ $key ]['end'] - $time_start[ $key ]['begin'],
 		$key,
 		PHP_EOL
