@@ -981,6 +981,9 @@ foreach ( $time_start as $key => $one ) {
 	if ( ! is_array( $one ) ) {
 		continue;
 	}
+	if ( 0 === ( intval( $time_start[ $key ]['end'] ) - intval( $time_start[ $key ]['begin'] ) ) ) {
+		continue;
+	}
 	printf(
 		' - %d secounds - %s%s',
 		$time_start[ $key ]['end'] - $time_start[ $key ]['begin'],
