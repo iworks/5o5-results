@@ -1,0 +1,71 @@
+Nat,Sail No,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,State,Pts,Pos
+USA,9262,Howard Hamlin,Andy Zinn,NHYC,1,[8],8,1,2,2,CA,14,1
+USA,9072,Mike Holt,Carl Smit,SCYC,3,5,3,2,[RAF],3,Nevada,16,2
+AUS,9191,Malcolm Higgins,Angus Higgins,BSYC,[9],1,2,5,8,4,SA,20,3
+AUS,9194,Robin Deussen,David Snoad,ASC,5,2,[9],4,3,8,SA,22,4
+GBR,9253,Nathan Batchelor,Sam Pascoe,Tynemouth Sailing Club,2,[6],6,3,5,6,Tyne and Wear,22,5
+AUS,8801,Peter Nicholas,Luke Payne,RFBYC,13,4,4,[15],1,1,WA,23,6
+USA,9106,Mike Martin,Adam Lowry,StFYC,6,3,5,7,[9],7,CA,28,7
+AUS,9272,Sandy Higgins,Paul Marsh,B&SYC,8,[15],1,11,4,5,SA,29,8
+GBR,9238,Ian Pinnell,Charles Dwyer,HISC,4,11,[21],10,6,18,Northampton,49,9
+FRA,9270,Philippe Boite,Marin Carnot,CVSQ,11,7,11,[14],12,9,FRANCE,50,10
+USA,9248,Nic Baird,Eric Anderson,StFYC,10,14,13,[17],7,13,California,57,11
+GBR,9229,Michael Wilson,Stu Bithell,IoMYC,7,17,7,16,[28],14,Isle Of Man,61,12
+AUS,9254,Mark Stowell,Jake Bessen,RFBYC,[23],20,10,19,14,11,WA,74,13
+AUS,9134,Chris Nicholson,Charlie Wyatt,LMYC,17,12,[25],21,17,10,NSW,77,14
+GER,9258,Alexander Holzapfel,Arne Wittemer,PSK,[22],21,17,12,15,19,Berlin,84,15
+DEN,9244,Jan Saugmann,Nick Johnston,HSC,20,19,[26],6,21,20,Hovedstaden,86,16
+AUS,8759,Tom Stivano,Simon Burt,B16YC,18,[25],22,9,22,16,NSW,87,17
+GBR,8760,Terry Scutcher,Daniel Roos,CYCA,15,27,15,[36],18,15,ACT,90,18
+AUS,9209,Alexandra Alder,Marcus Cooper,HSC,14,9,28,20,[30],24,SA,95,19
+AUS,9018,Alex Blacker,Jesse Mitton,ASC,12,13,29,[30],23,23,SA,100,20
+AUS,9263,Michael Quirk,Cameron McDonald,,[45],34,16,8,13,32,NSW,103,21
+AUS,8794,Michael Babbage,James McAllister,NC YC,31,22,[36],23,19,12,NSW,107,22
+GER,9260,Tim Boeger,Finn Boeger,HSC,24,[42],24,25,10,26,Hamburg,109,23
+USA,9252,Douglas Hagan,Ho Nalu,PCYC,29,16,[44],22,29,17,HI,113,24
+Aus,9061,Kevin Cameron,Sam Heritage,DPSS,30,[41],12,31,11,30,Qld,114,25
+FRA,9147,Herve de Kergariou,Geraud Lafortune,YCF,26,[38],14,33,26,21,Brittany,120,26
+AUS,8817,Michael Duffield,Anthony Gaunt,FSC,[38],33,32,13,16,28,WA,122,27
+GER,9197,Nicola Birkner,Angela Stenger,VSaW,25,28,[37],18,32,22,Bundesstaat,125,28
+GER,9070,Stefan Koechlin,Andreas Achterberg,SVS,43,10,33,28,20,[DNF],Deutschland,134,29
+GER,9198,Micki Daisenberger,Johannes Tellen,DTYC,19,18,19,35,45,[RET],Bavaria,136,30
+AUS,9264,Nicholas Mariani,Alexander Thomson,FSC,34,29,20,26,[40],34,WA,143,31
+USA,8937,Tim Murphy,Paul Von Grey,SCYC,21,26,30,29,37,[43],California,143,32
+AUS,8809,Justin Carey,Chris Carey,DPSS,48,24,23,[59],24,27,QLD,146,33
+AUS,8781,Chris Gregg,Ian Gregg,DPSS,27,35,27,24,[41],35,QLD,148,34
+USA,8576,Mike Punnett,Blaine Pedlow,PCYC,16,37,[45],38,25,39,Idaho,155,35
+AUS,8644,Ayden Menzies,Adam Wyatt,TBC,33,36,18,[39],34,36,NSW,157,36
+AUS,9265,Carter Jackson,Will MacDonald,MSC,36,23,39,[45],35,31,NSW,164,37
+USA,8786,Luke Ingalls,John Ingalls,SYC,[50],32,35,47,39,33,Rhode Island,186,38
+AUS,8891,Neil How,Zoe How,HSC,[53],31,40,50,38,29,SA,188,39
+AUS,9205,Edward Cox,Peter Nicholson,CYCA,[NSC],55,34,32,31,37,NSW,189,40
+AUS,8796,Owen Vale,Quinn Andrew,RPAYC,52,[57],38,34,27,46,NSW,197,41
+AUS,9192,Finlay Crisp,Tom Alder,ASC,[NSC],52,50,44,36,25,SA,207,42
+AUS,8886,Tony Turton,David Clayton,BSYC,[49],40,41,41,47,40,SA,209,43
+AUS,8589,Brooke Jones,Brian Jones,HSC,28,49,51,[57],44,41,SA,213,44
+USA,9083,Aaron Ross,Rob Waterman,ABYC,37,54,31,51,42,[DNF],California,215,45
+AUS,8946,Ryan Kelly,Harry Mitton,ASC & WSC,40,39,54,37,46,[RET],SA,216,46
+AUS,9213,Ian Burford,David Christie,DPSS,[NSC],47,46,40,48,38,SA,219,47
+AUS,9223,Damien Carey,David Ottaway,HSC,35,[61],43,48,53,42,SA,221,48
+AUS,8840,Michael Gallagher,Matt Brooman,WSC,39,48,42,55,43,[RET],NSW,227,49
+AUS,9257,Nigel Lott,Bob Franks,DPSS,32,[DNS],65,27,33,DNF,QLD,228,50
+AUS,8893,Ryan Menzies,Lucas Geddes,WASC,42,44,[DNS],43,49,55,NSW,233,51
+Aus,8797,Aussie Higgins,Jarrod Hazell,FSC,[NSC],46,47,49,57,45,WA,244,52
+AUS,9071,Richard Hyde,Lindsay Gilbert,DPSS,[NSC],45,53,52,55,49,QLD,254,53
+AUS,8626,Scott Lidgett,Ben O'Brien,DBYC,44,51,56,54,[58],51,VIC,256,54
+AUS,8839,Robin Cross,Tim Griffin,BSYC,41,30,DNS,53,66,[DNS],SA,261,55
+AUS,8739,Richard Batten,Jamie Batten,HSC,46,60,49,60,[63],47,VIC,262,56
+AUS,8968,Luke Abbott,Kieren Abbott,FSC,51,63,[64],42,56,52,WA,264,57
+GER,8884,Frank Weigelt,Nathan de Vries,DTYC,47,56,60,[62],50,53,Munich,266,58
+AUS,8639,Brian Pike,Riley Pike,GSC,[NSC],53,48,58,54,54,NSW,267,59
+GER,9074,Mirco Gantenberg,Jacob Niewiarra,HSC,[NSC],43,55,65,51,60,Herne,274,60
+AUS,8855,Andrew Cawley,Patrick Attwell,RFBYC,[DNS],58,52,56,61,48,WA,275,61
+AUS,9017,Roger Pell,Byron Maverick,RFBYC/ FSC,57,59,57,46,[60],57,WA,276,62
+AUS,9037,Peter Croft,Gary Rushton,SYC,TLE,[64],58,63,59,56,QLD,295,63
+GER,8682,Anna Hauschild,Julia Achterberg,SCSeV,54,RET,DNC,DNS,52,50,Berlin,298,64
+AUS,881,Joshua Till,Ashlie Duffield,FSC/SoPYC,55,[65],59,61,65,58,WA,298,65
+AUS,8667,Grant Abbott,Matthew Till,FSC/MOFSC,56,62,62,[64],62,59,WA,301,66
+AUS,9115,Steve Howden,Jeremy Kerrisk,PMYC,[NSC],50,61,67,67,RET,VIC,316,67
+AUS,9022,Martin Smith,Sam Byass,HSC,[DNS],66,63,66,64,61,SA,320,68
+AUS,9273,Matt Hansen,Shane Attwell,FSC,[DNS],DNC,DNC,DNC,DNC,44,WA,328,69
+AUS,9136,Cullen Hughes,Paul Rees,BSC,[DNS],DNC,DNC,DNC,DNC,DNC,NSW,355,70
