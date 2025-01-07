@@ -1,0 +1,47 @@
+Country,Sail Number,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Race 7,Race 8,Race 9,State,Extra,Total,Netto,Place
+AUS,8801,Peter Nicholas,Luke Payne,RFBYC/GKSS/EFYC,1,1,1,[8],3,2,1,[6],3,WA,,26,12,1
+AUS,9272,Sandy Higgins,Paul Marsh,B&SYC,2,[3],2,2,1,3,[5],1,2,SA,Master Crew,21,13,2
+AUS,9134,Chris Nicholson,Charlie Wyatt,LMYC,3,[7],3,[5],4,1,2,3,1,NSW,,29,17,3
+AUS,9194,Robin Duessen,David Snoad,ASC,4,2,8,3,2,[47 DNS],[10],4,6,SA,Master Helm/Master Crew,86,29,4
+AUS,9191,Malcolm Higgins,Angus Higgins,BSYC,[18],4,[10],1,9,6,7,2,4,SA,,61,33,5
+AUS,8794,Michael Babbage,James McAllister,NC YC,7,[16],4,[11],11,4,3,10,7,NSW,,73,46,6
+AUS,9209,Alexandra Alder,Marcus Cooper,HSC,[16],5,[47 DNF],6,8,12,6,5,8,SA,Mixed,113,50,7
+Aus,9061,Kevin Cameron,Sam Heritage,DPSS,11,6,5,[18],[14],5,9,9,11,Qld,,88,56,8
+AUS,9254,Mark Stowell,Jake Bessen,RFBYC,8,[17],7,12,5,7,8,13,[19],WA,,96,60,9
+AUS,8759,Tom Stivano,Simon Burt,B16YC,5,8,9,10,10,[47 DNF],[47 DNC],8,10,NSW,,154,60,10
+AUS,9167,Nigel Lott,Bob Franks,DPSS,6,11,19,7,6,[47 DNF],[22],15,9,QLD,Master Crew,142,73,11
+AUS,9263,Michael Quirk,Cam McDonald,Tba,[23],[18],16,4,7,8,15,11,18,NSW,Master Helm,120,79,12
+AUS,9018,Alex Blacker,Jesse Mitton,ASC,9,12,17,14,15,11,[47 DNC],[23],5,SA,,153,83,13
+AUS,8893,Ryan Menzies,Lucas Geddes,WASC,[27],10,13,19,[28],16,4,17,14,NSW,,148,93,14
+AUS,9205,Edward Cox,Peter Nicholson,CYCA,15,[47 DNF],18,9,[30],15,20,7,17,NSW,,178,101,15
+AUS,8781,Chris Gregg,Ian Gregg,DPSS,14,[28],11,15,21,10,12,24,[47 DNF],QLD,Master Crew,182,107,16
+AUS,8644,Ayden Menzies,Adam Wyatt,TBC,[22],9,6,17,19,20,[47 DNF],18,22,NSW,,180,111,17
+AUS,8809,Justin Carey,Chris Carey,DPSS,17,20,[47 DNF],[24],13,13,14,12,23,QLD,Master Crew,183,112,18
+AUS,9265,Carter Jackson,Will MacDonald,MSC,24,[47 DNF],12,22,17,9,11,[35],20,NSW,,197,115,19
+AUS,9273,Matt Hansen,Shane Attwell,FSC,12,13,27,[28],24,17,16,[31],13,WA,Master Helm/Master Crew,181,122,20
+AUS,9264,Nicholas Mariani,Alexander Thomson,FSC,19,25,14,16,12,[47 DNF],[47 DNF],21,16,WA,,217,123,21
+AUS,8946,Ryan Kelly,Harry Mitton,ASC & WSC,[36],15,15,31,22,14,17,19,[32],SA,,201,133,22
+AUS,8796,Owen Vale,Quinn Andrew,RPAYC,21,19,23,21,[26],18,[26 SCP],20,12,NSW,,186,134,23
+AUS,8817,Michael Duffield,Anthony Gaunt,FSC,20,14,21,13,[47 DSQ],[47 DNF],47 DNC,14,15,WA,,238,144,24
+AUS,9136,Cullen Hughes,Paul Rees,BSC,[26],[37],20,25,25,22,18,22,21,NSW,Master Crew,216,153,25
+AUS,9223,Damien Carey,David Ottaway,HSC,10,24,22,34,23,[47 DNF],13,32,[40],SA,,245,158,26
+AUS,8891,Neil How,Zoe How,HSC,[40],21,26,32,18,28,27,26,[35],SA,Mixed,253,178,27
+AUS,8855,Andrew Cawley,Patrick Attwell,RFBYC,25,35,[47 DNF],35,[38],21 SCP,19,25,25,WA,,270,185,28
+AUS,8589,Brooke Jones,Brian Jones,HSC,28,[41],28,27,[37],23,21,30,28,SA,Mixed/Classic,263,185,29
+AUS,8886,Tony Turton,David Clayton,BSYC,34,26,[47 DNF],23,16,[47 DNF],47 DNC,16,24,SA,Master Crew,280,186,30
+Aus,8797,Aussie Higgins,Jarrod Hazell,FSC,31,32,24,30,20,25,[47 DNF],27,[39],WA,Youth,275,189,31
+AUS,9192,Finlay Crisp,Tom Alder,ASC,13,30,[47 DNF],20,29,[47 DNF],47 DNC,34,26,SA,,293,199,32
+AUS,9213,Ian Burford,David Christie,DPSS,33,23,31,[36],27,21,[47 DNF],28,36,SA,Master Helm/Master Crew,282,199,33
+AUS,8639,Brian Pike,Riley Pike,GSC,29,31,25,26,[32],32,29,[37],27,NSW,,268,199,34
+AUS,8840,Michael Gallagher,Matt Brooman,WSC,30,[36],30,29,[34],26,28,33,31,NSW,,277,207,35
+AUS,8626,Scott Lidgett,Ben O'Brien,DBYC,[42],22,29,[40],36,34 TLE,26,29,34,VIC,,292,210,36
+AUS,8968,Luke Abbott,Kieren Abbott,FSC,[38],38,37,38,33,24,25,[43],29,WA,,305,224,37
+AUS,8667,Grant Abbott,Matthew Till,FSC/MOFSC,32,39,33,[42],[40],27,23,39,37,WA,,312,230,38
+AUS,9017,Roger Pell,Byron Mavrick,RFBYC/ FSC,[43],29,32,37,[41],31,31,36,38,WA,Master Helm,318,234,39
+AUS,8739,Richard Batten,Jamie Batten,HSC,37,42,[47 DNF],[45],43,29,32,42,33,VIC,,350,258,40
+AUS,9115,Steve Howden,Jeremy Kerrisk,PMYC,39,34,38,41,39,[47 DNF],[47 DNC],38,30,VIC,,353,259,41
+AUS,9071,Richard Hyde,Lindsay Gilbert,DPSS,41,33,35,33,31,[47 DNF],[47 DNC],47 DNC,47 DNC,QLD,Master Helm/Master Crew,361,267,42
+AUS,9022,Martin Smith,Sam Byass,HSC,35,44 TLE,36,44,[46 TLE],34 TLE,30,45 TLE,[47 DNF],SA,,361,268,43
+AUS,881,Joshua Till,Ashlie Duffield,FSC/SoPYC,[46 TLE],40,34,46,44,30,[47 DNF],40,41,WA,Youth/Mixed,368,275,44
+AUS,8839,Robin Cross,Tim Griffin,BSYC,44,27,[47 NSC],39,35,[47 DNC],47 DNC,47 DNC,47 DNF,SA,Master Helm,380,286,45
+AUS,9037,Peter Croft,Gary Rushton,SYC,[47 DNF],[47 DNC],47 DNC,43,42,47 DNF,47 DNC,41,47 DNF,QLD,Master Helm/Master Crew,408,314,46
