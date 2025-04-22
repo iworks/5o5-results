@@ -6750,7 +6750,8 @@ class iworks_5o5_upload_fixer {
 		'Re Gesing'                   => 'Renka Gesing',
 		'Reeve Dunn'                  => 'Reeve Dunne',
 		'Reffold Simon'               => 'Simon Reffold',
-		'Regis Vjateur'               => 'Regis Viateur',
+		'Regis Viateur'               => 'Régis Viateur',
+		'Regis Vjateur'               => 'Régis Viateur',
 		'Rehberg Welf'                => 'Welf Rehberg',
 		'Reincke Kurt'                => 'Kurt Reincke',
 		'Reiner Görge'                => 'Rainer Görge',
@@ -7394,7 +7395,7 @@ class iworks_5o5_upload_fixer {
 		'V.Fuchshuber'                => 'Valerie Fuchshuber',
 		'Vi Stopp'                    => 'Victor Stopp',
 		'Vi Zimmermann'               => 'Vincent Ziommermann',
-		'Viateur Regis'               => 'Regis Viateur',
+		'Viateur Regis'               => 'Régis Viateur',
 		'Viaud Alban'                 => 'Alban Viaud',
 		'Viaud Pascal'                => 'Pascal Viaud',
 		'Vibert Marc'                 => 'Marc Vibert',
@@ -7718,7 +7719,7 @@ class iworks_5o5_upload_fixer {
 			'Seuschek' => 'Laura Seuschek',
 		),
 		'8455' => array(
-			'Viateur' => 'Regis Viateur',
+			'Viateur' => 'Régis Viateur',
 		),
 		'8548' => array(
 			'Peter' => 'Peter Tuck',
