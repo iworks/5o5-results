@@ -59,15 +59,15 @@ foreach ( $data as $one ) {
 $import_registry = $import_results = $import_sailors = false;
 
 if ( sizeof( $argv ) === 1 ) {
-	echo 'select parts to import:',PHP_EOL;
-	echo '- all (all parts)',PHP_EOL;
-	echo '- registry',PHP_EOL;
-	echo '- sailors',PHP_EOL;
-	echo '- results',PHP_EOL;
-	echo '- results --file=filename',PHP_EOL;
+	echo 'select parts to import:', PHP_EOL;
+	echo '- all (all parts)', PHP_EOL;
+	echo '- registry', PHP_EOL;
+	echo '- sailors', PHP_EOL;
+	echo '- results', PHP_EOL;
+	echo '- results --file=filename', PHP_EOL;
 	echo PHP_EOL;
-	echo 'Options:',PHP_EOL;
-	echo '--debug - debug ON',PHP_EOL;
+	echo 'Options:', PHP_EOL;
+	echo '--debug - debug ON', PHP_EOL;
 	exit;
 }
 
@@ -136,7 +136,7 @@ if ( 2 < count( $argv ) ) {
 if ( $import_sailors && ( $handle = fopen( $data_root . '/' . $import_config['sailors'], 'r' ) ) !== false ) {
 	$time_start['sailors']['begin'] = microtime( true );
 	$counter                        = 0;
-	echo PHP_EOL,'IMPORT: ' . $import_config['sailors'],PHP_EOL;
+	echo PHP_EOL, 'IMPORT: ' . $import_config['sailors'], PHP_EOL;
 		/**
 		 * Fields:
 		 *
@@ -170,7 +170,7 @@ if ( $import_sailors && ( $handle = fopen( $data_root . '/' . $import_config['sa
 		16 => 'iworks_fleet_social_twitter',
 		17 => 'iworks_fleet_social_endomondo',
 	);
-	while ( ( $data = fgetcsv( $handle, 0, ',' ) ) !== false ) {
+	while ( ( $data = fgetcsv( $handle, 0, ',', '"', '\\' ) ) !== false ) {
 		if ( isset( $data[1] ) && ! empty( $data[1] ) ) {
 			if ( 'Nation' === $data[0] ) {
 				continue;
@@ -187,7 +187,7 @@ if ( $import_sailors && ( $handle = fopen( $data_root . '/' . $import_config['sa
 					echo $p;
 					echo PHP_EOL;
 				}
-				$counter++;
+				++$counter;
 				continue;
 			}
 			$post_array = array(
@@ -234,7 +234,7 @@ if ( $import_sailors && ( $handle = fopen( $data_root . '/' . $import_config['sa
 		} else {
 			int505_echo_dot( $counter, 'fail' );
 		}
-		$counter++;
+		++$counter;
 	}
 	$time_start['sailors']['end'] = microtime( true );
 }
@@ -246,12 +246,12 @@ $counter = 0;
 $rows    = array();
 if ( $import_registry && ( $handle = fopen( $data_root . '/' . $import_config['boats'], 'r' ) ) !== false ) {
 	$time_start['boats']['begin'] = microtime( true );
-	echo PHP_EOL,'IMPORT: ',$import_config['boats'],PHP_EOL;
+	echo PHP_EOL, 'IMPORT: ', $import_config['boats'], PHP_EOL;
 	$counter = 0;
-	while ( ( $data = fgetcsv( $handle, 0, ',' ) ) !== false ) {
+	while ( ( $data = fgetcsv( $handle, 0, ',', '"', '\\' ) ) !== false ) {
 		if ( 1 > intval( $data[0] ) ) {
 			int505_echo_dot( $counter, 'fail' );
-			$counter++;
+			++$counter;
 			continue;
 		}
 		$post = get_page_by_title( $data[0], OBJECT, $boat_post_type_name );
@@ -525,11 +525,11 @@ if ( $import_registry && ( $handle = fopen( $data_root . '/' . $import_config['b
 				&& ( $handle_owner_file = fopen( $owners_file, 'r' ) ) !== false
 			) {
 				if ( $debug ) {
-					echo PHP_EOL,'IMPORT: ',$owners_file,PHP_EOL;
+					echo PHP_EOL, 'IMPORT: ', $owners_file, PHP_EOL;
 				} else {
 					int505_echo_dot( $counter, 'file' );
 				}
-				while ( ( $owner_data = fgetcsv( $handle_owner_file, 0, ',' ) ) !== false ) {
+				while ( ( $owner_data = fgetcsv( $handle_owner_file, 0, ',', '"', '\\' ) ) !== false ) {
 					$names = trim( $owner_data[0] );
 					if ( empty( $names ) ) {
 						continue;
@@ -665,7 +665,7 @@ if ( $import_registry && ( $handle = fopen( $data_root . '/' . $import_config['b
 		} else {
 			int505_echo_dot( $counter, 'fail' );
 		}
-		$counter++;
+		++$counter;
 	}
 	/**
 	 * update term  counter
@@ -732,11 +732,11 @@ $fields = array(
 if ( $import_results && ( $handle = fopen( $data_root . '/' . $import_config['events'], 'r' ) ) !== false ) {
 	$time_start['results']['begin'] = microtime( true );
 	$series                         = array();
-	echo PHP_EOL,'IMPORT: ' . $import_config['events'],PHP_EOL;
+	echo PHP_EOL, 'IMPORT: ' . $import_config['events'], PHP_EOL;
 	if ( $one_file ) {
-		echo 'FILE:   ' . $one_file,PHP_EOL;
+		echo 'FILE:   ' . $one_file, PHP_EOL;
 	}
-	while ( ( $data = fgetcsv( $handle, 0, ',' ) ) !== false ) {
+	while ( ( $data = fgetcsv( $handle, 0, ',', '"', '\\' ) ) !== false ) {
 		if ( 1 > intval( $data[0] ) ) {
 			continue;
 		}
@@ -811,15 +811,15 @@ if ( $import_results && ( $handle = fopen( $data_root . '/' . $import_config['ev
 				$test = preg_replace( '/&#8221;/', '"', $test );
 				if ( $test === $post_title ) {
 					if ( $debug ) {
-						echo 'SKIP: ',date( 'y-m-d', $iworks_fleet_result_date_start ), ' ',$post_title,PHP_EOL;
+						echo 'SKIP: ', date( 'y-m-d', $iworks_fleet_result_date_start ), ' ', $post_title, PHP_EOL;
 					}
 					continue 2;
 				}
 			}
 			remove_filter( 'iworks_fleet_result_skip_year_in_title', '__return_true' );
 		}
-		echo $post_title,PHP_EOL;
-		echo 'FILE: ' . $file_name,PHP_EOL;
+		echo $post_title, PHP_EOL;
+		echo 'FILE: ' . $file_name, PHP_EOL;
 		$post_array = array(
 			'post_name'   => sanitize_title(
 				sprintf(
@@ -880,7 +880,7 @@ if ( $import_results && ( $handle = fopen( $data_root . '/' . $import_config['ev
 			if ( is_file( $thumbnail_file ) ) {
 				$attach_id = 0;
 				$filename  = basename( $thumbnail_file );
-				echo PHP_EOL,'Thumbnail: ' ,$filename ,PHP_EOL;
+				echo PHP_EOL, 'Thumbnail: ', $filename, PHP_EOL;
 				$args      = array(
 					'post_type'      => 'attachment',
 					'post_status'    => 'inherit',
@@ -927,7 +927,7 @@ if ( $import_results && ( $handle = fopen( $data_root . '/' . $import_config['ev
 			$links_file = preg_replace( '/csv$/', $extenstion, $file );
 			if ( is_file( $links_file ) && $links_handle = fopen( $links_file, 'r' ) ) {
 				$links = array();
-				while ( ( $links_data = fgetcsv( $links_handle, 0, ',' ) ) !== false ) {
+				while ( ( $links_data = fgetcsv( $links_handle, 0, ',', '"', '\\' ) ) !== false ) {
 					if ( isset( $links_data[0] ) ) {
 						$one = array(
 							'url' => $links_data[0],
@@ -954,14 +954,14 @@ if ( $import_results && ( $handle = fopen( $data_root . '/' . $import_config['ev
 		 */
 		if ( ( $handle2 = fopen( $file, 'r' ) ) !== false ) {
 			$regatta_data = array();
-			while ( ( $d = fgetcsv( $handle2, 0, ',' ) ) !== false ) {
+			while ( ( $d = fgetcsv( $handle2, 0, ',', '"', '\\' ) ) !== false ) {
 				$regatta_data[] = $d;
 			}
 			fclose( $handle2 );
 			if ( empty( $regatta_data ) ) {
-				echo ' - EMPTY FILE!',PHP_EOL;
+				echo ' - EMPTY FILE!', PHP_EOL;
 			} else {
-				echo 'Begin import, rows: ', count( $regatta_data ) ,PHP_EOL;
+				echo 'Begin import, rows: ', count( $regatta_data ), PHP_EOL;
 				do_action( 'iworks_fleet_result_import_data', $post_ID, $regatta_data );
 			}
 		}
@@ -992,4 +992,4 @@ foreach ( $time_start as $key => $one ) {
 	);
 }
 
-echo PHP_EOL,PHP_EOL;
+echo PHP_EOL, PHP_EOL;
