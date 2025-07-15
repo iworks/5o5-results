@@ -18,7 +18,7 @@ USA,8715,Ethan Bixby,Christopher Brady,ST PETERSBURG YC USA,4,17,13,25,17,15,66,
 AUS,9036,Michael Quink,Daryl Roos,WSC AUS,18,7,30,DNF,16,6,77,17
 GER,8975,Alexander Holzapfel,Stefan Worm,POST SPORTVEREIN KOB,13,11,46,17,20,18,79,18
 SUI,9096,Cedric Bart,Laurent Grob,CVB SUI,8,27,23,14,32,17,89,19
-FRA,9050,Herve De Kergariou,Basile Geron,CN ARRADON,25,10,17,DNF,25,12,89,20
+FRA,9050,Herve de Kergariou,Basile Geron,CN ARRADON,25,10,17,DNF,25,12,89,20
 GER,8940,Martin Kittsteiner,Oliver Stieglite,HSC GER,19,23,69,22,8,28,100,21
 GER,9011,Micki Daisenberger,Jonas Nissen,DTYC GER,26,4,55,19,30,23,102,22
 SUI,8954,Ueli Marti,Philippe Jacot,CLUB NAUTIQUE BEVAIX,35,24,22,16,28,16,106,23
@@ -41,7 +41,7 @@ FRA,9068,François de Lisle,Herve Brillaud,C N FERRET,55,45,DNF,21,59,30,210,39
 FRA,9099,Alain Karadjian,Cyril Thibaud,CVSQ,45,48,40,26,51,DSQ,210,40
 FRA,9024,Claude Gachet,Kleber Valery,YC Grenoble Chara.,56,28,50,60,31,45,210,41
 RSA,8719,Mark Biaglo,Warwick Ham,PRETORIA SAILING CLU,41,42,45,41,84,44,213,42
-FRA,8509,Bastian Le Morvan,Pierre Bessias,ASPTT TROYES,62,43,37,46,44,57,227,43
+FRA,8509,Bastian le Morvan,Pierre Bessias,ASPTT TROYES,62,43,37,46,44,57,227,43
 FRA,9019,Veronique Brenet,Jean-Pierre Peter,A C D'ALSACE LORRAIN,34,35,65,50,56,53,228,44
 FRA,8900,Serge Gubri,Jean Luc Muzellec,C V SEINE-PORT,69,60,48,28,35,60,231,45
 DEN,8828,Van Wonterghem Michael,Fabiola Van Wonterghem,SOROSEJLFORENING DEN,43,72,43,51,58,36,231,46
@@ -59,7 +59,7 @@ FRA,8773,Philippe Markt,Gael Conversy,Y C BEAULIEU,47,66,72,52,54,62,281,57
 FRA,8802,Pascal Viaud,Alban Viaud,S R ROCHELAISES,66,76,57,43,DNF,46,288,58
 GBR,8432,Alistair Colvin,Alan Moss,LOCH LOMOND SAILING,67,62,60,DNF,48,52,289,59
 FRA,8676,Valentin Dechauffour,Pierre Gendry,S N O NANTES,79,82,38,63,47,70,297,60
-FRA,8677,Nicolas Michel,Charles De Kergariou,C V A N NANTES,70,61,DNF,56,57,54,298,61
+FRA,8677,Nicolas Michel,Charles de Kergariou,C V A N NANTES,70,61,DNF,56,57,54,298,61
 FRA,8971,Thierry Daguzan,Arnaud Poirier,S R ROCHELAISES,77,73,OCS,48,69,37,304,62
 GER,9000,Enno Wilts,Pia Matscheroth,OSG GER,74,51,67,47,76,66,305,63
 GER,8990,Frieder Achterberg,Wolfgang Stuecki,DTYC GER,29,DNF,DNF,DNF,29,13,309,64
@@ -84,9 +84,9 @@ FRA,8880,Jose Mendes,Emmanuel Mouclier,CVML,60,75,DNF,66,81,82,364,82
 GER,6817,Ralf Schneidewind,Oliver Schurmann,SLRV GER,81,83,95,69,74,74,381,83
 GBR,8726,Fergus Duncanson,Graham Moss,LOCH LOMOND SAILING,86,70,83,DNF,78,72,389,84
 FRA,8699,Jean Philippe Ducros,Stanislas Rault,CVML,83,93,81,62,87,81,394,85
-FRA,8326,David De Monteil,Aymeric Essertel,S R ROCHELAISES,95,DSQ,90,59,92,68,404,86
+FRA,8326,David de Monteil,Aymeric Essertel,S R ROCHELAISES,95,DSQ,90,59,92,68,404,86
 FRA,8748,Samuel Carvallo,Sebastien Rauly,C N HAUTE SEINE,84,81,86,64,90,DNF,405,87
-FRA,8032,Riwanon Le Roy,Nayl Driss,ASN QUIBERON,DNF,91,94,71,93,65,414,88
+FRA,8032,Riwanon le Roy,Nayl Driss,ASN QUIBERON,DNF,91,94,71,93,65,414,88
 SWE,9092,Knut Hastenpflug,Jana Hastenpflug,SSAV SWE,64,71,DNF,DNC,83,79,416,89
 FRA,9064,Paul Bendiyan,Georges Bendiyan,A C D'ALSACE LORRAIN,80,79,100,DNC,89,78,426,90
 FRA,8139,Frederic le Delaizir,Leo le Delaizir,C N CASTELNAUDARY,102,88,93,72,91,83,427,91
@@ -109,7 +109,7 @@ FRA,7396,Thomas Soinard,Jean-Claude Soinard,CVML,98,94,DNF,DNF,DNF,85,515,107
 FRA,9014,Louis Gibert,Edith Castillon,C N ANTIBES,97,92,DNF,DNF,88,DNF,515,108
 GBR,9093,Tudor Owen,Kieth Borders,WHITSTABLE YACHT CLU,46,DNF,DNF,DNF,DNF,DNF,522,109
 FRA,4479,Jean-Charles Cadoret,Pascal Coquelet,N C MONTARGIS,100,95,96,DNF,DNF,DNF,529,110
-BEL,9066,Geert De Pauw,Koen Jourquin,NUV BEL,DNF,DNF,58,DNF,DNC,DNF,534,111
+BEL,9066,Geert de Pauw,Koen Jourquin,NUV BEL,DNF,DNF,58,DNF,DNC,DNF,534,111
 BEL,8742,Frederic Decoq,Gilles Bernon,SNEH BEL,DNF,DNF,62,DNF,DNC,DNF,538,112
 FRA,7235,Philippe Veron,Fabien Pascal,C.N. VIRY CHATILLON,99,DNF,89,DNC,DNC,DNF,545,113
 FRA,8949,Philippe Duquesne,Laurent Duquesne,S N O NANTES,DNF,DNF,DNF,DNF,DNF,75,551,114
