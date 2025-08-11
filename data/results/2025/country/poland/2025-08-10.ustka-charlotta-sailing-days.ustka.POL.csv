@@ -1,0 +1,11 @@
+Country,Sail Number,Name,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Race 7,YOB,Sex,Score,Place
+POL,8736,Jan Sibilski,Andrzej Borowiak,ŻLKS POZNAN,1,1,1,2,1,[5],1,1999,M,7,1
+POL,9170,Karol Milewski,Bartosz Milewski, ,2,[3],2,1,2,1,2,1985,M,10,2
+POL,9140,Dominik Ostrowski,Maciej Goździk,SWOS WARSZAWA,3,[4],3,4,3,2,3,1976,M,18,3
+AUS,9110,Michał Ruciński,Bartosz Sadowski,PRONAW/UNIWERSYTET MORSKI GDYNIA,5,2,[6],5,6,4,5,1982,M,27,4
+POL,8875,Łukasz Paszko,Piotr Duma,JKM NEPTUN,4,[6],4,6,4,6,6,1978,M,30,5
+POL,8906,Jacek Ludwiczak,Grzegorz Szreder,YACHT KLUB STAL GDYNIA,6,8,[9],8,5,3,4,1945,M,34,6
+POL,8665,Adam Kuczyński,Jakub Grabowski,ZBĄSZYŃSKI KLUB ŻEGLARSKI/JK KRYNICA MOR,7,7,5,3,[11 DNC],11 DNC,11 DNC,1976,M,44,7
+POL,9020,Justyna Bunar,Michał Prończuk, ,9,5,[10],9,7,7,7,1978,F,44,8
+POL,8656,Anna Zabłocka,Iwo Gogołkiewicz,KLUB SZYBKICH ŁÓDEK,8,9,8,[11 DNF],9,8,8,1990,F,50,9
+POL,9255,Tomasz Polikowski,Adam Najmowicz, ,10,10,7,7,8,[11 DNF],11 DNS,1980,M,53,10
