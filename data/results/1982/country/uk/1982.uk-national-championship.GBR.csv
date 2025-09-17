@@ -1,6 +1,6 @@
 Nation,Boat No,Helm,Crew,Club,Race 1,Points,Place
-GBR,7452,Lawrie Smith,Mark Simpson,,,5.75,1
-GBR,7327,Peter Colclough,Harold Barnes,,,6.5,2
+GBR,7452,Lawrie Smith,Mark Simpson,,,"5,75",1
+GBR,7327,Peter Colclough,Harold Barnes,,,"6,5",2
 GBR,7368,Graham Thomas,Ian Godfrey,,,21,3
 GBR,7277,Dave White,Terry Lawton,,,23,4
 GBR,7317,Richard Lord,Ken Norris,,,26,5
@@ -11,7 +11,7 @@ GBR,7432,Ben Tucker,Phil Cotton,,,37,9
 AUS,7018,Neil Harrison,Nick Paterson,,,39,10
 GBR,7430,J E Kobylanski,S Briddon,,,40,11
 GBR,7446,Robert Trickett,Keith Summersgill,,,40,12
-GBR,7427,Ian Stewart,John Redgate,,,43.75,13
+GBR,7427,Ian Stewart,John Redgate,,,"43,75",13
 GBR,7466,Phil Milanes,John Labbett,,,48,14
 GBR,7399,Clive Robinson,Peter Slater,,,51,15
 GBR,6890,Neil Thomas,Dave Symington,,,54,16
@@ -34,7 +34,7 @@ GBR,6851,Julian Hereward,John Langley,,,94,32
 GBR,7163,Robin Whittle,Nigel Annereau,,,97,33
 GBR,7267,lain Stowe,Alan Markham,,,97,34
 GBR,7425,Roger Deane,Tim Williams,,,98,35
-GBR,6688,John Goldsbrough,Clive Hardy,,,101.5,36
+GBR,6688,John Goldsbrough,Clive Hardy,,,"101,5",36
 GBR,7415,Julian Redman,Simon Evans,,,112,37
 GBR,7435,Tim Marlow,Kevin Richardson,,,113,38
 GBR,7239,Chris Dando,Nicholas Hart,,,123,39
@@ -65,7 +65,7 @@ GBR,6890,David Rose,Nigel Bultitude,,,180,63
 GBR,6552,John Berry,Nicholas Brooker,,,184,64
 GBR,7308,Stephen Northeast,Andrew Gibson,,,185,65
 GBR,7385,Jim Hair,Gordon Smith,,,187,66
-GBR,7376,Nick Faulkner,,,,188.5,67
+GBR,7376,Nick Faulkner,,,,"188,5",67
 GBR,6879,Andrew Gilmour,Nigel Squirrel,,,191,68
 GBR,7309,Peter Northeast,Simon Faire,,,192,69
 GBR,6959,Bill Ingram,Peter Meiklejohn,,,195,70
@@ -81,7 +81,7 @@ GBR,7369,John Button,John Pipe,,,772,79
 GBR,6538,G K Woolmington,,,,224,80
 GBR,6881,Martin Oliver,David Oliver,,,224,81
 GBR,7398,Simon Nelson,Julian Smith,,,228,82
-GBR,7210,Simon Morley,,,,230,83
+GBR,7210,Simon Morley,Jim Williams,,,230,83
 GBR,6161,Robert Longworth,Andrew Longworth,,,231,84
 GBR,6933,Ossie Stewart,Ray Selling,,,231,85
 GBR,7434,Barry Middleditch,Peter Coit,,,234,86
@@ -100,7 +100,7 @@ GBR,7412,John Howlett,,,,271,98
 GBR,7315,David Wansbrough,Carl Randall,,,271,99
 GBR,4070,Marc Bell,,,,272,100
 GBR,6513,S Costain,David Topp,,,273,101
-GBR,4918,Craig Evans,Andy Waughman,,,282.5,102
+GBR,4918,Craig Evans,Andy Waughman,,,"282,5",102
 GBR,5934,P Jones,David Ebdon,,,285,103
 GBR,6857,Roger Sutcliffe,,,,294,104
 GBR,4802,Tom Russell,John Bickerdyke,,,297,105

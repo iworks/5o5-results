@@ -155,12 +155,12 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 1981-01-01,1981-01-01,UK National Championship,,6,100,Torquay,,,,,,,1981/country/uk/1981.uk-national-championship.torquay.GBR.csv,National,,GBR,2020-11-04,,,,,,,
 1981-01-01,1981-01-01,UK World's Qualifying Series,,6,30,,,,,,,Grafham • Yarmouth • Hastings • Hayling • Felixstowe • Nationals,1981/country/uk/1981.uk-worlds-qualifying-series.GBR.csv,,,GBR,2020-10-26,,Grafham,Yarmouth,Hastings,Hayling,Felixstowe,Nationals
 1981-01-01,1981-01-01,World Championship,,6,86,"San Francisco, CA",St. Francis Yacht Club,,,,,,1981/world/1981.world.championship.san-francisco.USA.csv,World,,USA,2020-07-23,,,,,,,
-1982-01-01,1982-01-01,Australian National Championships,,,,Brighton,,,,,,,1982/country/australia/1982.australia-national-championships.brighton.AUS.csv,National,,AUS,2024-02-09,,,,,,,
+1982-01-01,1982-01-01,Australian National Championships,,,,Brighton,Australian 505 Association,,,,,,1982/country/australia/1982.australia-national-championships.brighton.AUS.csv,National,,AUS,2024-02-09,,,,,,,
 1982-01-01,1982-01-01,Canadian Championship,,,,,,,,,,,1982/country/canada/1982.canadian-championship.csv,National,,CAN,2024-09-18,,,,,,,
 1982-01-01,1982-01-01,Championnat de France,French Championship,,,Cancale,,,,,,,1982/country/france/1982.french-championship.cancale.FRA.csv,National,,FRA,2024-06-22,,,,,,,
 1982-01-01,1982-01-01,Ralph Wadham Q Series - UK World's Qualifying Series,,18,30,,,,,,,Grafham • Pwllheli • Hayling • Brancaster • Largs • Worthing,1982/country/uk/1982.uk-worlds-qualifying-series.GBR.csv,,,GBR,2022-09-20,,Grafham,Pwllheli,Hayling,Brancaster,Largs,Worthing
 1982-01-01,1982-01-01,Svenskt Mästerskap,Swedish Championship,,30,,,,,,,,1982/country/sweden/1982.swedish-championship.SWE.csv,National,,SWE,2020-08-27,,,,,,,
-1982-01-01,1982-01-01,UK National Championship,,,108,,,,,,,,1982/country/uk/1982.uk-national-championship.GBR.csv,National,,GBR,2020-11-04,,,,,,,
+1982-01-01,1982-01-01,UK National Championship,,,108,"Largs, Scotland",,,,,,,1982/country/uk/1982.uk-national-championship.GBR.csv,National,,GBR,2020-11-04,,,,,,,
 1982-08-13,1982-08-20,World Championship,,6,73,Cork,Royal Cork Yacht Club,,,,,,1982/world/1982-08-20.world-championship.cork.IRL.csv,World,,IRL,2020-07-23,,,,,,,
 1983-01-01,1983-01-01,Australian National Championships,,,,Sydney,,,,,,,1983/country/australia/1983.australia-national-championships.adelaide.AUS.csv,National,,AUS,2024-02-09,,,,,,,
 1983-01-01,1983-01-01,Canadian Championship,,,,,,,,,,,1983/country/canada/1983.canadian-championship.csv,National,,CAN,2024-09-18,,,,,,,

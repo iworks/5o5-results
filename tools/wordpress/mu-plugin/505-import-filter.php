@@ -1542,11 +1542,11 @@ class iworks_5o5_upload_fixer {
 			'S.Lovshin' => 'Stephen Lovshin',
 		),
 		array(
-			'Punnet' => 'Mike Punnet',
+			'Punnet' => 'Mike Punnett',
 			'Ikle'   => 'Scott Iklé',
 		),
 		array(
-			'M. Punnet' => 'Mike Punnet',
+			'M. Punnet' => 'Mike Punnett',
 			'S. Ikle'   => 'Scott Iklé',
 		),
 		array(
@@ -3767,7 +3767,7 @@ class iworks_5o5_upload_fixer {
 		),
 		array(
 			'Christensen' => 'Jens Christensen',
-			'Thomsen'     => 'Jens Thomsen',
+			'Thomsen'     => 'Jes Thomsen',
 		),
 		array(
 			'Wedin'   => 'Roy Wedin',
@@ -6929,7 +6929,7 @@ class iworks_5o5_upload_fixer {
 		'Schiedt Franziska'           => 'Franzika Schiedt',
 		'Schlesiger Davina'           => 'Davina Schlesiger',
 		'Schlesiger Marvin'           => 'Marvin Schlesiger',
-		'Schlomka Fritz'              => 'Fritz Schlomka',
+		'Schlomka Fritz'              => 'Jens-Peter Schlomka',
 		'Schlomka Jens-Peter'         => 'Jens-Peter Schlomka',
 		'Schlomka Norman'             => 'Norman Schlomka',
 		'Schlonka Jens-Peter'         => 'Jens-Peter Schlomka',
