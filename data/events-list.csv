@@ -161,6 +161,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 1982-01-01,1982-01-01,Ralph Wadham Q Series - UK World's Qualifying Series,,18,30,,,,,,,Grafham • Pwllheli • Hayling • Brancaster • Largs • Worthing,1982/country/uk/1982.uk-worlds-qualifying-series.GBR.csv,,,GBR,2022-09-20,,Grafham,Pwllheli,Hayling,Brancaster,Largs,Worthing
 1982-01-01,1982-01-01,Svenskt Mästerskap,Swedish Championship,,30,,,,,,,,1982/country/sweden/1982.swedish-championship.SWE.csv,National,,SWE,2020-08-27,,,,,,,
 1982-01-01,1982-01-01,UK National Championship,,,108,"Largs, Scotland",,,,,,,1982/country/uk/1982.uk-national-championship.GBR.csv,National,,GBR,2020-11-04,,,,,,,
+1982-07-08,1982-07-11,Nordiskt Mästerskap,Nordic Championship,6,35,Köge,,,,,,,1982/country/denmark/1982-07-11.nordic-championship.koge.DEN.csv,National,,DEN,2025-09-19,Ebbe Rosén,,,,,,
 1982-08-13,1982-08-20,World Championship,,6,73,Cork,Royal Cork Yacht Club,,,,,,1982/world/1982-08-20.world-championship.cork.IRL.csv,World,,IRL,2020-07-23,,,,,,,
 1983-01-01,1983-01-01,Australian National Championships,,,,Sydney,,,,,,,1983/country/australia/1983.australia-national-championships.adelaide.AUS.csv,National,,AUS,2024-02-09,,,,,,,
 1983-01-01,1983-01-01,Canadian Championship,,,,,,,,,,,1983/country/canada/1983.canadian-championship.csv,National,,CAN,2024-09-18,,,,,,,
@@ -2021,7 +2022,6 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2025-08-30,2025-08-31,Suomen Mestaruud,Finnish Championship,6,12,Tampere,Näsijärven Purjehdusseura – Näsijärvi Segelsällskap ry,,,,,,2025/country/finland/2025-08-31.finnish-championship.tampere.FIN.csv,National,,FIN,2025-09-01,,,,,,,
 2025-09-06,2025-09-07,FAntastic Nepean FAll REgatta (FANFARE),,9,10,Ottawa,Nepean Sailing Club,,,,,,2025/country/canada/2025-09-07.fantastic-nepean-fall-regatta.ottawa.CAN.csv,,,CAN,2025-09-11,,,,,,,
 2025-09-12,2025-09-14,Otwarte Mistrzostwa Polski,Open Polish Nationals,9,17,Puck,,,,,,,2025/country/poland/2025-09-12.open-polish-championship.puck.POL.csv,"National,Polish Cup",Baltic Sea,POL,2025-09-15,,,,,,,
-1982-07-08,1982-07-11,Nordiskt Mästerskap,Nordic Championship,6,28,Köge,,,,,,,1982/country/denmark/1982-07-11.nordic-championship.koge.DEN.csv,National,,DEN,2025-09-19,Ebbe Rosén,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,
