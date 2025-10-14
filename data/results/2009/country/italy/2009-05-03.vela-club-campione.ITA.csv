@@ -1,6 +1,6 @@
-Nation,Boat NO,Helm,Crew,Club,Race 1,Points,Place
-GER,9011,Daisenberger Michael,Henning Bastian,9011,,,1
-ITA,8916,Ciferri Enrico,Natali Gabriele,8916,,,2
-SUI,8077,Houriet Catherine,Donze Gil,PATIENCE,,,3
-ITA,8743,Giraldi Marco,Corbellini Paolo,8743,,,4
-GER,6425,Guillaume Catho,,6425,,,5
+Nation,Boat NO,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Race 7,Points,Place
+GER,9011,Michael Daisenberger,Bastian Henning,9011,1,1,1,1,1,1,,,1
+ITA,8916,Enrico Ciferri,Gabriele Natali,8916,,,,,,,,,2
+SUI,8077,Catherine Houriet,Giles Donzé,PATIENCE,,,,,,,,,3
+ITA,8743,Marco Giraldi,Paolo Corbellini,8743,,,,,,,,,4
+GER,6425,Guillaume Catho,,6425,,,,,,,,,5
