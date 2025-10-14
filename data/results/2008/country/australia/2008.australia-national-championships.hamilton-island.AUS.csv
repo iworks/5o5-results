@@ -1,2 +1,29 @@
-Country,Boat NO,Helm,Crew,Club,Race 1,Total,Place
-AUS,,Bill Cuneo,John Warlow,QLD (Hamilton Is),,,1
+Country,Sail#,Skipper,Crew,Club,Heat 1,Heat 2,Heat 3,Heat 4,Heat 5,Heat 6,Heat 7,Heat 8,Heat 9,Boat Name,Points,Points w/Drop,Place
+AUS,8922,Bill Cuneo,John Warlow,QLD (Hamilton Is),1,[6],1,3,2,1,5,5,[13],Daring Kestrel 2,37,18,1
+AUS,8946,Sandy Higgins,Paul Marsh,,2,3,3,[29],1,2,[9],8,3,Hawaii Five O,60,22,2
+AUS,8920,Michael Quirk,Simon Reffold,,4,[29],4,2,[11],4,1,11,2,The White Boat,68,28,3
+AUS,8877,Robin Deussen,Jordan Spencer,,5,2,[8],4,6,6,4,3,[9],Commonwealth Bank,47,30,4
+AUS,8890,Malcolm Higgins,Nick Johnston,,3,8,[29],1,[15],5,3,7,7,Groove Train,78,34,5
+AUS,8781,Earle Alexander,Ian Gregg,,6,1,2,7,8,[9],6,[9],5,Alexander & Associate,53,35,6
+AUS,8921,Nigel Lott,Robert Franks,,7,7,6,6,9,[11],2,[12],1,Sweaty Betty,61,38,7
+AUS,8853,Carter Jackson,Darren Nicholson,,9,5,[29],5,4,[10],10,1,4,FARM,77,38,8
+AUS,8557,Neil Andrew Long,Mick Odonnel,,[17],4,5,8,7,7,[14],14,10,Whatever,86,55,9
+AUS,8524,Rich Gallimore,Mark Jackson,,8,9,10,10,3,3,[18],[15],15,Fiveomagic,91,58,10
+AUS,8759,Scott Ovenden,Bryce Penfold,,11,11,7,9,[13],13,7,[16],12,The Missus,99,70,11
+AUS,8644,Phil Gray,Darren Gilbert,,10,[17],15,12,5,[17],15,4,11,Jeanneau Yachts,106,72,12
+AUS,8395,Paul Mitchell,Sam Haines,,12,12,13,[29],10,8,11,[23],18,Timaay,136,84,13
+AUS,8185,Paul Ridgway,Gavin Dagley,,[15],13,11,11,14,12,8,[17],16,Earle Grey,117,84,14
+AUS,8840,Kevin Cameron,Bevan Webber,,[23],22,18,[29],20,21,12,2,6,Alarm Innovations,153,101,15
+AUS,8884,Dylan Clark,Silas Nolan,,19,[20],14,16,[21],14,16,10,14,Moist Entertainment,144,103,16
+AUS,8760,Peter Woolman,Phil Webb,,14,10,[29],[29],12,16,17,18,19,Noodle Tour,164,106,17
+AUS,8864,Hamish Jarrett,Chris Pearson,,18,19,12,[29],[25],22,22,6,8,Primary Occupation,161,107,18
+AUS,8795,Martin Pike,Pip Pearson,,[20],15,19,13,[22],18,19,13,17,Sleek,156,114,19
+AUS,8648,Jeffrey Robinson,Lachlan Hornsby,,[24],18,9,15,17,15,[26],22,20,ezyboats.com,166,116,20
+AUS,8783,Sarah Withall,Marcus Cooper,,13,14,17,[29],16,[29],20,19,23,Lucy Furr,180,122,21
+AUS,8796,Jonno Bannister,Matt Burns,,16,16,[29],[29],18,19,21,21,21,Fangin Hoons,190,132,22
+AUS,8891,Adrian Cooper,Dan Haydon,,[29],[29],16,14,19,20,25,24,25,The Surly Mermaid,201,143,23
+AUS,8454,Chris Burnup,John Mclean,,22,21,20,18,23,[25],23,[25],24,Who Cares,201,151,24
+AUS,8637,Sam Cronin,Federico M Lauro,,21,[29],[29],29,26,24,13,20,22,Blowflies,213,155,25
+AUS,8628,Peter Croft,David Murphy,,[25],23,21,17,24,23,24,[26],26,Grumpy Old Men,209,157,26
+AUS,7514,Jaymie Worrell,Tony Briggs,,[29],[29],29,29,27,29,27,27,27,Free Surface Fx,253,195,27
+AUS,8504,Mike Davies,Kym McKee,,[29],[29],29,29,29,29,29,29,29,Shark,261,203,28

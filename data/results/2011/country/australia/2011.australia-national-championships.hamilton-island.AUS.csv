@@ -1,2 +1,48 @@
-Country,Boat NO,Helm,Crew,Club,Race 1,Total,Place
-AUS,,Sandy Higgins,Paul Marsh,QLD (Hamilton Is),,,1
+Country,SailNo,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Race 7,Worlds Rank,Total,Nett,Place
+AUS,8946,Sandy Higgins,Paul Marsh,,2,7,5,1,3,7,[9],3,34,25,1
+AUS,8626,Nathan Outteridge,Iain Jensen,,9,3,7,8,11,[22],22,9,82,60,2
+AUS,8922,Bill Cuneo,John Warlow,,12,17,23,6,23,[32],4,12,117,85,3
+AUS,8794,Michael Babbage,James McAllister,,[86 DNF],14,14,18,17,10,16,13,175,89,4
+AUS,9018,Robin Deussen,Jordan Spencer,,11,18,18,[86 DNF],14,9,26,14,182,96,5
+AUS,8957,Kevin Cameron,Josh Mortensen,,33,16,[37],22,2,13,32 SCP,16,155,118,6
+AUS,8890,Malcolm Higgins,Andrew Chisholm,,26,19,12,[31],25,24,17,19,154,123,7
+AUS,8853,Carter Jackson,Peter Holden,,10,30,9,46,[51],16,13,20,175,124,8
+AUS,8840,Shane Guanaria,Leigh Riddell,,25,8,19,14,18,[86 DNF],43,21,213,127,9
+AUS,8817,Nick Davis,Michael Duffield,,21,23,[40],27,31,20,28,24,190,150,10
+AUS,8877,Daniel Keys,Daryl Roos,,[38],29,20,34,26,12,30,25,189,151,11
+AUS,9037,Nigel Lott,Robert Franks,,28,20,[49],26,43,18,20,26,204,155,12
+AUS,8797,Peter Nicholas,Luke Payne,,42,[86 DNF],25,30,39,21,21,31,264,178,13
+AUS,8894,Paul Mitchell,Sam Haines,,43,31,33,[50],16,19,42,32,234,184,14
+AUS,8973,Brett Sharpe,Anthony Gaunt,,22,[86 DNF],41,24,22,35,40,33,270,184,15
+AUS,8783,Michael Thompson,Marcus Cooper,,39,32,35,36,[41],28,23,35,234,193,16
+AUS,8801,Peter Chappell,Matt Smith,,17,39,[47],44,40,27,34,36,248,201,17
+AUS,8796,Nicholas Deussen,Jonno Bannister,,34,36,36,43,34,[86 DNF],37,38,306,220,18
+AUS,8781,Earle Alexander,Ian Gregg,,37,38,43,32,[86 DNF],38,41,39,315,229,19
+AUS,9036,Michael Quirk,Sam Heritage,,6,12,26,33,[86 DNF],86 DNF,86 DNF,41,335,249,20
+AUS,8644,Brett Beyer,Darren Gilbert,,15,35,29,13,[86 DNF],86 DNF,86 DNS,42,350,264,21
+AUS,8920,Jeffrey Robinson,Neville Kerr,,48,24,46,54,47,45,[86 DNS],43,350,264,22
+AUS,8523,Ayden Menzies,Lachlan Hornsby,,27,41,34,41,[86 DNF],86 DNF,35,44,350,264,23
+AUS,8638,Claus Ejlertsen,Mick Patrick,,[54],49,44,48,50,30,49,45,324,270,24
+AUS,8864,Ed Cox,Cameron McDonald,,57,47,50,[64],21,47,52,47,338,274,25
+AUS,8893,Ryan Menzies,Joel Castle,,36,44,54,42,56,43,[86 DNF],48,361,275,26
+AUS,8968,Matthew Hansen,Anthony Dean,,50,51,48,47,48,[86 DNF],39,50,369,283,27
+AUS,8738,Clint Bowen,Anthony King,,53,55,45,[62],49,39,46,51,349,287,28
+AUS,8637,Sam Cronin,Kevin Whitbread,,61,[62],56,57,30,46,48,54,360,298,29
+AUS,8185,Nathan Rosenberg,Reeve Dunne,,58,59,[62],52,42,48,56,57,377,315,30
+AUS,6819,Ian Taylor,Robin Bath,,[86 DNF],86 DNF,60,59,53,40,45,62,429,343,31
+AUS,9022,Ian Burford,David Christie,,[86 DNS],86 DNF,86 DNS,55,44,31,44,63,432,346,32
+AUS,8739,John McLean,Dennis Winstanley,,59,71,65,[78],55,52,51,64,431,353,33
+AUS,8639,Grahame Tindall,David Johnson,,[86 DNF],69,64,70,58,50,54,65,451,365,34
+AUS,8173,Tom Brewer,Lindsay Whitton,,70,61,66,61,59,51,[86 DNF],66,454,368,35
+AUS,8395,Tim Jeans,Tom Connell,,73,67,[86 DNS],76,61,41,58,67,462,376,36
+AUS,8221,Luke Rhodes,Andrew McCole,,64,72,70,68,62,44,[86 DNF],68,466,380,37
+AUS,8498,Jonathan Ross,Ian Scholes,,69,[86 DNF],86 DNS,72,54,49,55,69,471,385,38
+AUS,8628,Peter Croft,Gary Rushton,,72,58,[86 DNF],74,60,42,86 DNS,71,478,392,39
+AUS,8710,Brett Bowden,Bradley Greenrod,,[86 DNF],86 DNF,55,66,57,86 DNF,53,73,489,403,40
+AUS,8784,Gilbert Ford,James Ford,,66,60,69,71,[86 DNF],86 DNF,57,74,495,409,41
+AUS,8891,Sarah Withall,Robert Gilchrist,,67,65,61,79,63,[86 DNF],86 DNF,75,507,421,42
+AUS,8809,Richie Gallimore,Bryce Penfold,,47,46,[86 DNC],86 DNC,86 DNF,86 DNF,86 DNS,76,523,437,43
+AUS,8759,Steve McConaghy,Nick Johnstone,,49,52,[86 DNC],86 DNC,86 DNF,86 DNF,86 DNS,77,531,445,44
+AUS,8886,John Paterson,Paul Greenwood,,[86 DNF],68,63,63,86 DNF,86 DNF,86 DNF,79,538,452,45
+AUS,8524,Richard McCulloch,Glen Stewart,,62,[86 DNF],68,69,86 DNF,86 DNF,86 DNS,80,543,457,46
+AUS,8038,Adrian Kiely,Darren Cooney,,[86 DNS],86 DNF,86 DNC,86 DNC,86 DNF,86 DNF,86 DNS,85,602,516,47
