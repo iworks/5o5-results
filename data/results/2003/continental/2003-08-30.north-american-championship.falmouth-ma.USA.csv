@@ -1,0 +1,31 @@
+Country,Boat Number,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Boat Name,Points Total,Points Total,Points Netto,Place
+USA,8629,Tyler Moore,Peter Alarie,,1,[2],1,2,1,1,1,[DNS],7,1
+USA,8627,Tim Collins,Bill Smith,,2,1,3,4,2,2,[6],[8],14,2
+USA,8554,Douglas Hagan,Rob Woelfel,,5,3,2,1,3,3,[11],[9],17,3
+USA,8715,Ethan Bixby,Erik Boothe,,[DNF],7,5,3,[8],5,2,4,26,4
+USA,8616,David Chatham,Jeffrey Nelson,,4,4,[7],7,6,[9],5,2,28,5
+CAN,8264,Jeff Boyd,Martin ten Hove,,6,5,[8],5,[9],8,3,1,28,5
+USA,8012,Henry Amthor,Steve Sparkman,,3,[6],6,6,5,6,4,[14],30,7
+CAN,8698,Chris Fowler,Andrew Fowler,,7,[8],4,8,4,7,7,[10],37,8
+USA,8830,Andrew Herlihy,Andrew Buttner,,8,9,10,11,7,4,[15],[15],49,9
+USA,8194,Thomas Kivney,,,[12],12,11,9,11,[20],9,5,57,10
+USA,877*,Neal Fowler,Clayton James,,10,11,[DNF],12,[13],10,8,13,64,11
+USA,8814,Lin Robson,Jerge Jorgensen,,13,10,9,[18],10,11,[DNS],11,64,12
+USA,8410,Clarissa Bush,Chris Gillies,,19,14,[DNS],13,14,13,[DNS],3,76,13
+USA,8808,Evert Meyer,Madhavan Thirumalai,,15,[DNF],19,10,12,[22],18,6,80,14
+USA,8778,Darryl Dietz,Geoff Hurwitch,,11,16,12,14,[17],15,12,[19],80,15
+USA,8722,Dave Siegal,Nick Nelson,,14,13,[18],17,16,14,[DNS],7,81,16
+USA,8311,Dylon Breton,,,[DNF],15,14,16,15,12,10,[18],82,17
+BER,7093,Chuck Millican,Jim Campbell,,9,[DNS],16,[23],20,18,14,12,89,18
+USA,8018,Tom Moore,Solomon Marini,,16,18,17,[21],19,17,13,21,100,19
+USA,7796,Deborah Ashby,,,[21],19,20,15,[23],19,19,17,109,20
+USA,8073,Katherine Long,Stephen Long,,22,17,15,19,[24],[26],17,20,110,21
+USA,7605,Renka Gesing,Adam Gesing,,18,[DNS],13,22,21,[28],20,22,116,22
+USA,9*,Gordon Russell,,,[DNS],[DNS],21,20,18,21,16,23,119,23
+USA,6985,Mike Breton,,,17,[DNS],[DNS],24,22,16,DNS,16,129,24
+USA,7896,Doug Stone,Michael Renda,,23,[DNS],24,[29],26,23,21,25,142,25
+USA,7876,Steven Lieberman,Joshua Lieberman,,[DNF],[DNS],22,26,25,24,DNF,24,155,26
+USA,7613,Phillip Ryan,,,20,[DNS],23,30,[DNF],DNS,DNS,DNS,175,27
+USA,7068,Douglas Watson,Bob Patterson,,[DNF],[DNS],DNS,25,DNF,25,DNS,26,178,28
+USA,8766,Saverio Maldari,Frank Maldari,,[DNF],[DNS],DNS,28,27,29,DNS,27,179,29
+USA,5859,Mark Angliss,Joseph Keating,,[DNF],[DNS],DNS,27,DNF,27,DNF,DNF,190,30
