@@ -1,5 +1,5 @@
 Nation,Sail No,Helm,Crew,,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Race 7,Race 8,Race 9,Netto,Place
-USA,8883,Tyler Moore,Nelson,,1,1,2,4,3,[7],3,[5],2,16,1
+USA,8883,Tyler Moore,Jeff Nelson,,1,1,2,4,3,[7],3,[5],2,16,1
 USA,8822,Mike Holt,Carl Smit,,2,2,1,1,1,[10],8,[10],3,18,2
 USA,8629,Mike Martin,Jesse Falsone,,3,[4],3,2,4,3,[7],2,1,18,3
 USA,8627,Tim Collins,Bill Smith,,[5],[5],5,3,2,1,5,1,4,21,4
@@ -8,13 +8,13 @@ CAN,8264,Jeff Boyd,Martin ten Hove,,6,9,[14],6,[13],6,2,9,11,49,6
 USA,8722,Macy Nelson,Hyrniewicz,,4,3,10,[39 DNF],[10],9,10,8,6,50,7
 CAN,8698,Chris Fowler,Andrew Fowler,,[13],7,9,5,8,[17],9,3,9,50,8
 USA,7771,Kevin Taugher,Chuck Tripp,,11,6,6,[14],7,4,[14],4,14,52,9
-USA,8012,Amthor,Amthor,,7,[12],11,9,9,5,4,[14],8,53,10
+USA,8012,Henry Amthor,Doug Amthor,,7,[12],11,9,9,5,4,[14],8,53,10
 USA,8660,Ben Moon,Nick Nelson,,12,17,[39 DSQ],10,5,[16],6,6,7,62,11
 USA,8814,Lin Robson,Erik Boothe,,10,10,8,8,[27],[25],24,13,10,83,12
 USA,8835,Weofel,Brown,,9,8,7,11,[21],21,18,20,[39 DNC],94,13
 USA,8829,Chris Behm,Steve Yates,,15,[18],[24],16,16,11,12,15,16,101,14
 USA,8194,Thomas Kivney,Gordon Russell,,19,14,13,12,15,13,[23],[23],17,103,15
-USA,6985,Breton,MacDonnell,,18,15,12,[20],17,14,[20],16,19,111,16
+USA,6985,Mike Breton,MacDonnell,,18,15,12,[20],17,14,[20],16,19,111,16
 USA,8018,Steele,Solomon Marini,,16,13,[26],17,14,24,[26],19,12,115,17
 CAN,8696,Deborah Ashby,David Adams,,14,20,15,[23],22,[23],21,11,20,123,18
 USA,8790,John Wyles,Peter Beardsley,,20,[23],18,[39 DNC],19,18,13,21,15,124,19
@@ -32,7 +32,7 @@ CAN,8442,Matt Davidge,Stephen Adolph,,[28],28,23,26,[29],26,27,28,27,185,30
 USA,8351,Douglas Watson,Chris Watson,,25,30,22,27,30,31,[34],[32],26,191,31
 CAN,8587,Pat Ware,Kevin Powick,,[39 DNF],32,[39 DNF],39 DNF,39 DNC,32,29,33,33,235,32
 CAN,7857,Shona Weldon,Michael Wonnacott,,32,[39 DNC],[39 DNC],39 DNF,39 DNC,33,32,31,31,235,33
-,8776,Maldari,Maldari,,[39 DNF],33,[39 DNS],28,39 DNC,36,35,34,32,236,34
-,5990,Janidlo,Doyle,,[39 DNF],[39 DNF],39 DNC,29,39 DNC,34,37,37,34,247,35
-,7798,Wilson,Kietly,,[39 DNC],[39 DNC],39 DNC,39 DNC,39 DNC,35,31,36,39 DNF,254,36
+USA,8776,Frank Maldari,S. Maldari,,[39 DNF],33,[39 DNS],28,39 DNC,36,35,34,32,236,34
+CAN,5990,Janidlo,Doyle,,[39 DNF],[39 DNF],39 DNC,29,39 DNC,34,37,37,34,247,35
+CAN,7798,Wilson,Kietly,,[39 DNC],[39 DNC],39 DNC,39 DNC,39 DNC,35,31,36,39 DNF,254,36
 USA,7061,Geoff Cashman,Gerbolini,,[39 DNF],[39 DNF],39 DNC,39 DNC,39 DNC,37,36,35,39 DNC,260,37
