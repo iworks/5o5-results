@@ -208,3 +208,117 @@ jib to the inside edge of the tanks now. A few, including Brauch and
 Warfield, each quite fast in a breeze, can pull the jib fairleads
 outboard. Spinnaker fairleads are being moved forward for the smaller
 spinnakers and, finally, stripes are definitely considered fast now.
+
+
+--------------------------------
+
+ENTRY LIST
+
+AUSTRALIA
+KA 5952 I.Brown, M.Burke
+KA 6211 J. D. Gilder, S.Sievewright
+KA 6212 A.Wangel, M.Pearson
+KA 6213 T.Kyrwood, R.Crick
+
+DENMARK
+D 5915 D.Holm, J.Thielsen
+D 5962 H.Andersen, J.Thomsen
+D 6208 J.Bojsen Møller, J.Bojsen Møller
+D 6343 J.Schonherr, A.Kampe
+D 6354 H.West, N.Thielsen
+D 6454 N.Ringsted, K.Vejborg
+D 6550 J.Eppers, S.Loppenthin
+
+FINLAND
+L 5315 E.Vahtera, J.Nordlund
+L 5317 S.Winqvist, T.Lydman
+L 5335 K.Wilén, J.Wilén
+L 5750 T.Seppänen, T.Seppänen
+L 6115 S.Falck, P.Österman
+
+FRANCE
+F 5039 M.Buffet, Y.Brézot
+F 5400 L.Leger, Chaput
+F 5464 S.Guillaume, W.Dombroviszky
+F 5566 A.Ribeaud, Y.Noel
+F 6094 M.Conan, Conan
+F 6179 P.Conan, A.Champy
+F 6222 J.Langlois, P.Serane
+F 6250 Y.Potter, Y.Breurec
+F 6347 M.Loday, Y.Kergreis
+F 6411 R.Tristan, P.Fountaine
+F 6448 G.Le Troquer, E.Devaux
+F 6459 M.Christ, J.Chouraki
+F 6586 G.Derché, A.Derché
+F 6590 Leibovitch, F.Johansen
+
+GERMANY
+G 5652 R.Wiedemar, H.W.Sthal
+G 6225 B.Eberl, L.Eberl
+G 6398 H.Franke, L.Groenevelt
+G 6500 B.Preuss, R.Bertenrath
+G 6506 S.Kurys-Römer, V.Andreae
+G 6618 H.Petersen, A.Mussbach
+G 6652 H.Lüttringhaus, P.Müllenmeister
+G 6683 M.Dietz, W.Strohurayer
+
+KENYA
+KK 6458 J.A.Rowland, S.Ballegård
+
+RHODESIA
+KR 6603 J.O'Connor, R.O'Connor
+SOUTH AFRICA
+SA 6644 P.Hishin, W.Angus
+
+SWITZERLAND
+Z 5617 P.Wismer, H.Rust
+Z 5695 P.Durr, J.-C. Burdet
+Z 5878 J.Zuppiger, M.Brechbuhler
+Z 6382 J.-M.Ravonel, A.Ravonel
+Z 6386 U.Scherrer, J.Himmelsbach
+Z 6475 T.Vandeveld, D.Gay
+Z 6480 M.Ingold, P.Neth
+Z 6481 W.Müller, H.Stutz
+
+SWEDEN
+S 5227 T.Widstrand, E.Wallin
+S 5796 E.Rosen, O.Wenrup
+S 6143 S.Eriksson, K.Lidman
+S 6144 K.Bergstrom, M.Bergstrom
+S 6621 K.E.Nilsson, J.Calvert
+S 6630 S.Eklund, A.Eklund.
+
+UNITED KINGDOM
+K 6021 B.Napier, J.Gray
+K 6318 K.Jerkins, G.Carruthers
+K 6447 D.White, J.Davies
+K 6505 M.Lawton, T.Lawton
+K 6517 S.France, R.Roberton
+K 6525 P.Bainbridge, J.Campell
+K 6539 M.Lingwood, J.Labbett
+K 6544 N.Willmott, P.Willmott
+K 6553 P.White, W.Hartje
+K 6583 M.Wilson, J.Donaldson
+K 6589 P.Colclough, P.Brown
+K 6594 P.Milanes, C.Lippi
+K 6595 M.Hattemore, M.Payne
+K 6642 D.Farrant, B.Moss
+K 6673 E.W.Owen, A.Gray
+
+USA
+US 6136 J.Andron, H.Hamlin
+US 6137 S.Lindsay, M.Lindsay
+US 6193 B.Eck, J.Weymoth
+US 6270 J.Brim, T.Hammick
+US 6281 J.Daeschler, M.Arstral
+US 6291 J.Brauch, G.Beck
+US 6292 S.Taylor, D.Penfield
+US 6311 E.Bixby, L.Rosenfeld
+US 6446 J.B.Ingram, A.Tristram
+US 6477 A.Campell, G.Johnson
+US 6495 T.Kivney, S.Honey
+US 6540 J.Warfield, J.Gilmour
+US 6571 C.Hyde, C.Buchan
+US 6646 J.McKee, B.McKee
+US 6688 D.Surtees, R.Parker
+US 6693 Tim Pape, C.McKee
