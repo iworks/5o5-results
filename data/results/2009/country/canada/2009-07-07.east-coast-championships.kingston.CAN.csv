@@ -1,9 +1,9 @@
-Nation,SailNo,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Race 7,Race 8,Race 9,Total,Nett,Rank
+nation,SailNo,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Race 7,Race 8,Race 9,Total,Nett,Rank
 USA,8629,Chris Behm,Jesse Falsone,HYC/SSA,1,2,1,1,1,2,[4],2,[21 DNC],35,10,1
 CAN,8264,Jeff Boyd,Martin ten Hove,KYC,3,3,5,[7],4,3,1,1,[10],37,20,2
 USA,8012,Henry Amthor,Dustin Romey,HYC,2,1,3,2,2,4,[7],6,[8],35,20,4
 USA,8722,Macy Nelson,Parry Barclay,WRSC/LEHYC,[8],4,2,6,[7],1,5,3,4,40,25,8
-USA,7611,Turney,Turney,,4,6,[21 DNF],4,3,[15],6,4,1,64,28,16
+USA,7611,JB Turney,Ned Turney,,4,6,[21 DNF],4,3,[15],6,4,1,64,28,16
 USA,7346,John Loe,Craig Thompson,,6,[21 DNF],4,5,[9],5,9,5,3,67,37,32
 CAN,8442,Kroeger,Stephen Adolph,NSC,5,8,[21 DNF],3,6,[13],2,10,5,73,39,64
 CAN,8696,Asbury,David Adams,NSC,9,5,10,8,10,7,3,[11],[12],75,52,128

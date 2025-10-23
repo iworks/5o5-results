@@ -3542,7 +3542,7 @@ class iworks_5o5_upload_fixer {
 			'D. Johnson' => 'D. Johnson',
 		),
 		array(
-			'C. Davis'   => 'Clive Davis',
+			'C. Davis'   => 'Clive R. Davis',
 			'B. Goodlad' => 'B. Goodlad',
 		),
 		array(
@@ -7818,9 +7818,6 @@ class iworks_5o5_upload_fixer {
 		}
 		return trim( $crew );
 	}
-
 }
 
-new iworks_5o5_upload_fixer;
-
-
+new iworks_5o5_upload_fixer();
