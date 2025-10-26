@@ -4050,6 +4050,7 @@ class iworks_5o5_upload_fixer {
 		'A.J. Conrads'                => 'AJ Conrads',
 		'Åkesson Fredrik'             => 'Fredrik Åkesson',
 		'Al Meller'                   => 'Alexander "Ali" Meller',
+		'Alexander Ali Meller'        => 'Alexander "Ali" Meller',
 		'Alain Beltzung'              => 'Alain Beltzung',
 		'Alain Brasley'               => 'Alain Brasey',
 		'Alain Karadjan'              => 'Alain Karadjian',
