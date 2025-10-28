@@ -1126,6 +1126,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2009-04-04,2009-04-05,Spring Meeting,,2,9,,,,,,,2° International Spring Meeting,2009/country/italy/2009-04-05.spring-meeting.ITA.csv,,,ITA,2020-11-08,,
 2009-04-04,2009-05-09,Spring Series,,6,6,"Annapolis, MD",Severn Sailing Association,,,,,,2009/country/usa/2009-05-09.spring-series.annapolis-md.USA.csv,,Chesapeake Bay,USA,2022-04-21,,
 2009-04-10,2009-04-10,Saint Raphaël,,6,66,Saint Raphaël,,,,,,,2009/country/france/2009-04-10-ec-france-st-raphael.st-raphael.FRA.csv,Euro Cup,,FRA,2020-07-20,,
+2009-04-11,2009-10-04,Transalp Cup Results,,4,82,,,,,,,,2009/continental/2009.transalp.csv,TransAlp Cup,,EU,2025-10-28,Marco Giraldi,Saint-Raphaël;Campione;Tutzing;Neuchâtel
 2009-04-18,2009-04-19,Zwischenahn,,4,17,Zwischenahn,,,,,,,2009/country/germany/2009-04-19.zwischenahn.zwischenahn.GER.csv,,,GER,2023-03-24,,
 2009-04-25,2009-04-25,North Vaal Championship,,9,13,Vaal Dam,Aeolians Sailing Club,,,,,,2009/country/south-africa/2009-04-25.nsa-championships.RSA.csv,,Vaal Dam,RSA,2020-08-04,,
 2009-04-25,2009-04-26,French Inland Championship,,1,18,Plobsheim,,,,,,,2009/country/france/2009-04-26.french-inland-championship.plobsheim.FRA.csv,,,FRA,2021-07-03,,
@@ -1187,6 +1188,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2010-03-27,2010-03-28,Coupe des Vrais Bateaux,,7,35,Lusigny-sur-Barse,Club Nautique Haute Seine,Jean Pierre Salou,Jacques Terrasson,,,,2010/country/france/2010-03-28.coupe-des-vrais-bateaux.lusigny-sur-barse.FRA.csv,,,FRA,2020-07-28,,
 2010-03-27,2010-03-28,Pre Euro Cup – France,,4,,Andora,,,,,,,2010/country/italy/2010-03-28.pre-euro-cup.andora.ITA.csv,,,ITA,2020-09-12,,
 2010-04-02,2010-04-04,Cannes,,6,71,Cannes,Yacht club de Cannes,,,,,,2010/country/france/2010-04-01.euro-cup.cannes.FRA.csv,"Euro Cup, TransAlp Cup",Mediterranean Sea,FRA,2020-08-19,,
+2010-04-02,2010-12-31,Transalp Cup Results,,4,71,,,,,,,,2010/continental/2010.transalp.csv,TransAlp Cup,,EU,2025-10-28,Marco Giraldi,Cannes;Campione;Tutzing;Neuchâtel
 2010-04-04,2010-04-05,Spring Series,,7,10,"Annapolis, MD",Severn Sailing Association,,,,,,2010/country/usa/2010-04-05.spring-series.annapolis-md.USA.csv,,Chesapeake Bay,USA,2022-04-21,,
 2010-04-17,2010-04-18,Zwischenahn,,3,24,Zwischenahn,,,,,,,2010/country/germany/2010-04-18.zwischenahn.zwischenahn.GER.csv,,,GER,2023-03-13,,
 2010-04-24,2010-04-25,Régional Est,Regional East,4,16,Plobsheim,,,,,,,2010/country/france/2010-04-25.regional-east.plobsheim.FRA.csv,,,FRA,2023-03-14,,
@@ -1246,12 +1248,15 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2010-11-20,2010-11-21,Letzte Helden,Last Heroes,2,33,Hamburg,,,,,,,2010/country/germany/2010-11-21.last-heroes.hamburg.GER.csv,,,GER,2023-03-24,,
 2011-01-01,2011-01-01,Canadian Championship,,,,,,,,,,,2011/country/canada/2011.canadian-championship.csv,National,,CAN,2024-09-18,,
 2011-01-01,2011-01-01,South African National Championship,,10,10,Richards Bay,Zululand Yacht Club,,,,,,2011/country/south-africa/2011.south-african-national-championship.RSA.csv,National,,RSA,2020-08-26,,
+2011-01-01,2011-01-01,Swiss Open & TransAlp Cup,,,16,Neuchâtel,Cercle de la voile de Neuchâtel,,,,,,2011/country/switzerland/2011.swiss-open.neuchatel.SUI.csv,"National,TransAlp Cup",,SUI,2025-10-28,Marco Giraldi,
 2011-01-20,2011-01-23,Ski et Voile,Skiing and Sailing,7,24,Antibes,Club Nautique d'Antibes,,,,,,2011/country/france/2011-01-23.ski-et-voile.antibes.FRA.csv,,,FRA,2021-07-04,,
 2011-01-31,2011-02-01,Charity Regatta,,4,6,Rietvlei,Pretoria Sailing Club,,,,,,2011/country/south-africa/2011-02-01.charity-regatta.rietvlei.RSA.csv,,,RSA,2020-08-26,,
 2011-03-12,2011-03-13,Spring Dinghy,,5,4,"San Francisco, CA",St. Francis Yacht Club,,,,,,2011/country/usa/2011-03-13.spring-dinghy.san-francisco-ca.USA.csv,,,USA,2020-08-04,,
 2011-03-20,2011-03-24,Pre-Worlds,,3,78,"Hamilton Island,AUS",,,,,,,2011/world/2011-03-24.pre-world.hamilton-island.csv,Pre-Worlds,,AUS,2023-02-05,,
 2011-03-20,2011-04-01,Australian National Championships,,7,47,Hamilton Island,,,,,,Nationals results is a result from Worlds but only for Australians.,2011/country/australia/2011.australia-national-championships.hamilton-island.AUS.csv,National,,AUS,2024-02-09,,
 2011-03-20,2011-04-01,World Championship,,7,85,"Hamilton Island,AUS",,,,,,,2011/world/2011-04-01-world-championship-hamilton-island.csv,World,,AUS,2018-08-30,,
+2011-04-11,2011-12-31,Transalp Cup Results,,4,82,,,,,,,,2011/continental/2011.transalp.csv,TransAlp Cup,,EU,2025-10-28,Marco Giraldi,Cannes;Campione;Walchensee;Neuchâtel
+2011-04-11,2011-12-31,Transalp Cup Results,,4,82,,,,,,,,2011/continental/2011.transalp.csv,TransAlp Cup,,EU,2025-10-28,Marco Giraldi,Cannes;Campione;Walchensee;Neuchâtel
 2011-04-22,2011-04-24,Cannes,,7,53,Cannes,,,,,,,2011/country/france/2011-04-24.euro-cup-france.cannes.FRA.csv,"Euro Cup, TransAlp Cup",Mediterranean Sea,FRA,2021-07-09,,
 2011-04-30,2011-05-01,Régional Est,Regional East,5,15,Plobsheim,,,,,,,2011/country/france/2011-05-01.regional-east.plobsheim.FRA.csv,,,FRA,2023-02-05,,
 2011-04-30,2011-05-01,Wittensee Fight,,5,17,Wittensee,Wassersport-Club am Wittensee e.V.,,,,,,2011/country/germany/2011-05-01.wittensee-fight.wittensee.GER.csv,,,GER,2020-11-08,,
@@ -1362,6 +1367,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2013-02-22,2013-02-24,Midwinter Championship,,10,,,,,,,,,2013/country/usa/2013-02-24.midwinter-championship.USA.csv,,,USA,2020-07-21,,
 2013-03-23,2013-03-24,Coupe Chassenay d’Arce des Vrais Bateaux,,6,23,,,Jean Pierre Salou,Jacques Terrasson,,,,2013/country/france/2013-03-24.coupe-chassenay-d-arce-des-vrais-bateaux.FRA.csv,,,FRA,2020-07-28,,
 2013-03-29,2013-03-31,Euro-Cup France,,3,43,Toulon,,,,,,,2013/country/france/2013-03-31.euro-cup.cannes.toulon.FRA.csv,"Euro Cup, TransAlp Cup",,FRA,2021-07-09,,
+2013-03-29,2013-12-31,Transalp Cup Results,,4,48,,,,,,,,2013/continental/2013.transalp.csv,TransAlp Cup,,EU,2025-10-28,Marco Giraldi,Toulon;Campione;Walchensee;Neuchâtel
 2013-04-07,2013-06-09,Spring Series,,3,5,"Annapolis, MD",Severn Sailing Association,,,,,,2013/country/usa/2013-06-09.spring-series.annapolis-md.USA.csv,,Chesapeake Bay,USA,2022-04-21,,
 2013-04-20,2013-04-21,Zwischenahn,,5,16,Zwischenahn,,,,,,,2013/country/germany/2013-04-21.zwischenahn.zwischenahn.GER.csv,,,GER,2023-02-28,,
 2013-04-22,2013-05-03,World Championship,,9,77,"Barbados,Bridgetown",,,,,,,2013/world/2013-05-03-world-championships-barbados.csv,World,,BAR,2018-09-11,,
@@ -2071,12 +2077,6 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 2025-09-26,2025-09-28,Skiff Regatta,,6,16,"Long Beach, CA",Alamitos Bay Yacht Club,,,,,,2025/country/usa/2025-09-28.skiff-regatta.long-beach-ca.USA.csv,,,USA,2025-10-26,Craig Thompson,
 2025-10-22,2025-10-25,European Championship,,5,58,L'Estartit,Club Nàutic Estartit,,,,,,2025/continental/2025-10-25.european-championship.lestartit.ESP.csv,"Continental,Europe,Euro Cup",,ESP,2025-10-22,,
 2025-10-25,2025-10-26,Fall Dinghy,,6,10,"San Francisco, CA",St. Francis Yacht Club,,,,,,2025/country/usa/2025-10-26.fall-dinghy.san-francisco.USA.csv,,,USA,2025-10-27,,
-2011-04-11,2011-12-31,Transalp Cup Results,,4,82,,,,,,,,2011/continental/2011.transalp.csv,TransAlp Cup,,EU,2025-10-28,Marco Giraldi,Cannes;Campione;Walchensee;Neuchâtel
-2011-01-01,2011-01-01,Swiss Open & TransAlp Cup,,,16,Neuchâtel,Cercle de la voile de Neuchâtel,,,,,,2011/country/switzerland/2011.swiss-open.neuchatel.SUI.csv,"National,TransAlp Cup",,SUI,2025-10-28,Marco Giraldi,
-2011-04-11,2011-12-31,Transalp Cup Results,,4,82,,,,,,,,2011/continental/2011.transalp.csv,TransAlp Cup,,EU,2025-10-28,Marco Giraldi,Cannes;Campione;Walchensee;Neuchâtel
-2013-03-29,2013-12-31,Transalp Cup Results,,4,48,,,,,,,,2013/continental/2013.transalp.csv,TransAlp Cup,,EU,2025-10-28,Marco Giraldi,Toulon;Campione;Walchensee;Neuchâtel
-2009-04-11,2009-10-04,Transalp Cup Results,,4,82,,,,,,,,2009/continental/2009.transalp.csv,TransAlp Cup,,EU,2025-10-28,Marco Giraldi,Saint-Raphaël;Campione;Tutzing;Neuchâtel
-2010-04-02,2010-12-31,Transalp Cup Results,,4,71,,,,,,,,2010/continental/2010.transalp.csv,TransAlp Cup,,EU,2025-10-28,Marco Giraldi,Cannes;Campione;Tutzing;Neuchâtel
 ,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,
