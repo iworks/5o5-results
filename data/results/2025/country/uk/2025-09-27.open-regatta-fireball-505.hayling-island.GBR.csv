@@ -1,15 +1,15 @@
-Country,Sail NO,Helm,Crew,Club,Race 1,Race 2,Race 3,Points,Netto,Place
-GBR,9246,Michael Sims,Carl Gibbon,Carsington / Burton,1.0,(2.0),1.0,4.0,2.0,1
-GBR,9215,Roger Gilbert,Ian Mitchell,HISC,2.0,1.0,(3.0),6.0,3.0,2
-GBR,9238,Ian Pinnell,Charles Dwyer,HISC,(3.0),3.0,2.0,8.0,5.0,3
-GBR,9232,Robert Gullan,Paul Childs,Hisc,4.0,(6.0),4.0,14.0,8.0,4
-GBR,9039,Ben Mcgrane,James Ross,HISC,5.0,4.0,(6.0),15.0,9.0,5
-GBR,9214,Andy Smith,Jonny Mildred,Northampton SC,(6.0),5.0,5.0,16.0,10.0,6
-GBR,8970,Harvey Hillary,Harvey Hillary,DQSC / HISC,(7.0),7.0,7.0,21.0,14.0,7
-GBR,9236,Jim Blyth,Darrel Samerdule,Largo bay,(12.0),8.0,8.0,28.0,16.0,8
-GBR,9168,Miles Odell,Andrew Streeter,HISC/Northampton,8.0,(9.0),9.0,26.0,17.0,9
-GBR,9104,Chris Turner,Colin Parke,HISC,9.0,(12.0),11.0,32.0,20.0,10
-GBR,8511,Steve Culpitt,Mark Nicholson,HISC,10.0,10.0,(15.0 DNF),35.0,20.0,11
-GBR,8708,Sam Goult,Ned Fairhurst,FPSC,(11.0),11.0,10.0,32.0,21.0,12
-GBR,8423,Stuart Doe,Phill Newsom,Thorney Island Sailing Club,(15.0 DNC),13.0,12.0,40.0,25.0,13
-GBR,9180,Judith Williamson,Dan Martin,HISC,(15.0 DNC),15.0 DNC,15.0 DNC,45.0,30.0,14
+Country,Sail No,Helm,Crew,Club,R1,R2,R3,R4,Pts,Place
+GBR,9246,Michael Sims,Carl Gibbon,Carsington / Burton,1,[2],1,2,4,1
+GBR,9238,Ian Pinnell,Charles Dwyer,HISC,[3],3,2,1,6,2
+GBR,9215,Roger Gilbert,Ian Mitchell,HISC,2,1,3,[DNC],6,3
+GBR,9232,Robert Gullan,Paul Childs,Hisc,4,[6],4,3,11,4
+GBR,9214,Andy Smith,Jonny Mildred,Northampton SC,[6],5,5,4,14,5
+GBR,9039,Ben Mcgrane,James Ross,HISC,5,4,[6],5,14,6
+GBR,8970,Harvey Hillary,Cam Mitchell,DQSC / HISC,[7],7,7,6,20,7
+GBR,9236,Jim Blyth,Darrel Samanjoul,Largo bay,[12],8,8,9,25,8
+GBR,9168,Miles Odell,Andrew Streeter,HISC/Northampton,8,9,9,[DNC],26,9
+GBR,8708,Sam Goult,Ned Fairhurst,FPSC,[11],11,10,8,29,10
+GBR,8511,Steve Culpitt,Mark Nicholson,HISC,10,10,[DNF],10,30,11
+GBR,9104,Chris Turner,Colin Parke,HISC,9,[12],11,11,31,12
+GBR,9180,Judith Williamson,Ian Mitchell,HISC,[DNC],DNC,DNC,7,37,13
+GBR,8423,Stuart Doe,Phill Newsom,Thorney Island Sailing Club,[DNC],13,12,12,37,14
