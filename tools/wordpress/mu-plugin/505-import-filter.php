@@ -1271,7 +1271,7 @@ class iworks_5o5_upload_fixer {
 		),
 		array(
 			'Kivney'     => 'Thomas Kivney',
-			'Chamberlin' => 'Wolf Chamberlain',
+			'Chamberlin' => 'Wolfgang Chamberlain',
 		),
 		array(
 			'Kivney' => 'Thomas Kivney',
@@ -7488,7 +7488,7 @@ class iworks_5o5_upload_fixer {
 		'Wieting Thomas'              => 'Thomas Wieting',
 		'Wihlfahrt Urs'               => 'Urs Wihlfahrt',
 		'Wikar Markus'                => 'Markus Wikar',
-		'Wilf Cham'                   => 'Wolf Chamberlain',
+		'Wilf Cham'                   => 'Wolfgang Chamberlain',
 		'Wilfahrt Urs'                => 'Urs Wilfahrt',
 		'Wilhelm Aleaxander'          => 'Alexander Wilhelm',
 		'Wilhelm Alexander'           => 'Alexander Wilhelm',

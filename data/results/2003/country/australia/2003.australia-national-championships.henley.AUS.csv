@@ -1,2 +1,30 @@
-Country,Boat NO,Helm,Crew,Club,Race 1,Total,Place
-AUS,,Sandy Higgins,Paul Marsh,,,,1
+Country,Boat NO,Helm,Crew,Club/Region,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Invitation Race,Boat Name,Total,Netto,Place
+AUS,8839,Sandy Higgins,Paul Marsh,SA,2,1,1,1,1,1,2,Hawaii Five-O,3,0,1
+AUS,8801,Peter Chappell,Sam Gill,WA,1,3,DNF,5,3,2,5,The Fish,"59,4","24,4",2
+AUS,8796,Malcolm Higgins,Andrew Chisholm,SA,4,4,4,2,6,3,8,Fangin Hoons,"59,4","32,7",3
+AUS,7901,Damian Carey,Marcus Cooper,SA,6,2,3,3,5,12,10,Vintage Crop,"54,1","36,1",4
+AUS,8667,Scott Olsen,Sean Gregory,WA,3,5,2,9,9,7,4,Swing Shift,"61,7","46,7",5
+AUS,8809,Leslie Nathanson,Richard Machin,QLD,8,6,5,7,2,5,3,Scalpel,"62,2","47,7",6
+AUS,8813,Brett van Munster,Geoff Lange,NSW,5,13,7,6,4,8,DNF,Van Munster Boat Building,"75,7","56,7",7
+AUS,8682,Kate Quinn,Ian Gregg,QLD,7,7,DNF,11,8,6,1,Go to Red,"103,7","68,7",8
+AUS,8499,Neil Long,Malcolm 'Pip' Pearson,NSW,10,9,11,15,7,4,7,Blue Slip,90,69,9
+AUS,8759,Scott Ovenden,Bryce Penfold,NSW,15,8,10,12,10,14,11,The Missus,105,84,10
+AUS,8783,Fletcher Kennedy,Ben Greenhough,SA,13,14,13,8,11,17,DNF,Lucy Fur,112,89,11
+AUS,8785,Ian Burford,Michael Cronin,SA,8,11,8,14,18,18,20,SS Card Sharks,114,90,12
+AUS,8840,Michael Quirk,Michael O'Donnell,NSW,14,10,6,4,DNF,DNF,14,The Full Monty,"12,7","91,7",13
+AUS,8781,Earle Alexander,Dustin Carlsson,QLD,18,18,12,17,13,9,16,Audit Services International,123,99,14
+AUS,8524,Richard Gallimore,Mark Jackson,NSW,16,11,9,DNF,DNF,11,DNF,Five oh Magic,"143,5","107,5",15
+AUS,8173,Bob Fussell,Jeremy Fussell,NSW,21,20,19,10,15,16,9,Fuss Bus,137,110,16
+AUS,8795,Martin Pike,Paul Sanderco,SA,23,25,16,20,12,10,17,Sleek,142,111,17
+AUS,8794,Edward Cox,Holger Neuhaus,NSW,20,19,18,21,20,13,DNC,Voyager,147,120,18
+AUS,8765,Bill Edwards,Andrew Murray,NSW,25,26,14,16,14,DNF,22,C.S.D,161,125,19
+AUS,8606,Adrian Cooper,Amy Cooper,SA,24,23,15,18,16,DNF,19,Bacon & Eggs Eh!,162,126,20
+AUS,7904,Sam Cronin,Ben Amos,NSW,22,17,20,22,17,DNF,DNF,Savage Live Worms,164,128,21
+AUS,8648,Jeffrey Robinson,Kent Penfold,NSW,19,22,21,19,19,DNF,21,Never Fear Robbos Here,166,130,22
+AUS,8638,John Davidson,Mick Patrick,QLD,12,15,DNF,DNF,DNS,DNS,12,Funk Odyssey,182,146,23
+AUS,8739,Ian Dunn,David Page,NSW,11,16,DNS,DNS,DNS,DNS,6,Show Me the Money,182,146,24
+AUS,8739,Carter Jackson,David Page,NSW,DNS,DNS,DNS,13,DNF,15,DNS,Show Me the Money,184,148,25
+AUS,8036,Julie Meehan,Bronwyn Adamson,WA,26,27,22,23,21,DNF,15,No Mans Land,185,149,26
+AUS,8503,David Collie,Tim Sampson,QLD,17,21,DNS,DNS,DNS,DNS,13,On the Job,193,157,27
+AUS,8092,Chris Went,Karl Olsen,SA,DNF,24,17,DNF,DNS,DNS,18,Eight O Nine Two,196,160,28
+AUS,8292,Mark Scrymgour,Jeff Frankish,SA,27,28,23,24,DNF,DNF,23,Zooom,198,162,29

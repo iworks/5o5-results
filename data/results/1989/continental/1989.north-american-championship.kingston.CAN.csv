@@ -1,4 +1,13 @@
-Country,Boat Number,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Boat Name,Points Total,Points Netto,Place
-USA,7093,Ethan Bixby,Cam Lewis,,,,,,,,,,1
-USA,,Macy Nelson,Mike Martin,,,,,,,,,,2
-USA,,Mike Punnet,Scott Ikle,,,,,,,,,,3
+Country,Boat Number,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Points Total,Points Netto,Place
+USA,7093,Ethan Bixby,Cameron Lewis,,1,1,5,1,1,,,,1
+USA,,Macy Nelson,Mike Martin,,,2,,2,5,2,,,2
+USA,,Mike Punnett,Scott Iklé,,2,8,,3,2,4,,,3
+USA,7875,Jeff Miller,Bruce Heckman,,3,5,1,,,3,,,4
+USA,7100,Neal Fowler,Duncan Skinner,,4,3,,5,,,,,5
+USA,7873,Ellen Ablow,Alan Norman,,,,2,,,5,,,6
+USA,,Jim Englert,Jim Alman,,,,,,3,,,,7
+CAN,,Dave Penfield,Dave Dyson,,,,3,,,,,,
+USA,7774,Paul Tara,Mead Hopkins,,,,4,,,,,,
+USA,7876,Gary Bodie,Kevin Eley,,,,,,4,,,,
+CAN,,Robin Brown,Philip Cragg,,,,,,,1,,,
+USA,,"Alexander ""Ali"" Meller",Mike Smith,,,4,,4,6,,,,
