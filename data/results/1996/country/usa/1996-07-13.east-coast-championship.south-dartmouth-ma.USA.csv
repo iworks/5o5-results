@@ -1,16 +1,16 @@
-Nation,Sail #,Skipper,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Total Points,After Drop,Pos.
-USA,8263,Ali Meller,Allan Johnson,,"0,75","0,75",2,2,"0,75",2,"8,25","6,25",1
-CAN,8264,Jeff Boyd,Martin tenHove,,4,2,5,4,8,3,26,18,2
+Nation,Sail #,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Total Points,After Drop,Pos.
+USA,8263,"Alexander ""Ali"" Meller",Allan Johnson,,"0,75","0,75",2,2,"0,75",2,"8,25","6,25",1
+CAN,8264,Jeff Boyd,Martin ten Hove,,4,2,5,4,8,3,26,18,2
 USA,7318,Zack Leonard,Peter Alarie,,8,5,9,1,4,1,"27,5","18,5",3
 USA,8191,Macy Nelson,John Fry,,3,3,4,5,6,4,25,19,4
 USA,7096,Bryan Largay,Matt Sanders,,6,7,13,3,2,6,37,24,5
 USA,8083,Neal Fowler,Dave Dyson,,2,8,8,8,19,8,53,34,6
-USA,8012,Henry Amthor,Doug Amthor,,9,4,1,11,11,14,"49,75","35,75",7
+USA,8012,Henry Amthor,Douglas Amthor,,9,4,1,11,11,14,"49,75","35,75",7
 USA,8015,Jonathan Phillips,Monty Schumpert,,7,10,10,6,7,7,47,37,8
 USA,8610,Nick Trotman,Mike Mills,,11,6,6,19,5,9,56,37,8
 USA,8060,Mike Collins,Bill Smith,,13,9,3,7,9,11,52,39,10
-USA,8629,Tyler Moore,Scott Ikle,,5,24,12,14,3,5,63,39,10
-USA,8194,Tom Kivney,Tom Russell,,10,13,15,9,10,12,69,54,12
+USA,8629,Tyler Moore,Scott Iklé,,5,24,12,14,3,5,63,39,10
+USA,8194,Thomas Kivney,Tom Russell,,10,13,15,9,10,12,69,54,12
 USA,8576,Terry Neff,Mark Bellerman,,12,11,7,12,16,20,78,58,13
 USA,7358,Bill Healey Jr.,Dave Peck,,15,12,16,15,12,15,85,69,14
 USA,6821,William Pevear,Jan Aase,,14,14,17,24,14,13,96,72,15
@@ -23,7 +23,7 @@ USA,6311,Chris Museler,John Alden Meade,,DNS (29),17,20,18,20,18,122,93,21
 USA,1*,Nick Grey,Gerard Kivney,,DNS (29),DNS (29),DNS (29),10,18,16,132,103,22
 USA,7148,Peter Mignerey,George Saunders,,20,21,25,27,17,21,131,104,23
 USA,6985,Dylan Breton,Mike Breton,,23,22,22,20,23,22,132,109,24
-CAN,7798,Marg Hurley,Mike Hoffman,,19,25,19,26,27,26,142,115,25
+CAN,7798,Margaret Hurley,Michael Hoffman,,19,25,19,26,27,26,142,115,25
 USA,7876,Brandon Charif,Ted Baylis,,24,23,23,22,25,DNF (29),146,117,26
 USA,8059,Bob Edenbach,Geoff Ewenson,,DNS (29),DNS (29),DNS (29),25,26,DNF (29),161,132,27
 USA,8311,Barry Kuehl,Jon Singsen,,DNS (29),DNS (29),DNS (29),28,24,DNS (29),168,139,28
