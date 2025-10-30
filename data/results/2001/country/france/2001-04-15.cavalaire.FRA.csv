@@ -1,38 +1,66 @@
-Nation,Boat no,Helm,Crew c,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Points,Place
-GER,8775,Wolfang Hunger,Holger Jess,,7,1,1,2,2,2,8,1
-GER,8725,Dietrich Scheder-Bieschin,Rolf Meyer,,18,17,3,1,1,1,23,2
-FRA,8702,Philippe Boite,Fabrice Toupet,,6,4,2,10,3,10,25,3
-SUI,8729,Jean-Francois de Cerjat,P Jawt,,1,5,6,7,8,22,27,4
-FRA,8564,Laurent Hay,Jean Pierre Gallo,,5,2,11,9,9,5,30,5
-GER,8632,Christian Kellner,Joha Stammer,,13 OCS,4,5,6,3,,31,6
-GBR,8774,Ian Pinnell,Tim Hancock,,11,18,5,6,4,17,43,7
-GBR,8776,Charles Walters,Chri Diebltsch,,3,33,9,13,12,16,53,8
-FRA,8709,Alain Boite,Goff le Maxime,,16,32,7,16,5,11,55,9
-FRA,8687,Francois Fischer,Jerom Delvaux,,19,8,14,4,14,27,59,10
-DEN,8440,Per Larsen,Henrir Andersen,,17,9,25,3,34,7,61,11
-GER,8720,Dirk Filimonow,Lars Stockmann,,12,16,8,12,13,DNC,61,12
-GER,8750,Christian Mullejans,Karst Morf,,29,12,10,15,7,20,64,13
-GER,8376,Volker Niediek,Stefan Hiesing,,39,6,17,11,17 SCP,,79,14
-SUI,8569,Rene Betschen,Patrck Ducommun,,4 OCS,15,17,16,28,,80,15
-GER,8747,Jorg Thumann,Oliver Stieglitz,,30,27,12,8,21,13,81,16
-FRA,8541,Francis Doerenbecher,Doerenbec,,20,36,20,29,23,4,96,17
-FRA,8716,Christian Silvestre,Pi Partant,,15,11,29,28,44 SCP,,98,18
-GER,8542,Tom Swift,Dennis Kummutat,,26,29,13,14,19 SCP,,98,19
-GER,8769,Stefan Bohm,Gerald Roos,,8,3,DNC,18,11,DNC,106,20
-DEN,8656,Benoit Valleteau de Mouliac,Sc,,24,13,DNC,25,22,25,109,21
-GER,8777,Stefan Schollmayer,Fr Sanguino,,14,19,27,32,18,31,109,22
-GER,8662,Jan Stoelken,Matthias Bruehl,,21,22,18,22,37,26,109,23
-GER,8633,Julien Fernandez,Wolfga Stuckl,,45,41,19,27,24,9,120,24
-FRA,8761,Serge Gubri,Marc Riot,,33 OCS,16,20,25,33,,127,25
-GBR,8708,Martin Wedge,Jonny Mildred,,32,10,DNC,DNC,15,6,129,26
-FRA,8090,Loic Bleuez,Michel Bonnet,,57,25,31,19,30,30,135,27
-GER,8721,Martin Seikel,Norbert Becker,,31,20,DNC,DNC,10,12,139,28
-FRA,8509,Pierre Muh,Dominiqu Keraudrenv,,46,15,30,21,35,42,143,29
-GER,8519,Robert Wisolek,Oliver Paulsen,,10 OCS,21,31,20,DNC,,148,30
-FRA,8695,Jean-Guy Puissant,Eti Seguelas,,40 OCS,22,24,27,41,,154,31
-FRA,8748,Muriel Jeanne,Gilles Carvallo,,35,28,32,30,43,38,163,32
-FRA,8400,Marc Jouany,Eric Billod,,42,45,26,38,38,23,167,33
-SUI,8079,Lorenz Nydegger,Marti Nydegger,,ZPG,37,28,33,42,32,172,34
-GER,8472,Melanie Oestergaard,Oestergaar,,44,49,DNC,23,28,29,173,35
-FRA,8603,Jean-Philippe Chartier,Alain Chartier,,34,39,34,34,45,DNF,186,36
-GER,8623,Eric Brun,Dominique Rouanne,,49,34,36,35,52,35,189,37
+Nation,Boat no,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Brutto,Points,Place
+GER,8775,Wolfgang Hunger,Holger Jess,,7,1,1,2,2,2,15,8,1
+GER,8725,Dietrich Scheder-Bieschin,Rolf Meyer,,18,17,3,1,1,1,41,23,2
+FRA,8702,Philippe Boite,Fabrice Toupet,,6,4,2,10,3,10,35,25,3
+SUI,8729,Jean-Francois de Cerjat,Philippe Jacot,,1,5,6,7,8,22,49,27,4
+FRA,8564,Laurent Haÿ,Pierre-Jean Gallo,,5,2,11,9,9,5,41,30,5
+GER,8632,Christian Kellner,Klaus Stammerjohann,,13,66 OCS,4,5,6,3,97,31,6
+GBR,8774,Ian Pinnell,Tim Hancock,,11,18,5,6,4,17,61,43,7
+GBR,8776,Charles Walters,Christian Diebitsch,,3,33,9,13,12,16,86,53,8
+FRA,8709,Alain Boite,Maxime le Goff,,16,32,7,16,5,11,87,55,9
+FRA,8687,Francois Fischer,Jerom Delvaux,,19,8,14,4,14,27,86,59,10
+DEN,8440,Per Larsen,Henrik Andersen,,17,9,25,3,34,7,95,61,11
+GER,8720,Dirk Filimonow,Lars Stöckmann,,12,16,8,12,13,66 DNC,127,61,12
+GER,8750,Christian Müllejans,Karsten Morf,,29,12,10,15,7,20,93,64,13
+GER,8376,Volker Niediek,Stefan Heising,,39,6,17,11,17,66 SCP,156,79,14
+SUI,8569,René Betschen,Patrick Ducommun,,4,66 OCS,15,17,16,28,146,80,15
+GER,8747,Jörgen Thumann,Oliver Stieglitz,,30,27,12,8,21,13,111,81,16
+FRA,8541,Francis Doerenbecher,Aubin Doerenbecher,,20,36,20,29,23,4,132,96,17
+FRA,8716,Christian Silvestre,Pierre-Yves Partant,,15,11,29,28,44,66 SCP,193,98,18
+GER,8542,Tom Swift,Dennis Kummutat,,26,29,13,14,19,66 SCP,167,98,19
+GER,8769,Stefan Böhm,Gerald Roos,,8,3,66 DNC,18,11,66 DNC,172,106,20
+DEN,8656,Benoît Valleteau de Moulliac,Sc,,24,13,66 DNC,25,22,25,175,109,21
+GER,8777,Stefan Schollmayer,Franscisco Sanguino-Petersen,,14,19,27,32,18,31,141,109,22
+GER,8662,Jan Stölken,Matthias Brühl,,21,22,18,22,37,26,146,109,23
+GER,8633,Julien Fernandez,Wolfgang Stückl,,45,41,19,27,24,9,165,120,24
+FRA,8761,Serge Gubri,Marc Riot,,33,66 OCS,16,20,25,33,193,127,25
+GBR,8708,Martin Wedge,Jonny Mildred,,32,10,66 DNC,66 DNC,15,6,195,129,26
+FRA,8090,Loïc Bleuez,Michel Bonnet,,57,25,31,19,30,30,192,135,27
+GER,8721,Martin Seikel,Norbert Becker,,31,20,66 DNC,66 DNC,10,12,205,139,28
+FRA,8509,Pierre Muh,Dominique Keraudren,,46,15,30,21,35,42,189,143,29
+GER,8519,Robert Wisolek,Oliver Paulzen,,10,66 OCS,21,31,20,66 DNC,214,148,30
+FRA,8695,Jean-Guy Puissant,Etienne Seguelas,,40,66 OCS,22,24,27,41,220,154,31
+FRA,8748,Muriel Jeanne,Gilles Carvallo,,35,28,32,30,43,38,206,163,32
+FRA,8400,Marc Jouany,Eric Billod,,42,45,26,38,38,23,212,167,33
+SUI,8079,Lorenz Nydegger,Martin Nydegger,,66 ZPG,37,28,33,42,32,238,172,34
+GER,8472,Melanie Oestergaard,Mirko Oestergaard,,44,49,66 DNC,23,28,29,239,173,35
+FRA,8603,Jean-Philippe Chartier,Alain Chartier,,34,39,34,34,45,66 DNF,252,186,36
+GER,8623,Eric Brun,Dominique Rouanne,,49,34,36,35,52,35,241,189,37
+GBR,8535,Francis Cram,Dougal Cram,,66 ZPG,66 OCS,66 DNC,66 DNC,26,15,305,195,38
+GER,8424,Peter Gerdts,Karsten Lahrs,,50,23,66 DNC,66 DNC,32,66 SCP,303,196,39
+FRA,8491,Frédéric Véroul,Jean Jacques Véroul,,37,26,66 DNC,66 DNC,36,34,265,199,40
+GER,8642,Greger Thoralf,Tobias Quadfaß,,23,44,66 DNC,66 DNC,49,24,272,206,41
+FRA,8301,Bernard Blondy,Jean-Pierre Noclain,,27,50,66 DNC,66 DNC,53,14,276,210,42
+FRA,8484,Philippe Blanchard,Carole Blattner,,2,14,66 DNC,66 DNC,66 DNC,66 DNC,280,214,43
+GER,8570,Till Supan,Gregor Dahlem,,36,7,66 DNC,66 DNC,41,66 DNC,282,216,44
+FRA,8770,Philippe Noclain,Jean Noclain,,22,52,66 DNC,66 DNC,40,36,150,216,45
+FRA,8566,Olivier Thiberge,Antoin Rigole,,56,38,35,39,48,66 DNF,282,216,46
+FRA,8545,Alain Preel,Jerome Legeai,,53,66 DSQ,23,36,39,66 DNF,283,217,47
+FRA,8455,Marcel Buffet,Damien Trouillet,,28,46,66 DNC,66 DNC,47,39,292,226,48
+FRA,8007,Yann Brotschi,Xavier Brotschi,,43,31,24,66 DNC,66 DNC,66 DNC,296,230,49
+GER,8712,Siegfried Labenz,Christian Labenz,,59,35,66 DNC,66 DNC,33,43,302,236,50
+GER,8601,Christian Koch,Lars Wrentzel,,51,51,66 DNC,37,66 SCP,44,315,245,51
+GBR,8460,Martin Goult,Gordon Russell,,25,30,66 DNC,66 DNC,66 DNC,66 DNC,319,253,52
+FRA,8353,Robert Fossard,Thierry Gresle,,55,43,66 DNC,66 DNC,29,66 DNF,325,259,53
+FRA,8461,Henri Chemineau,Jean-Claude Ancelot,,66 DNC,66 DNC,33,66 SCP,66 DNC,66 DNC,363,264,54
+GBR,8678,Jim Berry,David Barnes,,62,40,66 DNC,66 DNC,31,66 DND,331,265,55
+DEN,8364,Bent Lundsager,Uffe Andersen,,47,21,66 DNC,66 DNC,66 DNC,66 DNC,332,266,56
+GER,8530,Alexander von Mertens,Pia Wiesbauer,,52,66 OCS,66 DNC,66 DNC,51,37,338,272,57
+GER,8772,Ronald Roos,Gerd Linnemann,,66 ZPG,24,66 DNC,66 DNC,66 DNC,66 DNC,354,276,58
+GER,8210,Nikolaus Jägersberg,Wolfgang Hiltscher,,66 DNC,54,66 DNC,66 DNC,54,40,346,280,59
+GER,8567,Jörg Detmold,Holger Neuhaus,,38,47,66 DNC,66 DNC,66 DNC,66 DNC,349,283,60
+FRA,8733,Michel Boiry,Bruno Gallardo,,58,48,66 DNC,66 DNC,46,66 DNF,350,284,61
+GER,8533,Roger Bussenius,Robert Bussenius,,61,42,66 DNC,66 DNC,50,66 DNF,351,285,62
+GBR,8304,Gregory Mercier,Antoine Victor,,54,53,66 DNC,66 DNC,56,66 DNF,361,295,63
+FRA,8688,Robert Lehmann,Richard Wolff,,63,55,66 DNC,66 DNC,66 DNC,66 DNC,382,316,64
+GER,8071,Elke Schott,Harald Schott,,66 ZPG,56,66 DNC,66 DNC,66 DNC,66 DNC,386,320,65
