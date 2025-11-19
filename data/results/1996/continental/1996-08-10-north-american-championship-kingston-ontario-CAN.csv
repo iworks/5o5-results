@@ -1,4 +1,4 @@
-Nation,Sail No.,Helm,Crew,,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Race 7,Total Points,After Drop,Place
+Nation,Sail No.,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Race 7,Total Points,After Drop,Place
 USA,7771,Howard Hamlin,Mike Martin,,1,2,1,3,1,1,DNS (35),43,5,1
 USA,8629,Tyler Moore,Scott Iklé,,2,4,6,1,5,2,1,"20,5","14,5",2
 USA,8263,"Alexander ""Ali"" Meller",Allan Johnson,,8,1,4,4,2,5,8,"31,75","23,75",3
@@ -27,7 +27,7 @@ USA,7606,Dan Treadwell,Scott MacKay,,19,27,22,35,28,24,25,180,145,25
 USA,7790,David Stetson,Michael Agrell,,27,31,21,18,34,21,28,180,146,26
 CAN,8417,Malcolm McHattie,Ptak,,22,26,24,35,25,25,24,181,146,27
 USA,8085,Rene de la Rie,Merv Richards,,26,19,35,35,23,19,26,183,148,28
-USA,7151,Tapley,Arnold,,35,30,19,16,30,30,35,195,160,29
+USA,7151,Craig Tapley,Arnold,,35,30,19,16,30,30,35,195,160,29
 CAN,7095,John Hayley,Steenbakker,,32,28,25,19,22,35,35,196,161,30
 CAN,7796,Clarissa Bush,Chris Gillies,,25,25,27,35,32,32,22,198,163,31
 ZIM,8438,John Wyles,Seguin,,30,33,28,35,33,28,17,204,169,32
