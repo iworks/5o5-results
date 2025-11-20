@@ -1,13 +1,13 @@
-Country,SAIL#,Skipper,Race,builder jib/main/spinnaker/mast,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,TOTAL,PLACE
-USA,7318,Mike Zani,Peter Alarie,Lindsay bag/Ullman/Ullman/Ullman/Proctor D,1,1,2,1,2,[DNC],6.25,1
-USA,8263,Ali Meller,Allan Johnson,Waterat bag/North/North/North/Proctor D,2,2,[5],4,1,1,9.5,2
+Country,SAIL#,Skipper,Crew,builder jib/main/spinnaker/mast,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,TOTAL,PLACE
+USA,7318,Mike Zani,Peter Alarie,Lindsay bag/Ullman/Ullman/Ullman/Proctor D,1,1,2,1,2,[DNC],"6,25",1
+USA,8263,Ali Meller,Allan Johnson,Waterat bag/North/North/North/Proctor D,2,2,[5],4,1,1,"9,5",2
 USA,8018,Ethan Bixby,Mike Mills,Waterat bag/North/North/North/Proctor D,3,3,[4],3,4,2,15,3
-USA,8191,Macy Nelson,John Fry,Waterat launcher/North/North/North/Proctor D,[PMS],4,1,8,3,3,18.75,4
+USA,8191,Macy Nelson,John Fry,Waterat launcher/North/North/North/Proctor D,[PMS],4,1,8,3,3,"18,75",4
 USA,8015,Jonathan Phillips,Monty Schumpert,Waterat bag/North/North/North/Proctor D,4,[9],3,5,5,4,21,5
 USA,7772,Barney Harris,Jesse Falsone,Waterat bag/North/North/North/Proctor D,6,5,7,[10],6,7,31,6
 USA,6311,Chris Museler,Dave Kirkpatrick,Parker-hulled Lindsay launcher/North/North/North/Proctor D,7,8,6,6,[16],6,33,7
 USA,7092,Gary Bodie,Ken Elliott,Lindsay bag/North/North/North/Proctor epsilon,5,7,10,[12],8,5,35,8
-,7151,Peter Lamb,Geoff Arnold,Lindsay/???/???/???/Proctor D,11,[PMS],13,7,9,9,49,9
+USA,7151,Peter Lamb,Geoff Arnold,Lindsay/???/???/???/Proctor D,11,[PMS],13,7,9,9,49,9
 USA,8194,Terry Neff,Andy Cole,Lindsay bag/North/North/North/Proctor D,[PMS],6,11,2,7,DNC,50,10
 USA,6987,Lauren Abramson,Tom O'toole,Lindsay/Quantum/Quantum/Quantum/Proctor D,10,11,9,18,[22],11,59,11
 USA,6985,Dylan Breton,Mike Breton,Lindsay bag/North/North/North/Proctor D,9,10,14,15,13,[DNC],61,12
@@ -20,5 +20,5 @@ USA,7776,Bob O’Brien,Bill Gross,Waterat ???/North/North/North/Proctor D,14,13,
 USA,7346,Latane Montague,John Zakaib,Waterat launcher/North/North/North/Proctor D,[PMS],12,18,20,19,12,81,19
 USA,7148,Peter Mignerey,Simon J. Lake,Lindsay launcher/North/North/North/Proctor D,16,[PMS],20,9,15,DNC,84,20
 USA,7678,Sol Marini,Chris Coleman,Parker bag/North/North/North/Proctor D,18,20,[22],22,21,16,97,21
-,8,Carrie Jones,Jeff Jones,Waterat bag/North/North/North/Proctor D,[PMS],16,17,21,20,DNC,98,22
-,7061,Mike Goldstein,Bryan Jerman,Ballenger launcher/???/???/???/ARO,19,21,[DNF],23,DNC,DNC,111,23
+USA,8011,Carrie Jones,Jeff Jones,Waterat bag/North/North/North/Proctor D,[PMS],16,17,21,20,DNC,98,22
+USA,7061,Mike Goldstein,Bryan Jerman,Ballenger launcher/???/???/???/ARO,19,21,[DNF],23,DNC,DNC,111,23
