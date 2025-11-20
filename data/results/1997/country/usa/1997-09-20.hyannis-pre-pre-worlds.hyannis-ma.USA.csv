@@ -1,23 +1,23 @@
-Nation,Boat No,Helm,Crew,,Race 1,Race 2,Race 3,Race 4,TOTAL,Place
-USA,8629,Moore,Ikle,,1,1,2,1,5,1
-CAN,8442,Morrin,Hoffman,,5,5,7,5,22,2
-USA,7879,Phillips,Crane,,4,2,10,9,25,3
-USA,8194,Kivney,Johnson,,2,12,6,6,26,4
-USA,7092,Elliot,Kilgore,,7,6,5,10,28,5
-USA,8083,Fowler,Dyson,,3,23,1,4,31,6
-USA,8018,Bixby,Meller,,23,3,3,3,32,7
-USA,,Barry Kuehl,Frank Thompson,,13,8,4,7,32,8
-USA,,Hamilton,Torrie,,9,7,14,8,38,9
-USA,8060,Collins,Smith,,23,9,9,2,43,10
-USA,,Follansbees,,,12,10,13,11,46,11
-USA,,Neff,Fry,,8,11,8,23,50,12
-USA,,Grey,Kivney,,10,4,23,23,60,13
-USA,8643,Harris,Falsone,,6,23,11,23,63,14
-USA,,Yindor,McCarthy,,23,15,15,13,66,15
-USA,,Rosenfeld,Moore,,DNS,DNS,12,12,70,16
-USA,,Smith,Thompson,,11,14,23,DNS,71,17
-USA,,Tranmer,Schell,,15,13,23,23,74,18
-USA,,Hopkins,Baylis,,14,16,23,23,76,19
-CAN,7796,Ashby,Adams,,23,23,23,14,83,20
-USA,,Chatham,Tosbett,,23,23,23,23,92,21
-USA,8438,Wyles,Freedman,,23,23,23,23,92,22
+Nation,Boat No,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,TOTAL,Place
+USA,8629,Tyler Moore,Scott Iklé,,1,1,2,1,5,1
+CAN,8442,Hugh Morrin,Michael Hoffman,,5,5,7,5,22,2
+USA,7879,Jonathan Phillips,Les Crane,,4,2,10,9,25,3
+USA,8194,Thomas Kivney,Todd Johnson,,2,12,6,6,26,4
+USA,7092,Kenny Elliot,Allen Kilgore,,7,6,5,10,28,5
+USA,8083,Neal Fowler,Dave Dyson,,3,23,1,4,31,6
+USA,8263,Ethan Bixby,"Alexander ""Ali"" Meller",,23,3,3,3,32,7
+USA,8641,Barry Kuehl,Frank Thompson,,13,8,4,7,32,8
+USA,8192,Brook Hamilton,Ian Torrie,,9,7,14,8,38,9
+USA,8627,Tim Collins,Bill Smith,,23,9,9,2,43,10
+USA,7357,Peter Follansbee,Chris Follansbee,,12,10,13,11,46,11
+USA,8660,Terry Neff,John Fry,,8,11,8,23,50,12
+USA,1*,Nicholas Grey,Gerard Kivney,,10,4,23,23,60,13
+USA,8643,Barney Harris,Jesse Falsone,,6,23,11,23,63,14
+USA,8311,Chris Yindra,Mark McCarthy,,23,15,15,13,66,15
+USA,8???,Larry Rosenfield,Ted Moore,,DNS,DNS,12,12,70,16
+USA,8013,Dave Smith,Rick Thompson,,11,14,23,DNS,71,17
+USA,8060,Mike Tramner,Adam Schell,,15,13,23,23,74,18
+USA,6311,Ian Hopkins,Ted Baylis,,14,16,23,23,76,19
+CAN,7796,Deborah Ashby,David Adams,,23,23,23,14,83,20
+USA,8024,Dave Chatham,Jay Tosbett,,23,23,23,23,92,21
+USA,8438,John Wyles,Alan Freedman,,23,23,23,23,92,22

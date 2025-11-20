@@ -1,10 +1,9 @@
 Nation,Boat No,Helm,Crew,,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Points,Place
-USA,,Meller,Johnson,,1,1,1,1,,1,,1
-USA,8645,Jim Englert,Thad Melton,,,,,,,2,,
-USA,8643,Jesse Falsone,Bryan Russell,,,,,,,,,
-USA,7573,Steven Brown,Allan Freedman,,,,,,,,,
-USA,6495,Greg Schuster,,,,,,,,,,
-USA,8660,Gary Bodie,Kevin Eley,,,,,,,,,
-USA,7092,Mark Wheeler,Alan Kilgore,,,,,,,,,
-USA,8012,Henry Amthor,Doug Amthor,,,,,,,,,
-USA,,While Greg,,,,,,,,,,
+USA,,"Alexander ""Ali"" Meller",Allan Johnson,,1,1,1,1,1,1,,1
+USA,8645,Jim Englert,Thad Melton,,2,,,,2,2,,2
+USA,8012,Henry Amthor,Doug Amthor,,,,2,2,,,,3
+USA,8660,Gary Bodie,Kevin Eley,,,2,,,3,,,4
+USA,7092,Mark Wheeler,Alan Kilgore,,,,,,,,,5
+USA,8643,Jesse Falsone,Bryan Russell,,,,,,,,,6
+USA,7573,Steven Brown,Allan Freedman,,6,7,7,7,7,7,,7
+USA,6495,Greg Schuster,,,DNS,DNS,DNS,DNS,DNS,DNS,,
