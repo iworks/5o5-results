@@ -1,16 +1,16 @@
-Nation,Boat No,Helm,Crew,,,,
-USA,,Mike,Howie,,,9,1
-USA,,Dave Wahley,Bruce Edwards,,,22,2
-USA,,Jim,Jeff,,,24,3
-USA,,John,Robin,,,28,4
-USA,,Andy,Danny,,,28,5
-USA,,Jay,Jim,,,34,6
-USA,,Graham,Andy,,,35,7
-USA,,Kirk,Doug,,,52,8
-USA,,Wendy,Eric,,,53,9
-USA,,Greg,AAron,,,65,10
-USA,,Alex Poor,Tom Poor,,,69,11
-USA,,,Ted,,,70,12
-USA,,Dan,Steve,,,75,13
-USA,,Everet,Bailey,,,76,14
-USA,,Tim,Reese,,,80,15
+Nation,Boat No,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Points,Place
+USA,,Howard Hamlin,Mike Martin,,,,,1,1,1,9,1
+USA,8680,Bruce Edwards,Dave Wahley,,,,,,,,22,2
+USA,,Jeff,Jim,,,,,,,,24,3
+USA,,Robin,John,,,,,,,,28,4
+USA,,Danny,Andy,,,,,,,,28,5
+USA,,Jim Wondolleck,Jay Kuncl,,,,,,,,34,6
+USA,,Andy,Graham,,,,,,,,35,7
+USA,,Doug Hagan,Kirk Wilson,,,,,,,,52,8
+USA,6983,Eric Willis,Wendy Herzberg,,,,,,,,53,9
+USA,,AAron,Greg,,,,,,,,65,10
+USA,8017,Thomas Poore,Alex Poor,,,,,,,,69,11
+USA,,Ted,,,,,,,,,70,12
+USA,,Steve,Dan,,,,,,,,75,13
+USA,,Bailey,Everet,,,,,,,,76,14
+USA,6665,Reese Jones,Tim Boschert,,,,,,,,80,15

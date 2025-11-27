@@ -1,8 +1,8 @@
 Nation,Boat NO,Helm,Crew,,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Points,Place
-,0,Beeckman,Benjamin,,1,1,2,2,1,1,8,1
-,0,Adamson,Norman,,dns,dns,1,1,2,2,24,2
-,0,Hogan,Wilson,,5,2,5,5,4,dns,30,3
-,0,Kerner,Tilly,,2,4,3,3,dns,dns,32,4
-,0,Sorrells,Ross,,3,3,dns,dns,dns,dns,42,5
-,0,Rea,Perez,,4,5,dns,dns,dns,dns,45,6
-,0,White,Stafford,,6,dns,dns,dns,dns,dns,51,7
+USA,7771,Andy Beeckman,Ben Benjamin,,1,1,2,2,1,1,8,1
+USA,7873,Nick Adamson,Alan Norman,,dns,dns,1,1,2,2,24,2
+USA,0,Hogan,Wilson,,5,2,5,5,4,dns,30,3
+USA,0,Paul Kerner,Bruce Tilley,,2,4,3,3,dns,dns,32,4
+USA,7156,Greg Sorrells,Aaron Ross,,3,3,dns,dns,dns,dns,42,5
+USA,0,Rea,Perez,,4,5,dns,dns,dns,dns,45,6
+USA,6292,Bailey White,Richard Stafford,,6,dns,dns,dns,dns,dns,51,7
