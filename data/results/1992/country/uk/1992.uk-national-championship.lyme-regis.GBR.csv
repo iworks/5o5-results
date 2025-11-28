@@ -1,96 +1,96 @@
-Nation,Boat NO,Helm,Crew,,Race 1,Race 2,Race 3,Race 4,Race 5,Points,Place
-GBR,8379,M. Holt,N. Fulcher,,0.75,2,0.75,4,2,5.5,1
-GBR,8431,I. Barker,M. Darling,,2,7,6,5,0.75,13.75,2
-GBR,8443,P. Brotherton,N. McDonald,,5,5,9,0.75,6,16.75,3
-GBR,8306,C. Robinson,K. Richardson,,3,8,2,7,5,17,4
-GBR,8384,D. Smithwhite,C. Merrett,,9,0.75,5,6,8,19.75,5
-GBR,8140,I. Walters,A. Parkinson,,8,10,3,3,7,21,6
-GBR,8377,H. Cisneros,L. Crispin,,6,4,12,9,3,22,7
-GBR,8423,J. Loveday,J. Ward,,13,3,8,11,11,33,8
-GBR,7852,C. Haworth,C. Smith,,12,12,16,2,10,36,9
-GBR,8432,M. Holmes,P. Young,,10,10,7,18,4,39,10
-GBR,8245,M. Longstaff,Paul Willmott,,4,10,11,10,23,48,11
-GBR,7919,M. Jacques,S. Mummery,,20,11,19,8,15,53,12
-GBR,8052,G. Thomas,N. Beloe,,19,13,18,14,9,54,13
-GBR,8445,Vernon Ralston,Simon Spratt,,17,6,33,15,17,55,14
-GBR,8382,J. Hardy,S. Butcher,,7,9,22,23,19,57,15
-FRA,8363,Francis Doerenbecher,I. Doerenbecher,,29,20,4,12,13,59,16
-GBR,8400,D. Hall,I. Brown,,16,14,13,24,16,59,17
-GBR,8269,P. Towers,S. Todd,,15,23,4,34,25,67,18
-GBR,8419,M. Budd,G. Kelly,,11,19,21,19,24,70,19
-GBR,8376,Martin Lucas,David Lucas,,18,17,24,101,12,71,20
-GBR,8249,K. Sproul,T. Hancock,,22,25,15,21,14,72,21
-GBR,8383,Richard Russel,Phil Brown,,14,15,29,31,22,80,22
-GBR,8129,N. Martin,G. Kingston,,21,101,25,20,18,84,23
-GBR,8291,S. Neal,P. Burwood,,27,21,26,37,20,94,24
-GBR,8378,M. Hodgson,D. Sloan,,26,24,27,36,21,98,25
-GBR,8429,M. Cotgrove,H. Roddis,,25,22,23,101,29,99,26
-GBR,8416,I. Montague,A. Montague,,23,37,20,101,27,107,27
-GBR,8200,J. Yearsley,S. Billingham,,24,33,28,28,31,111,28
-GBR,8331,R. Lord,R. Maynard,,33,35,48,17,35,120,29
-GBR,8366,C. Dando,S. Rawlings,,36,32,32,25,32,121,30
-GBR,8414,Robert Shaw,M. Hill,,30,26,35,33,33,122,31
-GBR,8367,R. Tew,S. Hiscocks,,40,27,46,38,26,131,32
-GBR,8444,P. Danby,S. Burwood,,42,36,41,26,30,133,33
-GBR,8350,C. Thorne,M. Priddle,,52,31,49,22,34,136,34
-GBR,8209,M. Hattermore,M. Payne,,34,39,30,44,36,139,35
-GBR,8368,John Costard,D. Tulloch,,31,41,43,30,40,142,36
-GBR,8309,E. Arthur,J. Edwards,,102,30,36,42,37,145,37
-GBR,8244,T. Rush,D. Johnson,,102,16,17,13,101,147,38
-GBR,8070,S. Smith,A. Palmer,,35,29,42,57,42,148,39
-GBR,8380,S. Boygle,P. Beasley,,37,34,45,43,39,153,40
-GBR,8308,A. Miles,A. Macleod,,101,101,10,16,28,155,41
-GBR,8420,David Peacock,N. Vooght,,38,45,38,35,101,156,42
-GBR,7910,J. Wilson,J. Entwistle,,103,28,44,29,57,158,43
-GBR,8234,David Lines,I. Swainston,,32,101,55,27,44,158,44
-GBR,8212,G. Simpkins,S. Hunt,,41,40,37,50,41,159,45
-GBR,7692,R. Slms,A. Coates,,39,42,39,41,48,161,46
-GBR,8415,Colin Hamlet,D. Guthrie,,44,43,47,32,46,165,47
-GBR,8434,Andrew Walters,P. Waters,,28,101,34,69,38,169,48
-GBR,8145,M. Brooks,T. Brooks,,65,38,31,40,65,174,49
-GBR,838,R. Coles,I. Gorringe,,48,46,53,39,52,185,50
-GBR,8152,S. Drakeford,M. Harrison,,43,101,40,48,56,187,51
-GBR,8216,P. Fordham,Mathew Flint,,46,56,61,53,43,198,52
-GBR,8154,S. Turnbull,A. Rollinson,,53,101,54,51,47,205,53
-GBR,7918,D. Williams,C. Rainback,,49,61,52,101,45,207,54
-GBR,7755,Mike Coombes,J. Coombes,,51,52,56,54,59,213,55
-GBR,8167,S. Goodman,S. Wood,,50,44,101,59,61,214,56
-GBR,8120,C. Davis,B. Goodlad,,45,58,59,55,70,217,57
-GBR,8351,D. Cranston,N. O'Dwyer,,101,47,57,63,50,217,58
-GBR,8295,J. Walpoe,M. Allwood,,60,51,50,56,101,217,59
-GBR,8214,D. Bell,P. Ward,,55,49,101,52,63,219,60
-GBR,7884,T. Carr,A. Eves,,75,55,62,45,60,222,61
-GBR,7624,C. Walters,C. Walters,,63,50,65,46,75,224,62
-GBR,8074,Ernie Hatton,C. Hatton,,56,54,67,49,101,226,63
-GBR,8073,J. Hack,P. Herd,,62,67,60,47,58,227,64
-GBR,7786,A. Williams,S. Haigh,,54,57,66,101,64,241,65
-GBR,7664,A. Middlehurst,C. Taylor,,61,60,63,58,103,242,66
-GBR,8009,E. Browne,S. Watson,,68,48,71,60,68,244,67
-GBR,8203,A. Fitzgerald,R. Stallard,,72,53,68,72,51,244,68
-GBR,8126,M. Goult,G. Russel,,58,59,74,74,55,246,69
-FRA,7933,J. Fitzner,Chaissac,,57,101,58,65,71,251,70
-GBR,8161,R. Sherwood,I. Perkins,,59,101,72,68,53,252,71
-GBR,8123,C. Romans,B. Romans,,64,66,69,62,62,254,72
-GBR,7976,D. Bradley,A. Peeley,,77,64,101,61,66,268,73
-GBR,7770,J. Dawson,N. Dawson,,71,63,75,70,73,277,74
-GBR,8160,J. Wallace,M. Cuthbert,,47,101,64,67,101,279,75
-GBR,8304,Frank Rainsborough,T. Swainston,,69,65,101,79,69,282,76
-GBR,7579,J. Baxter,R. Ayres,,67,101,101,64,54,286,77
-GBR,7368,R. Wiscombe,H. Duncan,,78,68,76,75,76,295,78
-GBR,7541,Chris Pearson,V. Thompson,,74,101,77,77,78,306,79
-GBR,7415,P. Binning,S. Dye,,101,69,79,80,79,307,80
-GBR,8300,E. Jenkins,A. Jenkins,,66,103,103,71,74,314,81
-GBR,7929,S. Masey,I. Dickinson,,70,101,101,76,67,314,82
-GBR,8034,Roger Driver,A. Robinson,,101,62,51,101,102,315,83
-GBR,8303,L. Martin,T. Harding,,79,103,73,66,101,319,84
-GBR,8307,J. Hughes,M. Foster,,103,18,101,101,101,323,85
-FRA,8401,P. Feuerstein,Virginie Lombard,,73,103,101,83,72,329,86
-GBR,6451,T. Feake,B. Mathews,,80,103,103,84,81,348,87
-GBR,7518,B. Cooke,T. Harper,,103,103,103,101,49,356,88
-GBR,7383,M. Yorke,E. Dominck,,101,103,78,101,77,357,89
-GBR,8408,N. Burrows,D. Marriot,,76,103,101,101,80,358,90
-GBR,6948,A. Evans,R. Taylor,,103,103,80,82,103,368,91
-GBR,7018,Nick Turpin,Creighton,,101,103,70,101,103,375,92
-GBR,7302,K. Isacs,S. Leveridge,,101,103,103,73,103,380,93
-GBR,7450,T. Scarisbrick,G. Scarisbrick,,103,103,101,78,103,385,94
-GBR,8344,P. Harvey,G. Pearman,,102,101,101,81,103,385,95
+Nation,Boat NO,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Points,Place
+GBR,8379,Ian Pinnell,Nick Powell,,"0,75",2,"0,75",4,2,"5,5",1
+GBR,8431,Mark Upton-Brown,Ian Mitchell,,2,7,6,5,"0,75","13,75",2
+GBR,8443,Philippe Boite,Régis Viateur,,5,5,9,"0,75",6,"16,75",3
+GBR,8306,Simon Payne,Bill Masterman,,3,8,2,7,5,17,4
+GBR,8384,Clive Robinson,Gary Cawthorne,,9,"0,75",5,6,8,"19,75",5
+GBR,8140,Debbie Jarvis,Dan Johnson,,8,10,3,3,7,21,6
+GBR,8377,Steve Nicholson,John Mildred,,6,4,12,9,3,22,7
+GBR,8423,David Peacock,Chris Hewkin,,13,3,8,11,11,33,8
+GBR,7852,Mike Holt,Paul Beasley,,12,12,16,2,10,36,9
+GBR,8432,Martin Goult,Gordon Russell,,10,10,7,18,4,39,10
+GBR,8245,Stuart Turnbull,Jason Lunn,,4,10,11,10,23,48,11
+GBR,7919,Andy Williams,Andy Edmonds,,20,11,19,8,15,53,12
+GBR,8052,Martin Hodgson,Alistair MacLeod,,19,13,18,14,9,54,13
+GBR,8445,Charles Walters,Christian Diebitsch,,17,6,33,15,17,55,14
+GBR,8382,Jim Hunt,Steve Adams,,7,9,22,23,19,57,15
+FRA,8363,Robert Napier,Keith Summersgill,,29,20,4,12,13,59,16
+GBR,8400,Dougal Cram,Francis Cram,,16,14,13,24,16,59,17
+GBR,8269,Hector Cisneros,Lawrence Crispin,,15,23,4,34,25,67,18
+GBR,8419,Chris Romans,Colin Jarvis,,11,19,21,19,24,70,19
+GBR,8376,Ian Montague,Geoff Kimber,,18,17,24,101,12,71,20
+GBR,8249,Martin Wedge,Nick Beloe,,22,25,15,21,14,72,21
+GBR,8383,Vernon Ralston,Simon Spratt,,14,15,29,31,22,80,22
+GBR,8129,John Webster,Eric Ironmonger,,21,101,25,20,18,84,23
+GBR,8291,Sam Neal,John Ward,,27,21,26,37,20,94,24
+GBR,8378,Martin Stainsby,Jim Bennett,,26,24,27,36,21,98,25
+GBR,8429,Paul Lovesy,Andy Matthews,,25,22,23,101,29,99,26
+GBR,8416,Peter Andreae,Robert Stallard,,23,37,20,101,27,107,27
+GBR,8200,Chris Robinson,Tom Phillips,,24,33,28,28,31,111,28
+GBR,8331,Simon Sydenham,Nigel James,,33,35,48,17,35,120,29
+GBR,8366,Roger Sherwood,Nick Willis,,36,32,32,25,32,121,30
+GBR,8414,Richard Sims,Simon Wood,,30,26,35,33,33,122,31
+GBR,8367,Paul Foddy,Peter Smithin,,40,27,46,38,26,131,32
+GBR,8444,Andrew Short,Russell Short,,42,36,41,26,30,133,33
+GBR,8350,Richard Lord,Simon Lake,,52,31,49,22,34,136,34
+GBR,8209,Jim Berry,David Barnes,,34,39,30,44,36,139,35
+GBR,8368,David Smithwhite,Paul Young,,31,41,43,30,40,142,36
+GBR,8309,John Walker,James Turner,,102,30,36,42,37,145,37
+GBR,8244,Miles Odell,Andrew Streeter,,102,16,17,13,101,147,38
+GBR,8070,Melvyn Newman,Alex Cull,,35,29,42,57,42,148,39
+GBR,8380,Martin Wright,Chris Wright,,37,34,45,43,39,153,40
+GBR,8308,Chris Pearson,Frank Rainsborough,,101,101,10,16,28,155,41
+GBR,8420,Ian Gould,George Simpkins,,38,45,38,35,101,156,42
+GBR,7910,Chris Thorne,Andy Tyas,,103,28,44,29,57,158,43
+GBR,8234,Tom Wain,John Peats,,32,101,55,27,44,158,44
+GBR,8212,Adrian Lane,Geoff Lane,,41,40,37,50,41,159,45
+GBR,7692,David Lines,Julie Nuttall,,39,42,39,41,48,161,46
+GBR,8415,Neil Connelly,Neil Fulcher,,44,43,47,32,46,165,47
+GBR,8434,Tom Clayton,Dennis Hyatt,,28,101,34,69,38,169,48
+GBR,8145,Andrew Draper,Simon Johnson,,65,38,31,40,65,174,49
+GBR,838,Dick Rowe,Ashford Brown,,48,46,53,39,52,185,50
+GBR,8152,,,,43,101,40,48,56,187,51
+GBR,8216,,,,46,56,61,53,43,198,52
+GBR,8154,,,,53,101,54,51,47,205,53
+GBR,7918,,,,49,61,52,101,45,207,54
+GBR,7755,,,,51,52,56,54,59,213,55
+GBR,8167,,,,50,44,101,59,61,214,56
+GBR,8120,,,,45,58,59,55,70,217,57
+GBR,8351,,,,101,47,57,63,50,217,58
+GBR,8295,,,,60,51,50,56,101,217,59
+GBR,8214,,,,55,49,101,52,63,219,60
+GBR,7884,,,,75,55,62,45,60,222,61
+GBR,7624,,,,63,50,65,46,75,224,62
+GBR,8074,,,,56,54,67,49,101,226,63
+GBR,8073,,,,62,67,60,47,58,227,64
+GBR,7786,,,,54,57,66,101,64,241,65
+GBR,7664,,,,61,60,63,58,103,242,66
+GBR,8009,,,,68,48,71,60,68,244,67
+GBR,8203,,,,72,53,68,72,51,244,68
+GBR,8126,,,,58,59,74,74,55,246,69
+FRA,7933,,,,57,101,58,65,71,251,70
+GBR,8161,,,,59,101,72,68,53,252,71
+GBR,8123,,,,64,66,69,62,62,254,72
+GBR,7976,,,,77,64,101,61,66,268,73
+GBR,7770,,,,71,63,75,70,73,277,74
+GBR,8160,,,,47,101,64,67,101,279,75
+GBR,8304,,,,69,65,101,79,69,282,76
+GBR,7579,,,,67,101,101,64,54,286,77
+GBR,7368,,,,78,68,76,75,76,295,78
+GBR,7541,,,,74,101,77,77,78,306,79
+GBR,7415,,,,101,69,79,80,79,307,80
+GBR,8300,,,,66,103,103,71,74,314,81
+GBR,7929,,,,70,101,101,76,67,314,82
+GBR,8034,,,,101,62,51,101,102,315,83
+GBR,8303,,,,79,103,73,66,101,319,84
+GBR,8307,,,,103,18,101,101,101,323,85
+FRA,8401,,,,73,103,101,83,72,329,86
+GBR,6451,,,,80,103,103,84,81,348,87
+GBR,7518,,,,103,103,103,101,49,356,88
+GBR,7383,,,,101,103,78,101,77,357,89
+GBR,8408,,,,76,103,101,101,80,358,90
+GBR,6948,,,,103,103,80,82,103,368,91
+GBR,7018,,,,101,103,70,101,103,375,92
+GBR,7302,,,,101,103,103,73,103,380,93
+GBR,7450,,,,103,103,101,78,103,385,94
+GBR,8344,,,,102,101,101,81,103,385,95

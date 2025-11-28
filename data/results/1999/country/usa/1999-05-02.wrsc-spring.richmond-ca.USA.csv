@@ -1,13 +1,13 @@
-Nation,Boat No,Helm,Crew,,Race 1,Race 2,Race 3,Race 4,Race 5,,Place
-USA,8643,Harris,Falsone,,1,1,1,1,1,,1
-USA,8263,Ali Meller,Craig Coltharp,,2,2,2,2,4,,2
-USA,,Macy Nelson,Art Gleason,,3,4,3,3,2,,3
-USA,8012,Henry Amthor,Doug Amthor,,5,3,6,6,3,,4
-USA,8085,de La Rie,Alan Freedman,,4,6,5,5,5,,5
+Nation,Boat No,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Points,Place
+USA,8643,Barney Harris,Jesse Falsone,,1,1,1,1,1,,1
+USA,8263,"Alexander ""Ali"" Meller",Craig Coltharpe,,2,2,2,2,4,,2
+USA,8722,Macy Nelson,Art Gleason,,3,4,3,3,2,,3
+USA,8012,Henry Amthor,Douglas Amthor,,5,3,6,6,3,,4
+USA,8085,Rene de la Rie,Alan Freedman,,4,6,5,5,5,,5
 USA,7346,Latane Montague,John Zakaib,,6,7,7,4,6,,6
-USA,,Mignery,Breton,,7,5,4,DNC,DNC,,7
+USA,,Peter Mignery,Matt Breton,,7,5,4,DNC,DNC,,7
 USA,,Tom Price,,,8,8,8,DNC,DNC,,8
 USA,7879,Clayton James,Dennis Burroughs,,9,9,DNF,DNC,DNC,,9
-USA,,Liesegang,,,DNC,DNC,DNC,DNC,DNF,,10
-USA,7876,Steve Lieberman,Josh Lieberman,,DNC,DNC,DNC,DNC,DNC,,11
-USA,7776,Bob O’Brien,Betsy O’Brien,,DNC,DNC,DNC,DNC,DNC,,12
+USA,,Fred Liesegang,,,DNC,DNC,DNC,DNC,DNF,,10
+USA,7876,Steven Lieberman,Joshua Lieberman,,DNC,DNC,DNC,DNC,DNC,,11
+USA,7776,Bob O'Brien,Betsy O'Brien,,DNC,DNC,DNC,DNC,DNC,,12
