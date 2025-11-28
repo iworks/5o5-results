@@ -1,2 +1,20 @@
-Nation,SailNo,Helm,Crew,Club,Race 1,Total,Rank
-USA,8012,Henry Amthor,Doug Amthor,,,,1
+Nation,SailNo,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Points,Total,Rank
+USA,8012,Henry Amthor,Doug Amthor,,1,1,1,1,[DNS 20],24,4,1
+CAN,8264,Jeff Boyd,Martin ten Hove,,,,,,,,,2
+CAN,8698,Chris Fowler,Andrew Fowler,,,,,,,,,3
+CAN,,,,,,,,,,,,0
+CAN,,,,,,,,,,,,0
+CAN,,,,,,,,,,,,0
+CAN,,,,,,,,,,,,0
+CAN,,,,,,,,,,,,0
+CAN,,,,,,,,,,,,0
+CAN,,,,,,,,,,,,0
+CAN,,,,,,,,,,,,0
+USA,,,,,,,,,,,,0
+USA,,,,,,,,,,,,0
+USA,,,,,,,,,,,,0
+USA,,,,,,,,,,,,0
+USA,,,,,,,,,,,,0
+USA,,,,,,,,,,,,0
+USA,,,,,,,,,,,,0
+USA,,,,,,,,,,,,0
