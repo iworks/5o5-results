@@ -3246,7 +3246,7 @@ class iworks_5o5_upload_fixer {
 			'G. Walch'     => 'G. Walch',
 		),
 		array(
-			'L. Everitt' => 'Les Everitt',
+			'L. Everitt' => 'Leslie Everitt',
 			'A. Ashe'    => 'A. Ashe',
 		),
 		array(
@@ -5867,8 +5867,9 @@ class iworks_5o5_upload_fixer {
 		'Kurka Sven'                  => 'Sven Kurka',
 		'Kurzeja Michael'             => 'Michael Kurzeja',
 		'Kwee Steve'                  => 'Steve Kwee',
-		'L Everitt'                   => 'Les Everitt',
-		'L. Everitt'                  => 'Les Everitt',
+		'L Everitt'                   => 'Leslie Everitt',
+		'L. Everitt'                  => 'Leslie Everitt',
+		'Les Everitt'                 => 'Leslie Everitt',
 		'L Lexell'                    => 'Lars Lexell',
 		'L Moentack'                  => 'Luc Moentack',
 		'L. Nathanson'                => 'Leslie Nathonson',
