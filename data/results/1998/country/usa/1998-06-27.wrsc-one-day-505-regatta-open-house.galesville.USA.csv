@@ -1,12 +1,12 @@
-Nation,number,helm,crew,Club,Results,Total Points,After Drop,Place,,,
-USA,6985,Dylan Breton,Mike Breton,WRSC,4*,2,1,2,9,5,1
-USA,8263,Ali Meller,Eric Carlson/Dustin Romey,WRSC,2,1,2,12 DSQ*,17,5,2
-USA,8643,Barney Harris/Ray Wulff,Jesse Falsone,WRSC,1,6*,4,1,12,6,3
-USA,8351,Tom Price,Doug Loup,local,3,3,5*,4,15,10,4
-USA,8085,Rene de la Rie,Allan Freedman,WRSC,6,4,3,12 OCS*,25,13,5
-USA,8316,Nicholas Place,Place,Havre de Grace,7*,5,6,5,23,16,6
-USA,7148,Peter Mignerey,Matt Breton,WRSC,8,9*,7,3,27,18,7
-USA,7879,Clayton James,Les Crane,WRSC,5,8,9,12 OCS*,34,22,8
-USA,7573,Sol Marini,Dustin Romey/Eric Carlson,Maine/local,12 DNF*,10,10,6,38,26,9
-USA,8013,Stergios Papadakis,Hans Crosby,New Jersey,12 DNF*,7,8,12 OCS*,39,27,10
-USA,6717,Bob Hill,,WRSC,12 DNC*,12 DNC,12 DNF,12 DNF,48,36,11
+Nation,number,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Total Points,After Drop,Place
+USA,6985,Dylan Breton,Mike Breton,WRSC,[4],2,1,2,9,5,1
+USA,8263,"Alexander ""Ali"" Meller",Eric Carlson/Dustin Romey,WRSC,2,1,2,[12 DSQ],17,5,2
+USA,8643,Barney Harris/Ray Wulff,Jesse Falsone,WRSC,1,[6],4,1,12,6,3
+USA,8351,Tom Price,Doug Loup,local,3,3,[5],4,15,10,4
+USA,8085,Rene de la Rie,Alan Freedman,WRSC,6,4,3,[12 OCS],25,13,5
+USA,8316,Nicholas Place,Andrew Place,Havre de Grace,[7],5,6,5,23,16,6
+USA,7148,Peter Mignerey,Matt Breton,WRSC,8,[9],7,3,27,18,7
+USA,7879,Clayton James,Les Crane,WRSC,5,8,9,[12 OCS],34,22,8
+USA,7573,Solomon Marini,Dustin Romey/Eric Carlson,Maine/local,[12 DNF],10,10,6,38,26,9
+USA,8013,Stergios Papadakis,Hans Crosby,New Jersey,[12 DNF],7,8,[12 OCS],39,27,10
+USA,6717,Bob Hill,,WRSC,[12 DNC],12 DNC,12 DNF,12 DNF,48,36,11
