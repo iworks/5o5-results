@@ -110,6 +110,7 @@ if ( in_array( 'all', $argv ) ) {
 /**
  * maybe import only one file?
  */
+
 $one_file = false;
 if ( 2 < count( $argv ) ) {
 	if (
@@ -129,6 +130,11 @@ if ( 2 < count( $argv ) ) {
 			}
 		}
 	}
+} elseif (
+	2 === count( $argv )
+		&& preg_match( '/^data\/results/', $argv[1] )
+	) {
+	$one_file = preg_replace( '@data/[^/]+/@', '', $argv[1] );
 }
 /**
  * import sailors
@@ -158,17 +164,22 @@ if ( $import_sailors && ( $handle = fopen( $data_root . '/' . $import_config['sa
 		 * 15 iworks_fleet_social_instagram
 		 * 16 iworks_fleet_social_twitter
 		 * 17 iworks_fleet_social_endomondo
+		 * 18 iworks_fleet_personal_nickname
+		 * 19 olympedia.org
 		 *
 		 */
 	$fields = array(
+		5  => 'iworks_fleet_social_website',
 		6  => 'iworks_fleet_social_facebook',
-		7  => 'iworks_fleet_social_website',
+		8  => 'iworks_fleet_personal_full_name',
 		10 => 'iworks_fleet_contact_wikipedia',
 		11 => 'iworks_fleet_contact_sailor_id',
 		12 => 'iworks_fleet_contact_gravatar',
 		15 => 'iworks_fleet_social_instagram',
 		16 => 'iworks_fleet_social_twitter',
 		17 => 'iworks_fleet_social_endomondo',
+		18 => 'iworks_fleet_personal_nickname',
+		19 => 'iworks_fleet_contact_olympedia',
 	);
 	while ( ( $data = fgetcsv( $handle, 0, ',', '"', '\\' ) ) !== false ) {
 		if ( isset( $data[1] ) && ! empty( $data[1] ) ) {
@@ -200,10 +211,10 @@ if ( $import_sailors && ( $handle = fopen( $data_root . '/' . $import_config['sa
 				),
 			);
 			/**
-			 * Birth!
+			 * Birth & Death
 			 */
-			if ( isset( $data[2] ) ) {
-				$value = trim( $data[2] );
+			if ( isset( $data[4] ) && ! empty( $data[4] ) ) {
+				$value = trim( $data[4] );
 				if ( preg_match( '/^\d{4}$/', $value ) ) {
 					$post_array['meta_input']['iworks_fleet_personal_birth_year'] = $value;
 				} else {
@@ -211,6 +222,9 @@ if ( $import_sailors && ( $handle = fopen( $data_root . '/' . $import_config['sa
 					$post_array['meta_input']['iworks_fleet_personal_birth_year'] = date( 'Y', $value );
 					$post_array['meta_input']['iworks_fleet_personal_birth_date'] = $value;
 				}
+			}
+			if ( isset( $data[7] ) && ! empty( $data[7] ) ) {
+				$post_array['meta_input']['iworks_fleet_personal_death_date'] = strtotime( trim( $data[7] ) );
 			}
 			/**
 			 * get meta fields
