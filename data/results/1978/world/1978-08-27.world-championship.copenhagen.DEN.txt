@@ -309,7 +309,7 @@ USA
 US 6136 J.Andron, H.Hamlin
 US 6137 S.Lindsay, M.Lindsay
 US 6193 B.Eck, J.Weymoth
-US 6270 J.Brim, T.Hammick
+US 6270 J.Brim, Tim Hammick
 US 6281 J.Daeschler, M.Arstral
 US 6291 J.Brauch, G.Beck
 US 6292 S.Taylor, D.Penfield
