@@ -284,7 +284,7 @@ SWEDEN
 S 5227 T.Widstrand, E.Wallin
 S 5796 E.Rosen, O.Wenrup
 S 6143 S.Eriksson, K.Lidman
-S 6144 K.Bergstrom, M.Bergstrom
+S 6144 K.Bergström, M.Bergström
 S 6621 K.E.Nilsson, J.Calvert
 S 6630 S.Eklund, A.Eklund.
 
