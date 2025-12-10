@@ -1,5 +1,5 @@
-Nation,Boot,Steuermann,Vorschoter,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Race 7,Race 8,,Platz
-FRA,8702,Philippe Boite,Jean Muzellec,CVM,1,3,4,1,4,4,2,DNC,,1
+Nation,Boot,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Race 7,Race 8,,Platz
+FRA,8702,Philippe Boite,Jean-Luc Muzellec,CVM,1,3,4,1,4,4,2,DNC,,1
 GBR,8736,Ian Pinnell,Nick Powell,GWSC,2,1,1,16,45,6,1,1,,2
 DEN,8620,Jan Saugmann,Morten Ramsbæk,HiS,7,4,3,4,15,5,3,12,,3
 GER,8750,Wolfgang Hunger,Holger Jess,PYC,5,2,7,8,9,28,6,4,,4
@@ -8,14 +8,14 @@ GER,8725,Tom Gosch,Rolf Meyer,ENSFV,14,10,5,9,22,7,8,7,,6
 GER,8720,Dirk Filimonow,Lars Stöckmann,BSV,31,DSQ,11,3,5,3,5,11,,7
 GER,8746,Stefan Böhm,Gerald Roos,SCV,11,7,8,7,19,26,4,19,,8
 GER,8550,Dietrich Scheder-Bieschin,Martin Schöler,NRV,28,15,21,2,7,14,7,13,,9
-FRA,8564,Laurent Hay,Franck Tudal,YCIdF,6,6,19,6,25,19,25,3,,10
+FRA,8564,Laurent Haÿ,Franck Tudal,YCIdF,6,6,19,6,25,19,25,3,,10
 BEL,8553,Paul Gorremans,Maxime le Goff,VVWA,10,11,12,27,18,22,9,14,,11
 GBR,8555,David Smithwhite,Neil Fulcher,FPSC,29,9,2,29,27,17,11,2,,12
-SUI,8543,Cedric Bart,Veli Marti,CNB,25,18,23,11,2,11,29,8,,13
-GER,8621,Volker Niedik,Stefan Heising,BSV,19,5,15,22,11,9,27,17,,14
-FRA,8687,Francois Fischer,Jerome Delvaux,CVdP,12,21,28,10,17,2,36,26,,15
+SUI,8543,Cédric Bart,Marti Ueli,CNB,25,18,23,11,2,11,29,8,,13
+GER,8621,Volker Niediek,Stefan Heising,BSV,19,5,15,22,11,9,27,17,,14
+FRA,8687,Francois Fischer,Jerom Delvaux,CVdP,12,21,28,10,17,2,36,26,,15
 GER,8649,Ronald Roos,Gerd Linnemann,SVWu,33,13,14,15,28,12,12,33,,16
-SUI,8569,Rene Betschen,Patrick Ducommun,CNB,3,32,13,34,14,18,14,38,,17
+SUI,8569,René Betschen,Patrick Ducommun,CNB,3,32,13,34,14,18,14,38,,17
 SWE,8719,Jakob Lindvall,Kalle Byrenius,NSS,13,DNC,22,21,20,15,30,18,,18
 GER,8671,Markus Mühlbauer,Angela Stenger,DTYC,44,29,34,24,3,1,34,16,,19
 GER,8658,Christian Schäfer,Uwe Lätzsch,BYC,26,23,30,20,44,8,16,20,,20
@@ -23,29 +23,29 @@ GBR,8460,Martin Goult,Gordon Russell,Burgh.,18,DSQ,17,39,21,27,21,10,,21
 FRA,8684,Pierre-Jean Gallo,Fabrice Toupet,CNE,21,37,9,13,35,38,15,24,,22
 GER,8652,Sebastian Dörr,Christian Dörr,HSC,32,30,36,14,6,13,42,DNC,,23
 FRA,8677,Michel Christ,Philippe Claude,CVdP,9,24,26,40,30,43,35,9,,24
-SUI,8016,Florent Chapatte,Yvo Durr,CVN,8,27,45,48,12,29,33,29,,25
+SUI,8016,Florent Chapatte,Yvo Dürr,CVN,8,27,45,48,12,29,33,29,,25
 GER,8633,Frank Weigelt,Wolfgang Stückl,DTYC,35,19,20,43,63,33,23,31,,26
 GBR,8741,Vernon Ralston,Simon Spratt,TBYC,20,17,16,53,42,51,10,DNC,,27
 FRA,8400,Marc Jouany,Frederic Roucayrol,CVdP,37,16,32,18,50,31,40,35,,28
-GER,8642,Stefan Schollmayer,Francisco Sanguino,SCMSP,15,26,18,44,46,55,20,41,,29
+GER,8642,Stefan Schollmayer,Franscisco Sanguino-Petersen,SCMSP,15,26,18,44,46,55,20,41,,29
 GER,8661,Diethardt Freye,Michael Klügel,BSV,17,58,24,62,32,57,18,5,,30
 GER,8609,Christian Müllejans,Thomas Jung,SVWu,16,12,31,58,56,59,17,27,,31
 FRA,8565,Valleteau de Moulliac,Yves Scolan,SNBa,51,38,33,47,29,24,37,22,,32
 GBR,8708,Martin Wedge,Nick Beloe,RBYC,24,DSQ,29,25,26,30,DSQ,15,,33
 FRA,8541,Francis Doerenbecher,Aubin Doerenbecher,CNS,34,22,25,59,39,61,31,23,,34
-GER,8580,Frieder Achterberg,Andreas Achterberg,DTYC,DNC,14,DSQ,12,40,40,19,25,,35
+GER,8580,Frieder Achterberg,Andréas Achterberg,DTYC,DNC,14,DSQ,12,40,40,19,25,,35
 GER,8675,Volker Görge,Marlies Endjer,TSVS,52,46,42,23,10,23,DNC,42,,36
-FRA,8491,Frederic Veroul,Jean Veroul,CNVa,45,42,35,41,24,32,50,28,,37
+FRA,8491,Frédéric Véroul,Jean Jacques Véroul,CNVa,45,42,35,41,24,32,50,28,,37
 GER,8567,Jörg Detmold,Holger Neuhaus,SCH,27,31,27,46,52,34,32,51,,38
-FRA,8353,Robert Fossard,Loic Bleuez,SNBa,43,54,38,32,16,50,43,39,,39
+FRA,8353,Robert Fossard,Loïc Bleuez,SNBa,43,54,38,32,16,50,43,39,,39
 FRA,8484,Philippe Blanchard,Carole Blattner,ACAL,61,57,53,36,23,10,57,37,,40
-FRA,7940,Guy de Restrepo,Alain Beltzung,CYVStr,22,53,39,67,33,47,24,58,,41
+FRA,7940,Guy De Restrepo,Alain Beltzung,CYVStr,22,53,39,67,33,47,24,58,,41
 GER,8662,Jan Stölken,Matthias Gotthard,SCU,41,36,37,42,54,36,48,36,,42
 FRA,8748,Muriel Jeanne,Gilles Carvallo,CNHS,42,28,47,49,70,45,39,30,,43
 GER,8539,Hendrik Schultz,Ute Oberländer,SCLW,49,34,54,30,36,39,45,49,,44
 FRA,8695,Jean-Guy Puissant,Laurent Camusson,ANPESA,46,25,40,63,41,67,22,54,,45
 FRA,8716,Christian Silvestre,Pierre-Yves Partant,CVB,70,47,51,26,13,25,60,DNC,,46
-FRA,7941,Veronique Dousselin,Jean-Pierre Peter,ACAL,50,55,57,19,8,48,69,60,,47
+FRA,7941,Véronique Dousselin,Jean-Pierre Peter,ACAL,50,55,57,19,8,48,69,60,,47
 GER,8721,Martin Seikel,Norbert Becker,PSVK,23,20,6,38,DNC,44,DNC,DNC,,48
 GER,8570,Till Supan,Gregor Dahlem,ETUF,48,DSQ,43,35,62,37,47,32,,49
 GBR,8701,Paul Lovesy,John Mildred,StBay,30,DNC,DNC,37,61,DSQ,13,21,,50
@@ -63,11 +63,11 @@ FRA,7999,Serge Gubri,Marc Riot,JMIAM,62,41,56,55,57,41,58,DNC,,61
 SUI,8079,Lorenz Nydegger,Martin Nydegger,SCB,57,43,65,54,65,58,49,52,,62
 DEN,8364,Bent Lundsager,Uffe Andersen,FAS,54,40,52,45,48,62,DNC,DNC,,63
 FRA,8461,Henri Chemineau,Jean-Claude Ancelot,ANSES,DNC,DSQ,DSQ,50,31,60,38,48,,64
-GER,8686,Nicolai Völckner,Lars Dehne,HSC,47,DSQ,DNC,17,43,DNC,44,DNC,,65
+GER,8686,Nicolai Völckner,Lars Derschotte Dehne,HSC,47,DSQ,DNC,17,43,DNC,44,DNC,,65
 GER,8712,Siegfried Labenz,Christian Labenz,SVWu,59,39,61,64,64,64,62,DNC,,66
 GER,8533,Roger Bussenius,Robert Bussenius,SCOH,64,56,58,65,68,68,51,56,,67
-GER,8317,Ursula Tetzlaff,Hartwig Friedrichs,WSCW,58,60,DNC,57,51,42,DNC,DNC,,68
-FRA,8603,Jean Chartier,Chartier,CYVP,68,50,62,70,60,73,67,61,,69
+GER,8317,Ursula Tetzlaff,Hartwig Friederichs,WSCW,58,60,DNC,57,51,42,DNC,DNC,,68
+FRA,8603,Jean-Philippe Chartier,Alain Chartier,CYVP,68,50,62,70,60,73,67,61,,69
 FRA,8623,Eric Brun,Dominique Rouanne,YCCav,55,DSQ,60,68,71,69,53,62,,70
 FRA,8444,Eric Schaedelin,Nicolas Follioley,SNBand,60,59,DNC,60,66,49,61,DNC,,71
 FRA,8359,Frederic Dalle,Laure Dalle,CNBPP,77,61,66,77,67,76,65,43,,72
