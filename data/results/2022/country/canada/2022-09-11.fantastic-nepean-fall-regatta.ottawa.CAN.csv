@@ -1,13 +1,13 @@
 Nation,SailNo,HelmName,CrewName,Club,10SEP-01,10SEP-02,10SEP-03,10SEP-04,11SEP-01,11SEP-02,11SEP-03,Boat,Total,Nett,Rank
-CAN,7606,Robert Bartlewski,Sabina Bartlewska,Outer Harbour CC,2,(3),2,2,1,2,1, ,13,10,1st
+CAN,7606,Robert Bartlewski,Sabina Bartlewska,Outer Harbour CC,2,(3),2,2,1,2,1,,13,10,1st
 CAN,8821,Jeff Boyd,Martin Ten Hove,Kingston YC,1,2,1,3,(11),3,2,Grace too,23,12,2nd
-CAN,9028,Evania Lovshin,Ali Meller,Britannia YC,6,(13 DNS),4,1,4,1,4, ,33,20,3rd
-CAN,920,David Browne, ,NSC,3,1,(9.5),6,2,8,5,Mystery,34.5,25,4th
+CAN,9028,Evania Lovshin,Ali Meller,Britannia YC,6,(13 DNS),4,1,4,1,4,,33,20,3rd
+CAN,920,David Browne,,NSC,3,1,(9.5),6,2,8,5,Mystery,34.5,25,4th
 CAN,8645,Marg Hurley,Andrew Gesing,NSC,5,5,3,(8),3,7,7,Green With Envy,38,30,5th
 CAN,8587,Paul Place,Rae-Anne Norwood,NSC,4,8,8,(10),5,4,8,The Pink Panther Strikes Again,47,37,6th
-CAN,7605,Renka Gesing,Adam Gesing,Kingston YC,(9),6,5,4,6,9,9, ,48,39,7th
-CAN,5*,Shona Moss Lovshin,Stephen Lovshin,NSC,7,7,9.5,5,9,5,(13 DNC), ,55.5,42.5,8th
+CAN,7605,Renka Gesing,Adam Gesing,Kingston YC,(9),6,5,4,6,9,9,,48,39,7th
+CAN,5*,Shona Moss Lovshin,Stephen Lovshin,NSC,7,7,9.5,5,9,5,(13 DNC),,55.5,42.5,8th
 CAN,8735,Brent Beninger,Martin Hicks,NSC,8,4,6,9,8,11,(13 DNC),Spaghetti Factory,59,46,9th
 CAN,8696,Deb Ashby,David Adams,NSC,11,(13 DNC),13 DNC,7,7,6,3,Loose Unit,60,47,10th
 CAN,138*,Christian Voyer,Rob Voyer,NSC,10,9,7,(11),10,10,6,Gowabunga,63,52,11th
-USA,8930,Duane Delfosse,Sol Marini,Lake Sunapee YC,(13 DNC),13 DNC,13 DNC,13 DNC,13 DNC,13 DNC,13 DNC, ,91,78,12th
+USA,8930,Duane Delfosse,Sol Marini,Lake Sunapee YC,(13 DNC),13 DNC,13 DNC,13 DNC,13 DNC,13 DNC,13 DNC,,91,78,12th

@@ -1,21 +1,21 @@
 Nation,Segel-Nr.,Steuermann/-frau ,Vorschoter/-in ,Club/Land ,Laufwertungen 1,Laufwertungen 2,Laufwertungen 3,Sum,
 GER,8671,Markus Mühlbauer,Angela Stenger,DTYC,1,2,1,4,1
-FRA,8484,Philippe Blanchard,Carole Blattner, ,4,1,4,9,2
-FRA,8008,Marc Dousselin,Alain Beltzung, ,2,3,7,12,3
+FRA,8484,Philippe Blanchard,Carole Blattner,,4,1,4,9,2
+FRA,8008,Marc Dousselin,Alain Beltzung,,2,3,7,12,3
 GER,8519,Sebastian Dörr,Christian Dörr,HSC,9,5,2,16,4
 GER,8691,Günther Böckle,Frank Heimburger,SSCM,6,7,3,16,5
 GER,8519,Robert Wisolek,Thomas Löwen,SVM,3,9,6,18,6
 GER,8642,Stefan Schollmayer,Francisco Sanguino,SCMSP,8,8,5,21,7
 GER,8601,Jürgen Feuerhake,Margit Falk,YCSB,14,4,10,28,8
-FRA,7941,Veronique Dousselin,Jean Pierre Peter, ,18,6,8,32,9
-FRA,8541,Francis Doerenbecher,Aubin Doerenbecher, ,7,14,9,30,10
+FRA,7941,Veronique Dousselin,Jean Pierre Peter,,18,6,8,32,9
+FRA,8541,Francis Doerenbecher,Aubin Doerenbecher,,7,14,9,30,10
 GER,8413,Martin Eckel,Oliver Paulzen,HSC,5,15,12,32,11
-FRA,8455,Marcel Buffet,Eric de Restrepo, ,11,10,11,32,12
-FRA,8415,Alfred Grosheny,Bertrand Grosheny, ,10,13,13,36,13
-BEL,7979,Frederic Dignef,Luc D'Herde, ,12,11,17,40,14
-BEL,8350,Bruno Vanikaut,Philippe Wirtz, ,16,12,16,44,15
+FRA,8455,Marcel Buffet,Eric de Restrepo,,11,10,11,32,12
+FRA,8415,Alfred Grosheny,Bertrand Grosheny,,10,13,13,36,13
+BEL,7979,Frederic Dignef,Luc D'Herde,,12,11,17,40,14
+BEL,8350,Bruno Vanikaut,Philippe Wirtz,,16,12,16,44,15
 GER,7908,Uwe Hoffmann,Verena Hoffmann,WSVR,13,18,18,49,16
-BEL,7015,Pierre Vandepol,Vincent Ziommermann, ,17,19,14,50,17
+BEL,7015,Pierre Vandepol,Vincent Ziommermann,,17,19,14,50,17
 GER,8005,Detlef Stock,Jürgen Puschmann,SGW,OCS,16,15,53,18
 GER,8530,Alexander von Mertens,Jochen Heydolph,STSC,15,17,OCS,54,19
 GER,8098,Albrecht Maisch,Frank Letsche,SGK,19,20,19,58,20

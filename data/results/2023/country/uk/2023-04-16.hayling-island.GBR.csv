@@ -1,8 +1,8 @@
 Fleet,Sailnumber,HelmName,CrewName,Club,R1,R2,R3,R4,R5,R6,Total,Nett,Rank
-GBR,9253,Nathan Batchelor,Sam Pascoe,Tynemouth SC,1.0,1.0, , , , ,2.0,2.0,1st
-GBR,8935,David Ellis,Jim Hunt,Lymington Town SC,4.0,2.0, , , , ,6.0,6.0,2nd
-GBR,9085,Charles Walters,Dougal Cram,Datchet Water SC,2.0,5.0, , , , ,7.0,7.0,3rd
-GBR,9215,Ben McGrane,Ben McGrane,Netley SC,3.0,4.0, , , , ,7.0,7.0,4th
-GBR,9246,Michael Sims,Tim Needham,Burton SC,6.0,3.0, , , , ,9.0,9.0,5th
-GBR,9214,Andy Smith,Stewart Mears,Notts County SC,5.0,6.0, , , , ,11.0,11.0,6th
-GBR,9125,Roger Deane,Jonathan Ward, ,7.0,7.0, , , , ,14.0,14.0,7th
+GBR,9253,Nathan Batchelor,Sam Pascoe,Tynemouth SC,1.0,1.0,,,,,2.0,2.0,1st
+GBR,8935,David Ellis,Jim Hunt,Lymington Town SC,4.0,2.0,,,,,6.0,6.0,2nd
+GBR,9085,Charles Walters,Dougal Cram,Datchet Water SC,2.0,5.0,,,,,7.0,7.0,3rd
+GBR,9215,Ben McGrane,Ben McGrane,Netley SC,3.0,4.0,,,,,7.0,7.0,4th
+GBR,9246,Michael Sims,Tim Needham,Burton SC,6.0,3.0,,,,,9.0,9.0,5th
+GBR,9214,Andy Smith,Stewart Mears,Notts County SC,5.0,6.0,,,,,11.0,11.0,6th
+GBR,9125,Roger Deane,Jonathan Ward,,7.0,7.0,,,,,14.0,14.0,7th

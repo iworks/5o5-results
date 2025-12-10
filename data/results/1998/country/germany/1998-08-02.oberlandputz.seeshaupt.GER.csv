@@ -1,7 +1,7 @@
 Land,Segel-Nr.,Steuermann/-frau,Vorschoter/-in,Club/Land,Laufwertunge 1,Laufwertunge 2,Laufwertunge 3,Punkte,Platz
 GER,8652,Sebastian Dörr,Christian Dörr,HSC,2,1,1,4,1
 GER,8562,Wolfgang Seifert,Christian Voggeser,SGR,3,5,2,10,2
-GER,0,Klaus Bergmann,Wolfi Stückl, ,1,2,10,13,3
+GER,0,Klaus Bergmann,Wolfi Stückl,,1,2,10,13,3
 GER,8519,Robert Wisolek,Beyer,SVM,7,4,3,14,4
 GER,8662,Jan Stölken,Matthias Brühl,SCU,5,3,9,17,5
 GER,8388,Christian Kellner,Alexander von Mertens,HSC,6,8,5,19,6
@@ -16,7 +16,7 @@ GER,0,Christian Schuster,Peter Daferner,TSVH,14,11,15,40,14
 GER,4930,Martin Handel,Martin Uhl,SGK,10,24 OCS,13,47,15
 GER,7870,Andreas Müller,Christoph Müller,YCSS,17,12,18,47,16
 GER,7908,Uwe Hoffmann,Verena Hoffmann,WSVR,20,15,16,51,17
-GER,0,Thoralf Greger,Thorsten Koch, ,10,15,19,44,18
+GER,0,Thoralf Greger,Thorsten Koch,,10,15,19,44,18
 GER,8518,Klaus Eifler,Nils Burghard,SCLW,15,14,24 DNC,53,19
 GER,7891,Ulli Stegbauer,Robert Plecher,HSC,21,15,17,53,20
 GER,8428,Helmut Spiske,Kurt Motzet,SGR,19,15,22,56,21

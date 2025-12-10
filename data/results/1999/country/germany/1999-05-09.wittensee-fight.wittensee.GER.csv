@@ -2,10 +2,10 @@ Nation,Segel-Nr.,Steuermann/-frau ,Vorschoter/-in ,Club/Land ,Laufwertunge 1,
 GER,87*,Wolfgang Hunger,Holger Jess,PYC,2,1,1,4*,8,4,1
 GER,8657,Martin Görge,Rainer Görge,TSVS,1,2*,2,2,7,5,2
 GER,8575,Tom Gosch,Rolf Meyer,ENSFV,4,3,8*,3,18,10,3
-GER,8517,Michael Rössler,Arnd Howar, ,9*,7,3,1,20,11,4
+GER,8517,Michael Rössler,Arnd Howar,,9*,7,3,1,20,11,4
 GER,8480,Joachim Hellmich,Christian Paschen,WYD,3,4,4,11*,22,11,5
 GER,8621,Dirk Filimonow,Lars Stöckmann,SCSZ,5,5,9*,9,28,19,6
-GER,8256,Peter Hecht,Eike Dietrich, ,16*,9,5,7,37,21,7
+GER,8256,Peter Hecht,Eike Dietrich,,16*,9,5,7,37,21,7
 GER,8542,Tom Swift,Hans-Heinrich Rix,WYC,7,8,14*,6,35,21,8
 GER,8665,Jens-Peter Schlomka,Klaus Stammerjohann,TSVS,13,6,18*,8,45,27,9
 GER,8700,Jörg Häger,Thorsten Drewes,SCB,11,12*,12,5,40,28,10
@@ -29,7 +29,7 @@ GER,8412,Antje Paulsen,Björn Schaar,BSV,26,28*,27,26,107,79,27
 GER,8674,Rainer Kremkow,Matthias Retzlaff,SCO,30*,25,26,29,110,80,28
 GER,8450,Gerrit Haaland,Holger Rudloff,HSC,33*,27,28,25,113,80,29
 GER,8279,Maike Miechelsen,Kay-Enno Brink,?,24,37 DNS*,29,28,118,81,30
-GER,6611,Antje Herms,Gorch Stegen, ,27,32*,30,27,116,84,31
+GER,6611,Antje Herms,Gorch Stegen,,27,32*,30,27,116,84,31
 GER,8471,Jörg Morche,Oliver Deutschbein,BSV,31,30,25,37 DNF*,123,86,32
 GER,7498,Jürgen Anton,David Thompson,HSC,29,29,37 OSC*,37 DNF,132,95,33
 GER,7856,Kai-Uwe Weiss,Eric Wolf,?,34,37 DSQ*,31,30,132,95,34

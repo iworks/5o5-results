@@ -1,7 +1,7 @@
 Country,Sail #,Helm,Crew,Club,R1,R2,R3,R4,R5,R6,R7,R8,Total,Net,Rank
 USA,8786,Alex Bowdler,John Ingalls,SAKONNET,[7],1,1,5,2,5,2,2,25,18,1st
 USA,8951,David Kirkpatrick,Sol Marini,SAIL NEWPORT,3,2,2,[7],4,6,1,1,26,19,2nd
-IRL,8987,Peter Scannell,John Dunlea, ,[20 NSC],7,3,2,1,1,4,7,45,25,3rd
+IRL,8987,Peter Scannell,John Dunlea,,[20 NSC],7,3,2,1,1,4,7,45,25,3rd
 CAN,8821,Jeff Boyd,Martin ten Hove,KYC,1,4,4,8,7,4,7,[20 RET],55,35,4th
 CAN,7606,Robert  Bartlewski,Andrew Gesing,OHCC TORONTO,4,9,[20 DNF],1,3,8,6,5,56,36,5th
 USA,8930,Duane Delfosse,Mike Hull,LSYC,5,5,[10],9,8,3,5,3,48,38,6th
@@ -12,7 +12,7 @@ CAN,8850,Douglas Watson,Alex Taylor,OHCC,8,11,11,[14],14,12,12,4,86,72,10th
 CAN,9042,Bruce Clifford,Simon van Wonderen,OHCC,12,10,6,13,10,[15],14,8,88,73,11th
 CAN,920*,Marie Gendron,David Browne,NSC,9,12,12,[15],13,9,11,9,90,75,12th
 CAN,9186,Evania Moss Lovshin,Kyber Lovshin,NSC AND BYC,[16],6,13,12,16,13,10,12,98,82,13th
-USA,5*,Alexander Tong,Phil Doucet, ,15,13,8,16,[19],16,15,11,113,94,14th
+USA,5*,Alexander Tong,Phil Doucet,,15,13,8,16,[19],16,15,11,113,94,14th
 USA,8841,Alexander  Meller,Steve Lovshin,KYC,[20 DNC],20 DNC,20 DNC,20 DNC,5,2,8,20 RET,115,95,15th
 CAN,8610,Shona Weldon,Michael Wonnacott,NSC,13,18,14,3,17,18,17,[20 RET],120,100,16th
 CAN,8587,Paul Place,Jacob Livingstone,NSC/GRYC,14,16,[20 DNS],11,15,17,19,10,122,102,17th

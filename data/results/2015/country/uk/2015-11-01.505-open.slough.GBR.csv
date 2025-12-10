@@ -1,10 +1,10 @@
 Nation,SailNo,HelmName,CrewName,Club,Race 1,Race 2,Boat,Total,Nett,ank
 GBR,9117,Tom Gillard,Sam Brearey,HISC,1,4,North Sails,5,5,1st
-GBR,9126,Stuart Turnbull,Luke Draper, ,4,3, ,7,7,2nd
+GBR,9126,Stuart Turnbull,Luke Draper,,4,3,,7,7,2nd
 GBR,9088,Charles Walters,Dougal Cram,DWSC,8,1,Mojoe,9,9,3rd
-GBR,9039,Hamish Gleedhill,Adrian Thear,West Riding,5,5, ,10,10,4th
-GBR,8514,Ben Hills,Richard Nurse,KGSC,9,2, ,11,11,5th
+GBR,9039,Hamish Gleedhill,Adrian Thear,West Riding,5,5,,10,10,4th
+GBR,8514,Ben Hills,Richard Nurse,KGSC,9,2,,11,11,5th
 GBR,9032,Jim Blyth,Donald Aitkin,Largo Bay SC,3,8,Jack,11,11,6th
-GBR,9125,Roger Deane,Adam Kenney,Rock SC,2,10.0 DNF, ,12,12,7th
-GBR,8881,Neil Rabbits,Daniel Samanjoul,Burton SC,6,6, ,12,12,8th
-GBR,9156,Mike Pickering,Mike Priddle,Restronguet SC,7,7, ,14,14,9th
+GBR,9125,Roger Deane,Adam Kenney,Rock SC,2,10.0 DNF,,12,12,7th
+GBR,8881,Neil Rabbits,Daniel Samanjoul,Burton SC,6,6,,12,12,8th
+GBR,9156,Mike Pickering,Mike Priddle,Restronguet SC,7,7,,14,14,9th

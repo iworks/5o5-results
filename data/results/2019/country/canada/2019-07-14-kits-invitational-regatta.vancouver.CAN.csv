@@ -3,12 +3,12 @@ Nat,SailNo,HelmName,CrewName,Club,"R1
  ","R3
  ","R4
  ",Boat,Total,Nett,Rank
-USA,8829,Elsa Balton,Miles Johannessen,BYC,1,6,1,3, ,11,11,1st
-CAN,8192,Phil Cragg,Reto Corfu,KYC/RVYC,6,3,4,1, ,14,14,2nd
+USA,8829,Elsa Balton,Miles Johannessen,BYC,1,6,1,3,,11,11,1st
+CAN,8192,Phil Cragg,Reto Corfu,KYC/RVYC,6,3,4,1,,14,14,2nd
 CAN,8866,Cynthia Des Brisay,Charles Hansen,RVYC,8,5,3,2,Non-Sequitor,18,18,3rd
 USA,6991,Sugar Flanagan,Alyce Flanagan,PTSA,5,8,2,4,Zaya,19,19,4th
-CAN,8755,Brian Trainor,Henrik Parker,KYC,2,1,8,9, ,20,20,5th
-CAN,7353,Andriy Kanyuka,Ian Plumbley,KYC,3,7,6,7, ,23,23,6th
+CAN,8755,Brian Trainor,Henrik Parker,KYC,2,1,8,9,,20,20,5th
+CAN,7353,Andriy Kanyuka,Ian Plumbley,KYC,3,7,6,7,,23,23,6th
 CAN,8068,Evan Jennings,TBD,KYC,10,2,7,5,Club Boat,24,24,7th
 USA,8631,Loran Noldea,Thomas Crawford,BYC,7,4,11.0 UFD,6,FBIncognito,28,28,8th
 USA,8439,Anne Fitzpatrick,Catrin Pittack,CYC,9,10,5,8,Yes Dear!,32,32,9th
