@@ -1,46 +1,46 @@
 Country,Number,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Race 7,Total Points,Net Points,Position
-DEN,8656,Jan Moller,J. Moller,,4,4,1,2,1,3,2,17,13,1
-GBR,8555,David Smithwhite,Neil Fulcher,,2,1,2,5,2,rdg,4,18.2,13.2,2
-GER,8670,Martin Görge,Rainer Görge,,1,5,rdg,1,5,5,1,20.6,15.6,3
+DEN,8656,Jan Møller,Jacob Bojsen-Møller,,4,4,1,2,1,3,2,17,13,1
+GBR,8555,David Smithwhite,Neil Fulcher,,2,1,2,5,2,rdg,4,"18,2","13,2",2
+GER,8670,Martin Görge,Rainer Görge,,1,5,rdg,1,5,5,1,"20,6","15,6",3
 GER,8746,Stefan Böhm,Gerald Roos,,6,2,3,8,3,1,9,32,23,4
-DEN,8728,Jörgen Schönherr,Anders Kaempe,,3,16,5,3,8,2,10,47,31,5
+DEN,8728,Jørgen Schönherr,Anders Kæmpe,,3,16,5,3,8,2,10,47,31,5
 GER,8720,Dirk Filimonow,Lars Stöckmann,,5,6,6,6,6,54 OCS,3,86,32,6
 GBR,8741,Vernon Ralston,Simon Spratt,,8,10,4,7,4,4,5,42,32,7
-SUI,8729,Jean-F. de Cerjat,P Jacot,,7,3,24,9,17,20,8,88,64,8
-GER,8580,F Achterberg,A Achterberg,,12,9,14,55 DNC,11,15,6,122,67,9
-GER,8590,S. Koedilen,Peter Hobusch,,14,8,9,19,12,13,12,87,68,10
+SUI,8729,Jean-Francois de Cerjat,Philippe Jacot,,7,3,24,9,17,20,8,88,64,8
+GER,8580,Frieder Achterberg,Andréas Achterberg,,12,9,14,55 DNC,11,15,6,122,67,9
+GER,8590,Stefan Köchlin,Peter Hobusch,,14,8,9,19,12,13,12,87,68,10
 GER,8563,Mathias Jetschke,Jens Weishaupt,,55 DNC,18,8,15,10,7,14,127,72,11
 GER,8505,Adalbert Kluck,Gerhard Schmidt,,17,12,25,11,16,9,11,101,76,12
 GBR,8568,Charles Walters,Christian Diebitsch,,10,13,7,17,26,16,55 DNC,144,89,13
 GER,8649,Ronald Roos,Gerd Linnemann,,55 DNC,55 DNC,16,4,7,6,7,150,95,14
-SUI,8426,Marcel Pluss,Yvo Durr,,13,11,23,12,19,17,24,119,95,15
-SUI,8543,B. Cedric,Marti Ueli,,15,55 DNC,20,28,14,14,13,159,104,16
+SUI,8426,Marcell Plüss,Yvo Dürr,,13,11,23,12,19,17,24,119,95,15
+SUI,8543,Cédric Bart,Marti Ueli,,15,55 DNC,20,28,14,14,13,159,104,16
 GER,8633,Wolfgang Stückl,Frank Weigelt,,20,19,34,14,9,11,55 DNC,162,107,17
 GER,8730,Jörg Häger,Thorsten Drewes,,21,20,15,18,22,12,55 DNC,163,108,18
 GBR,8495,David Peacock,Chris Hewkin,,11,7,11,55 DNC,18,8,55 DNC,165,110,19
 GER,8658,Christian Schäfer,Uwe Lätzsch,,16,15,17,21,28,23,18,138,110,20
-GBR,8708,Martin Wedge,Bill Masterman,,55 DNC,27,13,10,25,19,rdg,167.8,112.8,21
+GBR,8708,Martin Wedge,Bill Masterman,,55 DNC,27,13,10,25,19,rdg,"167,8","112,8",21
 DEN,8581,Jon Andersen,Lasse B. Andersen,,19,21,12,16,55 DNC,33,16,172,117,22
-GER,8642,Stefan Schollmayer,F Sanguino,,18,17,21,55 DNC,21,24,20,176,121,23
+GER,8642,Stefan Schollmayer,Franscisco Sanguino-Petersen,,18,17,21,55 DNC,21,24,20,176,121,23
 GER,8721,Martin Seikel,Norbert Becker,,22,22,19,20,24,22,55 DNC,184,129,24
-SUI,8569,Rene Betschen,Patrick Ducommun,,55 DNC,55 DNC,10,13,15,21,23,192,137,25
+SUI,8569,René Betschen,Patrick Ducommun,,55 DNC,55 DNC,10,13,15,21,23,192,137,25
 GER,8519,Robert Wisolek,Oliver Paulzen,,23,23,28,23,55 DNC,30,15,197,142,26
 FRA,8541,Francis Doerenbecher,Aubin Doerenbecher,,55 DNC,32,18,31,23,26,17,202,147,27
-SUI,8016,Florent Chapatte,M. Froideveaux,,28,25,33,24,31,27,21,189,156,28
-GER,8744,Hans-Heinrich Rix,S. Achenbach,,9,14,55 DNC,55 DNC,20,10,55 DNC,218,163,29
+SUI,8016,Florent Chapatte,Marc Froidevaux,,28,25,33,24,31,27,21,189,156,28
+GER,8744,Hans-Heinrich Rix,Steffen Achenbach,,9,14,55 DNC,55 DNC,20,10,55 DNC,218,163,29
 GER,8562,Wolfgang Seifert,Peter Daferner,,26,30,29,22,33,28,55 DNC,223,168,30
 GER,8607,Bernd Kowalzig,Ulrich Ellerbeck,,33,28,35,36,27,40,19,218,178,31
 SUI,8096,Alain Brasey,Stéphane Burri,,31,34,38,27,34,38,22,224,186,32
 SUI,8586,Markus Gericke,Beat Waser,,24,31,26,32,40,35,55 DNC,243,188,33
-GER,8686,Nicolai Völckner,Lars Dehne,,29,55 DNC,22,55 DNC,13,18,55 DNC,247,192,34
-FRA,8521,Jean Louis Guibbal,Mat Guibbal,,27,29,36,29,38,37,55 DNC,251,196,35
-GER,8539,Henrik Schultz,Ute Ziems,,38,37,31,26,32,34,55 DNC,253,198,36
-FRA,7940,Guy de Restrepo,Alain Beltzung,,30,26,55 DNC,25,37,32,55 DNC,260,205,37
+GER,8686,Nicolai Völckner,Lars Derschotte Dehne,,29,55 DNC,22,55 DNC,13,18,55 DNC,247,192,34
+FRA,8521,Jean-Louis Guibbal,Matthieu Guibbal,,27,29,36,29,38,37,55 DNC,251,196,35
+GER,8539,Hendrik Schultz,Ute Ziems,,38,37,31,26,32,34,55 DNC,253,198,36
+FRA,7940,Guy De Restrepo,Alain Beltzung,,30,26,55 DNC,25,37,32,55 DNC,260,205,37
 GER,8652,Sebastian Dörr,Edzard,,35,24,42,55 DNC,30,29,55 DNC,270,215,38
-GER,8691,Günther Böckle,Frank Heimburger,,34,36,39,33,36,39,55 DNC,272,217,39
+GER,8691,Günter Bökle,Frank Heimburger,,34,36,39,33,36,39,55 DNC,272,217,39
 GER,8108,Thorge Holm,Nils Holm,,32,33,55 DNC,55 DNC,41,41,25,282,227,40
 GBR,8678,Jim Berry,Richard Berry,,25,55 DNC,32,55 DNC,43,31,55 DNC,296,241,41
-GER,8413,Martin Eckel,Tobias Quadfass,,36,35,30,37,55 DNC,53 DNF,55 DNC,301,246,42
+GER,8413,Martin Eckel,Tobias Quadfaß,,36,35,30,37,55 DNC,53 DNF,55 DNC,301,246,42
 SWE,8475,Göran Berggren,Christian Schuster,,37,55 DNC,41,39,42,36,55 DNC,305,250,43
 GER,8671,Markus Mühlbauer,Angela Stenger,,55 DNC,55 DNC,55 DNC,35,29,25,55 DNC,309,254,44
 GER,8470,Nørbert Dasenbrook,Sven Meier,,55 DNC,55 DNC,27,30,35,53 DNF,55 DNC,310,255,45
