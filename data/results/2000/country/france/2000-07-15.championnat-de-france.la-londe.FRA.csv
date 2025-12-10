@@ -1,4 +1,4 @@
-Nation,Sail Number,Helm,Crew,,Race 1,Race 2,Race 3,Race 4,Total,Points,Position
+Nation,Sail Number,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Total,Points,Position
 GBR,8736,Bernard Dugrip,Laurent Camusson,,1,[6],1,1,9,3,1
 FRA,8702,Jacques Raguet,Jacques Cavalie,,2,[9],2,2,15,6,2
 FRA,8709,Jean-Marc Noclain,Lionel Lesoil,,3,3,[5],3,14,9,3
@@ -19,7 +19,7 @@ FRA,8717,Marc Jouany,Yvan Doerenbecher,,13,[27 DNC],7,27 DNC,74,51,17
 FRA,8301,Christian Silvestre,Pierre-Yves Partant,,23,12,17,[27 DNC],79,52,18
 FRA,8455,Véronique Dousselin,Jean-Pierre Peter,,17,17,19,[27 DNF],80,53,19
 FRA,8090,Gilles Carvallo,Samuel Carvallo,,20,15,21,[27 DNC],83,56,20
-FRA,8733,Jacob-Antoine Lortat,Bertrand,,[27 DNF],20,18,27 DNF,92,69,21
+FRA,8733,Jacob-Antoine Lortat,Jean Franco Bertrand,,[27 DNF],20,18,27 DNF,92,69,21
 FRA,8348,Bernard Blondy,Jean-Pierre Noclain,,[27 DNC],27 DNC,12,27 DNF,93,74,22
 FRA,8459,Marcel Buffet,Damien Trouillet,,22,21,[27 DNC],27 DNC,97,74,23
 FRA,7999,Loïc Bleuez,Michel Bonnet,,21,22,[27 DNC],27 DNC,97,74,24
