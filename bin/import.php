@@ -135,6 +135,7 @@ if ( 2 < count( $argv ) ) {
 		&& preg_match( '/^data\/results/', $argv[1] )
 	) {
 	$one_file = preg_replace( '@data/[^/]+/@', '', $argv[1] );
+	$import_results = true;
 }
 /**
  * import sailors
