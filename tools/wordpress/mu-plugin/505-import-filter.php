@@ -6390,7 +6390,6 @@ class iworks_5o5_upload_fixer {
 		'Nigel Hilln'                 => 'Nigel Milln',
 		'Nigel Milne'                 => 'Nigel Milln',
 		'Nigel Squirrel'              => 'Nigel Squirrell',
-		'Nigel Vooght'                => 'Nigel John Vooght',
 		'Nigon Erik'                  => 'Erik Nigon',
 		'Niklas Backvid'              => 'Niklas Beckvid',
 		'Niklas Philipsson'           => 'Niklas Philipson',
