@@ -278,7 +278,7 @@ Z 6382 J.-M.Ravonel, A.Ravonel
 Z 6386 U.Scherrer, J.Himmelsbach
 Z 6475 T.Vandeveld, D.Gay
 Z 6480 M.Ingold, P.Neth
-Z 6481 W.Müller, H.Stutz
+Z 6481 W. Müller, Hanspet Stutz
 
 SWEDEN
 S 5227 T.Widstrand, E.Wallin
