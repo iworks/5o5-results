@@ -132,7 +132,7 @@ EQUIPMENT AT WORLDS
 
 
 
-Pos Helmsman Sail No.  Hull Sails Mast
+Pos Helmsman Sail No. Hull Sails Mast
 
 
 1st Schonherr D7956 Kyrwood Dansails Proctor E
@@ -158,7 +158,7 @@ Pos Helmsman Sail No.  Hull Sails Mast
 
 
 505 Showdown Report by Chris Hufstader. (retyped from Sailing World,
-    January 1991)
+ January 1991)
 
 The drama of the 1990 505 World Championship surfaced in the very first
 race off Kingston on Lake Ontario. Battling with two American teams and
@@ -207,7 +207,7 @@ finish. Olympic scoring put a high priority on top-six finishes
 -especially firsts (for 0 points).
 
 The fleet got the breeze it was waiting for in the third race, although
-many of them didn't see it coming.  With very light air that morning and
+many of them didn't see it coming. With very light air that morning and
 not much more wind in the forecast, the race committee decided to try
 a race on the "inside" race course just in front of the harbour where
 there is always a breeze. Bergström and Wenrup's 10th in Race 2 gave
@@ -278,14 +278,14 @@ than their current throwout of ninth. The breeze filled in slowly on the
 outside course from the usual southwesterly direction, and the bright
 sun started to build the 12- to 18-knot thermal wind Kingston is famous
 for. As the Pathfinder prepared to cross the fleet, Bixby and Lewis
-    tailed the Danes briefly, but couldn't shake them up. After the
-    race, Schonherr said he played along with Bixby: "As long as he
-    wanted to damage his own start, that was OK!" When they sailed
-    through the gate, the Danes were right next to the Americans, and
-    just started covering them. As Geoff Kyrwood rounded in the lead
-    Schonherr and Bixby were both in the mid teens, leaving the
-    championship firmly in the Danes' grasp, and opening up the battle
-    for second overall in the front of the fleet.
+ tailed the Danes briefly, but couldn't shake them up. After the
+ race, Schonherr said he played along with Bixby: "As long as he
+ wanted to damage his own start, that was OK!" When they sailed
+ through the gate, the Danes were right next to the Americans, and
+ just started covering them. As Geoff Kyrwood rounded in the lead
+ Schonherr and Bixby were both in the mid teens, leaving the
+ championship firmly in the Danes' grasp, and opening up the battle
+ for second overall in the front of the fleet.
 
 By the second windward mark the breeze and chop were building, and the
 Frenchmen Boite and Muzellec were now leading. They went on to a huge
@@ -315,7 +315,7 @@ improved the tactics." he said, explaining that the 505 tacks easier
 than an FD, especially in light air. His other less detrimental FD
 habits have been harder to drop - his Kyrwood-built 505 is rigged like
 an FD, with many of the sail controls led to the center with shock-cord
-take-ups along the aft tank, and even a short traveler.  Schonherr and
+take-ups along the aft tank, and even a short traveler. Schonherr and
 Kampe stay in shape for sailing by running and biking, with an
 occasional triathlon competition, which Kampe says is "just for fun."
 Schonherr, who is a wholesale athletic equipment salesman in Denmark,
@@ -327,7 +327,7 @@ kilometers a year.
 Gate Starts
 
 Although no starting system is trouble-free, 505 sailors swear by the
-Gate Start!  At the World's, the Race Committee modified the system in
+Gate Start! At the World's, the Race Committee modified the system in
 Appendix 12-C, "Gate Starts" in the IYRU Racing Rules. Here's how it
 worked:
 

@@ -6,26 +6,26 @@ CORK - Regatta 2008 - 505 Canadian Class Results, LOWPOINT Scoring System
 
 Includes Final Jury Decisions
 
-POS  SAIL     SKIPPER                              RACE RACE RACE RACE RACE RACE RACE RACE RACE   TOTAL   NET
-                                                     1    2    3    4    5    6    7    8    9    POINTS  POINTS
-                                                   Fri. Fri. Fri. Sat. Sat. Sat. Sat. Sun. Sun.           AFTER
-                                                   1221 1328 1439 1212 1312 1412 1509 1112 1217           1 DROP
+POS SAIL SKIPPER RACE RACE RACE RACE RACE RACE RACE RACE RACE TOTAL NET
+ 1 2 3 4 5 6 7 8 9 POINTS POINTS
+ Fri. Fri. Fri. Sat. Sat. Sat. Sat. Sun. Sun. AFTER
+ 1221 1328 1439 1212 1312 1412 1509 1112 1217 1 DROP
 
-  1  8830            BEHM, CHRIS  Andrew Buttner      1    4    1    2    1    1    1    1    1    13.00    9.00  USA MA Westwood,
-  2  USA8722         NELSON, MACY  Parry Barclay      4    1    2    3    2    2    4    4    2    24.00   20.00  USA    ,
-  3  CAN8264         BOYD, JEFF  Steve  Adolph        2    2    4    1    4    5    2    3    4    27.00   22.00  CAN ON  Kingston,KYC
-  4  USA8012         AMTHOR, HENRY  Dustin Romey      6    5    3    4    3    3    3    2    3    32.00   26.00  USA VA Hampton,HAMPTON YC
-  5  8696            ASHBY, DEBORAH  David Adams      3    8    5    5    5    4    5    5    5    45.00   37.00  CAN ON Ottawa,NSC
-  6  8410            BUSH, CLARISSA  Chris  Gillies   8    3   11    9   10    6    7    8    8    70.00   59.00  CAN QC gatineau,NSC
-  7  US8194          KIVNEY, THOMAS  Thomas Kivney    7    6    6   10    6    9    6    9   11    70.00   59.00  USA MA Hingham,HYC
-  8  8610            WELDON, SHONA  Michael Wonnaco  10    9    9    6    8   12    8   13    7    82.00   69.00  CAN    ,NSC
-  9  CAN8535         HURLEY, MARG  Jon Preston-Thom   5   10    7   12   13    7    9    7   13    83.00   70.00  CAN ON Ottawa,NSC
- 10  8850            WATSON, DOUGLAS  Gabriel Watso   9    7   10    8   11   11   12   10    9    87.00   75.00  USA    ,WEST RIVER SAIL
- 11  CAN7099         DECHAMPLAIN, CHRISTIAN  Jeremy DNF   11   14    7    9   10   10   11   12   100.00   84.00  CAN    ,NSC
- 12  7605            GESING, RENKA  Adam Gesing     DNF. DNF. DNF.  11    7    8  DNF.   6    6   102.00   86.00  CAN ON Tecumseh,SPSC
- 13  USA8351         BURCHFIEL, DAVID  Jay  Smith    13   12    8  DNF  DNF. DNF. DNF.  12   10   119.00  103.00  USA NC Raleigh,CSC
- 14  CAN8587         WARE, PAT  Nick Ware            12   14   12  DNF   12   13  DNF.  14  DNF.  125.00  109.00  CAN ON Kingston,
- 15  CAN8910         JANIDLO, ALISON  Tom Janidlo    11   13   13  DNF. DNF.  14   11  DNF. DNF.  126.00  110.00  CAN ON Ottawa,NSC
+ 1 8830 BEHM, CHRIS Andrew Buttner 1 4 1 2 1 1 1 1 1 13.00 9.00 USA MA Westwood,
+ 2 USA8722 NELSON, MACY Parry Barclay 4 1 2 3 2 2 4 4 2 24.00 20.00 USA , 
+ 3 CAN8264 BOYD, JEFF Steve Adolph 2 2 4 1 4 5 2 3 4 27.00 22.00 CAN ON Kingston,KYC
+ 4 USA8012 AMTHOR, HENRY Dustin Romey 6 5 3 4 3 3 3 2 3 32.00 26.00 USA VA Hampton,HAMPTON YC
+ 5 8696 ASHBY, DEBORAH David Adams 3 8 5 5 5 4 5 5 5 45.00 37.00 CAN ON Ottawa,NSC
+ 6 8410 BUSH, CLARISSA Chris Gillies 8 3 11 9 10 6 7 8 8 70.00 59.00 CAN QC gatineau,NSC
+ 7 US8194 KIVNEY, THOMAS Thomas Kivney 7 6 6 10 6 9 6 9 11 70.00 59.00 USA MA Hingham,HYC
+ 8 8610 WELDON, SHONA Michael Wonnaco 10 9 9 6 8 12 8 13 7 82.00 69.00 CAN , NSC
+ 9 CAN8535 HURLEY, MARG Jon Preston-Thom 5 10 7 12 13 7 9 7 13 83.00 70.00 CAN ON Ottawa,NSC
+ 10 8850 WATSON, DOUGLAS Gabriel Watso 9 7 10 8 11 11 12 10 9 87.00 75.00 USA , WEST RIVER SAIL
+ 11 CAN7099 DECHAMPLAIN, CHRISTIAN Jeremy DNF 11 14 7 9 10 10 11 12 100.00 84.00 CAN , NSC
+ 12 7605 GESING, RENKA Adam Gesing DNF. DNF. DNF. 11 7 8 DNF. 6 6 102.00 86.00 CAN ON Tecumseh,SPSC
+ 13 USA8351 BURCHFIEL, DAVID Jay Smith 13 12 8 DNF DNF. DNF. DNF. 12 10 119.00 103.00 USA NC Raleigh,CSC
+ 14 CAN8587 WARE, PAT Nick Ware 12 14 12 DNF 12 13 DNF. 14 DNF. 125.00 109.00 CAN ON Kingston,
+ 15 CAN8910 JANIDLO, ALISON Tom Janidlo 11 13 13 DNF. DNF. 14 11 DNF. DNF. 126.00 110.00 CAN ON Ottawa,NSC
 
 
 * CORK Honour Roll of Star Athletes

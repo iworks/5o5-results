@@ -4,16 +4,16 @@ Eighty three 505s, including thirteen British boats, travelled to Cavalaire for 
 
 The leading places were:
 
- 1  Boite, Philippe    Muzellec, Jean    FRA 8702  5,11,1,2,3,2,1
- 2  Hunger, Wolfgang   Jess, Holger      GER 87    10,1,4,4,1,1,6
- 3  Pinnell, Ian       Powell, Nick      GBR 8720  2,2,3,3,9,7,3
- 4  Nicholson, Steven  Mildred, John     GBR 8707  4,5,7,8,10,18,5
- 5  Upton-Brown, Mark  Johnson, Dan      GBR 8552  6,26,2,5,28,4,2
- 6  Böhm, Stefan       Roos, Gerald      GER 8623  27,3,9,1,2,29,4
- 7  Holt, Mike         Beasley, Paul     GBR 8342  8,DNC,18,7,4,10,10
- 8  Hay, Laurent       Boudier, Stephan  FRA 8564  9,32,16,RDG,6,8,9
- 9  Rössler, Michael   Howar, Arnd       GER 8517  7,9,28,16,8,11,7
-10  Peacock, David     Hewkin, Chris     GBR 8495  13,6,13,9,5,13,16
+ 1 Boite, Philippe Muzellec, Jean FRA 8702 5,11,1,2,3,2,1
+ 2 Hunger, Wolfgang Jess, Holger GER 87 10,1,4,4,1,1,6
+ 3 Pinnell, Ian Powell, Nick GBR 8720 2,2,3,3,9,7,3
+ 4 Nicholson, Steven Mildred, John GBR 8707 4,5,7,8,10,18,5
+ 5 Upton-Brown, Mark Johnson, Dan GBR 8552 6,26,2,5,28,4,2
+ 6 Böhm, Stefan Roos, Gerald GER 8623 27,3,9,1,2,29,4
+ 7 Holt, Mike Beasley, Paul GBR 8342 8,DNC,18,7,4,10,10
+ 8 Hay, Laurent Boudier, Stephan FRA 8564 9,32,16,RDG,6,8,9
+ 9 Rössler, Michael Howar, Arnd GER 8517 7,9,28,16,8,11,7
+10 Peacock, David Hewkin, Chris GBR 8495 13,6,13,9,5,13,16
 The full results are at: http://www.segel.de/505/regatta/0399.htm
 
 A comprehensive report by Jean-Luc Muzellec, translated into English by Jean-Baptiste Dupont can be found at: http://www.sailing.org/int505/99FrenchChampMuzellec.htm

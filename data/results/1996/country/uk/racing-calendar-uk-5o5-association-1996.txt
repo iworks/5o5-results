@@ -1,45 +1,45 @@
-Date          Venue           Country       Event                Ranking Factor
+Date Venue Country Event Ranking Factor
 
-FEBRUARY  
-TBC          Hayling Island     UK       Preworlds Training 
-TBC          Hayling Island     UK       Preworlds Regatta
+FEBRUARY 
+TBC Hayling Island UK Preworlds Training 
+TBC Hayling Island UK Preworlds Regatta
 
 MARCH 
-2 -3         Alexandra Palace   UK       Sailboat 96
-22-23        Bewl Valley        UK       Open Meeting            1.00
-30-31        Grafham            UK       Training  
-30-31        Queen Mary         UK       Open Meeting            1.00
+2 -3 Alexandra Palace UK Sailboat 96
+22-23 Bewl Valley UK Open Meeting 1.00
+30-31 Grafham UK Training 
+30-31 Queen Mary UK Open Meeting 1.00
 
 APRIL 
-2-9          Townsville         AUS      Prewords and Australian 1.40
-                                         National Championship
-5-7          Le Lavandou        FRA      Europa Cup              1.35
-12-19        Townsville         AUS      World Championship      1.60
-13-14        Grafham            UK       Inland Championship     1.25
-27-28        Burton             UK       Open Meeting            1.00
+2-9 Townsville AUS Prewords and Australian 1.40
+ National Championship
+5-7 Le Lavandou FRA Europa Cup 1.35
+12-19 Townsville AUS World Championship 1.60
+13-14 Grafham UK Inland Championship 1.25
+27-28 Burton UK Open Meeting 1.00
 
 MAY
-4-5          Stokes Bay 	UK	 Training		 
-6	     Stokes Bay 	UK	 3 Forts Race		 
-16-19        Riva               ITA      Europa Cup              1.35
-18-19        Bala               UK       Open Meeting            1.00
+4-5 Stokes Bay 	UK	 Training		 
+6	 Stokes Bay 	UK	 3 Forts Race		 
+16-19 Riva ITA Europa Cup 1.35
+18-19 Bala UK Open Meeting 1.00
 
 JUNE
-1-2          Llandegfedd        UK       Open Meeting            1.00
-8-9          Stokes Bay         UK       Southern Championship   1.25
-15-17        Gilleleje          DEN      Europa Cup              1.35
-22-23        Brighton           UK       South Western C'ship    1.25
-22-25        Kiel               GER      Europa Cup              1.35
-29-1         Zebrugge           BEL      Europa Cup              1.35
+1-2 Llandegfedd UK Open Meeting 1.00
+8-9 Stokes Bay UK Southern Championship 1.25
+15-17 Gilleleje DEN Europa Cup 1.35
+22-23 Brighton UK South Western C'ship 1.25
+22-25 Kiel GER Europa Cup 1.35
+29-1 Zebrugge BEL Europa Cup 1.35
 
 JULY 
-6-7          Abersoch           UK       Welsh Championship      1.25
-11-14        Loctudy            FRA      French Nationals        1.35
-13-14        Brightlingsea      UK       Eastern Championship    1.25
+6-7 Abersoch UK Welsh Championship 1.25
+11-14 Loctudy FRA French Nationals 1.35
+13-14 Brightlingsea UK Eastern Championship 1.25
 
 AUGUST 
-17-18        Stone              UK       Short Course Open       1.00
-17-24        Silvaplana         SWI      European Championship   1.50
+17-18 Stone UK Short Course Open 1.00
+17-24 Silvaplana SWI European Championship 1.50
 
 SEPTEMBER 
-8-13         Hayling Island     UK       British Nationals       1.40
+8-13 Hayling Island UK British Nationals 1.40

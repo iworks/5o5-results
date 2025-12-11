@@ -1,35 +1,35 @@
 K Fixtures 1997
-                  
-Date    Event                                   Ranking Factor
-February                        
-15/16   Association Training - Chew Valley SC           
-                        
-March                   
-1/2     Dinghy Exhibition - Alexandra Palace            
-15/16   Association Training - Bewl Valley SC           
-22/23   Open Meeting - Bewl Valley SC                           1.00
-                        
-April                   
-5/6     Assn Training - Grafham Water SC                
-12/13   Inland Championships - Grafham Water SC                 1.25
-19/20   Queen Mary SC                                   1.00
-26/27   Burton SC                                               1.00
-                        
-May                     
-3/4     Open Meeting - Datchet Water SC                 1.00
-10/11   South Western Championships - Weymouth          1.25
-17/18   Open Meeting - Bala SC                          1.00
-                        
-June                    
-14/15   Welsh Championships - SCYC Abersoch                     1.25
-28/29   Solent Championships - Stokes Bay SC                    1.25
-                        
-July                    
-19/25   National Championships - Brighton Marina YC             1.40
-                        
-September                       
-6/7     Short Course Championships - Stone SC                   1.25
-19/21   European Cup - Hayling Island SC                        1.35
-27/28   Open Meeting - Felixstowe Ferry SC                ]
+ 
+Date Event Ranking Factor
+February 
+15/16 Association Training - Chew Valley SC 
+ 
+March 
+1/2 Dinghy Exhibition - Alexandra Palace 
+15/16 Association Training - Bewl Valley SC 
+22/23 Open Meeting - Bewl Valley SC 1.00
+ 
+April 
+5/6 Assn Training - Grafham Water SC 
+12/13 Inland Championships - Grafham Water SC 1.25
+19/20 Queen Mary SC 1.00
+26/27 Burton SC 1.00
+ 
+May 
+3/4 Open Meeting - Datchet Water SC 1.00
+10/11 South Western Championships - Weymouth 1.25
+17/18 Open Meeting - Bala SC 1.00
+ 
+June 
+14/15 Welsh Championships - SCYC Abersoch 1.25
+28/29 Solent Championships - Stokes Bay SC 1.25
+ 
+July 
+19/25 National Championships - Brighton Marina YC 1.40
+ 
+September 
+6/7 Short Course Championships - Stone SC 1.25
+19/21 European Cup - Hayling Island SC 1.35
+27/28 Open Meeting - Felixstowe Ferry SC ]
 [Home]
 
