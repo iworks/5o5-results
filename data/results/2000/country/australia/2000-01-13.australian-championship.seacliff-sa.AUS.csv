@@ -19,7 +19,7 @@ AUS,8185,Earle Alexander,Ken Lockenby,Earle Grey,20,19,15,20,16,9,10,Qld,R,125,1
 AUS,8183,Nicholas Bryant,Sam Gill,Elusive,14,9,13,14,27,27,15,WA,R,128,18
 AUS,7534,Jay Brown,David Delaine,Alwight,13,18,26,22,15,31,14,SA,16,144,19
 AUS,8292,Peter Mitchell,Mark Scrymgour,Zoom,22,24,21,12,13,34,18,SA,11,146,20
-AUS,7508,Rob Napier,Adrian Rae,Malpractice,26,35,14,24,24,6,21,UK,-,150.7,21
+AUS,7508,Rob Napier,Adrian Rae,Malpractice,26,35,14,24,24,6,21,UK,,150.7,21
 AUS,8182,Anthony Gaunt,Michael Duffeild,Sots,23,16,25,15,31,19,19,WA,6,153,22
 AUS,7329,Steve Edwards,Richard Kleish,Dry Reach,31,33,19,18,2,23,31,SA,R,155,23
 AUS,8176,Marcos Vivian,Brendon Brittliffe,Snout,R,30,33,27,8,1,28,WA,14,156,24
@@ -31,11 +31,11 @@ AUS,8578,Geoff Holden,Matthew Holden,Buddah,30,27,22,10,32,32,26,NSW,R,183,29
 AUS,8503,David Collie,Tim Sampson,On The Job,25,28,23,31,26,25,22,Qld,R,185,30
 AUS,8041,Ben Hunter,A Maschmadt,Lunarsea,18,32,35,37,20,12,35,SA,R,188,31
 AUS,8589,Sandra Jones,Mark Bother,The Groove,28,26,17,38,34,38,27,Qld,R,204,32
-AUS,8395,Simon Regan,Ben Regan,Burdens Of Being Upright,27,R,34,23,22,28,-,Qld,R,211,33
+AUS,8395,Simon Regan,Ben Regan,Burdens Of Being Upright,27,R,34,23,22,28,,Qld,R,211,33
 AUS,7977,Graham Payn,Michahelle Payn,Bird On A Wire,29,22,31,33,37,35,33,NSW,R,219,34
 AUS,8648,Jeff Robinson,Angelo Quatro,www.watchout.au,34,31,30,30,35,29,34,NSW,R,224,35
 AUS,7338,Adrian Cooper,Amy Cooper,Where To Now,32,29,32,34,38,33,32,SA,17,228,36
-AUS,7070,Warren Carey,John Boomsma,Think Pink,33,37,-,29,33,R,30,SA,R,239,37
-AUS,6344,John Willoughby,B Willoughby,Green Beaver,35,36,37,35,36,37,36,SA,-,251,38
-AUS,8512,Edward Cox,Adam Linton,Assetically Challenged,-,-,-,-,-,-,-,NSW,13,282,DNA
-AUS,8396,Richard Needham,Guy Robertson,Go Itchi Go,-,-,-,-,-,-,-,NSW,-,282,DNA
+AUS,7070,Warren Carey,John Boomsma,Think Pink,33,37,,29,33,R,30,SA,R,239,37
+AUS,6344,John Willoughby,B Willoughby,Green Beaver,35,36,37,35,36,37,36,SA,,251,38
+AUS,8512,Edward Cox,Adam Linton,Assetically Challenged,,,,,,,,NSW,13,282,DNA
+AUS,8396,Richard Needham,Guy Robertson,Go Itchi Go,,,,,,,,NSW,,282,DNA
