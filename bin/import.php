@@ -741,7 +741,7 @@ $fields = array(
 	15 => 'iworks_fleet_result_location',
 	16 => 'country',
 	17 => 'iworks_fleet_result_date_added',
-	18 => 'iworks_fleet_result_date_source',
+	18 => 'iworks_fleet_result_data_source',
 	19 => 'iworks_fleet_result_columns',
 );
 if ( $import_results && ( $handle = fopen( $data_root . '/' . $import_config['events'], 'r' ) ) !== false ) {

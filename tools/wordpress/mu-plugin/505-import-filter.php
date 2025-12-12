@@ -3747,7 +3747,7 @@ class iworks_5o5_upload_fixer {
 		),
 		array(
 			'Loday'     => 'Nicholas Loday',
-			'Fedorenko' => 'Nicolas Fedorenko',
+			'Fedorenko' => 'Nicolas Fédorenko',
 		),
 		array(
 			'Loday'  => 'Nicholas Loday',
