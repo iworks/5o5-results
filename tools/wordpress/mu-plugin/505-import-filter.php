@@ -3039,7 +3039,7 @@ class iworks_5o5_upload_fixer {
 		),
 		array(
 			'Fischer' => 'Francois Fischer',
-			'Serane'  => 'Serane',
+			'Serane'  => 'Philippe Sérane',
 		),
 		array(
 			'N Long' => 'Neil Long',
@@ -3651,7 +3651,7 @@ class iworks_5o5_upload_fixer {
 		),
 		array(
 			'Lecrit' => 'Philippe Lecrite',
-			'Serane' => 'Serane',
+			'Serane' => 'Philippe Sérane',
 		),
 		array(
 			'Collomb' => 'Marc H. Collomb',
@@ -3967,11 +3967,11 @@ class iworks_5o5_upload_fixer {
 		),
 		array(
 			'J. Langlois' => 'Jerome Langlois',
-			'P. Serame'   => 'Philippe Serane',
+			'P. Serame'   => 'Philippe Sérane',
 		),
 		array(
 			'Langlois' => 'Jerome Langlois',
-			'Serame'   => 'Philippe Serane',
+			'Serame'   => 'Philippe Sérane',
 		),
 		array(
 			'Paternault' => 'Bernard Paternault',
@@ -3985,6 +3985,10 @@ class iworks_5o5_upload_fixer {
 			'Roland Boetcher' => 'Roland Boettcher',
 			'Gabi Boetcher'   => 'Gabi Boettcher',
 		),
+		array(
+			'Moret' => 'Bernard Moret',
+			'Morch' => 'René Morch',
+		),
 		/*
 		array(
 			'' => '',
@@ -3997,6 +4001,7 @@ class iworks_5o5_upload_fixer {
 	 * foo
 	 */
 	private $person = array(
+		'Moreau Defarges'             => 'Thierry Moreau-Defarges',
 		'011e Wenrup'                 => 'Olle Wenrup',
 		'011i Karlsson'               => 'Olli Karlsson',
 		'?'                           => '',
