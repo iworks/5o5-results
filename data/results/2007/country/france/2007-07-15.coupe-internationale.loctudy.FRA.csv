@@ -1,7 +1,7 @@
 Nation,Boat no,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Club (crew),Points,Place
 GBR,8882,Pinnel Jan,Gibbon Carl,GBR,1,1,1,1,,3,1
 FRA,,Gallo Pierre Jean,Toupet Fabrice,C V ST QUENTIN,3,3,3,12,C V ST QUENTIN,9,2
-FRA,,Gubri Serge,Di Pede Thibault,C V SEINE PORT,2,12,5,3,C V SEINE PORT,10,3
+FRA,,Gubri Serge,Thibault Di Pede,C V SEINE PORT,2,12,5,3,C V SEINE PORT,10,3
 FRA,,Peculier Martin,Lafortune Julien,S N O NANTES,4,9,6,4,C V SEINE PORT,14,4
 SUI,,Stauffer Florian,Jacot Philippe,SUI,11,2,2,25,,15,5
 FRA,7941,Brenet Veronique,Peter Jean-Pierre,AC ALSACE LORRAINE,7,6,16,5,AC ALSACE LORRAINE,18,6
@@ -49,7 +49,7 @@ FRA,,Maendly Helene,Le Roch Yann,C N B P P,36,38,52,DNF,C N B P P,126,47
 FRA,,Coulmin Pierre-Jerome,Peter Vincent,WIND,50,30,51,48,WIND,128,48
 GBR,,Berry Jim,Barnes David,GBR,48,OCS,44,43,,135,49
 FRA,,Lehmann Robert,Edel Bernard,AC ALSACE LORRAINE,39,47,DNS,DNS,AC ALSACE LORRAINE,141,50
-FRA,,Eric Quemard,Lambard Dominique,C .V. de PARIS,51,50,49,46,C .V. de PARIS,145,51
+FRA,,Eric Quemard,Dominique Lambard,C .V. de PARIS,51,50,49,46,C .V. de PARIS,145,51
 FRA,,Condroyer Xavier,Matthieu Champenois,C .V. de PARIS,52,51,48,49,C .V. de PARIS,148,52
 FRA,,Le Gall Francois,Gautard Stephane,S R PERROS GUIREC,DNF,DNF,47,50,USAM VOILE,152,53
 FRA,,Molinier Bertrand,Surbier Adrien,Y C GRENOBLE CHARA,DNS,DNF,DNF,51,Y C GRENOBLE CHARA,161,54

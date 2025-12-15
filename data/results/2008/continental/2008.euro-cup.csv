@@ -10,7 +10,7 @@ GER,8672,Contag Karsten,Von Walter Guido,,17,40,131 DNS*,25,213,82,8
 ITA,8743,Giraldi Marco,Corbellini Paolo,,38,42,22,42,144,102,9
 GBR,8955,Lake Simon,Iliffe Ben,,29,33,131 DNS*,44,237,106,10
 ITA,8127,Gambardella Marco,Candela Roberto,,27,47,131 DNS*,40,245,114,11
-FRA,8902,Boite Philippe,Toupet Fabrice,,3,3,131 DNS*,131 DNS,268,137,12
+FRA,8902,Philippe Boite,Toupet Fabrice,,3,3,131 DNS*,131 DNS,268,137,12
 GER,8966,Böhm Stefan,Roos Gerald,,131 DNS*,6,6,131 DNS,274,143,13
 SUI,8954,Stauffer Florian,Jacot Philippe,,5,8,131 DNS*,131 DNS,275,144,14
 FRA,8847,Boiry Michel,Gougeon Matthieu,,46,52,131 DNS*,48,277,146,15
@@ -24,7 +24,7 @@ GBR,8907,Berry Jim,Barnes David,,52,54,131 DNS*,59,296,165,22
 GER,8463,Achterberg Frieder,Lanatowitz Arne,,131 DNS*,21,14,131 DNS,297,166,23
 GER,8751,Unkelbach Franziska,Stenger Angela,,25,36,12,131 DNS*,204,168,24
 GER,8958,Koechlin Stefan,Priegann Axel,,35,131 DNS*,4,131 DNS,301,170,25
-FRA,8900,Gubri Serge,Di Pede Thibault,,16,26,131 DNS*,131 DNS,304,173,26
+FRA,8900,Gubri Serge,Thibault Di Pede,,16,26,131 DNS*,131 DNS,304,173,26
 GER,8874,Dasenbrook Norbert,Meier Sven,,131 DNS*,30,13,131 DNS,305,174,27
 GER,8928,Schultz Hendrik,Oberländ Uter,,31,15,131 DNS*,131 DNS,308,177,28
 GBR,8905,Turnbull Stuart,Lunn Jason,,131 DNS*,27,131 DNS,22,311,180,29
@@ -123,7 +123,7 @@ FRA,8515,Niddam Yves,Gresle Thierry,,57,131 DNS*,131 DNS,131 DNS,450,319,121
 GER,8370,Karsten Stümpel,Ute Stümpel,,131 DNS*,131 DNS,131 DNS,58,451,320,122
 FRA,8353,Verplanken Eric,Coubronne Charles,,58,131 DNS*,131 DNS,131 DNS,451,320,123
 FRA,771*,Rouanne Dominique,Laurent Virginie,,59,131 DNS*,131 DNS,131 DNS,452,321,124
-FRA,8711,Eric Quemard,Lambard Dominique,,60,131 DNS*,131 DNS,131 DNS,453,322,125
+FRA,8711,Eric Quemard,Dominique Lambard,,60,131 DNS*,131 DNS,131 DNS,453,322,125
 FRA,7541,Dieuzy Wenceslas,Butkiewicz Wojciech,,61,131 DNS*,131 DNS,131 DNS,454,323,126
 GER,8500,Henge,Fedde,,131 DNS*,131 DNS,131 DNS,62,455,324,127
 FRA,4664,David Denis,David Thomas,,63,131 DNS*,131 DNS,131 DNS,456,325,128
