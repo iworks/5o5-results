@@ -3989,6 +3989,14 @@ class iworks_5o5_upload_fixer {
 			'Moret' => 'Bernard Moret',
 			'Morch' => 'René Morch',
 		),
+		array(
+			'Savelli' => 'Dominique Savelli',
+			'Savelli' => 'François-Bernard Savelli',
+		),
+		array(
+			'Collaert'  => 'Jacques Collaert',
+			'Moreau D.' => 'Yves Moreau-Defarges',
+		),
 		/*
 		array(
 			'' => '',
@@ -7759,6 +7767,13 @@ class iworks_5o5_upload_fixer {
 		add_filter( 'iworks_fleet_result_clear_person_name', array( $this, 'person' ), 11, 1 );
 		add_filter( 'wp_insert_post_data', array( $this, 'person_before_insert' ), PHP_INT_MAX, 2 );
 		add_filter( 'iworks_fleet_result_upload_person_with_boat', array( $this, 'person_with_boat_id' ), 10, 2 );
+		add_action( 'wp_head', array( $this, 'wp_head' ) );
+	}
+
+	public function wp_head() {
+		echo '<style id="frontend-inline-css">';
+		echo 'body.logged-in .boat_id .no-boat { background-color: #ffd700; }';
+		echo '</style>';
 	}
 
 	public function person_with_boat_id( $person, $boat_id ) {
