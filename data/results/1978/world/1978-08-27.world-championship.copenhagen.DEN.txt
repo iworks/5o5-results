@@ -246,7 +246,7 @@ F 6179 P.Conan, A.Champy
 F 6222 J.Langlois, P.Serane
 F 6250 Y.Potter, Y.Breurec
 F 6347 M.Loday, Y.Kergreis
-F 6411 R.Tristan, P.Fountaine
+F 6411 R.Tristan, Pierre Fountaine
 F 6448 G.Le Troquer, E.Devaux
 F 6459 M.Christ, J.Chouraki
 F 6586 G.Derché, A.Derché
