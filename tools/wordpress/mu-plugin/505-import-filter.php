@@ -3038,7 +3038,7 @@ class iworks_5o5_upload_fixer {
 			'Ellerbeck' => 'Jo Ellerbeck',
 		),
 		array(
-			'Fischer' => 'Francois Fischer',
+			'Fischer' => 'François Fischer',
 			'Serane'  => 'Philippe Sérane',
 		),
 		array(
@@ -3670,7 +3670,7 @@ class iworks_5o5_upload_fixer {
 			'Toepfer' => 'Toepfer',
 		),
 		array(
-			'Fischer' => 'Francois Fischer',
+			'Fischer' => 'François Fischer',
 			'Claudel' => 'Claudel Phillips',
 		),
 		array(
@@ -3996,6 +3996,14 @@ class iworks_5o5_upload_fixer {
 		array(
 			'Collaert'  => 'Jacques Collaert',
 			'Moreau D.' => 'Yves Moreau-Defarges',
+		),
+		array(
+			'Fischer'  => 'François Fischer',
+			'Chouraki' => 'Jacques Chouraki',
+		),
+		array(
+			'Langlois'   => 'Jérôme Langlois',
+			'Leibovitch' => 'Robert Leibovitch',
 		),
 		/*
 		array(
@@ -4993,7 +5001,7 @@ class iworks_5o5_upload_fixer {
 		'Finglas Adrian'              => 'Adrian Finglas',
 		'Finn Boeger'                 => 'Finn Böger',
 		'Finn Boger'                  => 'Finn Böger',
-		'Fischer Francois'            => 'Francois Fischer',
+		'Fischer Francois'            => 'François Fischer',
 		'Fischer Helen'               => 'Helen Fischer',
 		'Flood Sven'                  => 'Sven Flood',
 		'Florian Corbez'              => 'Florian Corbel',

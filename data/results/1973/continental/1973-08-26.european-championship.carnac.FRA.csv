@@ -1,6 +1,6 @@
 Country,Sail NO,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Total,Netto,Place
 FRA,4808,Nicholas Loday,Nicolas Fédorenko,,6,1,23,2,2,1,47,"17,7",1
-FRA,4702,Jean-Marie Danielou,Chouraki,,8,10,6,30,1,2,83,"46,7",2
+FRA,4702,Jean-Marie Danielou,Jacques Chouraki,,8,10,6,30,1,2,83,"46,7",2
 GBR,4689,White,Davies,,11,3,5,1,29,15,89,"53,7",3
 GBR,4079,Bourn,Bryant,,9,2,61,9,3,12,124,"56,7",4
 GBR,4830,Mike Arnold,Alan Bailey,,5,8,2,11,34,14,104,64,5
@@ -22,7 +22,7 @@ GBR,4739,Derry,Chapman,,54,4,18,23,31,24,188,128,19
 GER,4744,Hampe,Jenssen,,24,7,27,22,48,30,194,140,21
 FRA,4667,Jérôme Langlois,Richard,,20,25,29,14,36,48,208,154,22
 DEN,4314,Hans Westh,Williams,,27,20,31,18,85,29,246,155,23
-FRA,4914,Breteche,Le Soudeer,,22,31,21,20,32,67,229,156,24
+FRA,4914,Bretèche,Le Soudeer,,22,31,21,20,32,67,229,156,24
 GBR,4767,John Locke,Antony Pusinelli,,29,13,69,17,53,19,236,161,25
 FIN,4303,Nils Lagerström,Lars Lagerström,,3,30,58,35,35,32,226,"161,7",26
 FRA,4325,Reynier,Dury,,48,38,36,40,11,10,219,165,27
@@ -44,7 +44,7 @@ HKG,4177,Snatter,Knox,,52,15,12,86,61,34,296,204,42
 FRA,4701,Sadoc,Follenfant,,35,49,54,37,18,37,266,206,43
 FRA,4431,Christian Hauvette,Nicolas Vasseur,,30,61,26,77,20,41,291,208,44
 FIN,4309,Johansson,Teddy Weber,,40,39,32,77,40,25,291,208,44
-FRA,4915,Francois Fischer,Morandi,,34,44,33,36,44,36,263,213,46
+FRA,4915,François Fischer,Morandi,,34,44,33,36,44,36,263,213,46
 GER,4678,Brillouet,Marais,,32,76,67,53,28,11,303,221,47
 FRA,4825,Dietz,Senghas,,4,58,60,34,37,60,287,221,47
 GBR,4345,Peter Danby,Auger,,49,40,34,27,76,43,305,223,49
