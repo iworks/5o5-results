@@ -1754,6 +1754,10 @@ class iworks_5o5_upload_fixer {
 			'Fleury' => 'Fleury',
 		),
 		array(
+			'Buffet' => 'Marcel Buffet',
+			'Lallemand' => 'Alain Lallemént',
+		),
+		array(
 			'Buffet'    => 'Marcel Buffet',
 			'Trouillet' => 'Damien Trouillet',
 		),
@@ -4004,6 +4008,10 @@ class iworks_5o5_upload_fixer {
 		array(
 			'Langlois'   => 'Jérôme Langlois',
 			'Leibovitch' => 'Robert Leibovitch',
+		),
+		array(
+			'Vinches' => 'Gilbert Vinches',
+			'Padovani' => 'François Padovani',
 		),
 		/*
 		array(
