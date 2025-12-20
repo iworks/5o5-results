@@ -4,7 +4,7 @@ SWE,8475,Krister Bergström,Thomas Moss,,2,2,28,3,"11,7",2
 SWE,8232,Ebbe Rosén,Olle Wenrup,,1,9,2,72,18,3
 GBR,8585,Mike Holmes,Paul Young,,10,1,7,17,29,4
 USA,7876,Tyler Moore,Ryan Cox,,7,81,5,7,36,5
-SWE,8551,Kalle Nilsson,Johan Arvedson,,8,25,YMP,9,"43,5",6
+SWE,8551,Karl-Erik Nilsson,Johan Arvedson,,8,25,YMP,9,"43,5",6
 GBR,8464,Geoff Carveth,Ian Mitchell,,6,4,33,10,"45,7",7
 GBR,8377,Hector Cisneros,Lawrence Crispin,,34,3,15,14,"46,7",8
 USA,7318,Nick Trotman,Mike Mills,,9,7,24,15,49,9
@@ -75,7 +75,7 @@ GER,8560,Balters,Hartwig Friederichs,,57,48,73,80,196,73
 GBR,8429,Robert Napier,Kimball Morrison,,68,82,53,57,196,74
 AUS,8577,Searant,Ben Noble,,62,92,82,35,197,75
 AUS,8547,Carter Jackson,Williams,,RET,67,84,28,197,76
-SUI,8515, Olivier Chablais,Michel Renevey,,79,64,71,47,200,77
+SUI,8515,Olivier Chablais,Michel Renevey,,79,64,71,47,200,77
 GER,8054,Thore Michels,Andreas Schmidt,,55,62,68,RET,203,78
 SWE,8568,Christian Diebitsch,Howard Roddis,,39,RET,64,83,204,79
 SWE,8427,Jan Eriksson,Kalle Byrenius,,RET,79,63,48,208,80
@@ -89,7 +89,7 @@ GBR,8540,Tim Scarisbrick,Ian Swainston,,78,61,75,95,232,87
 GER,8480,Peters,Schultz,,52,DNS,90,76,236,88
 GER,8204,Roos,Labenz,,RET,71,54,94,237,89
 GER,8469,Christian Müllejans,Gerd Linnemann,,63,DSQ,87,70,238,90
-FRA,8541,Francis Doerenbecher,Doerenbecher,,82,86,55,84,239,91
+FRA,8541,Francis Doerenbecher,Francis Doerenbecher,,82,86,55,84,239,91
 GBR,8035,Alan Henderson,Kenyon,,90,87,46,97,241,92
 GBR,8474,Chris Thorne,Cooper,,86,77,95,61,242,93
 AUS,8501,Martin White,Humphries,,58,83,88,88,247,94
@@ -99,7 +99,7 @@ FRA,7933,Pascal,Trihan,,65,90,96,82,255,97
 FRA,8545,Alain Preel,Stephane Pedron,,95,84,101,60,257,98
 FRA,8348,Jacques Bochu,Christophe Bochu,,92,95,97,64,269,99
 GBR,8532,Jim Berry,Richard Berry,,91,70,DSQ,100,279,100
-FRA,7932,Jacques Raguet,Bertrand,,DNS,93,92,96,299,101
+FRA,7932,Jacques Raguet,Jean Franco Bertrand,,DNS,93,92,96,299,101
 FRA,8002,Dominique Rouanne,Jean-Pierre Blache,,97,85,103,RET,303,102
 ZIM,8438,John Wyles,Andrew Chadwick,,93,94,98,98,303,103
 RSA,8091,Atherstone,Beaumont,,94,97,100,99,308,104

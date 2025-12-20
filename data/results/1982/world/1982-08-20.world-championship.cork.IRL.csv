@@ -1,36 +1,36 @@
-Nation,No.,Skipper,Crew,,R 1,R 2,R 3,R 4,R 5,R 6,Total,Disc,Netto,
-USA,7093,Gary Knapp,Cam Lewis,,1,1,4,3,1,DNS,94,80,14,1
+Nation,No.,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Total,Disc,Netto,
+USA,7093,Gary Knapp,Cameron Lewis,,1,1,4,3,1,DNS,94,80,14,1
 GBR,7327,Peter Colclough,Harold Barnes,,13,3,6,4,3,4,58,19,39,2
-USA,7454,Steve Benjamin,Tucker Edmundson,,3,6,17,1,RTD,1,120,80,40,3
-DEN,7455,Jorgen Schonherr,Anders Kaempe,,11,2,10,2,RTD,3,125,80,45,4
-SWE,7453,Krister Bergström,Per Anders Hallberg,,5,7,7,6,2,DNS,131,80,51,5
+USA,7454,Stephen Benjamin,Tucker Edmundson,,3,6,17,1,RTD,1,120,80,40,3
+DEN,7455,Jørgen Schönherr,Anders Kæmpe,,11,2,10,2,RTD,3,125,80,45,4
+SWE,7453,Krister Bergström,Per-Anders Hallberg,,5,7,7,6,2,DNS,131,80,51,5
 USA,7100,Neal Fowler,Mark Lindsay,,20,5,5,9,RTD,2,144,80,64,6
 AUS,7018,Neil Harrison,Nick Paterson,,25,RTD,2,5,7,6,149,80,69,7
 SWE,7145,Staffan Eklund,Anders Eklund,,16,10,3,10,RTD,5,150,80,70,8
-SWE,7351,Karl-Erik Nilsson,Anders Aven,,10,4,9,12,8,14,91,20,71,9
+SWE,7351,Karl-Erik Nilsson,Anders Avén,,10,4,9,12,8,14,91,20,71,9
 GBR,7452,Lawrie Smith,Mark Simpson,,4,9,11,11,11,DNS,154,80,74,10
-SWE,7296,Ebbe Rosen,011e Wenrup,,8,12,8,7,12,9,92,18,74,11
+SWE,7296,Ebbe Rosén,Olle Wenrup,,8,12,8,7,12,9,92,18,74,11
 USA,7092,John A. Pulverman Jr,Duncan Skinner,,7,RTD,16,15,5,10,162,80,82,12
 USA,7346,Macy Nelson,John Fry,,32,11,12,14,9,8,122,38,84,13
 GBR,7383,Neil Willmott,Paul Willmott,,33,8,18,16,4,13,126,39,87,14
 GBR,7435,John Patterson,Philip Brown,,22,14,54,18,17,7,168,60,108,15
-GBR,6933,Ossie Stewart,Ray Selling,,16,13,14,17,RTD,22,192,80,112,16
+GBR,6933,Ozzie Stewart,Ray Selling,,16,13,14,17,RTD,22,192,80,112,16
 USA,7152,Howard Hamlin,Jon Andron,,2,RTD,1,1,RTD,16,199,80,119,17
-FRA,7356,Herve Wattinne,Patrick Solatges,,24,19,13,19,RTD,20,205,80,125,18
+FRA,7356,Hervé Wattine,Patrick Solatges,,24,19,13,19,RTD,20,205,80,125,18
 GBR,7277,David L. White,Terry Lawton,,38,17,RTD,13,20,15,213,80,133,19
 GBR,7441,Lloyd Fryer,Mike Cox,,52,22,28,20,21,19,198,58,140,20
-FRA,7187,Serge Gupre,Christian Lippi,,15,15,20,36,41,29,192,47,145,21
+FRA,7187,Serge Gubri,Christian Lippi,,15,15,20,36,41,29,192,47,145,21
 SWE,6718,Petter Nilsson,Claes Gustafsson,,17,20,39,35,18,28,193,45,148,22
-DEN,7140,Henrik Andersen,Soren Andersen,,27,25,27,25,RTD,18,232,80,152,23
+DEN,7140,Henrik Andersen,Søren Andersen,,27,25,27,25,RTD,18,232,80,152,23
 FRA,6589,Marcel Buffet,Denis Oudard,,46,18,41,29,25,12,207,52,155,24
-GBR,7466,Philip Milanes,John Labbett,,9,RTD,15,22,6,DNS,236,80,156,25
+GBR,7466,Phil Milanes,John Labbett,,9,RTD,15,22,6,DNS,236,80,156,25
 GBR,7448,Dave Clark,Mike Payne,,21,29,25,34,38,17,200,44,156,26
 FRA,7439,Remi Tristan,Gwenola Tristan,,30,28,23,51,14,34,216,57,159,27
 SUI,7113,Robert Graham,Jacques Emery,,18,RTD,42,27,16,31,244,80,164,28
 RSA,7286,Robbie Van Rooyen,David Rabie,,26,24,33,30,RTD,24,247,80,167,29
 FRA,7191,Philippe Lecrit,Philippe Sérane,,28,23,21,49,23,DNS,254,80,174,30
 HKG,7106,Mark Thornburrow,Clive Hardy,,23,30,RTD,31,39,21,254,80,174,31
-FRA,7424,Francis Doerenbecher,Guy Bottlaender,,43,RTD,30,24,15,33,255,80,175,32
+FRA,7424,Francis Doerenbecher,Gay Bottlaender,,43,RTD,30,24,15,33,255,80,175,32
 GBR,7449,David Revill,Nigel Brackenbury,,48,16,34,DNS,22,27,257,80,177,33
 FRA,7053,Sylvan Pellissier,Aidan Dunlea,,44,38,29,32,13,36,228,50,178,34
 RSA,7457,Warwick Stevens,Jan Hansen,,51,RTD,36,21,33,11,262,80,182,35
@@ -38,7 +38,7 @@ SWE,7188,Stefan Eriksson,Kjell Lidman,,12,21,RTD,38,10,RTD,265,80,185,36
 GER,7462,Dieter Cordes,Clause Tiedemann,,54,31,31,26,28,43,249,60,189,37
 GBR,7307,Peter Kyne,Robbie Roberton,,6,RTD,22,33,RTD,26,271,80,191,38
 GBR,6977,Colin Jarvis,Derek Jarvis,,29,32,26,47,37,39,246,53,193,39
-GER,7085,Peter Foster,Ulli Ellerbeck,,47,DSQ,45,28,24,23,277,80,197,40
+GER,7085,Peter Forster,Ulli Ellerbeck,,47,DSQ,45,28,24,23,277,80,197,40
 IRL,7011,Mark Mansfield,Dwayne Smith,,61,26,RTD,23,30,32,282,80,202,41
 GBR,7446,Robert Trickett,John Greenwood,,14,33,19,37,DNS,DNS,287,80,207,42
 SUI,7244,Marc H. Collomb,Yvan de Rham,,39,RTD,24,45,46,25,289,80,209,43
@@ -46,18 +46,18 @@ FRA,6580,Etienne Boyer,Emmanuel Boyer,,40,40,RTD,42,29,30,291,80,211,44
 GER,7451,Ewald Brzoska,Hanno Barth,,36,43,52,40,31,40,278,58,220,45
 GBR,7317,Richard Lord,Ken Norris,,49,27,40,44,35,DNS,305,80,225,46
 IRL,7303,Michael Kearney,Ed Livingston,,60,36,44,53,26,38,293,66,227,47
-IRL,7440,Denis O'Sullivan,J. Van de Puil,,45,41,49,41,44,RTD,330,80,250,48
+IRL,7440,Denis O'Sullivan,Jan Van de Puil,,45,41,49,41,44,RTD,330,80,250,48
 FRA,6989,Jacques Raguet,Denis Vanier,,41,RTD,DNS,48,19,41,333,80,253,49
-SWE,7297,Per Oskarsson,Lars Edstrom,,37,RTD,32,39,42,DNS,334,80,254,50
+SWE,7297,Per Oskarsson,Lars Edström,,37,RTD,32,39,42,DNS,334,80,254,50
 SIN,7468,Alan Barnes,Patrick Crossouard,,65,39,55,56,32,42,325,71,254,51
 IRL,7433,Julian Cooke,Colin McErvel,,64,35,35,46,45,DNS,335,80,255,52
 IRL,7306,Niall M. Conway,Patrick McGlade,,DSQ,34,47,66,34,46,337,80,257,53
-FRA,7139,Gerard Toupet,Farrice Toupet,,34,DSQ,48,54,48,44,338,80,258,54
+FRA,7139,Gerard Toupet,Fabrice Toupet,,34,DSQ,48,54,48,44,338,80,258,54
 GER,6796,Bjorn Lhose,Dirk Petersen,,19,46,38,52,RTD,DNS,339,80,259,55
 JPN,6919,Midori Kabeya,Tatsuki Kabeya,,35,RTD,50,50,50,47,342,80,262,56
 KEN,7459,Tim Vaulkhard,Chris Balowick,,50,46,RTD,67,36,37,346,80,266,57
 GER,6930,Brigitte Preuss,Rolf Bertenrath,,57,44,RTD,57,27,DNS,369,80,289,58
-GER,7128,Michael Koritz,Horst Sjuts,,RTD,47,37,61,40,DNS,369,80,289,59
+GER,7128,Michael Köritz,Horst Sjuts,,RTD,47,37,61,40,DNS,369,80,289,59
 GBR,7360,Michael Nott,Peter Roome,,63,42,51,62,51,DNS,379,80,299,60
 USA,7067,Bransford Eck,Dan Burt,,59,DSQ,RTD,65,47,35,390,80,310,61
 GER,6939,Volker Andrea,Juergen Flemming,,53,DSQ,43,43,RTD,DNS,397,80,317,62

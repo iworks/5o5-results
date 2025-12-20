@@ -1,4 +1,4 @@
-Nation,No,Helmsman,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Points,Place
+Nation,No,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Points,Place
 GBR,6189,Peter Colclough,Philip Brown,,"0,75","0,75",5,3,"0,75",2,"7,25",1
 GBR,5901,Phil Milanes,Will Hartje,,3,2,"0,75",2,2,10,"9,75",2
 GBR,5997,L. Smith,H. Ashworth,,2,7,3,"0,75",8,120R,"20,75",3
@@ -9,19 +9,19 @@ GBR,6217,C Hornsey,I Corney,,5,23,10,6,7,8,36,7
 GBR,6089,Peter White,John Davies,,15,8,12,4,6,7,37,8
 GBR,6278,Mike Lingwood,John Labbett,,6,3,2,43,5,35,51,9
 GBR,5396,Steve France,R Roberton,,14,104R,20,8,10,1,"52,75",10
-GBR,6128,M Plaits,T Lawton,,17,11,7,9,14,16,57,11
+GBR,6128,M Plaits,Terry Lawton,,17,11,7,9,14,16,57,11
 GBR,6104,Neil Willmott,Paul Willmott,,8,10,11,15,38,14,58,12
 GBR,6192,C Mckenzie,P Newlands,,13,16,13,11,20,11,64,13
 HKG,6180,Eric Lockeyear,Tim Hammick,,16,9,25,7,21,19,72,14
 GBR,5432,M Mountifield,D Comb.,,25,4,14,27,25,132D,95,15
-GBR,6096,C Br Itton,A Jones,,27,51,118R,17,17,3,115,16
+GBR,6096,C Britton,A Jones,,27,51,118R,17,17,3,115,16
 GBR,6124,H Bourn,T Tregaskis,,18,14,9,32,123R,45,118,17
 GBR,6068,Michael Agrell,John Langley,,33,28,55,10,30,17,118,17
 GBR,5938,N Young,J Riddett,,60,15,19,30,35,22,121,19
 GBR,6155,Mike Hattemore,Mike Payne,,40,12,21,49,11,39,123,20
 GBR,6244,C T Biscoe,G Pearce,,35,18,29,20,31,26,124,21
 GBR,6318,K Jerkins,S Cooke,,41,17,23,40,16,30,126,22
-GBR,6243,R Lord,A Tristram,,34,24,15,16,44,50,133,23
+GBR,6243,Richard Lord,A Tristram,,34,24,15,16,44,50,133,23
 GBR,5785,13 White,S Wakeford,,24,30,36,35,123R,9,134,24
 GBR,6285,A Thomas,M Quinn,,62,54,44,12,13,12,135,25
 GBR,5964,R Willows,P Roome,,21,128N,34,28,24,33,140,26
@@ -120,8 +120,8 @@ GBR,5678,Alan Draper,J Oliver,,114,104R,118R,104,110,98,530,118
 GBR,5275,T Rolff,P Rolff,,108,128N,128N,97,103,94,537,119
 GBR,4541,R. Allen,P Allen,,93,128N,118R,128N,106,88,533,120
 GBR,5795,M Lingwood,,,128N,104R,128N,128N,107,82,549,121
-GBR,4187,11 Watson,B Hoult,,106,128N,87,128N,111,128N,560,127
-GBR,8744,H. Gilliham,S. Curts,,85,104R,128N,128N,128N,128N,573,123
-GBR,5870,J Bowman,J Daniels,,107,128N,130D,121R,99,137D,585,124
-GBR,4785,M Nicol,N Talore,,143D,128N,128N,121R,135D,93,604,125
-GBR,5454,J Sallis,M Dugdalf,,122R,104R,128N,128N,128N,128N,610,126
+GBR,4187,H. Gilliham,S. Curts,,106,128N,87,128N,111,128N,560,127
+GBR,5744,J Bowman,J Daniels,,85,104R,128N,128N,128N,128N,573,123
+GBR,5870,M Nicol,N Talore,,107,128N,130D,121R,99,137D,585,124
+GBR,4785,J Sallis,M Dugdalf,,143D,128N,128N,121R,135D,93,604,125
+GBR,5454,11 Watson,B Hoult,,122R,104R,128N,128N,128N,128N,610,126

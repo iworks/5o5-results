@@ -2570,7 +2570,7 @@ class iworks_5o5_upload_fixer {
 			'Campbell' => 'Derek Campbell',
 		),
 		array(
-			'T. Kyrwood' => 'Terry Kyrwood',
+			'T. Kyrwood' => 'Terrence Kyrwood',
 			'C. Spence'  => 'Charles Spence',
 		),
 		array(
@@ -4012,6 +4012,10 @@ class iworks_5o5_upload_fixer {
 		array(
 			'Vinches' => 'Gilbert Vinches',
 			'Padovani' => 'François Padovani',
+		),
+		array(
+			'Doloy' => 'Alain Doloy',
+			'Sage' => 'Alain Sage',
 		),
 		/*
 		array(
@@ -7727,7 +7731,7 @@ class iworks_5o5_upload_fixer {
 			'Samson' => 'Louis Samson',
 		),
 		'7978' => array(
-			'G. Kyrwood' => 'Geoff Kyrwood',
+			'G. Kyrwood' => 'Geoffrey Kyrwood',
 		),
 		'8012' => array(
 			'Henry "Hank" Amthor' => 'Henry Amthor',
