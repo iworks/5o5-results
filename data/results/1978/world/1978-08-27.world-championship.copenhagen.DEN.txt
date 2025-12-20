@@ -273,7 +273,7 @@ SA 6644 P.Hishin, W.Angus
 SWITZERLAND
 Z 5617 P.Wismer, H.Rust
 Z 5695 P.Durr, J.-C. Burdet
-Z 5878 J.Zuppiger, M.Brechbuhler
+Z 5878 Josef Zuppiger, M.Brechbuhler
 Z 6382 J.-M.Ravonel, A.Ravonel
 Z 6386 U.Scherrer, J.Himmelsbach
 Z 6475 T.Vandeveld, D.Gay
