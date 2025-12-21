@@ -238,7 +238,7 @@ L 6115 S.Falck, P.Österman
 
 FRANCE
 F 5039 M.Buffet, Y.Brézot
-F 5400 L.Leger, Chaput
+F 5400 Léopold Leger, Chaput
 F 5464 S.Guillaume, W.Dombroviszky
 F 5566 A.Ribeaud, Y.Noel
 F 6094 M.Conan, Conan
