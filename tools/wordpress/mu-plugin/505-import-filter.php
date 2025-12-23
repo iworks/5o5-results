@@ -3654,7 +3654,7 @@ class iworks_5o5_upload_fixer {
 			'Dufouro' => 'Dufouro',
 		),
 		array(
-			'Lecrit' => 'Philippe Lecrite',
+			'Lecrit' => 'Philippe Lécrit',
 			'Serane' => 'Philippe Sérane',
 		),
 		array(
@@ -3666,7 +3666,7 @@ class iworks_5o5_upload_fixer {
 			'Blidner'   => 'Stefan Blidner',
 		),
 		array(
-			'Preuss'     => 'Brigitte Preuss',
+			'Preuss'     => 'Brigitte Preuß',
 			'Berienrath' => 'Rolf Bertenrath',
 		),
 		array(
@@ -4016,6 +4016,10 @@ class iworks_5o5_upload_fixer {
 		array(
 			'Doloy' => 'Alain Doloy',
 			'Sage' => 'Alain Sage',
+		),
+		array(
+			'Oudard' => 'Bernard Oudard',
+			'Oudard' => 'Denis Oudard',
 		),
 		/*
 		array(
@@ -4419,7 +4423,7 @@ class iworks_5o5_upload_fixer {
 		'Briddon Simon'               => 'Simon Briddon',
 		'Briffoteaux Charle'          => 'Charles Briffotevaux',
 		'Briffoteaux Charles'         => 'Charles Briffoteaux',
-		'Brigette Preuss'             => 'Brigitte Preuss',
+		'Brigette Preuss'             => 'Brigitte Preuß',
 		'Brillaud Herve'              => 'Hervé Brillaud',
 		'Brix Florian'                => 'Florian Brix',
 		'Brockerhoff Felix'           => 'Felix Björn Brockerhoff',
