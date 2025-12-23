@@ -1,4 +1,4 @@
-Nation,SAIL NO.,Helmsman,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Total Points,Position
+Nation,SAIL NO.,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Total Points,Position
 GBR,5789,Peter Colclough,Philip Brown,,2,DNF,1,2,3,1,"11,7",1
 FRA,5792,Nicholas Loday,Nicolas Fédorenko,,1,DNF,5,1,10,4,34,2
 SWE,5713,Jan Andersson,Ulf Andersson,,4,1,3,10,11,44,"46,7",3
@@ -22,14 +22,14 @@ GBR,5731,Malcolm Goodwin,,,23,25,15,18,21,DNF,132,20
 GBR,5709,Peter Bainbridge,,,17,13,31,39,57,12,142,21
 GBR,5757,Larry Marks,,,DNS,17,29,29,20,24,149,22
 GBR,5659,Dennis Surtees,,,8,16,33,DNF,43,22,153,23
-FRA,5800,Fischer,,,22,DNF,17,42,46,3,"156,7",24
+FRA,5800,François Fischer,,,22,DNF,17,42,46,3,"156,7",24
 SUI,5530,Martin Ingold,,,30,12,35,62,6,46,"158,7",25
 DEN,4543,Holm,,,33,15,39,41,33,15,165,26
 BEL,5307,R. Ronsmans,,,24,14,DNF,45,27,31,171,27
-GBR,4984,McIntyre,,,DNF,DNF,25,13,22,19,184,28
+GBR,4984,Michael McIntyre,Peter McIntyre,,DNF,DNF,25,13,22,19,184,28
 FRA,5561,Bouvet,,,19,DNF,49,36,5,49,187,29
 SWE,5720,Staffan Eklund,Anders Eklund,,20,DNF,DNS,30,8,25,188,30
-FRA,5651,Le Troquer,,,13,DNF,42,37,23,47,"119,2",31
+FRA,5651,François Le Trocquer,,,13,DNF,42,37,23,47,"119,2",31
 DEN,4409,Ringsted,,,28,DNF,41,25,19,50,193,32
 SWE,5157,Peter Lundqvist,Gunnar Krantz,,52,21,20,48,24,DNF,195,33
 FIN,5335,Kari Wilén,Jyri Wilén,,29,DNF,14,34,68,21,196,34
@@ -38,7 +38,7 @@ FRA,5557,Derche,,,18,DNF,40,22,51,40,201,36
 SWE,5796,Ebbe Rosén,Olle Wenrup,,40,DNF,26,44,1,DNF,209,37
 SWE,5227,Stefan Eriksson,Kjell Lidman,,16,DNF,54,3,42,DNF,"216,7",38
 GBR,5769,McKenzie,,,37,DNF,37,3,48,35,219,39
-GBR,5654,Willmot,,,DNF,DNF,34,24,31,30,224,40
+GBR,5654,Neil Willmott,Paul Willmott,,DNF,DNF,34,24,31,30,224,40
 GBR,5881,Jerkin,,,38,20,32,49,59,DNF,228,41
 GBR,5350,Phil Milanes,,,DNF,DNF,12,61,40,11,229,42
 GBR,5448,Evans,,,43,18,53,60,53,32,729,43
@@ -51,17 +51,17 @@ GBR,4470,Mills,,,25,DNF,DNF,23,44,61,258,49
 GBR,4767,Head,,,36,DNF,47,47,55,43,258,50
 GBR,5744,Michael Lawton,,,DNF,DNF,DNF,35,32,14,261,51
 GER,5356,Peterson,,,42,DNF,50,53,34,55,264,52
-GBR,5708,Parker,,,32,DNF,43,40,45,DNF,265,53
+GBR,5708,R. Parker,,,32,DNF,43,40,45,DNF,265,53
 FRA,5472,Guillaume,,,34,DNF,60,66,25,51,266,54
 FIN,5369,Ludde Ingvall,,,DNS,DNF,18,56,16,DNF,270,55
-FRA,4978,Doerenbecher,,,DNF,DNS,44,64,35,23,271,56
-SUI,5617,Wismer,,,59,27,65,73,61,29,271,57
+FRA,4978,Francis Doerenbecher,Aubin Doerenbecher,,DNF,DNS,44,64,35,23,271,56
+SUI,5617,P. Wismer,,,59,27,65,73,61,29,271,57
 FIN,5743,Falck,,,26,DNF,27,52,65,DNS,275,58
 GER,5471,Wiegers,,,41,DNF,45,43,67,57,283,59
-GER,5652,Wiedemann,,,50,DNF,66,46,49,42,283,60
+GER,5652,Roland Wiedemann,,,50,DNF,66,46,49,42,283,60
 FRA,5300,Gilbert Vinches,,,53,DNF,52,50,52,48,285,61
 GBR,4926,Michael Agrell,John Langley,,DNF,DNF,57,31,29,DNS,297,62
-GBR,4766,Donnelly,,,DNF,DNF,56,51,50,39,301,63
+GBR,4766,J. Donnelly,,,DNF,DNF,56,51,50,39,301,63
 GER,4912,Scherer,,,55,28,DNF,67,69,56,305,64
 FRA,5456,Tristan,,,31,DNF,DNF,27,DNF,DNF,315,65
 IRL,5719,Howell,,,DNF,24,61,69,73,60,317,66
@@ -69,7 +69,7 @@ GBR,5375,Heck,,,DNF,DNS,46,DNS,56,34,323,67
 GER,5366,Dietz,,,48,DNF,59,65,47,DNF,324,68
 GER,5486,Graff,,,54,DNF,55,63,71,62,335,69
 FRA,4801,Ducos,,,DNF,DNF,62,59,74,45,345,70
-FRA,5033,Armengaud,,,DNF,DNF,36,76,60,DNF,351,71
+FRA,5033,Jacques Armengaud,Philippe Hoffmann,,DNF,DNF,36,76,60,DNF,351,71
 DEN,4401,Andersen,,,DNF,DNF,48,58,66,DNF,351,72
 SWE,3683,Bo Ferm,Jan Ferm,,49,DNS,DNF,70,77,52,355,73
 FRA,5846,Muloer,,,57,DNF,67,74,75,53,356,74
