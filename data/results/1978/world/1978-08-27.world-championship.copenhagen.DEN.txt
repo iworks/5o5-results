@@ -237,7 +237,7 @@ L 5750 T.Seppänen, T.Seppänen
 L 6115 S.Falck, P.Österman
 
 FRANCE
-F 5039 M.Buffet, Y.Brézot
+F 5039 M.Buffet, Yves Brézot
 F 5400 Léopold Leger, Chaput
 F 5464 S.Guillaume, W.Dombroviszky
 F 5566 A.Ribeaud, Y.Noel
