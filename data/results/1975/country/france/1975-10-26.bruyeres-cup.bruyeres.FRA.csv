@@ -1,7 +1,7 @@
 Country,Boat number,Helm,Crew,Club,,,Place
 FRA,,Nicolas,Deshazes,CNBP,,,1
 FRA,,Claude Fixot,Plisson,CVP,,,2
-FRA,,Roland Jouandeau,Guimard,CNV,,,3
+FRA,4910,Roland Jouandeau,Guimard,CNV,,,3
 FRA,,Pascal,Simonneau,CVESQ,,,4
 FRA,,Hertel,Hertel,CVSP,,,5
 FRA,,Gilbert Vinches,François Padovani,YCD,,,6
@@ -15,7 +15,7 @@ FRA,,Tissier,Tissier,CVSP,,,13
 FRA,,Bert,Lallemand,CVP,,,14
 FRA,,Blanchard,Kermarec,CVP,,,15
 FRA,,Amiot,Bisson,YCD,,,16
-FRA,,Comte,Bonnel,YCP,,,17
+FRA,,Robert Comte,Bonnel,YCP,,,17
 FRA,,Noël,Noël,ACBB,,,18
 FRA,,Gaudry,Hallez,YCD,,,19
 FRA,,Christian Marechal,Baguet,YCD,,,20

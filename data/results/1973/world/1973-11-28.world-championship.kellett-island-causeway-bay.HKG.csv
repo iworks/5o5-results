@@ -1,35 +1,35 @@
 Nation,Boat,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Points,Netto,Place
 GBR,4689,Peter White,John Davies,,1,8,3,10,RTD,7,"141,7","48,7",1
-USA,4559,Dennis Surtees,Steve Owens,,6,2,6,24,19,2,"84,4","54,4",2
+USA,4559,Dennis Surtees,Stephen Owens,,6,2,6,24,19,2,"84,4","54,4",2
 FRA,4809,Yves Pajot,Yvon Kergreis,,10,5,5,3,7,RTD,"144,7","54,7",3
 AUS,4643,Mark Bethwaite,Ian Pitt,,13,10,1,9,5,DSQ,158,59,4
-FRA,4702,Jean-Marie Danielou,J. Ch. Gillet,,5,4,35,22,6,3,"107,4","63,4",5
+FRA,4702,Jean[Marie Danielou],J. Ch. Gillet,,5,4,35,22,6,3,"107,4","63,4",5
 GBR,4382,Derek Farrant,Bev Moss,,3,9,9,8,41,8,"110,7","63,7",6
 USA,4529,Jeff Brauch,Dan Downing,,2,3,7,25,54,15,"133,7","73,7",7
 AUS,4929,Geoffrey Kyrwood,Kyrwood,,25,6,11,4,44,4,"125,7","75,7",8
 RSA,4504,Brian Downham,Brian Gold,,4,DSQ,34,5,4,5,179,76,9
-GBR,4747,Larry Marks,Julian Brooke-H.,,8,1,2,31,31,18,115,78,10
+GBR,4747,Larry Marks,Julian Brooke[H.],,8,1,2,31,31,18,115,78,10
 GBR,4416,Colin Mckenzie,Charles Maconie,,7,12,24,7,9,RTD,179,89,11
 AUS,4905,Terrence Kyrwood,Reg Crick,,28,18,15,RTD,1,2,192,97,12
-GBR,4321,Rob Napier,Wakeford,,22,20,32,39,3,1,"142,7","97,7",13
+GBR,4321,Robert Napier,Wakeford,,22,20,32,39,3,1,"142,7","97,7",13
 AUS,4173,Rod Dalgleish,Adriaanse,,11,13,4,RTD,32,14,"197,9",102,14
-SWE,3316,Stefan Sjostrom,Reine Andersson,,18,11,29,DSQ,10,6,"207,7","103,7",15
+SWE,3316,Stefan Sjöström,Reine Andersson,,18,11,29,DSQ,10,6,"207,7","103,7",15
 DEN,4543,Jens Christensen,Jes Thomsen,,16,31,8,17,15,24,147,110,16
 FRA,4808,Nicholas Loday,Philippe Chaigne,,9,7,DSQ,18,37,11,215,112,17
-FIN,4626,Rouhiainen,Mustonen,,35,14,23,1,36,17,155,113,18
+FIN,4626,Matti Rouhiainen,Heikki Mustonen,,35,14,23,1,36,17,155,113,18
 SWE,3106,Roy Wedin,Petersson,,33,23,13,6,18,33,"161,7","122,7",19
 HKG,4177,Ces Nater,Hayles,,23,15,18,RTD,17,22,220,125,20
 FIN,4925,Kari Wilen,Jyri Wilen,,30,DNS,14,13,11,28,222,126,21
-SWE,4316,Goran Eckestrom,Jan Calvert,,RTD,39,12,19,12,25,222,127,22
-CAN,4898,D. Speirs,,,-52,31,27,32,14,25,145,99,23
-USA,4233,A. Johnson,,,19,33,-52,18,22,37,145,99,24
-FIN,4660,Mikko Brummer,Rudi Biaudet,,-40,34,28,22,19,29,136,102,25
-GBR,4767,John Locke,,,27,-43,41,3,40,35,158,121,26
-HKG,4528,Neil Pryde,,,35,-48,32,20,26,33,158,116,27
-HKG,4580,Eric Lockeyear,,,30,40,26,36,-70,15,181,117,28
+SWE,4316,Göran Eckeström,Jan Calvert,,RTD,39,12,19,12,25,222,127,22
+CAN,4898,D. Speirs,,,[52],31,27,32,14,25,145,99,23
+USA,4233,A. Johnson,,,19,33,[52],18,22,37,145,99,24
+FIN,4660,Mikko Brummer,Rudi Biaudet,,[40],34,28,22,19,29,136,102,25
+GBR,4767,John Locke,,,27,[43],41,3,40,35,158,121,26
+HKG,4528,Neil Pryde,,,35,[48],32,20,26,33,158,116,27
+HKG,4580,Eric Lockeyear,,,30,40,26,36,[70],15,181,117,28
 JPN,4893,M. Tsuji,,,32,23,22,"(0)
 DSQ",34,40,121,121,29
-AUS,4805,P. Harvey,,,21,32,46,35,-61,19,178,123,30
+AUS,4805,Peter Harvey,,,21,32,46,35,[61],19,178,123,30
 SWE,3858,Karl-Erik Nilsson,Goran Kallfeldt,,17,33,28,34,25,20,193,153,31
 ,,,,,,,,,,,,,32
 ,,,,,,,,,,,,,33

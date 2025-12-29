@@ -247,7 +247,7 @@ F 6222 J.Langlois, P.Serane
 F 6250 Y.Potter, Y.Breurec
 F 6347 M.Loday, Yvon Kergreis
 F 6411 R.Tristan, Pierre Fountaine
-F 6448 G.Le Troquer, E.Devaux
+F 6448 Georges Le Troquer, E.Devaux
 F 6459 M.Christ, J.Chouraki
 F 6586 G.Derché, A.Derché
 F 6590 Leibovitch, F.Johansen
