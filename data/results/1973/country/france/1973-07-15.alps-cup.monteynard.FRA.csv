@@ -1,17 +1,17 @@
 Country,Boat NO,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,,
 FRA,4431,Christian Hauvette,Nicolas Vasseur,CVP,1,1,1,DNF*,0,1
 FRA,4341,Nesseler,Nesseler,CVE,,,,,24,2
-FRA,4228,Gilbert Vinches,François Padovani,YCD,,,,,25.4,3
-FRA,4279,Alain Doloy,Lazennec,CVP,,,,,25.7,4
-FRA,4639,Marcel Buffet,Thierry Moreau-Defarges,CVP,,,,,25.7,5
+FRA,4228,Gilbert Vinches,François Padovani,YCD,,,,,"25,4",3
+FRA,4279,Alain Doloy,Lazennec,CVP,,,,,"25,7",4
+FRA,4639,Marcel Buffet,Thierry Moreau-Defarges,CVP,,,,,"25,7",5
 FRA,4680,Callamand,Legre,YCPR,,,,,37,6
-FRA,4122,Guillaume,Gravier,CVP,,,,,38.7,7
+FRA,4122,Guillaume,Gravier,CVP,,,,,"38,7",7
 FRA,4323,Bernard Moret,René Morch,CVL,,,,,40,8
 FRA,4325,Oeuvrard,Roucfier,YCC,,,,,41,9
-FRA,2693,Christian Marechal,Gerbet,CVLC,,,,,42.7,10
-FRA,4440,Léopold Leger,Robert Leibovitch,CNVC,,,,,44.7,11
+FRA,2693,Christian Maréchal,André Gerbet,CVLC,,,,,"42,7",10
+FRA,4440,Léopold Leger,Robert Leibovitch,CNVC,,,,,"44,7",11
 FRA,4632,Bernard Reynier,François Dury,CNB,,,,,45,12
-SUI,4636,Balmas,Balmas,CNM,,,,,47.7,13
+SUI,4636,Balmas,Balmas,CNM,,,,,"47,7",13
 SUI,3558,Keller,Kessi,CNM,,,,,49,14
 FRA,4302,Gaillard,Peyramond,CVL,,,,,50,15
 SUI,3989,Momo,Gay,CNV,,,,,52,16
