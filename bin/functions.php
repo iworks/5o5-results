@@ -1,7 +1,7 @@
 <?php
 error_reporting( E_ALL );
 
-$root = dirname( dirname( __FILE__ ) );
+$root = dirname( __DIR__, 1 );
 
 if ( isset( $_SERVER['SERVER_NAME'] ) ) {
 	die( 'not allow with www' );
@@ -9,14 +9,14 @@ if ( isset( $_SERVER['SERVER_NAME'] ) ) {
 
 if ( ! is_file( $root . '/etc/config.php' ) ) {
 	echo 'ERROR!', PHP_EOL;
-	echo 'Please create `config.php` file with WordPress location!',PHP_EOL;
-	echo 'You can copy `config.example.php`.',PHP_EOL,PHP_EOL;
+	echo 'Please create `config.php` file with WordPress location!', PHP_EOL;
+	echo 'You can copy `config.example.php`.', PHP_EOL, PHP_EOL;
 	die;
 }
 
 require $root . '/etc/config.php';
 require $wordpress_path . '/wp-load.php';
-require_once( ABSPATH . 'wp-admin/includes/image.php' );
+require_once ABSPATH . 'wp-admin/includes/image.php';
 
 global $import_config;
 
@@ -28,7 +28,7 @@ if ( is_file( $config_file ) ) {
 }
 if ( ! is_file( $root . '/etc/config.json' ) ) {
 	echo 'ERROR!', PHP_EOL;
-	echo 'Please create `config.json` file with files location!',PHP_EOL;
+	echo 'Please create `config.json` file with files location!', PHP_EOL;
 	die;
 }
 
@@ -169,17 +169,18 @@ function add_organization( $raw, $person, $date_from = '', $order = false ) {
 function check_is_person( $data ) {
 	if ( 7 > strlen( $data ) ) {
 		if ( show_debug() ) {
-			echo PHP_EOL,'short: ',$data,PHP_EOL;
+			echo PHP_EOL, 'short: ', $data, PHP_EOL;
 		}
 		return false;
 	}
 	if ( ! preg_match( '/ /', $data ) ) {
 		if ( show_debug() ) {
-			echo PHP_EOL,'no-space: ',$data,PHP_EOL;
+			echo PHP_EOL, 'no-space: ', $data, PHP_EOL;
 		}
 		return false;
 	}
 	switch ( $data ) {
+		case 'Airisto Segelsällskap':
 		case 'Alexandria Wooden Boat Society':
 		case 'Avocado Sail Training Association':
 		case 'Brothers Sparv':
@@ -189,14 +190,13 @@ function check_is_person( $data ) {
 		case 'Elkington Brothers':
 		case 'German Class Assn':
 		case 'Grosheny brothers':
-		case 'Indiana University':
 		case 'Indiana University Yacht Club':
+		case 'Indiana University':
 		case 'Krywood Composites':
-		case 'Larchmont Yacht Club':
 		case 'LES 4 VE':
+		case 'Larchmont Yacht Club':
 		case 'Moss-Lovshin family':
 		case 'Orange Coast College':
-		case 'owner in Devon':
 		case 'Pegasus Racing':
 		case 'Pettipaug Jr. Sailing Academy':
 		case 'Redwood City':
@@ -204,8 +204,6 @@ function check_is_person( $data ) {
 		case 'Sawanaka Corinthian Yacht Club':
 		case 'School in Queen Anne':
 		case 'Schwaebisch Hall':
-		case 'some New England sailing academy':
-		case 'some New England sailing academy.':
 		case 'St. George\'s School Sailing Club':
 		case 'St. Johns Jr. College':
 		case 'St. Vincents Gulf 505 Association':
@@ -215,6 +213,9 @@ function check_is_person( $data ) {
 		case 'WA 505 Association':
 		case 'Wansborough family':
 		case 'Web Institute':
+		case 'owner in Devon':
+		case 'some New England sailing academy':
+		case 'some New England sailing academy.':
 			return false;
 	}
 	return true;
@@ -222,7 +223,7 @@ function check_is_person( $data ) {
 
 function handle_serie_taxonomy( $serie, &$series, &$post_array, $parent = 0 ) {
 	$field = 'iworks_fleet_serie';
-	echo $serie,PHP_EOL;
+	echo $serie, PHP_EOL;
 	if ( preg_match( '@/@', $serie ) ) {
 		foreach ( preg_split( '@/@', $serie ) as $el ) {
 			$parent = handle_serie_taxonomy( $el, $series, $post_array, $parent );
@@ -300,7 +301,7 @@ function int505_echo_dot( $counter, $type = 'success', $mode = 'simple' ) {
 		echo ' ';
 	}
 	if ( 'detailed' === $mode && 0 === $counter % 1000 ) {
-		echo PHP_EOL,'------------------',PHP_EOL;
+		echo PHP_EOL, '------------------', PHP_EOL;
 	}
 	switch ( $type ) {
 		case 'success':
@@ -892,8 +893,7 @@ function int505_translate_color( $color ) {
 		return $colors[ $c ];
 	}
 	if ( show_debug() ) {
-		echo $color,PHP_EOL;
+		echo $color, PHP_EOL;
 	}
 	return $color;
 }
-

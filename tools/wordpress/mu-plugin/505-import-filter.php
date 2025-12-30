@@ -1754,7 +1754,7 @@ class iworks_5o5_upload_fixer {
 			'Fleury' => 'Fleury',
 		),
 		array(
-			'Buffet' => 'Marcel Buffet',
+			'Buffet'    => 'Marcel Buffet',
 			'Lallemand' => 'Alain Lallemént',
 		),
 		array(
@@ -3755,7 +3755,7 @@ class iworks_5o5_upload_fixer {
 		),
 		array(
 			'Loday'  => 'Nicholas Loday',
-			'Guezou' => 'Guezou',
+			'Guezou' => 'Michel Guezou',
 		),
 		array(
 			'Bourn'  => 'Hugh Bourn',
@@ -3822,15 +3822,15 @@ class iworks_5o5_upload_fixer {
 			'Hintz'      => 'Markus Hintz',
 		),
 		array(
-			'Levesque' => 'Bruno Levesque',
+			'Levesque' => 'Bruno Lévesque',
 			'Bapst'    => 'Jean-Luc Bapst',
 		),
 		array(
-			'Levesque' => 'Bruno Levesque',
+			'Levesque' => 'Bruno Lévesque',
 			'Guezou'   => 'Michel Guezou',
 		),
 		array(
-			'Lesvesque' => 'Bruno Levesque',
+			'Lesvesque' => 'Bruno Lévesque',
 			'Guezou'    => 'Michel Guezou',
 		),
 		array(
@@ -4010,12 +4010,12 @@ class iworks_5o5_upload_fixer {
 			'Leibovitch' => 'Robert Leibovitch',
 		),
 		array(
-			'Vinches' => 'Gilbert Vinches',
+			'Vinches'  => 'Gilbert Vinches',
 			'Padovani' => 'François Padovani',
 		),
 		array(
 			'Doloy' => 'Alain Doloy',
-			'Sage' => 'Alain Sage',
+			'Sage'  => 'Alain Sage',
 		),
 		array(
 			'Oudard' => 'Bernard Oudard',
