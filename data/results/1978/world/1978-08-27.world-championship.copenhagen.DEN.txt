@@ -295,7 +295,7 @@ K 6447 D.White, J.Davies
 K 6505 M.Lawton, Terry Lawton
 K 6517 S.France, R.Roberton
 K 6525 P.Bainbridge, J.Campell
-K 6539 M.Lingwood, J.Labbett
+K 6539 M.Lingwood, John Labbett
 K 6544 N.Willmott, P.Willmott
 K 6553 P.White, W.Hartje
 K 6583 M.Wilson, J.Donaldson
