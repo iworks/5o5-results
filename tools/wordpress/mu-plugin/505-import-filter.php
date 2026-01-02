@@ -3675,7 +3675,7 @@ class iworks_5o5_upload_fixer {
 		),
 		array(
 			'Fischer' => 'François Fischer',
-			'Claudel' => 'Claudel Phillips',
+			'Claudel' => 'Phillips Claudel',
 		),
 		array(
 			'Pösch'   => 'Thorsten Pösch',
