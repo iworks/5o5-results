@@ -390,7 +390,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 1992-01-01,1992-01-01,Canadian Championship,,,,,,,,,,,1992/country/canada/1992.canadian-championship.csv,National,,CAN,2024-09-18,,
 1992-01-01,1992-01-01,Championnat de France,French Championship,,,Carnac,,,,,,,1992/country/france/1992.french-championship.cancale.FRA.csv,National,,FRA,2024-06-22,,
 1992-01-01,1992-01-01,North American Championship,,,,Santa Cruz,,,,,,,1992/continental/1992.north-american-championship.santa-cruz.USA.csv,"Continental,North America",,USA,2025-10-26,,
-1992-01-01,1992-01-01,UK National Championship,,5,95,Lyme Regis,,,,,,,1992/country/uk/1992.uk-national-championship.lyme-regis.GBR.csv,National,,GBR,2020-11-06,,
+1992-09-05,1992-09-11,UK National Championship,,5,95,Lyme Regis,,,,,,,1992/country/uk/1992-09-11.national-championship.lyme-regis.GBR.csv,National,,GBR,2020-11-06,,
 1992-06-10,1992-06-18,European Championship,,5,44,Hellerup,Hellerup Sejlklub,,,,,,1992/continental/1992-06-18.european-championship.hellerup.DEN.csv,"Continental,Europe",,DEN,2021-10-28,,
 1992-08-14,1992-08-20,World Championship,,6,85,"Santa Cruz, CA",,,,,,,1992/worlds/1992-08-20.world-championship.santa-cruz.USA.csv,World,,USA,2021-10-28,,
 1992-09-25,1992-09-29,Championnat du Léman,Swiss Championship,6,36,Oberhofen,,,,,,,1992/country/switzerland/1992-09-29.swiss-championship.oberhofen.SUI.csv,National,,SUI,2024-01-30,,
