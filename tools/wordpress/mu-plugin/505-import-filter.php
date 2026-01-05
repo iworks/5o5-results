@@ -4021,6 +4021,10 @@ class iworks_5o5_upload_fixer {
 			'Oudard' => 'Bernard Oudard',
 			'Oudard' => 'Denis Oudard',
 		),
+		array(
+			'Noel' => 'Noël',
+			'Noel' => 'Mme Noël',
+		),
 		/*
 		array(
 			'' => '',
