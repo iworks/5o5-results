@@ -1,13 +1,13 @@
 Nation,Boat NO,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Points,Place
-FRA,,Bernard Paternault,Denis Guiomard,,2,2,2,3,14.7,1
-FRA,,Alain Doloy,Lazennec,,,,,,19.7,2
-FRA,,Fenouil,Angel,,,,,,25.1,3
+FRA,3650,Bernard Paternault,Denis Guiomard,,2,2,2,3,"14,7",1
+FRA,4279,Alain Doloy,Lazennec,,,,,,"19,7",2
+FRA,,Fenouil,Angel,,,,,,"25,1",3
 FRA,4639,Marcel Buffet,Alain Lallemént,,,,,,26,4
-FRA,,Boyer,M. Leger,,,,,,31.7,5
-FRA,,Souvestre,Souvestre,,,,,,40.7,6
-FRA,,Gilbert Vinches,François Padovani,,,,,,41,7
+FRA,,Boyer,M. Leger,,,,,,"31,7",5
+FRA,,Souvestre,Souvestre,,,,,,"40,7",6
+FRA,4228,Gilbert Vinches,François Padovani,,,,,,41,7
 FRA,,Privat,Louisnard,,,,,,54,8
-FRA,,Richard Gaudry,Baguet,,,,,,55.7,9
-FRA,,Laly,Mileux,,,,,,56.7,10
-FRA,,Claude Fixot,Hardfield,,,,,,57,11
-FRA,,Guy Hédouin,Barrault,,,,,,64,12
+FRA,4368,Richard Gaudry,Baguet,,,,,,"55,7",9
+FRA,,Laly,Mileux,,,,,,"56,7",10
+FRA,4513,Claude Fixot,Hardfield,,,,,,57,11
+FRA,8,Guy Hédouin,Barrault,,,,,,64,12
