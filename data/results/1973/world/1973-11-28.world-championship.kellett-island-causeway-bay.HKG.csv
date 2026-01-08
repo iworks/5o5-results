@@ -1,92 +1,91 @@
 Nation,Boat,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Points,Netto,Place
-GBR,4689,Peter White,John Davies,,1,8,3,10,RTD,7,"141,7","48,7",1
-USA,4559,Dennis Surtees,Stephen Owens,,6,2,6,24,19,2,"84,4","54,4",2
-FRA,4809,Yves Pajot,Yvon Kergreis,,10,5,5,3,7,RTD,"144,7","54,7",3
-AUS,4643,Mark Bethwaite,Ian Pitt,,13,10,1,9,5,DSQ,158,59,4
-FRA,4702,Jean-Marie Daniélou,Jean-Charles Gillet,,5,4,35,22,6,3,"107,4","63,4",5
-GBR,4382,Derek Farrant,Bev Moss,,3,9,9,8,41,8,"110,7","63,7",6
-USA,4529,Jeff Brauch,Dan Downing,,2,3,7,25,54,15,"133,7","73,7",7
-AUS,4929,Geoffrey Kyrwood,Kyrwood,,25,6,11,4,44,4,"125,7","75,7",8
-RSA,4504,Brian Downham,Brian Gold,,4,DSQ,34,5,4,5,179,76,9
-GBR,4747,Larry Marks,Julian Brooke[H.],,8,1,2,31,31,18,115,78,10
-GBR,4416,Colin Mckenzie,Charles Maconie,,7,12,24,7,9,RTD,179,89,11
-AUS,4905,Terrence Kyrwood,Reg Crick,,28,18,15,RTD,1,2,192,97,12
-GBR,4321,Robert Napier,Wakeford,,22,20,32,39,3,1,"142,7","97,7",13
-AUS,4173,Rod Dalgleish,Adriaanse,,11,13,4,RTD,32,14,"197,9",102,14
-SWE,3316,Stefan Sjöström,Reine Andersson,,18,11,29,DSQ,10,6,"207,7","103,7",15
-DEN,4543,Jens Christensen,Jes Thomsen,,16,31,8,17,15,24,147,110,16
-FRA,4808,Nicholas Loday,Philippe Chaigne,,9,7,DSQ,18,37,11,215,112,17
-FIN,4626,Matti Rouhiainen,Heikki Mustonen,,35,14,23,1,36,17,155,113,18
-SWE,3106,Roy Wedin,Petersson,,33,23,13,6,18,33,"161,7","122,7",19
-HKG,4177,Ces Nater,Hayles,,23,15,18,RTD,17,22,220,125,20
-FIN,4925,Kari Wilén,Jyri Wilén,,30,DNS,14,13,11,28,222,126,21
-SWE,4316,Göran Eckeström,Jan Calvert,,RTD,39,12,19,12,25,222,127,22
-CAN,4898,D. Speirs,,,[52],31,27,32,14,25,145,99,23
-USA,4233,A. Johnson,,,19,33,[52],18,22,37,145,99,24
+GBR,4689,Peter White,John Davies,,1,8,3,10,[RTD],7,"141,7","48,7",1
+USA,4559,Dennis Surtees,Stephen Owens,,6,2,6,[24],19,2,"84,4","54,4",2
+FRA,4809,Yves Pajot,Yvon Kergreis,,10,5,5,3,7,[RTD],"144,7","54,7",3
+AUS,4643,Mark Bethwaite,Ian Pitt,,13,10,1,9,5,[DSQ],158,59,4
+FRA,4702,Jean-Marie Daniélou,Jean-Charles Gillet,,5,4,[38],22,6,3,"107,4","63,4",5
+GBR,4382,Derek Farrant,Bev Moss,,3,9,9,8,[41],8,"110,7","63,7",6
+USA,4529,Jeff Brauch,Dan Downing,,2,3,7,25,[54],15,"133,7","73,7",7
+AUS,4929,Geoffrey Kyrwood,Kyrwood,,25,6,11,4,[44],4,"125,7","75,7",8
+RSA,4504,Brian Downham,Brian Gold,,4,[DSQ],34,5,4,5,179,76,9
+GBR,4747,Larry Marks,Julian Brooke[H.],,8,1,2,31,[31],18,115,78,10
+GBR,4416,Colin D. Mckenzie,Charles Maconie,,7,12,24,7,9,[RTD],179,89,11
+AUS,4905,Terrence S. Kyrwood,Reginald F. Crick,,28,18,15,[RTD],1,2,192,97,12
+GBR,4321,Robert Napier,Wakeford,,22,20,32,[39],3,1,"142,7","97,7",13
+AUS,4173,Rod Dalgleish,Adriaanse,,11,13,4,[RTD],32,14,"197,9",102,14
+SWE,3316,Stefan Sjöström,Reine Andersson,,18,11,29,[DSQ],10,6,"207,7","103,7",15
+DEN,4543,Jens Christensen,Jes Thomsen,,16,[31],8,17,15,24,147,110,16
+FRA,4808,Nicholas Loday,Philippe Chaigne,,9,7,[DSQ],18,37,11,215,112,17
+FIN,4626,Matti Rouhiainen,Heikki Mustonen,,35,14,23,1,[36],17,155,113,18
+SWE,3106,Roy Wedin,Petersson,,33,23,13,6,18,[33],"161,7","122,7",19
+HKG,4177,Ces Nater,Hayles,,23,15,18,[RTD],17,22,220,125,20
+FIN,4835,Kari Wilén,Jyri Wilén,,30,[DNS],14,13,11,28,222,126,21
+SWE,4316,Göran Eckeström,Jan Calvert,,[RTD],39,12,19,12,25,222,127,22
+CAN,4898,D. Speirs,Kennedy,,[52],31,27,32,14,25,145,99,23
+USA,4233,A. Johnson,Remy,,19,33,[52],18,22,37,145,99,24
 FIN,4660,Mikko Brummer,Rudi Biaudet,,[40],34,28,22,19,29,136,102,25
-GBR,4767,John Locke,,,27,[43],41,3,40,35,158,121,26
-HKG,4528,Neil Pryde,,,35,[48],32,20,26,33,158,116,27
-HKG,4580,Eric Lockeyear,,,30,40,26,36,[70],15,181,117,28
-JPN,4893,M. Tsuji,,,32,23,22,"(0)
-DSQ",34,40,121,121,29
-AUS,4805,Peter Harvey,,,21,32,46,35,[61],19,178,123,30
-SWE,3858,Karl-Erik Nilsson,Goran Kallfeldt,,17,33,28,34,25,20,193,153,31
-,,,,,,,,,,,,,32
-,,,,,,,,,,,,,33
-,,,,,,,,,,,,,34
-,,,,,,,,,,,,,35
-SWE,3991,Ulf Andersson,Stefan Lundqvist,,44,40,43,11,24,38,236,186,36
-,,,,,,,,,,,,,37
+GBR,4767,John Locke,Antony Pusinelli,,27,[43],41,3,40,35,158,121,26
+HKG,4528,Neil Pryde,Yourieff,,35,[48],32,20,26,33,158,116,27
+HKG,4580,Eric Lockeyear,Lennox,,30,40,26,36,[70],15,181,117,28
+JPN,4893,M. Tsuji,Noguchi,,32,23,22,[DSQ],34,40,121,121,29
+AUS,4805,Peter Harvey,R. Norris,,21,32,46,35,[61],19,178,123,30
+SWE,3858,Karl-Erik Nilsson,Goran Kallfeldt,,17,33,28,[34],25,20,193,153,31
+FRA,4825,P. Haegli,Trouble,,47,[RTD],19,41,2,21,249,"155,7",32
+AUS,4907,Verdun Hiles,Milton Hiles,,31,39,10,33,14,[RTD],247,"157,4",33
+FRA,4639,Marcel Buffet,Thierry Moreau-Defarges,,39,19,41,[DSQ],29,10,272,168,34
+GBR,4685,P. Bainbridge,R. Parker,,19,21,[49],45,22,37,229,174,35
+SWE,3991,Ulf Andersson,Stefan Lundqvist,,[44],40,43,11,24,38,236,186,36
+AUS,3222,Prestdick,,,[54],30,27,28,42,35,252,192,37
 SWE,3924,Stefan Eriksson,Sven Karlsson,,32,35,17,36,45,43,244,193,38
-,,,,,,,,,,,,,39
-,,,,,,,,,,,,,40
-,,,,,,,,,,,,,41
-,,,,,,,,,,,,,42
-,,,,,,,,,,,,,43
-,,,,,,,,,,,,,44
-,,,,,,,,,,,,,45
-,,,,,,,,,,,,,46
-,,,,,,,,,,,,,47
-,,,,,,,,,,,,,48
-,,,,,,,,,,,,,49
-,,,,,,,,,,,,,50
-,,,,,,,,,,,,,51
-,,,,,,,,,,,,,52
-,,,,,,,,,,,,,53
-,,,,,,,,,,,,,54
-SWE,4178,Ray Larsson,Bengt Magnusson,,37,RTD,75,49,40,46,371,277,55
-,,,,,,,,,,,,,56
-,,,,,,,,,,,,,57
-,,,,,,,,,,,,,58
-,,,,,,,,,,,,,59
-,,,,,,,,,,,,,60
-,,,,,,,,,,,,,61
-,,,,,,,,,,,,,62
-,,,,,,,,,,,,,63
-,,,,,,,,,,,,,64
-,,,,,,,,,,,,,65
-,,,,,,,,,,,,,66
-,,,,,,,,,,,,,67
-,,,,,,,,,,,,,68
-,,,,,,,,,,,,,69
-,,,,,,,,,,,,,70
-,,,,,,,,,,,,,71
-,,,,,,,,,,,,,72
-,,,,,,,,,,,,,73
-,,,,,,,,,,,,,74
-,,,,,,,,,,,,,75
-,,,,,,,,,,,,,76
-,,,,,,,,,,,,,77
-,,,,,,,,,,,,,78
-,,,,,,,,,,,,,79
-,,,,,,,,,,,,,80
-,,,,,,,,,,,,,81
-,,,,,,,,,,,,,82
-,,,,,,,,,,,,,83
-,,,,,,,,,,,,,84
-,,,,,,,,,,,,,85
-,,,,,,,,,,,,,86
-,,,,,,,,,,,,,87
-,,,,,,,,,,,,,88
-,,,,,,,,,,,,,89
-,,,,,,,,,,,,,90
+FRA,4122,Guillaume,Richard,,[RTD],22,36,38,26,42,289,194,39
+GER,4744,A. Hampe,Jenssen,,27,32,[50],44,43,46,258,202,40
+FIN,4303,Nils Lagerström,Lars Lagerström,,[63],52,25,21,23,58,278,209,41
+USA,4566,D. Beck,Beck,,43,[RTD],33,35,38,40,313,219,42
+AUS,4901,R. Freeman,Eastgate,,56,46,30,20,[RTD],41,316,223,43
+GBR,4804,P. Buttigieg,Felgate,,58,24,57,23,[RTD],32,317,224,44
+SUI,4617,B. Degaucenzi,Perret,,20,41,[66],54,35,49,301,229,45
+GBR,4766,J. Donnelly,Donnelly,,40,36,37,46,53,[RTD],332,242,46
+FRA,4881,Pierre Nesseler,Philippe Nesseler,,42,44,31,47,57,[RTD],341,251,47
+AUS,4533,Robert L. Jones,Campbell,,41,[RTD],42,27,62,50,346,252,48
+GBR,4040,Michael Enderby,Bowles,,50,38,51,[52],49,36,312,254,49
+KEN,3145,W. Deverell,Hime,,61,43,44,32,[RTD],48,351,258,50
+GBR,4319,I. Irvine,Carrick,,45,[RTD],39,51,50,45,354,260,51
+GBR,4949,K. Crocker,Woodhead,,36,[DSQ],48,48,65,39,369,266,52
+SIN,4522,K. Tomlins,Robertson,,51,[RTD],47,40,59,47,377,274,53
+GBR,4760,G. Wilson,Parker,,48,[RTD],67,15,33,RTD,371,277,54
+SWE,4178,Ray Larsson,Bengt Magnusson,,37,[RTD],75,49,40,46,371,277,55
+HKG,4519,H. Stefle,Dowling,,33,[DSQ],56,60,51,44,382,279,56
+HKG,4517,Tim Parsons,Bacon,,49,47,61,43,56,[RTD],376,286,57
+HKG,3614,H. Van Krenschmar,Bentley,,67,[DSQ],53,42,71,30,396,293,58
+CAN,4549,R. Shields,Shields,,[DSQ],45,54,50,30,RTD,397,293,59
+FRA,4703,P. Brillouet,Dejoux,,62,[RTD],45,55,21,RTD,391,297,60
+AUS,4871,William Batt,Ladd,,[68],59,58,59,52,52,384,310,61
+SIN,4852,C. Allpress,Ashworth,,57,[RTD],62,63,46,63,406,311,62
+HKG,3234,M. Houghton,Greenhill,,55,49,68,[RTD],66,55,410,315,63
+GER,4704,Kay Ewaldsen,Egbert Lechtenböhmer,,59,50,[72],68,58,60,403,325,64
+FRA,4479,R. Banel,Moreau D.,,72,[RTD],52,72,48,56,424,330,65
+HKG,4249,K. Palfreeman,White,,53,58,64,53,[RTD],RTD,430,337,66
+AUS,4867,Rudi Klug,Thompson,,[RTD],48,80,61,70,51,435,340,67
+AUS,4226,B. Burford,Bessel,,78,61,65,56,[RTD],54,437,344,68
+JPN,4230,Y. Saito,Harima,,71,62,63,64,61,[RTD],441,351,69
+KEN,2889,R. Dyer,Airy,,[RTD],57,85,69,27,RTD,447,352,70
+HKG,4518,J. Park,Clark,,[RTD],56,68,71,68,59,447,352,71
+CAN,3146,L. Dekat,Clark,,66,51,55,67,[DNS],RTD,449,353,72
+JPN,4833,R. Tani,Hagio,,75,64,79,[RTD],47,62,452,357,73
+GER,4676,Theo Graff,Werner Graff,,73,58,71,66,63,[RTD],451,361,74
+HKG,4681,R. Maynard,Edmonds,,60,55,77,[RTD],RTD,57,461,366,75
+HKG,4391,A. Rivers,More-Pelpech,,[RTD],54,70,65,RTD,65,466,371,76
+JPN,4261,H. Chtani,Hirabayashi,,76,63,76,75,[RTD],61,476,383,77
+NZL,4769,R. Crisp,Shepperson,,[RTD],66,82,77,69,62,492,387,78
+HKG,3871,B. Keep,Low,,52,[DSQ],73,57,RTD,DNS,492,389,79
+JPN,4925,G. Ueda,Nohama,,70,[RTD],74,74,60,RTD,486,392,80
+RSA,4884,M. Dobema,Smith,,77,63,[DNS],78,67,RTD,495,399,81
+SIN,4866,B. Riley,Yeoho,,74,60,83,70,RTD,[DNS],500,404,82
+RSA,4553,E. Wyatt,O’Mahony,,65,[RTD],81,62,RTD,RTD,503,409,83
+SIN,4854,M. Pollett,Robertshon,,69,[DSQ],69,73,RTD,DNS,521,418,84
+FRA,4440,M. Leger,Leger,,64,DSQ,59,[DSQ],DSQ,DNS,540,436,85
+HKG,4109,J. Waller,Ashorth,,79,[RTD],84,76,RTD,RTD,534,440,86
+FRA,4748,Alain Preel,Patrick Conard,,DNS,DNS,DNS,DNS,DNS,[DNS],576,480,87
+FRA,4325,P. Oeuvrard,Rouger,,RTD,DSQ,DSQ,[DSQ],DSQ,DSQ,597,493,88
+FRA,4700,Jean-François Fountaine,Pierre Fountaine,,DSQ,DSQ,DSQ,[DSQ],DSQ,DSQ,615,511,89
+CAN,4653,B. Hornick,Mc Nally,,DSQ,DSQ,DSQ,[DSQ],DSQ,DSQ,615,511,89
