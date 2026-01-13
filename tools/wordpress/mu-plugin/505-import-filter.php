@@ -4026,7 +4026,7 @@ class iworks_5o5_upload_fixer {
 			'Noel' => 'Mme Noël',
 		),
 		array(
-			'Amiot' => 'Jacques Amiot'
+			'Amiot' => 'Jacques Amiot',
 			'Bisson' => 'Gilles Bisson',
 		),
 		/*
