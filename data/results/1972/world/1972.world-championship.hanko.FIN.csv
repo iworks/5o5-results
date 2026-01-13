@@ -1,13 +1,13 @@
 Nation,Boat,Helm,Crew,Club,Race 1,Points,Place
 FRA,4420,Nicolas Loday,Nicolas Fédorenko,CNBP,,57,1
 FRA,4390,Bruno Lévesque,Jean-Luc Bapst,SNO,,59,2
-FIN,4335,Kari Wilén,Jyri Wilén,NJK,,59.7,3
+FIN,4335,Kari Wilén,Jyri Wilén,NJK,,"59,7",3
 GBR,4382,Derek Farrant,Bev Moss,Hastings,,64,4
 GBR,4450,John Loveday,Terry,Ogston,,65,5
-SWE,3991,Ulf Andersson,Lun Quist,KSSS,,71.7,6
-SWE,3956,Bennett Thörner,Thörner,MSS,,75.7,7
-SWE,4316,Stefan Sjostrom,Reine Andersson,HJ BK,,76.4,8
-FRA,3596,Patrick Haegeli,Brodard,CVP,,85.7,9
+SWE,3991,Ulf Andersson,Lun Quist,KSSS,,"71,7",6
+SWE,3956,Bennett Thörner,Thörner,MSS,,"75,7",7
+SWE,4316,Stefan Sjostrom,Reine Andersson,HJ BK,,"76,4",8
+FRA,3596,Patrick Haegeli,Brodard,CVP,,"85,7",9
 GBR,4321,Robert Napier,Geoff Rae,WCSC,,89,10
 ,,,,,,,11
 FRA,4139,Marcel Buffet,Stéphane Fleury,CVP,,93,12
@@ -32,7 +32,7 @@ FRA,4500,Jean-Marie Daniélou,Jean-Charles Gillet,CVP,,184,30
 ,,,,,,,31
 FRA,4332,Jean-Pierre Bouvet,Chaigne,CNBP,,188,32
 ,,,,,,,33
-FRA,4224,P. Gadel,Philippe Sérane,CN VC,,189.7,34
+FRA,4224,Pierre Gadel,Philippe Sérane,CN VC,,"189,7",34
 ,,,,,,,35
 FRA,3949,Nicolas,Courty,C VT,,194,36
 ,,,,,,,37
