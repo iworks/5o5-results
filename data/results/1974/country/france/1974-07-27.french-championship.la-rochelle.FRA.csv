@@ -1,2 +1,58 @@
-Country,Number,Helm,Crew,Club,Race 1,Total,Place
-FRA,,Marcel Buffet,Thierry Moreau-Defarges,,,,1
+Country,Number,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Netto Points,Place
+FRA,4639,Marcel Buffet,Pierre Coindreau,,,,,,,,"21,7",1
+FRA,5150,Bruno Lévesque,Michel Guezou,,,,,,,,"26,1",2
+FRA,5001,Jean-Marie Daniélou,Patrick Conard,,,,,,,,"30,4",3
+FRA,4915,François Fischer,Jacques Chouraki,,,,,,,,"45,7",4
+FRA,4822,Jérôme Langlois,Philippe Sérane,,,,,,,,"52,7",5
+FRA,4459,Bernard Claudel,Alain Claudel,,,,,,,,"58,4",6
+FRA,4881,Pierre Nesseler,Philippe Nesseler,,,,,,,,69,7
+FRA,4815,Philippe Blanchard,Philippe Blanchard,,,,,,,,"72,7",8
+FRA,4654,Patrick Nicolas,Bohu,,,,,,,,76,9
+FRA,5029,Conan,Conan,,,,,,,,"85,7",10
+FRA,5022,Philippe Buck,Massu,,,,,,,,95,11
+FRA,4913,Christian Boillot,Leroux,,,,,,,,99,12
+FRA,4946,Patrick Oeuvrard,Mageux,,,,,,,,103,13
+FRA,4701,Hughes Lecerf,Gueulette,,,,,,,,105,14
+FRA,5203,Jean Thobie,Patrick Ricci,,,,,,,,110,15
+FRA,4703,Léon Brillouet,Jean Desrais,,,,,,,,113,16
+FRA,4622,Chaplain,J. C. Bréard,,,,,,,,116,17
+FRA,4992,Th. de Chalvron,René Morch,,,,,,,,117,18
+FRA,5151,Dominique Savelli,François-Bernard Savelli,,,,,,,,119,19
+FRA,5032,Bernard Reynier,François Dury,,,,,,,,121,20
+FRA,5033,Jacques Armengaud,Philippe Hoffmann,,,,,,,,123,21
+FRA,4242,Raguet,Daudier,,,,,,,,132,22
+FRA,5079,Alain Doloy,Lazennec,,,,,,,,135,23
+FRA,5111,François Richard,Sachse,,,,,,,,143,24
+FRA,4978,Francis Doerenbecher,Aubin Doerenbecher,,,,,,,,147,25
+FRA,3535,Cassou,Kergreis,,,,,,,,149,26
+FRA,4970,Duhau,Robert Leibovitch,,,,,,,,152,27
+FRA,4605,Gre,Carvallo,,,,,,,,155,28
+FRA,4228,Gilbert Vinches,François Padovani,,,,,,,,156,29
+FRA,4325,Loisel,Martin,,,,,,,,157,30
+FRA,3438,Turquiem,Frappuier,,,,,,,,159,31
+FRA,4943,Maréchal,Gerret,,,,,,,,164,32
+FRA,3153,Galet,Galet,,,,,,,,167,33
+FRA,4702,Legrand,Champenois,,,,,,,,168,34
+FRA,4904,Pierre Bretèche,Robin,,,,,,,,168,35
+FRA,5182,Guillaume,Gravier,,,,,,,,171,36
+FRA,2845,Herfort,Simonneau,,,,,,,,188,37
+FRA,4669,Bert,Le Rolland,,,,,,,,189,38
+FRA,5003,Pfaadt,Ziegelmeier,,,,,,,,204,39
+FRA,4924,Jacques Amiot,Blaquiz,,,,,,,,206,40
+FRA,4900,Roland Banel,Serge Banel,,,,,,,,209,41
+FRA,4453,Fenouil,Angel,,,,,,,,210,42
+FRA,4332,Drianno,Robin,,,,,,,,215,43
+FRA,4479,Le Gloahec,Wantz,,,,,,,,236,44
+FRA,5023,Charles Pillon,Baffert,,,,,,,,239,45
+FRA,4009,Audren,Denquin,,,,,,,,239,46
+FRA,4620,Heymann,Heymann,,,,,,,,242,47
+FRA,4356,Jacques Lefèvre,Michel Lefèvre,,,,,,,,249,48
+FRA,3715,Mulder,Richard,,,,,,,,250,49
+FRA,4891,F. Souvestre,Ehlinger,,,,,,,,251,50
+FRA,5064,Bastier,Bastier,,,,,,,,256,51
+FRA,4175,Chovelon,Maruel,,,,,,,,259,52
+FRA,5069,Bongiorno,Fernandez,,,,,,,,265,53
+FRA,5024,Robert Comte,Doisneau,,,,,,,,265,54
+FRA,4323,Guillon,Guillon,,,,,,,,270,55
+FRA,4861,Creton,Leger,,,,,,,,276,56
+FRA,5062,Jean-Pierre Bouvet,J.L. Mahe,,,,,,,,283,57
