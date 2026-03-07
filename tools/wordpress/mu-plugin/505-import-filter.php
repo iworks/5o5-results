@@ -1755,15 +1755,15 @@ class iworks_5o5_upload_fixer {
 		),
 		array(
 			'Buffet'    => 'Marcel Buffet',
-			'Lallemand' => 'Alain Lallemént',
+			'Lallemand' => 'Alain Lalleménd',
+		),
+		array(
+			'Levesque'    => 'Antoine Levesque',
+			'Lallemand' => 'Alain Lalleménd',
 		),
 		array(
 			'Buffet'    => 'Marcel Buffet',
 			'Trouillet' => 'Damien Trouillet',
-		),
-		array(
-			'Buffet'    => 'Marcel Buffet',
-			'Lallement' => 'Alain Lallement',
 		),
 		array(
 			'M. Buffet'   => 'Marcel Buffet',
@@ -4100,7 +4100,7 @@ class iworks_5o5_upload_fixer {
 		'Alain Brasley'               => 'Alain Brasey',
 		'Alain Karadjan'              => 'Alain Karadjian',
 		'Alain Karajian'              => 'Alain Karadjian',
-		'Alain Lallemend'             => 'Alain Lallement',
+		'Alain Lallemend'             => 'Alain Lalleménd',
 		'Alan Haylet'                 => 'Alan Haylett',
 		'Alan Lewthwaite'             => 'Allan Lewthwaite',
 		'Alarie Peter'                => 'Peter Alarie',
