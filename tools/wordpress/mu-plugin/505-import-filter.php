@@ -4101,6 +4101,8 @@ class iworks_5o5_upload_fixer {
 		'Alain Karadjan'              => 'Alain Karadjian',
 		'Alain Karajian'              => 'Alain Karadjian',
 		'Alain Lallemend'             => 'Alain Lalleménd',
+		'Alain Lallement'             => 'Alain Lalleménd',
+		'Alain Lallemént'             => 'Alain Lalleménd',
 		'Alan Haylet'                 => 'Alan Haylett',
 		'Alan Lewthwaite'             => 'Allan Lewthwaite',
 		'Alarie Peter'                => 'Peter Alarie',
