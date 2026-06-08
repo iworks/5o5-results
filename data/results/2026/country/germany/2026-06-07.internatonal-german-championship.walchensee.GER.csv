@@ -1,0 +1,32 @@
+Country,Boat Number,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Race 7,Race 8,Race 9,Race 10,Points Total,Points Netto,Place
+GER,9251,Jan-Philipp Hofmann,Felix Björn Brockerhoff,DYC,1,1,1,1,1,1,[5],1,1,1,14,9,1
+GER,8992,Lutz Stengel,Frank Feller,ROYC,5,4,3,[8],2,7,3,2,3,2,39,31,2
+GER,9260,Tim Böger,Finn Böger,HSC,3,2,2,4,8,4,2,3,5,[11],44,33,3
+GER,9275,Stefan Köchlin,Andréas Achterberg,SVS,8,14,6,3,4,3,6,4,[15],3,66,51,4
+GER,9127,Frederik Schaal,Felix Diesch,SMCUE,12,[32]RET,10,6,3,6,4,9,2,4,88,56,5
+GER,9258,Alexander Holzapfel,Arne Wittemer,PSVK,4,[12],4,5,7,9,11,6,9,6,73,61,6
+GER,9256,Jens Biederer,Jan Reifferscheidt,KYC,6,[20],7,9,5,5,9,10,4,13,88,68,7
+GER,9198,Michael Daisenberger,Johannes Tellen,DTYC,2,[19],12,7,9,2,1,5,18,16,91,72,8
+GER,9189,Hendrik Schultz,Thorsten Koch,SCLW,9,3,5,[15],12,10,13,8,7,10,92,77,9
+GER,9130,Inga-Marie Hofmann,Christoph Swade,DYC,[14],11,8,14,6,13,8,7,12,7,100,86,10
+GER,9268,Henrik Schade,Sebastian Wiemer,WVW,7,[18],15,10,11,11,14,16,17,12,131,113,11
+GER,9182,Alexander Swade,Piet Strohm,DYC,[17],8,11,12,14,15,17,12,14,14,134,117,12
+GER,9234,Nørbert Dasenbrook,Thorsten Pösch,KSW,11,[22],9,11,10,12,19,11,21,15,141,119,13
+GER,9197,Nicola Birkner,Angela Stenger,VSAW,13,15,13,2,18,[32 DNF],18,17,19,8,155,123,14
+DEN,92*,Imke Weidenbach,Mathias Weidenbach,DYC,18,17,14,18,[19],18,15,14,6,5,144,125,15
+GER,9133,Frieder Achterberg,Wolfgang Stückl,DTYC,10,6,18,20,13,8,16,15,20,[32 DNS],158,126,16
+GER,9032,Klaus Diesch,Thomas Stemmer,WYC,15,[32 DSQ],17,16,21,16,10,13,13,9,162,130,17
+GER,9161,Walter Steding,Hans-Werner Steding,HSC,[25],5,16,13,16,14,12,19,22,21,163,138,18
+GER,8903,Steve Kwee,Johannes Kindermann,HSC,16,13,19,22,15,[32 DNF],7,18,16,17,175,143,19
+GER,8806,Anna Hauschild,Anja Stengel,SCS,19,10,20,17,20,20,20,[22],8,19,175,153,20
+GER,9100,Nathalie Zeiler,Claudius Zeiler,SCLW,20,7,22,[25],22,21,23,23,10,18,191,166,21
+GER,8702,Martin Handel,Rainer Hangarter,YCL,22,[24],24,21,17,17,22,21,24,20,212,188,22
+GER,8862,Robert Wisolek,Clemens Pirker,SCLW,23,9,21,19,25,[32 DNF],32 DNS,24,11,32 DNF,228,196,23
+GER,8990,Ralf Breitenfeldt,Alexander Wilhelm,SCLW,[26],21,23,23,24,19,21,20,25,25,227,201,24
+GER,9114,Mats Westholm,Thomas Fox,SCLW,28,26,[32 DNF],24,28,22,24,27,23,24,258,226,25
+GER,8518,Achim Funk,Michael Probst,SCLW,21,25,25,26,23,[32 DNF],32 DNS,26,26,26,262,230,26
+GER,8607,Jannis Bachmann,Stephan Bachmann,ESV Ringsee,[29],27,26,29,26,24,25,25,29,27,267,238,27
+GER,8579,Peter Wackerbauer,Jochen Heydolph,RSB,27,16,27,27,[32 DNF],32 DNS,32 DNS,29,28,22,272,240,28
+GER,9046,Annika Seiffert,Andreas Seiffert,SCLA,30,23,28,28,27,23,26,[32 DNF],27,28,272,240,29
+GER,9040,Harald König,Katja Frühwald-König,SRVL-S,[32 DNC],32 DNC,32 DNC,32 DNC,32 DNF,32 DNS,32 DNS,28,30,23,305,273,30
+GER,8672,Dirk Hütten,Guido von Walter,SGR,24,28,[32 DNS],32 DNS,32 DNC,32 DNC,32 DNC,32 DNC,32 DNC,32 DNC,308,276,31
