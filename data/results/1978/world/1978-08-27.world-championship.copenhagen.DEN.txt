@@ -216,7 +216,7 @@ ENTRY LIST
 
 AUSTRALIA
 KA 5952 I.Brown, M.Burke
-KA 6211 J. D. Gilder, S.Sievewright
+KA 6211 John David Gilder, S.Sievewright
 KA 6212 A.Wangel, M.Pearson
 KA 6213 T.Kyrwood, R.Crick
 
