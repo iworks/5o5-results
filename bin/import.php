@@ -134,7 +134,7 @@ if ( 2 < count( $argv ) ) {
 	2 === count( $argv )
 		&& preg_match( '/^data\/results/', $argv[1] )
 	) {
-	$one_file = preg_replace( '@data/[^/]+/@', '', $argv[1] );
+	$one_file       = preg_replace( '@data/[^/]+/@', '', $argv[1] );
 	$import_results = true;
 }
 /**
@@ -791,10 +791,7 @@ if ( $import_results && ( $handle = fopen( $data_root . '/' . $import_config['ev
 		 */
 		$file_name = $file;
 		$file      = $data_root . '/results/' . $file;
-		if ( ! is_file( $file ) ) {
-			printf( 'NO FILE: %s - %s%s', $post_title, $file_name, PHP_EOL );
-			continue;
-		}
+		$is_file   = is_file( $file );
 		/**
 		 * Check already exists
 		 */
@@ -834,7 +831,15 @@ if ( $import_results && ( $handle = fopen( $data_root . '/' . $import_config['ev
 			remove_filter( 'iworks_fleet_result_skip_year_in_title', '__return_true' );
 		}
 		echo $post_title, PHP_EOL;
-		echo 'FILE: ' . $file_name, PHP_EOL;
+		if ( $is_file ) {
+			echo "\033[32mFILE";
+		} else {
+			echo "\033[31mNO FILE";
+		}
+		echo ': ', $file_name, "\033[0m", PHP_EOL;
+		/**
+		 * post array
+		 */
 		$post_array = array(
 			'post_name'   => sanitize_title(
 				sprintf(
@@ -881,6 +886,8 @@ if ( $import_results && ( $handle = fopen( $data_root . '/' . $import_config['ev
 			continue;
 		}
 		$post_ID = wp_insert_post( $post_array );
+		echo get_permalink( $post_ID );
+		echo PHP_EOL;
 		/**
 		 * update taxonomies
 		 */
@@ -895,7 +902,7 @@ if ( $import_results && ( $handle = fopen( $data_root . '/' . $import_config['ev
 			if ( is_file( $thumbnail_file ) ) {
 				$attach_id = 0;
 				$filename  = basename( $thumbnail_file );
-				echo PHP_EOL, 'Thumbnail: ', $filename, PHP_EOL;
+				echo 'Thumbnail: ', $filename, PHP_EOL;
 				$args      = array(
 					'post_type'      => 'attachment',
 					'post_status'    => 'inherit',
@@ -967,17 +974,19 @@ if ( $import_results && ( $handle = fopen( $data_root . '/' . $import_config['ev
 		/**
 		 * import results
 		 */
-		if ( ( $handle2 = fopen( $file, 'r' ) ) !== false ) {
-			$regatta_data = array();
-			while ( ( $d = fgetcsv( $handle2, 0, ',', '"', '\\' ) ) !== false ) {
-				$regatta_data[] = $d;
-			}
-			fclose( $handle2 );
-			if ( empty( $regatta_data ) ) {
-				echo ' - EMPTY FILE!', PHP_EOL;
-			} else {
-				echo 'Begin import, rows: ', count( $regatta_data ), PHP_EOL;
-				do_action( 'iworks_fleet_result_import_data', $post_ID, $regatta_data );
+		if ( $is_file ) {
+			if ( ( $handle2 = fopen( $file, 'r' ) ) !== false ) {
+				$regatta_data = array();
+				while ( ( $d = fgetcsv( $handle2, 0, ',', '"', '\\' ) ) !== false ) {
+					$regatta_data[] = $d;
+				}
+				fclose( $handle2 );
+				if ( empty( $regatta_data ) ) {
+					echo ' - EMPTY FILE!', PHP_EOL;
+				} else {
+					echo 'Begin import, rows: ', count( $regatta_data ), PHP_EOL;
+					do_action( 'iworks_fleet_result_import_data', $post_ID, $regatta_data );
+				}
 			}
 		}
 		echo PHP_EOL;
