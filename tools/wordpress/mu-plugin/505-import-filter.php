@@ -5465,7 +5465,7 @@ class iworks_5o5_upload_fixer {
 		'Ian Jewrey'                  => 'Ian Jewry',
 		'Ian Mc Gillivary'            => 'Ian McGillivray',
 		'Ian Mcgillivray'             => 'Ian McGillivray',
-		'Ian O'Leary'                 => 'Ian O\'Leary',
+		'Ian O’Leary'                 => 'Ian O\'Leary',
 		'Ian O.Leary'                 => 'Ian O\'Leary',
 		'Ian O\'leary'                => 'Ian O\'Leary',
 		'Ian Pinnel'                  => 'Ian Pinnell',
