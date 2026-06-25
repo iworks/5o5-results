@@ -1,1 +1,10 @@
-Country,Boat Number,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Boat Name,Points Total,Points Netto,Place
+Country,Boat Number,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Boat,Name,Points Total,Points Netto,Place
+USA,,Gary Lee,Dan Downing,,,3,,,1,,,,7,1
+USA,8904,Hubert Guy,,,,1,,,,,,,11,2
+USA,8084,Aaron Ross,Rob Waterman,,,2,1,,,,,,12,3
+USA,,,,,,,,,,,,,,
+USA,,,,,,,,,,,,,,
+USA,,,,,,,,,,,,,,
+USA,7069,Ian O'Leary,,,,OCS 10,,,,,,,,
+USA,6931,Stine Cacavas,Bill McKinney,,,,,2,,,,,,
+USA,6991,Amy Huebner,Channing Hamlet,,,,,1,,,,,,
