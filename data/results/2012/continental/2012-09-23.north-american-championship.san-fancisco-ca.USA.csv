@@ -1,0 +1,32 @@
+Country,Boat Number,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Race 7,Race 8,Race 9,Race 10,Race 11,Boat Name,Points Total,Points Netto,Place
+USA,8913,Tyler Moore,Rob Woelfel,HYC/WYC/CYC/,1,4,3,1,4,[7],2,1,3,1,[6],Moore Trouble,,20,1
+USA,8714,Mike Martin,Jesse Falsone,Newport Harbor Yacht Club/,2,3,[13],3,2,2,[8],3,1,5,1,black boat,,22,2
+USA,9080,Howard Hamlin,Andy Zinn,NHYC/,5,2,[6],2,1,3,5,2,2,[6],3,Grey Boat,,25,3
+USA,9002,Mike Holt,Dave Shelton,Santa Cruz YC/,3,1,[5],[5],5,1,4,5,4,2,2,IO Integration,,27,4
+USA,8815,Dalton Bergan,Fritz Lanzinger,Seattle Yacht Club/,4,[5],4,4,3,4,[6],4,5,4,4,Lanzinger,,36,5
+AUS,8842,Peter Nicholas,Luke Payne,Royal Freshwater Bay YC/,[7],6,2,6,6,5,1,7,6,7,[18],Fligfisk,,46,6
+USA,8681,Ryan Cox,Stuart Park,TISC/,9,7,[20],8,11,6,3,6,[19],3,5,Park Miller LLC,,58,7
+USA,9082,Jeff Miller,Mike Smith,SCYC/,12,[17],1,[18],7,9,13,9,7,11,7,Miracle,,76,8
+USA,8808,Augie Diaz,Parry Barclay,Coral Reef Yacht Club/,8,8,11,[13],8,8,[12],11,8,8,9,Danilu,,79,9
+USA,8631,Paul Allen,Skip McCormack,Santa Cruz YC/,11,9,[12],10,9,11,[21],10,9,9,8,,,86,10
+USA,8824,Jen Glass,Ben Glass,SYC/StFYC/,6,12,9,12,10,[32/DNF],9,13,12,[14],11,Black Betty,,94,11
+USA,9041,Henry Amthor,Dustin Romey,Hampton YC/,14,10,7,[17],[17],13,11,17,17,12,10,Amthor/Romey,,111T,12
+USA,9042,JB Turney,Ned Turney,Chautauqua/,10,16,[21],11,[18],10,14,12,10,16,12,Stimulus Package,,111T,13
+CAN,8192,Philip Cragg,Reto Corfu,royal vancouver yacht club/KYC/,13,15,10,[19],15,14,10,[22],14,10,16,,,117,14
+USA,8930,Ted Ferrarone,Simon Gerson,Larchmont YC/,15,18,8,7,[21],18,16,15,[21],18,14,,,129T,15
+USA,8762,Jeffrey Condon,Reeve Dunne,Newport Harbor/,18,13,15,9,13,12,18,[26],18,13,[32/DNF],Mr Pink,,129T,16
+USA,8818,Pierre Jeangirard,Paul Vongrey,Bishop yacht club/,17,11,[32/DNS],14,12,15,17,16,[32/DNF],15,32/DNF,,,149T,17
+USA,8970,Doug Hagen,Rich Mundell,RVicYC/,16,14,23,16,16,16,15,14,[32/DNF],19,[32/DNF],,,149T,18
+USA,9091,Edward Conrads,Brian Haies,St Francis/,[32/DNC],[32/DNS],14,15,32/DNF,32/DNS,7,8,11,17,19,IBIWCYHI,,155,19
+USA,8878,AJ Crane,Blaine Pedlow,St. Francis Yacht Club/,20,19,17,[32/DNF],19,19,[23],18,13,23,13,IBIGCYHI,,161,20
+USA,8084,Rob Waterman,Aaron Ross,Alamitos Bay Yacht Club/,21,21,[22],22,14,17,[24],20,15,21,17,88th Planet,,168,21
+USA,8616,Lee Laney,Rowan Yerxa,CYC/ Fairhaven Community Boating/,19,22,18,25,20,22,19,19,20,[32/DNF],[32/DNS],Mancation,,184,22
+USA,8821,Katherine Long,Stephen Long,Chicago Corinthian YC/,24,20,16,21,[32/DNF],[32/DNS],22,25,25,22,20,Bubbles,,195,23
+USA,8*,Holt Condon,Pat Diola,St Francis YC/,[32/DNC],[32/DNC],32/DNC,32/DNC,32/DNC,32/DNC,20,21,16,20,15,Lightning Rod,,220,24
+USA,9027,Hubert Guy,Frédéric Courouble,abyc/,[32/DNC],[32/DNS],24,20,22,20,25,23,23,32/DNC,32/DNC,,,221,25
+USA,8937,Tim Murphy,Michael Jue,Tim Murphy/,22,24,25,24,23,21,26,29,28,[32/DNC],[32/DNC],8937,,222,26
+USA,7110,Ryan Nelson,Luther Strayer,Alameda WEst Marine/,25,25,26,26,[32/DNS],[32/DNS],27,30,27,25,21,,,232,27
+USA,8829,Eben Russell,Dave Parker,none/,23,23,19,[32/DNS],[32/DNS],32/DNS,32/DNC,32/DNC,32/DNC,32/DNC,32/DNC,,,257,28
+USA,6992,Steve Kleha,Matt Foster,TISC/,[32/DNC],[32/DNC],32/DNC,23,32/DNF,32/DNS,32/DNS,24,22,32/DNF,32/DNF,Loco Rooster,,261,29
+USA,7069,Christopher O'Leary,James DeWolfe,"B,Y,C/St F/",[32/DNC],[32/DNF],32/DNS,32/DNS,32/DNS,32/DNS,32/DNS,28,24,24,32/DNS,tiburon,,268,30
+USA,8908,Antoine Laussu,Alexandre Laussu,PSSA/,[32/DNC],[32/DNF],32/DNF,32/DNS,32/DNS,32/DNS,28,27,26,32/DNF,32/DNS,,,273,31
