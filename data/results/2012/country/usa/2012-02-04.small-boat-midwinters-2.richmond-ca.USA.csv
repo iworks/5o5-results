@@ -1,10 +1,10 @@
 Country,Boat Number,Helm,Crew,Club,Race 1,Race 2,Race 3,Points Netto,Place
-USA,9002,Mike Holt,Rob Woefel ,,1,1,2,4,1
+USA,9002,Mike Holt,Rob Woefel,,1,1,2,4,1
 CAN,8970,Bob Tennant,Rich Mundel,,2,2,1,5,2
 USA,9009,Bruce Edwards,David Shelton,,5,3,DNF 10,18,3
 USA,8915,Hasso Plattner,Peter Alarie,,3,5,DNF 10,18,4
-USA,9082,Jeff Miller ,Mike Smith,,4,6,DNF 10,20,5
-USA,,Geoff Gales,Julien Marcil ,,7,4,DNF 10,21,6
+USA,9082,Jeff Miller,Mike Smith,,4,6,DNF 10,20,5
+USA,,Geoff Gales,Julien Marcil,,7,4,DNF 10,21,6
 USA,,Mr. O'Leary,,,6,8,DNF 10,24,7
 USA,,Ryan Nelson,,,8,7,DNF 10,25,8
 USA,8841,Holt Condon,,,DNS 10,9,DNF 10,29,9

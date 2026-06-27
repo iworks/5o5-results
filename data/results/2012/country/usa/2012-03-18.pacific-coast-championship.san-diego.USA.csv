@@ -1,18 +1,18 @@
 Country,Boat Number,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Boat Name,Points Total,Points Netto,Place
-USA,9080,Howard Hamlin  ,,NHYC  ,1,1,2,1,1,Lightweight Bog  ,,6,1
-USA,8878,Edward Conrads,,st. francis  ,2,2,1,2,2,IBIWCYHI  ,,9,2
-USA,8554,Alexandra Crane  ,,St. Francis Yacht Club  ,4,4,5,4,5,Big Green  ,,22,3
-USA,8762,Jeffrey Condon  ,,NHYC  ,8,6,4,5,4,Mr Pink  ,,27,4
-USA,9002,Mike Holt  ,,Santa Cruz YC  ,3,3,3,18/DNF  ,18/DNF  ,IO Integration  ,,45,5
-CAN,8970,Robert Tennant  ,,RVYC  ,9,18/DNF  ,18/DNC  ,3,3,8970,,51,6
-USA,9082,Jeff Miller  ,,SCYC  ,7,5,7,18/DNC  ,18/DNC  ,Green Flash  ,,55,7
-USA,7152,Gary Lee  ,,MBYC  ,6,9,6,18/DNC  ,18/DNC  ,Team Olde Age  ,,57,8
-USA,7201,John Billings  ,,MBYC  ,5,11,9,18/DNF  ,18/DNF  ,Lobster for Dinner  ,,61T  ,9
-USA,8084,Robert Waterman  ,,ABYC  ,10,7,8,18/DNC  ,18/DNC  ,88th Planet  ,,61T  ,10
-CAN,8755,Brian Trainor  ,,Kitsilano YC  ,11,8,10,18/DNC  ,18/DNC  ,Banshee  ,,65,11
-USA,6931,Bill McKinney  ,,MBYC  ,18/DNS  ,10,11,18/DNC  ,18/DNC  ,Fever Pitch  ,,75,12
-USA,7069,Christopher O'Leary  ,,BYC  ,18/DNC  ,18/DNC  ,18/DNC  ,18/DNC  ,18/DNC  ,Tiburon  ,,90T  ,13
-USA,8965,Hubert Guy  ,,ABYC  ,18/DNC  ,18/DNC  ,18/DNC  ,18/DNC  ,18/DNC  ,Enigma  ,,90T  ,13
-USA,8831,Taylor Vongrey  ,,WINSA  ,18/DNC  ,18/DNC  ,18/DNC  ,18/DNC  ,18/DNC  ,Red Boat  ,,90T  ,13
-USA,6991,Channing Hamlet  ,,MBYC  ,18/DNC  ,18/DNC  ,18/DNC  ,18/DNC  ,18/DNC  ,USA 6991  ,,90T  ,13
-USA,8559,Holt Condon  ,,StFYC  ,18/DNC  ,18/DNC  ,18/DNC  ,18/DNC  ,18/DNC  ,8559,,90T  ,13
+USA,9080,Howard Hamlin,,NHYC,1,1,2,1,1,Lightweight Bog,,6,1
+USA,8878,Edward Conrads,,st. francis,2,2,1,2,2,IBIWCYHI,,9,2
+USA,8554,Alexandra Crane,,St. Francis Yacht Club,4,4,5,4,5,Big Green,,22,3
+USA,8762,Jeffrey Condon,,NHYC,8,6,4,5,4,Mr Pink,,27,4
+USA,9002,Mike Holt,,Santa Cruz YC,3,3,3,18/DNF,18/DNF,IO Integration,,45,5
+CAN,8970,Robert Tennant,,RVYC,9,18/DNF,18/DNC,3,3,8970,,51,6
+USA,9082,Jeff Miller,,SCYC,7,5,7,18/DNC,18/DNC,Green Flash,,55,7
+USA,7152,Gary Lee,,MBYC,6,9,6,18/DNC,18/DNC,Team Olde Age,,57,8
+USA,7201,John Billings,,MBYC,5,11,9,18/DNF,18/DNF,Lobster for Dinner,,61T,9
+USA,8084,Robert Waterman,,ABYC,10,7,8,18/DNC,18/DNC,88th Planet,,61T,10
+CAN,8755,Brian Trainor,,Kitsilano YC,11,8,10,18/DNC,18/DNC,Banshee,,65,11
+USA,6931,Bill McKinney,,MBYC,18/DNS,10,11,18/DNC,18/DNC,Fever Pitch,,75,12
+USA,7069,Christopher O'Leary,,BYC,18/DNC,18/DNC,18/DNC,18/DNC,18/DNC,Tiburon,,90T,13
+USA,8965,Hubert Guy,,ABYC,18/DNC,18/DNC,18/DNC,18/DNC,18/DNC,Enigma,,90T,13
+USA,8831,Taylor Vongrey,,WINSA,18/DNC,18/DNC,18/DNC,18/DNC,18/DNC,Red Boat,,90T,13
+USA,6991,Channing Hamlet,,MBYC,18/DNC,18/DNC,18/DNC,18/DNC,18/DNC,USA 6991,,90T,13
+USA,8559,Holt Condon,,StFYC,18/DNC,18/DNC,18/DNC,18/DNC,18/DNC,8559,,90T,13
