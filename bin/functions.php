@@ -75,6 +75,14 @@ function get_person_by_name( $name ) {
 }
 
 function person_clear_name( $name ) {
+	/**
+	 * replaced ‑ (char code 8209) with - (char code 45)
+	 * https://github.com/iworks/5o5-results/pull/7 props for https://github.com/finnboeger
+	 */
+	$name = preg_replace( '/‑/', '-', $name );
+	/**
+	 * trim white spaces
+	 */
 	$name      = preg_replace( '/[  \t]+/', ' ', $name );
 	$name      = preg_replace( '/[  \t]+/', ' ', $name );
 	$name      = preg_replace( '/[\d\s\h\v\'\-`"\,\.–]+$/', '', $name );
