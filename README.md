@@ -32,4 +32,4 @@ I will thank those people (ordered by time).
 * **[Adam Wolnikowski](https://github.com/AWoLnik)** - the first push request contributor!
 * **[bartekch](https://github.com/bartekch)** - push request contributor!
 * **Marco Giraldi** provided TransAlp cup rankings: 2010-2012
-* **[Finn Böger](https://github.com/finnboeger Finn Böger)** - push request contributor!
+* **[Finn Böger](https://github.com/finnboeger)** - push request contributor!
