@@ -7033,8 +7033,6 @@ class iworks_5o5_upload_fixer {
 		'Sicot Xavier'                => 'Xavier Sicot',
 		'Silvestre Christian'         => 'Christian Silvestre',
 		'Simon Bridon'                => 'Simon Briddon',
-		'Simon Hiscocks'              => 'Simon Hiscook',
-		'Simon Hiscooks'              => 'Simon Hiscook',
 		'Simon J Lake'                => 'Simon Lake',
 		'Simon J. Lake'               => 'Simon Lake',
 		'Simon J.Lake'                => 'Simon Lake',
