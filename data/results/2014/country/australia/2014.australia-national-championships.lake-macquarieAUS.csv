@@ -1,2 +1,26 @@
-Country,Boat NO,Helm,Crew,Club,Race 1,Total,Place
-AUS,,Michael Babbage,James McAllister,NSW (Lake Macquarie),,,1
+Place,Sail No,Boat Name,Skipper,Crew,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Race 7,Race 8,Race 9,Race 10,Race 11,Total
+1,8794,ALVIN RIDES AGAIN,Michael Babbage,James McAllister,1.0,4.0,1.0,5.0,3.0,[6.0],2.0,5.0,1.0,2.0,[9.0],24
+2,9036,STRIFE,Michael Quirk,Shane Guanaria,4.0,2.0,2.0,1.0,[6.0],3.0,1.0,1.0,[26.0C],5.0,6.0,25
+3,8957,ALARM INNOVATIONS,Kevin Cameron,Sam Heritage,2.0,[7.0],5.0,2.0,5.0,2.0,3.0,2.0,2.0,[10.0],5.0,28
+4,8893,YEAH BUDDY,Ryan Menzies,Nathan Quirk,3.0,1.0,4.0,4.0,[8.0],[5.0],5.0,3.0,3.0,3.0,4.0,30
+5,8626,SWING STEER & SWEAR,Haylee Outteridge,Nathan Outteridge,[7.0],3.0,7.0,6.0,1.0,1.0,[8.0],4.0,7.0,1.0,1.0,31
+6,8920,ASAP,Jeffrey Robinson,Joel Castle,[8.0],5.0,3.0,[7.0],4.0,4.0,7.0,6.0,5.0,6.0,7.0,47
+7,8796,THE RIBWICH,Dean Souter,,6.0,8.0,[11.0],9.0,9.0,7.0,4.0,[26.0C],8.0,8.0,3.0,62
+8,8341,THE BLUES,Grahame Prosser,Kane Sinclair,5.0,13.0,8.0,3.0,7.0,10.0,6.0,[26.0C],[26.0C],15.0,2.0,69
+9,8877,GENERAL LEE,Amy Lee,Justin Mulkearns,[14.0],11.0,[16.0],10.0,2.0,8.0,11.0,13.0,12.0,4.0,10.0,81
+10,8781,ALEXANDER & ASSOC,Earle Alexander,,[12.0],10.0,9.0,12.0,12.0,[15.0],12.0,9.0,6.0,11.0,8.0,89
+11,9022,HIT THE JACKPOT,Ian Burford,,13.0,9.0,10.0,11.0,[14.0],9.0,13.0,10.0,[15.0],7.0,11.0,93
+12,8738,FLUID BUILDING,Wade Croak,,10.0,12.0,[18.0],[18.0],11.0,11.0,14.0,8.0,4.0,12.0,13.0,95
+13,8637,BLOWFLIES,Sam Cronin,,[18.0],17.0,17.0,13.0,10.0,[19.0],10.0,11.0,9.0,13.0,12.0,112
+14,8886,BACK IN BLACK,John Paterson,,11.0,[26.0C],13.0,17.0,17.0,[20.0],15.0,16.0,11.0,14.0,14.0,128
+15,8922,TWENTY - ONE,Brett Bowden,,[17.0],16.0,15.0,[22.0],15.0,12.0,16.0,14.0,10.0,17.0,15.0,130
+16,8557,WHATEVER,Neil Long,,[26.0C],[26.0C],12.0,15.0,13.0,13.0,9.0,7.0,26.0C,26.0C,26.0C,147
+17,8639,S&M;,David Johnson,,16.0,14.0,14.0,[19.0],[23.0],16.0,19.0,19.0,14.0,18.0,17.0,147
+18,8628,GRUMPY OLD MEN,Peter Croft,,[20.0],15.0,[21.0],20.0,16.0,14.0,20.0,15.0,13.0,19.0,18.0,150
+19,8810,GO,Cullen Hughes,,9.0,6.0,6.0,8.0,18.0,[26.0S],[26.0C],26.0C,26.0C,26.0C,26.0C,151
+20,8682,GO TO RED,Richard Hyde,,19.0,19.0,[22.0],14.0,20.0,21.0,18.0,18.0,[26.0C],9.0,19.0,157
+21,8739,SHOW ME THE MONEY,John McLean,,[26.0C],18.0,19.0,16.0,19.0,17.0,23.0,17.0,16.0,20.0,[26.0C],165
+22,8710,MANALIVE,Michael Gallagher,,15.0,20.0,23.0,21.0,22.0,22.0,17.0,12.0,[26.0C],[26.0C],26.0C,178
+23,8524,5OH MAGIC,Steve Howden,,[26.0C],[26.0C],20.0,24.0,21.0,18.0,21.0,26.0C,26.0C,16.0,16.0,188
+24,7285,WIFE SAYS SELL,Mike Whitmore,John Hillcoat,21.0,21.0,[24.0],23.0,[24.0],23.0,22.0,20.0,17.0,21.0,20.0,188
+25,8349,A CUNNING PLAN,Sarah Macarthur-King,John McArthur-King,22.0,22.0,25.0,25.0,25.0,[26.0F],24.0,21.0,[26.0C],22.0,21.0,207
