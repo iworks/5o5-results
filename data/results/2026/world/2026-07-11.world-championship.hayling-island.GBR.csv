@@ -1,5 +1,5 @@
 Country,Boat,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Race 7,Race 8,Race 9,Race 10,Points,Netto,Place
-GER,9251,Jan-Philipp Hofmann,Felix Bj�rn Brockerhoff,DYC,4,2,1,4,1,2,2,1,[91 DNC],[91 DNC],199,17,1
+GER,9251,Jan-Philipp Hofmann,Felix Björn Brockerhoff,DYC,4,2,1,4,1,2,2,1,[91 DNC],[91 DNC],199,17,1
 USA,9262,Howard Hamlin,Andrew Zinn,NHYC - ABYC,7,[56],7,2,2,3,3,[11],4,11,106,39,2
 GBR,9274,Paul Brotherton,James Fawcett,Etherow Country Park / HISC,13,1,8,14,[38],4,1,2,1,[91 DSQ],173,44,3
 AUS,8801,Peter Nicholas,Luke Payne,"RFBYC, GKSS, EFyC",1,[41],3,11,9,5,[13],3,13,2,101,47,4
@@ -9,83 +9,83 @@ GBR,9283,Ian Pinnell,Robert Woelfel,Hayling Island SC,8,5,6,7,10,14,22,[36],[61]
 GBR,8935,Craig Burlton,Richard Anderton,Royal Southern,[22],11,16,9,3,12,16,7,10,[25],131,84,8
 USA,9266,Mike Holt,Carl Smit,Santa Cruz Yacht Club,3,6,2,5,15,23,14,[42],[51],21,182,89,9
 GBR,9093,Harvey Hillary,Archie Massey,Itchenor,11,13,15,[25],14,22,4,4,[29],7,144,90,10
-FRA,9270,Brian Haines,Edward Conrads,Cvsq,17,[54],[27],18,7,20,9,9,8,4,173,92,11
-USA,9228,Michael Quirk,Tim Needham,Tahoe Yacht Club,[26],7,[18],16,4,18,15,10,14,16,144,100,12
-GER,9260,Stefan K�chlin,Andr�as Achterberg,HSC,30,12,24,[33],22,7,[63],6,2,5,204,108,13
-AUS,9263,Malcolm Higgins,Nicholas Johnston,Cncb,9,3,4,1,[43],13,25,23,32,[91 DNF],244,110,14
-GER,9275,Alexander Ham,Warwick Ham,SVS,14,18,11,15,[24],11,18,15,[53],12,191,114,15
-AUS,9278,Andy Smith,Jonny Mildred,BSYC,2,20,9,3,16,8,38,[41],[48],23,208,119,16
-RSA,8725,Michael Sims,Carl Gibbon,Pretoria Sailing Club,[33],10,[30],26,13,16,20,8,16,10,182,119,17
-GBR,9088,Robert Gullan,Paul Childs,Northampton SC,[32],32,[41],28,32,6,6,5,6,9,197,124,18
-GBR,9246,Douglas Hagan,Nalu Ho,Burton,6,14,14,8,18,19,[91 RET],13,34,[91 DNF],308,126,19
-GBR,9232,Alexander Holzapfel,Arne Wittemer,Hayling Island SC,5,[61],13,13,37,10,31,20,[45],14,249,143,20
-USA,9252,Ben McGrane,James Ross,PCYC,15,[58],10,21,5,17,24,[54],21,36,261,149,21
-GER,9258,Michael Daisenberger,Johannes Tellen,Post-Sportverein Koblenz,25,22,17,[91 RET],8,33,8,27,[37],17,285,157,22
-GBR,9039,Simon Potts,Rob Allen,Hayling Island SC/Netley SC,23,[57],[31],17,20,21,27,28,12,13,249,161,23
-GER,9198,Caroline Jacot,Philippe Jacot,DTYC,19,[28],26,19,19,24,[30],16,17,22,220,162,24
-GBR,9285,Mike Punnett,Alex Davies,Burghfield SC / Netley SC / Salcombe YC,27,[60],19,12,25,29,49,[91 DNF],15,3,330,179,25
-SUI,9267,Robert Tennant,Stephen Bourdow,CNB,31,8,[52],[43],23,42,28,21,11,20,279,184,26
-USA,9247,Steve Quigley,Jarrod Simpson,Penn Cove Yacht Club,20,9,23,[42],21,26,36,32,[59],31,299,198,27
-SWE,8926,Peter Funke,Thomas Funke,Malarhojdens KS [MKS],34,35,28,37,6,40,17,[48],5,[91 DNF],341,202,28
-GER,9281,David Snoad,Heath Belton,VSaW/SCV,[35],[40],29,32,29,28,11,26,22,29,281,206,29
-CAN,9207,Peter Colclough,Alister Morley,Royal Victoria Yacht Club,21,39,20,20,41,[44],[76],38,23,15,337,217,30
-GBR,9277,Mark Stowell,Brandon Hargeaves,Hayling Island SC,40,37,35,29,[59],31,26,29,9,[41],336,236,31
-RSA,8955,Henrik Schade,Sebastian Wiemer,PYC/Aeolians,28,29,[36],[38],35,30,32,33,31,19,311,237,32
-SWE,9181,Terry Scutcher,Daniel Martin,Bkss,55,48,[91 DNF],[91 DNC],36,27,29,14,18,18,427,245,33
-AUS,9194,Pierre Jeangirard,Paul von Grey,Largs Bay SC,18,17,25,22,47,38,[69],45,[60],42,383,254,34
-GBR,9253,Tom Jeffcoate,Tim Hartley,Salcombe YC,39,26,[51],31,17,46,[60],43,26,27,366,255,35
-AUS,9269,Nigel Lott,Harry Moffatt,RFBYC,[48],23,[55],46,31,45,21,17,42,40,368,265,36
-GER,9268,Alexander Swade,Patrick Treichel,Wassersportverein Wulsdorf e.V.,36,16,21,30,28,15,[65],59,[63],63,396,268,37
-GBR,9124,Nicola Birkner,Angela Stenger,Shotley SC,41,44,38,27,33,[82],19,39,28,[47],398,269,38
-GER,9185,Martin Fridh,Tore Reinhold,SCV / RCR,24,25,22,48,62,36,[71],22,[64],30,404,269,39
-USA,9179,Tim Penfold,Matthew Alvarado,PCYC,[91 DNF],[91 DNF],32,53,50,39,10,24,38,35,463,281,40
-GBR,9177,Mirco Gantenberg,Jacob Niewiarra,Chew Valley Lake SC,43,19,44,35,[66],52,[61],25,39,34,418,291,41
-FRA,9147,Nicholas Meadow,Scott Dawson,Yacht Club �le de France,53,[69],48,45,39,34,5,19,[77],51,440,294,42
-AUS,9257,Andy Carter,Keith Summersgill,DPSS,[60],24,47,49,58,25,[79],46,20,32,440,301,43
-GER,9182,Andy Wilde,Harry Briddon,DYC,37,[74],34,24,49,35,58,40,27,[59],437,304,44
-GER,9197,Samuel Goult,Alexander Brown,VSaW,[67],65,[71],54,30,43,23,30,41,24,448,310,45
-SWE,9171,Holly Mitchell,Adam Aziz,BKSS/LBS,47,15,40,[56],51,48,[56],49,25,37,424,312,46
-GBR,8881,Jim Blyth,Darrel Samanjoul,Hayling Island SC,[91 DNF],[91 DNF],43,36,27,49,66,35,43,26,507,325,47
-GER,8750,Aled Llewellyn-Jones,Arthur Bailey,Segel-Club Hattingen,29,33,39,39,60,32,42,[70],[69],58,471,332,48
-GBR,8991,Jimmy Franzone,Bjorn Antell,Warsash SC,45,49,33,40,42,50,[72],44,49,[70],494,352,49
-GER,9131,Johnny Costard,Simon Childs,MSC/HSC,44,42,49,[58],40,54,37,56,33,[67],480,355,50
-GBR,8857,Drew Scott,Tayo Scott,Leigh and Lowton,[91 DNF],[91 DNF],65,75,26,47,40,34,24,53,546,364,51
-GBR,9104,Philippe Lucienne,Vivien Lucienne,Ogston SC,12,38,[91 DNF],23,[80],58,46,63,73,56,540,369,52
-SWE,9143,N�rbert Dasenbrook,Oliver Stieglitz,Royal Swedish Yacht Society,56,[68],[68],51,34,41,47,53,50,43,511,375,53
-GBR,8708,Terry Curtis,Peter Greig,FPSC,[66],51,60,57,[67],53,44,51,40,28,517,384,54
-GBR,8964,Louis Radier,Arthur Radier,Hayling Island SC,38,55,46,62,54,[65],50,31,[71],49,521,385,55
-GBR,9236,"Alexander ""Ali"" Meller",Devlin Lovshin,Largo Bay,[91 DNF],21,53,55,61,61,[64],52,46,46,550,395,56
-GBR,8970,Elisabeth Neidhart,Pierre-Jean Gallo,Oxford Sailing Club,50,[91 DNF],42,44,64,56,39,[73],54,54,567,403,57
-USA,9210,Martin Wedge,Graham Elliott,St Francis Yacht Club,63,[91 DNF],57,41,74,60,[80],50,30,33,579,408,58
-GBR,9203,Neville Herbert,Lewis Fowler,Hayling Island SC,49,[91 DNF],72,[91 DNC],44,51,34,76,19,73,600,418,59
-RSA,9071,Pierre Gorremans,Jean Gorremans,KNYSNA YACHT CLUB,61,[70],67,64,[70],37,57,37,35,60,558,418,60
-FRA,9031,Loic Bleuez Bleuez,Franck Agrapart,SRC Sud Oise,[73],36,58,66,[72],67,45,61,36,62,576,431,61
-GER,9169,Paul Gorremans,Capaie Wauka,NRV,59,45,37,52,69,57,43,[82],[74],71,589,433,62
-GER,9234,Ben Townsend,Ed Richardson,KSW,54,52,70,50,52,[73],[74],60,44,52,581,434,63
-GBR,8378,Miles Odell,Andrew Streeter,Castle Cove SC,58,30,62,59,[77],70,33,55,[76],74,594,441,64
-FRA,8553,Nicolas Guillou,Nicolas Radier,ASPTT VOILE LA ROCHELLE,51,50,54,65,46,55,[75],[80],70,50,596,441,65
-CAN,9200,Murray Gilbert,Lindsay Gilbert,Kingston Yacht Club,42,43,45,47,55,77,73,65,[91 DNF],[91 DNC],629,447,66
-FRA,9219,Keith McQuillin,John Driscoll,YCIF,57,34,56,60,56,66,51,68,[79],[76],603,448,67
-GBR,9261,Anne Fitzpatrick,Christian Pittack,UK 505 Association,62,59,59,71,48,[84],[81],58,62,38,622,457,68
-GBR,9036,Christian Henge,Katja Henge,Lymington Town Sailing Club,[74],46,66,69,45,71,35,58 RDGa1-7,[75],68,607,458,69
-BEL,9163,Tom Hastenpflug,Knut Hastenpflug,Zeilclub NLM,65,[76],[69],61,53,62,62,67,55,39,609,464,70
-FRA,9075,Stuart Doe,Phill Newsom,ANSM,69,47,[91 DNC],74,57,[81],41,69,47,61,637,465,71
-BEL,9121,Chris Turner,Colin Parke,NLM,[70],64,[82],63,65,64,53,66,52,44,623,471,72
-FRA,9221,Andr�as Jungclaus,Katharina Menge,CN Vassivi?re,[77],31,[75],68,63,68,59,75,68,48,632,480,73
-GBR,8514,Steve Culpitt,Mark Nicholson,Emsworth Sailing Club,46,63,50,34,[82],79,82,[87],78,64,665,496,74
-BEL,9081,Philip Brown,Gareth Thomas/Martin Spence,RCNV,[75],71,73,67,68,[80],55,62,56,45,652,497,75
-GBR,9168,Richard Gibb,Matthew Gibb,Hayling & Northampton,52,75,[84],[91 DNC],71,63,67,64,66,55,688,513,76
-FRA,9045,Gary Fowler,Joe/Sam Fowler,Sport Nautique et Plaisance du Havre,68,27,80,73,[83],69,68,57,72,[91 DNC],688,514,77
-AUS,9225,Martin Spence,Peter Cowley,Sandgate Yacht Club,72,66,64,70,75,[76],54,[83],65,57,682,523,78
-GBR,8749,,,Spinnaker Sailing Club,81,62,77,76,[86],[83],52,47,67,69,700,531,79
-USA,8867,,,PCYC,64,53,[79],[79],79,72,77,78,57,77,715,557,80
-GER,8932,,,WeiSe E.V.,79,73,[91 DNF],78,[84],78,70,72,58,72,755,580,81
-SWE,9092,,,Segels�llskapet ?m?lsviken,82,77,61,81,76,[91 DNC],48,74,[91 DNF],91 DNC,772,590,82
-GBR,8423,,,Thorney Island Sailing Club,71,67,63,72,[85],[86],84,79,82,75,764,593,83
-GBR,9238,,,Hayling Island SC,80,79,76,77,78,59,[86],[84],83,66,768,598,84
-GER,6815,,,Hamburger Segel-Club,78,[91 DNF],74,[82],73,75,78,77,80,65,773,600,85
-GBR,8511,,,Hayling Island SC,76,78,78,80,81,74,83,71,[91 DNC],[91 DNC],803,621,86
-GBR,8383,,,Weston SC,84,80,[91 DNF],[91 DNF],87,85,85,81,81,78,843,661,87
-GBR,7144,,,Weston SC,83,82,83,84,[89],[87],87,85,85,79,844,668,88
-GBR,8793,,,Hunt's SC,85,81,81,83,[88],[88],88,86,84,80,844,668,89
-GBR,8591,,,USSC,[91 DNC],[91 DNC],91 DNC,91 DNC,91 DNC,91 DNC,91 DNC,91 DNC,91 DNC,91 DNC,910,728,90
+FRA,9270,Philippe Boite,Timothée Chiron,Cvsq,17,[54],[27],18,7,20,9,9,8,4,173,92,11
+USA,9228,Brian Haines,Edward Conrads,Tahoe Yacht Club,[26],7,[18],16,4,18,15,10,14,16,144,100,12
+GER,9260,Tim Böger,Finn Böger,HSC,30,12,24,[33],22,7,[63],6,2,5,204,108,13
+AUS,9263,Michael Quirk,Tim Needham,Cncb,9,3,4,1,[43],13,25,23,32,[91 DNF],244,110,14
+GER,9275,Stefan Köchlin,Andréas Achterberg,SVS,14,18,11,15,[24],11,18,15,[53],12,191,114,15
+AUS,9278,Malcolm Higgins,Nicholas Johnston,BSYC,2,20,9,3,16,8,38,[41],[48],23,208,119,16
+RSA,8725,Alexander Ham,Warwick Ham,Pretoria Sailing Club,[33],10,[30],26,13,16,20,8,16,10,182,119,17
+GBR,9088,Andy Smith,Jonny Mildred,Northampton SC,[32],32,[41],28,32,6,6,5,6,9,197,124,18
+GBR,9246,Michael Sims,Carl Gibbon,Burton,6,14,14,8,18,19,[91 RET],13,34,[91 DNF],308,126,19
+GBR,9232,Robert Gullan,Paul Childs,Hayling Island SC,5,[61],13,13,37,10,31,20,[45],14,249,143,20
+USA,9252,Douglas Hagan,Nalu Ho,PCYC,15,[58],10,21,5,17,24,[54],21,36,261,149,21
+GER,9258,Alexander Holzapfel,Arne Wittemer,Post-Sportverein Koblenz,25,22,17,[91 RET],8,33,8,27,[37],17,285,157,22
+GBR,9039,Ben McGrane,James Ross,Hayling Island SC / Netley SC,23,[57],[31],17,20,21,27,28,12,13,249,161,23
+GER,9198,Michael Daisenberger,Johannes Tellen,DTYC,19,[28],26,19,19,24,[30],16,17,22,220,162,24
+GBR,9285,Simon Potts,Rob Allen,Burghfield SC / Netley SC / Salcombe YC,27,[60],19,12,25,29,49,[91 DNF],15,3,330,179,25
+SUI,9267,Caroline Jacot,Philippe Jacot,CNB,31,8,[52],[43],23,42,28,21,11,20,279,184,26
+USA,9247,Mike Punnett,Alex Davies,Penn Cove Yacht Club,20,9,23,[42],21,26,36,32,[59],31,299,198,27
+SWE,8926,Ebbe Rosén,Olle Wenrup,Malarhojdens KS (MKS),34,35,28,37,6,40,17,[48],5,[91 DNF],341,202,28
+GER,9281,Stefan Giesler,Frank Böhm,VSaW/SCV,[35],[40],29,32,29,28,11,26,22,29,281,206,29
+CAN,9207,Robert Tennant,Stephen Bourdow,Royal Victoria Yacht Club,21,39,20,20,41,[44],[76],38,23,15,337,217,30
+GBR,9277,Steve Quigley,Jarrod Simpson,Hayling Island SC,40,37,35,29,[59],31,26,29,9,[41],336,236,31
+RSA,8955,Peter Funke,Thomas Funke,PYC/Aeolians,28,29,[36],[38],35,30,32,33,31,19,311,237,32
+SWE,9181,Malin Broberg,Johan Röök,Bkss,55,48,[91 DNF],[91 DNC],36,27,29,14,18,18,427,245,33
+AUS,9194,David Snoad,Heath Belton,Largs Bay SC,18,17,25,22,47,38,[69],45,[60],42,383,254,34
+GBR,9253,Peter Colclough,Alister Morley,Salcombe YC,39,26,[51],31,17,46,[60],43,26,27,366,255,35
+AUS,9269,Mark Stowell,Brandon Hargeaves,RFBYC,[48],23,[55],46,31,45,21,17,42,40,368,265,36
+GER,9268,Henrik Schade,Sebastian Wiemer,Wassersportverein Wulsdorf e.V.,36,16,21,30,28,15,[65],59,[63],63,396,268,37
+GBR,9124,Terry Scutcher,Daniel Martin,Shotley SC,41,44,38,27,33,[82],19,39,28,[47],398,269,38
+GER,9185,Stefan Böhm,Gerald Roos,SCV / RCR,24,25,22,48,62,36,[71],22,[64],30,404,269,39
+USA,9179,Pierre Jeangirard,Paul von Grey,PCYC,[91 DNF],[91 DNF],32,53,50,39,10,24,38,35,463,281,40
+GBR,9177,Tom Jeffcoate,Tim Hartley,Chew Valley Lake SC,43,19,44,35,[66],52,[61],25,39,34,418,291,41
+FRA,9147,Hervé de Kergariou,Valentin Dechauffour,Yacht Club Île de France,53,[69],48,45,39,34,5,19,[77],51,440,294,42
+AUS,9257,Nigel Lott,Harry Moffatt,DPSS,[60],24,47,49,58,25,[79],46,20,32,440,301,43
+GER,9182,Alexander Swade,Patrick Treichel,DYC,37,[74],34,24,49,35,58,40,27,[59],437,304,44
+GER,9197,Nicola Birkner,Angela Stenger,VSaW,[67],65,[71],54,30,43,23,30,41,24,448,310,45
+SWE,9171,Martin Fridh,Tore Reinhold,BKSS/LBS,47,15,40,[56],51,48,[56],49,25,37,424,312,46
+GBR,8881,Tim Penfold,Matthew Alvarado,Hayling Island SC,[91 DNF],[91 DNF],43,36,27,49,66,35,43,26,507,325,47
+GER,8750,Mirco Gantenberg,Jacob Niewiarra,Segel-Club Hattingen,29,33,39,39,60,32,42,[70],[69],58,471,332,48
+GBR,8991,Nicholas Meadow,Scott Dawson,Warsash SC,45,49,33,40,42,50,[72],44,49,[70],494,352,49
+GER,9131,Jörn Wille,Martin Bergmann,MSC/HSC,44,42,49,[58],40,54,37,56,33,[67],480,355,50
+GBR,8857,Andy Carter,Keith Summersgill,Leigh and Lowton,[91 DNF],[91 DNF],65,75,26,47,40,34,24,53,546,364,51
+GBR,9104,Andy Wilde,Harry Briddon,Ogston SC,12,38,[91 DNF],23,[80],58,46,63,73,56,540,369,52
+SWE,9143,Thomas K. Lundberg,Johan Strömdahl,Royal Swedish Yacht Society,56,[68],[68],51,34,41,47,53,50,43,511,375,53
+GBR,8708,Samuel Goult,Alexander Brown,FPSC,[66],51,60,57,[67],53,44,51,40,28,517,384,54
+GBR,8964,Holly Mitchell,Adam Aziz,Hayling Island SC,38,55,46,62,54,[65],50,31,[71],49,521,385,55
+GBR,9236,Jim Blyth,Darrel Samanjoul,Largo Bay,[91 DNF],21,53,55,61,61,[64],52,46,46,550,395,56
+GBR,8970,Aled Llewellyn-Jones,Arthur Bailey,Oxford Sailing Club,50,[91 DNF],42,44,64,56,39,[73],54,54,567,403,57
+USA,9210,Jimmy Franzone,Bjorn Antell,St Francis Yacht Club,63,[91 DNF],57,41,74,60,[80],50,30,33,579,408,58
+GBR,9203,Johnny Costard,Simon Childs,Hayling Island SC,49,[91 DNF],72,[91 DNC],44,51,34,76,19,73,600,418,59
+RSA,9071,Drew Scott,Tayo Scott,KNYSNA YACHT CLUB,61,[70],67,64,[70],37,57,37,35,60,558,418,60
+FRA,9031,Philippe Lucienne,Vivien Lucienne,SRC Sud Oise,[73],36,58,66,[72],67,45,61,36,62,576,431,61
+GER,9169,Rayan Schöner,Markus Schöner,NRV,59,45,37,52,69,57,43,[82],[74],71,589,433,62
+GER,9234,Nørbert Dasenbrook,Oliver Stieglitz,KSW,54,52,70,50,52,[73],[74],60,44,52,581,434,63
+GBR,8378,Terry Curtis,Peter Greig,Castle Cove SC,58,30,62,59,[77],70,33,55,[76],74,594,441,64
+FRA,8553,Louis Radier,Arthur Radier,ASPTT VOILE LA ROCHELLE,51,50,54,65,46,55,[75],[80],70,50,596,441,65
+CAN,9200,"Alexander ""Ali"" Meller",Devlin Lovshin,Kingston Yacht Club,42,43,45,47,55,77,73,65,[91 DNF],[91 DNC],629,447,66
+FRA,9219,Elisabeth Neidhart,Pierre-Jean Gallo,YCIF,57,34,56,60,56,66,51,68,[79],[76],603,448,67
+GBR,9261,Martin Wedge,Graham Elliott,UK 505 Association,62,59,59,71,48,[84],[81],58,62,38,622,457,68
+GBR,9036,Neville Herbert,Lewis Fowler,Lymington Town Sailing Club,[74],46,66,69,45,71,35,58 RDGa1-7,[75],68,607,458,69
+BEL,9163,Pierre Gorremans,Jean Gorremans,Zeilclub NLM,65,[76],[69],61,53,62,62,67,55,39,609,464,70
+FRA,9075,Loïc Bleuez,Franck Agrapart,ANSM,69,47,[91 DNC],74,57,[81],41,69,47,61,637,465,71
+BEL,9121,Paul Gorremans,Capaie Wauka,NLM,[70],64,[82],63,65,64,53,66,52,44,623,471,72
+FRA,9221,Frédéric Véroul,Verlhac Aubin Véroul,CN Vassivière,[77],31,[75],68,63,68,59,75,68,48,632,480,73
+GBR,8514,Ben Townsend,Ed Richardson,Emsworth Sailing Club,46,63,50,34,[82],79,82,[87],78,64,665,496,74
+BEL,9081,Cédric Crets,Lionel Lambert,RCNV,[75],71,73,67,68,[80],55,62,56,45,652,497,75
+GBR,9168,Miles Odell,Andrew Streeter,Hayling & Northampton,52,75,[84],[91 DNC],71,63,67,64,66,55,688,513,76
+FRA,9045,Nicolas Guillou,Nicolas Radier,Sport Nautique et Plaisance du Havre,68,27,80,73,[83],69,68,57,72,[91 DNC],688,514,77
+AUS,9225,Murray Gilbert,Lindsay Gilbert,Sandgate Yacht Club,72,66,64,70,75,[76],54,[83],65,57,682,523,78
+GBR,8749,Keith McQuillin,John Driscoll,Spinnaker Sailing Club,81,62,77,76,[86],[83],52,47,67,69,700,531,79
+USA,8867,Anne Fitzpatrick,Christian Pittack,PCYC,64,53,[79],[79],79,72,77,78,57,77,715,557,80
+GER,8932,Christian Henge,Katja Henge,WeiSe E.V.,79,73,[91 DNF],78,[84],78,70,72,58,72,755,580,81
+SWE,9092,Tom Hastenpflug,Knut Hastenpflug,Segelsällskapet Åmålsviken,82,77,61,81,76,[91 DNC],48,74,[91 DNF],91 DNC,772,590,82
+GBR,8423,Stuart Doe,Phill Newsom,Thorney Island Sailing Club,71,67,63,72,[85],[86],84,79,82,75,764,593,83
+GBR,9238,Chris Turner,Colin Parke,Hayling Island SC,80,79,76,77,78,59,[86],[84],83,66,768,598,84
+GER,6815,Andréas Jungclaus,Katharina Menge,Hamburger Segel-Club,78,[91 DNF],74,[82],73,75,78,77,80,65,773,600,85
+GBR,8511,Steve Culpitt,Mark Nicholson,Hayling Island SC,76,78,78,80,81,74,83,71,[91 DNC],[91 DNC],803,621,86
+GBR,8383,Philip Brown,Gareth Thomas/Martin Spence,Weston SC,84,80,[91 DNF],[91 DNF],87,85,85,81,81,78,843,661,87
+GBR,7144,Richard Gibb,Matthew Gibb,Weston SC,83,82,83,84,[89],[87],87,85,85,79,844,668,88
+GBR,8793,Gary Fowler,Joe/Sam Fowler,Hunt's SC,85,81,81,83,[88],[88],88,86,84,80,844,668,89
+GBR,8591,Martin Spence,Peter Cowley,USSC,[91 DNC],[91 DNC],91 DNC,91 DNC,91 DNC,91 DNC,91 DNC,91 DNC,91 DNC,91 DNC,910,728,90
