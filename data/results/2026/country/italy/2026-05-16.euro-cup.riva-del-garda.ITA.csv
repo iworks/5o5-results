@@ -1,9 +1,9 @@
-Nat,SailN.,Helm,,Club,R1,R2,R3,R4,R5,R6,R7,R8,Totale,Netto,Rank
+Nat,SailN.,Helm,Crew,Club,R1,R2,R3,R4,R5,R6,R7,R8,Totale,Netto,Rank
 GBR,9274,Paul Brotherton,James Fawcett,Etherow Country Park SC,7,9,2,5,2,[12],5,5,47,35,1
 GBR,9246,Michael Sims,Carl Gibbon,Burton,2,14,3,[19],3,9,1,9,60,41,2
 USA,9266,Mike Holt,Rob Woelfel,Santa Cruz YC,4,3,6,7,15,[20],2,6,63,43,3
 USA,9284,AJ Conrads,Jon Bell,Tahoe Yacht Club,[44 UFD],2,10,10,9,2,10,1,88,44,4
-USA,9228,Edward Conrads,Brian Haines,Tahoe Yacht Club,5,6,[15],4,8,6,12,4,60,45,5
+USA,9228,Brian Haines,Edward Conrads,Tahoe Yacht Club,5,6,[15],4,8,6,12,4,60,45,5
 GBR,9039,Ben McGrane,James Ross,Netley SC,16,7,7,1,1,5,14,[22],73,51,6
 USA,9262,Howard Hamlin,Peter Alarie,NHYC - ABYC,1,24 RDG,[44 DNC],8,7,8,8,3,103,59,7
 GER,9101,Timon Treichel,Morten Roos,Segler-Vereinigung-Wuppertal e.V.,[44 UFD],4,4,24,13,4,6,7,106,62,8
@@ -15,13 +15,13 @@ GER,8669,Nils-Henning Hofmann,Mathias Weidenbach,Düsseldorfer Yachtclub e.V.,13
 SUI,9096,Cédric Bart,René Betschen,CNB,12,15,17,17,[21],15,19,19,135,114,14
 FRA,9270,Philippe Boite,Alexandre Boite,YCIF,[44 UFD],44 UFD,12,2,10,23,7,18,160,116,15
 GER,9258,Alexander Holzapfel,Arne Wittemer,Post-Sportverein Koblenz,9,25,14,32,[34],7,4,27,152,118,16
-GBR,9283,Ian Pinnell,,HISC,[44 UFD],10,21,6,5,24,44 UFD,10,164,120,17
+GBR,9283,Ian Pinnell,Daniel Cripps,HISC,[44 UFD],10,21,6,5,24,44 UFD,10,164,120,17
 AUS,9263,Michael Quirk,Tim Needham,Cncb,[44 UFD],44 UFD,1,16,6,40,9,12,172,128,18
 GER,9275,Stefan Köchlin,Andréas Achterberg,Segelverein Schluchsee,[44 UFD],12,11,11,14,21,44 UFD,15,172,128,19
-GER,9130,Inga-Marie Hofmann,,Düsseldorfer Yachtclub e.V,15,[27],24,12,18,13,24,25,158,131,20
+GER,9130,Inga-Marie Hofmann,Christoph Swade,Düsseldorfer Yachtclub e.V,15,[27],24,12,18,13,24,25,158,131,20
 SUI,9267,Caroline Jacot,Philippe Jacot,CNB,14,[44 UFD],23,39,23,1,13,20,177,133,21
 GER,9182,Alexander Swade,Kai-Steffen Hofmann,DYC,19,13,16,28,11,17,[44 RET],32,180,136,22
-GBR,9277,Steve Quigley,,Hayling island,18,18,30,26,17,[35],18,16,178,143,23
+GBR,9277,Steve Quigley,Jarrod Simpson,Hayling island,18,18,30,26,17,[35],18,16,178,143,23
 FIN,9069,Rosemarie Hartman,Tuomas Laurila,EMK,11,19,19,[41],30,16,20,30,186,145,24
 GER,9234,Nørbert Dasenbrook,Karl-Martin Gurgl,KSW,8,17,26,27,27,33,[44 UFD],13,195,151,25
 GER,8903,Steve Kwee,Hanno Weimer,HSC,20,[29],27,23,24,28,15,28,194,165,26
