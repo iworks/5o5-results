@@ -7207,7 +7207,6 @@ class iworks_5o5_upload_fixer {
 		'T. Heimbeck'                 => 'Thomas Heimbeck',
 		'T. Murray'                   => 'Tony Murray',
 		'T. Smith'                    => 'Tony Smith',
-		'T.A.Mehew'                   => 'T.A. Mehew',
 		'TBA'                         => '',
 		'TBD'                         => '',
 		'Taconet Jean Philippe'       => 'Jean-Philippe Taconet',
