@@ -507,7 +507,7 @@ Event Start Date,Event End Date,Name,English Name,Races,Competitors,City,Organiz
 1997-05-03,1997-05-04,Auftakt Ammersee,Start Ammersee,,18,Inning,,,,,,,1997/country/germany/1997-05-04.start-ammersee.inning.GER.csv,,,GER,2022-03-10,,,,,,,
 1997-05-03,1997-05-04,WRSC Spring Regatta,,5,13,"Galesville, MD",West River Sailing Club,,,,,,1997/country/usa/1997-05-04.spring-regatta.galesville.USA.csv,,Chesapeake Bay,USA,2020-07-27,,,,,,,
 1997-05-03,1997-10-05,Region II Championship Ranking,,6,17,Region II,,,,,,West River Spring • Hampton Trapeze • West River Regional • Fishing Bay • West River MidAtlantics • Karl Miller,1997/country/usa/1997.region-ii-championship-ranking.USA.csv,,,USA,2020-09-01,,,,,,,
-1997-05-08,1997-05-11,Riva del Garda,Riva Cup,,59,Riva del Garda,Fraglia Vela Riva,,,,,Leg 2,1997/country/italy/1997-05-11.euro-cup.riva-del-garda.ITA.csv,Euro Cup,Lago di Garda,ITA,2020-09-01,,,,,,,
+1997-05-08,1997-05-11,Riva del Garda,Riva Cup,5,59,Riva del Garda,Fraglia Vela Riva,,,,,Leg 2,1997/country/italy/1997-05-11.euro-cup.riva-del-garda.ITA.csv,Euro Cup,Lago di Garda,ITA,2020-09-01,,,,,,,
 1997-05-10,1997-05-11,Eck-Days,,,32,Eckernförde,,,,,,,1997/country/germany/1997-05-11.eck-days.eckernfoerde.GER.csv,,,GER,2022-03-11,,,,,,,
 1997-05-10,1997-05-11,Hoover Spring Regatta,,7,14,"Westerville, OH",Hoover Yacht Club,,,,,,1997/country/usa/1997-05-11.hoover-spring-regatta.westerville-oh.USA.csv,,Hoover Reservoir,USA,2020-09-01,,,,,,,
 1997-05-17,1997-05-18,Bristol Regatta,,6,11,"Bristol, RI",Bristol Yacht Club,,,,,,1997/country/usa/1997-05-18.bristol-regatta.bristol.ri.USA.csv,,,USA,2020-07-27,,,,,,,
