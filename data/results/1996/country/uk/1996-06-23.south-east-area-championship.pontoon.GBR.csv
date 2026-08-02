@@ -1,7 +1,7 @@
 Nation,Sail No.,Helm,Crew,,Race 1,Race 2,Race 3,Race 4,Points,Position
-GBR,8510,Ian Barker,Bill Masterman,,,,,,3.5,1st
-GBR,8624,Ian Pinnell,Mark Darling,,,,,,4.5,2nd
-GBR,8378,Martin Hodson,Paul Beasley,,,,,,8,3rd
-GBR,8377,Hector Cisneros,Lawrence Crispin,,,,,,13,4th
-GBR,8556,Richard Tew,Simon Hiscocks,,,,,,15,5th
-GBR,8416,Ian Montague,Jeff Kimber,,,,,,16,6th
+GBR,8510,Ian Barker,Bill Masterman,,1,DNF,2,1,"3,5",1
+GBR,8624,Ian Pinnell,Mark Darling,,4,1,1,3,"4,5",2
+GBR,8378,Martin Hodgson,Paul Beasley,,,2,,2,8,3
+GBR,8377,Hector Cisneros,Lawrence Crispin,,2,3,,,13,4
+GBR,8556,Richard Tew,Simon Hiscook,,,,3,,15,5
+GBR,8416,Ian Montague,Geoff Kimber,,,,,,16,6
