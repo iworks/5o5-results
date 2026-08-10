@@ -1,0 +1,19 @@
+Country,Boat Number,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Boat Name,Points Total,Points Netto,Place
+AUS,8801,Peter Nicholas,Luke Payne,GKSS,[1],1,1,1,1,,5,4,1
+SWE,9002,Per Wester,Lars Wester,BKSS,[7],2,7,2,3,,21,14,2
+SWE,8859,Tomas Berg,Johan Calvert,BKSS,4,5,[8],4,2,,23,15,3
+SWE,9181,Malin Broberg,Johan Röök,BKSS,6,4,3,3,[7],,23,16,4
+SWE,8962,Peter Bökmark,Martin Persson,BKSS,[9],8,4,5,5,,31,22,5
+SWE,9029,Mikael Olesen,Ulf Camitz,VBK,[11],7,5,7,4,,34,23,6
+SWE,9038,Jakob Lindvall,Karl Byrenius,AASLK,[10],10,6,6,8,,40,30,7
+SWE,8926,Ebbe Rosén,Olle Wenrup,MKS,5,[19 DNS],2,19 DNS,19 DNS,,64,45,8
+SWE,9222,Jacob Munck af Rosenschöld,Magnus Munck af Rosenschöld,LBS,17,[19 NSC],13,9,6,,64,45,9
+SWE,9171,Martin Fridh,Mats Dahlander,LBS,2,6,[19 DNS],19 DNS,19 DNS,,65,46,10
+DEN,9244,Jørgen Bojsen-Møller,Jacob Bojsen-Møller,HS,8,3,[19 DNS],19 DNS,19 DNS,,68,49,11
+SWE,8798,Fredrik Hansson,Mattias Alm,BKSS,13,[19 DNF],9,8,19 DNF,,68,49,12
+SWE,8974,Thomas Widstrand,Rolf Mattsson,BKSS,12,9,10,[19 DNF],19 DNS,,69,50,13
+GER,9256,Jens Biederer,Sebastian Wiemer,KYC,3,[19 DNF],11,19 DNS,19 DNS,,71,52,14
+SWE,8116,Hans Sidén,Anders Wikström,Motala Segelsällskap,[19 DNF],19 DNS,14,10,19 DNS,,81,62,15
+SWE,9092,Knut Hastenpflug,Tom Hastenpflug,SSÅV,16,[19 DNS],12,19 DNF,19 DNS,,85,66,16
+SWE,8923,Lars Hultgren,Axel Hultgren,RJK,14,[19 DNS],19 DNS,19 DNS,19 DNS,,90,71,17
+SWE,8917,Jesper Fowelin,Patrik Linder,ÖSS,15,[19 DNS],19 DNS,19 DNS,19 DNS,,91,72,18
