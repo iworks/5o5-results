@@ -7329,7 +7329,7 @@ class iworks_5o5_upload_fixer {
 		'Tomas Franzen'               => 'Tomas Franzén',
 		'Tomas Gustafsson'            => 'Tomas Gustafsson',
 		'Tomas Jaxing'                => 'Thomas Jaxing',
-		'Tomas Jaxing-'               => 'Tomas Jaxing',
+		'Tomas Jaxing-'               => 'Thomas Jaxing',
 		'Tomas Jonsson'               => 'Thomas Jönsson',
 		'Tomas Jönsson'               => 'Thomas Jönsson',
 		'Tomas Lauvila'               => 'Tuomas Laurila',
