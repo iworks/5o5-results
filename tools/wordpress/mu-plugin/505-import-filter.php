@@ -3634,7 +3634,7 @@ class iworks_5o5_upload_fixer {
 			'Anderson' => 'Anderson',
 		),
 		array(
-			'Agrapart M.' => 'Muriel Agrapart',
+			'Agrapart M.' => 'Muriel Jeanne Agrapart',
 			'Agrapart F.' => 'Franck Agrapart',
 		),
 		array(
@@ -4092,7 +4092,7 @@ class iworks_5o5_upload_fixer {
 		'Aggeri Stephane'             => 'Stephane Aggeri',
 		'Agnes Catrix Marie'          => 'Marie Agnes Catrix',
 		'Agrapart Franck'             => 'Franck Agrapart',
-		'Agrapart Muriel'             => 'Muriel Agrapart',
+		'Agrapart Muriel'             => 'Muriel Jeanne Agrapart',
 		'Agrell Michael'              => 'Michael Agrell',
 		'Ahrbom Mikael'               => 'Mikael Ahrbom',
 		'Al Meller'                   => 'Alexander "Ali" Meller',
@@ -5630,7 +5630,7 @@ class iworks_5o5_upload_fixer {
 		'Jean-Phillippe Chartier'     => 'Jean-Philippe Chartier',
 		'Jean-Pierre Di Pede'         => 'Jean-Pierre Di Pède',
 		'JeanLouis Guibbal'           => 'Jean-Louis Guibbal',
-		'Jeanne Muriel'               => 'Muriel Jeanne',
+		'Jeanne Muriel'               => 'Muriel Jeanne Agrapart',
 		'Jedrzej Bering'              => 'Jędrzej Bering',
 		'Jeff "Boyder"Boyd'           => 'Jeff Boyd',
 		'Jeff Kimber'                 => 'Geoff Kimber',
