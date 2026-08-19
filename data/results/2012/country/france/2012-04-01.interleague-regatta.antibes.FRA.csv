@@ -1,0 +1,35 @@
+Country,Boat Number,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Race 7,Crew Club,Boat Name,Points Total,Points Netto,Place
+FRA,9075,Philippe Boite,Pierre-Jean Gallo,,[2],[3],2,1,1,1,1,SRH,,11,6,1
+FRA,8716,Aline Martin,Fabrice Toupet,CV SEINE PORT,[8],[5],1,2,2,2,4,CV SEINE PORT,,24,11,2
+GER,8975,Alexander Holzapfel,Stefan Worm,PSVK,3,4,[5],3,3,[6],2,D.S.V.,,26,15,3
+FRA,8870,Christian Silvestre,Nicolas Auberger,YCIF,1,1,[10],5,[8],5,5,YC GRENOBLE CHARA.,,35,17,4
+FRA,8900,Serge Gubri,Thibault Di Pède,CV SEINE PORT,4,[12],3,4,6,[8],3,CV SEINE PORT,,40,20,5
+FRA,8623,Gerard Daugey,Hervé Brillaud,,6,2,[DSQ 35],[9],4,4,7,CN FERRET,,67,23,6
+FRA,8683,Martin Peculier,Geraud Lafortune,SNO NANTES,[7],7,6,6,7,3,[8],CV SEINE PORT,,44,29,7
+FRA,7941,Véronique Brenet,Jean-Pierre Peter,ACAL,5,6,4,[19],[12],10,11,ACAL,,67,36,8
+FRA,8909,Francis Doerenbecher,Philippe Wolff,CN DE SCIEZ,[20],[15],11,7,10,7,6,ACAL,,76,41,9
+FRA,8847,Muriel Jeanne Agrapart,Franck Agrapart,C N HAUTE SEINE,10,10,8,[15],[17],9,9,C N HAUTE SEINE,,78,46,10
+BEL,9066,Geert de Pauw,Jourquin Koen,NWV,[15],9,12,10,5,[14],14,,,79,50,11
+SUI,9060,Catherine Houriet,Giles Donzé,,12,8,7,[20],[16],12,12,,,87,51,12
+FRA,9031,Philippe Lucienne,Vivien Lucienne,C N C ST OUEN,11,[14],13,14,9,[16],13,C N C ST OUEN,,90,60,13
+FRA,9086,Elisabeth Neidhart,Matthieu Gougeon,CVML,[24],13,9,[23],11,18,10,CVML,,108,61,14
+FRA,8885,Jean-Baptiste Dupont,Jean-Claude Ancelot,CV PARIS,[30],[21],18,8,13,13,17,SNO NANTES,,120,69,15
+FRA,8695,Jean-Guy Puissant,Morgan Auffret,CVLTP,14,11,19,17,[24],[26],15,CV JOUE LES TOURS,,126,76,16
+FRA,8969,Thomas Pype,Jean-Pierre Noclain,CV VALENCIENNES,16,18,[OCS 35],11,23,11,[DNF 35],CV VALENCIENNES,,149,79,17
+FRA,9010,Gilles Carvallo,Michel Laugerotte,C N HAUTE SEINE,[31],[31],17,12,22,19,18,YC DU DER,,150,88,18
+FRA,8980,Michel Boiry,Antoine Ratouis,CV PARIS,[23],20,[27],21,15,15,20,B N DE SCIEZ,,141,91,19
+FRA,8761,Marc Riot,Geoffroy Riot,C N HAUTE SEINE,9,[22],[23],22,20,21,21,C N HAUTE SEINE,,138,93,20
+FRA,8705,Luc Vocanson,Thierry Muniglia,CVML,[27],24,[25],13,18,23,16,CVML,,146,94,21
+BEL,9064,Philippe Vandersteen,Jerémie Cowez,,17,[28],14,18,19,28,[DNF 35],,,159,96,22
+FRA,8899,Alain Karadjian,Eric le Morvan,CVSQ,13,27,21,[28],14,[29],23,ASPTT TROYES,,155,98,23
+FRA,8880,Emmanuel Mouclier,Jose Mendes,CVML,21,16,16,[DNF 35],28,20,[DNF 35],CVML,,171,101,24
+FRA,8509,Bastian le Morvan,Jordane Lafortune,ASPTT TROYES,18,[26],20,24,[25],17,25,CV SEINE PORT,,155,104,25
+FRA,8342,Bertrand Chazelle,Thibaut Toutlemonde,CN TOUQUET,[33],19,[28],16,21,25,24,C N HAUTE SEINE,,166,105,26
+FRA,7235,Philippe Veron,Fabien Pascal,CN DE VIRY CHATILLON,22,25,[29],25,[29],22,19,C N HAUTE SEINE,,171,113,27
+FRA,8688,Bernard Blondy,Roger Chabaud,CV VALENCIENNES,25,17,15,27,[DNF 35],[DNF 35],DNF 35,CV VALENCIENNES,,189,119,28
+FRA,8748,Samuel Carvallo,Sebastien Rauly,C N HAUTE SEINE,[28],23,26,26,[27],24,22,C N HAUTE SEINE,,176,121,29
+FRA,4479,Jean-Charles Cadoret,Pascal Coquelet,N C MONTARGIS,26,[30],30,[DNF 35],30,27,26,N C MONTARGIS,,169,139,30
+FRA,8748,Jerome Terrasson,Henri Morteau,C N HAUTE SEINE,19,[DNF 35],24,29,[DNF 35],DNF 35,DNF 35,C N HAUTE SEINE,,212,142,31
+GER,8052,Jürgen Feuerhake,Anne Nehrenberg,SAARBRUCKEN,34,29,22,[DNF 35],[DNS 35],DNS 35,DNS 35,D.S.V.,,225,155,32
+FRA,,Alexis Baillet,Daniel Baillet,CN DES PRAILLONS,32,32,32,[DNF 35],26,[DNF 35],DNF 35,CN DES PRAILLONS,,227,157,33
+FRA,8429,Jean Charles Zimmowitch,Romaric Zimmowitch,VGA SAINT MAUR VOILE,29,33,31,[DNF 35],[DNF 35],DNF 35,DNF 35,VGA SAINT MAUR VOILE,,233,163,34
