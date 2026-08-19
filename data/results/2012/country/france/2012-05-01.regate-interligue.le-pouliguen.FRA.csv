@@ -1,0 +1,32 @@
+Country,Boat Number,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Race 7,Race 8,Race 9,Crew Club,Points Total,Points Netto,Place
+FRA,9076,Xavier Broise,Nicolas des Jamonières,SNPH,[3],1,2,1,[4],2,2,2,1,SNPH,18,11,1
+FRA,9075,Philippe Boite,Pierre-Jean Gallo,CVSQ,2,[3],1,2,2,1,[3],1,2,SRH,17,11,2
+FRA,9050,Hervé de Kergariou,Basile Géron,CN ARRADON,4,2,[6],4,1,4,1,3,[5],SNPH,30,19,3
+FRA,9067,Bertrand Loyal,Laurent Nevo,C N MESCHERS,1,4,3,3,3,3,[5],[4],3,,29,20,4
+FRA,8961,Marc Vibert,Bertrand Lapeyre,CVML,[9],6,4,6,6,[7],6,6,6,SNPH,56,40,5
+GBR,9079,Tim Rush,Geoff Edwards,,8,8,[19],[9],5,5,7,5,4,,70,42,6
+FRA,,Nicolas Guillou,Henry Chevet,SNPH,7,9,5,5,7,[11],4,7,[20],SNPH,75,44,7
+FRA,8683,Martin Peculier,Geraud Lafortune,SNO NANTES,11,[13],7,7,[12],8,10,8,7,CV SEINE PORT,83,58,8
+FRA,,Nicolas Martin,Julien Lafortune,CV SEINE PORT,5,7,8,12,[13],6,11,[13],10,CV SEINE PORT,85,59,9
+FRA,9044,Matthieu Devaux,Philippe Dubuc,SR FECAMP,6,[15],12,8,9,12,8,10,[14],SR FECAMP,94,65,10
+GBR,9039,Tim Bird,Arthur George,,[DNC 32],5,9,13,11,10,9,9,[DNC 32],,130,66,11
+FRA,9068,François de Lisle,Hervé Brillaud,CN FERRET,[21],12,13,10,[15],15,14,14,8,CN FERRET,122,86,12
+FRA,,Bertrand Commeil,Louis Commeil,SNO NANTES,[17],10,17,11,8,17,[21],12,12,SNO NANTES,125,87,13
+FRA,9031,Philippe Lucienne,Vivien Lucienne,C N C ST OUEN,12,[19],14,[19],10,9,15,16,11,C N C ST OUEN,125,87,14
+FRA,8695,Jean-Guy Puissant,Bernard le Guen,CVLTP,15,17,[18],16,17,13,13,15,[19],CV JOUE LES TOURS,143,106,15
+FRA,,Alain Karadjian,Erwan Grossmann,CVSQ,19,[23],10,15,14,14,20,[25],15,SNT,155,107,16
+FRA,8900,Serge Gubri,Jean-Claude Ancelot,CV SEINE PORT,10,11,11,[DNC 32],[DNC 32],DNC 32,17,18,9,SNO NANTES,172,108,17
+FRA,9086,Elisabeth Neidhart,Matthieu Gougeon,CVML,14,14,16,27,25,[30],12,17,DNF 32,CVML,187,125,18
+BEL,8802,Pascal Viaud,Philippe Duquesne,LA ROCHELLE NAUTIQUE,13,16,[DNF 32],17,19,23,[26],24,13,SNO NANTES,183,125,19
+FRA,8969,Thomas Pype,Romain Delmotte,CV VALENCIENNES,18,18,20,[22],[22],16,19,20,17,CV VALENCIENNES,172,128,20
+FRA,8566,Olivier Thiberge,Hervé Guezennec,CV PARIS,16,20,15,14,21,21,[22],[26],22,NAUTISME PAYS BLANC,177,129,21
+FRA,9084,Jacques Dechauffour,Sabine Dechauffour,SNO NANTES,25,22,[DNC 32],[28],18,22,24,11,16,SNO NANTES,198,138,22
+FRA,8899,Julien Letissier,Jordane Lafortune,SNSQP,[26],[26],23,18,20,24,18,19,24,CV SEINE PORT,198,146,23
+FRA,8761,Marc Riot,Geoffroy Riot,C N HAUTE SEINE,22,[24],22,21,[24],19,23,23,18,C N HAUTE SEINE,196,148,24
+FRA,8717,Eric Vassor,Yves Chene Pierre,USAM Voile Brest,23,25,24,20,[27],[27],16,21,21,USAM Voile Brest,204,150,25
+FRA,8699,Jean-Philippe Ducros,Stanislas Rault,CVML,[27],21,25,23,23,18,27,22,[DNF 32],CVML,218,159,26
+FRA,8677,Nicolas Michel,Nicolas Mailh,CVAN NANTES,[DNC 32],27,26,24,16,20,[DNC 32],DNC 32,DNC 32,APCC NANTES,241,177,27
+FRA,8542,Philippe Leroy,Marc-Henri Guitteny,SNO NANTES,[RAF 32],28,21,[DNF 32],28,28,25,27,DNC 32,SNO NANTES,253,189,28
+FRA,8950,Eric Quémard,Antoine Victor,CV PARIS,20,[DNF 32],[DNC 32],25,26,26,DNC 32,DNC 32,DNC 32,YC CANNES,257,193,29
+FRA,8326,David de Monteil,Aymeric Essertel,LA ROCHELLE NAUTIQUE,24,[DNC 32],[DNC 32],DNC 32,29,25,29,DNS 32,23,SR DE LA TURBALLE,258,194,30
+FRA,7235,Philippe Veron,Fabien Pascal,CN DE VIRY CHATILLON,[DNF 32],[DNC 32],DNC 32,26,30,29,28,DNC 32,DNC 32,C N HAUTE SEINE,273,209,31
