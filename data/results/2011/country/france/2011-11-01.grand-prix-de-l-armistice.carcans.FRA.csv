@@ -1,39 +1,39 @@
-Nation,Boat no,Coureurs / Équipage,Crew,club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Crew Club,points,place
-FRA,,Philippe Boite,Pierre-Jean Gallo,CVSQ,3,7,3,1,4,5,S R HAVRE,16,1
-FRA,,Martin Nicolas,Lafortune Julien,C V SEINE-PORT,2,22,5,2,3,8,C V SEINE-PORT,20,2
-GBR,,Rush Tim,Potts Simon,RYC GBR,11,23,1,3,2,4,M,21,3
-FRA,,Loyal Bertrand,Nevo Laurent,C N MESCHERS,7,1,8,8,14,3,S R ROCHELAISES,27,4
-FRA,8515,Croce Nicolas,Faucheux Florian,C N CANET PERPIGNAN,9,10,9,10,1,1,C N CANET PERPIGNAN,30,5
-GER,8975,Holzapfel Alexander,Worm Stefan,PSVK GER,1,DPI,14,5,6,O+D,M,32,6
-FRA,8870,Christian Silvestre,Auberger Nicolas,Y C ILE DE FRANCE,8,OCS,4,4,9,9,YC Grenoble Chara.,34,7
-FRA,9024,Gachet Claude,Valery Kleber,YC Grenoble Chara.,5,24,2,7,13,12,YC Grenoble Chara.,39,8
-FRA,8695,Puissant Jean-Guy,Le Guen Bernard,CV LAC 3 PROVINCES,4,OCS,6,9,5,17,C.V. Joué-lès-Tours,41,9
-FRA,9010,Lafortune Baptiste,Carvallo Gilles,C V SEINE-PORT,10,3,12,16,8,14,C N HAUTE SEINE,47,10
-FRA,,Adam Manuelle,Lafortune Jordane,S R HAVRE,17,5,10,14,15,7,C V SEINE-PORT,51,11
-FRA,,Thibault Di Pede,Lafortune Geraud,C V SEINE-PORT,12,15,17,17,10,2,C V SEINE-PORT,56,12
-FRA,8948,Guillou Nicolas,Ferec Alain,S N P H,14,6,16,22,11,10,S N P H,57,13
-FRA,,Karadjian Alain,Fabrice Toupet,CVSQ,19,14,18,21,7,6,CVSQ,64,14
-FRA,,Devaux Mathieu,Dubuc Philippe,S R FECAMP,BFD,16,7,6,17,19,S R FECAMP,65,15
-FRA,,Lafortune Claude,Lafortune Adrien,C V SEINE-PORT,23,9,15,13,16,16,C V SEINE-PORT,69,16
-FRA,,Hardouin Elsa,Biecheler-Fiocconi Sophie,S N P H,18,13,26,18,12,15,S N P H,76,17
-FRA,,Francis Doerenbecher,Ivan Doerenbecher,C N DE SCIEZ,25,17,11,12,21,18,C N DE SCIEZ,79,18
-FRA,,Jean-Baptiste Dupont,Ancelot Jean Claude,CV PARIS,21,4,13,25,23,DNC,S N O NANTES,86,19
-FRA,,Got Claude,Faucheux Cedric,C N CANET PERPIGNAN,32,11,24,19,22,13,C N CANET PERPIGNAN,89,20
-FRA,,Vibert Marc,Lapeyre Bertrand,CVML,6,20,23,20,25,DNC,S N P H,94,21
-FRA,,David Michel,Chaubard Pierre,C V ARCACHON,15,26,20,29,24,11,C V BORDEAUX C M,96,22
-FRA,,Daguzan Thierry,Poirier Arnaud,S R ROCHELAISES,16,18,25,23,20,23,EV ROCHELAISE,100,23
-FRA,,Viaud Pascal,Duquesne Philippe,S R ROCHELAISES,29,OCS,19,11,18,24,S N O NANTES,101,24
-FRA,,Dechauffour Valentin,Gougeon Matthieu,S N O NANTES,22,OCS,22,15,19,DNC,CVML,117,25
-FRA,,Neidhart Elisabeth,Viateur Regis,CVML,27,19,27,24,28,21,CVSQ,118,26
-FRA,,Dechauffour Jacques,Dechauffour Sabine,S N O NANTES,20,28,21,26,31,26,S N O NANTES,121,27
-FRA,,Amaury Fourcadet,Jouanny Franck,BLAYE NAUTIQUE,30,8,OCS,OCS,26,22,C N BOURQUAIS,125,28
-FRA,8687,Hermieu Jean Philippe,Simonnot Christian,U S TROPEZIENNE,24,21,28,27,27,28,Y C TOULON,127,29
-FRA,8542,Philippe Leroy,Guitteny Marc-Henri,S N O NANTES,28,25,29,28,29,DNC,C N PIRIAC S/MER,139,30
-FRA,,Peter Vincent,Sourice Jean Marc,WIND 14,31,33,33,32,30,20,E D V COURSEULLES,146,31
-FRA,,Ducros Jean Philippe,Rault Stanislas,CVML,26,27,30,31,35,DNC,CVSQ,149,32
-FRA,,Broise Xavier,Des Jamonieres Nicolas,S N P H,13,DPI,DNF,DNC,DNC,DNC,S N P H,150,33
-FRA,,Renoux Alain,Kopka Eric,C V ANGOULEME,DNF,29,32,33,33,DPI,C V ANGOULEME,156,34
-FRA,,Picou Dominique,Bouton Fabrice,S R ROCHELAISES,33,30,31,30,DNF,DNC,S R ROCHELAISES,163,35
-FRA,,Bradfer Philippe,Vaissiere Christel,C Y V PARELOUP,DNF,32,36,34,36,30,C Y V PARELOUP,168,36
-FRA,,De Monteil David,De Monteil Thibault,S R ROCHELAISES,34,DPI,34,35,DPI,DPI,S R ROCHELAISES,170,37
-BEL,,Mineur Alain,Boucau Fabienne,SNEH BEL,35,DNF,35,36,34,DPI,F,173,38
+Nation,Boat no,Helm,Crew,club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Crew Club,Points Total,points,place
+FRA,9075,Philippe Boite,Pierre-Jean Gallo,CVSQ,3,[7],3,1,4,5,S R HAVRE,23,16,1
+FRA,8752,Nicolas Martin,Julien Lafortune,C V SEINE-PORT,2,[22],5,2,3,8,C V SEINE-PORT,42,20,2
+GBR,9079,Tim Rush,Simon Potts,RYC GBR,11,[23],1,3,2,4,M,44,21,3
+FRA,9067,Bertrand Loyal,Laurent Nevo,C N MESCHERS,7,1,8,8,[14],3,S R ROCHELAISES,41,27,4
+FRA,8515,Nicolas Croce,Florian Faucheux,C N CANET PERPIGNAN,9,[10],9,10,1,1,C N CANET PERPIGNAN,40,30,5
+GER,8975,Alexander Holzapfel,Stefan Worm,PSVK GER,1,[DPI 39],14,5,6,6,M,71,32,6
+FRA,8870,Christian Silvestre,Nicolas Auberger,Y C ILE DE FRANCE,8,[OCS 39],4,4,9,9,YC Grenoble Chara.,73,34,7
+FRA,9024,Claude Gachet,Kleber Valery,YC Grenoble Chara.,5,[24],2,7,13,12,YC Grenoble Chara.,63,39,8
+FRA,8695,Jean-Guy Puissant,Bernard le Guen,CV LAC 3 PROVINCES,4,[OCS 39],6,9,5,17,C.V. Joué-lès-Tours,80,41,9
+FRA,9010,Baptiste Lafortune,Gilles Carvallo,C V SEINE-PORT,10,3,12,[16],8,14,C N HAUTE SEINE,63,47,10
+FRA,,Adam Manuelle,Jordane Lafortune,S R HAVRE,[17],5,10,14,15,7,C V SEINE-PORT,68,51,11
+FRA,8900,Thibault Di Pède,Geraud Lafortune,C V SEINE-PORT,12,15,[17],17,10,2,C V SEINE-PORT,73,56,12
+FRA,8948,Nicolas Guillou,Alain Ferec,S N P H,14,6,16,[22],11,10,S N P H,79,57,13
+FRA,8899,Alain Karadjian,Fabrice Toupet,CVSQ,19,14,18,[21],7,6,CVSQ,85,64,14
+FRA,,Matthieu Devaux,Philippe Dubuc,S R FECAMP,[BFD 39],16,7,6,17,19,S R FECAMP,104,65,15
+FRA,,Claude Lafortune,Adrien Lafortune,C V SEINE-PORT,[23],9,15,13,16,16,C V SEINE-PORT,92,69,16
+FRA,,Elsa Hardouin,Sophie Biecheler-Fiocconi,S N P H,18,13,[26],18,12,15,S N P H,102,76,17
+FRA,8909,Francis Doerenbecher,Ivan Doerenbecher,C N DE SCIEZ,[25],17,11,12,21,18,C N DE SCIEZ,104,79,18
+FRA,8885,Jean-Baptiste Dupont,Jean-Claude Ancelot,CV PARIS,21,4,13,25,23,[DNC 39],S N O NANTES,125,86,19
+FRA,,Claude Got,Cedric Faucheux,C N CANET PERPIGNAN,[32],11,24,19,22,13,C N CANET PERPIGNAN,121,89,20
+FRA,8961,Marc Vibert,Bertrand Lapeyre,CVML,6,20,23,20,25,[DNC 39],S N P H,133,94,21
+FRA,,David Michel,Pierre Chaubard,C V ARCACHON,15,26,20,[29],24,11,C V BORDEAUX C M,125,96,22
+FRA,,Daguzan Thierry,Poirier Arnaud,S R ROCHELAISES,16,18,[25],23,20,23,EV ROCHELAISE,125,100,23
+FRA,8486,Pascal Viaud,Philippe Duquesne,S R ROCHELAISES,29,[OCS 39],19,11,18,24,S N O NANTES,140,101,24
+FRA,,Valentin Dechauffour,Matthieu Gougeon,S N O NANTES,22,[OCS 39],22,15,19,DNC 39,CVML,156,117,25
+FRA,8704,Elisabeth Neidhart,Régis Viateur,CVML,27,19,27,24,[28],21,CVSQ,146,118,26
+FRA,,Jacques Dechauffour,Sabine Dechauffour,S N O NANTES,20,28,21,26,[31],26,S N O NANTES,152,121,27
+FRA,,Fourcadet Amaury,Jouanny Franck,BLAYE NAUTIQUE,30,8,[OCS 39],OCS,26,22,C N BOURQUAIS,164,125,28
+FRA,8687,Jean Philippe Hermieu,Christian Simonnot,U S TROPEZIENNE,24,21,[28],27,27,28,Y C TOULON,155,127,29
+FRA,8542,Philippe Leroy,Marc-Henri Guitteny,S N O NANTES,28,25,29,28,29,[DNC 39],C N PIRIAC S/MER,178,139,30
+FRA,,Peter Vincent,Jean Marc Sourice,WIND 14,31,[33],33,32,30,20,E D V COURSEULLES,179,146,31
+FRA,8699,Jean-Philippe Ducros,Stanislas Rault,CVML,26,27,30,31,35,[DNC 39],CVSQ,188,149,32
+FRA,9076,Xavier Broise,Nicolas des Jamonières,S N P H,13,[DPI 39],DNF 39,DNC 39,DNC 39,DNC 39,S N P H,208,150,33
+FRA,,Alain Renoux,Eric Kopka,C V ANGOULEME,[DNF 39],29,32,33,33,DPI 39,C V ANGOULEME,205,156,34
+FRA,,Picou Dominique,Fabrice Bouton,S R ROCHELAISES,33,30,31,30,[DNF 39],DNC 39,S R ROCHELAISES,202,163,35
+FRA,,Philippe Bradfer,Christel Vaissiere,C Y V PARELOUP,[DNF 39],32,36,34,36,30,C Y V PARELOUP,207,168,36
+FRA,,David de Monteil,Thibault de Monteil,S R ROCHELAISES,34,[DPI 39],34,35,DPI 39,DPI 39,S R ROCHELAISES,220,170,37
+BEL,,Alain Mineur,Fabienne Boucau,SNEH BEL,35,[DNF 39],35,36,34,DPI 39,F,218,173,38
