@@ -1,0 +1,41 @@
+Country,Boat Number,Helm,Crew,Club,Race 1,Race 2,Crew Club,Points Netto,Place
+GBR,9057,Chris Lewns,Dan Parsons,,1,1,,2,1
+FRA,9076,Xavier Broise,Nicolas des Jamonières,SNPH,2,2,SNPH,4,2
+FRA,8515,Nicolas Croce,Florian Faucheux,CNCP,5,4,CNCP,9,3
+FRA,9067,Bertrand Loyal,Laurent Nevo,C N MESCHERS,4,6,LA ROCHELLE NAUTIQUE,10,4
+FRA,9050,Hervé de Kergariou,Basile Géron,CN ARRADON,6,5,SNPH,11,5
+FRA,9068,François de Lisle,Hervé Brillaud,CN FERRET,9,7,CN FERRET,16,6
+FRA,9084,Jacques Dechauffour,Pierre Gendry,SNO NANTES,8,9,SNO NANTES,17,7
+FRA,8716,Aline Martin,Fabrice Toupet,CV SEINE PORT,7,11,CV SEINE PORT,18,8
+FRA,9099,Alain Karadjian,Erwan Grossmann,CVSQ,11,8,SNT,19,9
+FRA,8752,Nicolas Martin,Julien Lafortune,CV SEINE PORT,12,10,CV SEINE PORT,22,10
+FRA,8870,Christian Silvestre,Nicolas Auberger,YCIF,10,13,YC GRENOBLE CHARA.,23,11
+FRA,9031,Philippe Lucienne,Vivien Lucienne,C N C ST OUEN,13,14,C N C ST OUEN,27,12
+FRA,9010,Baptiste Lafortune,Gilles Carvallo,CV SEINE PORT,15,16,C N HAUTE SEINE,31,13
+FRA,8869,Emmanuel Boyer,Etienne Boyer,CVBCM,17,15,CVBCM,32,14
+FRA,8909,Francis Doerenbecher,Philippe Wolff,CN DE SCIEZ,21,12,ACAL,33,15
+FRA,8971,Thierry Daguzan,Arnaud Poirier,LA ROCHELLE NAUTIQUE,16,17,EV ROCHELAISE,33,16
+FRA,8567,Pierre-Jérôme Coulmin,Vincent Peter,WIND 14,18,21,WIND 14,39,17
+FRA,8695,Jean-Guy Puissant,Bernard le Guen,CVLTP,19,20,CV JOUE LES TOURS,39,18
+FRA,9086,Elisabeth Neidhart,Bertrand Lapeyre,CVML,24,18,SNPH,42,19
+BEL,9064,Philippe Vandersteen,Bernard Gros,,20,24,,44,20
+FRA,9075,Philippe Boite,Pierre-Jean Gallo,CVSQ,3,DNF 42,SRH,45,21
+FRA,,Bertrand Commeil,Louis Commeil,SNO NANTES,DNC 42,3,SNO NANTES,45,22
+FRA,8509,Bastian le Morvan,Pierre Bessias,ASPTT TROYES,23,22,CN DE LORIENT,45,23
+FRA,8566,Olivier Thiberge,Hervé Guezennec,CV PARIS,27,19,NAUTISME PAYS BLANC,46,24
+FRA,8980,Michel Boiry,Jean-Claude Ancelot,CV PARIS,22,25,SNO NANTES,47,25
+FRA,,Yves Colin,Cyril Thibaud,C N MESCHERS,26,23,GS LA ROCHELLE,49,26
+FRA,8683,Martin Peculier,Geraud Lafortune,SNO NANTES,14,DNF 42,CV SEINE PORT,56,27
+FRA,8902,Gérard Tilly,Xavier Tilly,ASN PERROS GUIREC,25,DNF 42,ASN PERROS GUIREC,67,28
+FRA,9079,Tim Rush,Geoff Edwards,,28,DNF 42,,70,29
+FRA,8401,Alain Renoux,Frederic Lamarque,C V ANGOULEME,29,DNF 42,CV LACANAU GUYENNE,71,30
+FRA,8844,Dominique Picou,Fabrice Bouton,LA ROCHELLE NAUTIQUE,DNC 42,DNF 42,LA ROCHELLE NAUTIQUE,84,DNA
+FRA,8542,Philippe Leroy,Sylvain Ratouis,SNO NANTES,DNF 42,DNF 42,B N DE SCIEZ,84,DNA
+FRA,8564,Antoine Ratouis,Marion Michel,B N DE SCIEZ,DNC 42,DNF 42,CVAN NANTES,84,DNA
+FRA,,Melissa Ferrois,Pascal Viaud,YCPR,DNC 42,DNF 42,LA ROCHELLE NAUTIQUE,84,DNA
+FRA,,Jordane Lafortune,Philippe Duquesne,CV SEINE PORT,DNC 42,DNF 42,SNO NANTES,84,DNA
+FRA,8950,Eric Quémard,Antoine Victor,CV PARIS,DNC 42,DNF 42,YC CANNES,84,DNA
+FRA,8900,Serge Gubri,Thibault Di Pède,CV SEINE PORT,DNF 42,DNF 42,CV SEINE PORT,84,DNA
+FRA,8699,Jean-Philippe Ducros,Stanislas Rault,CVML,DNC 42,DNF 42,CVML,84,DNA
+USA,,Hubert Guy,Xavier deTappe,,DNC 42,DNF 42,AS CHEMINOTS ROCHEL,84,DNA
+FRA,7235,Philippe Veron,Fabien Pascal,CN DE VIRY CHATILLON,DNC 42,DNF 42,C N HAUTE SEINE,84,DNA
