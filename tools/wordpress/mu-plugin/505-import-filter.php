@@ -5060,6 +5060,7 @@ class iworks_5o5_upload_fixer {
 		'Francis Doerenbaecher'       => 'Francis Doerenbecher',
 		'Francis Doerenbecher'        => 'Francis Doerenbecher',
 		'Franck Heimburger'           => 'Frank Heimburger',
+		'Francois De Lisle'           => 'François de Lisle',
 		'Francois Bertran'            => 'François Bertrand',
 		'Francois Bertrand'           => 'François Bertrand',
 		'Francois Cornu'              => 'François Cornu',
