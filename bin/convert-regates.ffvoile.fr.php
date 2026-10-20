@@ -108,7 +108,7 @@ if ( false !== ( $handle = fopen( $argv[1], 'r' ) ) ) {
 		} else {
 			$racedata[ $row ][3]            = int505_capitalize( $one[ $map['prenom'] ] . ' ' . $one[ $map['nom'] ] );
 			$racedata[ $row ][ 5 + $races ] = $one[ $map['clubNom'] ];
-		++$row;
+			++$row;
 		}
 		$helm = ! $helm;
 	}
@@ -116,62 +116,61 @@ if ( false !== ( $handle = fopen( $argv[1], 'r' ) ) ) {
 /**
  * support variables
  */
-$competitors = count($racedata);
-$penalty = $competitors + 1;
+$competitors = count( $racedata );
+$penalty     = $competitors + 1;
 /**
  * count points
  */
 for ( $i = 0; $i < $competitors; $i++ ) {
-    $sum = 0;
-    for ( $j = 5; $j < $races + 5; $j++ ) {
-         $place = (int) $racedata[ $i ][ $j ];
-         if ( 0 === $place ) {
-            $place = $penalty;
-         }
-        $sum += $place;
-    }
-    $racedata[ $i ][ $races + 7 ] = $sum;
+	$sum = 0;
+	for ( $j = 5; $j < $races + 5; $j++ ) {
+		$place = (int) $racedata[ $i ][ $j ];
+		if ( 0 === $place ) {
+			$place = $penalty;
+		}
+		$sum += $place;
+	}
+	$racedata[ $i ][ $races + 7 ] = $sum;
 }
 /**
  * fix penalty
  */
 for ( $i = 0; $i < $competitors; $i++ ) {
-    for ( $j = 5; $j < $races + 5; $j++ ) {
-        if ( ! preg_match( '/^\d+$/', $racedata[ $i ][ $j ] ) ) {
-            $racedata[ $i ][ $j ] .= ' ' . $penalty;
-        }
-    }
+	for ( $j = 5; $j < $races + 5; $j++ ) {
+		if ( ! preg_match( '/^\d+$/', $racedata[ $i ][ $j ] ) ) {
+			$racedata[ $i ][ $j ] .= ' ' . $penalty;
+		}
+	}
 }
 /**
  * mark withdraws
  */
-if( 0 < $withraw) {
-    /**
-     * map
-     */
-    for ( $i = 0; $i < $competitors; $i++ ) {
-    $map = array();
-        for ( $j = 5; $j < $races + 5; $j++ ) {
-            $map[] = preg_replace('/[^\d]+/', '', $racedata[ $i ][ $j ]);
-        }
-        rsort($map);
-        $map = array_slice($map, 0, $withraw);
-        foreach( $map as $one ) {
-            for ( $j = 5; $j < $races + 5; $j++ ) {
-                if ( 
-                    preg_replace('/[^\d^\[]+/', '', $racedata[ $i ][ $j ]) === $one
-                ) {
-                    $racedata[ $i ][ $j ] = '['.$racedata[ $i ][ $j ].']';
-                    $j = $races + 6;
-                }
-            }
-        }
-    }
+if ( 0 < $withraw ) {
+	/**
+	 * map
+	 */
+	for ( $i = 0; $i < $competitors; $i++ ) {
+		$map = array();
+		for ( $j = 5; $j < $races + 5; $j++ ) {
+			$map[] = preg_replace( '/[^\d]+/', '', $racedata[ $i ][ $j ] );
+		}
+		rsort( $map );
+		$map = array_slice( $map, 0, $withraw );
+		foreach ( $map as $one ) {
+			for ( $j = 5; $j < $races + 5; $j++ ) {
+				if ( preg_replace( '/[^\d^\[]+/', '', $racedata[ $i ][ $j ] ) === $one
+				) {
+					$racedata[ $i ][ $j ] = '[' . $racedata[ $i ][ $j ] . ']';
+					$j                    = $races + 6;
+				}
+			}
+		}
+	}
 }
 /**
  * Override file
  */
-$file = fopen($argv[1], 'w');
+$file   = fopen( $argv[1], 'w' );
 $header = array( 'Country', 'Boat Number', 'Helm', 'Crew', 'Club' );
 for ( $i = 1; $i <= $races; $i++ ) {
 	$header[] = "Race $i";
@@ -182,8 +181,8 @@ $header[] = 'Points Total';
 $header[] = 'Points Netto';
 $header[] = 'Place';
 
-fputcsv($file, $header);
+fputcsv( $file, $header );
 
 foreach ( $racedata as $row ) {
-	fputcsv($file, $row);
+	fputcsv( $file, $row );
 }
