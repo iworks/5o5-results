@@ -14,6 +14,12 @@ $withraw = false;
 if ( isset( $argv[2] ) ) {
 	$withraw = intval( $argv[2] );
 }
+$debug = false;
+for ( $i = 3; $i < count( $argv ); $i++ ) {
+	if ( 'debug' === $argv[ $i ] ) {
+		$debug = true;
+	}
+}
 
 $map = array(
 	'place'         => 0,
@@ -59,7 +65,10 @@ function int505_races( $detailManches ) {
 	return $result;
 }
 
-function int5o5_country( $ligueNom ) {
+function int5o5_country( $ligueNom, $noVoile ) {
+	if ( preg_match( '/^([a-z]{3})/i', $noVoile, $matches ) ) {
+		return strtoupper( $matches[1] );
+	}
 	$ligueNom = strtolower( $ligueNom );
 	switch ( $ligueNom ) {
 		case 'belgique':
@@ -89,8 +98,8 @@ if ( false !== ( $handle = fopen( $argv[1], 'r' ) ) ) {
 		}
 		if ( $helm ) {
 			$racedata[ $row ] = array(
-				int5o5_country( $one[ $map['ligueNom'] ] ),
-				$one[ $map['noVoile'] ],
+				int5o5_country( $one[ $map['ligueNom'] ], $one[ $map['noVoile'] ] ),
+				preg_replace( '/[^\d]+/', '', $one[ $map['noVoile'] ] ),
 				int505_capitalize( $one[ $map['prenom'] ] . ' ' . $one[ $map['nom'] ] ),
 				'crew name',
 				$one[ $map['clubNom'] ],
@@ -166,6 +175,13 @@ if ( 0 < $withraw ) {
 			}
 		}
 	}
+}
+/**
+ * debug
+ */
+if ( $debug ) {
+	print_r( $racedata );
+	die;
 }
 /**
  * Override file
