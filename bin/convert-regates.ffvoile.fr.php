@@ -50,7 +50,6 @@ function int505_capitalize( $string ) {
 	$string = str_replace( ' De ', ' de ', $string );
 	$string = str_replace( ' Des ', ' des ', $string );
 	$string = str_replace( ' Le ', ' le ', $string );
-	$string = str_replace( ' Van ', ' van ', $string );
 	$string = str_replace( ' Von ', ' von ', $string );
 	return $string;
 }
@@ -71,12 +70,14 @@ function int5o5_country( $ligueNom, $noVoile ) {
 	}
 	$ligueNom = strtolower( $ligueNom );
 	switch ( $ligueNom ) {
+		case 'australie':
+			return 'AUS';
 		case 'belgique':
 			return 'BEL';
-		case 'x':
-			return 'GBR';
 		case 'france':
 			return 'FRA';
+		case 'grande bretagne':
+			return 'GBR';
 		case 'luxembourg':
 			return 'LUX';
 		case 'suisse':
