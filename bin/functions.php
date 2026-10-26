@@ -386,6 +386,16 @@ function int505_person_get_date_to( $name ) {
 	return int505_person_get_date( $name, 'to' );
 }
 
+function int505_capitalize( $string ) {
+	$string = ucwords( $string );
+	$string = str_replace( ' De ', ' de ', $string );
+	$string = str_replace( ' Des ', ' des ', $string );
+	$string = str_replace( ' Le ', ' le ', $string );
+	$string = str_replace( ' Van ', ' van ', $string );
+	$string = str_replace( ' Von ', ' von ', $string );
+	return $string;
+}
+
 function int505_translate_color( $color ) {
 	$colors = array(
 		'aliceblue'            => '#f0f8ff',

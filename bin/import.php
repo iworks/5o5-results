@@ -775,6 +775,13 @@ if ( $import_results && ( $handle = fopen( $data_root . '/' . $import_config['ev
 					case 'iworks_fleet_result_number_of_competitors':
 						$value = intval( $value );
 						break;
+					case 'iworks_fleet_result_columns':
+						$value = array();
+						for ( $i = $index; $i < sizeof( $data ); $i++ ) {
+							$value[] = $data[ $i ];
+						}
+						$value = implode( "\n", $value );
+						break;
 				}
 			}
 			$$key = trim( $value );
