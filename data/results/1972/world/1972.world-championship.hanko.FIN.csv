@@ -1,76 +1,76 @@
-Nation,Boat,Helm,Crew,Club,Race 1,Points,Place
-FRA,4420,Nicolas Loday,Nicolas Fédorenko,CNBP,,57,1
-FRA,4390,Bruno Lévesque,Jean-Luc Bapst,SNO,,59,2
-FIN,4335,Kari Wilén,Jyri Wilén,NJK,,"59,7",3
-GBR,4382,Derek Farrant,Bev Moss,Hastings,,64,4
-GBR,4450,John Loveday,Terry,Ogston,,65,5
-SWE,3991,Ulf Andersson,Lun Quist,KSSS,,"71,7",6
-SWE,3956,Bennett Thörner,Thörner,MSS,,"75,7",7
-SWE,4316,Stefan Sjostrom,Reine Andersson,HJ BK,,"76,4",8
-FRA,3596,Patrick Haegeli,Brodard,CVP,,"85,7",9
-GBR,4321,Robert Napier,Geoff Rae,WCSC,,89,10
-,,,,,,,11
-FRA,4139,Marcel Buffet,Stéphane Fleury,CVP,,93,12
-,,,,,,,13
-,,,,,,,14
-GBR,4083,John Turngoose,,,,,15
-GBR,4079,Hugh Bourn,,,,,16
-,,,,,,,17
-MAR,4217,Georges le Troquer,Wladimir Dombrowski,YCPR,,130,18
-FRA,4341,P. Nesseler,Ph. Nesseler,CVE,,135,19
-,,,,,,,20
-,,,,,,,21
-FRA,4325,Patrick Oeuvrard,Mageux,CVP,,147,22
-,,,,,,,23
-FRA,4460,Marc Bouet,Guillaume Lévesque,SNO,,161,24
-,,,,,,,25
-,,,,,,,26
-FRA,3732,Bernard Reynier,Thierry Moreau-Defarges,CVP,,171,27
-,,,,,,,28
-,,,,,,,29
-FRA,4500,Jean-Marie Daniélou,Jean-Charles Gillet,CVP,,184,30
-,,,,,,,31
-FRA,4332,Jean-Pierre Bouvet,Chaigne,CNBP,,188,32
-,,,,,,,33
-FRA,4224,Pierre Gadel,Philippe Sérane,CN VC,,"189,7",34
-,,,,,,,35
-FRA,3949,Nicolas,Courty,C VT,,194,36
-,,,,,,,37
-,,,,,,,38
-,,,,,,,39
-,,,,,,,40
-,,,,,,,41
-,,,,,,,42
-,,,,,,,43
-FRA,4478,François Riche,B. Riche,SRD,,213,44
-,,,,,,,45
-,,,,,,,46
-,,,,,,,47
-,,,,,,,48
-,,,,,,,49
-,,,,,,,50
-,,,,,,,51
-,,,,,,,52
-,,,,,,,53
-,,,,,,,54
-,,,,,,,55
-,,,,,,,56
-FRA,4122,Guillaume,Richard,SNM,,240,57
-,,,,,,,58
-FRA,4188,Lacaza,Menanteau,CNC,,253,59
-,,,,,,,60
-,,,,,,,61
-,,,,,,,62
-,,,,,,,63
-,,,,,,,64
-,,,,,,,65
-,,,,,,,66
-,,,,,,,67
-,,,,,,,68
-,,,,,,,69
-,,,,,,,70
-,,,,,,,71
-,,,,,,,72
-,,,,,,,73
-,,,,,,,74
-,,,,,,,75
+Country,Boat Number,Helm,Crew,Club,Race 1,Race 2,Race 3,Race 4,Race 5,Race 6,Boat Name,Points Total,Points Netto,Place
+FRA,4420,Nicolas Loday,Nicolas Fédorenko,CNBP,,2,,,,14,,,58,1
+FRA,4390,Bruno Lévesque,Jean-Luc Bapst,SNO,,,,1,,2,,,59,2
+FIN,4335,Kari Wilén,Jyri Wilén,NJK,,,1,,,,Loco VIII,,"59,7",3
+GBR,4382,Derek Farrant,Bev Moss,Hastings,,,DSQ,,,1,Miss VIII,,64,4
+GBR,4450,John Loveday,Terry,Ogston,,1,,,1,,Born Wild,,66,5
+SWE,3991,Ulf Andersson,Lun Quist,KSSS,,,,,,,,,"70,4",6
+SWE,3956,Bennett Thörner,Thörner,MSS,,,,,,,Mirage,,"72,7",7
+SWE,4316,Stefan Sjöström,Reine Andersson,HJ BK,,,,,,,,,"76,7",8
+FRA,3596,Patrick Haegeli,Brodard,CVP,,,,,,,,,"77,4",9
+GBR,4321,Robert Napier,Geoff Rae,WCSC,,,,,,,Mersey Beat,,90,10
+,,,,,,,,,,,,,,11
+FRA,4139,Marcel Buffet,Stéphane Fleury,CVP,,,,,,,,,93,12
+,,,,,,,,,,,,,,13
+,,,,,,,,,,,,,,14
+GBR,4083,John Turngoose,,,,,,,,,,,,15
+GBR,4079,Hugh Bourn,,,,,,,,,,,,16
+,,,,,,,,,,,,,,17
+MAR,4217,Georges le Troquer,Wladimir Dombrowski,YCPR,,,,,,,,,"113,7",18
+FRA,4341,P. Nesseler,Ph. Nesseler,CVE,,,,,,,,,116,19
+,,,,,,,,,,,,,,20
+,,,,,,,,,,,,,,21
+FRA,4325,Patrick Oeuvrard,Mageux,CVP,,,,,,,,,147,22
+,,,,,,,,,,,,,,23
+FRA,4460,Marc Bouet,Guillaume Lévesque,SNO,,,,,,,,,161,24
+,,,,,,,,,,,,,,25
+,,,,,,,,,,,,,,26
+FRA,3732,Bernard Reynier,Thierry Moreau-Defarges,CVP,,,,,,,,,171,27
+,,,,,,,,,,,,,,28
+,,,,,,,,,,,,,,29
+FRA,4500,Jean-Marie Daniélou,Jean-Charles Gillet,CVP,,,,,,,,,184,30
+,,,,,,,,,,,,,,31
+FRA,4332,Jean-Pierre Bouvet,Chaigne,CNBP,,,,,,,,,188,32
+,,,,,,,,,,,,,,33
+FRA,4224,Pierre Gadel,Philippe Sérane,CN VC,,,,,,,,,"189,7",34
+,,,,,,,,,,,,,,35
+FRA,3949,Nicolas,Courty,C VT,,,,,,,,,194,36
+,,,,,,,,,,,,,,37
+,,,,,,,,,,,,,,38
+,,,,,,,,,,,,,,39
+,,,,,,,,,,,,,,40
+,,,,,,,,,,,,,,41
+,,,,,,,,,,,,,,42
+,,,,,,,,,,,,,,43
+FRA,4478,François Riche,B. Riche,SRD,,,,,,,,,213,44
+,,,,,,,,,,,,,,45
+,,,,,,,,,,,,,,46
+,,,,,,,,,,,,,,47
+,,,,,,,,,,,,,,48
+,,,,,,,,,,,,,,49
+,,,,,,,,,,,,,,50
+,,,,,,,,,,,,,,51
+,,,,,,,,,,,,,,52
+,,,,,,,,,,,,,,53
+,,,,,,,,,,,,,,54
+,,,,,,,,,,,,,,55
+,,,,,,,,,,,,,,56
+FRA,4122,Guillaume,Richard,SNM,,,,,,,,,240,57
+,,,,,,,,,,,,,,58
+FRA,4188,Lacaza,Menanteau,CNC,,,,,,,,,253,59
+,,,,,,,,,,,,,,60
+,,,,,,,,,,,,,,61
+,,,,,,,,,,,,,,62
+,,,,,,,,,,,,,,63
+,,,,,,,,,,,,,,64
+,,,,,,,,,,,,,,65
+,,,,,,,,,,,,,,66
+,,,,,,,,,,,,,,67
+,,,,,,,,,,,,,,68
+GBR,,Rick West,,,,DNF,,,,,Randy Ricky,,,?
+GBR,,Wilson,Wilson,,,,,,,,,,,?
+USA,,Owen,Owen,,,,,,,,Atzuma,,,?
+GBR,,Don Bowles,,,,DNF,13,,,,,,,?
+GBR,,Mike Platts,,,,DNF,,,,,,,,?
+HKG,,Eric Lockyear,Roland Lennox-King,,,,,,,,China Doll,,,?
+GBR,,John Donnelly,Martin Auger,,14,,,,,,Treble Rebel,,,?
