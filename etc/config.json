@@ -1,5 +1,6 @@
 {
     "events": "events-list.csv",
     "sailors": "sailors.csv",
-    "boats": "registry.csv"
+    "boats": "registry.csv",
+    "clubs": "clubs/clubs.csv"
 }

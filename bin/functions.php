@@ -304,6 +304,36 @@ function int505_import_fix_year( $year, $pointer = 'begin' ) {
 	return sprintf( '%d-01-01', $year );
 }
 
+/**
+ * Find or create a club term and return its ID (0 on failure).
+ *
+ * @param string $name Club name.
+ * @return int
+ */
+function int505_get_club_term_id( $name ) {
+	static $cache = array();
+	$name = trim( (string) $name );
+	if ( empty( $name ) ) {
+		return 0;
+	}
+	if ( isset( $cache[ $name ] ) ) {
+		return $cache[ $name ];
+	}
+	$taxonomy = 'iworks_fleet_club';
+	$term_id  = 0;
+	$term     = get_term_by( 'name', $name, $taxonomy );
+	if ( ! $term ) {
+		$result = wp_insert_term( $name, $taxonomy );
+		if ( ! is_wp_error( $result ) ) {
+			$term_id = intval( $result['term_id'] );
+		}
+	} else {
+		$term_id = intval( $term->term_id );
+	}
+	$cache[ $name ] = $term_id;
+	return $term_id;
+}
+
 function int505_echo_dot( $counter, $type = 'success', $mode = 'simple' ) {
 	if ( 'detailed' === $mode && 0 === $counter % 10 ) {
 		echo ' ';

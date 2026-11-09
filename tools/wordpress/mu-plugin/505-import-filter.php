@@ -7800,7 +7800,39 @@ class iworks_5o5_upload_fixer {
 		add_filter( 'iworks_fleet_result_clear_person_name', array( $this, 'person' ), 11, 1 );
 		add_filter( 'wp_insert_post_data', array( $this, 'person_before_insert' ), PHP_INT_MAX, 2 );
 		add_filter( 'iworks_fleet_result_upload_person_with_boat', array( $this, 'person_with_boat_id' ), 10, 2 );
+		add_action( 'iworks_fleet_result_import_club', array( $this, 'club' ), 10, 2 );
 		add_action( 'wp_head', array( $this, 'wp_head' ) );
+	}
+
+	/**
+	 * Bind a yacht club from a result row to the club taxonomy
+	 * and attach it to the helmsman and crew.
+	 *
+	 * @param string $club    Club name from the result CSV.
+	 * @param array  $regatta Regatta row data with helm_id and crew_id.
+	 */
+	public function club( $club, $regatta ) {
+		$club = trim( (string) $club );
+		if ( empty( $club ) ) {
+			return;
+		}
+		$taxonomy = 'iworks_fleet_club';
+		$term     = get_term_by( 'name', $club, $taxonomy );
+		if ( ! $term ) {
+			$result = wp_insert_term( $club, $taxonomy );
+			if ( is_wp_error( $result ) ) {
+				return;
+			}
+			$term_id = intval( $result['term_id'] );
+		} else {
+			$term_id = intval( $term->term_id );
+		}
+		foreach ( array( 'helm_id', 'crew_id' ) as $key ) {
+			$person_id = isset( $regatta[ $key ] ) ? intval( $regatta[ $key ] ) : 0;
+			if ( 0 < $person_id ) {
+				wp_set_object_terms( $person_id, $term_id, $taxonomy, true );
+			}
+		}
 	}
 
 	public function wp_head() {
