@@ -305,7 +305,10 @@ function int505_import_fix_year( $year, $pointer = 'begin' ) {
 }
 
 /**
- * Find or create a club term and return its ID (0 on failure).
+ * Find a club term and return its ID (0 when missing).
+ *
+ * Only clubs already present in the taxonomy (imported from
+ * clubs.csv) are matched; unknown names are not created.
  *
  * @param string $name Club name.
  * @return int
@@ -322,12 +325,7 @@ function int505_get_club_term_id( $name ) {
 	$taxonomy = 'iworks_fleet_club';
 	$term_id  = 0;
 	$term     = get_term_by( 'name', $name, $taxonomy );
-	if ( ! $term ) {
-		$result = wp_insert_term( $name, $taxonomy );
-		if ( ! is_wp_error( $result ) ) {
-			$term_id = intval( $result['term_id'] );
-		}
-	} else {
+	if ( $term ) {
 		$term_id = intval( $term->term_id );
 	}
 	$cache[ $name ] = $term_id;

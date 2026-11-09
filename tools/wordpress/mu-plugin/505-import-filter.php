@@ -7808,6 +7808,9 @@ class iworks_5o5_upload_fixer {
 	 * Bind a yacht club from a result row to the club taxonomy
 	 * and attach it to the helmsman and crew.
 	 *
+	 * Only clubs already present in the taxonomy (imported from
+	 * clubs.csv) are bound; unknown names are ignored.
+	 *
 	 * @param string $club    Club name from the result CSV.
 	 * @param array  $regatta Regatta row data with helm_id and crew_id.
 	 */
@@ -7819,14 +7822,9 @@ class iworks_5o5_upload_fixer {
 		$taxonomy = 'iworks_fleet_club';
 		$term     = get_term_by( 'name', $club, $taxonomy );
 		if ( ! $term ) {
-			$result = wp_insert_term( $club, $taxonomy );
-			if ( is_wp_error( $result ) ) {
-				return;
-			}
-			$term_id = intval( $result['term_id'] );
-		} else {
-			$term_id = intval( $term->term_id );
+			return;
 		}
+		$term_id = intval( $term->term_id );
 		foreach ( array( 'helm_id', 'crew_id' ) as $key ) {
 			$person_id = isset( $regatta[ $key ] ) ? intval( $regatta[ $key ] ) : 0;
 			if ( 0 < $person_id ) {

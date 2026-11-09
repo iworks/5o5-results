@@ -149,6 +149,121 @@ if ( 2 < count( $argv ) ) {
 	$import_results = true;
 }
 /**
+ * import clubs
+ */
+$taxonomy_name_club = 'iworks_fleet_club';
+if ( $import_clubs && ( $handle = fopen( $data_root . '/' . $import_config['clubs'], 'r' ) ) !== false ) {
+	$time_start['clubs']['begin'] = microtime( true );
+	echo PHP_EOL, 'IMPORT: ', $import_config['clubs'], PHP_EOL;
+	$counter = 0;
+	/**
+	 * skip header
+	 */
+	fgetcsv( $handle, 0, ',', '"', '\\' );
+	while ( ( $data = fgetcsv( $handle, 0, ',', '"', '\\' ) ) !== false ) {
+		if ( 2 > count( $data ) || empty( trim( $data[1] ) ) ) {
+			int505_echo_dot( $counter, 'fail' );
+			++$counter;
+			continue;
+		}
+		/**
+		 * 0 Country
+		 * 1 Name
+		 * 2 Short
+		 * 3 City
+		 * 4 Website
+		 */
+		$country = trim( $data[0] );
+		$name    = trim( $data[1] );
+		$short   = isset( $data[2] ) ? trim( $data[2] ) : '';
+		$city    = isset( $data[3] ) ? trim( $data[3] ) : '';
+		$website = isset( $data[4] ) ? trim( $data[4] ) : '';
+		/**
+		 * create term if it does not exist
+		 */
+		$term = term_exists( $name, $taxonomy_name_club );
+		if ( empty( $term ) ) {
+			$term = wp_insert_term( $name, $taxonomy_name_club );
+		}
+		if ( is_wp_error( $term ) ) {
+			int505_echo_dot( $counter, 'fail' );
+			++$counter;
+			continue;
+		}
+		$term_id = is_array( $term ) ? intval( $term['term_id'] ) : intval( $term );
+		update_term_meta( $term_id, 'iworks_fleet_club_country', $country );
+		update_term_meta( $term_id, 'iworks_fleet_club_city', $city );
+		if ( ! empty( $short ) ) {
+			update_term_meta( $term_id, 'iworks_fleet_club_short', $short );
+		}
+		if ( ! empty( $website ) ) {
+			update_term_meta( $term_id, 'iworks_fleet_social_website', $website );
+		}
+		/**
+		 * try to set logo
+		 */
+		$logo_file = false;
+		if ( ! empty( $short ) ) {
+			foreach ( array( 'png', 'jpg', 'jpeg', 'gif', 'webp', 'svg' ) as $extenstion ) {
+				$pattern = $data_root . '/clubs/*/' . strtolower( $country ) . '/' . strtolower( $short ) . '.' . $extenstion;
+				$matches = glob( $pattern );
+				if ( ! empty( $matches ) ) {
+					$logo_file = $matches[0];
+					break;
+				}
+			}
+		}
+		if ( $logo_file ) {
+			$filename  = basename( $logo_file );
+			$attach_id = 0;
+			$args      = array(
+				'post_type'      => 'attachment',
+				'post_status'    => 'inherit',
+				'meta_key'       => '_import_name',
+				'meta_value'     => $filename,
+				'posts_per_page' => 1,
+				'fields'         => 'ids',
+			);
+			$img_query = new WP_Query( $args );
+			if ( ! empty( $img_query->posts ) ) {
+				$attach_id = $img_query->posts[0];
+			}
+			/**
+			 * file not exists, import it
+			 */
+			if ( 1 > $attach_id ) {
+				$image_data = file_get_contents( $logo_file );
+				$upload_dir = wp_upload_dir();
+				if ( wp_mkdir_p( $upload_dir['path'] ) ) {
+					$thumbnail = $upload_dir['path'] . '/' . $filename;
+				} else {
+					$thumbnail = $upload_dir['basedir'] . '/' . $filename;
+				}
+				file_put_contents( $thumbnail, $image_data );
+				$filetype   = wp_check_filetype( $thumbnail, null );
+				$attachment = array(
+					'guid'           => basename( $thumbnail ),
+					'post_mime_type' => $filetype['type'],
+					'post_title'     => $name,
+					'post_content'   => '',
+					'post_status'    => 'inherit',
+				);
+				$attach_id  = wp_insert_attachment( $attachment, $thumbnail );
+				add_post_meta( $attach_id, '_import_name', $filename, true );
+				$attach_data = wp_generate_attachment_metadata( $attach_id, $thumbnail );
+				wp_update_attachment_metadata( $attach_id, $attach_data );
+			}
+			if ( 0 < $attach_id ) {
+				update_term_meta( $term_id, 'image', $attach_id );
+			}
+		}
+		int505_echo_dot( $counter );
+		++$counter;
+	}
+	$time_start['clubs']['end'] = microtime( true );
+}
+
+/**
  * import sailors
  */
 if ( $import_sailors && ( $handle = fopen( $data_root . '/' . $import_config['sailors'], 'r' ) ) !== false ) {
@@ -281,121 +396,6 @@ if ( $import_sailors && ( $handle = fopen( $data_root . '/' . $import_config['sa
 		++$counter;
 	}
 	$time_start['sailors']['end'] = microtime( true );
-}
-
-/**
- * import clubs
- */
-$taxonomy_name_club = 'iworks_fleet_club';
-if ( $import_clubs && ( $handle = fopen( $data_root . '/' . $import_config['clubs'], 'r' ) ) !== false ) {
-	$time_start['clubs']['begin'] = microtime( true );
-	echo PHP_EOL, 'IMPORT: ', $import_config['clubs'], PHP_EOL;
-	$counter = 0;
-	/**
-	 * skip header
-	 */
-	fgetcsv( $handle, 0, ',', '"', '\\' );
-	while ( ( $data = fgetcsv( $handle, 0, ',', '"', '\\' ) ) !== false ) {
-		if ( 2 > count( $data ) || empty( trim( $data[1] ) ) ) {
-			int505_echo_dot( $counter, 'fail' );
-			++$counter;
-			continue;
-		}
-		/**
-		 * 0 Country
-		 * 1 Name
-		 * 2 Short
-		 * 3 City
-		 * 4 Website
-		 */
-		$country = trim( $data[0] );
-		$name    = trim( $data[1] );
-		$short   = isset( $data[2] ) ? trim( $data[2] ) : '';
-		$city    = isset( $data[3] ) ? trim( $data[3] ) : '';
-		$website = isset( $data[4] ) ? trim( $data[4] ) : '';
-		/**
-		 * create term if it does not exist
-		 */
-		$term = term_exists( $name, $taxonomy_name_club );
-		if ( empty( $term ) ) {
-			$term = wp_insert_term( $name, $taxonomy_name_club );
-		}
-		if ( is_wp_error( $term ) ) {
-			int505_echo_dot( $counter, 'fail' );
-			++$counter;
-			continue;
-		}
-		$term_id = is_array( $term ) ? intval( $term['term_id'] ) : intval( $term );
-		update_term_meta( $term_id, 'iworks_fleet_club_country', $country );
-		update_term_meta( $term_id, 'iworks_fleet_club_city', $city );
-		if ( ! empty( $short ) ) {
-			update_term_meta( $term_id, 'iworks_fleet_club_short', $short );
-		}
-		if ( ! empty( $website ) ) {
-			update_term_meta( $term_id, 'iworks_fleet_social_website', $website );
-		}
-		/**
-		 * try to set logo
-		 */
-		$logo_file = false;
-		if ( ! empty( $short ) ) {
-			foreach ( array( 'png', 'jpg', 'jpeg', 'gif', 'webp', 'svg' ) as $extenstion ) {
-				$pattern = $data_root . '/clubs/*/' . strtolower( $country ) . '/' . strtolower( $short ) . '.' . $extenstion;
-				$matches = glob( $pattern );
-				if ( ! empty( $matches ) ) {
-					$logo_file = $matches[0];
-					break;
-				}
-			}
-		}
-		if ( $logo_file ) {
-			$filename  = basename( $logo_file );
-			$attach_id = 0;
-			$args      = array(
-				'post_type'      => 'attachment',
-				'post_status'    => 'inherit',
-				'meta_key'       => '_import_name',
-				'meta_value'     => $filename,
-				'posts_per_page' => 1,
-				'fields'         => 'ids',
-			);
-			$img_query = new WP_Query( $args );
-			if ( ! empty( $img_query->posts ) ) {
-				$attach_id = $img_query->posts[0];
-			}
-			/**
-			 * file not exists, import it
-			 */
-			if ( 1 > $attach_id ) {
-				$image_data = file_get_contents( $logo_file );
-				$upload_dir = wp_upload_dir();
-				if ( wp_mkdir_p( $upload_dir['path'] ) ) {
-					$thumbnail = $upload_dir['path'] . '/' . $filename;
-				} else {
-					$thumbnail = $upload_dir['basedir'] . '/' . $filename;
-				}
-				file_put_contents( $thumbnail, $image_data );
-				$filetype   = wp_check_filetype( $thumbnail, null );
-				$attachment = array(
-					'guid'           => basename( $thumbnail ),
-					'post_mime_type' => $filetype['type'],
-					'post_title'     => $name,
-					'post_content'   => '',
-					'post_status'    => 'inherit',
-				);
-				$attach_id  = wp_insert_attachment( $attachment, $thumbnail );
-				add_post_meta( $attach_id, '_import_name', $filename, true );
-				$attach_data = wp_generate_attachment_metadata( $attach_id, $thumbnail );
-				wp_update_attachment_metadata( $attach_id, $attach_data );
-			}
-			if ( 0 < $attach_id ) {
-				update_term_meta( $term_id, 'image', $attach_id );
-			}
-		}
-		int505_echo_dot( $counter );
-		++$counter;
-	}
-	$time_start['clubs']['end'] = microtime( true );
 }
 
 /**
