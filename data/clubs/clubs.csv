@@ -1,17 +1,118 @@
 Country,Name,Short,City,Website
-RSA,Point Yacht Club,PYC,Durban,https://pyc.co.za/
+AUS,Adelaide Sailing Club,ASC,Adelaide,https://www.adelaidesailingclub.com.au/
+AUS,Darling Point Sailing Squadron,DPSS,Brisbane,https://www.dpss.org.au/
+AUS,Fremantle Sailing Club,FSC,Fremantle,https://www.fsc.com.au
+AUS,Middle Harbour Yacht Club,MHYC,Sydney,https://mhyc.com.au/
+AUS,The Brighton & Seacliff Yacht Club,BSYC,Adelaide,https://www.bsyc.com.au/
+BEL,Sports Nautiques de l’Eau d’Heure,SNEH,La Platte Taile,https://www.sneh.be
+BER,The Royal Bermuda Yacht Club,RBYC,Hamilton,https://www.rbyc.bm/
+CAN,Britannia Yacht Club,BYC3,Ottawa,https://byc.ca/
+CAN,Etobicoke Yacht Club,EYC,Toronto,https://www.eyc.ca/
+CAN,Kingston Yacht Club,KYC2,Kingston,https://kingstonyachtclub.com
+CAN,Kitsilano Yacht Club,KYC3,Vancouver,https://www.kitsilanoyachtclub.com
+CAN,Nepean Sailing Club,NSC,Ottawa,https://nsc.ca
+CAN,Outer Harbour Centreboard Club,OHCX,Toronto,
+CAN,South Port Sailing Club,SPSC,Windsor,https://southportsailingclub.com
+DEN,Hellerup Sejlklub,HS,Hellerup,https://hellerupsejlklub.dk/
+DEN,Nykøbing Sjælland Sejlklub,NK-S,Nykøbing Sjælland,http://www.nk-s.dk/
+DEN,Skælskør Amatør-Sejlklub,SAS,Skælskør,https://sejlsas.dk
+DEN,Sønderborg Yacht-Club,SYC3,Sønderborg,https://www.syc.dk/
+DEN,Vallensbæk sejlklub,VS,Vallensbæk Strand,
+FIN,Espoon Merenkävijät ry,EMK,Syysregatta,https://emk.fi/
+FIN,Hangö Segelförening rf.,HSF,Östra Hamnen,https://hsf.fi/
+FIN,Turun Pursiseura - Turku Yacht Club,TuPS,"Ruissalo,Turku",https://www.turunpursiseura.fi
+FRA,Aquatic Club d'Alsace Lorraine,ACAL,Strasbourg,
+FRA,ASPTT Troyes Section Voile,ASPTT,Troyes,
+FRA,C.V. Centre,CVC,Bruyères,
+FRA,C.Y.V.P. Yachting Center Sail Pareloup,CYVP,Salles-Curan,
+FRA,Cercle de la Voile Bordeaux Carcans Maubuisson,CVBCM,Carcans,https://cerclevoilebordeaux.com/
+FRA,Cercle de la Voile de Bordeaux,CVB,Carcans-Maubuisson,https://cerclevoilebordeaux.com
+FRA,Cercle de la Voile de Lyon,CVLM,Lyon,https://cvlm.club/
+FRA,Cercle de la Voile de Paris,CVP,Les Mureaux,https://cercledelavoiledeparis.fr/
 FRA,Cercle de Voile de Moisson Lavacourt,CVML,Moisson,http://www.cvml.fr/
 FRA,Cercle des Nageurs d'Antibes,CN Antibes,Antibes,https://www.cnantibes.com
-FRA,La Rochelle Nautique,,La Rochelle,https://www.larochellenautique.com/
+FRA,Club de Voile de Saint-Aubin-sur-Mer,CVSA,Saint-Aubin-sur-Mer,
+FRA,Club Nautique d'Antibes,CNA,Antibes,http://cna.antibes.free.fr
+FRA,Club Nautique de Viry Chatillon,CNVC,Viry-Châtillon,
+FRA,Club Nautique Haute Seine,CNHS,Anse de la Picarde,https://www.cnandresy.fr
+FRA,La Rochelle Nautique,LRN,La Rochelle,https://www.larochellenautique.com/
 FRA,Le Cercle Nautique La Baule Le Pouliguen Pornichet,CNBPP,Le Pouliguen,https://www.cnbpp.fr/
-FRA,Cercle de la Voile Bordeaux Carcans Maubuisson,CVBCM,Carcans,https://cerclevoilebordeaux.com/
-FRA,Sport Nautique et Plaisance du Havre ,SNPH,Le Havre,https://www.snph.org/
+FRA,S.R.C.O.,SRCO2,Quistreham,
+FRA,Société des Régates de Caen-Ouistreham,SRCO,Ouistreham,https://www.srco.fr/
+FRA,Société des Régates Rochelaises,SRR,La Rochelle,
 FRA,Sport Nautique de l'Ouest,SNO NANTES,Carquefou,https://www.snonantes.fr/
+FRA,Sport Nautique et Plaisance du Havre ,SNPH,Le Havre,https://www.snph.org/
+FRA,Yacht club de Cannes,YCC,Cannes,https://www.yachtclubdecannes.org/
+FRA,Yacht Club de Cavalaire,YCDC,Cavalaire-sur-Mer,
+FRA,Yacht Club de l'Ile de France,YCIF,Les Mureaux,https://ycif.fr/
+FRA,Yacht Club de San Raphael,YCISR,Saint Raphaël,
+FRA,YCNancy,YCN,Nancy,http://ycnancy.free.fr/
+GBR,Burton Sailing Club,BurtonSC,Derby,https://www.burtonsailingclub.co.uk
+GBR,Felixstowe Ferry Sailing Club,FFSC,Felixstowe,https://ffsc.co.uk/
+GBR,Grafham Water Sailing Club,GWSC,Huntingdon,https://grafham.org
+GBR,Hayling Island Sailing Club,HISC,Hayling Island,https://www.hisc.co.uk
+GBR,Lyme Regis Sailing Club,LRSC,Lyme Regis,https://lymeregissailingclub.com/
+GBR,Mount's Bay Sailing Club,MBSC2,Marazion,
+GBR,Queen Mary Sailing Club,QMSC,Ashford,
+GBR,South Caernarvonshire Yacht Club,SCYC2,Abersoch,https://www.scyc.co.uk/
+GER,Berliner Yacht-Club e.V.,BYC2,Berlin,https://www.byc.berlin/
+GER,Cospudener Yacht Club Markkleeberg e.V.,CYCM,Markkleeberg,https://www.cycm.de
+GER,Deutscher Touring Yacht-Club e.V.,DTYC,Tutzing,https://www.dtyc.de
+GER,Flensburger Segel-Club e.V.,FSC2,Glücksburg,https://www.fsc.de
+GER,Herrschinger Segelclub e.V.,HSC,Herrsching a. Ammersee,https://www.herrschinger-segelclub.de
+GER,Jollensegler Reichenau e.V.,JSR,Yachthafen Insel Reichenau,https://jollenseglerreichenau.de/
+GER,Kieler Yacht-Club e.V.,KYC,Kiel,https://www.kyc.de
+GER,Lübecker Yacht-Club e.V.,LYC,Travemünde,https://www.lyc.de
+GER,Münchner Yacht-Club e. V.,MYC,Starnberg,https://www.myc.de
+GER,Potsdamer Yacht Club e.V.,PYC2,Berlin,https://www.pyc.de/
+GER,Schaumburg Lippischer Segelverein,SLSV,Wunstorf,https://www.slsv.de/
+GER,Schweriner Segler-Verein v. 1894 e.V.,SSVV,Schwerin,
+GER,Segelclub Walchensee e.V.,SCLW,Kochel am See,https://www.sclw.de
+GER,Verein Seglerhaus am Wannsee,VSaW,Berlin,https://www.vsaw.de
+GER,Warnemünder Segel-Club e. V.,WSC,Warnemünde,https://www.wscev.de
+GER,Wassersport-Club am Wittensee e.V.,WSCW,Wittensee,https://www.wscw.de
+IRL,Monkstown Bay Sailing Club,MBSC,Cork,https://mbsc.ie
+IRL,Royal Cork Yacht Club,RCYC,Cork,https://www.royalcork.com/
+ITA,Club Nautico San Bartolomeo al Mare,CNSB,San Bartolomeo al Mare,
+ITA,Fraglia Vela Riva,FVR,Riva del Garda,https://fragliavelariva.it
+POL,Klub Żeglarski “Mewa”,MEWA,Poznań,https://mewa.poznan.pl/
+POL,Marina Galion,Galion,Górki Zachodnie,
+POL,Yacht Klub Stal Gdynia,YKStal,Gdynia,https://www.ykstal.org.pl
+POL,Zbąszyński Klub Żeglarski,ZKZ,Zbąszyń,http://www.zkz.hd.pl
+RSA,Aeolians Sailing Club,AEOL,Vaal Dam,https://aeolians.co.za
+RSA,Algoa Bay Yacht Club,ABYC2,Port Elizabeth,https://abyc.org.za/
+RSA,Point Yacht Club,PYC,Durban,https://pyc.co.za/
 RSA,Pretoria Sailing Club,PSC,Rietvlei Dam,https://psc.org.za/
 RSA,Stilbaai Yacht Club,SYC,Vaal Dam,https://www.stilbaaiyachtclub.co.za/
-FRA,Club de Voile de Saint-Aubin-sur-Mer,CVSA,Saint-Aubin-sur-Mer,
-CAN,Etobicoke Yacht Club,EYC,Toronto,https://www.eyc.ca/
-DEN,Nykøbing Sjælland Sejlklub,NK-S,Nykøbing Sjælland,http://www.nk-s.dk/
-GER,Jollensegler Reichenau e.V.,JSR,Yachthafen Insel Reichenau,https://jollenseglerreichenau.de/
+RSA,Victoria Lake Club,VLC,Germiston,https://victorialakeclub.co.za
+SUI,Cercle de la voile de Neuchâtel,CVN,Neuchâtel,https://www.cvn.ch/
+SWE,Björlanda Kile Segelsällskap,BKSS,Torslanda,https://bkss.se
+SWE,Kungliga Svenska Segel Sällskapet,KSSS,Saltsjöbaden,https://www.ksss.se
+SWE,Segelsällskapet Åmålsviken,SÅ,Segelsällskapet Viken-Ägir,
+SWE,Varbergs Segelsällskap,VS2,Varberg,
+USA,Alameda Community Sailing Center,ACSC,Alameda,https://www.sailalameda.org/
+USA,Alamitos Bay Yacht Club,ABYC,Long Beach,https://www.abyc.org
+USA,American Yacht Club,AYC,Rye,https://americanyc.org
+USA,Bellingham Yacht Club,BYC,Bellingham,https://byc.org
+USA,Bristol Yacht Club,BristolYC,Bristol,https://www.bristolyc.com/
+USA,Clearwater Community Sailing Center,CCSC,Clearwater,https://clearwatercommunitysailing.org
+USA,Corinthian Yacht Club of Seattle,CYCSeattle,Seattle,https://cycseattle.org
+USA,Coronado Yacht Club,CYC,Coronado,
+USA,Fishing Bay Yacht Club,FBYC,Deltaville,https://www.fbyc.net/
+USA,Hampton Yacht Club,HYC,Hampton,https://www.hamptonyc.com
+USA,Hoover Yacht Club,HooverYC,Westerville,https://hooversailingclub.com
+USA,Hyannis Yacht Club,HyannisYC,Hyannis,https://hyannisyachtclub.org/
+USA,Indiana University Yacht Club,IUYC,Bloomington,
+USA,Mission Bay Yacht Club,MBYC,San Diego,https://mbyc.org/
+USA,New Bedford Yacht Club,NBYC,South Dartmouth,https://www.nbyc.com
+USA,Penn Cove Yacht Club,PCYC,Port Townsend,
+USA,Richmond Yacht Club,RYC,Richmond,https://www.richmondyc.org
+USA,Sandusky Sailing Club,SanduskySC,Sandusky,https://sanduskysailingclub.com/
+USA,Santa Cruz Yacht Club,SCYC,Santa Cruz,https://www.scyc.org
+USA,Seattle Yacht Club,SYC2,Seattle,https://www.seattleyachtclub.org/
+USA,Severn Sailing Association,SSA,Annapolis,https://www.severnsailing.org
+USA,St. Francis Yacht Club,StFYC,San Francisco,https://www.stfyc.com
+USA,St. Petersburg Yacht Club,SPYC,St. Petersburg,https://www.spyc.org
+USA,Treasure Island Sailing Club,TISC,San Francisco,https://www.tisailing.org/
 USA,West River Sailing Club,WRSC,"Galesville, MD",https://www.westriversc.com/
-FRA,Yacht Club de l'Ile de France,YCIF,Les Mureaux,https://ycif.fr/
+USA,Wickford Yacht Club,WYC,North Kingstown,https://wickfordyc.com

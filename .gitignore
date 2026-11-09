@@ -3,3 +3,4 @@ etc/local.config.json
 data/test.csv
 _data
 .~lock.*
+.playwright-mcp/
