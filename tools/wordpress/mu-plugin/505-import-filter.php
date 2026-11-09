@@ -7452,7 +7452,7 @@ class iworks_5o5_upload_fixer {
 		'Virginie Laurrent'           => 'Virginie Laurent',
 		'Vi Stopp'                    => 'Victor Stopp',
 		'Vivien Luciennne'            => 'Vivien Lucienne',
-		'Vi Zimmermann'               => 'Vincent Ziommermann',
+		'Vi Zimmermann'               => 'Vincent Zimmermann',
 		'Voelckner Nici'              => 'Nicolai Völckner',
 		'Voelckner Nicolai'           => 'Nicolai Völckner',
 		'Vogt Jonas'                  => 'Jonas Vogt',
